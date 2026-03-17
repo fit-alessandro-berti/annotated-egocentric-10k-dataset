@@ -1,0 +1,38 @@
+Please transcribe the attached egocentric video into a very detailed chronological text description.
+
+I do not want a formal event log, structured schema, activity labels, or any kind of post-processing. I only want plain text entries, each beginning with a timestamp range, followed by a detailed description of what happens in that time span.
+
+Requirements:
+- Format every entry as:
+  [HH:MM:SS - HH:MM:SS] description
+- Follow the video strictly from start to end.
+- Use short timestamp intervals whenever something changes.
+- Be highly detailed, but do not repeat the same type of behavior again and again when nothing changes.
+- If the same action continues in the same way, with the same context and no relevant difference, merge it into one longer timestamped entry instead of splitting it into many repetitive entries.
+- Only create a new entry when something meaningful changes, such as:
+  - the action changes
+  - a new object is handled
+  - the person changes location
+  - attention shifts to something else
+  - another person becomes involved
+  - something unusual, problematic, interrupted, or different happens
+- Capture micro-actions when visible, such as reaching, grasping, lifting, placing, opening, closing, turning, walking, pausing, looking, adjusting, and interacting with objects or people.
+- Describe what is visible in the egocentric view, including hand movements, object handling, scene changes, and shifts of attention.
+- If a repeated behavior continues in exactly the same way, summarize that repeated stretch once with an appropriate timestamp range instead of listing each repetition separately.
+- If the scene is partially unclear, mention the uncertainty briefly instead of guessing.
+- Do not use tables, bullets, JSON, labels, categories, or analysis language.
+- Do not convert the result into an event log.
+- Do not add any summary at the end.
+- Only provide the timestamped descriptive transcription.
+
+The output should read like a detailed time-aligned narration of the video, not like a structured annotation file.
+
+Example of the intended compression:
+- Good:
+  [00:03:10 - 00:03:42] The wearer continues wiping the same section of the table with repeated back and forth hand movements. No new object or interruption appears.
+- Not desired:
+  [00:03:10 - 00:03:14] The wearer wipes the table.
+  [00:03:14 - 00:03:18] The wearer continues wiping the table.
+  [00:03:18 - 00:03:22] The wearer continues wiping the table.
+
+Please produce the full transcription in this style for the entire video.
