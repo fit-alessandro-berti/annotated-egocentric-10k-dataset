@@ -1,0 +1,57 @@
+[00:00:00 - 00:00:26] The wearer is at a workstation packing black metal parts. They take parts from a blue bin on their left, assemble them into pairs, and slide them into a clear plastic bag lying flat on the table in front of them. This process is repeated several times until the bag is filled with multiple pairs of parts.
+[00:00:26 - 00:00:30] Once the bag is full, the wearer folds the open top end over and uses a stapler to seal it shut, then moves the finished bag to their right.
+[00:00:30 - 00:01:07] The wearer picks up a new empty plastic bag, places it on the table, and resumes taking metal parts from the blue bin, pairing them, and sliding them into the bag. They continue this until the bag is full.
+[00:01:07 - 00:01:12] The wearer folds the top of the second bag, grabs the stapler, seals the bag shut, and sets it aside to the right.
+[00:01:12 - 00:01:54] The wearer starts another bag. They pull an empty bag towards them, open it, and continuously fill it with paired metal parts from the blue bin on the left.
+[00:01:54 - 00:02:00] The wearer folds the top of the filled bag, uses the stapler to seal it, and places it on the stack to their right.
+[00:02:00 - 00:02:40] A new empty bag is placed on the table. The wearer continues the repetitive task of retrieving metal parts from the left bin, aligning them into pairs, and inserting them into the bag until it is full.
+[00:02:40 - 00:02:47] The wearer folds the top of the bag, staples it closed, and moves it to the completed stack on the right.
+[00:02:47 - 00:02:54] The wearer picks up the stack of sealed plastic bags they have accumulated and walks away from the workstation.
+[00:02:54 - 00:03:00] The wearer approaches a large cardboard box lined with a plastic sheet, places the stack of sealed bags neatly inside it, and turns back.
+[00:03:00 - 00:03:36] Returning to the workstation, the wearer grabs another empty bag, places it in front of them, and resumes the process of pairing metal parts from the left bin and sliding them into the bag.
+[00:03:36 - 00:03:41] The bag is filled, so the wearer folds its top, staples it shut, and places it to their right.
+[00:03:41 - 00:04:23] The wearer starts another empty bag and continues filling it with pairs of metal parts in the same steady rhythm.
+[00:04:23 - 00:04:29] The wearer finishes filling the bag, folds the top, staples it, and moves it to the side.
+[00:04:29 - 00:05:08] A new empty bag is pulled forward, and the wearer fills it with paired metal components from the blue bin.
+[00:05:08 - 00:05:15] The wearer seals the filled bag by folding the top and stapling it, then sets it onto the finished stack.
+[00:05:15 - 00:06:01] The wearer grabs another empty bag, fills it with parts as before, and then gathers the entire stack of completed bags from the table.
+[00:06:01 - 00:06:04] The wearer walks over to the large cardboard box and carefully places the new stack of filled bags inside, arranging them beside the previous ones.
+[00:06:04 - 00:06:46] The wearer returns to the workstation, takes a fresh empty bag, and begins filling it with pairs of metal parts from the left bin.
+[00:06:46 - 00:06:50] The wearer folds the top of the completed bag, staples it shut, and sets it to the right.
+[00:06:50 - 00:07:30] The wearer starts a new bag, filling it with more metal parts from the blue bin.
+[00:07:30 - 00:07:35] The wearer finishes the bag, folds the top, staples it, and places it aside.
+[00:07:35 - 00:08:14] Another empty bag is taken and filled with metal parts in the same repetitive manner.
+[00:08:14 - 00:08:19] The wearer folds the top of the bag, staples it closed, and moves it to the right.
+[00:08:19 - 00:08:34] The wearer picks up the stack of completed bags, walks over to the large cardboard box, and places them neatly inside.
+[00:08:34 - 00:09:00] The wearer returns to the workstation, grabs a new empty bag, and starts filling it with parts from the left bin.
+[00:09:00 - 00:09:03] The wearer folds the top of the bag, staples it, and sets it aside.
+[00:09:03 - 00:09:42] The wearer pulls another empty bag forward and fills it with paired metal parts.
+[00:09:42 - 00:09:46] The wearer seals the filled bag by folding the top and stapling it.
+[00:09:46 - 00:10:25] The wearer begins filling a new bag with metal parts until it is full.
+[00:10:25 - 00:10:52] The wearer gathers the completed bags and turns away from the table. They retrieve a large, folded cardboard box, open it, and place a large blue plastic liner over it, preparing a new container. They then place their completed bags inside.
+[00:10:52 - 00:11:34] The wearer returns to packing. They grab an empty bag and start filling it with parts from the blue bin on the left.
+[00:11:34 - 00:11:41] The wearer seals the bag with a staple and sets it aside. A coworker across the table interacts with them briefly, handing over a small piece of paper.
+[00:11:41 - 00:12:15] The wearer starts filling another empty bag with parts.
+[00:12:15 - 00:12:20] The wearer finishes filling the bag, folds the top, staples it, and places it to the right.
+[00:12:20 - 00:12:48] The wearer starts another bag, continuing to fill it with paired metal parts.
+[00:12:48 - 00:13:00] The wearer gathers the finished bags from the table, walks over to the newly prepared cardboard box, and places the bags inside.
+[00:13:00 - 00:13:41] The wearer returns to the workstation, grabs a new empty bag, and fills it with parts.
+[00:13:41 - 00:13:45] The wearer seals the bag with a staple and sets it aside.
+[00:13:45 - 00:14:21] The wearer starts filling another empty bag with metal parts.
+[00:14:21 - 00:14:26] The wearer folds the top, staples the bag, and sets it aside.
+[00:14:26 - 00:15:00] The wearer begins filling a new bag with parts.
+[00:15:00 - 00:15:15] The wearer gathers the stack of finished bags, walks over to the cardboard box, and places them inside.
+[00:15:15 - 00:15:53] The wearer returns to the workstation, takes an empty bag, and starts filling it with parts.
+[00:15:53 - 00:16:11] The wearer finishes filling the bag, folds it, staples it, and moves it to the side. They then grab the stack of finished bags, walk over to the cardboard box, place the bags inside, and organize them.
+[00:16:11 - 00:16:47] The wearer returns to the workstation, takes an empty bag, and starts filling it with parts.
+[00:16:47 - 00:16:51] The wearer seals the bag with a staple and sets it aside.
+[00:16:51 - 00:17:28] The wearer starts filling another bag with parts.
+[00:17:28 - 00:17:33] The wearer folds the top of the bag, staples it, and places it to the right.
+[00:17:33 - 00:17:47] The wearer starts filling a new bag with parts.
+[00:17:47 - 00:18:03] The wearer walks away from the table, approaches a blue machine or air hose nearby, interacts with it briefly, and then walks back to their workstation.
+[00:18:03 - 00:18:29] The wearer is handed a printed document by a co-worker across the table. They place the document flat on the table and use a metal ruler to tear it precisely into smaller strips.
+[00:18:29 - 00:18:41] After finishing tearing the document, the wearer gathers the paper strips and places them into the blue bin on the left where the metal parts are stored.
+[00:18:41 - 00:19:10] The wearer resumes the packing task, grabbing an empty bag and filling it with metal parts.
+[00:19:10 - 00:19:20] A co-worker hands the wearer another printed document. The wearer places it on the table and uses the metal ruler to begin tearing it into strips.
+[00:19:20 - 00:19:57] The wearer continues meticulously tearing the paper into smaller strips using the metal ruler as a guide.
+[00:19:57 - 00:20:00] The video ends as the wearer finishes tearing the paper and places the remaining strips into the blue bin on the left.
