@@ -1,0 +1,69 @@
+[00:00:00 - 00:10:31] The wearer continuously performs a repetitive assembly task using a central metal jig mounted on their workstation. The assembly cycle follows a strict sequence: First, the wearer uses their right hand to reach into a blue bin on the right and pick up a U-shaped metal base bracket, which they place vertically into the central jig. Next, their left hand reaches into a blue bin directly in front of them to pick up a small flat metal lever, while their right hand simultaneously reaches into an adjacent bin to retrieve a small spring. The wearer brings both hands together at the jig, positions the spring alongside the lever, and places the combined components onto the base bracket so that their holes align. The wearer's right hand then reaches into a smaller blue bin on the top right to pick up a small metal pin. They insert the pin through the aligned holes of the bracket, lever, and spring. Once the pin is loosely inserted, the wearer uses their left hand to push down a handle on the jig, pressing the pin firmly into place. Finally, the wearer pulls the assembled mechanism off the jig with their right hand and tosses it off-screen to the left. The wearer repeats this exact assembly cycle dozens of times without interruption.
+
+[00:10:31 - 00:10:42] The wearer pauses the assembly process after tossing a finished part. They lean slightly to the left and use their left hand to reach into a blue bin located further to the left side of the workstation. They scoop up a handful of small flat metal levers and drop them into the central blue bin positioned directly in front of the jig. They repeat this scooping motion a second time to transfer more levers. Concurrently, the hand and pink sleeve of another person momentarily appear on the right edge of the workstation.
+
+[00:10:42 - 00:10:59] The wearer picks up a new base bracket and resumes the continuous, repetitive assembly cycle. They continue placing the bracket in the jig, aligning the lever and spring, inserting the pin, pressing down the jig handle, and tossing the completed parts to the left.
+
+[00:10:59 - 00:11:00] Another person wearing a pink sleeve briefly reaches into the frame from the right side and places a brown cardboard box on the workstation next to the bins. The wearer ignores this and continues assembling parts without pausing.
+
+[00:11:00 - 00:11:23] The wearer continues executing the standard assembly cycle without any further interruptions.
+
+[00:11:23 - 00:11:40] The wearer pauses the assembly task again. They reach over to the bins on the left with their left hand and grab a handful of small metal levers, transferring them into the central bin right in front of the jig. They repeat this transferring movement to move more parts closer to their workspace.
+
+[00:11:40 - 00:12:28] The wearer resumes the repeated assembly process, continuing to build and toss the completed mechanisms in the same consistent pattern.
+
+[00:12:28 - 00:12:38] The wearer stops assembling and uses both hands to scoop a large amount of the small metal levers from a bin on the far left. They transfer these parts into the central bin in front of the jig to replenish their supply, using their left hand for an extra scoop.
+
+[00:12:38 - 00:12:49] The wearer returns to assembling the parts, completing a few more cycles normally.
+
+[00:12:49 - 00:12:54] The wearer pauses once more to use their left hand to scoop another handful of small metal levers from the left bin, transferring them to the central bin.
+
+[00:12:54 - 00:13:12] The wearer picks up a base bracket and resumes the continuous assembly cycle.
+
+[00:13:12 - 00:13:14] After finishing a part, the wearer picks up a new base bracket from the bin on the right. They inspect it closely in their hand for a split second, then toss the unassembled bracket away to the left side, indicating it is defective.
+
+[00:13:14 - 00:15:19] The wearer picks up a different base bracket from the bin and resumes the continuous, repetitive assembly cycle, completing numerous parts without stopping.
+
+[00:15:19 - 00:15:21] The wearer picks up a base bracket, briefly inspects it, and immediately discards it by tossing it to the left side without assembling it.
+
+[00:15:21 - 00:15:53] The wearer grabs a new base bracket and continues the standard assembly cycle.
+
+[00:15:53 - 00:15:57] The wearer pauses the assembly task, reaches to the left with their left hand, and grabs a handful of small metal levers to transfer them into the central bin.
+
+[00:15:57 - 00:16:12] The wearer resumes the repetitive assembly process.
+
+[00:16:12 - 00:16:14] The wearer picks up a base bracket, inspects it, and throws it to the left without assembling it.
+
+[00:16:14 - 00:17:48] The wearer picks up another base bracket and continues assembling parts in the standard manner for over a minute.
+
+[00:17:48 - 00:17:50] The wearer picks up a base bracket, examines it quickly, and throws it to the left without using it.
+
+[00:17:50 - 00:18:24] The wearer picks up a new base bracket and resumes the standard assembly cycle.
+
+[00:18:24 - 00:18:26] The wearer picks up a base bracket, inspects it, and discards it to the left.
+
+[00:18:26 - 00:18:48] The wearer picks up another base bracket and continues the assembly cycle.
+
+[00:18:48 - 00:18:50] The wearer picks up a base bracket, inspects it, and tosses it away to the left.
+
+[00:18:50 - 00:19:02] The wearer resumes the regular assembly cycle.
+
+[00:19:02 - 00:19:04] The wearer picks up a base bracket, inspects it, and throws it to the left.
+
+[00:19:04 - 00:19:15] The wearer picks up another base bracket and continues the assembly process.
+
+[00:19:15 - 00:19:17] The wearer picks up a base bracket, inspects it, and discards it to the left.
+
+[00:19:17 - 00:19:28] The wearer resumes assembling parts normally.
+
+[00:19:28 - 00:19:32] The wearer stops assembling, reaches to the bins on the left with both hands, scoops a large handful of small metal levers, and transfers them into the central bin.
+
+[00:19:32 - 00:19:46] The wearer returns to the standard assembly cycle.
+
+[00:19:46 - 00:19:48] The wearer picks up a base bracket, inspects it, and tosses it away to the left.
+
+[00:19:48 - 00:19:56] The wearer picks up a new base bracket and resumes the assembly cycle.
+
+[00:19:56 - 00:19:58] The wearer picks up a base bracket, inspects it, and throws it to the left.
+
+[00:19:58 - 00:20:00] The wearer picks up a new base bracket and resumes the assembly process as the video concludes.

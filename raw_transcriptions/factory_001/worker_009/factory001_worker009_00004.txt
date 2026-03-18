@@ -1,0 +1,143 @@
+[00:00:00 - 00:01:04] The wearer repeatedly performs an assembly task at a workstation equipped with several blue bins of small parts. For each cycle, the wearer picks up a black plastic base part, inserts a small metal spring into it, places a tiny metal contact piece onto the spring, and then positions the assembled unit onto a central metal fixture on the workbench. This repetitive process continues without interruption as the wearer continuously reaches into the bins to grab new components.
+
+[00:01:04 - 00:01:46] The wearer reaches forward to grab a handful of small parts from a bin and drops them onto the main workspace area. After sorting them briefly, the wearer resumes the previous assembly cycle, repeatedly building the units with a plastic base, a spring, and a metal contact, then placing them onto the central fixture.
+
+[00:01:46 - 00:02:02] The wearer's attention shifts as they reach over to the right side of the workspace, interacting with another worker or accessing parts from the bins on that side. The wearer grabs a bunch of parts from the right and brings them back to the central workspace.
+
+[00:02:02 - 00:02:44] The wearer returns their focus to the central workstation and continues the repetitive assembly cycle, combining the black plastic bases, springs, and metal contacts, and placing them onto the metal fixture.
+
+[00:02:44 - 00:03:06] The wearer shifts their attention to the left, reaching over to interact with a bin or a person on that side. The wearer then turns back to the center and resumes assembling parts.
+
+[00:03:06 - 00:03:26] The wearer continues the repetitive assembly process at the central fixture.
+
+[00:03:26 - 00:03:34] The wearer looks down away from the workbench, appearing to adjust something on their lap or clothing, before looking back up at the workstation.
+
+[00:03:34 - 00:03:54] The wearer steps away from the main workstation. The camera view points downwards, showing the wearer picking up parts from the floor or a lower level, possibly retrieving dropped items or getting a new supply. The wearer then returns to the seated position at the bench.
+
+[00:03:54 - 00:04:22] The wearer resumes the standard assembly process, repeatedly combining the plastic bases, springs, and metal contacts, and placing the assembled units onto the central fixture.
+
+[00:04:22 - 00:04:35] The wearer picks up a metallic measuring tool and uses it to inspect or measure an assembled part. A bright glare obscures some of the view during this action. The wearer then sets the tool aside.
+
+[00:04:35 - 00:04:40] The wearer returns to grabbing parts from the workspace and assembling them.
+
+[00:04:40 - 00:05:04] While the wearer continues assembling parts, another person's hand reaches into the frame from the right side to grab parts from one of the wearer's blue bins.
+
+[00:05:04 - 00:05:15] The wearer continues the repetitive assembly process uninterrupted.
+
+[00:05:15 - 00:05:40] The camera view shifts rapidly as the wearer looks around and interacts with something off-camera to the left. The wearer then turns back to the central workstation and resumes picking up parts.
+
+[00:05:40 - 00:06:13] The wearer interacts with a clear plastic bag containing small parts, handling the bag and seemingly emptying or picking parts from it to replenish their workspace. Another person is partially visible working nearby on the right.
+
+[00:06:13 - 00:06:31] The wearer returns focus to the central fixture and continues the repetitive assembly cycle.
+
+[00:06:31 - 00:06:55] The wearer stands up and moves away from the workstation. The camera points downwards showing the floor. The wearer is then seen holding a large plastic bag full of parts and pours them into the blue bins on the workbench to restock.
+
+[00:06:55 - 00:07:10] The wearer sits back down at the workstation and immediately resumes the assembly process.
+
+[00:07:10 - 00:07:32] The wearer again stands up and moves away from the bench, looking downwards towards the floor or a lower shelf, seemingly organizing or retrieving more supplies.
+
+[00:07:32 - 00:08:16] The wearer returns to the workstation and begins a long, continuous stretch of the repetitive assembly cycle: picking a plastic base, inserting a spring, adding a metal contact, and placing the unit onto the central fixture.
+
+[00:08:16 - 00:08:30] The wearer briefly looks up and away from the bench before returning their gaze to the parts and continuing assembly.
+
+[00:08:30 - 00:08:41] The wearer turns their attention to the left, interacting with someone or something off-camera, then quickly turns back to resume assembling.
+
+[00:08:41 - 00:08:50] The wearer continues the assembly process.
+
+[00:08:50 - 00:09:03] The wearer looks down at their lap or the floor again, briefly pausing assembly, before looking back up at the workstation.
+
+[00:09:03 - 00:09:14] The wearer resumes the repetitive assembly process.
+
+[00:09:14 - 00:09:25] The wearer turns to the right, interacting with the bins or a coworker on that side, then turns back to the center to assemble parts.
+
+[00:09:25 - 00:10:04] The wearer looks down briefly, then returns focus to the workspace and continues the continuous assembly cycle.
+
+[00:10:04 - 00:10:16] The wearer looks up and to the left, appearing to interact with a coworker or check parts in a different area. The wearer then turns back to the main workspace.
+
+[00:10:16 - 00:10:29] The wearer continues the assembly process.
+
+[00:10:29 - 00:10:49] The wearer looks away from the desk and down towards their lap or the floor, taking a short break from the task or adjusting something, before returning to the bench and resuming assembly.
+
+[00:10:49 - 00:11:01] The wearer continues the assembly process.
+
+[00:11:01 - 00:11:13] The wearer looks up and to the right, looking away from the immediate workspace.
+
+[00:11:13 - 00:11:46] The wearer returns their attention to the workstation and continues the repetitive assembly cycle for an extended period.
+
+[00:11:46 - 00:12:02] The wearer turns their head to the right to interact with a coworker, then turns back to the central workstation.
+
+[00:12:02 - 00:12:22] The wearer moves back from the bench, looking downwards. After a few seconds, the wearer returns to the standard position and resumes assembling parts.
+
+[00:12:22 - 00:12:33] The wearer continues the repetitive assembly cycle.
+
+[00:12:33 - 00:12:44] The wearer looks up and to the right again, pausing the assembly.
+
+[00:12:44 - 00:13:09] The wearer turns back to the bench and resumes the repetitive assembly process.
+
+[00:13:09 - 00:13:24] The wearer looks down and away from the bench, then returns their gaze to the parts and continues assembling.
+
+[00:13:24 - 00:13:35] The wearer turns their head to look to the left.
+
+[00:13:35 - 00:13:57] The wearer turns back to the center and continues the assembly process.
+
+[00:13:57 - 00:14:09] The wearer looks to the left again.
+
+[00:14:09 - 00:14:19] The wearer returns their focus to the center and continues assembling.
+
+[00:14:19 - 00:14:34] The wearer looks up from the bench, seemingly talking or interacting with someone nearby.
+
+[00:14:34 - 00:14:45] The wearer returns to the bench and resumes the assembly process.
+
+[00:14:45 - 00:14:55] The wearer looks to the right, and another worker's hands and arms are visible working at the adjacent station.
+
+[00:14:55 - 00:15:14] The wearer turns back to their own central workspace and continues assembling parts.
+
+[00:15:14 - 00:15:40] The wearer looks up and to the right, interacting with coworkers, then turns back to the bench and resumes work.
+
+[00:15:40 - 00:15:50] The wearer continues the assembly process.
+
+[00:15:50 - 00:16:00] The wearer looks to the right again.
+
+[00:16:00 - 00:16:07] The wearer returns to the bench and continues assembling.
+
+[00:16:07 - 00:16:22] The wearer turns their head to look to the left.
+
+[00:16:22 - 00:16:33] The wearer turns back to the center and continues the assembly process.
+
+[00:16:33 - 00:16:49] The wearer looks to the right.
+
+[00:16:49 - 00:16:59] The wearer returns to the bench and continues assembling.
+
+[00:16:59 - 00:17:09] The wearer looks to the right once more.
+
+[00:17:09 - 00:17:20] The wearer turns back to the central workspace and resumes the repetitive assembly cycle.
+
+[00:17:20 - 00:17:31] The wearer looks to the left.
+
+[00:17:31 - 00:17:42] The wearer returns to the bench and continues the assembly process.
+
+[00:17:42 - 00:17:55] The wearer looks up from the workbench.
+
+[00:17:55 - 00:18:09] The wearer returns their focus to the parts and continues assembling.
+
+[00:18:09 - 00:18:22] The wearer looks down towards their lap or the floor.
+
+[00:18:22 - 00:18:32] The wearer looks back up at the workstation and resumes assembling.
+
+[00:18:32 - 00:18:45] The wearer turns to look to the left.
+
+[00:18:45 - 00:18:59] The wearer turns back to the bench and continues the assembly process.
+
+[00:18:59 - 00:19:07] The wearer looks down again.
+
+[00:19:07 - 00:19:17] The wearer returns to the bench and continues the assembly process.
+
+[00:19:17 - 00:19:26] The wearer looks down once more.
+
+[00:19:26 - 00:19:37] The wearer looks back at the workstation and resumes assembling.
+
+[00:19:37 - 00:19:42] The wearer turns their head to the left.
+
+[00:19:42 - 00:19:54] The wearer returns to the bench and continues the repetitive assembly process.
+
+[00:19:54 - 00:19:59] The wearer looks to the right.
