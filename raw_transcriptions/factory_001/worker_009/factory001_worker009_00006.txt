@@ -1,0 +1,83 @@
+[00:00:00 - 00:00:20] The video begins with the person already mid-way through an assembly process. Holding a small sub-assembly consisting of a pin, spring, and nut, they place it into a central jig. They then pick up a large flat metal bracket from a top-left bin and position it over the sub-assembly in the jig. Using an Allen key, they tighten the components together, remove the completed assembly, and place it off-screen to the right.
+
+[00:00:20 - 00:01:41] The person performs several continuous, identical cycles of assembly. For each cycle, they pick a small black spring and a metal pin from the top bins, insert the pin into the spring, pick a small square metal nut from the bottom-left bin, and attach it to the pin. This sub-assembly is placed into the central jig. They pick a flat metal bracket from the top-left bin, place it into the jig, tighten the assembly with the Allen key, and remove the finished part, placing it aside.
+
+[00:01:41 - 00:01:57] The assembly process is paused. The camera angle shifts upwards, showing the bins on the table and another person working opposite them. The person reaches into the bins, adjusting them and moving parts around before the camera angle shifts back down to the workspace.
+
+[00:01:57 - 00:02:11] The person completes one full assembly cycle, following the standard sequence: assembling the pin, spring, and nut, placing them in the jig, adding the metal bracket, tightening with the Allen key, and removing the part.
+
+[00:02:11 - 00:02:22] The person stops assembling to handle completed parts. They pick up multiple assembled units from their right side and place them into a bin that the person sitting opposite is holding or moving. The camera view shifts around during this interaction.
+
+[00:02:22 - 00:04:10] The person resumes their repetitive work, completing numerous continuous assembly cycles. They consistently pick the spring, pin, and nut, combine them, place them in the jig, add the flat bracket, tighten the assembly with the tool, and set the finished part aside.
+
+[00:04:10 - 00:04:25] The assembly stops as the person reaches across the table to pull a larger bin of parts closer. They spend a moment reorganizing the blue bins in their workspace, shifting them around. Another worker is visible helping to manage the bins on the table.
+
+[00:04:25 - 00:04:59] The person returns to the assembly task, completing two full cycles of putting together the pin, spring, nut, and bracket using the jig and Allen key.
+
+[00:04:59 - 00:05:05] After finishing a part, the person picks up a handful of completed assemblies, holding them up briefly in front of the camera to inspect them before placing them back down.
+
+[00:05:05 - 00:06:23] The person performs another series of uninterrupted assembly cycles, repeating the established sequence of picking components, using the jig, tightening with the Allen key, and removing the finished pieces.
+
+[00:06:23 - 00:06:33] The routine is paused again. The camera angle tilts up as the person reaches forward to grab more parts from a larger container, replenishing the supply in their smaller, closer workstation bins.
+
+[00:06:33 - 00:07:41] The person continues the standard repetitive assembly process, completing multiple cycles without interruption.
+
+[00:07:41 - 00:07:51] The camera angle shifts up. The person pulls a bin containing completed parts towards themselves, briefly interacts with the contents, and then pushes the bin back slightly.
+
+[00:07:51 - 00:08:29] The person resumes and completes two more standard assembly cycles.
+
+[00:08:29 - 00:08:33] The person pauses briefly to hold up and visually inspect a newly assembled part in their hands.
+
+[00:08:33 - 00:09:12] The person performs several more continuous assembly cycles using the jig and tool.
+
+[00:09:12 - 00:09:20] The camera looks up as the person reaches across the table to pull a bin full of components closer, refilling their immediate workstation supply.
+
+[00:09:20 - 00:10:10] The person returns to the repetitive assembly sequence, completing multiple identical cycles.
+
+[00:10:10 - 00:10:22] The camera shakes and tilts upwards. The person lifts and moves a large blue bin full of parts across the workspace, setting it down and making adjustments to the arrangement of their smaller bins.
+
+[00:10:22 - 00:11:08] The person resumes their work, completing several continuous assembly cycles.
+
+[00:11:08 - 00:11:22] The camera tilts up. The person uses both hands to scoop a large quantity of small metal components from one bin and transfer them into another, reorganizing their materials.
+
+[00:11:22 - 00:11:58] The person completes a few more standard assembly cycles.
+
+[00:11:58 - 00:12:12] The person stops assembling and looks up, the camera shifting around the workspace as they appear to observe or speak to someone off-screen.
+
+[00:12:12 - 00:12:26] The camera focuses on the bins on the table. The person adjusts the bins and moves parts around. Other workers are visible at the table.
+
+[00:12:26 - 00:12:35] The person picks up a blue plastic water bottle and takes a drink. Several other people in the factory setting are visible in the background.
+
+[00:12:35 - 00:12:48] The person sets the water bottle down and spends a moment arranging the bins in their workspace again.
+
+[00:12:48 - 00:13:58] The person resumes the repetitive assembly work, successfully completing numerous identical cycles with the pin, spring, nut, bracket, jig, and Allen key.
+
+[00:13:58 - 00:14:06] The camera angle tilts up briefly as the person shifts some bins around the table.
+
+[00:14:06 - 00:15:00] The person continues with several more continuous assembly cycles.
+
+[00:15:00 - 00:15:24] The camera angle changes rapidly, looking around the workspace and at the person's lap. They appear to be adjusting their seating position or taking a short break.
+
+[00:15:24 - 00:15:39] The camera looks up and pans around the room, briefly showing another worker wearing a green top.
+
+[00:15:39 - 00:16:08] The person resumes the standard assembly cycles, repeating the process multiple times.
+
+[00:16:08 - 00:16:16] The camera looks up as the person reaches to move a large bin of parts on the table.
+
+[00:16:16 - 00:16:34] The person completes another assembly cycle.
+
+[00:16:34 - 00:16:42] The camera angle shifts up as the person reaches forward to grab more parts from a further bin to replenish their supply.
+
+[00:16:42 - 00:17:16] The person performs a few more continuous assembly cycles.
+
+[00:17:16 - 00:17:35] The camera looks up, showing the person shifting bins and interacting with parts to organize the table.
+
+[00:17:35 - 00:18:11] The person resumes their repetitive work, completing several continuous assembly cycles.
+
+[00:18:11 - 00:18:21] The camera tilts up and shakes as the person shifts the blue bins around their workspace.
+
+[00:18:21 - 00:19:18] The person continues with a long, uninterrupted stretch of standard assembly cycles.
+
+[00:19:18 - 00:19:48] The person stops assembling. The camera looks up as they organize the bins and move parts from a larger container into their smaller workstation bins to restock.
+
+[00:19:48 - 00:20:00] The video ends as the person starts a new assembly cycle, picking up a small black spring and a metal pin to begin assembling them.

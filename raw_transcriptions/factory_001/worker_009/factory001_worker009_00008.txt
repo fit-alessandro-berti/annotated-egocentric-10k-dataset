@@ -1,0 +1,67 @@
+[00:00:00 - 00:00:52] The worker repeatedly performs an assembly task at a workbench. They use their left hand to pick a flat metal base piece from a blue bin on the left and place it securely into a central metal jig on the table. With their right hand, they pick a small metal pin from the center bin, and simultaneously pick a small spring from the right bin. They thread the spring onto the pin using both hands, insert this sub-assembly into the metal base currently resting in the jig, and press down on the jig's mechanism to lock the parts together. Finally, they remove the assembled unit from the jig and toss it aside. This entire sequence of micro-actions repeats continuously.
+
+[00:00:52 - 00:00:55] The worker briefly turns their head to the right, shifting their attention to glance at the adjacent worker's hands and workstation, before looking back down at their own central jig.
+
+[00:00:55 - 00:01:10] The worker resumes the exact same repetitive assembly cycle of placing the base piece, threading the pin and spring, and pressing them together in the jig.
+
+[00:01:10 - 00:01:13] The worker's attention shifts as they look up and pan their view around the workstation, revealing multiple blue bins filled with hardware parts and clearly showing the other worker stationed immediately to their right.
+
+[00:01:13 - 00:03:13] The worker continues the repetitive assembly process uninterrupted, consistently picking parts from the specific bins, threading the springs onto the pins, placing them into the base within the central jig, and pressing the mechanism down. During this long stretch, the worker makes very brief, momentary head turns to glance to the right, but these do not break the continuous rhythm of the assembly task.
+
+[00:03:13 - 00:03:15] The worker makes a more pronounced head turn to the right, looking directly at the neighboring workspace and the other person's actions.
+
+[00:03:15 - 00:03:28] The standard assembly sequence of grabbing parts, threading, and pressing in the jig continues.
+
+[00:03:28 - 00:03:31] The worker stops assembling to look up and around, shifting their egocentric view to survey the bins and the general layout of the table in front of them.
+
+[00:03:31 - 00:03:59] The repetitive assembly cycle continues seamlessly, with the worker threading springs onto pins, placing them in the jig, and pushing the press mechanism down.
+
+[00:03:59 - 00:04:05] The worker turns their head significantly, first looking left and then right, providing a clear, wide view of the adjacent worker who is also manipulating parts for manual assembly.
+
+[00:04:05 - 00:04:28] The worker returns to their task, completing several more of the exact same assembly cycles, interrupted only by a very brief glance to the right.
+
+[00:04:28 - 00:04:36] The worker pauses the assembly task entirely to look around the workspace more extensively. The view shifts to observe other workers across the table and the bins in front of them, while the worker uses their hands to slightly adjust and move parts within the bins.
+
+[00:04:36 - 00:06:53] The worker maintains a long, steady rhythm of the assembly cycle. They continuously execute the micro-actions of picking bases, pins, and springs, assembling them in the central jig, pressing them down, and removing the finished units. Short, routine glances to the right occur periodically, but the physical workflow remains unchanged.
+
+[00:06:53 - 00:06:58] The worker turns their head to the left, shifting their attention away from the central jig, and reaches their hand into a blue bin located further away on their left side.
+
+[00:06:58 - 00:07:08] The standard assembly task is resumed and completed for a few cycles.
+
+[00:07:08 - 00:07:14] The worker pauses the physical assembly and looks around, shifting their view across the bins directly in front of them and then panning towards the neighboring worker on the right.
+
+[00:07:14 - 00:09:04] The repetitive assembly process continues steadily with the same sequence of grabbing parts, threading the spring, placing the sub-assembly into the jig, and pressing the mechanism.
+
+[00:09:04 - 00:09:12] The worker's attention shifts as they look around the workspace and reach into different bins, appearing to check the supply of parts and move them around without assembling anything.
+
+[00:09:12 - 00:09:37] The standard assembly task is resumed.
+
+[00:09:37 - 00:09:40] The worker looks to the right, the camera capturing the adjacent worker handling parts in their own bins.
+
+[00:09:40 - 00:09:52] The worker focuses on the bins in front of them, using their hands to shift parts around slightly and prepare for the next cycles without fully completing an assembly unit.
+
+[00:09:52 - 00:10:26] The worker takes a longer pause from the manual task, looking up and around the workspace. The camera view pans upwards to show multiple colleagues working opposite them at the assembly line, and then shifts left and right to observe the broader surrounding environment and the layout of the bins.
+
+[00:10:26 - 00:10:50] The worker's focus returns to the table as they resume the standard assembly cycle, continuing to thread the pins and springs, place them into the metal bases in the central jig, and press them together.
+
+[00:10:50 - 00:10:53] The worker glances to the right at the adjacent coworker.
+
+[00:10:53 - 00:11:41] The repetitive assembly cycle continues seamlessly.
+
+[00:11:41 - 00:11:45] The worker's attention shifts as they look up and around again, providing a brief view of the colleagues working on the opposite side of the table.
+
+[00:11:45 - 00:15:23] The worker maintains a long, consistent stretch of the standard assembly process. The specific micro-actions of picking the base, pin, and spring, threading them, and operating the central jig continue without major interruption. Momentary routine head turns to glance to the right still occur, but the manual workflow is constant.
+
+[00:15:23 - 00:15:30] The worker turns their head from side to side, looking around the workspace and briefly observing the adjacent worker before refocusing.
+
+[00:15:30 - 00:18:53] The repetitive assembly process continues steadily. The worker repeats the exact same sequence of picking parts from the bins, threading the spring, placing the sub-assembly into the jig, and operating the press mechanism to lock the parts.
+
+[00:18:53 - 00:18:57] The worker looks to the left and extends their arm to reach towards the bins located on the far left side of their station.
+
+[00:18:57 - 00:19:26] The standard assembly cycle resumes with the usual micro-actions.
+
+[00:19:26 - 00:19:30] The worker glances up and around briefly, looking away from the jig.
+
+[00:19:30 - 00:19:48] The assembly process continues.
+
+[00:19:48 - 00:20:00] The worker pauses the assembly task entirely to look up and pan their view across the workspace, observing the parts bins, the layout of the table, and the surrounding area as the video ends.
