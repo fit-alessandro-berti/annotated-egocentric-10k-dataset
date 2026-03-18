@@ -1,0 +1,137 @@
+[00:00:00 - 00:01:21] The worker repeatedly performs a stamping operation on a yellow industrial press. Holding a stack of flat metal pieces in their left hand, the worker places a single piece into the die of the press. They then simultaneously press two green safety buttons located below the work area—the left hand pressing the left button, and the right hand, which holds a small orange cylindrical object, pressing the right button. The yellow press guard lowers, and the machine stamps the metal piece. The worker uses their left hand to remove the finished part and drops it onto a growing pile of identical pieces resting on the flat surface in front of the press. This cycle of placing, pressing the dual buttons, and removing the stamped part repeats continuously.
+
+[00:01:21 - 00:01:26] The worker pauses the stamping operation, turns their head to the left, and reaches into a blue plastic bin. They grab a handful of new flat metal pieces with their left hand to replenish their supply before turning back toward the press.
+
+[00:01:26 - 00:02:11] The worker resumes the repetitive stamping operation. They continue to place a flat metal piece into the die with their left hand, press the two green safety buttons to actuate the machine, and remove the stamped piece, dropping it onto the pile in the center. The right hand continues to hold the orange object while operating the right button.
+
+[00:02:11 - 00:02:27] The worker stops working and turns completely around, facing away from the press. They grab the handle of a metal cart carrying a large, deep metal bin filled with stamped parts. The worker pulls the cart slightly, adjusting its position in the aisle behind their workstation. 
+
+[00:02:27 - 00:03:00] The worker turns back to face the yellow press machine and immediately resumes the stamping process. The repetitive cycle of feeding a metal piece with the left hand, pressing both safety buttons, and extracting the stamped piece onto the pile continues.
+
+[00:03:00 - 00:03:05] The worker pauses, turns to the left, and reaches into the blue bin to grab another stack of flat metal pieces with their left hand.
+
+[00:03:05 - 00:03:15] The worker returns their attention to the press and completes several more stamping cycles.
+
+[00:03:15 - 00:03:20] The worker pauses briefly to visually inspect a metal piece held in their left hand, adjusting it before placing it into the machine for stamping.
+
+[00:03:20 - 00:03:44] The continuous stamping operation resumes. The worker repeatedly loads the press, presses the dual safety buttons, and discards the finished piece onto the central pile.
+
+[00:03:44 - 00:03:51] The worker pauses, looks toward the blue bin on the left, and picks up another handful of flat metal pieces with their left hand.
+
+[00:03:51 - 00:04:24] The repetitive cycle of placing, stamping, and removing metal pieces continues steadily.
+
+[00:04:24 - 00:04:40] The worker halts the stamping process and looks down toward the control panel housing the green buttons. They use their left hand to wipe and adjust something around the left safety button. They briefly look around their immediate workstation area before preparing to resume work.
+
+[00:04:40 - 00:05:19] The worker returns to the main task, continuously placing flat metal pieces into the press, actuating the machine with both hands, and adding the bent pieces to the central pile.
+
+[00:05:19 - 00:05:25] The worker stops, turns their head to the left, and grabs more flat metal pieces from the blue bin using their left hand.
+
+[00:05:25 - 00:05:42] The stamping operation continues as the worker loads the machine, presses the safety buttons, and unloads the finished parts.
+
+[00:05:42 - 00:06:09] The worker turns away from the machine again to interact with the metal cart behind them. They grab the cart's handle, push it slightly away, and then pull it back to adjust its placement in the aisle.
+
+[00:06:09 - 00:06:26] The worker turns back to face the press and resumes the repetitive cycle of stamping the metal pieces.
+
+[00:06:26 - 00:06:33] The worker pauses, looks left, and reaches into the blue bin to collect more flat metal pieces in their left hand.
+
+[00:06:33 - 00:07:00] The continuous stamping operation resumes, following the exact same sequence of feeding, pressing the dual buttons, and unloading.
+
+[00:07:00 - 00:07:06] The worker pauses, turns to the left, and retrieves another handful of metal pieces from the blue bin.
+
+[00:07:06 - 00:08:19] The worker continuously operates the press without interruption, steadily moving through the cycle of loading a piece, pressing the dual buttons, and dropping the stamped piece onto the growing pile.
+
+[00:08:19 - 00:08:26] The worker pauses the machine, looks left, and gathers more flat metal pieces from the blue bin into their left hand.
+
+[00:08:26 - 00:08:48] The repetitive stamping process continues.
+
+[00:08:48 - 00:08:54] The worker pauses, looks to the blue bin on the left, and grabs another handful of metal pieces.
+
+[00:08:54 - 00:09:19] The worker resumes the cycle of loading, stamping, and removing the metal parts.
+
+[00:09:19 - 00:09:25] The worker pauses, turns left, and reaches into the blue bin for more flat metal pieces.
+
+[00:09:25 - 00:09:43] The stamping operation continues steadily.
+
+[00:09:43 - 00:09:51] The worker turns completely around to face the aisle. They grab the metal cart and slightly adjust its position behind their workspace.
+
+[00:09:51 - 00:10:16] The worker turns back to the press and immediately restarts the stamping cycle, placing pieces, pressing the buttons, and removing the finished parts.
+
+[00:10:16 - 00:10:22] The worker pauses, looks left, and replenishes their supply of metal pieces from the blue bin.
+
+[00:10:22 - 00:10:30] The stamping operation continues.
+
+[00:10:30 - 00:10:37] The worker stops, turns left, and grabs more metal pieces from the blue bin.
+
+[00:10:37 - 00:11:02] The highly repetitive stamping cycle continues without variation.
+
+[00:11:02 - 00:11:08] The worker pauses, looks left, and reaches into the blue bin to grab a new handful of metal pieces.
+
+[00:11:08 - 00:11:39] The worker resumes the continuous stamping process.
+
+[00:11:39 - 00:11:45] The worker pauses, turns to the left, and collects more metal pieces from the blue bin.
+
+[00:11:45 - 00:12:16] The stamping operation continues steadily, following the established sequence.
+
+[00:12:16 - 00:12:23] The worker pauses, looks left, and gathers another stack of metal pieces from the blue bin into their left hand.
+
+[00:12:23 - 00:12:38] The worker turns away from the machine, facing the aisle behind them. They grab the metal cart, pull it closer, look down into the bin, and adjust the cart's position.
+
+[00:12:38 - 00:13:15] The worker turns back to the press and resumes the repetitive cycle of loading pieces, pressing the dual safety buttons, and unloading the stamped parts onto the pile.
+
+[00:13:15 - 00:13:21] The worker pauses, looks left, and grabs more flat metal pieces from the blue bin.
+
+[00:13:21 - 00:13:32] The stamping operation continues.
+
+[00:13:32 - 00:13:38] The worker pauses, turns left, and reaches into the blue bin to replenish their supply of metal pieces.
+
+[00:13:38 - 00:13:48] The stamping cycle continues.
+
+[00:13:48 - 00:13:54] The worker pauses, looks left, and gathers more metal pieces from the blue bin.
+
+[00:13:54 - 00:14:30] The worker continuously operates the press, feeding pieces, actuating the machine, and removing the finished parts.
+
+[00:14:30 - 00:14:36] The worker stops, turns left, and grabs a new handful of metal pieces from the blue bin.
+
+[00:14:36 - 00:14:50] The stamping operation continues without change.
+
+[00:14:50 - 00:14:56] The worker pauses, looks left, and reaches into the blue bin for more metal pieces.
+
+[00:14:56 - 00:15:11] The continuous stamping process resumes.
+
+[00:15:11 - 00:15:16] The worker pauses, turns left, and collects more flat metal pieces from the blue bin.
+
+[00:15:16 - 00:15:22] The stamping operation continues.
+
+[00:15:22 - 00:15:28] The worker pauses, looks left, and replenishes their stack of metal pieces from the blue bin.
+
+[00:15:28 - 00:16:09] The worker steadily continues the repetitive cycle of loading, stamping, and removing the metal pieces.
+
+[00:16:09 - 00:16:15] The worker briefly pauses to adjust a flat metal piece within the die of the press using their left hand before pressing the buttons to stamp it.
+
+[00:16:15 - 00:16:21] The stamping operation continues.
+
+[00:16:21 - 00:16:26] The worker pauses, looks left, and reaches into the blue bin to grab more metal pieces.
+
+[00:16:26 - 00:17:01] The continuous stamping cycle resumes and proceeds smoothly.
+
+[00:17:01 - 00:17:11] The worker turns entirely around, away from the workstation. They grab the metal cart behind them and adjust its placement in the aisle.
+
+[00:17:11 - 00:17:51] The worker faces the press again and immediately restarts the repetitive stamping operation, placing pieces, pressing the buttons, and dropping the finished parts onto the pile.
+
+[00:17:51 - 00:17:57] The worker pauses, turns left, and gathers more flat metal pieces from the blue bin.
+
+[00:17:57 - 00:18:22] The stamping operation continues steadily.
+
+[00:18:22 - 00:18:28] The worker pauses, looks left, and grabs another handful of metal pieces from the blue bin.
+
+[00:18:28 - 00:18:56] The worker resumes the cycle of loading, actuating the press, and removing the metal parts.
+
+[00:18:56 - 00:19:02] The worker pauses, turns left, and reaches into the blue bin to replenish their supply of metal pieces.
+
+[00:19:02 - 00:19:23] The stamping operation continues without variation.
+
+[00:19:23 - 00:19:29] The worker stops, looks left, and collects more metal pieces from the blue bin.
+
+[00:19:29 - 00:19:53] The repetitive cycle of loading, stamping, and removing the metal pieces continues.
+
+[00:19:53 - 00:20:01] The worker pauses, turns left, and reaches into the blue bin to grab a new handful of metal pieces, preparing to continue the operation as the video ends.

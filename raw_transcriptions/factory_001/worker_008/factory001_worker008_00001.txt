@@ -1,0 +1,71 @@
+[00:00:00 - 00:01:03] The person repeatedly performs a specific assembly sequence at their workstation: they pick a black plastic piece from the left blue bin, a spring from the middle bin, and a metal pin from the right bin. They insert the spring and pin into the plastic piece, place this sub-assembly into the metal fixture in front of them, and then pick a larger metal bracket from the surrounding pile to place on top. After pressing the components together in the fixture, they remove the completed part and set it aside. This cycle is repeated continuously.
+
+[00:01:03 - 00:01:59] The person pauses the assembly task, stands up slightly, and reaches for a large, clear plastic bag filled with black plastic pieces located on the left side of the table. They pull the bag open and empty its contents into the left blue bin and onto the workspace, shaking the bag to ensure it is completely empty before setting it aside. During this time, another worker in a green shirt is visible working at an adjacent station on the left.
+
+[00:01:59 - 00:03:19] The person sits back down and resumes the repetitive assembly process, continuously picking the plastic parts, springs, and pins, assembling them into the fixture, adding the metal brackets, and removing the finished units without interruption.
+
+[00:03:19 - 00:04:47] The person picks up a finished stack of metal brackets from the workspace, briefly examines them, and then puts them back down. They immediately return to the standard assembly sequence, continuing to build the parts using the bins and the fixture in a steady rhythm. The hands of adjacent workers occasionally enter the edge of the frame.
+
+[00:04:47 - 00:05:03] The person stops their work and turns their head to the left, observing the worker next to them who is using an automatic screwdriver suspended from a balancer. The camera captures the broader factory environment, showing rows of workstations and other employees engaged in assembly tasks.
+
+[00:05:03 - 00:05:47] The person turns their attention back to their own fixture and resumes the continuous assembly cycle, picking components from the three bins and placing them into the metal fixture with the larger brackets.
+
+[00:05:47 - 00:05:51] The person momentarily pauses and glances to their left again to watch the adjacent worker.
+
+[00:05:51 - 00:06:22] They return to their task, performing the standard assembly sequence.
+
+[00:06:22 - 00:06:25] Another brief pause occurs as the person looks to their left towards the neighboring workstation.
+
+[00:06:25 - 00:08:16] The person continuously performs the repetitive assembly task without any breaks or changes in behavior.
+
+[00:08:16 - 00:08:18] A very quick glance to the left is made before returning to the fixture.
+
+[00:08:18 - 00:08:44] The assembly work continues uninterrupted.
+
+[00:08:44 - 00:08:46] The person looks slightly to the left again.
+
+[00:08:46 - 00:09:00] They resume assembling the parts in the fixture.
+
+[00:09:00 - 00:09:15] The person stands up from their chair and walks away from the workstation towards the left side of the factory floor. The camera points downward, showing the metal frame of the tables and the ground as they walk a short distance before turning around and returning to their seat.
+
+[00:09:15 - 00:09:44] After sitting down, the person reaches to the right side of their workstation and grabs another large, clear plastic bag filled with black plastic pieces. They tear the bag open and dump the parts into the left blue bin to restock it.
+
+[00:09:44 - 00:09:56] The person turns their head to look around the factory, providing a wide view of the workspace, including a worker to their right in a blue shirt and other nearby assembly stations.
+
+[00:09:56 - 00:10:25] The person turns back to their fixture and resumes the standard assembly sequence.
+
+[00:10:25 - 00:10:31] They pause again to look around the workspace, observing the flow of materials and other workers.
+
+[00:10:31 - 00:11:40] The repetitive assembly task continues steadily with the plastic pieces, springs, pins, and metal brackets.
+
+[00:11:40 - 00:11:42] The person takes a quick look to their left.
+
+[00:11:42 - 00:13:05] They return to their continuous assembly work.
+
+[00:13:05 - 00:13:08] A brief glance to the left at the adjacent worker.
+
+[00:13:08 - 00:14:16] The assembly sequence continues as before.
+
+[00:14:16 - 00:14:20] The person turns their head to survey the broader factory floor, looking at the workers and tables in the background.
+
+[00:14:20 - 00:16:50] The person focuses back on their workstation and performs the repetitive assembly cycle for an extended period without any interruptions.
+
+[00:16:50 - 00:16:54] They pause their work to look to the left again.
+
+[00:16:54 - 00:17:00] They resume the assembly process.
+
+[00:17:00 - 00:17:02] Another quick look to the left.
+
+[00:17:02 - 00:18:13] The continuous assembly task is maintained.
+
+[00:18:13 - 00:18:17] The person turns their head to the left and slightly backward, observing the neighboring worker and the surrounding area.
+
+[00:18:17 - 00:19:26] The repetitive assembly work continues smoothly.
+
+[00:19:26 - 00:19:28] The person glances briefly to the left and down.
+
+[00:19:28 - 00:19:43] They resume their assembly sequence.
+
+[00:19:43 - 00:19:48] The person looks around the factory floor one more time, showing the layout of the adjacent workstations.
+
+[00:19:48 - 00:20:00] They turn back to their fixture and complete a few more cycles of the assembly process until the video ends.

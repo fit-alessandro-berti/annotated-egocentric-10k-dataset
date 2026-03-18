@@ -1,0 +1,59 @@
+[00:00:00 - 00:01:09] The person repeatedly performs a mechanical assembly task at a workbench filled with small blue bins of parts. They reach with their left hand to pick a metal base bracket from a pile, placing it onto a central metal mounting fixture. With their right hand, they retrieve a small u-shaped clip from a bin, while their left hand grabs a black spring from another bin. They bring the clip and spring together, aligning them, and position this sub-assembly onto the bracket on the fixture. Using their right hand, they pick a small metal pin from a bin on the right, insert it through the aligned holes of the components, and press down with their fingers to secure it. They then pick up the completed hinge mechanism and drop it to the right side of the workspace. This precise cycle is repeated seamlessly several times.
+[00:01:09 - 00:01:13] The camera briefly tilts upwards, shifting attention away from the hands to show other workers at the table, who are wearing green and blue shirts and working at similar assembly stations.
+[00:01:13 - 00:02:08] The camera returns to the egocentric view of the hands on the workbench. The wearer resumes the identical repetitive assembly process of picking brackets, clips, springs, and pins from the blue bins, assembling them on the central fixture, and discarding the finished pieces to the right.
+[00:02:08 - 00:02:11] The camera tilts up again quickly, providing a brief view of the coworkers across the shared table.
+[00:02:11 - 00:03:04] The view returns to the workspace. The worker continues the standard assembly cycle without any changes in the sequence of actions.
+[00:03:04 - 00:03:10] The camera shifts upwards again, showing the worker's hands holding an assembled bracket while looking around the room at the other workers.
+[00:03:10 - 00:04:08] The camera points back down to the fixture. The person places the held bracket down and continues the regular assembly cycle, repeatedly picking parts from the bins and joining them on the fixture.
+[00:04:08 - 00:04:12] Another brief upward camera shift shows the other workers across the table.
+[00:04:12 - 00:05:14] The egocentric view returns to the hands, and the person continues the uninterrupted, repetitive assembly of the hinges on the mounting fixture.
+[00:05:14 - 00:05:18] The camera abruptly tilts up, blurring the view temporarily as it captures the coworkers in the background. Another person's hands appear in the frame, holding a large, clear plastic bag filled with small metal components.
+[00:05:18 - 00:05:29] The camera points back to the table. The wearer pauses their assembly work, resting their left hand on the table while holding a metal bracket. The other person opens the plastic bag and empties its contents into one of the blue bins in front of the wearer.
+[00:05:29 - 00:06:05] With the bins restocked, the wearer immediately resumes the assembly process. They pick up a spring and a clip to attach to the bracket they were holding, and continue the standard cycle of building hinges.
+[00:06:05 - 00:06:08] The camera pans up to show the coworkers at the table again.
+[00:06:08 - 00:06:19] The view returns to the hands, and the repetitive assembly cycle continues.
+[00:06:19 - 00:06:21] The camera shakes and tilts rapidly, momentarily disorienting the view.
+[00:06:21 - 00:07:07] The camera stabilizes on the workspace, and the person continues the normal, continuous assembly process.
+[00:07:07 - 00:07:13] The camera tilts upwards, showing the other workers at the table.
+[00:07:13 - 00:07:22] The wearer stands up and walks away from the workstation. They are carrying a large clear plastic bag filled with small parts. The camera captures the floor and the sides of the blue work tables as they move around the workspace.
+[00:07:22 - 00:07:30] The wearer returns to their seat at the workstation, still holding the bag. They use their right hand to pour the contents of the bag onto the table, refilling the blue bins with small metal pins.
+[00:07:30 - 00:08:10] With the bins restocked, the person immediately resumes the standard hinge assembly process on the central fixture, pulling parts from the newly filled containers.
+[00:08:10 - 00:08:12] The camera angle shifts rapidly, blurring the scene briefly.
+[00:08:12 - 00:08:46] The view stabilizes on the workspace, and the person continues the uninterrupted assembly cycles.
+[00:08:46 - 00:08:49] A quick upward tilt of the camera occurs.
+[00:08:49 - 00:09:03] The assembly process continues normally on the fixture.
+[00:09:03 - 00:09:14] The camera tilts up again, showing the workers across the table. The wearer's hands are visible resting on the table, holding parts idly while their attention is shifted.
+[00:09:14 - 00:09:56] The view returns to the hands, and the person resumes the repetitive assembly task.
+[00:09:56 - 00:10:07] The camera tilts up, showing a coworker. The person wearing the camera brings a large clear plastic bag full of metal parts into the frame, holding it with their right hand.
+[00:10:07 - 00:10:28] The camera is back on the workspace. The person puts the bag down, picks up a bracket with their left hand, places it on the fixture, and resumes the assembly sequence.
+[00:10:28 - 00:10:30] The camera shakes quickly.
+[00:10:30 - 00:11:12] The assembly process continues without interruption.
+[00:11:12 - 00:11:14] The camera tilts up briefly to show the coworkers.
+[00:11:14 - 00:11:39] The view returns to the workstation, and the repetitive assembly task continues.
+[00:11:39 - 00:11:41] A quick camera shift occurs.
+[00:11:41 - 00:12:08] The person continues the continuous loop of assembling hinges on the fixture.
+[00:12:08 - 00:12:12] The camera tilts up, showing the coworkers across the table.
+[00:12:12 - 00:13:00] The camera points back down, and the worker resumes the exact same repetitive assembly cycle.
+[00:13:00 - 00:13:05] The camera tilts upwards again.
+[00:13:05 - 00:14:10] The view is back on the hands, continuing the fast, repetitive assembly of parts on the fixture.
+[00:14:10 - 00:14:13] The camera tilts up to look at the coworkers.
+[00:14:13 - 00:14:55] The person continues the standard assembly process at the bench.
+[00:14:55 - 00:15:28] The camera angle becomes slightly unstable, tilting back and forth rapidly while the person continues the assembly task. During this sequence, the person struggles slightly to align the black spring and the metal clip on the fixture. They use both hands to adjust and force the parts into position before successfully inserting the securing pin and dropping the finished hinge to the right.
+[00:15:28 - 00:15:30] A rapid camera shift blurs the view.
+[00:15:30 - 00:16:00] The camera stabilizes, and the normal assembly process resumes smoothly.
+[00:16:00 - 00:16:03] The camera tilts up to show the other workers.
+[00:16:03 - 00:16:30] The view returns to the hands assembling parts on the fixture.
+[00:16:30 - 00:16:32] A quick camera shift occurs.
+[00:16:32 - 00:16:45] The assembly process continues.
+[00:16:45 - 00:16:47] Another quick camera shift blurs the view.
+[00:16:47 - 00:17:03] The person continues assembling hinges normally.
+[00:17:03 - 00:17:07] The camera tilts up, showing the coworkers in the background.
+[00:17:07 - 00:17:46] The view returns to the workspace, and the repetitive assembly cycle continues.
+[00:17:46 - 00:17:50] A quick camera shift blurs the view.
+[00:17:50 - 00:18:50] The camera stabilizes, and the person continues the long, continuous assembly of parts.
+[00:18:50 - 00:18:52] Another quick camera shift occurs.
+[00:18:52 - 00:19:22] The person continues assembling hinges on the fixture.
+[00:19:22 - 00:19:25] The camera tilts up to show the coworkers at the table.
+[00:19:25 - 00:19:56] The camera points back down, and the worker resumes the standard assembly sequence.
+[00:19:56 - 00:19:58] A quick camera shift blurs the view briefly.
+[00:19:58 - 00:20:01] The view returns to the hands. The person completes the final steps of assembling a hinge, holds the completed part briefly, and the video ends.

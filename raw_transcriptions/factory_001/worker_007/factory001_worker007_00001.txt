@@ -1,0 +1,29 @@
+[00:00:00 - 00:00:46] The person is seated at a workstation, operating a large yellow and black metal press machine. They hold a small orange and black cylindrical object in their right hand. They repeatedly reach forward to a pile of flat, unbent metal parts on the table, grasp one with their right hand, and place it precisely into the machine's die. The machine activates, bringing a yellow safety guard down, and bends the part. The person then retrieves the finished, bent part and tosses it into a blue bin located on the left side of the table. This repetitive cycle of placing, pressing, and discarding continues steadily.
+
+[00:00:46 - 00:01:13] The person pauses the pressing operation and uses their left hand to grab the blue bin filled with finished parts. They stand up, turn away from the machine, and walk over to a large metal cart located on the floor. They dump the contents of the blue bin into the cart. Walking back to the workstation, they do not immediately sit down; instead, they bend down towards a lower bin containing raw materials. They scoop up a large handful of unbent metal parts and place them onto the table in front of the machine. They reach down a second time, scoop another handful of parts, and add them to the pile on the table. They then place the empty blue bin back in its original position on the left and prepare to resume work.
+
+[00:01:13 - 00:04:12] The person resumes operating the metal press machine. They continue the repetitive cycle of picking up an unbent part with their right hand, placing it into the die, waiting for the machine to press the part while the safety guard comes down, retrieving the finished piece, and tossing it into the blue bin.
+
+[00:04:12 - 00:04:26] The pressing operation is halted as the person picks up the full blue bin and leaves the workstation. They walk over to the large metal cart, dump the finished parts into it, and briefly spread the parts evenly with their hand. They return to the machine, place the empty blue bin back on the left side of the table, and immediately sit down to resume work.
+
+[00:04:26 - 00:06:30] The person continues the continuous pressing task, feeding the unbent parts from the table into the machine one by one and tossing the finished pieces into the blue bin.
+
+[00:06:30 - 00:07:04] The person stops pressing, lifts the full blue bin, and walks over to the metal cart. They empty the parts into the cart and use their hand to spread them out. Returning to the workstation, they place the empty blue bin on the table. They then lean down to the raw material bin on the floor, scoop up a handful of unbent parts, and place them on the table. They repeat this scooping action, adding a second handful of parts to restock their supply pile, before sitting back down.
+
+[00:07:04 - 00:10:11] The repetitive pressing operation resumes. The person consistently feeds raw parts into the machine, allows the press to cycle, and moves the finished parts into the blue bin.
+
+[00:10:11 - 00:10:29] The person pauses the machine operation, picks up the full blue bin, and walks to the large metal cart. They dump the finished parts into the cart, spread them slightly with their hand, and return to the machine. They set the empty blue bin down on the left side and prepare to work.
+
+[00:10:29 - 00:12:22] The repetitive pressing task is resumed, with the person consistently placing unbent parts into the die, activating the press, and discarding the finished pieces into the blue bin.
+
+[00:12:22 - 00:12:56] The person stops pressing and lifts the blue bin. They walk over to the metal cart, dump the bent parts, and spread them out. Upon returning to the workstation, they lean down to the raw material bin, scoop up a handful of unbent parts, and place them on the table. They repeat this scooping motion a second time, adding more parts to the pile on the table, before sitting back down.
+
+[00:12:56 - 00:17:03] The person returns to operating the press machine, steadily continuing the cycle of picking up an unbent part, pressing it, and tossing the finished part into the blue bin for a long, continuous stretch.
+
+[00:17:03 - 00:17:35] The person pauses the pressing operation, picks up the blue bin, and walks to the metal cart to dump the finished parts. After spreading the parts in the cart, they walk back to the machine. They bend down to the raw material bin and scoop up a handful of unbent parts, placing them onto the table. They repeat this scooping and placing action three more times, fully restocking their supply pile on the table. Finally, they place the empty blue bin on the left side and sit down.
+
+[00:17:35 - 00:19:14] The person resumes the repetitive pressing operation, continuously feeding unbent parts into the machine and moving the finished ones to the blue bin.
+
+[00:19:14 - 00:19:25] The person stops the machine, lifts the full blue bin, and walks to the metal cart. They dump the bent parts into the cart, spread them with their hand, return to the machine, and place the empty blue bin in its spot.
+
+[00:19:25 - 00:20:00] The person resumes the repetitive pressing task, feeding parts into the machine and placing the finished pieces into the blue bin. This action continues without interruption until the video concludes.

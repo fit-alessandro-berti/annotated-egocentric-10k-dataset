@@ -1,0 +1,37 @@
+[00:00:00 - 00:01:03] The wearer operates a metal stamping machine. They repeatedly pick up small, unpressed metal pieces from a blue bin on their left, place them one by one into the machine's lower die, and use their right hand (holding a small orange tool) to activate the press. A yellow safety guard swings down with each press. After pressing, they remove the stamped piece with their left hand and drop it into a pile immediately in front of the machine.
+[00:01:03 - 00:01:08] The wearer pauses the machine operation, turns slightly to the left, and bends down to grab a handful of unpressed metal pieces from a large cardboard box situated on the floor.
+[00:01:08 - 00:01:16] They turn back to the machine and place the handful of new unpressed pieces into the blue bin on the left side of the workstation.
+[00:01:16 - 00:03:19] The wearer resumes the repetitive pressing task, taking pieces from the blue bin, placing them in the machine, activating the press, and dropping the finished pieces into the pile in front.
+[00:03:19 - 00:03:22] The wearer briefly pauses to adjust a few unpressed pieces in their left hand before continuing.
+[00:03:22 - 00:04:14] The repetitive machine operation continues steadily with no new actions.
+[00:04:14 - 00:04:30] The wearer stops the machine, holding a stamped piece in their hand. They turn around to look at large metal bins filled with stamped parts on the floor behind them. Another worker in a blue shirt walks past in the background. The wearer appears to inspect or compare the part in their hand with the parts in the bins.
+[00:04:30 - 00:05:07] The wearer turns back to face the machine and resumes the standard pressing operation.
+[00:05:07 - 00:05:20] The wearer pauses again and turns around to face the large bins behind them.
+[00:05:20 - 00:05:28] The wearer takes out a mobile phone, looks at the screen which lights up to display the time, and then puts it away.
+[00:05:28 - 00:05:32] They turn their attention back to the bins on the floor.
+[00:05:32 - 00:05:46] The wearer reaches into a small container nearby, takes out a small orange object, and handles it briefly near their face before turning their attention back to the large bin of metal parts.
+[00:05:46 - 00:06:15] The wearer uses both hands to sift and mix the stamped metal parts inside one of the large metal bins on the floor.
+[00:06:15 - 00:06:22] They grab a flat metal tool resting on the edge of the bin and use it to push and move the parts around inside the bin.
+[00:06:22 - 00:07:11] The wearer drops the tool and continues sifting through the parts with their bare hands, picking some up, inspecting them briefly, and dropping them back into the pile.
+[00:07:11 - 00:07:16] The wearer turns back towards the stamping machine workstation.
+[00:07:16 - 00:08:59] The wearer resumes the repetitive task of taking parts from the blue bin, placing them in the machine, pressing them, and dropping the finished parts.
+[00:08:59 - 00:09:02] They briefly pause, turn to their left to glance at the floor and the bins, then turn back.
+[00:09:02 - 00:11:10] The continuous pressing operation resumes and continues steadily.
+[00:11:10 - 00:11:22] The wearer pauses and turns around to look at the factory floor behind them. A worker in an orange shirt is seen walking in the distance.
+[00:11:22 - 00:11:28] The wearer fully turns away from the machine and takes a few steps toward a large metal bin on a wheeled trolley.
+[00:11:28 - 00:11:43] They grab the handle of the metal bin trolley and pull it backwards slightly, repositioning it on the floor.
+[00:11:43 - 00:11:48] The wearer turns back to face the stamping machine.
+[00:11:48 - 00:12:21] The wearer resumes the repetitive pressing operation at the machine.
+[00:12:21 - 00:12:26] They pause briefly to look over their left shoulder at the bins behind them.
+[00:12:26 - 00:15:28] The wearer turns back and continues the continuous pressing task without interruption.
+[00:15:28 - 00:15:45] The wearer stops pressing, turns around to the bins behind them, and reaches into a bin lined with white plastic to grab a large handful of parts.
+[00:15:45 - 00:15:50] They turn back towards the machine workstation.
+[00:15:50 - 00:17:10] The wearer resumes the repetitive stamping operation.
+[00:17:10 - 00:17:12] They pause briefly to look to their left.
+[00:17:12 - 00:17:28] The continuous pressing operation continues.
+[00:17:28 - 00:17:36] The wearer stops, turns to their left, and reaches down into the large cardboard box on the floor to grab another handful of unpressed metal parts.
+[00:17:36 - 00:17:54] They place the new handful of parts into the blue bin and then resume the repetitive pressing task.
+[00:17:54 - 00:18:12] The wearer stops, turns entirely away from the machine, and walks towards the bins on the floor. They reach into a bin lined with white plastic and use both hands to sift through the parts inside.
+[00:18:12 - 00:18:27] The wearer walks back to the machine, turning to face it, and immediately resumes the pressing operation.
+[00:18:27 - 00:18:31] They pause briefly to look down at a cart situated to their left, then look back at the machine.
+[00:18:31 - 00:20:00] The wearer continues the repetitive pressing operation steadily until the end of the video.
