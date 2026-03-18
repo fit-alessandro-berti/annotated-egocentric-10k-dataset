@@ -1,0 +1,29 @@
+[00:00:00 - 00:00:19] The person is seated at a white table, picking up white fabric strips from a pile, folding them in half, making a small mark on the folded edge with a blue pen, and tossing them into a new pile on the right. 
+[00:00:19 - 00:00:22] The person turns their head to the left, revealing a large, clear plastic bag filled with more white fabric strips sitting on the table.
+[00:00:22 - 00:00:48] The person resumes the repetitive task of picking up strips, folding them, marking the edge with the blue pen, and adding them to the marked pile, occasionally glancing up briefly at the factory floor ahead.
+[00:00:48 - 00:00:54] The person looks up, showing a view down the aisle of the factory. A person in a light green top and white pants walks past the workstation.
+[00:00:54 - 00:01:08] The person looks back down at the table and continues the process of folding, marking, and tossing the white fabric strips.
+[00:01:08 - 00:01:14] The person looks down toward the floor beneath the table momentarily, showing a yellow painted line on the ground, then looks back up to the table.
+[00:01:14 - 00:01:20] The person continues the repetitive folding and marking task.
+[00:01:20 - 00:01:24] The person looks up, showing another worker in a purple dress walking away down the factory aisle.
+[00:01:24 - 00:03:06] The person continuously repeats the manual action of picking up a fabric strip, folding it, marking the fold with the blue pen, and tossing it to the right. During this period, the person frequently glances up briefly at the factory aisle before immediately returning to the task.
+[00:03:06 - 00:03:10] The person looks to the left, showing a coworker in a blue top working at an adjacent sewing machine station.
+[00:03:10 - 00:04:06] The person continues the repetitive task of folding, marking, and sorting the fabric strips, with occasional quick glances up at the aisle.
+[00:04:06 - 00:04:11] The person again looks to the left toward the coworker at the sewing machine.
+[00:04:11 - 00:04:50] The person resumes the continuous folding, marking, and tossing of the fabric strips, glancing up at the aisle occasionally.
+[00:04:50 - 00:04:55] The person glances to the left toward the coworker at the adjacent workstation.
+[00:04:55 - 00:06:47] The person continues the repetitive cycle of folding the fabric strips, marking the edge with the blue pen, and throwing them onto the pile on the right, punctuated by frequent brief looks up at the factory floor.
+[00:06:47 - 00:06:50] The person looks to the left at the coworker working at the sewing machine.
+[00:06:50 - 00:16:50] The person continues the highly repetitive cycle of folding the fabric strips, marking the edge with the blue pen, and throwing them onto the pile on the right. Throughout this extended period, the person routinely pauses for a few seconds to look up straight ahead down the factory aisle, occasionally capturing distant workers walking by in the background, before immediately looking back down to continue marking strips. The objects handled and the context remain identical.
+[00:16:50 - 00:16:53] The person glances to the left toward the coworker at the sewing machine.
+[00:16:53 - 00:17:18] The person resumes folding and marking strips, with a glance ahead.
+[00:17:18 - 00:17:20] The person glances to the left toward the coworker.
+[00:17:20 - 00:17:35] The person resumes folding and marking strips.
+[00:17:35 - 00:17:38] The person glances to the left at the coworker's station.
+[00:17:38 - 00:18:00] The person resumes folding and marking strips, looking ahead briefly.
+[00:18:00 - 00:18:03] The person glances to the left toward the coworker.
+[00:18:03 - 00:18:30] The person resumes folding and marking strips, glancing ahead at the aisle.
+[00:18:30 - 00:18:33] The person glances to the left at the coworker.
+[00:18:33 - 00:18:50] The person resumes folding and marking strips.
+[00:18:50 - 00:18:53] The person glances to the left toward the coworker.
+[00:18:53 - 00:19:59] The person continues the repetitive manual task of folding the white fabric strips, marking them with the blue pen, and tossing them to the pile on the right, interspersed with brief looks straight ahead down the factory aisle until the video ends.

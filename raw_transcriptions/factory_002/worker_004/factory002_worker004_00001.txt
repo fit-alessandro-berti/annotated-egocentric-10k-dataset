@@ -1,0 +1,140 @@
+[00:00:00 - 00:00:14] The person is looking down at a white table. On the table, there is a large white sack partially filled with white fabric strips, along with a loose pile of the strips. The person uses their left hand to hold a folded white fabric strip and uses their right hand to mark the folded end with a blue pen. After marking it, they drop the strip back onto the table.
+[00:00:14 - 00:00:23] The person turns their head upwards and away from the table, shifting their attention to the surrounding factory floor. Several rows of tables are visible with people working at sewing machines, handling blue garments and fabrics.
+[00:00:23 - 00:01:00] The person's gaze returns to the white table. They resume the repetitive task: using their left hand to grasp and fold a white fabric strip from the pile, bringing it towards their body, and using their right hand to mark the folded tip with the blue pen, before dropping the strip back onto the table. This sequence of reaching, folding, marking, and dropping is repeated continuously.
+[00:01:00 - 00:01:08] The person pauses the marking task and looks up again, scanning the factory environment where other workers are seated at their stations.
+[00:01:08 - 00:01:23] Looking back down at the workspace, the person continues taking white fabric strips, folding them in half, and marking the folded end with the blue pen, discarding each one after it is marked.
+[00:01:23 - 00:01:29] The person's attention shifts back up, looking out over the factory floor and the sewing stations.
+[00:01:29 - 00:01:42] Gazing down at the table, the person repeatedly picks up white fabric strips, loops them with their left hand, marks them with the blue pen in their right hand, and tosses them aside.
+[00:01:42 - 00:01:49] The person looks up again, observing the garment factory floor and the workers handling blue materials at the tables ahead.
+[00:01:49 - 00:02:00] The person returns their focus to the table, continuing the process of grasping, folding, and marking the fabric strips with the blue pen.
+[00:02:00 - 00:02:02] The person briefly glances up towards the factory space.
+[00:02:02 - 00:02:18] Looking back down, the person continues the task of picking up white fabric strips, folding them, marking the folded tip with the blue pen, and dropping them onto the pile.
+[00:02:18 - 00:02:26] The person stops marking and looks up, scanning the aisles and workstations in the factory.
+[00:02:26 - 00:02:32] Returning to the table, the person picks up another fabric strip, folds it with their left hand, and marks it with the pen.
+[00:02:32 - 00:02:39] The person looks up again, shifting their view across the rows of workers and sewing machines.
+[00:02:39 - 00:02:51] Focus returns to the white table. The person continuously reaches for fabric strips, loops them, marks the end with the blue pen, and releases them.
+[00:02:51 - 00:02:58] The person looks up towards the factory floor.
+[00:02:58 - 00:03:20] Looking down at the workspace, the person repeatedly takes white fabric strips from the pile, folds them, marks them with the blue pen, and drops them.
+[00:03:20 - 00:03:24] The person glances up at the surrounding factory environment.
+[00:03:24 - 00:03:45] Attention shifts back to the table. The person continues the continuous cycle of grasping a strip, folding it, marking the edge with the pen, and letting it go.
+[00:03:45 - 00:03:52] The person looks up, observing the other workers seated at their sewing machines.
+[00:03:52 - 00:04:09] Returning their gaze to the table, the person resumes folding and marking the white fabric strips with the blue pen, dropping each completed piece.
+[00:04:09 - 00:04:12] The person looks up briefly at the factory floor.
+[00:04:12 - 00:04:17] Looking down, the person picks up a strip, folds it, and marks it.
+[00:04:17 - 00:04:21] The person looks up again at the surrounding workspace.
+[00:04:21 - 00:04:40] Back at the table, the person continuously picks, folds, and marks multiple fabric strips with the blue pen.
+[00:04:40 - 00:04:45] The person shifts their attention upwards, looking across the rows of sewing machines.
+[00:04:45 - 00:05:11] Gazing back at the table, the person repeats the process of picking up the white strips, looping them in their left hand, marking the fold with their right hand, and releasing them.
+[00:05:11 - 00:05:18] The person looks up towards the factory floor.
+[00:05:18 - 00:05:36] Looking back at the table, the person continues marking the folded ends of the fabric strips with the blue pen.
+[00:05:36 - 00:05:40] The person pauses and looks up at the garment factory floor.
+[00:05:40 - 00:06:06] Focus returns to the table. The person repeatedly grasps, folds, and marks the white fabric strips, tossing each marked piece down.
+[00:06:06 - 00:06:11] The person looks up, scanning the workers and blue fabric materials at the stations ahead.
+[00:06:11 - 00:06:19] Returning to the task, the person picks up a fabric strip, folds it, and marks it with the pen.
+[00:06:19 - 00:06:27] The person looks up again at the factory environment.
+[00:06:27 - 00:06:33] Looking down, the person folds and marks another fabric strip.
+[00:06:33 - 00:06:37] The person shifts their gaze upwards to the factory floor.
+[00:06:37 - 00:06:44] Back at the table, the person folds and marks another white strip with the blue pen.
+[00:06:44 - 00:06:50] The person looks up, observing the factory workspace.
+[00:06:50 - 00:07:04] Looking down, the person continues the cycle of grasping, folding, marking, and dropping the fabric strips.
+[00:07:04 - 00:07:09] The person looks up at the surrounding factory floor.
+[00:07:09 - 00:07:12] Gazing at the table, the person marks a fabric strip.
+[00:07:12 - 00:07:18] The person looks up again, checking the factory floor.
+[00:07:18 - 00:07:22] Returning to the table, the person marks another strip.
+[00:07:22 - 00:07:27] The person glances up at the factory space.
+[00:07:27 - 00:07:33] Looking down, the person folds and marks a fabric strip.
+[00:07:33 - 00:07:44] The person continues to pick up, fold, and mark multiple fabric strips with the blue pen.
+[00:07:44 - 00:07:51] The person looks up, shifting attention to the garment factory floor.
+[00:07:51 - 00:08:01] Focusing back on the table, the person resumes marking the folded ends of the white fabric strips.
+[00:08:01 - 00:08:06] The person looks up at the factory environment.
+[00:08:06 - 00:08:46] Looking down at the workspace, the person repeatedly takes white fabric strips from the pile, loops them, marks them with the blue pen, and drops them back onto the table.
+[00:08:46 - 00:08:52] The person stops marking and looks up, scanning the rows of sewing stations and workers.
+[00:08:52 - 00:09:16] The person returns their focus to the table, continuing the process of grasping, folding, and marking the fabric strips.
+[00:09:16 - 00:09:23] The person looks up towards the factory floor.
+[00:09:23 - 00:09:28] Looking down, the person picks up a strip, folds it, and marks it.
+[00:09:28 - 00:09:35] The person shifts their gaze upwards to the factory floor.
+[00:09:35 - 00:09:44] Back at the table, the person continuously picks, folds, and marks several fabric strips.
+[00:09:44 - 00:09:50] The person looks up at the surrounding workspace.
+[00:09:50 - 00:09:53] Gazing at the table, the person marks a fabric strip.
+[00:09:53 - 00:09:56] The person looks up briefly at the factory floor.
+[00:09:56 - 00:10:08] Looking down, the person repeats the process of picking up the white strips, looping them in their left hand, marking the fold, and releasing them.
+[00:10:08 - 00:10:14] The person looks up, scanning the workers and tables.
+[00:10:14 - 00:10:25] Focus returns to the table. The person repeatedly grasps, folds, and marks the white fabric strips with the blue pen.
+[00:10:25 - 00:10:31] The person looks up towards the factory floor.
+[00:10:31 - 00:10:38] Looking down, the person continues the cycle of grasping, folding, marking, and dropping the fabric strips.
+[00:10:38 - 00:10:44] The person glances up at the factory space.
+[00:10:44 - 00:10:49] Returning to the table, the person marks another strip.
+[00:10:49 - 00:10:54] The person looks up again, checking the factory floor.
+[00:10:54 - 00:11:08] Focusing back on the table, the person resumes marking the folded ends of the white fabric strips.
+[00:11:08 - 00:11:13] The person looks up at the factory environment.
+[00:11:13 - 00:11:19] Looking down, the person picks up a strip, folds it, and marks it.
+[00:11:19 - 00:11:23] The person shifts their gaze upwards to the factory floor.
+[00:11:23 - 00:11:28] Gazing at the table, the person marks a fabric strip.
+[00:11:28 - 00:11:34] The person looks up at the surrounding factory floor.
+[00:11:34 - 00:11:41] Back at the table, the person folds and marks another white strip with the blue pen.
+[00:11:41 - 00:11:46] The person looks up, shifting attention to the garment factory floor.
+[00:11:46 - 00:11:51] Returning to the table, the person marks another strip.
+[00:11:51 - 00:11:56] The person looks up again, observing the factory workspace.
+[00:11:56 - 00:12:07] Looking down, the person continues to pick up, fold, and mark multiple fabric strips with the blue pen.
+[00:12:07 - 00:12:12] The person looks up towards the factory floor.
+[00:12:12 - 00:12:35] The person returns their focus to the table, continuing the process of grasping, folding, and marking the fabric strips.
+[00:12:35 - 00:12:43] The person stops marking and looks up, scanning the aisles and workstations in the factory.
+[00:12:43 - 00:12:52] Looking down at the workspace, the person repeatedly takes white fabric strips from the pile, loops them, marks them with the blue pen, and drops them.
+[00:12:52 - 00:12:59] The person looks up at the factory environment.
+[00:12:59 - 00:13:06] Gazing at the table, the person marks a fabric strip.
+[00:13:06 - 00:13:12] The person looks up again at the surrounding workspace.
+[00:13:12 - 00:13:30] Back at the table, the person continuously picks, folds, and marks several fabric strips.
+[00:13:30 - 00:13:35] The person looks up at the factory floor.
+[00:13:35 - 00:13:45] Looking down, the person repeats the process of picking up the white strips, looping them in their left hand, marking the fold, and releasing them.
+[00:13:45 - 00:13:51] The person looks up, scanning the workers and blue fabric materials at the stations ahead.
+[00:13:51 - 00:14:08] Focus returns to the table. The person repeatedly grasps, folds, and marks the white fabric strips with the blue pen.
+[00:14:08 - 00:14:13] The person glances up at the factory space.
+[00:14:13 - 00:14:26] Looking down, the person continues the cycle of grasping, folding, marking, and dropping the fabric strips.
+[00:14:26 - 00:14:31] The person looks up towards the factory floor.
+[00:14:31 - 00:14:41] Focusing back on the table, the person resumes marking the folded ends of the white fabric strips.
+[00:14:41 - 00:14:47] The person looks up at the factory environment.
+[00:14:47 - 00:14:51] Returning to the table, the person marks another strip.
+[00:14:51 - 00:14:59] The person looks up again, checking the factory floor.
+[00:14:59 - 00:15:25] Looking down, the person continues to pick up, fold, and mark multiple fabric strips with the blue pen.
+[00:15:25 - 00:15:29] The person shifts their gaze upwards to the factory floor.
+[00:15:29 - 00:15:35] Gazing at the table, the person marks a fabric strip.
+[00:15:35 - 00:15:42] The person looks up at the surrounding factory floor.
+[00:15:42 - 00:15:47] Back at the table, the person folds and marks another white strip with the blue pen.
+[00:15:47 - 00:15:52] The person looks up, shifting attention to the garment factory floor.
+[00:15:52 - 00:16:01] Looking down, the person continues to pick up, fold, and mark multiple fabric strips with the blue pen.
+[00:16:01 - 00:16:06] The person looks up towards the factory floor.
+[00:16:06 - 00:16:13] Returning to the table, the person marks another strip.
+[00:16:13 - 00:16:17] The person looks up again, observing the factory workspace.
+[00:16:17 - 00:16:32] The person returns their focus to the table, continuing the process of grasping, folding, and marking the fabric strips.
+[00:16:32 - 00:16:38] The person stops marking and looks up, scanning the aisles and workstations in the factory.
+[00:16:38 - 00:16:43] Gazing at the table, the person marks a fabric strip.
+[00:16:43 - 00:16:48] The person looks up again at the surrounding workspace.
+[00:16:48 - 00:16:59] Back at the table, the person continuously picks, folds, and marks several fabric strips.
+[00:16:59 - 00:17:04] The person looks up at the factory floor.
+[00:17:04 - 00:17:08] Looking down, the person picks up a strip, folds it, and marks it.
+[00:17:08 - 00:17:15] The person looks up at the factory environment.
+[00:17:15 - 00:17:31] Focus returns to the table. The person repeatedly grasps, folds, and marks the white fabric strips with the blue pen.
+[00:17:31 - 00:17:35] The person glances up at the factory space.
+[00:17:35 - 00:17:50] Looking down, the person continues the cycle of grasping, folding, marking, and dropping the fabric strips.
+[00:17:50 - 00:17:54] The person looks up towards the factory floor.
+[00:17:54 - 00:17:59] Returning to the table, the person marks another strip.
+[00:17:59 - 00:18:05] The person looks up again, checking the factory floor.
+[00:18:05 - 00:18:10] Gazing at the table, the person marks a fabric strip.
+[00:18:10 - 00:18:15] The person looks up at the surrounding factory floor.
+[00:18:15 - 00:18:22] Back at the table, the person folds and marks another white strip with the blue pen.
+[00:18:22 - 00:18:27] The person looks up, shifting attention to the garment factory floor.
+[00:18:27 - 00:18:41] Looking down, the person continues to pick up, fold, and mark multiple fabric strips with the blue pen.
+[00:18:41 - 00:18:46] The person looks up towards the factory floor.
+[00:18:46 - 00:18:49] Returning to the table, the person marks another strip.
+[00:18:49 - 00:18:56] The person looks up again, observing the factory workspace.
+[00:18:56 - 00:19:07] The person returns their focus to the table, continuing the process of grasping, folding, and marking the fabric strips.
+[00:19:07 - 00:19:14] The person stops marking and looks up, scanning the aisles and workstations in the factory.
+[00:19:14 - 00:19:21] Gazing at the table, the person marks a fabric strip.
+[00:19:21 - 00:19:26] The person looks up again at the surrounding workspace.
+[00:19:26 - 00:19:30] Looking down, the person picks up a strip, folds it, and marks it.
+[00:19:30 - 00:19:34] The person looks up at the factory floor.
+[00:19:34 - 00:19:40] Back at the table, the person folds and marks another white strip with the blue pen.
+[00:19:40 - 00:19:45] The person looks up at the factory environment.
+[00:19:45 - 00:19:50] Gazing at the table, the person marks a fabric strip.
+[00:19:50 - 00:19:53] The person looks up again, checking the factory floor.
+[00:19:53 - 00:20:01] Looking down, the person continues the cycle of grasping, folding, marking, and dropping the fabric strips.

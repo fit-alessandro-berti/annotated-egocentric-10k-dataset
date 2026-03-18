@@ -1,0 +1,49 @@
+[00:00:00 - 00:02:00] The person is seated at a workbench covered with yellow ceramic pieces that have a white circular ring on top. They repeatedly pick up a piece, use a small brush to apply white paste to the inside of the white ring, smooth and wipe away excess paste with their thumb, and place the piece back on the table. Another person's hands occasionally appear to assist with the pieces.
+[00:02:00 - 00:02:03] The person briefly stands up, causing the camera view to shift, and looks towards a different area of the workshop before sitting back down.
+[00:02:03 - 00:04:06] The person resumes the repetitive task of applying white paste to the pieces with a brush and smoothing it with their thumb.
+[00:04:06 - 00:05:01] The camera angle shifts slightly, but the person continues the exact same pasting and smoothing task on the yellow pieces at the workbench.
+[00:05:01 - 00:05:05] The person stops working, stands up, and walks a few steps away from the workbench, looking towards a metal storage rack.
+[00:05:05 - 00:05:40] The person returns to their seat at the workbench and continues the repetitive pasting and smoothing task.
+[00:05:40 - 00:05:44] The person stands up again, turns, and looks at the metal racks behind them.
+[00:05:44 - 00:06:42] The person sits back down and resumes the pasting and smoothing task on the pieces.
+[00:06:42 - 00:07:03] The person stands up and walks around the workshop. They walk past metal racks filled with pieces, pass other workers, and then return to their workstation, picking up a red bottle along the way.
+[00:07:03 - 00:07:48] The person is back at their workbench, continuing the task of applying paste to the pieces with a brush and smoothing it with their thumb.
+[00:07:48 - 00:08:00] The person stands up, picks up a metal tray, and walks over to the metal racks to place or adjust the tray.
+[00:08:00 - 00:08:15] The person returns to the workbench and continues the pasting task.
+[00:08:15 - 00:08:21] The person stands up, picks up a tray of finished pieces, and carries it to the metal racks.
+[00:08:21 - 00:08:50] The person is back at the workbench, continuing the pasting and smoothing task.
+[00:08:50 - 00:09:05] The person stands up, picks up another tray of pieces, walks to the racks, places the tray down, and then returns to the workbench.
+[00:09:05 - 00:09:12] The person resumes the pasting task.
+[00:09:12 - 00:09:33] The person stops working, picks up a red bottle, and walks around the workshop. They carry a tray of pieces to the racks, adjust some items, and then walk to a different workbench.
+[00:09:33 - 00:09:50] The person is standing at a new workbench, continuing the same task of applying paste with a brush and smoothing it on the yellow pieces.
+[00:09:50 - 00:10:02] The person walks away from the workbench, carrying a tray of pieces, places it on a rack, and walks past another worker.
+[00:10:02 - 00:10:25] The person returns to a workbench and resumes the rapid pasting and smoothing task on the pieces.
+[00:10:25 - 00:10:52] The person stops, picks up a tray of pieces, walks to the metal racks, places the tray down, and then walks around the workshop, inspecting different racks.
+[00:10:52 - 00:11:03] The person walks over to another workbench where yellow pieces are laid out on a metal grate, picks one up, and prepares to work.
+[00:11:03 - 00:11:38] The person sits down and continues the repetitive task of applying paste to the pieces with a brush and smoothing it.
+[00:11:38 - 00:11:42] The person stands up and walks a few steps, moving a tray.
+[00:11:42 - 00:12:35] The person is sitting back down at the workbench. They have switched to a new task: they now repeatedly pick up a piece and use a small, flat metal tool to scrape and shape the inside of the white ring, removing excess material, before placing the piece down.
+[00:12:35 - 00:12:42] The person stands up and walks a short distance before returning.
+[00:12:42 - 00:13:21] The person sits down and resumes the scraping and shaping task with the metal tool.
+[00:13:21 - 00:13:25] The person stands up and takes a few steps away from the workbench.
+[00:13:25 - 00:14:04] The person returns to their seat and continues the scraping task with the metal tool.
+[00:14:04 - 00:14:08] The person stands up again, looking around briefly.
+[00:14:08 - 00:14:44] The person sits back down and resumes the repetitive scraping task.
+[00:14:44 - 00:14:50] The person stands up and walks away from the workbench.
+[00:14:50 - 00:15:20] The person returns, sits down, and continues the scraping and shaping task with the metal tool.
+[00:15:20 - 00:15:25] The person stands up and walks a short distance.
+[00:15:25 - 00:15:50] The person sits back down and resumes the scraping task.
+[00:15:50 - 00:15:54] The person stands up again and moves briefly.
+[00:15:54 - 00:16:10] The person sits down and continues the scraping task with the metal tool.
+[00:16:10 - 00:16:16] The person stands up and walks a few steps.
+[00:16:16 - 00:16:26] The person sits back down and resumes the scraping task.
+[00:16:26 - 00:16:32] The person stands up and walks away from the workbench.
+[00:16:32 - 00:17:22] The person returns, sits down, and continues the repetitive scraping and shaping task.
+[00:17:22 - 00:17:27] The person stands up and walks a short distance.
+[00:17:27 - 00:18:03] The person sits down and resumes the scraping task.
+[00:18:03 - 00:18:12] The person stands up and walks around, looking at the metal racks.
+[00:18:12 - 00:18:42] The person sits back down and continues the scraping task with the metal tool.
+[00:18:42 - 00:18:47] The person stands up and walks a few steps away.
+[00:18:47 - 00:19:15] The person returns, sits down, and resumes the scraping task.
+[00:19:15 - 00:19:32] The person stands up, walks to a shelf, inspects it briefly, and then walks back to their workstation.
+[00:19:32 - 00:20:01] The person sits down and continues the repetitive task of scraping and shaping the inside of the white rings on the yellow pieces using the small metal tool.

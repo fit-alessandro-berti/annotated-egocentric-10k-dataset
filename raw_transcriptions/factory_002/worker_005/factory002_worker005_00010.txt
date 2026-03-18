@@ -1,0 +1,71 @@
+[00:00:00 - 00:01:02] The wearer lays a gray t-shirt flat on the ironing board, adjusts the sleeves and collar with both hands, and continuously irons the fabric using a steam iron held in their right hand. They use their left hand to smooth out wrinkles ahead of the iron, ensuring the shirt is fully pressed.
+
+[00:01:02 - 00:01:21] The wearer reaches for a white rectangular template, places it on the center of the t-shirt, folds the left and right sides of the shirt over the template, folds the bottom hem upwards, and then slides the template out from the top.
+
+[00:01:21 - 00:02:05] The wearer lifts the folded t-shirt and places it onto a stack on the left side of the table. They then grasp a new unironed t-shirt from a pile, lay it flat on the board, adjust it, and iron it thoroughly, turning the shirt to press different sections.
+
+[00:02:05 - 00:02:17] The wearer pauses ironing, reaches with both hands to pick up the stack of folded t-shirts from the left side, and moves them to a larger accumulating pile on the right side of the table.
+
+[00:02:17 - 00:02:51] The wearer returns to the current t-shirt on the board, finishes smoothing and pressing it with the iron. They then fold the left and right sides inward and fold the bottom up by hand without using the template, placing the completed shirt on the empty left side of the table.
+
+[00:02:51 - 00:03:09] The wearer reaches for another unironed t-shirt, spreads it out on the board, and irons the fabric, using their left hand to keep it taut while moving the iron.
+
+[00:03:09 - 00:03:34] The wearer grasps the white template, places it on the back of the t-shirt, folds the sleeves and sides over it, folds the bottom half up, removes the template, and stacks the folded shirt on the left.
+
+[00:03:34 - 00:03:57] The wearer picks up a bundle of unironed shirts. They then reach for a notebook and pen from the left side, open the notebook, write an entry on the page, close it, and set the pen down.
+
+[00:03:57 - 00:05:27] The wearer takes a new t-shirt from the bundle, lays it flat on the ironing board, and irons it extensively, adjusting the fabric multiple times to press both the front and back.
+
+[00:05:27 - 00:05:50] The wearer positions the white template on the shirt, folds the sides and bottom edges over it, pulls the template out from the top, and places the folded shirt on the left stack.
+
+[00:05:50 - 00:07:14] The wearer picks up the next unironed t-shirt, lays it out, and continuously irons it, running the steam iron over the sleeves and body while smoothing the fabric with their left hand.
+
+[00:07:14 - 00:07:37] The wearer folds the t-shirt around the white template, slides the template out, and adds the folded shirt to the stack on the left.
+
+[00:07:37 - 00:08:13] Another unironed t-shirt is grabbed, laid flat on the board, and ironed thoroughly across all sections.
+
+[00:08:13 - 00:08:32] The wearer folds this t-shirt by hand without the template, bringing the sides inward and folding the bottom up, before placing it on the left stack.
+
+[00:08:32 - 00:09:20] The wearer grasps a new t-shirt, spreads it out, and irons it, adjusting the alignment of the shirt on the board to press it evenly.
+
+[00:09:20 - 00:09:41] The white template is placed on the t-shirt. The wearer folds the fabric around it, removes the template, and stacks the shirt on the left.
+
+[00:09:41 - 00:10:40] The wearer reaches for another t-shirt, lays it out, and irons it, systematically pressing the fabric with the steam iron.
+
+[00:10:40 - 00:10:59] The wearer folds the t-shirt by hand without the template, creasing the sides and bottom, then adds it to the left stack.
+
+[00:10:59 - 00:11:32] The wearer lays out a new t-shirt and irons it, passing the iron over the fabric multiple times.
+
+[00:11:32 - 00:11:51] The white template is used again to fold the t-shirt. After folding the sides and bottom over the board, the template is removed, and the shirt is stacked on the left.
+
+[00:11:51 - 00:12:35] The wearer grasps the next unironed t-shirt but drops it, leaving the ironing station. They walk down the aisle of the factory floor, passing rows of work tables and other workers sorting garments.
+
+[00:12:35 - 00:13:58] The wearer approaches a workstation where a colleague in a white shirt is working. The wearer stands nearby, looking over the work table and observing the colleague sorting items.
+
+[00:13:58 - 00:14:18] The wearer turns around, walks back a short distance, and approaches a barred window. They reach out, open a small metal flap or door, look outside into the darkness, and then close it.
+
+[00:14:18 - 00:14:31] The wearer turns and walks back down the factory aisle, returning to their original ironing station.
+
+[00:14:31 - 00:15:00] The wearer spreads out the t-shirt that was left on the ironing board, smoothing it with their hands, and resumes ironing.
+
+[00:15:00 - 00:15:24] The wearer folds the t-shirt by hand without the template, making side and bottom folds, and places it on the left stack.
+
+[00:15:24 - 00:16:03] The wearer grabs a new t-shirt, lays it out, and irons it thoroughly.
+
+[00:16:03 - 00:16:21] The wearer places the white template on the t-shirt, folds the fabric over it, removes the template, and stacks the folded shirt on the left.
+
+[00:16:21 - 00:17:15] The wearer reaches for another t-shirt, spreads it out, and continuously irons it, pressing the front and back.
+
+[00:17:15 - 00:17:31] The wearer folds the t-shirt by hand without the template, adjusting the edges, and places it on the left stack.
+
+[00:17:31 - 00:18:09] The wearer lays out a new t-shirt and irons it, keeping the fabric smooth with their left hand.
+
+[00:18:09 - 00:18:31] The wearer lifts the accumulated stack of folded shirts from the left side and moves them over to the large pile on the right. They then fold the current t-shirt by hand without the template and place it on the empty left spot.
+
+[00:18:31 - 00:19:19] The wearer grabs another t-shirt, lays it out, and irons it extensively.
+
+[00:19:19 - 00:19:39] The wearer uses the white template to fold the t-shirt, sliding it out after folding the sides and bottom, and stacks the shirt on the left.
+
+[00:19:39 - 00:19:54] The wearer lays out a new t-shirt, adjusts the fabric, and begins ironing it.
+
+[00:19:54 - 00:20:00] The wearer stops ironing, leaves the iron on the board, turns around, and walks away from the station down the factory aisle.

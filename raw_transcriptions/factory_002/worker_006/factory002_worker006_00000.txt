@@ -1,0 +1,64 @@
+[00:00:00 - 00:03:51] The wearer stands at a white table continuously folding dark purple patterned garments. They repeatedly pick a piece from a stack in the center, fold it, tuck the edges in while checking the label, and place the finished folded piece onto a growing stack on their right.
+[00:03:51 - 00:03:59] The wearer stops folding, picks up a stack of the folded garments, and walks away from the table through the factory area.
+[00:03:59 - 00:04:14] The wearer places the stack of garments on another table where a coworker is present. They pick up and examine some small cardboard boxes or packaging materials from the table.
+[00:04:14 - 00:04:21] The wearer turns away from the table, drops the packaging, and walks back to their original workstation.
+[00:04:21 - 00:06:42] The wearer resumes the repetitive task of folding the dark purple garments, picking from the center, folding, tucking, and stacking them on the right.
+[00:06:42 - 00:06:44] The wearer walks away from the workstation.
+[00:06:44 - 00:06:51] The wearer stands at the table, folds another garment, places it on the stack, and then walks away again.
+[00:06:51 - 00:07:08] The wearer walks across the factory floor and approaches a woman wearing a light green top and white leggings, standing near lockers and holding books. The wearer talks to her and gestures with their hands.
+[00:07:08 - 00:07:15] The woman turns and walks away. The wearer turns around and walks back to their workstation.
+[00:07:15 - 00:07:23] The wearer folds another garment at the workstation, then walks away.
+[00:07:23 - 00:08:05] The wearer walks back to the table and continuously folds garments, adding to the stack.
+[00:08:05 - 00:08:12] The wearer stops folding and walks to a different table where another person is working.
+[00:08:12 - 00:08:26] The wearer stands at the other table, looking at and slightly adjusting stacks of similar purple garments alongside a coworker's hands.
+[00:08:26 - 00:08:52] The wearer walks back to their original table and resumes the continuous folding and stacking of purple garments.
+[00:08:52 - 00:08:59] The wearer walks away from the table, passing a row of grey lockers.
+[00:08:59 - 00:09:05] The wearer is back at the workstation, folding garments.
+[00:09:05 - 00:09:16] The wearer walks over to the woman in green again near the lockers and interacts with her, gesturing with their hands.
+[00:09:16 - 00:09:20] The wearer walks back to the workstation and briefly looks at the garments.
+[00:09:20 - 00:09:28] The wearer walks through the factory floor, passing large red bins and other workers.
+[00:09:28 - 00:09:36] The wearer stops at a table where a woman in a yellow and red sari is working with light blue garments. The wearer reaches out and touches one of the blue garments.
+[00:09:36 - 00:09:45] The wearer walks away, passing the woman in green, and heads towards an office desk area.
+[00:09:45 - 00:09:55] The wearer stands at the office desk, interacts with a black phone receiver or scanner, picking it up and holding it.
+[00:09:55 - 00:10:00] The wearer walks back towards the factory floor.
+[00:10:00 - 00:10:30] The wearer stands near a desk where the woman in green is now sitting. The wearer looks down at the desk and its contents.
+[00:10:30 - 00:10:33] The wearer walks back to their workstation.
+[00:10:33 - 00:10:37] The wearer stands at the workstation, briefly touches the garments, and walks away.
+[00:10:37 - 00:10:44] The wearer walks back to the office desk and again interacts with the black phone receiver or scanner.
+[00:10:44 - 00:10:56] The wearer leaves the desk, walks towards an exit doorway, and walks down a ramp to the outside.
+[00:10:56 - 00:11:02] The wearer turns around, walks back up the ramp, and re-enters the factory.
+[00:11:02 - 00:11:06] The wearer walks to the table where the woman in the yellow sari is working and touches the blue garments again.
+[00:11:06 - 00:11:13] The wearer walks away towards the lockers and stops to look down.
+[00:11:13 - 00:11:21] The wearer walks to a nearby table, picks up a folded purple garment, and carries it back to their main workstation.
+[00:11:21 - 00:11:26] The wearer folds a garment at the workstation.
+[00:11:26 - 00:11:32] The wearer walks away, passes the lockers, and arrives at a table with stacks of purple garments, touching them.
+[00:11:32 - 00:11:38] The wearer picks up a piece of cardboard packaging from the table, handles it, and drops it back down.
+[00:11:38 - 00:11:45] The wearer walks away empty-handed, reaches another table, and touches a garment there.
+[00:11:45 - 00:11:51] The wearer walks back to the main workstation and briefly touches a garment.
+[00:11:51 - 00:12:04] The wearer walks away from the table and navigates through the factory floor, eventually arriving at an empty table.
+[00:12:04 - 00:12:15] The wearer walks around carrying a stack of purple garments, then places the stack onto a table.
+[00:12:15 - 00:12:19] The wearer walks back to their main workstation.
+[00:12:19 - 00:15:17] The wearer resumes the continuous, repetitive task of folding the dark purple patterned garments. They pick from the center, fold, tuck, and place them onto the stack on their right without interruption.
+[00:15:17 - 00:15:23] The wearer stops folding, walks away to another table, and touches the folded purple garments there.
+[00:15:23 - 00:15:37] The wearer walks back to the workstation and continues folding garments.
+[00:15:37 - 00:15:45] The wearer walks away, passes some tables, folds a garment at a different table, and stacks it.
+[00:15:45 - 00:16:07] The wearer walks back to the main workstation and resumes folding garments.
+[00:16:07 - 00:16:15] The wearer walks away, passes the lockers, returns to the workstation, and folds a garment.
+[00:16:15 - 00:16:34] The wearer continuously folds garments at the workstation.
+[00:16:34 - 00:16:43] The wearer walks away to another table, touches the garments on it, and walks back to the workstation.
+[00:16:43 - 00:17:15] The wearer resumes continuously folding garments at the workstation.
+[00:17:15 - 00:17:24] The wearer walks away, passes the lockers, returns to the workstation, and folds a garment.
+[00:17:24 - 00:17:35] The wearer walks away to another table, touches the garments, and walks back to the workstation.
+[00:17:35 - 00:17:49] The wearer resumes folding garments at the workstation.
+[00:17:49 - 00:18:03] The wearer walks away to another table, picks up a stack of folded garments, carries them back to the workstation, places them down, and resumes folding.
+[00:18:03 - 00:18:12] The wearer folds garments.
+[00:18:12 - 00:18:23] The wearer walks away to another table, touches garments there, and walks back to the workstation.
+[00:18:23 - 00:18:28] The wearer folds garments at the workstation.
+[00:18:28 - 00:18:35] The wearer walks away, passing the lockers.
+[00:18:35 - 00:18:49] The wearer is back at the workstation, folding garments.
+[00:18:49 - 00:19:01] The wearer walks away to another table, touches garments, and walks back to the workstation.
+[00:19:01 - 00:19:08] The wearer folds garments at the workstation.
+[00:19:08 - 00:19:26] The wearer walks away to another table, looks at garments as someone walks past, then walks past a clothing rack and lockers, heading towards the workstation.
+[00:19:26 - 00:19:38] The wearer arrives at the workstation, picks up a stack of folded garments, walks away, and places the stack onto another table.
+[00:19:38 - 00:19:54] The wearer walks back to the workstation area, moving past various tables.
+[00:19:54 - 00:20:00] The wearer approaches a table where several coworkers are standing and places a large stack of purple garments onto the table.

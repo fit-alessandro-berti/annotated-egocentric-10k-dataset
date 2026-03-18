@@ -1,0 +1,15 @@
+[00:00:00 - 00:00:13] The wearer, wearing a pink shirt and a black smartwatch on their left wrist, stands at a table covered with stacks of folded white t-shirts with yellow collar trim. Holding a tagging gun in their right hand, they place a green tag on the neck area of a shirt, attach it using the gun, and then pick up the shirt to move it onto a stack on their right.
+
+[00:00:13 - 00:00:23] The wearer places the tagging gun down on the table. They reach out with their left hand, grasp a large stack of untagged white shirts from the left side, and pull it closer to the center of the workspace.
+
+[00:00:23 - 00:01:05] The wearer turns away from the table holding a small object and walks past shelving units filled with cardboard boxes. They approach another person whose legs are visible, hand them the small object, and receive a small metal piece in return. The wearer then turns around and walks back to their workstation.
+
+[00:01:05 - 00:02:18] Standing back at the table, the wearer handles the tagging gun and the newly acquired small metal piece. They carefully insert the metal needle into the front nozzle of the tagging gun, pushing and turning it to lock it into place. Once the gun is reassembled, they pick up a strip of plastic fasteners, load it, and visually inspect the tagging gun to ensure it is fully functional.
+
+[00:02:18 - 00:04:12] The wearer begins a continuous session of tagging the folded white shirts. For each shirt, they pull it from the center stack, snap a green tag off a strip, position the tag on the neck area, squeeze the tagging gun to secure it, and then lift the finished shirt to place it neatly onto the completed stack on the right. They repeat these micro-actions sequentially for multiple shirts.
+
+[00:04:12 - 00:11:58] The wearer engages in a persistent, repetitive cycle: they temporarily stop tagging, turn and walk away from the table towards the shelving area, and immediately turn back to return to the workstation. Upon returning, they resume the exact same sequence of grabbing, tagging, and stacking several white shirts before pausing to walk away again. This back-and-forth walking mixed with bursts of tagging repeats identically over this entire duration.
+
+[00:11:58 - 00:12:35] During one of the return trips to the workstation, the wearer carries a blue box and places it on the table. They open the box with their hands, reach inside to retrieve a handful of new green tags, and place the fresh supply on the table to continue their work.
+
+[00:12:35 - 00:20:07] The wearer returns to the established repeated cycle: they use the new green tags to tag the white shirts with the tagging gun, move them to the right-side stack, and periodically pause to walk away from the table towards the shelves and immediately return. This identical loop of tagging bursts and short walks continues uninterrupted until the video concludes.

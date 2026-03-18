@@ -1,0 +1,68 @@
+[00:00:00 - 00:00:03] The camera wearer stands at a workstation with stacks of folded blue shirts, white paper bands, and empty plastic sleeves with hangers. They pick up a white paper band with their right hand and a folded blue shirt with their left hand.
+[00:00:03 - 00:00:10] The wearer places the blue shirt onto the white band, folds the band around the shirt, picks up a clear plastic sleeve, opens it, and slides the shirt assembly inside. They place the completed package onto a stack to their left.
+[00:00:10 - 00:02:00] The wearer continues this repetitive packaging process continuously. They repeatedly grab a white band, fold it, wrap it around a blue shirt, grab a plastic sleeve, slide the shirt inside, and place the finished package on the growing stack to their left. Another person is visible in the background performing a similar task.
+[00:02:00 - 00:02:08] The wearer picks up the large completed stack of packaged shirts with both hands, turns to their right, walks over to an adjacent table, and places the stack down.
+[00:02:08 - 00:02:30] After placing the stack, the wearer turns back, walks to their original workstation, and immediately resumes the packaging task. They take a white paper band, wrap it around a blue shirt, slide it into a plastic sleeve, and add it to a new stack.
+[00:02:30 - 00:02:33] Another person approaches the wearer's table and places a fresh stack of folded blue shirts down on the work surface, replenishing the supply.
+[00:02:33 - 00:03:07] The wearer continues their packaging routine without pausing. They repeatedly fold a white band, wrap a blue shirt from the new stack, slide the assembly into a plastic sleeve, and place it on the completed stack.
+[00:03:07 - 00:03:14] The wearer picks up the newly completed stack of packaged shirts with both hands, turns around, walks a few steps to the other table, places the stack down next to the previous one, and walks back to their workstation.
+[00:03:14 - 00:04:13] Back at the workstation, the wearer resumes the repetitive packaging task, continuously wrapping shirts in white paper bands, inserting them into plastic sleeves, and stacking them.
+[00:04:13 - 00:04:18] The wearer picks up the completed stack of packaged shirts, turns around, walks to the adjacent table, places the stack down, and returns to their workstation.
+[00:04:18 - 00:04:59] The wearer continues the packaging process, repeatedly taking a white band, folding it around a blue shirt, sliding it into a plastic sleeve, and adding it to the stack on the left.
+[00:04:59 - 00:05:05] The wearer grabs the completed stack of packaged shirts, turns around, walks to the other table, places the stack down, and walks back to their workstation.
+[00:05:05 - 00:05:39] The wearer resumes the packaging task, picking up a white band, folding it, wrapping a blue shirt, sliding it into a plastic sleeve, and placing it on the stack.
+[00:05:39 - 00:05:43] The wearer picks up the completed stack of shirts, turns, walks to the other table, places them down, and returns to the workstation.
+[00:05:43 - 00:06:20] The wearer continues the packaging routine in the same manner, wrapping shirts in white bands, inserting them into plastic sleeves, and stacking them.
+[00:06:20 - 00:06:25] The wearer picks up the completed stack of shirts with both hands, turns, walks to the other table, places the stack down, and returns to their workstation.
+[00:06:25 - 00:07:00] The wearer resumes packaging shirts, repeating the cycle of folding a band, wrapping a shirt, sliding it into a sleeve, and stacking it.
+[00:07:00 - 00:07:05] The wearer lifts the completed stack of packaged shirts, turns, walks to the adjacent table, and places the stack down.
+[00:07:05 - 00:08:46] The wearer remains at the second table and begins a new task of bundling the individual shirt packages. They take a stack of the packaged shirts, slide them together into a larger, clear plastic master bag, fold the open end of the bag over, and use a small tape dispenser to seal it closed. They repeat this process continuously, bagging and taping multiple stacks of shirts while another person works nearby.
+[00:08:46 - 00:08:52] The wearer turns and walks away from the packaging table, navigating through the workspace past shelves and other tables.
+[00:08:52 - 00:09:02] The wearer approaches a stack of flat, unassembled cardboard boxes. They pick one up, unfold it into a rectangular shape, fold the bottom flaps inward, and use a tape dispenser to seal the bottom of the box securely.
+[00:09:02 - 00:09:12] Holding the newly assembled box, the wearer turns and walks back through the workspace, returning to the table where they were previously bagging the shirts. They place the empty box on the floor near the table.
+[00:09:12 - 00:09:28] The wearer begins loading the cardboard box on the floor. They pick up the large, taped master bags of shirts from the table one by one and pack them neatly into the box until it is full.
+[00:09:28 - 00:09:40] Once the box is full, the wearer folds the top flaps inward and uses a tape dispenser to seal the top of the box closed. They then pick up a marker and write something on the sealed tape or box.
+[00:09:40 - 00:09:52] The wearer lifts the sealed, heavy box with both hands, carries it to a nearby storage area, and places it down onto a growing stack of similar completed boxes.
+[00:09:52 - 00:10:06] The wearer walks back to the stack of flat cardboard boxes. They pick up a flat box, unfold it, fold the bottom flaps, tape the base closed, and walk back to the packaging table, placing the new empty box on the floor.
+[00:10:06 - 00:10:28] The wearer resumes loading the new box, picking up the remaining large bags of shirts from the table and arranging them inside until the box is full.
+[00:10:28 - 00:10:38] After filling the box, the wearer folds the top flaps down, uses the tape dispenser to seal the box shut, and then writes on the top with a marker.
+[00:10:38 - 00:10:48] The wearer lifts the sealed box, carries it to the storage area, and stacks it on top of the previously placed boxes.
+[00:10:48 - 00:11:02] The wearer returns to the stack of flat cardboard boxes, picks one up, unfolds it, folds the bottom flaps, tapes the base closed, and walks back to the packaging table, placing the new box on the floor.
+[00:11:02 - 00:11:15] The wearer loads the remaining large bags of shirts from the current table into the box. Since the table is now clear of bags and the box is not full, they lift the partially filled box.
+[00:11:15 - 00:11:22] The wearer carries the partially filled box to another nearby packaging table and sets it down on the floor next to this new workstation.
+[00:11:22 - 00:11:40] The wearer begins packing bags of shirts from this new table into the box, taking multiple large bags and placing them inside until the box is fully packed.
+[00:11:40 - 00:11:51] Once full, the wearer folds the top flaps, tapes the box closed with the dispenser, and writes on the top with a marker.
+[00:11:51 - 00:12:02] The wearer lifts the sealed box with both hands, carries it over to the storage area, and carefully places it onto the stack of packed boxes.
+[00:12:02 - 00:12:20] The wearer walks back to the stack of flat cardboard boxes. They pick up a new flat box, unfold it, fold in the bottom flaps, tape the bottom securely, and then carry the assembled empty box back to the packaging table, placing it on the floor.
+[00:12:20 - 00:12:42] The wearer fills the new box by transferring large bags of shirts from the table into the box on the floor.
+[00:12:42 - 00:12:55] After filling the box, the wearer folds down the top flaps, uses the tape dispenser to seal it shut, and writes something on the top with a marker.
+[00:12:55 - 00:13:05] The wearer lifts the heavy sealed box, carries it over to the storage stack, and places it on top of the other boxes.
+[00:13:05 - 00:13:20] The wearer returns to the stack of flat cardboard boxes, grabs another one, unfolds it, folds the bottom flaps, tapes it closed, and walks back to the table to place the empty box on the floor.
+[00:13:20 - 00:13:38] The wearer resumes packing, taking bags of shirts from the table and arranging them inside the box until it is full.
+[00:13:38 - 00:13:50] The wearer folds the top flaps of the full box, tapes it securely with the dispenser, and writes on the top with a marker.
+[00:13:50 - 00:14:02] They lift the sealed box, carry it to the storage area, and add it to the stack of completed boxes.
+[00:14:02 - 00:14:15] The wearer walks back to the stack of flat boxes, picks one up, unfolds it, folds the bottom flaps, tapes the bottom, and carries it back to the table, placing it on the floor.
+[00:14:15 - 00:14:35] The wearer fills the box by transferring the large bags of shirts from the table into the box.
+[00:14:35 - 00:14:46] The wearer folds the top flaps down, tapes the box closed, and writes on the top with a marker.
+[00:14:46 - 00:14:58] The wearer lifts the sealed box, carries it to the storage area, and stacks it with the others.
+[00:14:58 - 00:15:15] The wearer walks to the stack of flat cardboard boxes, takes one, unfolds it, folds the bottom flaps inward, tapes the bottom closed, and carries the assembled box back to the table, setting it on the floor.
+[00:15:15 - 00:15:35] The wearer begins to fill the box with the large bags of shirts from the table, carefully packing them in until full.
+[00:15:35 - 00:15:48] Once the box is full, the wearer folds the top flaps, uses the tape dispenser to seal the box, and marks the top with a pen.
+[00:15:48 - 00:16:00] The wearer lifts the completed box, walks to the storage area, and places it onto the stack of boxes.
+[00:16:00 - 00:16:15] The wearer returns to the flat boxes, selects one, unfolds it, folds the bottom flaps, tapes the base securely, and carries the empty box to the packaging table, placing it on the floor.
+[00:16:15 - 00:16:35] The wearer packs the new box with large bags of shirts taken from the table until the box is full.
+[00:16:35 - 00:16:48] The wearer folds the top flaps of the box, tapes it closed with the dispenser, and writes on it with a marker.
+[00:16:48 - 00:16:58] The wearer lifts the sealed box, carries it to the storage area, and stacks it on top of the other boxes.
+[00:16:58 - 00:17:15] The wearer walks back to the flat cardboard boxes, grabs one, unfolds it into shape, folds the bottom flaps, tapes the bottom, and walks back to place the empty box near the table.
+[00:17:15 - 00:17:35] The wearer loads the box with the large bags of shirts from the table until it is completely filled.
+[00:17:35 - 00:17:48] The wearer folds down the top flaps of the box, tapes it shut, and writes on the top.
+[00:17:48 - 00:17:58] The wearer picks up the sealed box, carries it to the storage stack, and places it down.
+[00:17:58 - 00:18:15] The wearer returns to the stack of flat boxes, picks one up, unfolds it, folds the bottom flaps, tapes it closed, and carries it back to the table, placing it on the floor.
+[00:18:15 - 00:18:35] The wearer transfers the large bags of shirts from the table into the box, packing it full.
+[00:18:35 - 00:18:48] The wearer folds the top flaps, tapes the box closed, and writes on it with a marker.
+[00:18:48 - 00:18:53] The wearer lifts the sealed box, carries it to the storage area, and adds it to the stack.
+[00:18:53 - 00:19:08] The wearer walks back to the stack of flat cardboard boxes, picks one up, unfolds it into a rectangular shape, folds the bottom flaps, and uses the tape dispenser to seal the bottom. They then carry the empty box to the table and place it on the floor.
+[00:19:08 - 00:19:28] The wearer loads the new box, transferring the large bags of shirts from the table into the box until it is full.
+[00:19:28 - 00:19:43] After filling the box, the wearer folds the top flaps down, uses the tape dispenser to seal the box shut, and writes on the top with a marker.
+[00:19:43 - 00:19:52] The wearer lifts the sealed box with both hands, carries it to the storage area, and stacks it on top of the other completed boxes.
+[00:19:52 - 00:20:01] The wearer turns and walks back to the stack of flat cardboard boxes. They pick up another flat box, pull it open, and begin folding the bottom flaps inward as the video ends.

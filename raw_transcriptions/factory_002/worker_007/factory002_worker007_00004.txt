@@ -1,0 +1,68 @@
+[00:00:00 - 00:00:03] The wearer finishes taping the top center seam of a cardboard box.
+[00:00:03 - 00:00:06] The wearer turns the box over to expose the bottom flaps.
+[00:00:06 - 00:00:23] The wearer folds the bottom flaps inward and seals the bottom seam with clear tape, using a blue pen to smooth and cut the tape.
+[00:00:23 - 00:00:34] The wearer lifts the sealed box, moves it to the left, and pulls a fresh, open empty cardboard box toward himself.
+[00:00:34 - 00:01:28] The wearer repeatedly grabs stacks of packaged blue shirts from the table on the right and places them neatly inside the open cardboard box.
+[00:01:28 - 00:01:40] The wearer folds the four top flaps of the cardboard box inward to close it.
+[00:01:40 - 00:02:08] The wearer uses a roll of clear tape to seal the top center seam of the box, using the blue pen to cut and press the tape.
+[00:02:08 - 00:02:11] The wearer flips the box upside down.
+[00:02:11 - 00:02:17] The wearer tapes the bottom seam of the box with clear tape.
+[00:02:17 - 00:02:22] The wearer moves the sealed box to the side and pulls another empty open box from the stack on his left.
+[00:02:22 - 00:02:40] The wearer repeatedly takes stacks of packaged blue shirts from the table and places them inside the newly opened box.
+[00:02:40 - 00:02:50] The wearer folds the top flaps of the box closed.
+[00:02:50 - 00:03:22] The wearer seals the top seam of the box with clear tape, cutting it with the blue pen.
+[00:03:22 - 00:03:25] The wearer turns the box over.
+[00:03:25 - 00:03:32] The wearer tapes the bottom seam of the box.
+[00:03:32 - 00:03:36] The wearer sets the sealed box aside and grabs another empty open box.
+[00:03:36 - 00:03:55] The wearer transfers more packaged shirts from the table into the box.
+[00:03:55 - 00:03:59] The wearer folds the top flaps of the box to close it.
+[00:03:59 - 00:04:30] The wearer tapes the top seam of the box using clear tape and the blue pen.
+[00:04:30 - 00:04:33] The wearer flips the box over.
+[00:04:33 - 00:04:39] The wearer tapes the bottom seam of the box.
+[00:04:39 - 00:04:43] The wearer sets the box aside and pulls a new empty open box toward himself.
+[00:04:43 - 00:05:01] The wearer grabs stacks of packaged shirts from the table and arranges them inside the box.
+[00:05:01 - 00:05:08] The wearer folds the top flaps of the box closed.
+[00:05:08 - 00:05:36] The wearer tapes the top seam of the box with clear tape and the blue pen.
+[00:05:36 - 00:05:39] The wearer flips the box over.
+[00:05:39 - 00:05:46] The wearer tapes the bottom seam.
+[00:05:46 - 00:05:50] The wearer sets the box aside and grabs another empty open box.
+[00:05:50 - 00:06:05] The wearer places more packaged shirts from the table into the open box.
+[00:06:05 - 00:06:10] The wearer folds the top flaps of the box.
+[00:06:10 - 00:06:40] The wearer tapes the top seam of the box.
+[00:06:40 - 00:06:44] The wearer flips the box over.
+[00:06:44 - 00:06:49] The wearer tapes the bottom seam.
+[00:06:49 - 00:06:54] The wearer moves the box and pulls an empty box toward himself.
+[00:06:54 - 00:07:10] The wearer places more packaged shirts from the table into the box.
+[00:07:10 - 00:07:16] The wearer folds the flaps of the box and quickly seals the top seam with tape.
+[00:07:16 - 00:07:29] The wearer lifts the taped box, turns around, and carries it away, placing it on the floor.
+[00:07:29 - 00:07:51] The wearer walks over to another large white table where a coworker in a blue polo shirt is sorting packaged shirts.
+[00:07:51 - 00:08:08] The wearer picks up a yellow tape/label dispenser and begins applying small labels to individual packaged blue shirts on the table.
+[00:08:08 - 00:10:25] The wearer continuously applies labels to a large pile of packaged shirts one by one, using the yellow dispenser and stacking the labeled shirts neatly on the table.
+[00:10:25 - 00:10:37] The wearer turns slightly left, grabs an empty open cardboard box, and rests it against the table near the labeled shirts.
+[00:10:37 - 00:11:21] The wearer takes the stacks of labeled shirts and carefully places them inside the cardboard box.
+[00:11:21 - 00:11:29] The wearer folds the top flaps of the box inward to close it.
+[00:11:29 - 00:12:01] The wearer seals the top seam of the box using clear tape and a blue pen.
+[00:12:01 - 00:12:05] The wearer flips the box over to expose the bottom.
+[00:12:05 - 00:12:15] The wearer tapes the bottom seam of the box.
+[00:12:15 - 00:12:20] The wearer moves the sealed box away and picks up the yellow label dispenser.
+[00:12:20 - 00:13:14] The wearer returns to the table and resumes applying labels to individual packaged shirts using the yellow dispenser, creating new stacks.
+[00:13:14 - 00:13:21] The wearer finishes labeling a batch and grabs an empty open cardboard box, resting it against the table.
+[00:13:21 - 00:13:48] The wearer places the freshly labeled stacks of shirts into the cardboard box.
+[00:13:48 - 00:13:54] The wearer folds the top flaps of the box closed.
+[00:13:54 - 00:14:26] The wearer tapes the top center seam of the box using clear tape and the blue pen.
+[00:14:26 - 00:14:29] The wearer flips the box over.
+[00:14:29 - 00:14:38] The wearer tapes the bottom seam of the box.
+[00:14:38 - 00:14:44] The wearer sets the sealed box down and picks up the yellow label dispenser.
+[00:14:44 - 00:17:02] The wearer continuously applies labels to individual packaged shirts with the yellow dispenser, working alongside his coworker and stacking the finished shirts.
+[00:17:02 - 00:17:34] The wearer grabs an empty box and transfers the newly labeled stacks of shirts into it.
+[00:17:34 - 00:17:39] The wearer folds the top flaps of the box.
+[00:17:39 - 00:18:07] The wearer tapes the top seam of the box with clear tape.
+[00:18:07 - 00:18:11] The wearer flips the box over.
+[00:18:11 - 00:18:17] The wearer tapes the bottom seam of the box.
+[00:18:17 - 00:18:23] The wearer sets the sealed box out of the way and picks up the yellow label dispenser.
+[00:18:23 - 00:19:04] The wearer returns to the table and resumes applying labels to packaged shirts with the yellow dispenser, making neat stacks.
+[00:19:04 - 00:19:24] The wearer grabs an empty open box and places the labeled shirts into it.
+[00:19:24 - 00:19:30] The wearer folds the flaps to close the box.
+[00:19:30 - 00:19:54] The wearer tapes the top seam of the box with clear tape.
+[00:19:54 - 00:19:57] The wearer flips the box over.
+[00:19:57 - 00:20:01] The wearer tapes the bottom seam of the box.
