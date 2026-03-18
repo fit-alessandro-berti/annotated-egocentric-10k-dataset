@@ -1,0 +1,83 @@
+[00:00:00 - 00:00:10] The video begins with a blurry, moving egocentric view of a factory floor featuring cardboard boxes and blue shelving. The wearer walks towards their workstation and sits down. Other workers wearing orange shirts are visible nearby.
+
+[00:00:10 - 00:00:34] The wearer begins their assembly task. With their left hand, they pick up a metal bracket assembly from a pile on the left and place it onto a metal fixture in the center of the table. They pick up small screws from blue plastic bins with both hands, place them into holes on the bracket, grab a hanging pneumatic screwdriver with their right hand, pull it down, and fasten the screws. The wearer has a red string bracelet on their right wrist.
+
+[00:00:34 - 00:00:43] They release the screwdriver, remove the assembled part from the fixture with both hands, and turn their body to the right, presumably to deposit the finished part, though the exact drop location is obscured.
+
+[00:00:43 - 00:00:54] The wearer turns back to the center, grabs a blue plastic bin filled with small screws, lifts it slightly, and the camera view blurs rapidly as they adjust their position or look around.
+
+[00:00:54 - 00:02:24] The view stabilizes. The wearer begins a continuous sequence of repetitive assembly cycles: they place a metal bracket onto the central fixture, pick up small screws from the blue bins, insert them into the bracket, pull down the pneumatic screwdriver to fasten them, and then remove the assembled part. This entire cycle is repeated smoothly multiple times without interruption.
+
+[00:02:24 - 00:02:34] After removing an assembled part, the wearer pauses briefly to reach for a new bracket, taking slightly longer to position it on the fixture before continuing with the screws.
+
+[00:02:34 - 00:03:05] The wearer resumes the continuous sequence of repetitive assembly cycles, repeatedly placing brackets, inserting screws, fastening them with the pneumatic tool, and removing the finished parts.
+
+[00:03:05 - 00:03:13] While completing a cycle and fastening the screws, the wearer looks up briefly, shifting their attention away from the workstation, before looking back down to remove the part.
+
+[00:03:13 - 00:03:39] The wearer resumes the uninterrupted sequence of assembly cycles: placing parts, inserting screws, and fastening them.
+
+[00:03:39 - 00:03:45] As they place a new bracket and pick up screws, the wearer looks up again towards the worker on their right before looking back down to fasten the screws.
+
+[00:03:45 - 00:03:55] They complete another standard assembly cycle of placing, screwing, and removing the part.
+
+[00:03:55 - 00:04:03] The wearer picks up a metal bracket but pauses to examine it closely, turning it over in their hands before placing it onto the fixture and proceeding to fasten the screws.
+
+[00:04:03 - 00:05:03] The wearer returns to a long sequence of continuous, repetitive assembly cycles, churning through multiple parts without pausing.
+
+[00:05:03 - 00:05:13] The wearer looks to their right and extends their right hand, appearing to hand over a part or interact with the adjacent worker, before looking back down to their station.
+
+[00:05:13 - 00:05:24] They complete another standard assembly cycle.
+
+[00:05:24 - 00:05:32] The wearer holds a part in their hands and looks to their right again, seemingly showing or handing the part to the adjacent worker, then returns their attention to the central fixture.
+
+[00:05:32 - 00:05:42] They perform another standard assembly cycle.
+
+[00:05:42 - 00:05:50] The wearer stands up. The camera tilts down to show a large cardboard box sitting on the floor to their left.
+
+[00:05:50 - 00:05:58] The wearer is back sitting at the workstation. The camera points down at the blue bins as the wearer uses their hands to adjust or check the contents of the bins.
+
+[00:05:58 - 00:06:23] The wearer resumes the repetitive assembly cycle, completing a few consecutive rounds of placing brackets, fastening screws, and removing parts.
+
+[00:06:23 - 00:06:28] While working, the wearer looks to their left towards a worker in an orange shirt, then looks back down to the task.
+
+[00:06:28 - 00:06:55] The wearer continues with several more continuous, uninterrupted assembly cycles.
+
+[00:06:55 - 00:07:05] The wearer places a new bracket but takes noticeably longer to pick up the small screws from the bins, carefully using both hands to gather and place them into the holes before grabbing the screwdriver.
+
+[00:07:05 - 00:07:47] They resume the standard, continuous sequence of repetitive assembly cycles.
+
+[00:07:47 - 00:07:53] The wearer picks up a metal bracket and pauses to examine it closely, turning it over in their hands before placing it onto the central fixture.
+
+[00:07:53 - 00:08:00] They insert the screws and fasten them to complete the cycle.
+
+[00:08:00 - 00:08:06] The wearer looks up towards the worker sitting directly opposite them, shifting attention from the task, then looks back down.
+
+[00:08:06 - 00:08:35] The wearer completes several continuous assembly cycles.
+
+[00:08:35 - 00:08:44] The wearer looks up towards the opposite worker again briefly before looking down and removing the completed part.
+
+[00:08:44 - 00:09:14] They resume a sequence of standard, repetitive assembly cycles without interruption.
+
+[00:09:14 - 00:09:20] After removing a part, the wearer looks slightly to the left before grabbing the next bracket.
+
+[00:09:20 - 00:09:28] The wearer places a new bracket onto the fixture but pauses, looking at the screws in their hands and the bins for a moment before proceeding.
+
+[00:09:28 - 00:10:26] The wearer returns to a long sequence of continuous, repetitive assembly cycles: placing brackets, inserting screws, fastening with the pneumatic tool, and removing the parts.
+
+[00:10:26 - 00:10:35] The wearer stands up from their chair. The camera moves around, showing different parts of the workstation and the cardboard box on the floor to the left.
+
+[00:10:35 - 00:10:44] The wearer turns back to the table. The camera looks down at the bins and loose parts scattered on the workstation. They use their hands to adjust and organize the items on the table surface.
+
+[00:10:44 - 00:10:56] The wearer picks up and handles larger blue metal frame pieces, moving them around the workstation before sitting back down.
+
+[00:10:56 - 00:11:05] The wearer looks to their right, then looks back down and places a metal bracket onto the fixture.
+
+[00:11:05 - 00:11:15] The wearer picks up another part, looks right again briefly, then looks down and positions the part on the fixture.
+
+[00:11:15 - 00:17:25] The wearer engages in an extremely long, uninterrupted sequence of repetitive assembly cycles. They continuously place metal brackets onto the fixture, pick up and insert screws, pull down the pneumatic screwdriver to fasten them, and remove the assembled parts, repeating this exact mechanical loop continuously.
+
+[00:17:25 - 00:17:34] The wearer interrupts the cycle to look to their right, reach over, and interact with the worker next to them, appearing to grab or hand over parts.
+
+[00:17:34 - 00:19:53] The wearer resumes the sequence of repetitive assembly cycles, continuously placing brackets, inserting screws, fastening them, and removing the parts without any significant pauses or shifts in attention.
+
+[00:19:53 - 00:19:59] The scene cuts abruptly. The view changes, and the wearer is now holding a different, black rectangular object in both hands, turning it slightly to examine it.

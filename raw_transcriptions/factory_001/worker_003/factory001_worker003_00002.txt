@@ -1,0 +1,55 @@
+[00:00:00 - 00:05:00] The wearer is sitting at a workstation performing a highly repetitive manual assembly task. On the table are three small blue bins containing different metal components, a metal jig block, and a large cardboard tray with a grid of holes. The wearer continuously reaches into the middle bin to pick up a flat metal piece, takes a pin or screw from the left bin, and a small dark part from the right bin. They place these components onto the metal jig block, assemble them together using their fingers, and then pick up the completed assembly to place it into an empty hole in the cardboard tray. The wearer's hands, adorned with gold bangles, perform this sequence continuously, slowly filling up the rows of the tray.
+
+[00:05:00 - 00:05:15] The wearer finishes placing a part, stands up from the workstation, and begins walking away from the table.
+
+[00:05:15 - 00:05:32] The wearer approaches another worker wearing a light-colored striped shirt and purple pants. The wearer hands a small object to the other worker. They have a brief interaction, after which the wearer turns around and walks back to their workstation.
+
+[00:05:32 - 00:06:46] The wearer sits back down at the workstation and immediately resumes the repetitive assembly process. They continue picking parts from the three bins, assembling them on the metal block, and placing the finished pieces into the cardboard tray in the same manner as before.
+
+[00:06:46 - 00:06:54] The wearer stops the individual assembly process, grabs a handful of the small dark parts from the rightmost bin, and scatters them directly into multiple holes on the cardboard tray.
+
+[00:06:54 - 00:07:15] The wearer returns to the standard one-by-one assembly process using the metal jig block.
+
+[00:07:15 - 00:07:41] While the wearer is assembling parts, another worker in a light blue shirt briefly comes into view. The wearer appears to hand them a completed assembly or interact with them momentarily without stopping their overall task, then continues the assembly process.
+
+[00:07:41 - 00:08:26] The wearer continues the steady, repetitive assembly of the three components and placing them in the tray.
+
+[00:08:26 - 00:08:40] The wearer again takes a handful of the small dark parts from the right bin and sprinkles them over the holes in the cardboard tray, filling several at once.
+
+[00:08:40 - 00:10:10] The wearer resumes the individual assembly of parts using the jig block.
+
+[00:10:10 - 00:10:16] The wearer reaches into the leftmost blue bin, grabs a handful of parts, and transfers them into the middle blue bin.
+
+[00:10:16 - 00:11:10] The wearer goes back to the standard process of picking, assembling on the block, and placing the parts into the tray.
+
+[00:11:10 - 00:11:23] The wearer takes another handful of the small dark parts from the right bin and scatters them into the holes of the cardboard tray.
+
+[00:11:23 - 00:12:22] The repetitive, single-piece assembly task continues as before.
+
+[00:12:22 - 00:12:27] The wearer briefly pauses the assembly task to adjust the position of the leftmost blue bin on the table.
+
+[00:12:27 - 00:14:10] The wearer resumes the standard assembly process without any variations.
+
+[00:14:10 - 00:14:14] The wearer quickly grabs a few small parts and scatters them onto the cardboard tray.
+
+[00:14:14 - 00:15:47] The one-by-one assembly process continues steadily.
+
+[00:15:47 - 00:16:40] The wearer stops using the jig block entirely. Instead, they repeatedly grab handfuls of the small dark parts from the right bin and rapidly drop them directly into the remaining empty holes of the cardboard tray, filling multiple holes at a time.
+
+[00:16:40 - 00:16:49] The wearer finishes filling the tray, stands up from the workstation, picks up a blue, rectangular, frame-like object from the table, and begins walking away.
+
+[00:16:49 - 00:17:19] The wearer walks through the factory, passing machinery and other workstations, and proceeds down an aisle flanked by tall storage racks holding various bins and boxes.
+
+[00:17:19 - 00:17:42] The wearer stops at a pile of flat, unassembled cardboard boxes lying on the floor. They pick up the top piece of cardboard, turn around, and begin walking back the way they came.
+
+[00:17:42 - 00:17:50] The wearer carries the flat piece of cardboard back to their workstation.
+
+[00:17:50 - 00:18:22] The wearer places the flat cardboard on their table and folds it into a box shape. They then begin transferring parts from one of the small blue bins into this newly formed cardboard box.
+
+[00:18:22 - 00:18:49] The wearer leaves the workstation again, walking past other workers and machinery.
+
+[00:18:49 - 00:19:01] The wearer walks down a different aisle, carrying an empty, small blue bin, passing large racks of stored materials.
+
+[00:19:01 - 00:19:46] The wearer arrives at a large, floor-level blue bin filled with small metal parts. They are holding a small blue bin lined with a clear plastic bag. They repeatedly use their hands and the small bin to scoop large handfuls of the metal parts out of the large floor bin and into the plastic bag inside their small bin.
+
+[00:19:46 - 00:20:02] Once the plastic bag inside the small bin is filled with parts, the wearer lifts the container and walks back down the aisle between the storage racks, heading towards their workstation.

@@ -1,0 +1,111 @@
+[00:00:00 - 00:00:34] The person is seated at an assembly workstation. They reach into a blue bin on their left, grab a handful of small black plastic parts, and place them onto the work surface directly under a pneumatic press machine. They use their hands to spread the parts out into a small pile. They then pick up an individual part from the pile, place it into the press, and activate the machine by pressing a red button on the right side with their right hand. After the press actuates, they remove the assembled part and toss it to a pile on the right side of the work surface. They grab another handful of parts from the left bin, add them to the pile, and repeat this assembly process several times.
+
+[00:00:34 - 00:00:46] The person changes their workflow slightly. They take a small metal component from the left side of the table, place it into a black plastic part, put the combined piece into the press, and activate the machine. After the press finishes, they remove the assembled piece and drop it into a clear plastic bag resting on their lap. They repeat this modified assembly process a few times.
+
+[00:00:46 - 00:01:03] The person stands up, lifting the partially filled plastic bag from their lap. They turn around and walk a short distance to a cardboard box sitting on the floor behind the workstation. They place the bag into the box, briefly adjust another plastic bag already inside the box, and then turn and walk back to their seat.
+
+[00:01:03 - 00:01:36] The person sits down, reaches to their left, and grabs a new, empty clear plastic bag from a stack. They open the bag and hold it open on their lap with their left hand. They then resume the assembly process: picking up a black part from the table, placing it in the press, pressing the red button with their right hand, and dropping the finished part directly into the open bag on their lap.
+
+[00:01:36 - 00:02:56] The person reaches into the blue bin on the left, grabs a large handful of black plastic parts, and places them onto the table in front of the press. They continue the rapid, repetitive assembly process, picking parts from the pile, placing them in the press, activating it, and dropping the finished pieces into the bag. Occasionally, they scoop a small pile of already assembled parts from the table and drop them all into the bag at once. When the bag on their lap becomes full, they grab another empty plastic bag from the left to replace it, and seamlessly continue the assembly cycle.
+
+[00:02:56 - 00:03:12] The person stands up, holding a full plastic bag of assembled parts. They turn around, walk to the cardboard box on the floor, and place the full bag inside. They then walk back to the workstation and sit down.
+
+[00:03:12 - 00:04:18] The person grabs a new empty plastic bag from the left, opens it on their lap, and resumes the assembly task. They continuously take parts from the pile on the table, place them in the press, activate the machine, and drop the finished parts into the bag. Periodically, they reach into the blue bin on the left to grab more black parts and replenish the pile on the work surface.
+
+[00:04:18 - 00:04:43] The person stands up holding a full bag and turns around. Instead of putting the bag in the box immediately, they notice the blue bin on their left is empty. They turn back to the boxes holding the full bag, then reach down to grab a new, full blue bin of black parts from the floor. They lift the full bin and place it on the table to their left, replacing the empty one, which they move aside. They sit back down, open a new plastic bag on their lap, and resume assembling parts, now taking the un-assembled parts directly from the newly placed full blue bin.
+
+[00:04:43 - 00:04:51] The person stands up holding the full plastic bag, turns around, and drops it into the cardboard box on the floor behind them.
+
+[00:04:51 - 00:05:07] The person sits back down at the workstation, takes a new empty bag from the left, opens it on their lap, and continues the repetitive assembly process, taking parts from the left bin, pressing them in the machine, and dropping them into the bag.
+
+[00:05:07 - 00:05:15] The person stands up, turns around, and places the full bag into the cardboard box, using their hands to adjust the position of the bags inside to make more room.
+
+[00:05:15 - 00:06:17] The person returns to their seat, grabs a new empty bag, and resumes the assembly work. They grab a handful of parts from the left bin, place them in a pile on the table, and process them one by one through the press, dropping the finished pieces into the bag on their lap. They continue to replenish the pile on the table from the bin as needed.
+
+[00:06:17 - 00:06:28] The person stands up holding the full bag, turns around, and places it into a different cardboard box located slightly further back on the floor.
+
+[00:06:28 - 00:07:00] The person returns to their seat, grabs a new plastic bag, opens it, and reaches into the left bin for a handful of parts to place on the table. They continue the rapid assembly of the black plastic parts, dropping each finished piece into the bag.
+
+[00:07:00 - 00:07:22] The person stands up with the full bag and places it into the cardboard box behind them. They then walk a few steps away from the workstation, bend down to pick up an empty blue bin from the floor, carry it back, and set it down near the workstation. They sit back down and grab a new empty plastic bag.
+
+[00:07:22 - 00:07:48] The person opens the new bag on their lap and resumes the rapid assembly process, taking parts from the table pile, placing them in the press, activating the machine, and dropping the finished pieces into the bag.
+
+[00:07:48 - 00:07:59] The person stands up with a full bag, turns around, and places it into the cardboard box behind the workstation.
+
+[00:07:59 - 00:08:20] The person sits down, takes a new empty bag, opens it on their lap, and continues the repetitive assembly task.
+
+[00:08:20 - 00:08:44] The person notices the blue bin on their left is nearly empty. They grab the bin, lift it, and move it out of the way. They then turn around, grab a full blue bin of parts from the floor behind them, and lift it onto the table to their left. They immediately resume assembling, taking parts from the new bin, pressing them, and dropping them into the bag on their lap.
+
+[00:08:44 - 00:09:19] The person continues the repetitive assembly process. They occasionally scoop a handful of already assembled parts from the table surface and drop them all into the bag at once. They continue to replenish the un-assembled parts on the work table from the full bin on the left.
+
+[00:09:19 - 00:09:26] The person stands up holding a full bag, walks over to the cardboard boxes, and drops the bag inside.
+
+[00:09:26 - 00:09:56] The person returns to their seat, grabs a new empty bag, opens it, and resumes the continuous assembly process.
+
+[00:09:56 - 00:10:04] The person stands up with a full bag, walks to the boxes, and drops it in. As they turn back, they bend down to pick up a small piece of trash or paper from the floor.
+
+[00:10:04 - 00:10:45] The person sits back down, grabs a new bag, opens it on their lap, and grabs a handful of parts from the left bin to put on the table. They resume assembling the parts at a fast, steady pace.
+
+[00:10:45 - 00:10:55] The person stands up, turns to walk to the boxes, and drops the full bag inside.
+
+[00:10:55 - 00:11:11] The person sits down, takes a new bag from the stack, opens it, and starts assembling parts again.
+
+[00:11:11 - 00:11:21] The person stands up holding a full bag, walks to the boxes, drops it in, and then turns and walks back to their seat.
+
+[00:11:21 - 00:11:42] The person sits down, grabs a new bag, opens it, and resumes assembling parts from the pile on the work table.
+
+[00:11:42 - 00:11:51] The person stands up with a full bag, walks to the cardboard boxes, and drops it inside.
+
+[00:11:51 - 00:12:00] The person sits back down at the workstation, grabs a new empty bag, opens it, and starts assembling parts again.
+
+[00:12:00 - 00:12:12] The person reaches for the empty blue bin on their left, lifts it, and moves it out of the work area. They turn around, grab a full blue bin of parts from behind the workstation, and place it heavily onto the table to their left.
+
+[00:12:12 - 00:12:56] The person resumes the assembly task, taking parts directly from the newly placed bin, putting them in the press, activating the machine, and dropping the finished pieces into the bag on their lap. They occasionally grab handfuls of parts from the bin to create a pile on the work surface in front of the press to speed up the process.
+
+[00:12:56 - 00:13:08] The person stands up with a full bag, walks over to the cardboard boxes, and drops it inside.
+
+[00:13:08 - 00:13:22] The person sits down, opens a new empty plastic bag on their lap, and resumes the continuous assembly task.
+
+[00:13:22 - 00:13:31] The person stands up with a full bag and drops it into the cardboard box behind them.
+
+[00:13:31 - 00:13:52] The person sits down, grabs a new bag, opens it, and reaches into the left bin for a handful of parts to place on the table. They resume assembling.
+
+[00:13:52 - 00:14:04] The person stands up with a full bag, walks to the boxes, and drops it in. They then bend down to pick up an empty cardboard box from the floor and move it slightly out of the way.
+
+[00:14:04 - 00:14:14] The person sits down, grabs a new bag, opens it, and starts assembling parts again.
+
+[00:14:14 - 00:14:24] The person stands up with a full bag, walks to the boxes, places the bag inside, and briefly uses their hands to adjust and compress the other bags in the box to make more space.
+
+[00:14:24 - 00:14:48] The person sits down, grabs a new empty bag, opens it, and resumes assembling parts from the pile on the table, continuously dropping the finished pieces into the bag.
+
+[00:14:48 - 00:14:57] The person stands up holding the empty blue bin from their left side, turns around, and places it on the floor. They then grab a full blue bin from the floor and lift it onto the table to their left.
+
+[00:14:57 - 00:15:31] The person sits down, opens a new plastic bag on their lap, and resumes the rapid assembly process, taking parts from the newly placed full bin.
+
+[00:15:31 - 00:15:43] The person stands up holding a full bag, walks over to the cardboard boxes, drops it inside, and walks back to their seat.
+
+[00:15:43 - 00:16:29] The person sits down, grabs a new bag, opens it, and starts assembling parts again. They reach into the left bin to grab more parts, replenishing the pile on the table, and continue the repetitive cycle of pressing and bagging the parts.
+
+[00:16:29 - 00:16:42] The person stands up with a full bag, walks over to the boxes, and drops it inside.
+
+[00:16:42 - 00:17:00] The person sits down, opens a new empty bag on their lap, and resumes the assembly task.
+
+[00:17:00 - 00:17:11] The person stands up with a full bag, walks to the cardboard boxes, and drops it in.
+
+[00:17:11 - 00:17:44] The person sits back down, grabs a new bag, opens it, and starts assembling parts again, steadily dropping the finished pieces into the bag on their lap.
+
+[00:17:44 - 00:17:58] The person stands up with a full bag, walks to the cardboard boxes, drops the bag inside, and briefly adjusts the position of one of the cardboard boxes on the floor.
+
+[00:17:58 - 00:18:16] The person sits back down, grabs a new bag, opens it on their lap, and grabs a handful of parts from the left bin to put on the table. They resume the fast-paced assembly process.
+
+[00:18:16 - 00:18:27] The person stands up with a full bag, walks over to the boxes, drops it inside, and then reaches out to fold down the top flaps of one of the full cardboard boxes to close it.
+
+[00:18:27 - 00:18:48] The person sits back down, grabs a new empty plastic bag from the stack, opens it on their lap, and resumes assembling parts.
+
+[00:18:48 - 00:18:59] The person reaches for the empty blue bin on the table to their left, moves it out of the way, then turns to grab a full blue bin of parts from behind them and places it on the table.
+
+[00:18:59 - 00:19:35] The person resumes assembling parts, taking them from the newly placed bin, placing them in the pneumatic press, activating it, and dropping the finished pieces into the bag. They occasionally grab large handfuls of parts to replenish the pile on the table surface.
+
+[00:19:35 - 00:19:49] The person stands up holding a full bag, walks over to the cardboard boxes behind the workstation, and drops the bag inside.
+
+[00:19:49 - 00:20:01] The person sits back down, grabs a new empty clear plastic bag, opens it on their lap, and resumes the repetitive assembly process.

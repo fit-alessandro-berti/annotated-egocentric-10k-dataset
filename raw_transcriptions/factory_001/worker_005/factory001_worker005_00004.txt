@@ -1,0 +1,49 @@
+[00:00:00 - 00:04:36] The wearer is seated at a workstation performing a continuous assembly and packaging task. The process follows a strict repetitive cycle: the wearer reaches into a blue bin on their left to pick up a black plastic main component and places it into a central metal fixture. Using their left hand, they push a sliding mechanism on the fixture to the right. Next, they pick up a small clear plastic bag, open it, and use their right hand to grab handfuls of smaller loose black plastic parts from a blue bin on their right, filling the bag. They fold the top of this filled bag and place it aside. They then grab another clear plastic bag, remove the assembled main component from the metal fixture, and place it inside the new bag. They pick up the previously filled smaller bag of loose parts and add it to the larger bag alongside the main component. Finally, they fold the larger bag closed, toss the completed package aside, and immediately begin the next cycle. This sequence is repeated continuously without interruption.
+
+[00:04:36 - 00:04:50] The wearer pauses the task, stands up, and turns to their left holding a flat piece of cardboard. They fold the cardboard into a box shape, walk a short distance to place it inside a larger cardboard box on the floor, and then return to sit at the workstation.
+
+[00:04:50 - 00:06:42] The wearer resumes the repetitive assembly and packaging task, continuing the cycle of placing components in the fixture, bagging loose parts, and combining them into a final package exactly as before.
+
+[00:06:42 - 00:06:50] The wearer stops working, stands up, and turns to the left to briefly look at and interact with a coworker standing nearby. They then turn back and sit down at the workstation.
+
+[00:06:50 - 00:07:34] The wearer continues the repetitive assembly and packaging task without interruption.
+
+[00:07:34 - 00:07:42] The wearer stands up, turns left, and walks towards the cardboard box on the floor. They bend down, pick up a stack of clear plastic bags from the box, and return to their seat at the workstation.
+
+[00:07:42 - 00:09:44] The wearer resumes and continuously performs the repetitive assembly and bagging task.
+
+[00:09:44 - 00:09:51] The wearer stands up, walks left to the cardboard box on the floor, and bends down to arrange or adjust the plastic bags inside. They then return to their seat.
+
+[00:09:51 - 00:10:38] The repetitive assembly and packaging task is resumed and continues uninterrupted.
+
+[00:10:38 - 00:10:44] The wearer stands up, turns left, and reaches down to the box on the floor to pick up another stack of plastic bags before sitting back down.
+
+[00:10:44 - 00:11:15] The wearer continues the repetitive assembly and bagging process.
+
+[00:11:15 - 00:11:23] The wearer stands up, walks to the left, and bends down to retrieve more plastic bags from the box on the floor. They return to their seat with the bags.
+
+[00:11:23 - 00:13:51] The wearer resumes the continuous assembly and packaging task, repeating the cycles of filling bags and assembling components.
+
+[00:13:51 - 00:14:00] The wearer pauses work, stands up, and walks over to the cardboard box. They pick up a large stack of empty plastic bags and carry them back to the workstation, taking a seat.
+
+[00:14:00 - 00:14:55] The repetitive assembly and packaging task continues.
+
+[00:14:55 - 00:15:00] The wearer stands up briefly, turns to the left to reach into the cardboard box, and immediately sits back down at the workstation.
+
+[00:15:00 - 00:15:50] The wearer continues the repetitive assembly and bagging task.
+
+[00:15:50 - 00:16:05] The wearer stops working, stands up, and walks left carrying a handful of folded plastic bags. They place the bags into the cardboard box on the floor and then walk back to their seat.
+
+[00:16:05 - 00:17:35] The repetitive assembly and packaging task is resumed and continues uninterrupted.
+
+[00:17:35 - 00:17:41] The wearer stands up, turns left, reaches down towards the box on the floor, and quickly returns to their seat.
+
+[00:17:41 - 00:18:13] The continuous assembly and bagging task continues.
+
+[00:18:13 - 00:18:18] The wearer stands up, turns left, reaches down to the box on the floor, and sits back down at the workstation.
+
+[00:18:18 - 00:19:43] The repetitive assembly and packaging task is resumed and continues for multiple cycles.
+
+[00:19:43 - 00:19:50] The wearer stands up, walks left towards the cardboard box, bends down to interact with it, and then returns to their seat.
+
+[00:19:50 - 00:20:00] The wearer resumes the assembly and packaging task, continuing this action until the end of the video.

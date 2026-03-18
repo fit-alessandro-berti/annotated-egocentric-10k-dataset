@@ -1,0 +1,78 @@
+[00:00:00 - 00:01:16] The wearer is seated at a workstation. They repeatedly pick up black plastic parts from a blue bin on their left, position them inside a metal machine fixture directly in front of them, and press two red buttons simultaneously to cycle the machine. Once the machine finishes, they remove the processed parts and drop them into a central blue bin. This action is repeated continuously.
+[00:01:16 - 00:01:26] The wearer stops operating the machine and looks around the workspace. The camera pans to show other workers seated at adjacent workstations along a conveyor belt system.
+[00:01:26 - 00:02:05] The wearer resumes the repetitive task of picking parts from the left bin, placing them in the machine, pressing the dual red buttons, and transferring the processed parts to the center bin.
+[00:02:05 - 00:02:13] The wearer pauses their work again, turning their head to look around the factory floor, observing the conveyor belt and colleagues working nearby.
+[00:02:13 - 00:03:09] The wearer returns to the continuous, repetitive process of assembling parts with the machine and dropping them into the central bin.
+[00:03:09 - 00:03:20] The wearer stops the machine operation, grasps the central blue bin containing the processed parts, turns to their right, and empties the bin's contents into a large cardboard box filled with plastic bags. They then place the empty bin back in front of the machine.
+[00:03:20 - 00:03:27] The wearer briefly looks around their workstation, turning their head left and right to observe the surrounding area.
+[00:03:27 - 00:05:04] The wearer resumes the repetitive cycle of loading parts into the machine, activating it with the two red buttons, and discarding the finished pieces into the central bin.
+[00:05:04 - 00:05:09] The wearer pauses to look around the workspace, showing the assembly line and other workers.
+[00:05:09 - 00:05:46] The repetitive machine operation task continues without interruption.
+[00:05:46 - 00:05:51] The wearer stops briefly and looks around the factory floor.
+[00:05:51 - 00:06:03] The wearer resumes the repetitive part processing task.
+[00:06:03 - 00:06:08] The wearer pauses and looks around the workspace.
+[00:06:08 - 00:06:44] The continuous cycle of loading the machine, pressing the buttons, and removing parts resumes.
+[00:06:44 - 00:06:50] The wearer stops and looks around the assembly line.
+[00:06:50 - 00:07:22] The repetitive part processing task continues.
+[00:07:22 - 00:07:31] The wearer stops, lifts the central blue bin filled with parts, turns right, and empties it into the large cardboard box. They set the empty bin back down.
+[00:07:31 - 00:07:35] The wearer looks around their workstation.
+[00:07:35 - 00:07:42] The wearer picks up a plastic bag containing raw parts and empties the contents into the left blue bin to restock their supply.
+[00:07:42 - 00:07:46] The wearer pauses and looks around the workspace.
+[00:07:46 - 00:07:50] The wearer picks up another plastic bag of parts and empties it into the left blue bin.
+[00:07:50 - 00:07:58] The wearer looks around the factory floor again.
+[00:07:58 - 00:08:21] The wearer resumes the repetitive cycle of loading parts into the machine, pressing the buttons, and transferring them to the center bin.
+[00:08:21 - 00:08:26] The wearer pauses, picks up a small empty blue tray from the right side, and places it inside the left blue bin.
+[00:08:26 - 00:09:16] The continuous, repetitive machine operation task resumes.
+[00:09:16 - 00:09:21] The wearer stops working and looks around the factory floor.
+[00:09:21 - 00:09:23] The wearer briefly touches parts in the left bin without operating the machine.
+[00:09:23 - 00:09:28] The wearer looks around the workspace again.
+[00:09:28 - 00:10:00] The wearer returns to the repetitive task of processing parts through the machine.
+[00:10:00 - 00:10:05] The wearer pauses, turns to their right, and appears to interact with a plastic bag inside a cardboard box.
+[00:10:05 - 00:10:08] The wearer looks around their workstation.
+[00:10:08 - 00:10:13] The wearer lifts the central blue bin containing processed parts, shifts it slightly, and places it back down without emptying it.
+[00:10:13 - 00:10:48] The continuous cycle of loading the machine, pressing the buttons, and removing parts resumes.
+[00:10:48 - 00:10:53] The wearer stops and looks around the assembly line.
+[00:10:53 - 00:11:53] The repetitive part processing task continues without interruption.
+[00:11:53 - 00:11:58] The wearer pauses and looks to their right, observing a coworker.
+[00:11:58 - 00:12:11] The wearer resumes the repetitive machine operation task.
+[00:12:11 - 00:12:15] The wearer stops and looks around the workspace.
+[00:12:15 - 00:12:21] The continuous cycle of loading the machine, pressing the buttons, and removing parts resumes.
+[00:12:21 - 00:12:28] The wearer pauses, looks around, then turns to their right and lifts a large cardboard box from the floor.
+[00:12:28 - 00:12:41] The wearer carries the cardboard box, walks a short distance away from their workstation, places the box on the floor near other boxes, and walks back to their seat.
+[00:12:41 - 00:12:44] The wearer sits back down and looks around their workstation.
+[00:12:44 - 00:12:57] The wearer resumes the repetitive task of processing parts through the machine.
+[00:12:57 - 00:13:00] The wearer stops briefly and looks around the factory floor.
+[00:13:00 - 00:14:09] The continuous, repetitive machine operation task resumes.
+[00:14:09 - 00:14:14] The wearer pauses and looks around the workspace.
+[00:14:14 - 00:14:55] The repetitive cycle of loading parts into the machine, pressing the buttons, and transferring them to the center bin continues.
+[00:14:55 - 00:15:02] The wearer stops, lifts the central blue bin containing processed parts, turns to their left, and empties the parts into a blue bin located on the adjacent workstation. They then return the empty bin to its place.
+[00:15:02 - 00:15:08] The wearer looks around their workstation.
+[00:15:08 - 00:15:11] The wearer picks up the small blue tray from inside the left bin and dumps its contents into the main left bin.
+[00:15:11 - 00:15:17] The wearer resumes the repetitive machine operation task.
+[00:15:17 - 00:15:23] The wearer stops, lifts the central blue bin, turns completely around, and walks to a large cardboard box located behind them, emptying the bin's contents into it.
+[00:15:23 - 00:15:28] The wearer returns to their seat and looks around the workspace.
+[00:15:28 - 00:15:31] The wearer picks up a plastic bag of raw parts and empties it into the left blue bin.
+[00:15:31 - 00:15:43] The continuous cycle of loading the machine, pressing the buttons, and removing parts resumes.
+[00:15:43 - 00:15:47] The wearer stops and looks around the assembly line.
+[00:15:47 - 00:16:18] The repetitive part processing task continues without interruption.
+[00:16:18 - 00:16:24] The wearer stands up, turns around, walks to the large cardboard box behind them, lifts it, and carries it out of the immediate view.
+[00:16:24 - 00:16:29] The wearer returns to their seat and looks around their workstation.
+[00:16:29 - 00:16:47] The wearer resumes the repetitive machine operation task.
+[00:16:47 - 00:16:53] The wearer pauses and looks around the factory floor.
+[00:16:53 - 00:16:56] The wearer stands up, turns around, picks up another large cardboard box, and carries it away from the workstation.
+[00:16:56 - 00:17:02] The wearer returns, sits down, and resumes the repetitive part processing task.
+[00:17:02 - 00:17:05] The wearer pauses, picks up a plastic bag of parts, and empties it into the left blue bin.
+[00:17:05 - 00:17:09] The wearer looks around their workstation.
+[00:17:09 - 00:17:15] The continuous cycle of loading the machine, pressing the buttons, and removing parts resumes.
+[00:17:15 - 00:17:21] The wearer stops and looks around the workspace.
+[00:17:21 - 00:17:48] The repetitive machine operation task continues.
+[00:17:48 - 00:17:54] The wearer pauses and looks around the factory floor.
+[00:17:54 - 00:18:31] The repetitive cycle of loading parts into the machine, pressing the buttons, and transferring them to the center bin continues.
+[00:18:31 - 00:18:35] The wearer stops and looks around the assembly line.
+[00:18:35 - 00:18:46] The continuous, repetitive machine operation task resumes.
+[00:18:46 - 00:18:52] The wearer stops, lifts a blue bin containing parts wrapped in plastic, and empties it into the left blue bin on their workstation.
+[00:18:52 - 00:18:56] The wearer resumes the repetitive part processing task.
+[00:18:56 - 00:19:01] The wearer pauses and looks around the workspace.
+[00:19:01 - 00:19:49] The continuous cycle of loading the machine, pressing the buttons, and removing parts resumes.
+[00:19:49 - 00:19:54] The wearer stops and looks around the factory floor.
+[00:19:54 - 00:20:00] The wearer resumes the repetitive machine operation task.

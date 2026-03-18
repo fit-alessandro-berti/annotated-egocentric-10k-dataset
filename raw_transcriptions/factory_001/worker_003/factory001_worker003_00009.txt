@@ -1,0 +1,173 @@
+[00:00:00 - 00:00:19] The person is using both hands to repeatedly pick small metal parts from three bins (two blue, one green) and assemble them over a metal block on the table.
+[00:00:19 - 00:00:26] The person stops assembling and the camera view shifts right, showing a large piece of corrugated cardboard partially filled with rows of assembled metal parts.
+[00:00:26 - 00:00:41] The person resumes the task of continuously picking and assembling small metal parts from the bins over the metal block.
+[00:00:41 - 00:00:46] The person turns their attention to the right and interacts with the assembled parts already placed on the corrugated cardboard, adjusting them.
+[00:00:46 - 00:00:55] The person goes back to continuously picking and assembling parts from the bins.
+[00:00:55 - 00:00:58] The person again looks to the right and adjusts the assembled parts on the cardboard.
+[00:00:58 - 00:01:12] The person resumes picking and assembling parts from the bins over the metal block.
+[00:01:12 - 00:01:18] The camera view shifts rapidly, showing the workspace, the cardboard, and the bins as the person seems to move or stand up.
+[00:01:18 - 00:01:28] The person is back to the continuous task of picking and assembling metal parts from the bins.
+[00:01:28 - 00:01:38] The camera view shifts to the right, showing the person moving and adjusting the large corrugated cardboard covered in assembled parts. Another worker is briefly visible in the background.
+[00:01:38 - 00:01:45] The person returns to picking and assembling parts from the bins.
+[00:01:45 - 00:01:46] The camera view briefly shifts.
+[00:01:46 - 00:02:08] The person continues the continuous assembly of small metal parts from the bins over the metal block.
+[00:02:08 - 00:02:12] The person lifts their hand towards the camera, briefly showing the small metal parts in their palm, partially obscuring the view.
+[00:02:12 - 00:02:20] The person looks to the right and interacts with the corrugated cardboard, adjusting the assembled pieces on it.
+[00:02:20 - 00:02:32] The person resumes picking and assembling parts from the bins over the metal block.
+[00:02:32 - 00:02:35] The camera view shifts right, showing the person looking at the cardboard and the surrounding workspace. Another worker is seen in the background.
+[00:02:35 - 00:02:50] The person goes back to continuously picking and assembling parts from the bins.
+[00:02:50 - 00:02:51] The person briefly lifts their hand towards the camera again, showing the parts.
+[00:02:51 - 00:03:03] The person continues picking and assembling parts from the bins over the metal block.
+[00:03:03 - 00:03:05] The camera view shifts to the right, showing the person looking at the cardboard with assembled parts.
+[00:03:05 - 00:03:22] The person resumes the continuous task of picking and assembling small metal parts from the bins.
+[00:03:22 - 00:03:25] The person's right hand comes up very close to the camera lens, obscuring the view.
+[00:03:25 - 00:03:27] The camera view shifts to the right, showing another person working in the background.
+[00:03:27 - 00:03:36] The person returns to picking and assembling parts from the bins.
+[00:03:36 - 00:03:41] The camera view shifts right as the person looks at the cardboard covered in parts. The other worker is visible in the background.
+[00:03:41 - 00:04:10] The person resumes the continuous task of picking parts from the bins and assembling them over the metal block.
+[00:04:10 - 00:04:12] The camera view shifts right, showing the cardboard with parts and the other worker.
+[00:04:12 - 00:04:20] The person goes back to picking and assembling parts from the bins.
+[00:04:20 - 00:04:24] The person brings their hands, holding parts, right up to the camera lens, blocking the view.
+[00:04:24 - 00:04:26] The camera view shifts right, showing the cardboard with parts and the other worker.
+[00:04:26 - 00:04:48] The person resumes picking and assembling parts from the bins over the metal block.
+[00:04:48 - 00:04:50] The camera view shifts right, looking at the cardboard with parts and the other worker.
+[00:04:50 - 00:05:00] The person continues picking and assembling parts from the bins.
+[00:05:00 - 00:05:03] The camera view shifts right, showing the cardboard with parts.
+[00:05:03 - 00:05:14] The person goes back to picking and assembling parts from the bins.
+[00:05:14 - 00:05:19] The camera view shifts right to look at the cardboard covered in assembled parts.
+[00:05:19 - 00:05:20] The person returns to the bins and continues picking parts.
+[00:05:20 - 00:05:34] The person stands up or shifts position, moving the camera to show the cardboard and the other worker in the background. The person then interacts with the rows of parts on the cardboard, seemingly counting or arranging them.
+[00:05:34 - 00:05:38] The person resumes picking and assembling parts from the bins over the metal block.
+[00:05:38 - 00:05:58] The camera view shifts right, showing the person working on the cardboard, placing or adjusting the assembled parts in the rows. The other worker is visible in the background.
+[00:05:58 - 00:06:00] The person returns to the bins and picks up parts.
+[00:06:00 - 00:06:09] The camera view shifts right, showing the person working on the cardboard piece, adjusting the parts.
+[00:06:09 - 00:06:11] The person goes back to picking parts from the bins.
+[00:06:11 - 00:06:23] The camera view shifts right, showing the person working on the cardboard, adjusting or counting the rows of assembled parts.
+[00:06:23 - 00:06:25] The person returns to the bins and continues picking parts.
+[00:06:25 - 00:06:37] The camera view shifts right, showing the person's hands close to the camera, partially obscuring the view, before they return to adjusting parts on the cardboard.
+[00:06:37 - 00:06:39] The person goes back to picking parts from the bins.
+[00:06:39 - 00:06:41] The camera view shifts wildly as the person moves around.
+[00:06:41 - 00:06:43] The person is back to picking parts from the bins.
+[00:06:43 - 00:07:01] The camera view repeatedly shifts between looking at the bins and looking right at the cardboard with assembled parts. The person occasionally touches the parts on the cardboard.
+[00:07:01 - 00:07:02] The person goes back to picking parts from the bins.
+[00:07:02 - 00:07:11] The camera view shifts right, showing the person adjusting the rows of parts on the cardboard.
+[00:07:11 - 00:07:12] The person returns to the bins.
+[00:07:12 - 00:07:22] The camera view shifts right, showing the person continuing to adjust the parts on the cardboard.
+[00:07:22 - 00:07:24] The person returns to the bins.
+[00:07:24 - 00:07:58] The camera view repeatedly shifts between looking briefly at the bins and looking right at the cardboard. The person's right leg occasionally obscures the view.
+[00:07:58 - 00:08:14] The camera view is fixed on the right, showing the person working on the cardboard, adjusting the parts. They seem to be interacting with the other person in the background. The person's right hand comes up to the camera, partially obscuring the view.
+[00:08:14 - 00:08:18] The camera view shifts wildly as the person moves around, eventually looking back down at the workspace.
+[00:08:18 - 00:08:26] The person goes back to picking and assembling parts from the bins over the metal block.
+[00:08:26 - 00:08:29] The camera view shifts right to look at the cardboard with parts. Another worker is visible.
+[00:08:29 - 00:08:35] The person resumes picking and assembling parts from the bins.
+[00:08:35 - 00:08:38] The camera view shifts right to look at the cardboard with parts. Another worker is visible.
+[00:08:38 - 00:08:48] The person resumes picking and assembling parts from the bins.
+[00:08:48 - 00:08:49] The camera view shifts briefly.
+[00:08:49 - 00:08:55] The person continues picking and assembling parts from the bins over the metal block.
+[00:08:55 - 00:08:57] The person's hands move close to the camera, partially obscuring the view.
+[00:08:57 - 00:09:09] The person continues the continuous task of picking parts from the bins and assembling them over the metal block.
+[00:09:09 - 00:09:11] The camera view shifts right to look at the cardboard with parts. Another worker is visible.
+[00:09:11 - 00:09:37] The person resumes picking and assembling parts from the bins.
+[00:09:37 - 00:09:39] The camera view shifts right to look at the cardboard with parts. Another worker is visible.
+[00:09:39 - 00:09:41] The person resumes picking parts from the bins.
+[00:09:41 - 00:09:43] The camera view shifts, moving around the workspace.
+[00:09:43 - 00:09:45] The person returns to picking parts from the bins.
+[00:09:45 - 00:09:55] The person holds a clipboard with a piece of paper on it in front of the camera, looking at it. The paper has a hand-drawn grid with some numbers.
+[00:09:55 - 00:10:00] The person places the clipboard down on the table to their left and resumes picking and assembling parts from the bins.
+[00:10:00 - 00:10:01] The camera view shifts as the person moves.
+[00:10:01 - 00:10:04] The person is back to picking and assembling parts from the bins.
+[00:10:04 - 00:10:07] The camera view shifts to show another worker walking around the workspace. The person's leg is visible.
+[00:10:07 - 00:10:11] The person resumes picking and assembling parts from the bins.
+[00:10:11 - 00:10:14] The camera view shifts again as the person moves, briefly showing the cardboard and the other worker.
+[00:10:14 - 00:10:15] The person is back to picking parts from the bins.
+[00:10:15 - 00:10:19] The camera view shifts, looking around the workspace, showing another worker and the cardboard.
+[00:10:19 - 00:10:47] The person interacts with another person (partially visible), who hands them a clipboard. The person holds the clipboard and looks at the paper, which has columns and numbers written on it. The other person points at the paper.
+[00:10:47 - 00:10:49] The person places the clipboard down on the table to their left.
+[00:10:49 - 00:10:50] The camera view shifts as the person moves.
+[00:10:50 - 00:11:00] The person goes back to the continuous task of picking and assembling parts from the bins over the metal block.
+[00:11:00 - 00:11:01] The camera view shifts right to look at the cardboard with parts. Another worker is visible.
+[00:11:01 - 00:11:22] The person resumes picking and assembling parts from the bins.
+[00:11:22 - 00:11:23] The camera view shifts right to look at the cardboard with parts. Another worker is visible.
+[00:11:23 - 00:11:36] The person continues picking and assembling parts from the bins.
+[00:11:36 - 00:11:37] The camera view shifts right to look at the cardboard with parts.
+[00:11:37 - 00:11:44] The person is back to picking parts from the bins.
+[00:11:44 - 00:11:46] The camera view shifts right to look at the cardboard with parts.
+[00:11:46 - 00:11:59] The person resumes picking and assembling parts from the bins.
+[00:11:59 - 00:12:00] The camera view shifts right to look at the cardboard with parts.
+[00:12:00 - 00:12:02] The person is back to picking parts from the bins.
+[00:12:02 - 00:12:03] The camera view shifts right to look at the cardboard with parts. Another worker is visible.
+[00:12:03 - 00:12:12] The person continues picking and assembling parts from the bins.
+[00:12:12 - 00:12:14] The camera view shifts right to look at the cardboard with parts.
+[00:12:14 - 00:12:26] The person resumes picking and assembling parts from the bins.
+[00:12:26 - 00:12:27] The camera view shifts right to look at the cardboard with parts. Another worker is visible.
+[00:12:27 - 00:12:38] The person continues picking and assembling parts from the bins.
+[00:12:38 - 00:12:40] The camera view shifts right to look at the cardboard with parts.
+[00:12:40 - 00:12:54] The person resumes picking and assembling parts from the bins.
+[00:12:54 - 00:12:56] The camera view shifts right to look at the cardboard with parts.
+[00:12:56 - 00:13:08] The person continues picking and assembling parts from the bins.
+[00:13:08 - 00:13:10] The camera view shifts right to look at the cardboard with parts. Another worker is visible.
+[00:13:10 - 00:13:19] The person resumes picking and assembling parts from the bins.
+[00:13:19 - 00:13:20] The camera view shifts right to look at the cardboard with parts. Another worker is visible.
+[00:13:20 - 00:13:40] The person continues picking and assembling parts from the bins.
+[00:13:40 - 00:13:43] The camera view shifts wildly as the person moves around, eventually looking back down at the workspace.
+[00:13:43 - 00:13:59] The person goes back to picking and assembling parts from the bins over the metal block.
+[00:13:59 - 00:14:00] The camera view shifts right to look at the cardboard with parts.
+[00:14:00 - 00:14:16] The person resumes picking and assembling parts from the bins.
+[00:14:16 - 00:14:18] The camera view shifts right to look at the cardboard with parts. Another worker is visible.
+[00:14:18 - 00:14:21] The person continues picking and assembling parts from the bins.
+[00:14:21 - 00:14:27] The camera view shifts right to look at the cardboard with parts. Another worker is visible. The person interacts with the parts on the cardboard.
+[00:14:27 - 00:14:36] The person goes back to picking and assembling parts from the bins over the metal block.
+[00:14:36 - 00:14:38] The camera view shifts right to look at the cardboard with parts.
+[00:14:38 - 00:14:55] The person resumes picking and assembling parts from the bins.
+[00:14:55 - 00:14:57] The camera view shifts right to look at the cardboard with parts. Another worker is visible.
+[00:14:57 - 00:15:01] The person continues picking and assembling parts from the bins.
+[00:15:01 - 00:15:08] The person picks up the clipboard with paper from their left. Another worker is visible to their right. The person holds a red pen.
+[00:15:08 - 00:15:15] The person writes on the paper on the clipboard with the red pen while the other worker points at the paper.
+[00:15:15 - 00:15:18] The person places the clipboard back down on the table to their left.
+[00:15:18 - 00:15:21] The person picks up the clipboard again and writes on it.
+[00:15:21 - 00:15:24] The person places the clipboard back down on the table.
+[00:15:24 - 00:15:28] The person picks up the clipboard again. The other worker points to the paper. The person writes or makes corrections on it.
+[00:15:28 - 00:15:29] The camera view shifts wildly.
+[00:15:29 - 00:15:35] The person resumes picking and assembling parts from the bins.
+[00:15:35 - 00:15:36] The camera view shifts.
+[00:15:36 - 00:15:44] The person continues picking and assembling parts from the bins.
+[00:15:44 - 00:15:46] The camera view shifts, showing the person moving around.
+[00:15:46 - 00:15:57] The person goes back to the continuous task of picking and assembling parts from the bins over the metal block.
+[00:15:57 - 00:15:59] The camera view shifts.
+[00:15:59 - 00:16:08] The person continues picking and assembling parts from the bins.
+[00:16:08 - 00:16:11] The camera view shifts right to look at the cardboard with parts. Another worker is visible.
+[00:16:11 - 00:16:26] The person resumes picking and assembling parts from the bins.
+[00:16:26 - 00:16:29] The camera view shifts right to look at the cardboard with parts.
+[00:16:29 - 00:16:40] The person continues picking and assembling parts from the bins.
+[00:16:40 - 00:16:41] The camera view shifts right to look at the cardboard with parts.
+[00:16:41 - 00:16:45] The person is back to picking parts from the bins.
+[00:16:45 - 00:16:46] The camera view shifts right to look at the cardboard with parts.
+[00:16:46 - 00:17:03] The person resumes picking and assembling parts from the bins.
+[00:17:03 - 00:17:05] The camera view shifts right to look at the cardboard with parts.
+[00:17:05 - 00:17:14] The person continues picking and assembling parts from the bins.
+[00:17:14 - 00:17:16] The camera view shifts right to look at the cardboard with parts. Another worker is visible.
+[00:17:16 - 00:17:26] The person resumes picking and assembling parts from the bins.
+[00:17:26 - 00:17:28] The camera view shifts right to look at the cardboard with parts.
+[00:17:28 - 00:17:41] The person continues picking and assembling parts from the bins.
+[00:17:41 - 00:17:44] The camera view shifts right to look at the cardboard with parts. Another worker is visible.
+[00:17:44 - 00:17:54] The person resumes picking and assembling parts from the bins.
+[00:17:54 - 00:17:57] The camera view shifts wildly as the person moves around.
+[00:17:57 - 00:18:05] The person goes back to picking and assembling parts from the bins over the metal block.
+[00:18:05 - 00:18:07] The camera view shifts right to look at the cardboard with parts.
+[00:18:07 - 00:18:18] The person resumes picking and assembling parts from the bins.
+[00:18:18 - 00:18:21] The camera view shifts right to look at the cardboard with parts. Another worker is visible.
+[00:18:21 - 00:18:30] The person continues picking and assembling parts from the bins.
+[00:18:30 - 00:18:33] The camera view shifts right to look at the cardboard with parts. Another worker is visible.
+[00:18:33 - 00:18:42] The person resumes picking and assembling parts from the bins.
+[00:18:42 - 00:18:45] The camera view shifts right to look at the cardboard with parts. Another worker is visible.
+[00:18:45 - 00:18:57] The person continues picking and assembling parts from the bins.
+[00:18:57 - 00:18:59] The camera view shifts right to look at the cardboard with parts.
+[00:18:59 - 00:19:10] The person resumes picking and assembling parts from the bins.
+[00:19:10 - 00:19:12] The camera view shifts right to look at the cardboard with parts. Another worker is visible.
+[00:19:12 - 00:19:27] The person continues picking and assembling parts from the bins.
+[00:19:27 - 00:19:29] The camera view shifts right to look at the cardboard with parts. Another worker is visible.
+[00:19:29 - 00:19:38] The person resumes picking and assembling parts from the bins.
+[00:19:38 - 00:19:40] The camera view shifts right to look at the cardboard with parts. Another worker is visible.
+[00:19:40 - 00:19:53] The person continues picking and assembling parts from the bins.
+[00:19:53 - 00:19:55] The camera view shifts right to look at the cardboard with parts. Another worker is visible.
+[00:19:55 - 00:20:01] The person resumes picking and assembling parts from the bins until the end of the video.

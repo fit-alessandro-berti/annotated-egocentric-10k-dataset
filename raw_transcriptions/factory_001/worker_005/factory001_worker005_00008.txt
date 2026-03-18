@@ -1,0 +1,103 @@
+[00:00:00 - 00:00:23] The person is seated at a workstation, continuously picking up small black components from a blue bin below and placing them into a fixture on a blue machine in front of them. The machine cycles, and the person removes the processed parts, dropping them into the bin. This repetitive assembly process continues steadily.
+
+[00:00:23 - 00:00:30] The person pauses the machine operation, reaches to their left, and picks up a large blue tub filled with black components. They pour the contents into the main working bin situated directly in front of the machine, then place the empty tub aside.
+
+[00:00:30 - 00:00:50] The person resumes the continuous assembly task, repeatedly loading components into the machine, waiting for the cycle, and unloading the finished parts into the bin.
+
+[00:00:50 - 00:00:54] The assembly is briefly interrupted as the person picks up a single completed part, turning it over in their hands to inspect it closely before dropping it back into the bin.
+
+[00:00:54 - 00:01:25] The person returns to the repetitive machine assembly process, steadily picking, placing, and removing parts.
+
+[00:01:25 - 00:01:36] The person stops working and shifts their attention to the left, where another worker is visible. They pick up an empty blue tray, move it around to organize the workspace, and then set it down.
+
+[00:01:36 - 00:02:00] The repetitive assembly task on the machine is resumed.
+
+[00:02:00 - 00:02:08] The normal cycle is interrupted as the person uses both hands to interact with the machine's sliding mechanism, pulling it back manually to adjust a part or clear a minor jam.
+
+[00:02:08 - 00:02:26] Normal operation resumes, and the person continues loading and unloading components in a steady rhythm.
+
+[00:02:26 - 00:02:35] The person pauses and looks over at the bins on their left. They reach in, grab a handful of parts, and move them into the main working area.
+
+[00:02:35 - 00:02:44] The person picks up a clear plastic bag, opens it, and begins grabbing handfuls of completed parts from the bin, stuffing them into the bag.
+
+[00:02:44 - 00:03:00] The bag is set aside, and the person goes back to the continuous assembly task on the machine.
+
+[00:03:00 - 00:03:08] The person stops again to shift their attention between the bins on their left and right, moving parts around to organize their materials.
+
+[00:03:08 - 00:03:30] The continuous machine assembly process is resumed.
+
+[00:03:30 - 00:03:38] The person picks up the clear plastic bag once more, holding it open to drop a large handful of completed parts inside.
+
+[00:03:38 - 00:04:14] The person returns to the machine and continues the repetitive cycle of assembling parts.
+
+[00:04:14 - 00:04:36] The person stops working, stands up, and turns away from the workstation. They walk toward an area with cardboard boxes, pick up a large clear plastic bag filled with parts, and place it inside one of the boxes. They then turn around, walk back to their seat, and sit down.
+
+[00:04:36 - 00:04:51] Back at the workstation, the person picks up a clear plastic bag and begins filling it with handfuls of parts taken from the main working bin.
+
+[00:04:51 - 00:04:59] Holding the filled plastic bag, the person stands up again, turns, and walks over to deposit the bag into a cardboard box. They immediately turn back and sit down at their workstation.
+
+[00:04:59 - 00:05:18] The person resumes the repetitive assembly task on the machine.
+
+[00:05:18 - 00:05:32] The person pauses to organize the workspace, looking left and right to adjust the position of the blue trays. They pick up a tray filled with parts and move it closer to the machine.
+
+[00:05:32 - 00:06:48] The continuous, repetitive assembly task is carried out without interruption.
+
+[00:06:48 - 00:06:51] The person lifts a large blue tub and pours a new batch of black parts into the main working bin.
+
+[00:06:51 - 00:08:15] The steady, repetitive assembly process is resumed.
+
+[00:08:15 - 00:08:31] The assembly is paused as the person stands up and turns around. They walk over to the cardboard boxes, pick up a full plastic bag of parts, and place it inside a box before returning to their seat.
+
+[00:08:31 - 00:08:39] The person picks up an empty clear plastic bag and begins to fill it with parts from the workspace bins.
+
+[00:08:39 - 00:08:48] Holding the filled bag, the person stands up, turns, and walks over to drop the bag into a cardboard box. They then turn back to their station.
+
+[00:08:48 - 00:09:29] The person turns around and walks past the immediate workstation to an area with stacked cardboard boxes. They open a large box, inspect inside, then pick up a smaller, partially assembled box. They fold the flaps of the smaller box and place it inside the larger one, repeating this action with a second small box before walking back and sitting down.
+
+[00:09:29 - 00:10:20] The person immediately resumes the continuous assembly task on the machine.
+
+[00:10:20 - 00:10:24] The person pauses briefly to reach into a blue tray on their left, moving some parts around to organize them.
+
+[00:10:24 - 00:11:06] The repetitive cycle of loading and unloading parts from the machine continues.
+
+[00:11:06 - 00:11:13] The person grabs a clear plastic bag and begins transferring parts from the bin into the bag.
+
+[00:11:13 - 00:11:20] The person turns around with the filled bag, walks over to the cardboard boxes, and deposits the bag inside. They then return to their workstation and sit down.
+
+[00:11:20 - 00:12:44] The continuous machine assembly process is resumed.
+
+[00:12:44 - 00:12:51] The person stands up, turns away from the machine, and walks to the cardboard boxes. They pick up a box, inspect its contents, and place it back down.
+
+[00:12:51 - 00:12:59] The person reaches into a box, pulls out a plastic bag full of parts, adjusts it slightly, and then places it into a larger cardboard box.
+
+[00:12:59 - 00:13:08] Returning to their seat, the person picks up a clear plastic bag and starts filling it with parts from the bin.
+
+[00:13:08 - 00:14:14] The repetitive assembly task on the machine continues.
+
+[00:14:14 - 00:14:21] The assembly process is interrupted as the person uses both hands to interact with and adjust the machine's sliding mechanism.
+
+[00:14:21 - 00:15:52] The person goes back to the repetitive task of loading, cycling, and unloading the machine.
+
+[00:15:52 - 00:15:55] The person lifts a large blue tub and empties its contents into the working bin in front of them.
+
+[00:15:55 - 00:16:18] The continuous assembly task is resumed.
+
+[00:16:18 - 00:16:25] The person pauses to turn their head and look to the left at another worker or workstation before turning back to their own machine.
+
+[00:16:25 - 00:17:13] The repetitive assembly task continues.
+
+[00:17:13 - 00:17:18] The person picks up a blue tray on their left, shifts it around, and pours the remaining parts from it into the main working bin.
+
+[00:17:18 - 00:18:37] The continuous machine assembly process is resumed.
+
+[00:18:37 - 00:18:40] The person lifts another large blue tub and pours more parts into their working bin.
+
+[00:18:40 - 00:19:10] The steady assembly task continues.
+
+[00:19:10 - 00:19:15] The person pauses to handle a blue tray on their left, pouring its contents into the main bin before placing the tray down.
+
+[00:19:15 - 00:19:51] The repetitive machine assembly task is resumed.
+
+[00:19:51 - 00:19:55] The person stops working, shifts their posture, and looks around their immediate workspace.
+
+[00:19:55 - 00:20:01] The person stands up from their chair and begins to walk away from the workstation as the video ends.

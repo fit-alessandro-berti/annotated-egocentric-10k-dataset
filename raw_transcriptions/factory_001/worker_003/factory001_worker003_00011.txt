@@ -1,0 +1,44 @@
+[00:00:00 - 00:00:07] The wearer is seated at a workbench assembling small metal parts. They take pieces from three blue plastic bins, fit them together on a small metal block, and set them aside.
+[00:00:08 - 00:01:15] The wearer shifts their attention to the right, picking up the assembled metal pieces and carefully placing them onto the rows of pins on a large wooden board. They repeat this motion continually, populating the board.
+[00:01:16 - 00:02:00] The perspective jumps slightly. The wearer returns to taking individual metal parts from the blue bins, assembling them together using both hands and the metal block, and placing the finished units on the table.
+[00:02:00 - 00:03:00] The wearer turns right again and resumes picking up the assembled units and attaching them to the pins on the wooden boards, filling multiple boards.
+[00:03:00 - 00:03:22] The view shifts back to the front. The wearer continues to assemble metal pieces from the bins.
+[00:03:23 - 00:03:36] The wearer shifts right and places more assembled parts onto the wooden board.
+[00:03:37 - 00:03:46] The wearer grabs a clear plastic bag filled with metal parts, empties it onto the workbench, and spreads the parts out.
+[00:03:47 - 00:04:05] The wearer returns to assembling the metal parts from the bins.
+[00:04:06 - 00:05:29] The wearer continuously alternates between assembling parts from the bins and turning to the right to place the newly assembled units onto the pins of the wooden board.
+[00:05:30 - 00:06:00] The wearer stands up and interacts with a coworker in a light blue shirt. They converse, and the coworker writes on a clipboard. The wearer handles a small part and discusses it with the coworker.
+[00:06:01 - 00:06:45] The wearer sits back down and resumes assembling parts from the bins, while the coworker in the blue shirt remains nearby holding a plastic bag.
+[00:06:46 - 00:07:02] The coworker holds the plastic bag open, and the wearer drops parts into it. They hand the bag to the coworker, who then handles the clipboard.
+[00:07:03 - 00:07:23] The wearer takes the clipboard, reviews it, and writes on it using a red pen.
+[00:07:23 - 00:07:37] The wearer hands the clipboard back to the coworker and returns to assembling parts from the bins.
+[00:07:38 - 00:07:51] The wearer turns right and places assembled parts onto the wooden board.
+[00:07:52 - 00:07:55] The wearer lifts the wooden board and places it into a piece of machinery briefly.
+[00:07:56 - 00:09:37] The wearer and the coworker in blue interact extensively over the clipboard. The wearer repeatedly checks the board and the bins, makes calculations, and writes numerous entries on the clipboard log, discussing the contents with the coworker.
+[00:09:38 - 00:10:40] The coworker leaves. The wearer continues to hold the clipboard, writing additional notes and periodically looking up to check their counts.
+[00:10:41 - 00:10:47] The wearer puts the clipboard aside and resumes assembling parts from the bins.
+[00:10:48 - 00:11:10] The wearer picks up a small piece of paper, writes on it with the red pen, and reviews it. The coworker briefly passes by again.
+[00:11:11 - 00:11:15] The wearer goes back to assembling parts.
+[00:11:16 - 00:11:22] The wearer picks up a fully populated wooden board, carries it across the room, and sets it down on a stack of similar boards.
+[00:11:23 - 00:11:41] The wearer returns to their seat and continues assembling metal parts from the bins.
+[00:11:42 - 00:11:52] The wearer alternates between placing parts on the wooden board and assembling new parts from the bins.
+[00:11:53 - 00:12:00] The wearer picks up a small red pouch, opens it, and removes a small paper or tag from inside.
+[00:12:01 - 00:12:06] The wearer goes back to assembling parts.
+[00:12:07 - 00:12:20] The wearer writes on the small piece of paper with the red pen and then places it into the red pouch.
+[00:12:21 - 00:12:30] The wearer resumes assembling parts from the bins.
+[00:12:31 - 00:12:35] The wearer turns right and places assembled parts onto the wooden board.
+[00:12:36 - 00:13:50] The wearer continuously alternates between assembling parts from the bins and occasionally interacting with the coworker in blue, who brings a clipboard. They discuss and look at small papers together.
+[00:13:51 - 00:14:00] The wearer resumes assembling parts from the bins.
+[00:14:01 - 00:14:10] The wearer shifts right and places parts onto the wooden board.
+[00:14:11 - 00:14:17] The wearer writes some notes on the clipboard with the red pen.
+[00:14:18 - 00:14:45] The wearer places parts on the board and then returns to assembling parts from the bins.
+[00:14:46 - 00:15:10] The wearer reviews the clipboard log and writes more entries, occasionally checking the bins.
+[00:15:11 - 00:15:25] The wearer rapidly alternates between placing assembled parts onto the wooden board and assembling new parts from the bins.
+[00:15:26 - 00:16:10] The wearer resumes assembling parts. The coworker in blue approaches again, and they share the clipboard, writing on it and exchanging small pieces of paper. The wearer also handles the red pouch.
+[00:16:11 - 00:16:47] The wearer repeatedly alternates between assembling parts from the bins and placing them onto the wooden board.
+[00:16:48 - 00:17:17] The wearer resumes assembling parts. They converse with the coworker in blue, holding the clipboard and writing on a piece of paper.
+[00:17:18 - 00:18:23] The wearer continuously alternates between assembling metal parts from the bins and turning right to place the assembled units onto the wooden board.
+[00:18:24 - 00:18:45] The wearer goes back to assembling parts. The coworker in blue appears with the clipboard, and the wearer writes on it.
+[00:18:46 - 00:19:09] The wearer repeatedly alternates between placing parts onto the wooden board and assembling new parts from the bins.
+[00:19:10 - 00:19:44] The wearer continuously assembles metal parts from the bins, repeatedly fitting them together on the metal block.
+[00:19:45 - 00:20:00] The wearer continues to alternate between placing parts onto the wooden board and assembling new parts.

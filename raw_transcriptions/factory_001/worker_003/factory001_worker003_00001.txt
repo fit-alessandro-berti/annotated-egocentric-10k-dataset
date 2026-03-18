@@ -1,0 +1,45 @@
+[00:00:00 - 00:00:06] The person finishes holding an assembled piece and places it onto a cardboard strip on the right side of the workspace.
+[00:00:06 - 00:01:21] The person repetitively performs an assembly sequence: they reach into the left and middle blue bins simultaneously to grab metal pieces, bring them together over the central metal block, use their right hand to pick a tiny pin from the right bin, insert the pin to secure the pieces, and press the completed assembly onto the cardboard strip on the right. This exact process is repeated several times without interruption.
+[00:01:21 - 00:01:24] The camera view shifts rapidly, becoming blurry as the person moves quickly, seemingly placing a part off-camera.
+[00:01:24 - 00:01:42] The person resumes the assembly task, picking parts from the left and middle bins, grabbing a pin from the right bin, securing the pieces, and placing the completed unit onto the cardboard strip. They repeat this sequence twice.
+[00:01:42 - 00:01:45] The view becomes blurry again due to a quick, shifting movement by the person.
+[00:01:45 - 00:02:16] The person continues the identical repetitive assembly action, taking parts from the left and middle bins, inserting a pin from the right bin, and placing the finished parts on the cardboard strip, completing several units in a row.
+[00:02:16 - 00:02:19] The camera blurs quickly as the person moves their hands away from the central area.
+[00:02:19 - 00:02:36] The person repeats the assembly process exactly as before, completing two more units and placing them on the cardboard.
+[00:02:36 - 00:02:40] A quick camera movement slightly obscures the placement of the finished assembly.
+[00:02:40 - 00:04:54] The person settles into a long, uninterrupted stretch of the same repetitive task. They continuously pick parts from the left and middle bins, take a pin from the right bin, assemble the unit in their hands over the central block, and press it onto the cardboard strip, completing many units in succession.
+[00:04:54 - 00:04:59] The camera view shifts rapidly, and the person appears to place a part, though the exact motion is blurry.
+[00:04:59 - 00:05:29] The person resumes the standard assembly sequence, completing a few more units and placing them on the cardboard strip.
+[00:05:29 - 00:05:33] The camera view blurs quickly as the part is placed or moved off-camera.
+[00:05:33 - 00:05:37] The person interacts with something off-camera to the left, their left hand reaching out of view briefly.
+[00:05:37 - 00:06:30] The person returns to the repetitive assembly task, pulling pieces from the left and middle bins, grabbing pins from the right bin, securing the pieces together, and placing the finished assemblies onto the cardboard strip.
+[00:06:30 - 00:06:33] The camera view shifts rapidly and the view becomes blurry.
+[00:06:33 - 00:07:17] The person continues the assembly routine without deviation, completing several units and placing them down.
+[00:07:17 - 00:07:21] The camera view blurs as the person shifts position or moves their hands quickly.
+[00:07:21 - 00:08:55] The person performs a long, uninterrupted sequence of the repetitive assembly action, taking parts from the bins, inserting pins, and placing the completed units onto the cardboard strip.
+[00:08:55 - 00:08:58] The camera view blurs quickly.
+[00:08:58 - 00:09:32] The person resumes the exact same assembly process, finishing a few more units.
+[00:09:32 - 00:09:36] The camera view blurs briefly.
+[00:09:36 - 00:10:06] The person continues the identical repetitive assembly task, completing multiple units.
+[00:10:06 - 00:10:11] The camera view shifts rapidly downwards, showing the person's lap, then back up to the workspace.
+[00:10:11 - 00:10:50] The person returns to the regular assembly sequence, picking parts from the bins, inserting pins, and placing the finished units onto the cardboard.
+[00:10:50 - 00:10:54] The camera view blurs and shifts.
+[00:10:54 - 00:11:07] The person continues the repetitive assembly process.
+[00:11:07 - 00:11:10] The camera view blurs briefly.
+[00:11:10 - 00:12:08] The person completes a long stretch of the repetitive assembly task without interruption.
+[00:12:08 - 00:12:10] The camera blurs slightly.
+[00:12:10 - 00:16:07] The person engages in a very long, continuous sequence of the identical assembly task, repetitively picking parts from the left and middle bins, grabbing pins from the right bin, assembling the units, and placing them onto the cardboard strip without any pause or deviation.
+[00:16:07 - 00:16:11] The person stops assembling, turns left, and walks away from the workstation. The camera points downwards towards their legs and the floor, blurring the view.
+[00:16:11 - 00:16:15] They arrive at an area with cardboard boxes, open a large plastic bag, and reach inside.
+[00:16:15 - 00:16:19] They grab a bundle or bag containing items and walk back towards the workstation, with the view still pointing downwards.
+[00:16:19 - 00:16:22] They return to the workstation, open the bundle they retrieved, and pour its contents, which are more metal parts, into the bins.
+[00:16:22 - 00:16:25] The person grabs a purple cloth from the workspace to wipe their hands or the parts.
+[00:16:25 - 00:16:28] They use the cloth to wipe the parts inside the middle bin.
+[00:16:28 - 00:16:32] The camera view blurs quickly as they shift their position.
+[00:16:32 - 00:17:17] The person resumes the familiar repetitive assembly task, taking parts from the left and middle bins, grabbing a pin from the right bin, inserting it, and placing the completed unit onto the cardboard strip. They complete multiple units in a row.
+[00:17:17 - 00:17:20] The camera blurs quickly.
+[00:17:20 - 00:17:56] The person continues the identical repetitive assembly action.
+[00:17:56 - 00:18:00] The camera view blurs rapidly.
+[00:18:00 - 00:18:21] The person repeats the assembly process for several more parts.
+[00:18:21 - 00:18:25] The camera blurs.
+[00:18:25 - 00:20:01] The person finishes the video with another long, uninterrupted sequence of the exact same repetitive assembly task, continuously picking parts from the bins, inserting pins, and placing the completed units onto the cardboard strip.

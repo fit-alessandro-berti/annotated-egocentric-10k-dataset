@@ -1,0 +1,33 @@
+[00:00:00 - 00:01:33] The wearer is standing at an assembly workstation. They repeatedly pick up small black parts from a blue bin on their left using their left hand, place them into a fixture on the machine in front of them, and wait briefly as the machine cycles. Then, using their right hand, they remove the processed part from the machine and drop it into a center bin situated directly below the machine. This repetitive assembly cycle continues continuously.
+[00:01:33 - 00:01:39] The wearer stops the machine operation, turns to their left, and walks away from the workstation towards a large open cardboard box resting on the floor. They reach into the box and pull out an empty, clear plastic bag.
+[00:01:39 - 00:01:48] Holding the empty plastic bag, the wearer walks back to their position at the assembly workstation.
+[00:01:48 - 00:01:56] At the workstation, the wearer holds the plastic bag open with one hand and uses the other to grab handfuls of the finished black parts from the center bin, dropping them into the bag to fill it. Another worker is partially visible on the left doing a similar task.
+[00:01:56 - 00:02:00] The wearer turns away from the workstation holding the filled plastic bag and walks back to the cardboard boxes on the floor, placing the filled bag inside one of the boxes.
+[00:02:00 - 00:02:16] The wearer begins to close the cardboard box, folding the top flaps inward to seal it.
+[00:02:16 - 00:02:27] The wearer picks up a roll of packing tape and proceeds to tape the box closed, applying tape across the central seam and the edges to secure the folded flaps.
+[00:02:27 - 00:02:30] The wearer reaches into an adjacent open box, takes out another empty clear plastic bag, and turns to walk back to the workstation.
+[00:02:30 - 00:02:53] Back at the workstation, the wearer resumes scooping finished black parts from the center bin and filling the newly retrieved plastic bag.
+[00:02:53 - 00:02:58] Once the bag is filled, the wearer turns around, walks over to the boxes, and places the filled bag inside an open box on the floor.
+[00:02:58 - 00:03:59] The wearer returns to the workstation and resumes the repetitive machine assembly task. They pick parts from the left bin with their left hand, place them in the machine, and use their right hand to remove the finished parts and drop them into the center bin. This action repeats continuously.
+[00:03:59 - 00:04:07] The wearer pauses the machine operation and reaches for a clear plastic bag from a bin on the left. They hold the bag open and transfer a few handfuls of parts from the center bin into it. However, they then place the partially filled bag back into the left bin.
+[00:04:07 - 00:07:53] The wearer abandons the bagging task and returns to the repetitive machine assembly operation. They continue picking parts from the left bin, placing them in the machine, and dropping the finished pieces into the center bin. This process goes on uninterrupted for several minutes.
+[00:07:53 - 00:08:00] The wearer stops assembling, turns to their left, and walks over to the cardboard boxes on the floor. They reach into a box, retrieve an empty plastic bag, and walk back to the workstation.
+[00:08:00 - 00:08:11] At the workstation, the wearer holds the plastic bag open and fills it by scooping handfuls of finished parts from the center bin.
+[00:08:11 - 00:08:16] The wearer turns around with the filled bag, walks over to the boxes, places the bag inside, and then turns back to return to the workstation.
+[00:08:16 - 00:10:53] The wearer resumes the repetitive machine assembly task, picking parts from the left bin, operating the machine, and dropping finished parts into the center bin. This cycle repeats continuously.
+[00:10:53 - 00:10:58] The wearer stops the machine task, turns left, and walks to the boxes on the floor. They grab an empty plastic bag from a box and walk back to the workstation.
+[00:10:58 - 00:11:24] At the workstation, the wearer opens the plastic bag and begins filling it with finished parts scooped from the center bin.
+[00:11:24 - 00:11:36] The wearer turns with the filled bag, walks to the boxes, and places it inside. They then grab another empty bag from the box, shift some bags around inside the box, and turn back toward the workstation holding the empty bag.
+[00:11:36 - 00:11:45] The wearer returns to the workstation but does not immediately start bagging. They stand there holding the empty bag while looking at the center bin.
+[00:11:45 - 00:11:57] The wearer turns left and walks back towards the boxes on the floor. They bend down, adjust the contents of a box, and then grab the sides of a large cardboard box to shift its position on the floor. They grab an empty plastic bag and walk back to the workstation.
+[00:11:57 - 00:12:13] At the workstation, the wearer opens the empty bag and resumes scooping finished parts from the center bin to fill it.
+[00:12:13 - 00:12:19] The wearer turns around, walks to the boxes, and places the filled bag inside. They then pull another empty bag from a box and return to the workstation.
+[00:12:19 - 00:15:39] Instead of bagging, the wearer places the empty bag aside and resumes the repetitive machine assembly operation. They continuously pick parts from the left bin, place them in the machine, and drop finished parts into the center bin for an extended period.
+[00:15:39 - 00:15:46] The wearer stops the machine operation, turns left, walks to the boxes on the floor, takes out an empty plastic bag, and returns to the workstation.
+[00:15:46 - 00:16:03] At the workstation, the wearer opens the bag and fills it with finished parts from the center bin.
+[00:16:03 - 00:16:07] The wearer turns around, walks to the boxes, places the filled bag inside, and then walks back to the workstation.
+[00:16:07 - 00:19:35] The wearer resumes the repetitive machine assembly task. They pick parts from the left bin, place them in the machine, and drop finished pieces into the center bin. This continues uninterrupted for a long duration.
+[00:19:35 - 00:19:42] The wearer pauses the machine assembly, turns left, and walks to the cardboard boxes. They retrieve an empty plastic bag from a box and walk back to the workstation.
+[00:19:42 - 00:19:53] At the workstation, the wearer opens the plastic bag and scoops finished parts from the center bin into the bag until it is full.
+[00:19:53 - 00:19:57] The wearer turns around, walks over to the boxes, places the filled bag inside, and returns to the workstation.
+[00:19:57 - 00:20:00] The wearer resumes the repetitive machine assembly operation, picking parts from the left bin and placing them into the machine as the video ends.

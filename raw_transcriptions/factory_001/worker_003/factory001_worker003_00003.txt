@@ -1,0 +1,59 @@
+[00:00:00 - 00:00:11] The wearer brings a blue bin filled with small metal pins towards the center of a workbench and places it down next to two other blue bins containing different metal components.
+[00:00:11 - 00:00:23] The wearer picks up a purple cloth, folds it, and wipes the metal surface of the workbench around the bins and a central black assembly block. They place the cloth down to the left.
+[00:00:23 - 00:01:00] The wearer begins a repetitive assembly task. Their right hand picks up a metal clip from the middle bin, while their left hand picks up a metal pin from the left bin. They bring the parts together over the central black block, insert the pin into the clip, and hold the assembled piece. They repeat this process several times in a continuous loop, accumulating assembled pieces in their hands.
+[00:01:00 - 00:01:13] The wearer turns their attention to the right side of the workbench, where a long, partially assembled metal chain track rests on a cardboard base. They use their right hand to sequentially attach the newly assembled pieces onto the existing track structure.
+[00:01:13 - 00:01:58] The wearer shifts back to the blue bins and resumes the assembly process. They repeatedly pick up a clip with the right hand and a pin with the left hand, joining them together over the central black block to build up a small batch of parts.
+[00:01:58 - 00:02:14] The wearer turns to the right again and attaches the freshly assembled pieces onto the metal track on the cardboard, fitting them into the chain sequence.
+[00:02:14 - 00:02:22] The wearer looks towards a blue bin on the far left side, then turns their body and begins walking away from the workbench.
+[00:02:22 - 00:02:37] The wearer stands in a factory aisle, holding and examining a heavy cylindrical metal part with both hands. Another worker in an orange shirt is visible in the background operating a machine.
+[00:02:37 - 00:02:50] The wearer turns around and walks back to the workbench, with the camera pointing downwards showing their blue and purple patterned clothing and bare feet in sandals.
+[00:02:50 - 00:03:04] The wearer arrives back at the workbench and places the cylindrical metal part down near the left edge.
+[00:03:04 - 00:03:19] The wearer picks up the purple cloth and wipes the surface of the central black block and the surrounding metal table. They fold the cloth and place it back down.
+[00:03:19 - 00:03:59] The wearer picks up a small red and white pouch-like object. They hold it over the central block, open it, and rub the inside with their fingers, appearing to wipe or coat their fingers with something inside. They then place the object back down on the left.
+[00:03:59 - 00:04:30] The wearer turns their attention to the right side and uses their right hand to attach more pieces onto the metal chain track resting on the cardboard, repeating the fitting motion multiple times along the assembly.
+[00:04:30 - 00:05:03] The wearer returns to the three blue bins and resumes the core assembly task, picking up a clip from the middle bin and a pin from the left bin, and joining them over the central block repeatedly.
+[00:05:03 - 00:05:20] The wearer turns to the right and attaches the assembled pieces onto the metal track on the cardboard.
+[00:05:20 - 00:05:58] The wearer shifts back to the blue bins and continues repeatedly assembling clips and pins over the central block.
+[00:05:58 - 00:06:01] The wearer briefly glances to the right, where a coworker in a white shirt and purple pants is visible working at a machine.
+[00:06:01 - 00:06:15] The wearer focuses on the metal track on the cardboard, using their right hand to push and adjust the assembled sections of the chain to ensure they are properly seated.
+[00:06:15 - 00:07:08] The wearer turns back to the blue bins and resumes the continuous process of picking up clips and pins and joining them together over the central block.
+[00:07:08 - 00:07:49] The wearer turns to the right and uses their right hand to attach the assembled pieces onto the metal track, fitting them one by one. The coworker is visible moving in the background.
+[00:07:49 - 00:08:21] The wearer shifts back to the bins and resumes assembling clips and pins over the central block.
+[00:08:21 - 00:08:49] The wearer turns to the right and continues attaching pieces to the metal track on the cardboard.
+[00:08:49 - 00:09:48] The wearer returns to the bins and continues the repetitive task of joining clips and pins over the central block.
+[00:09:48 - 00:09:51] The wearer turns and briefly walks away from the workbench, with the camera pointing downwards at the floor.
+[00:09:51 - 00:10:25] The wearer is back at the workbench and resumes assembling clips and pins over the central block.
+[00:10:25 - 00:10:42] The wearer turns to the right and attaches the assembled pieces onto the metal track.
+[00:10:42 - 00:11:12] The wearer returns to the bins and continues assembling clips and pins.
+[00:11:12 - 00:11:16] The wearer briefly glances to the right, showing the coworker at the machine.
+[00:11:16 - 00:11:27] The wearer continues assembling clips and pins over the central block.
+[00:11:27 - 00:11:46] The wearer turns to the right and attaches more pieces to the metal track on the cardboard.
+[00:11:46 - 00:12:15] The wearer shifts back to the bins and resumes assembling clips and pins.
+[00:12:15 - 00:12:19] The wearer briefly looks to the right.
+[00:12:19 - 00:12:56] The wearer continues the repetitive assembly of clips and pins over the central block.
+[00:12:56 - 00:13:16] The wearer turns to the right and attaches pieces onto the metal track.
+[00:13:16 - 00:13:42] The wearer returns to the bins and continues assembling clips and pins.
+[00:13:42 - 00:13:45] The wearer briefly glances to the right towards the coworker.
+[00:13:45 - 00:14:17] The wearer continues assembling clips and pins over the central block.
+[00:14:17 - 00:14:32] The wearer turns to the right and attaches pieces onto the metal track.
+[00:14:32 - 00:15:02] The wearer shifts back to the bins and resumes assembling clips and pins.
+[00:15:02 - 00:15:05] The wearer briefly looks to the right.
+[00:15:05 - 00:15:16] The wearer continues assembling clips and pins.
+[00:15:16 - 00:15:20] The wearer briefly glances to the right towards the coworker.
+[00:15:20 - 00:16:00] The wearer continues the repetitive assembly of clips and pins over the central block.
+[00:16:00 - 00:16:01] The wearer briefly looks to the right.
+[00:16:01 - 00:16:38] The wearer continues assembling clips and pins.
+[00:16:38 - 00:16:49] The wearer turns and walks away from the workbench, with the camera pointing down at the floor.
+[00:16:49 - 00:17:08] The wearer returns to the workbench and resumes assembling clips and pins over the central block.
+[00:17:08 - 00:17:13] The wearer looks down at their lap and clothing.
+[00:17:13 - 00:17:23] The wearer looks to the right towards the coworker.
+[00:17:23 - 00:17:27] The camera points downwards at the floor.
+[00:17:27 - 00:17:41] The wearer focuses back on the workbench and continues assembling clips and pins.
+[00:17:41 - 00:18:03] The wearer turns to the right and attaches pieces onto the metal track.
+[00:18:03 - 00:18:37] The wearer returns to the bins and resumes assembling clips and pins.
+[00:18:37 - 00:18:41] The wearer briefly turns to the right, looking towards the track.
+[00:18:41 - 00:19:03] The wearer continues assembling clips and pins over the central block.
+[00:19:03 - 00:19:07] The wearer briefly looks to the right towards the track.
+[00:19:07 - 00:19:41] The wearer continues the repetitive assembly of clips and pins.
+[00:19:41 - 00:19:50] The wearer turns to the right and uses their right hand to adjust and attach parts to the metal track.
+[00:19:50 - 00:20:01] The wearer turns away from the workbench and walks, with the camera pointing downwards at the floor.

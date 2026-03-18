@@ -1,0 +1,77 @@
+[00:00:00 - 00:00:41] The person is seated at a table covered with a blue plastic sheet, engaged in assembling metal hinges. With their left hand, they pick up a folded metal bracket from a pile on the left and place it onto a central metal jig. Their right hand then picks up a cylindrical metal pin with green tape around its center from the right side of the workspace. They insert the pin into the hinge hole, pick up a hammer with a yellow and green handle, and strike the pin repeatedly to secure it. They continuously repeat this sequence of placing the bracket, inserting the pin, and hammering it.
+
+[00:00:41 - 00:01:17] The person stands up, pushing their chair back, and walks over to a large grey metal bin situated to their left. They reach into the bin with both hands, grab stacks of assembled metal brackets, and transfer them into a green plastic container located slightly behind and to the left of the metal bin. They repeat this transferring action several times.
+
+[00:01:17 - 00:01:56] The person returns to their seat at the assembly table. They resume the assembly process, picking up a metal bracket from the pile on the left, placing it on the jig, grabbing a pin, inserting it, and hammering it in. They repeat this assembly sequence multiple times.
+
+[00:01:56 - 00:02:30] The person stands up again and moves to the left towards the large grey metal bin. They reach inside, grab stacks of assembled brackets with both hands, and transfer them into the green plastic container. This action is repeated several times.
+
+[00:02:30 - 00:02:43] Returning to the assembly table, the person sits down and immediately resumes assembling hinges, following the established pattern of placing the bracket in the jig, inserting the pin, and hammering it.
+
+[00:02:43 - 00:02:59] The person stands up, walks over to the large grey metal bin on the left, and again uses both hands to transfer stacks of assembled brackets into the green plastic container.
+
+[00:02:59 - 00:03:13] The person returns to their seat at the blue plastic-covered table. They pick up a metal bracket, place it on the central jig, insert a pin, and hammer it securely, repeating the assembly process.
+
+[00:03:13 - 00:03:25] The person stands up once more, walks to the grey metal bin, and transfers handfuls of assembled brackets into the green container.
+
+[00:03:25 - 00:06:30] The person sits back down at the assembly station and begins a long, uninterrupted period of assembling hinges. They consistently use their left hand to grab a folded metal bracket from the pile, align it on the central jig, and use their right hand to insert the taped metal pin. They then grab the hammer and strike the pin firmly to complete the assembly. This exact sequence is repeated continuously without any significant changes in action or attention.
+
+[00:06:30 - 00:06:39] The person pauses the assembly process, turns to their left, and reaches towards the grey metal bin. They grab a neatly stacked pile of metal brackets and bring them over to the blue plastic-covered table, placing them near the existing pile of brackets to replenish their immediate supply.
+
+[00:06:39 - 00:08:57] The person resumes the repetitive assembly task. They pick brackets from the newly placed stack, position them on the jig, insert the pins, and hammer them in, continuing this consistent workflow for an extended period.
+
+[00:08:57 - 00:09:12] The person stops assembling and focuses on the pile of metal brackets on the left side of their workspace. Using both hands, they gather, organize, and stack the scattered metal pieces into a more orderly pile.
+
+[00:09:12 - 00:10:10] The person returns to the task of assembling hinges, following the exact same procedure: grabbing a bracket, placing it on the jig, inserting a pin, and hammering it in securely.
+
+[00:10:10 - 00:10:20] The assembly process is paused as the person uses both hands to pick up a stack of metal brackets from the left side of the table and repositions them closer to the central work area on the jig.
+
+[00:10:20 - 00:10:53] The person resumes assembling hinges, now picking the metal brackets from the stack they just repositioned, inserting the pins, and hammering them down.
+
+[00:10:53 - 00:11:00] The person turns to the left, reaches into the grey metal bin, grabs a large stack of metal brackets, and places them onto the blue plastic-covered table.
+
+[00:11:00 - 00:12:00] The person continues the continuous assembly of hinges, picking up the brackets from the table, placing them in the jig, inserting the pins, and hammering them in repeatedly.
+
+[00:12:00 - 00:12:05] The person briefly pauses to grab another stack of metal brackets from the pile on the left, placing them down to reorganize their immediate workspace.
+
+[00:12:05 - 00:12:12] The person proceeds to assemble a few more hinges using the standard process.
+
+[00:12:12 - 00:12:20] The person reaches over to the left side again, pulls a large stack of metal brackets from the grey bin area, and sets them down onto the blue table.
+
+[00:12:20 - 00:13:57] The person resumes a long, uninterrupted streak of assembling hinges. The repetitive motion of placing the bracket on the jig, inserting the pin, and hammering it in continues consistently.
+
+[00:13:57 - 00:14:04] The person stands up from their chair and walks towards the large grey metal bin located on the left side of the room.
+
+[00:14:04 - 00:14:38] The person returns to the blue assembly table, sits down, and immediately resumes the process of assembling hinges, placing brackets on the jig, inserting pins, and hammering.
+
+[00:14:38 - 00:15:00] The person stands up, walks over to the large grey metal bin, reaches in with both hands, grabs stacks of assembled brackets, and transfers them into the green plastic container. They repeat this transfer several times.
+
+[00:15:00 - 00:15:28] Returning to the assembly table, the person sits and continues the repetitive process of assembling the hinges.
+
+[00:15:28 - 00:15:42] The person gets up again, moves to the grey metal bin, and transfers more stacks of assembled brackets from the bin into the green plastic container.
+
+[00:15:42 - 00:16:11] The person returns to their seat at the assembly station and resumes assembling hinges using the established method.
+
+[00:16:11 - 00:16:15] The person pauses to grab a stack of metal brackets from the left side of the table and adjusts their position to make them more accessible.
+
+[00:16:15 - 00:16:20] The person continues assembling hinges for a short duration.
+
+[00:16:20 - 00:16:30] The person stands up, walks to the grey metal bin, and transfers stacks of assembled brackets into the green container.
+
+[00:16:30 - 00:16:43] The person returns to the assembly table and resumes the process of assembling hinges.
+
+[00:16:43 - 00:16:51] The person stands up, moves to the grey metal bin, and transfers more assembled brackets into the green container.
+
+[00:16:51 - 00:16:56] The person returns to the table and briefly resumes assembling hinges.
+
+[00:16:56 - 00:17:02] The person stands up, walks to the grey metal bin, and transfers stacks of assembled brackets into the green container.
+
+[00:17:02 - 00:17:12] The person returns to the assembly table and resumes the hinge assembly process.
+
+[00:17:12 - 00:17:15] The person reaches over to the left to grab a small stack of metal brackets, adding them to the pile on the table.
+
+[00:17:15 - 00:18:14] The person continues the continuous, repetitive process of assembling hinges, placing brackets on the jig, inserting pins, and hammering them down.
+
+[00:18:14 - 00:18:23] The person pauses to reach to the left, grabbing a large stack of metal brackets and placing them onto the blue table to reorganize the pile.
+
+[00:18:23 - 00:20:00] The person resumes the continuous assembly of hinges. They consistently grab a metal bracket, position it on the central jig, insert the metal pin, and strike it with the hammer. This highly repetitive action continues uninterrupted until the end of the video.
