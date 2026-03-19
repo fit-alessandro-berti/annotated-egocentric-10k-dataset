@@ -1,0 +1,177 @@
+[00:00:00 - 00:00:16] The person holds a brownish-yellow intricate piece in their left hand and uses a thin metal tool in their right hand to repeatedly scrape and clean its surfaces and internal holes, rotating the piece to reach different angles.
+[00:00:16 - 00:00:30] They pick up a small brush with a white handle and apply a liquid substance to various spots on the piece, holding it steady on the table.
+[00:00:30 - 00:00:43] They carefully place the piece into a metal assembly mold on the table, pressing it firmly into the designated shape with their fingers.
+[00:00:43 - 00:01:14] The person picks up a second piece from the pile on the table and begins cleaning it extensively with the thin metal tool, scraping the edges and clearing out the cavities.
+[00:01:14 - 00:01:21] They set down the tool, pick up the brush, and apply the liquid to the second piece.
+[00:01:21 - 00:01:31] They fit the second piece into the assembly mold, connecting it to the first piece and pressing it into place.
+[00:01:31 - 00:01:45] The person picks up a third piece and cleans it with the metal tool, clearing out the small openings and scraping the sides.
+[00:01:45 - 00:01:53] They apply the liquid to the third piece using the brush.
+[00:01:53 - 00:02:00] They press the third piece into its slot in the assembly mold.
+[00:02:00 - 00:02:11] They retrieve a fourth piece from the table and clean it with the metal tool.
+[00:02:11 - 00:02:22] They apply liquid to the fourth piece with the brush.
+[00:02:22 - 00:02:27] They place the fourth piece into the assembly mold next to the others.
+[00:02:27 - 00:02:37] They pick up a fifth piece and scrape it with the metal tool, rotating it continuously.
+[00:02:37 - 00:02:42] They brush the liquid onto the fifth piece.
+[00:02:42 - 00:02:45] They insert the fifth piece into the assembly mold.
+[00:02:45 - 00:03:00] They pick up a sixth piece and clean it thoroughly with the metal tool.
+[00:03:00 - 00:03:10] They apply the liquid to the sixth piece with the brush.
+[00:03:10 - 00:03:15] They fit the sixth piece into the assembly mold, completing the cluster.
+[00:03:15 - 00:03:31] The person lifts the entire completed assembly out of the metal mold, inspects it briefly, and places it onto a large metal tray to their right alongside many identical finished assemblies.
+[00:03:31 - 00:03:55] They pick up a new first piece to start the next assembly, cleaning it meticulously with the thin metal tool.
+[00:03:55 - 00:03:58] They dab the liquid onto the piece using the brush.
+[00:03:58 - 00:04:02] They place the piece into the metal assembly mold.
+[00:04:02 - 00:04:14] They pick up the second piece and scrape it clean with the metal tool.
+[00:04:14 - 00:04:16] They apply liquid to it with the brush.
+[00:04:16 - 00:04:21] They fit the second piece into the assembly mold.
+[00:04:21 - 00:04:30] They grab the third piece and use the metal tool to clean its surfaces and holes.
+[00:04:30 - 00:04:32] They brush liquid onto the third piece.
+[00:04:32 - 00:04:36] They press the third piece into the assembly mold.
+[00:04:36 - 00:04:42] They pick up the fourth piece and clean it with the tool.
+[00:04:42 - 00:04:44] They apply liquid with the brush.
+[00:04:44 - 00:04:49] They place the fourth piece into the mold.
+[00:04:49 - 00:04:59] They take the fifth piece and scrape it clean.
+[00:04:59 - 00:05:01] They brush liquid onto it.
+[00:05:01 - 00:05:04] They fit the fifth piece into the mold.
+[00:05:04 - 00:05:13] They pick up the sixth piece and clean it with the metal tool.
+[00:05:13 - 00:05:15] They dab liquid onto it with the brush.
+[00:05:15 - 00:05:20] They insert the sixth piece into the assembly mold, completing the second cluster.
+[00:05:20 - 00:05:32] They lift the completed assembly out of the mold and place it on the large tray to the right.
+[00:05:32 - 00:05:50] They pick up a new first piece to begin the third assembly, cleaning it with the tool.
+[00:05:50 - 00:05:53] They apply liquid to it using the brush.
+[00:05:53 - 00:05:56] They place it into the assembly mold.
+[00:05:56 - 00:06:16] They pick up the second piece and spend time thoroughly scraping and poking it with the metal tool.
+[00:06:16 - 00:06:18] They brush liquid onto the second piece.
+[00:06:18 - 00:06:22] They press it into the mold.
+[00:06:22 - 00:06:33] They pick up the third piece and clean it with the tool.
+[00:06:33 - 00:06:35] They apply liquid with the brush.
+[00:06:35 - 00:06:38] They fit it into the mold.
+[00:06:38 - 00:06:48] They take the fourth piece and clean it.
+[00:06:48 - 00:06:50] They dab liquid onto it with the brush.
+[00:06:50 - 00:06:54] They place the fourth piece into the mold.
+[00:06:54 - 00:07:04] They pick up the fifth piece and scrape it with the tool.
+[00:07:04 - 00:07:06] They apply liquid to it.
+[00:07:06 - 00:07:11] They insert the fifth piece into the mold.
+[00:07:11 - 00:07:22] They grab the sixth piece and clean it.
+[00:07:22 - 00:07:25] They brush liquid onto the sixth piece.
+[00:07:25 - 00:07:29] They place it into the assembly mold to complete the cluster.
+[00:07:29 - 00:07:38] They lift the completed third assembly from the mold and move it to the tray on the right.
+[00:07:38 - 00:07:53] They pick up a new first piece for the fourth assembly, cleaning it carefully with the tool.
+[00:07:53 - 00:07:56] They apply liquid to it with the brush.
+[00:07:56 - 00:08:00] They place it into the mold.
+[00:08:00 - 00:08:14] They pick up the second piece and clean it with the tool.
+[00:08:14 - 00:08:16] They brush liquid onto it.
+[00:08:16 - 00:08:19] They fit the second piece into the mold.
+[00:08:19 - 00:08:30] They pick up the third piece, rotating and scraping it.
+[00:08:30 - 00:08:32] They apply liquid with the brush.
+[00:08:32 - 00:08:35] They press the third piece into the mold.
+[00:08:35 - 00:08:43] They pick up the fourth piece and clean it.
+[00:08:43 - 00:08:45] They dab liquid onto it.
+[00:08:45 - 00:08:49] They place the fourth piece into the mold.
+[00:08:49 - 00:08:58] They take the fifth piece and clean it with the tool.
+[00:08:58 - 00:09:00] They apply liquid using the brush.
+[00:09:00 - 00:09:03] They insert the fifth piece into the mold.
+[00:09:03 - 00:09:12] They pick up the sixth piece and scrape it clean.
+[00:09:12 - 00:09:14] They brush liquid onto the sixth piece.
+[00:09:14 - 00:09:17] They place it into the assembly mold.
+[00:09:17 - 00:09:27] They remove the completed fourth assembly and set it on the large tray.
+[00:09:27 - 00:09:44] They pick up a new first piece for the fifth assembly and clean it with the metal tool.
+[00:09:44 - 00:09:47] They brush liquid onto the piece.
+[00:09:47 - 00:09:50] They place it into the mold.
+[00:09:50 - 00:10:04] They pick up the second piece and clean it thoroughly with the tool.
+[00:10:04 - 00:10:06] They apply liquid with the brush.
+[00:10:06 - 00:10:10] They fit the second piece into the mold.
+[00:10:10 - 00:10:20] They grab the third piece and scrape it clean.
+[00:10:20 - 00:10:22] They brush liquid onto it.
+[00:10:22 - 00:10:25] They place the third piece into the mold.
+[00:10:25 - 00:10:35] They pick up the fourth piece and clean it.
+[00:10:35 - 00:10:37] They apply liquid.
+[00:10:37 - 00:10:41] They press the fourth piece into the mold.
+[00:10:41 - 00:10:50] They take the fifth piece and clean it with the tool.
+[00:10:50 - 00:10:52] They dab liquid onto it with the brush.
+[00:10:52 - 00:10:56] They insert the fifth piece into the mold.
+[00:10:56 - 00:11:06] They pick up the sixth piece and scrape it clean.
+[00:11:06 - 00:11:08] They apply liquid.
+[00:11:08 - 00:11:13] They place the sixth piece into the assembly mold.
+[00:11:13 - 00:11:24] They lift the completed fifth assembly and place it on the tray to the right.
+[00:11:24 - 00:11:42] They pick up a new first piece for the sixth assembly, cleaning it with the tool.
+[00:11:42 - 00:11:45] They apply liquid with the brush.
+[00:11:45 - 00:11:49] They place the piece into the mold.
+[00:11:49 - 00:12:00] They pick up the second piece and scrape it clean.
+[00:12:00 - 00:12:02] They brush liquid onto it.
+[00:12:02 - 00:12:06] They fit the second piece into the mold.
+[00:12:06 - 00:12:15] They grab the third piece and clean it with the tool.
+[00:12:15 - 00:12:17] They apply liquid.
+[00:12:17 - 00:12:20] They place the third piece into the mold.
+[00:12:20 - 00:12:30] They pick up the fourth piece and clean it.
+[00:12:30 - 00:12:32] They brush liquid onto it.
+[00:12:32 - 00:12:36] They press the fourth piece into the mold.
+[00:12:36 - 00:12:47] They take the fifth piece and scrape it clean.
+[00:12:47 - 00:12:49] They dab liquid onto it with the brush.
+[00:12:49 - 00:12:53] They insert the fifth piece into the mold.
+[00:12:53 - 00:13:03] They pick up the sixth piece and clean it.
+[00:13:03 - 00:13:05] They apply liquid.
+[00:13:05 - 00:13:09] They place the sixth piece into the mold.
+[00:13:09 - 00:13:21] They lift the completed sixth assembly out of the mold and place it on the tray.
+[00:13:21 - 00:13:39] They pick up a new first piece for the seventh assembly, cleaning it carefully.
+[00:13:39 - 00:13:42] They apply liquid with the brush.
+[00:13:42 - 00:13:45] They place it into the mold.
+[00:13:45 - 00:13:58] They pick up the second piece and clean it with the tool.
+[00:13:58 - 00:14:00] They brush liquid onto it.
+[00:14:00 - 00:14:03] They fit the second piece into the mold.
+[00:14:03 - 00:14:14] They pick up the third piece, rotating and scraping it.
+[00:14:14 - 00:14:16] They apply liquid.
+[00:14:16 - 00:14:19] They press the third piece into the mold.
+[00:14:19 - 00:14:28] They take the fourth piece and clean it.
+[00:14:28 - 00:14:30] They dab liquid onto it.
+[00:14:30 - 00:14:34] They place the fourth piece into the mold.
+[00:14:34 - 00:14:43] They pick up the fifth piece and clean it with the tool.
+[00:14:43 - 00:14:45] They apply liquid using the brush.
+[00:14:45 - 00:14:49] They insert the fifth piece into the mold.
+[00:14:49 - 00:14:59] They grab the sixth piece and scrape it clean.
+[00:14:59 - 00:15:01] They brush liquid onto the sixth piece.
+[00:15:01 - 00:15:05] They place it into the assembly mold.
+[00:15:05 - 00:15:18] They remove the completed seventh assembly and set it on the large tray.
+[00:15:18 - 00:15:37] They pick up a new first piece for the eighth assembly and clean it with the tool.
+[00:15:37 - 00:15:39] They brush liquid onto it.
+[00:15:39 - 00:15:43] They place it into the mold.
+[00:15:43 - 00:15:58] They pick up the second piece and clean it thoroughly.
+[00:15:58 - 00:16:00] They apply liquid with the brush.
+[00:16:00 - 00:16:04] They fit the second piece into the mold.
+[00:16:04 - 00:16:13] They grab the third piece and scrape it clean.
+[00:16:13 - 00:16:15] They brush liquid onto it.
+[00:16:15 - 00:16:18] They place the third piece into the mold.
+[00:16:18 - 00:16:29] They pick up the fourth piece and clean it.
+[00:16:29 - 00:16:31] They apply liquid.
+[00:16:31 - 00:16:34] They press the fourth piece into the mold.
+[00:16:34 - 00:16:43] They take the fifth piece and clean it with the tool.
+[00:16:43 - 00:16:45] They dab liquid onto it with the brush.
+[00:16:45 - 00:16:49] They insert the fifth piece into the mold.
+[00:16:49 - 00:16:58] They pick up the sixth piece and scrape it clean.
+[00:16:58 - 00:17:00] They apply liquid.
+[00:17:00 - 00:17:04] They place the sixth piece into the assembly mold.
+[00:17:04 - 00:17:15] They lift the completed eighth assembly and place it on the tray.
+[00:17:15 - 00:17:35] They pick up a new first piece for the ninth assembly, cleaning it with the tool.
+[00:17:35 - 00:17:38] They apply liquid with the brush.
+[00:17:38 - 00:17:41] They place the piece into the mold.
+[00:17:41 - 00:17:55] They pick up the second piece and scrape it clean.
+[00:17:55 - 00:17:58] They brush liquid onto it.
+[00:17:58 - 00:18:01] They fit the second piece into the mold.
+[00:18:01 - 00:18:12] They grab the third piece and clean it with the tool.
+[00:18:12 - 00:18:14] They apply liquid.
+[00:18:14 - 00:18:17] They place the third piece into the mold.
+[00:18:17 - 00:18:28] They pick up the fourth piece and clean it.
+[00:18:28 - 00:18:30] They brush liquid onto it.
+[00:18:30 - 00:18:34] They press the fourth piece into the mold.
+[00:18:34 - 00:18:43] They take the fifth piece and scrape it clean.
+[00:18:43 - 00:18:45] They dab liquid onto it with the brush.
+[00:18:45 - 00:18:48] They insert the fifth piece into the mold.
+[00:18:48 - 00:18:58] They pick up the sixth piece and clean it.
+[00:18:58 - 00:19:00] They apply liquid.
+[00:19:00 - 00:19:04] They place the sixth piece into the mold.
+[00:19:04 - 00:19:15] They lift the completed ninth assembly out of the mold and place it on the tray.
+[00:19:15 - 00:19:33] They pick up a new first piece for the tenth assembly, cleaning it carefully.
+[00:19:33 - 00:19:36] They apply liquid with the brush.
+[00:19:36 - 00:19:40] They place it into the mold.
+[00:19:40 - 00:19:55] They pick up the second piece and clean it thoroughly with the metal tool.
+[00:19:55 - 00:19:57] They brush liquid onto it.
+[00:19:57 - 00:20:00] They are in the process of fitting the second piece into the mold as the video ends.

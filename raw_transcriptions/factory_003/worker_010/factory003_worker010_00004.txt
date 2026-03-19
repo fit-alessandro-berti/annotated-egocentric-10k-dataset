@@ -1,0 +1,85 @@
+[00:00:00 - 00:00:09] The person places small, brown core pieces into specific cavities of a yellow mold plate sitting on a machine.
+[00:00:09 - 00:00:17] The person picks up an air gun and blows air over the yellow mold plate and the inserted pieces.
+[00:00:17 - 00:00:36] The person grabs a small plastic bag filled with white powder and squeezes it to dust the powder over the mold plate.
+[00:00:36 - 00:00:46] The person lifts the top half of the yellow mold, places it onto the bottom half to close it, and pushes the assembled mold into the machine.
+[00:00:46 - 00:01:23] The person turns away from the machine, walks to a nearby metal table, and uses a flat metal scraper tool to vigorously clean the surfaces of two empty yellow mold halves lying there.
+[00:01:23 - 00:01:38] The person picks up the air gun and blows air over the scraped mold halves on the metal table, clearing away debris.
+[00:01:38 - 00:01:47] The person turns back to the machine, pulls out the previously inserted mold, and lifts the top half off.
+[00:01:47 - 00:02:08] The person removes a freshly molded grid of connected pieces from the mold and places it into a blue plastic crate filled with similar items.
+[00:02:08 - 00:02:18] The person uses the air gun to clean the open yellow mold still resting on the machine.
+[00:02:18 - 00:02:24] The person picks up a large, bell-shaped clay cup from a nearby crate and uses the air gun to blow out its inside.
+[00:02:24 - 00:02:35] The person uses the bag of white powder to dust the open mold on the machine.
+[00:02:35 - 00:02:40] The person places the large clay cup onto the center of the mold, places the top half of the mold over it, and pushes the assembly into the machine.
+[00:02:40 - 00:03:07] The person steps away from the machine, walks around the busy workshop area observing other workers and equipment, and briefly approaches another machine before turning back.
+[00:03:07 - 00:03:22] The person grabs a blue crate containing molded pieces, moves it across the floor, and places it near their workstation.
+[00:03:22 - 00:03:40] The person returns to the metal table where a coworker in a blue shirt is standing, and resumes scraping the two yellow mold halves with the flat metal tool.
+[00:03:40 - 00:03:57] The person uses the air gun to blow the scraped debris off the mold halves on the metal table.
+[00:03:57 - 00:04:02] The person walks back to the machine, pulls the mold assembly out, and lifts the top half off.
+[00:04:02 - 00:04:08] The person moves to a nearby tray and rubs a pile of reddish-brown granular material over a mesh sieve.
+[00:04:08 - 00:04:22] The person returns to the open mold at the machine and places small brown core pieces into the cavities.
+[00:04:22 - 00:04:32] The person uses the air gun to blow air over the mold and the newly placed pieces.
+[00:04:32 - 00:04:44] The person dusts the mold and the pieces with the bag of white powder.
+[00:04:44 - 00:04:51] The person places the top half of the mold onto the bottom half and pushes it into the machine.
+[00:04:51 - 00:05:15] The person steps away and walks a short distance through the workshop, looking around at shelves and other tables, before returning to the metal table.
+[00:05:15 - 00:05:25] The person uses a small, pointed metal pick tool to clean the intricate cavities of the yellow mold halves on the metal table.
+[00:05:25 - 00:05:43] The person switches to the flat metal scraper and vigorously scrapes the flat surfaces of the mold halves.
+[00:05:43 - 00:06:03] The person uses the air gun to blow away the scraped debris from the mold halves.
+[00:06:03 - 00:06:09] The person turns back to the machine and pulls out the mold assembly.
+[00:06:09 - 00:06:29] The person lifts the top half of the mold, removes the newly formed grid of pieces, and stacks it into the blue crate.
+[00:06:29 - 00:06:42] The person cleans the open mold on the machine using the air gun.
+[00:06:42 - 00:06:47] The person grabs another large clay cup, blows air into it with the gun, and sets it down.
+[00:06:47 - 00:06:56] The person dusts the open mold with the white powder bag.
+[00:06:56 - 00:07:07] The person places the large clay cup onto the mold, covers it with the top half of the mold, and pushes it into the machine.
+[00:07:07 - 00:07:33] The person steps back, walks around the immediate workspace, and observes the surrounding area and coworkers.
+[00:07:33 - 00:08:00] The person returns to the metal table, uses the small pick tool to clean the mold cavities, and then switches to the flat scraper to clean the surfaces.
+[00:08:00 - 00:08:16] A coworker in a blue shirt speaks to the person while the person continues scraping the mold halves on the table.
+[00:08:16 - 00:08:35] The person uses the air gun to blow off the debris from the mold halves on the table.
+[00:08:35 - 00:08:41] The person moves to the machine, pulls out the mold assembly, and opens it.
+[00:08:41 - 00:08:48] The person goes to the tray and rubs the reddish-brown material over the mesh sieve again.
+[00:08:48 - 00:09:05] The person returns to the machine and places small brown core pieces into the mold cavities.
+[00:09:05 - 00:09:14] The person uses the air gun to blow over the mold and the inserted pieces.
+[00:09:14 - 00:09:27] The person dusts the mold with the bag of white powder.
+[00:09:27 - 00:09:37] The person places the top half of the mold on and pushes the assembly into the machine.
+[00:09:37 - 00:09:50] The person turns and walks back to the metal table, passing a coworker wearing a yellow shirt.
+[00:09:50 - 00:10:13] The person cleans the mold halves on the table, first using the small pick tool for the details, then using the flat scraper for the broad surfaces.
+[00:10:13 - 00:10:35] The person picks up the air gun and blows all the scraped dust off the mold halves.
+[00:10:35 - 00:10:52] The person walks back to the machine and pulls out the mold assembly.
+[00:10:52 - 00:11:15] The person lifts the top half of the mold, takes out the newly molded pieces, and places them into the blue crate.
+[00:11:15 - 00:11:29] The person cleans the empty mold on the machine with the air gun.
+[00:11:29 - 00:11:34] The person grabs a large clay cup and blows it out with the air gun.
+[00:11:34 - 00:11:43] The person dusts the open mold with the white powder bag.
+[00:11:43 - 00:11:51] The person places the clay cup into the mold, sets the top half on, and pushes the assembly into the machine.
+[00:11:51 - 00:12:05] The person turns to a side table, picks up a small stack of paper labels, and binds them together using a rubber band.
+[00:12:05 - 00:12:33] The person pulls out a smartphone, turns on its screen and flashlight, looks at it briefly, and then puts it away.
+[00:12:33 - 00:12:47] The person walks back to the metal table and examines the mold halves resting there.
+[00:12:47 - 00:13:04] The person uses the flat scraper to thoroughly clean the surfaces of the mold halves on the table.
+[00:13:04 - 00:13:08] The person turns to the machine, pulls out the mold assembly, and removes the top half.
+[00:13:08 - 00:13:18] The person moves to the sieve tray and sifts some of the reddish-brown material.
+[00:13:18 - 00:13:34] The person goes back to the open mold at the machine and places new brown core pieces into the cavities.
+[00:13:34 - 00:13:44] The person cleans the mold and pieces by blowing air over them with the air gun.
+[00:13:44 - 00:13:57] The person uses the powder bag to dust the mold and the core pieces.
+[00:13:57 - 00:14:06] The person places the top mold half on the bottom and pushes the mold into the machine.
+[00:14:06 - 00:14:26] The person walks to the metal table and uses the small pick tool to clean out the fine details of the mold halves.
+[00:14:26 - 00:14:50] The person switches to the flat scraper and cleans the flat surfaces of the mold halves.
+[00:14:50 - 00:14:54] The person returns to the machine and pulls out the mold assembly.
+[00:14:54 - 00:15:19] The person opens the mold, extracts the newly formed grid of pieces, and stacks it into the blue crate.
+[00:15:19 - 00:15:49] The person spends a prolonged time using the air gun to thoroughly blow out the empty mold on the machine.
+[00:15:49 - 00:15:54] The person grabs a large clay cup and uses the air gun to blow inside it.
+[00:15:54 - 00:16:03] The person dusts the open mold with the white powder bag.
+[00:16:03 - 00:16:10] The person places the clay cup into the mold, covers it with the top mold half, and pushes it into the machine.
+[00:16:10 - 00:16:21] The person moves to the side table, grabs another small stack of paper labels, and secures them with a rubber band.
+[00:16:21 - 00:16:55] The person walks to the metal table, where the coworker in blue is working, and uses the small pick tool to clean the cavities of the mold halves.
+[00:16:55 - 00:17:15] The person uses the flat scraper to clean the flat surfaces of the mold halves.
+[00:17:15 - 00:17:28] The person picks up the air gun and blows the debris off the mold halves on the table.
+[00:17:28 - 00:17:34] The person turns to the machine, pulls out the mold assembly, and removes the top half.
+[00:17:34 - 00:17:39] The person goes to the tray and rubs more of the reddish-brown material through the sieve.
+[00:17:39 - 00:17:58] The person returns to the open mold at the machine and places small core pieces into the designated spots.
+[00:17:58 - 00:18:07] The person blows air over the mold and the pieces using the air gun.
+[00:18:07 - 00:18:22] The person dusts the mold with the bag of white powder.
+[00:18:22 - 00:18:32] The person puts the top half of the mold back on and pushes it into the machine.
+[00:18:32 - 00:18:41] The person walks back to the metal table and briefly uses the air gun to blow debris off the table surface.
+[00:18:41 - 00:18:50] The person uses the small pick tool to clean the details of the mold halves on the table.
+[00:18:50 - 00:19:18] The person switches to the flat scraper and cleans the flat surfaces of the mold halves.
+[00:19:18 - 00:19:42] The person uses the air gun to clear all the scraped dust off the mold halves.
+[00:19:42 - 00:19:46] The person turns back to the machine and pulls out the mold assembly.
+[00:19:46 - 00:20:00] The person opens the mold, takes out the newly cast pieces, and places them into the blue crate.

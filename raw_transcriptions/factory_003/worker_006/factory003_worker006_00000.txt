@@ -1,0 +1,47 @@
+[00:00:00 - 00:03:38] The wearer is seated at a metal worktable, engaged in a repetitive manual task. With their left hand, they continuously pick up small, brown, peg-like objects from a scattered pile. Using a small metal scraping tool held in their right hand, they scrape or file the tips of each peg, then place the processed peg back onto the table. This cycle of reaching, grasping, scraping, and placing repeats continuously. Another person is visible working in the background.
+[00:03:38 - 00:03:48] The wearer leans forward and downward, shifting the camera view. They reach both hands into a large cardboard box situated on the floor, grab a large handful of the peg objects, lift them up, and deposit them onto the worktable to replenish their pile.
+[00:03:48 - 00:06:45] The wearer resumes the previous repetitive task. They pick up individual peg objects with their left hand, use the metal tool in their right hand to scrape the tips, and drop them back on the table. Occasionally, they hold and scrape two pegs at the same time.
+[00:06:45 - 00:07:22] The wearer changes their activity. They begin picking up the scraped pegs and inserting them into small square holes located on rectangular, patterned pieces lying flat on the table. They use both hands to align and push multiple pegs into the holes of a single rectangular piece.
+[00:07:22 - 00:07:56] The wearer stops the insertion process and temporarily returns to picking up individual pegs and scraping their tips with the metal tool.
+[00:07:56 - 00:09:23] The wearer initiates a new assembly step. They pick up an assembled rectangular piece (with pegs inserted) and hold it in the center of their workspace. They reach to the right to grab a piece of orange and yellow string from a pile. Using both hands, they wrap the string around the inserted pegs of the piece and tie a tight knot to secure the assembly. They repeatedly set the finished piece down, grab another assembled piece, grab a string, and tie a knot.
+[00:09:23 - 00:09:28] The wearer gathers a small stack of the tied, finished pieces from the table, reaches to their left, and places the stack into a large cardboard box on the floor.
+[00:09:28 - 00:10:25] The wearer picks up an unassembled rectangular piece. Holding it in their left hand, they use the metal tool in their right hand to scrape and clean the inside edges of the square holes on the piece. After scraping several holes, they place the piece down and pick up another to repeat the process.
+[00:10:25 - 00:10:58] The wearer goes back to the tying task. They pick up an assembled piece, reach for a string, wrap it around the pegs, and tie a knot, repeating this for several pieces.
+[00:10:58 - 00:11:15] The wearer gathers several stacks of the completed, tied pieces from the table, reaching down to their left to place them carefully into the cardboard box on the floor.
+[00:11:15 - 00:11:51] The wearer resumes the tying action, picking up assembled pieces, grabbing strings, and knotting them around the pegs.
+[00:11:51 - 00:12:02] The wearer picks up more tied pieces from the workspace and transfers them into the box on the floor.
+[00:12:02 - 00:12:09] The wearer leans down towards the box on the floor. Using both hands, they neatly organize and stack the finished pieces inside the box.
+[00:12:09 - 00:12:21] The wearer returns to an upright position at the table, picks up an assembled piece and a string, and ties them together.
+[00:12:21 - 00:12:56] The wearer switches back to cleaning the rectangular pieces. They pick up unassembled pieces one by one, using the metal tool to scrape the insides of the holes, and place them back on the table.
+[00:12:56 - 00:13:17] The wearer shifts back to the tying task, repeatedly wrapping strings around the pegs of assembled pieces and knotting them.
+[00:13:17 - 00:13:25] The wearer gathers a stack of finished pieces and places them into the box on the floor.
+[00:13:25 - 00:13:58] The wearer reaches to a stack of unassembled rectangular pieces on their left, picks them up individually, and uses the metal tool to scrape and clean the holes.
+[00:13:58 - 00:14:12] The wearer resumes picking up strings and tying them around assembled pieces.
+[00:14:12 - 00:14:20] The wearer collects a stack of tied pieces and transfers them into the box on the floor.
+[00:14:20 - 00:14:48] The wearer returns to picking up unassembled rectangular pieces and scraping their holes with the tool.
+[00:14:48 - 00:14:58] The wearer ties strings around a few more assembled pieces.
+[00:14:58 - 00:15:05] The wearer moves a stack of tied pieces into the box.
+[00:15:05 - 00:15:28] The wearer resumes scraping the holes of unassembled rectangular pieces.
+[00:15:28 - 00:15:42] The wearer ties strings around assembled pieces.
+[00:15:42 - 00:15:46] The wearer places a stack of tied pieces into the box.
+[00:15:46 - 00:16:16] The wearer picks up unassembled rectangular pieces and scrapes the holes with the metal tool.
+[00:16:16 - 00:16:30] The wearer switches to tying strings around assembled pieces.
+[00:16:30 - 00:16:34] The wearer moves a stack of tied pieces into the box.
+[00:16:34 - 00:17:07] The wearer picks up unassembled rectangular pieces and scrapes their holes.
+[00:17:07 - 00:17:10] The wearer ties a string around an assembled piece.
+[00:17:10 - 00:17:23] The wearer picks up an unassembled rectangular piece and scrapes its holes.
+[00:17:23 - 00:17:28] The wearer ties a string around an assembled piece.
+[00:17:28 - 00:17:41] The wearer picks up an unassembled rectangular piece and scrapes its holes.
+[00:17:41 - 00:17:55] The wearer ties strings around assembled pieces.
+[00:17:55 - 00:18:00] The wearer moves a stack of tied pieces into the box.
+[00:18:00 - 00:18:21] The wearer picks up unassembled rectangular pieces and scrapes their holes.
+[00:18:21 - 00:18:25] The wearer ties a string around an assembled piece.
+[00:18:25 - 00:18:36] The wearer picks up an unassembled rectangular piece and scrapes its holes.
+[00:18:36 - 00:18:49] The wearer ties strings around assembled pieces.
+[00:18:49 - 00:19:06] The wearer picks up an unassembled rectangular piece and scrapes its holes.
+[00:19:06 - 00:19:10] The wearer moves a stack of tied pieces into the box.
+[00:19:10 - 00:19:26] The wearer picks up an unassembled rectangular piece and scrapes its holes.
+[00:19:26 - 00:19:29] The wearer moves a stack of tied pieces into the box.
+[00:19:29 - 00:19:46] The wearer picks up an unassembled rectangular piece and scrapes its holes.
+[00:19:46 - 00:19:50] The wearer ties a string around an assembled piece.
+[00:19:50 - 00:20:00] The wearer picks up an unassembled rectangular piece and uses the metal tool to scrape the holes, continuing this action until the video concludes.

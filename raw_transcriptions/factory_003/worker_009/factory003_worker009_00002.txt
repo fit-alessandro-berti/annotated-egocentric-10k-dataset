@@ -1,0 +1,147 @@
+[00:00:00 - 00:00:08] The wearer stands in front of a plastic injection molding machine, holding a long cardboard box. They place the box down and wait as the machine opens.
+[00:00:08 - 00:00:15] The wearer reaches into the open machine with gloved hands, grabs the newly molded yellow plastic parts, and pulls them out as the mold begins to close.
+[00:00:15 - 00:00:25] The wearer turns around, walks to a workbench covered with similar yellow parts, and places the newly extracted parts down. They pick up one part and a metal tool, snapping off a section of the plastic.
+[00:00:25 - 00:00:33] The wearer turns back to the machine and stands waiting. The machine opens again.
+[00:00:33 - 00:00:38] The wearer reaches into the machine and extracts the next set of yellow plastic parts.
+[00:00:38 - 00:00:46] The wearer turns to the workbench, sets the parts down, and uses the metal tool to break small pieces off a yellow part.
+[00:00:46 - 00:00:51] The wearer turns to a control panel on the machine and presses several buttons. Another worker in a blue uniform walks past in the background.
+[00:00:51 - 00:01:25] The wearer returns to the workbench and begins continuously processing the yellow parts. They pick up a part, use the metal tool to snap the smaller components off the main runner, toss the small pieces onto the pile, and discard the central runner into a cardboard box. This process is repeated for multiple parts.
+[00:01:25 - 00:01:34] The wearer pauses processing, picks up a small piece of white paper from the workbench, walks over, and hands it to the worker in blue.
+[00:01:34 - 00:01:46] The wearer walks back to the workbench and resumes breaking down the yellow plastic parts with the metal tool.
+[00:01:46 - 00:01:54] The wearer turns back to the machine and waits. The machine opens, and they remove the molded parts.
+[00:01:54 - 00:02:04] The wearer moves to the workbench, drops the parts, and then walks back to the machine, waiting for the next cycle.
+[00:02:04 - 00:02:08] The machine opens, and the wearer extracts the yellow parts.
+[00:02:08 - 00:02:17] The wearer walks to the workbench, places the parts down, and then returns to the machine.
+[00:02:17 - 00:02:22] The wearer presses buttons on the machine's control panel.
+[00:02:22 - 00:02:59] The wearer turns to the workbench and focuses on processing the accumulated parts. They repeatedly pick up a part, use the metal tool to snap off the smaller branches, sort them onto the table, and discard the main runner.
+[00:02:59 - 00:03:03] The wearer turns to the machine as it opens and pulls out the molded parts.
+[00:03:03 - 00:03:14] The wearer places the parts on the workbench, briefly walks toward the worker in blue, and then returns to the machine area.
+[00:03:14 - 00:03:19] The wearer picks up a cardboard box, places it near the machine, and waits.
+[00:03:19 - 00:03:22] The machine opens, and the wearer removes the parts.
+[00:03:22 - 00:03:32] The wearer turns to the workbench, sets the parts down, and walks back to the machine.
+[00:03:32 - 00:03:37] The machine opens again, and the wearer removes the new parts.
+[00:03:37 - 00:03:45] The wearer places the parts on the workbench and then interacts with the control panel.
+[00:03:45 - 00:03:59] The wearer resumes processing the parts at the workbench using the metal tool.
+[00:03:59 - 00:04:02] The wearer turns to the machine, which opens, and extracts the parts.
+[00:04:02 - 00:04:12] The wearer places the parts on the workbench and then presses buttons on the control panel.
+[00:04:12 - 00:04:25] The wearer processes the yellow parts at the workbench, breaking them down with the tool.
+[00:04:25 - 00:04:29] The wearer turns to the machine, it opens, and they remove the parts.
+[00:04:29 - 00:04:38] The wearer places the parts on the workbench and interacts with the control panel.
+[00:04:38 - 00:04:42] The machine opens, and the wearer extracts the parts.
+[00:04:42 - 00:05:00] The wearer places the parts on the workbench and spends time breaking them down with the metal tool.
+[00:05:00 - 00:05:04] The wearer turns to the machine, it opens, and they remove the parts.
+[00:05:04 - 00:05:14] The wearer interacts with the control panel, then turns to the workbench to process parts.
+[00:05:14 - 00:05:18] The machine opens, and the wearer removes the parts.
+[00:05:18 - 00:05:25] The wearer places the parts on the workbench and processes them.
+[00:05:25 - 00:05:31] The machine opens again, and the wearer removes the parts.
+[00:05:31 - 00:05:45] The wearer turns away from the machine and walks over to an open electrical panel where the other worker is standing. The wearer points a flashlight into the panel to inspect it, then walks back to the machine area.
+[00:05:45 - 00:06:00] The wearer stands at the workbench and processes the yellow parts with the metal tool.
+[00:06:00 - 00:06:03] The machine opens, and the wearer extracts the parts.
+[00:06:03 - 00:06:15] The wearer places the parts on the workbench and processes them.
+[00:06:15 - 00:06:21] The machine opens, and the wearer removes the parts.
+[00:06:21 - 00:06:33] The wearer places the parts on the workbench and processes them.
+[00:06:33 - 00:06:37] The machine opens, and the wearer removes the parts.
+[00:06:37 - 00:06:50] The wearer places the parts on the workbench and processes them.
+[00:06:50 - 00:07:07] The wearer picks up a cardboard box filled with processed parts, carries it to another table nearby, and pours the contents onto a larger pile.
+[00:07:07 - 00:07:12] The wearer returns to the machine, which opens, and they remove the parts.
+[00:07:12 - 00:07:38] The wearer places the parts on the workbench and continuously processes a batch of parts, snapping them with the tool.
+[00:07:38 - 00:07:44] The wearer picks up the long cardboard box from the workbench and places it closer to the machine.
+[00:07:44 - 00:07:49] The machine opens, and the wearer removes the parts.
+[00:07:49 - 00:07:54] The wearer places the parts on the workbench.
+[00:07:54 - 00:08:00] The machine opens again, and the wearer removes the parts.
+[00:08:00 - 00:08:06] The wearer interacts with the control panel and then walks to the workbench.
+[00:08:06 - 00:08:12] The machine opens, and the wearer removes the parts.
+[00:08:12 - 00:08:34] The wearer interacts with the control panel, then turns to the workbench and processes the parts with the metal tool.
+[00:08:34 - 00:08:39] The machine opens, and the wearer removes the parts.
+[00:08:39 - 00:08:44] The wearer places the parts on the workbench.
+[00:08:44 - 00:08:48] The machine opens, and the wearer removes the parts.
+[00:08:48 - 00:08:55] The wearer places the parts on the workbench and processes them.
+[00:08:55 - 00:09:12] The wearer picks up a clear plastic water bottle from a nearby surface, opens it, and drinks water while standing near the other worker.
+[00:09:12 - 00:09:22] The wearer sets the bottle down, walks back to the machine, and presses buttons on the control panel.
+[00:09:22 - 00:09:27] The machine opens, and the wearer removes the parts.
+[00:09:27 - 00:09:32] The wearer places the parts on the workbench.
+[00:09:32 - 00:09:37] The machine opens again, and the wearer removes the parts.
+[00:09:37 - 00:09:44] The wearer places the parts on the workbench and interacts with the control panel.
+[00:09:44 - 00:09:48] The machine opens, and the wearer uses a yellow cloth to wipe the inside of the mold.
+[00:09:48 - 00:10:07] The wearer presses buttons on the control panel, then moves to the workbench and processes the yellow parts.
+[00:10:07 - 00:10:16] The wearer stops processing, walks over to pick up a small white object, and hands it to the worker in blue.
+[00:10:16 - 00:10:30] The wearer returns to the workbench and continues breaking down the plastic parts.
+[00:10:30 - 00:10:46] The wearer picks up the cardboard box, shifts it around, and then walks back to the machine.
+[00:10:46 - 00:10:51] The machine opens, and the wearer removes the parts.
+[00:10:51 - 00:10:56] The wearer places the parts on the workbench.
+[00:10:56 - 00:11:00] The machine opens again, and the wearer removes the parts.
+[00:11:00 - 00:11:09] The wearer places the parts on the workbench and processes them.
+[00:11:09 - 00:11:14] The machine opens, and the wearer removes the parts.
+[00:11:14 - 00:11:23] The wearer presses buttons on the control panel, walks to the workbench, and processes parts.
+[00:11:23 - 00:11:28] The machine opens, and the wearer removes the parts.
+[00:11:28 - 00:11:35] The wearer places the parts on the workbench and processes them.
+[00:11:35 - 00:11:39] The machine opens, and the wearer removes the parts.
+[00:11:39 - 00:11:51] The wearer places the parts on the workbench and processes them.
+[00:11:51 - 00:11:55] The machine opens, and the wearer removes the parts.
+[00:11:55 - 00:12:04] The wearer places the parts on the workbench and processes them.
+[00:12:04 - 00:12:15] The wearer interacts with the control panel, then walks to the workbench and adjusts a cardboard box.
+[00:12:15 - 00:12:20] The machine opens, and the wearer removes the parts.
+[00:12:20 - 00:12:28] The wearer places the parts on the workbench and processes them.
+[00:12:28 - 00:12:32] The machine opens, and the wearer removes the parts.
+[00:12:32 - 00:12:37] The wearer interacts with the control panel.
+[00:12:37 - 00:12:43] The machine opens, and the wearer removes the parts.
+[00:12:43 - 00:13:00] The wearer presses buttons on the control panel, then moves to the workbench and continuously processes the parts with the metal tool.
+[00:13:00 - 00:13:05] The machine opens, and the wearer removes the parts.
+[00:13:05 - 00:13:16] The wearer places the parts on the workbench and processes them.
+[00:13:16 - 00:13:20] The machine opens, and the wearer removes the parts.
+[00:13:20 - 00:13:38] The wearer places the parts on the workbench and processes them.
+[00:13:38 - 00:13:42] The wearer shifts the cardboard box on the workbench.
+[00:13:42 - 00:13:47] The machine opens, and the wearer removes the parts.
+[00:13:47 - 00:13:50] The wearer places the parts on the workbench.
+[00:13:50 - 00:13:54] The machine opens, and the wearer removes the parts.
+[00:13:54 - 00:14:04] The wearer places the parts on the workbench and processes them.
+[00:14:04 - 00:14:08] The machine opens, and the wearer removes the parts.
+[00:14:08 - 00:14:17] The wearer interacts with the control panel, then moves to the workbench to process parts.
+[00:14:17 - 00:14:23] The wearer presses buttons on the control panel, picks up the water bottle, and takes a drink.
+[00:14:23 - 00:14:28] The machine opens, and the wearer removes the parts.
+[00:14:28 - 00:14:38] The wearer places the parts on the workbench and processes them.
+[00:14:38 - 00:14:42] The machine opens, and the wearer removes the parts.
+[00:14:42 - 00:14:55] The wearer places the parts on the workbench and processes them.
+[00:14:55 - 00:15:11] The worker in blue hands the water bottle to the wearer. The wearer drinks, sets the bottle down, and resumes processing parts at the workbench.
+[00:15:11 - 00:15:15] The machine opens, and the wearer removes the parts.
+[00:15:15 - 00:15:21] The wearer places the parts on the workbench and presses buttons on the control panel.
+[00:15:21 - 00:15:26] The machine opens, and the wearer removes the parts.
+[00:15:26 - 00:15:37] The wearer places the parts on the workbench and processes them.
+[00:15:37 - 00:15:42] The machine opens, and the wearer removes the parts.
+[00:15:42 - 00:15:59] The wearer interacts with the control panel, then turns to the workbench and processes the parts.
+[00:15:59 - 00:16:03] The machine opens, and the wearer removes the parts.
+[00:16:03 - 00:16:09] The wearer places the parts on the workbench and interacts with the control panel.
+[00:16:09 - 00:16:13] The machine opens, and the wearer removes the parts.
+[00:16:13 - 00:16:26] The wearer places the parts on the workbench and processes them.
+[00:16:26 - 00:16:30] The machine opens, and the wearer removes the parts.
+[00:16:30 - 00:16:44] The wearer places the parts on the workbench and processes them.
+[00:16:44 - 00:16:49] The wearer walks over to the worker in blue and interacts with them briefly.
+[00:16:49 - 00:16:54] The machine opens, and the wearer removes the parts.
+[00:16:54 - 00:17:01] The wearer places the parts on the workbench and processes them.
+[00:17:01 - 00:17:05] The machine opens, and the wearer removes the parts.
+[00:17:05 - 00:17:15] The wearer places the parts on the workbench and processes them.
+[00:17:15 - 00:17:28] The wearer walks to the control panel, presses buttons, and then processes parts at the workbench.
+[00:17:28 - 00:17:32] The machine opens, and the wearer removes the parts.
+[00:17:32 - 00:17:42] The wearer interacts with the control panel, then turns to the workbench and processes parts.
+[00:17:42 - 00:17:46] The machine opens, and the wearer removes the parts.
+[00:17:46 - 00:17:55] The wearer places the parts on the workbench and processes them.
+[00:17:55 - 00:18:00] The wearer presses buttons on the control panel.
+[00:18:00 - 00:18:05] The machine opens, and the wearer removes the parts.
+[00:18:05 - 00:18:10] The wearer places the parts on the workbench.
+[00:18:10 - 00:18:14] The machine opens, and the wearer removes the parts.
+[00:18:14 - 00:18:24] The wearer places the parts on the workbench and processes them.
+[00:18:24 - 00:18:28] The machine opens, and the wearer removes the parts.
+[00:18:28 - 00:18:34] The wearer places the parts on the workbench.
+[00:18:34 - 00:18:41] The wearer walks over to a different control panel and touches the screen to adjust settings.
+[00:18:41 - 00:18:51] The wearer returns to the workbench and processes the parts with the metal tool.
+[00:18:51 - 00:18:55] The machine opens, and the wearer removes the parts.
+[00:18:55 - 00:19:02] The wearer places the parts on the workbench and processes them.
+[00:19:02 - 00:19:07] The machine opens, and the wearer removes the parts.
+[00:19:07 - 00:19:16] The wearer places the parts on the workbench and processes them.
+[00:19:16 - 00:19:21] The machine opens, and the wearer removes the parts.
+[00:19:21 - 00:19:28] The wearer places the parts on the workbench.
+[00:19:28 - 00:19:32] The wearer presses buttons on the control panel.
+[00:19:32 - 00:19:38] The machine opens, and the wearer removes the parts.
+[00:19:38 - 00:19:50] The wearer places the parts on the workbench and processes them.
+[00:19:50 - 00:19:55] The machine opens, and the wearer removes the parts.
+[00:19:55 - 00:20:00] The wearer places the parts on the workbench.

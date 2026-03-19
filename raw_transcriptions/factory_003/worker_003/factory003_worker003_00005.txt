@@ -1,0 +1,94 @@
+[00:00:00 - 00:00:46] The person holds a complex yellow object in their left hand. They use a small tool and the fingers of their right hand to apply and smooth a white paste over the object's surfaces and crevices, frequently rotating the object to cover all areas. Their hands become increasingly covered in the white substance.
+[00:00:46 - 00:00:49] The person turns to their left and places the finished yellow object onto a metal rack that holds several similar completed objects.
+[00:00:49 - 00:01:06] Turning back to the metal worktable, the person picks up a new yellow object and repeats the process, using the tool and their fingers to meticulously apply the white paste.
+[00:01:06 - 00:01:09] They turn to their left and carefully position the completed object on the metal rack alongside the others.
+[00:01:09 - 00:01:28] The person picks up another yellow object from the table and works on it, rubbing the white paste into the seams and smoothing the edges.
+[00:01:28 - 00:01:31] They rotate to the left and place the finished object onto the rack.
+[00:01:31 - 00:02:10] Picking up a fresh yellow object, the person continues the task, rotating the piece in their left hand while applying the paste with their right.
+[00:02:10 - 00:02:13] The person turns to their left and adds the finished object to the rack.
+[00:02:13 - 00:02:56] A new yellow object is selected from the table. The person applies the white paste, ensuring it gets into the specific indentations of the object.
+[00:02:56 - 00:02:59] They turn left and set the completed object on the rack.
+[00:02:59 - 00:03:32] The person picks up the next yellow object and repeats the application and smoothing of the white paste.
+[00:03:32 - 00:03:35] They move the finished object to the rack on their left.
+[00:03:35 - 00:04:03] Another yellow object is picked up from the table and worked on with the white paste.
+[00:04:03 - 00:04:05] The person places this object onto the rack.
+[00:04:05 - 00:04:23] A new yellow object is handled, with the person applying and spreading the paste across its surface.
+[00:04:23 - 00:04:25] The finished piece is transferred to the rack.
+[00:04:25 - 00:04:49] The person picks up another yellow object and meticulously applies the white paste.
+[00:04:49 - 00:04:52] They place the object on the rack to their left.
+[00:04:52 - 00:05:07] Another yellow object is selected and the paste is smoothed over it.
+[00:05:07 - 00:05:09] The object is placed on the metal rack.
+[00:05:09 - 00:05:18] The person quickly works on another yellow object, applying the paste.
+[00:05:18 - 00:05:20] They transfer the finished object to the rack.
+[00:05:20 - 00:05:33] A new yellow object is picked up and coated with the white paste.
+[00:05:33 - 00:05:35] The object is set on the rack.
+[00:05:35 - 00:05:57] The person picks up another yellow object, smoothing the paste over its irregular shape.
+[00:05:57 - 00:05:59] They turn and place the object on the rack.
+[00:05:59 - 00:06:09] Another yellow object is grabbed from the table and worked on.
+[00:06:09 - 00:06:11] The finished piece is placed on the rack.
+[00:06:11 - 00:06:31] The person picks up the next yellow object and applies the white paste.
+[00:06:31 - 00:06:35] They move to place the object on the rack and briefly adjust it.
+[00:06:35 - 00:06:55] A new yellow object is picked up, and the person resumes applying and smoothing the paste.
+[00:06:55 - 00:06:58] The object is placed on the rack.
+[00:06:58 - 00:07:43] The person selects another yellow object and spends a longer duration meticulously applying the paste to its various surfaces.
+[00:07:43 - 00:07:46] They turn to the left and place the object on the rack.
+[00:07:46 - 00:07:55] A new yellow object is picked up and quickly worked on.
+[00:07:55 - 00:07:58] The object is placed on the rack.
+[00:07:58 - 00:08:40] The person picks up another object and carefully applies the white paste, rotating it to reach all sides.
+[00:08:40 - 00:08:43] The finished object is transferred to the rack.
+[00:08:43 - 00:09:54] They pick up a new yellow object and spend over a minute thoroughly working the white paste into it.
+[00:09:54 - 00:09:58] The person places the finished object onto the rack.
+[00:09:58 - 00:10:11] Another yellow object is picked up and the paste is applied.
+[00:10:11 - 00:10:15] They place the object on the rack.
+[00:10:15 - 00:10:28] A new yellow object is selected and worked on.
+[00:10:28 - 00:10:31] The object is placed on the rack.
+[00:10:31 - 00:10:34] The person quickly picks up another yellow object from the table.
+[00:10:34 - 00:10:37] They turn to their left and rapidly place it on the rack.
+[00:10:37 - 00:11:20] A new yellow object is picked up, and the person resumes the detailed application of the white paste.
+[00:11:20 - 00:11:23] The object is placed on the rack.
+[00:11:23 - 00:11:56] The person picks up another object and works the paste over its edges and surfaces.
+[00:11:56 - 00:11:59] They transfer the object to the rack.
+[00:11:59 - 00:12:11] Another yellow object is picked up and worked on.
+[00:12:11 - 00:12:14] The object is placed on the rack.
+[00:12:14 - 00:12:26] A new yellow object is selected and the paste is applied.
+[00:12:26 - 00:12:28] The object is placed on the rack.
+[00:12:28 - 00:12:50] The person picks up another object and continues the smoothing process.
+[00:12:50 - 00:12:53] They move the finished object to the rack.
+[00:12:53 - 00:13:18] Another yellow object is picked up and worked on.
+[00:13:18 - 00:13:20] The object is placed on the rack.
+[00:13:20 - 00:13:34] A new yellow object is selected and the paste is applied.
+[00:13:34 - 00:13:36] The object is placed on the rack.
+[00:13:36 - 00:13:52] The person picks up another object and works on it.
+[00:13:52 - 00:13:54] They transfer the object to the rack.
+[00:13:54 - 00:14:50] A new yellow object is picked up, and the person spends close to a minute meticulously applying and smoothing the white paste.
+[00:14:50 - 00:14:53] The finished object is placed on the rack.
+[00:14:53 - 00:15:00] They quickly pick up and work on another yellow object.
+[00:15:00 - 00:15:02] The object is placed on the rack.
+[00:15:02 - 00:15:31] Another yellow object is selected and the paste is applied.
+[00:15:31 - 00:15:35] They move the finished object to the rack.
+[00:15:35 - 00:15:56] A new yellow object is picked up and worked on.
+[00:15:56 - 00:15:58] The object is placed on the rack.
+[00:15:58 - 00:16:12] The person picks up another object and continues the smoothing process.
+[00:16:12 - 00:16:15] They transfer the object to the rack.
+[00:16:15 - 00:16:45] Another yellow object is picked up and worked on.
+[00:16:45 - 00:16:48] The object is placed on the rack.
+[00:16:48 - 00:17:01] A new yellow object is selected and the paste is applied.
+[00:17:01 - 00:17:04] The object is placed on the rack.
+[00:17:04 - 00:17:42] The person picks up another object and carefully works the white paste into it.
+[00:17:42 - 00:17:46] The finished object is transferred to the rack.
+[00:17:46 - 00:17:54] They quickly pick up and work on another yellow object.
+[00:17:54 - 00:17:57] The object is placed on the rack.
+[00:17:57 - 00:18:08] A new yellow object is selected and the paste is applied.
+[00:18:08 - 00:18:12] The object is placed on the rack.
+[00:18:12 - 00:18:25] The person picks up another object and works on it.
+[00:18:25 - 00:18:28] They move the finished object to the rack.
+[00:18:28 - 00:18:50] Another yellow object is picked up and the paste is applied.
+[00:18:50 - 00:18:52] The object is placed on the rack.
+[00:18:52 - 00:19:03] A new yellow object is selected and worked on.
+[00:19:03 - 00:19:07] The object is placed on the rack.
+[00:19:07 - 00:19:14] They pick up another object and quickly apply the paste.
+[00:19:14 - 00:19:16] The object is placed on the rack.
+[00:19:16 - 00:19:33] Another yellow object is picked up and worked on.
+[00:19:33 - 00:19:35] They transfer the object to the rack.
+[00:19:35 - 00:19:54] A new yellow object is picked up, and the person applies and smooths the white paste over it.
+[00:19:54 - 00:20:00] The finished object is placed onto the rack, completing the final cycle shown in the video.

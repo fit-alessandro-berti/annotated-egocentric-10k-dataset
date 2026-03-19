@@ -1,0 +1,68 @@
+[00:00:00 - 00:01:11] The person is standing at a corrugated metal surface, wearing a white glove on their left hand. They hold a hammer in their right hand and continuously strike metal sprues moving down the surface to break off smaller parts. They use their gloved hand to sweep the detached parts and sprues along the incline.
+[00:01:11 - 00:01:15] The person stops hammering, turns to their right, and walks a few steps along a metal grating walkway, passing large metal bins filled with parts.
+[00:01:15 - 00:02:11] The person returns to the corrugated metal surface and resumes the continuous task of hammering metal sprues to detach parts and sweeping them away with their gloved hand.
+[00:02:11 - 00:02:16] The person pauses hammering and walks a few steps along the metal grating walkway, looking down at the bins.
+[00:02:16 - 00:02:49] The person returns to the corrugated surface. Instead of hammering, they use their gloved hand to push and sweep a large quantity of loose parts and sprues down the surface.
+[00:02:49 - 00:03:00] The person turns away from the metal surface and walks across a concrete floor in the factory.
+[00:03:00 - 00:03:26] The person continues walking, passing an area with tools and debris. They walk past another worker in red and blue clothing and pick up a rectangular piece of sheet metal with white writing on it from the floor.
+[00:03:26 - 00:03:36] Holding the metal sheet in their left hand, the person walks further across the factory floor, passing a metal cart.
+[00:03:36 - 00:04:00] The person approaches a row of large metal bins filled with parts. Another worker is nearby. The person places the metal sheet on top of the parts in one of the bins.
+[00:04:00 - 00:04:16] The person turns away from the bins and walks back across the concrete floor towards the corrugated metal surface area.
+[00:04:16 - 00:05:08] The person is back at the corrugated metal surface, holding the hammer, and resumes breaking parts off the metal sprues and sweeping them away.
+[00:05:08 - 00:05:12] The person briefly stops, lowers the hammer, and looks down at the metal grating walkway and bins.
+[00:05:12 - 00:05:28] The person resumes hammering the parts on the corrugated surface.
+[00:05:28 - 00:05:31] The person pauses again, looking down towards the grating and bins.
+[00:05:31 - 00:07:04] The person continues the repetitive task of hammering parts off the sprues and sweeping them down the corrugated surface.
+[00:07:04 - 00:07:07] The person pauses, looking down at the metal grating.
+[00:07:07 - 00:07:20] The person resumes hammering parts.
+[00:07:20 - 00:07:23] The person pauses, looking down.
+[00:07:23 - 00:07:36] The person resumes hammering parts.
+[00:07:36 - 00:07:46] The person stops hammering, turns, and walks along the metal grating walkway, passing by several large bins of parts and other workers in blue and red clothing.
+[00:07:46 - 00:08:07] The person stops at a different section of the corrugated surface and uses the hammer and their gloved hand to sweep and push parts down the incline.
+[00:08:07 - 00:08:12] The person turns and walks a short distance along the metal grating.
+[00:08:12 - 00:08:58] The person returns to hammering parts off sprues on the corrugated surface.
+[00:08:58 - 00:09:00] A brief pause, looking down.
+[00:09:00 - 00:09:35] The person resumes the hammering and sweeping action.
+[00:09:35 - 00:09:39] The person pauses and looks down at the grating and bins.
+[00:09:39 - 00:10:06] The person continues hammering parts.
+[00:10:06 - 00:10:10] The person pauses and looks down at the grating.
+[00:10:10 - 00:10:53] The person continues hammering parts.
+[00:10:53 - 00:10:57] The person pauses and looks down.
+[00:10:57 - 00:11:10] The person continues hammering parts.
+[00:11:10 - 00:11:14] The person pauses and looks down at the bins.
+[00:11:14 - 00:11:29] The person continues hammering parts.
+[00:11:29 - 00:11:32] The person pauses and looks down.
+[00:11:32 - 00:11:45] The person continues hammering parts.
+[00:11:45 - 00:11:48] The person pauses and looks down.
+[00:11:48 - 00:11:58] The person continues hammering parts.
+[00:11:58 - 00:12:01] The person pauses and looks down.
+[00:12:01 - 00:12:51] The person continues the long sequence of hammering parts off sprues and sweeping them away.
+[00:12:51 - 00:12:54] The person pauses and looks down at the grating.
+[00:12:54 - 00:13:09] The person resumes hammering parts.
+[00:13:09 - 00:13:12] The person pauses and looks down.
+[00:13:12 - 00:13:41] The person resumes hammering parts.
+[00:13:41 - 00:13:45] The person pauses and looks down.
+[00:13:45 - 00:13:58] The person resumes hammering parts.
+[00:13:58 - 00:14:00] The person pauses and looks down.
+[00:14:00 - 00:14:13] The person resumes hammering parts.
+[00:14:13 - 00:14:18] The person pauses and looks down at the grating and bins, with another worker visible nearby.
+[00:14:18 - 00:14:48] The person continues hammering parts on the corrugated surface.
+[00:14:48 - 00:14:51] The person uses both hands to push a large cluster of sprues and parts down the corrugated surface.
+[00:14:51 - 00:15:06] The person continues to sweep and push parts along the metal surface as it appears to move slightly.
+[00:15:06 - 00:15:10] The person stops, turns away from the surface, and looks down at a bin.
+[00:15:10 - 00:15:24] The person walks away from the corrugated surface area and across the concrete factory floor.
+[00:15:24 - 00:15:35] The person walks towards a group of metal wheelbarrows and carts containing metal parts.
+[00:15:35 - 00:15:43] The person approaches a specific wheelbarrow, and with the help of a worker in blue gloves, grabs the handles of the wheelbarrow.
+[00:15:43 - 00:16:11] The person pulls the wheelbarrow backwards across the factory floor, navigating past other carts.
+[00:16:11 - 00:16:25] The person stops the wheelbarrow near some metal bins, picks up the metal sheet sign from one of the bins, and places it into the wheelbarrow they are holding.
+[00:16:25 - 00:16:35] The person continues to pull the wheelbarrow backwards a short distance.
+[00:16:35 - 00:16:47] The person stops, picks up the metal sheet from the wheelbarrow, walks a few steps, and places it on the ground near a pile of metal sprues.
+[00:16:47 - 00:17:00] The person returns to the wheelbarrow, grabs the handles, and continues to move it.
+[00:17:00 - 00:17:15] The person lets go of the wheelbarrow and walks away across the factory floor.
+[00:17:15 - 00:18:10] The person walks continuously through the factory, passing various equipment, bins, and piles of metal parts.
+[00:18:10 - 00:18:20] The person approaches a flat metal conveyor belt with a blue side panel.
+[00:18:20 - 00:18:49] The person stands at the flat conveyor belt, using their hands to push and sort small metal parts moving along it. A worker in a blue shirt is visible on the opposite side of the belt.
+[00:18:49 - 00:19:08] The person turns away from the flat conveyor belt and walks across the factory floor.
+[00:19:08 - 00:19:33] The person arrives at an area containing large racks filled with dark, rectangular molded blocks. They walk slowly past the racks, inspecting the blocks.
+[00:19:33 - 00:19:42] The person walks away from the molds, passing large cylindrical objects and scattered metal parts on the floor.
+[00:19:42 - 00:20:00] The person continues walking through the factory, passing shelving units and returning towards the original working area.

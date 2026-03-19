@@ -1,0 +1,118 @@
+[00:00:00 - 00:00:26] The wearer holds a dark metal part in their left hand over a dusty workbench and uses a flat metal tool in their right hand to scrape and clean its surface.
+[00:00:26 - 00:00:28] The wearer places the metal part down on the workbench.
+[00:00:28 - 00:00:39] The wearer picks up a brush from a small bowl of white paste with their right hand, picks up a new metal part from the left side of the desk with their left hand, and begins applying the paste to it.
+[00:00:39 - 00:00:57] The wearer holds the part over the bowl, turning it around in their hand to brush the white paste onto different sections.
+[00:00:57 - 00:01:23] The wearer puts the brush back in the bowl, picks up the flat tool, and resumes scraping the metal part, rotating it to reach various angles.
+[00:01:23 - 00:01:31] The wearer puts down the flat tool, picks up the brush, and applies more paste to the part.
+[00:01:31 - 00:01:38] The wearer swaps the brush for the flat tool and scrapes the part again.
+[00:01:38 - 00:01:54] The wearer puts the flat tool down, picks up the brush, and applies more paste, turning the part to cover various spots.
+[00:01:54 - 00:02:08] The wearer puts the brush down, picks up the flat tool, and scrapes the part.
+[00:02:08 - 00:02:22] The wearer switches back to the brush and applies more paste.
+[00:02:22 - 00:02:28] The wearer swaps the brush for the flat tool and scrapes the part.
+[00:02:28 - 00:02:36] The wearer puts down the flat tool, picks up the brush, and brushes on more paste.
+[00:02:36 - 00:02:48] The wearer puts down the brush, picks up the flat tool, and scrapes the part.
+[00:02:48 - 00:02:51] The wearer places the finished part onto the right side of the desk.
+[00:02:51 - 00:02:58] The wearer reaches to the left side and picks up a new metal part.
+[00:02:58 - 00:03:08] The wearer picks up the brush and starts applying the white paste to the new part.
+[00:03:08 - 00:03:22] The wearer puts down the brush, picks up the flat tool, and scrapes the part.
+[00:03:22 - 00:03:32] The wearer puts down the flat tool, picks up the brush, and applies more paste to the part.
+[00:03:32 - 00:03:47] The wearer switches back to the flat tool and scrapes the part, turning it around to reach different sections.
+[00:03:47 - 00:03:55] The wearer switches to the brush again, applying paste to specific spots on the part.
+[00:03:55 - 00:04:13] The wearer puts down the brush, picks up the flat tool, and resumes scraping the part.
+[00:04:13 - 00:04:22] The wearer switches back to the brush, applying more paste.
+[00:04:22 - 00:04:30] The wearer puts down the brush, picks up the flat tool, and scrapes the part.
+[00:04:30 - 00:04:37] The wearer picks up the brush again and applies more paste.
+[00:04:37 - 00:04:47] The wearer uses the flat tool to scrape the part once more.
+[00:04:47 - 00:04:54] The wearer brushes paste onto the part.
+[00:04:54 - 00:05:07] The wearer uses the flat tool to scrape the part again.
+[00:05:07 - 00:05:14] The wearer switches to the brush and applies paste.
+[00:05:14 - 00:05:22] The wearer uses the flat tool to scrape the part.
+[00:05:22 - 00:05:30] The wearer places the finished part on the right side of the desk.
+[00:05:30 - 00:05:34] The wearer picks up a new metal part from the left side.
+[00:05:34 - 00:05:46] The wearer picks up the brush and applies paste to the new part.
+[00:05:46 - 00:06:05] The wearer puts down the brush, picks up the flat tool, and scrapes the part.
+[00:06:05 - 00:06:13] The wearer picks up the brush and applies more paste.
+[00:06:13 - 00:06:27] The wearer uses the flat tool to scrape the part.
+[00:06:27 - 00:06:33] The wearer brushes paste onto the part again.
+[00:06:33 - 00:06:48] The wearer uses the flat tool to scrape the part.
+[00:06:48 - 00:06:56] The wearer brushes paste onto the part.
+[00:06:56 - 00:07:08] The wearer uses the flat tool to scrape the part.
+[00:07:08 - 00:07:15] The wearer brushes paste onto the part.
+[00:07:15 - 00:07:22] The wearer uses the flat tool to scrape the part.
+[00:07:22 - 00:07:29] The wearer brushes paste onto the part.
+[00:07:29 - 00:07:44] The wearer uses the flat tool to scrape the part.
+[00:07:44 - 00:07:54] The wearer places the finished part on the right side.
+[00:07:54 - 00:08:00] The wearer picks up a new part from the left side.
+[00:08:00 - 00:08:14] The wearer picks up the brush and applies paste to the new part.
+[00:08:14 - 00:08:29] The wearer puts down the brush, picks up the flat tool, and scrapes the part.
+[00:08:29 - 00:08:35] The wearer switches to the brush and applies paste.
+[00:08:35 - 00:08:52] The wearer switches to the flat tool and scrapes the part.
+[00:08:52 - 00:08:59] The wearer picks up the brush and applies more paste.
+[00:08:59 - 00:09:12] The camera view shifts wildly, momentarily moving the wearer's hands out of view and revealing another person sitting to the left.
+[00:09:12 - 00:09:17] A black air gun nozzle appears from the right side and blows air over the finished parts rack and the workbench.
+[00:09:17 - 00:09:27] The wearer resumes holding the metal part in their left hand and scraping it with the flat tool.
+[00:09:27 - 00:09:34] The wearer puts down the flat tool, picks up the brush, and applies paste to the part.
+[00:09:34 - 00:09:48] The wearer switches back to the flat tool and scrapes the part.
+[00:09:48 - 00:09:55] The wearer brushes paste onto the part again.
+[00:09:55 - 00:10:09] The wearer switches to the flat tool and scrapes the part.
+[00:10:09 - 00:10:15] The wearer brushes paste onto the part.
+[00:10:15 - 00:10:29] The wearer switches to the flat tool and scrapes the part.
+[00:10:29 - 00:10:35] The wearer brushes paste onto the part.
+[00:10:35 - 00:10:52] The wearer switches to the flat tool and scrapes the part.
+[00:10:52 - 00:10:59] The wearer brushes paste onto the part.
+[00:10:59 - 00:11:06] The wearer switches to the flat tool and scrapes the part.
+[00:11:06 - 00:11:15] The wearer brushes paste onto the part.
+[00:11:15 - 00:11:27] The wearer switches to the flat tool and scrapes the part.
+[00:11:27 - 00:11:32] The wearer places the finished part on the right side.
+[00:11:32 - 00:11:38] The wearer picks up a new metal part from the left side.
+[00:11:38 - 00:11:49] The wearer picks up the brush and applies paste to the new part.
+[00:11:49 - 00:12:04] The wearer puts down the brush, picks up the flat tool, and scrapes the part.
+[00:12:04 - 00:12:12] The wearer brushes paste onto the part.
+[00:12:12 - 00:12:28] The wearer switches to the flat tool and scrapes the part.
+[00:12:28 - 00:12:35] The wearer brushes paste onto the part.
+[00:12:35 - 00:12:49] The wearer switches to the flat tool and scrapes the part.
+[00:12:49 - 00:12:56] The wearer brushes paste onto the part.
+[00:12:56 - 00:13:06] The wearer switches to the flat tool and scrapes the part.
+[00:13:06 - 00:13:16] The wearer brushes paste onto the part.
+[00:13:16 - 00:13:28] The wearer switches to the flat tool and scrapes the part.
+[00:13:28 - 00:13:38] The wearer brushes paste onto the part.
+[00:13:38 - 00:13:51] The wearer switches to the flat tool and scrapes the part.
+[00:13:51 - 00:13:56] The wearer places the finished part down on the right.
+[00:13:56 - 00:14:02] The wearer picks up a new metal part from the left.
+[00:14:02 - 00:14:13] The wearer picks up the brush and applies paste to the new part.
+[00:14:13 - 00:14:31] The wearer puts down the brush, picks up the flat tool, and scrapes the part.
+[00:14:31 - 00:14:38] The wearer brushes paste onto the part.
+[00:14:38 - 00:14:55] The wearer switches to the flat tool and scrapes the part.
+[00:14:55 - 00:15:01] The wearer brushes paste onto the part.
+[00:15:01 - 00:15:15] The wearer switches to the flat tool and scrapes the part.
+[00:15:15 - 00:15:24] The wearer brushes paste onto the part.
+[00:15:24 - 00:15:38] The wearer switches to the flat tool and scrapes the part.
+[00:15:38 - 00:15:45] The wearer brushes paste onto the part.
+[00:15:45 - 00:15:56] The wearer switches to the flat tool and scrapes the part.
+[00:15:56 - 00:16:05] The wearer brushes paste onto the part.
+[00:16:05 - 00:16:16] The wearer switches to the flat tool and scrapes the part.
+[00:16:16 - 00:16:20] The wearer places the finished part on the right.
+[00:16:20 - 00:16:26] The wearer picks up a new metal part from the left.
+[00:16:26 - 00:16:36] The wearer picks up the brush and applies paste to the new part.
+[00:16:36 - 00:16:50] The wearer puts down the brush, picks up the flat tool, and scrapes the part.
+[00:16:50 - 00:17:00] A black air gun nozzle appears from the right and blows air onto the finished parts rack. The wearer pauses their work.
+[00:17:00 - 00:17:06] The air gun is removed. The wearer picks up the brush and resumes applying paste to the part.
+[00:17:06 - 00:17:21] The wearer puts down the brush, picks up the flat tool, and scrapes the part.
+[00:17:21 - 00:17:28] The wearer brushes paste onto the part.
+[00:17:28 - 00:17:42] The wearer switches to the flat tool and scrapes the part.
+[00:17:42 - 00:17:49] The wearer brushes paste onto the part.
+[00:17:49 - 00:18:03] The wearer switches to the flat tool and scrapes the part.
+[00:18:03 - 00:18:10] The wearer brushes paste onto the part.
+[00:18:10 - 00:18:23] The wearer switches to the flat tool and scrapes the part.
+[00:18:23 - 00:18:31] The wearer brushes paste onto the part.
+[00:18:31 - 00:18:41] The wearer switches to the flat tool and scrapes the part.
+[00:18:41 - 00:18:47] The wearer brushes paste onto the part.
+[00:18:47 - 00:18:53] The wearer switches to the flat tool and scrapes the part.
+[00:18:53 - 00:18:58] The wearer brushes paste onto the part.
+[00:18:58 - 00:19:10] The wearer puts down the brush, picks up a small rectangular scraping pad, wipes the part with it, and places the pad down.
+[00:19:10 - 00:19:15] The wearer picks up the brush and applies paste to the part.
+[00:19:15 - 00:19:26] The wearer switches to the flat tool and scrapes the part.
+[00:19:26 - 00:19:30] The wearer places the finished part on the right side.
+[00:19:30 - 00:19:36] The wearer picks up a new metal part from the left.
+[00:19:36 - 00:19:47] The wearer picks up the brush and applies paste to the new part.
+[00:19:47 - 00:20:02] The wearer puts down the brush, picks up the flat tool, and scrapes the part until the video ends.
