@@ -1,0 +1,127 @@
+[00:00:00 - 00:00:08] The person guides grey fabric with a dark blue edge through the sewing machine, sewing a seam.
+[00:00:08 - 00:00:15] The person pulls the fabric out from under the needle, breaking the thread, then reaches for a new section of fabric to align it under the needle.
+[00:00:15 - 00:00:36] The person continues sewing along the blue edge of the new fabric section, adjusting it as it feeds into the machine.
+[00:00:36 - 00:00:46] They pull the fabric out from the machine, inspect the seam, and drop it onto the pile on the left before picking up a new piece of fabric.
+[00:00:46 - 00:01:08] They align the new fabric piece under the needle and sew along its edge, holding the material taut with both hands.
+[00:01:08 - 00:01:21] The person finishes the seam, pulls the fabric out, and reaches to their right to pick up a pair of scissors.
+[00:01:21 - 00:01:24] They use the scissors to snip the thread or trim the edge of the fabric piece they just sewed, then put the scissors down.
+[00:01:24 - 00:01:40] They align the fabric back under the needle and sew another section.
+[00:01:40 - 00:01:48] They pull the fabric out, drop it to the left, and then reach down to pick up a smartphone, briefly looking at the screen.
+[00:01:48 - 00:01:54] After putting the phone down, they pick up the scissors again and use them to trim the fabric piece.
+[00:01:54 - 00:02:02] The person adjusts the fabric under the needle and resumes sewing.
+[00:02:02 - 00:02:22] They stop sewing, pull the fabric out to inspect the seam, place it aside, and then pick up and fold a new piece of fabric to prepare it for sewing.
+[00:02:22 - 00:02:45] They feed the new fabric piece into the machine and sew along the blue edge.
+[00:02:45 - 00:02:51] They pull the fabric out from the machine and inspect the newly sewn seam.
+[00:02:51 - 00:03:02] They place the fabric back under the needle and continue sewing.
+[00:03:02 - 00:03:12] The person pulls the fabric out again to check the seam, folding the material slightly.
+[00:03:12 - 00:03:25] They briefly glance down at their phone, then align the fabric under the needle and start sewing another section.
+[00:03:25 - 00:03:28] They pick up the scissors and trim the thread or edge of the fabric.
+[00:03:28 - 00:03:36] They place the fabric back under the needle and resume sewing, then check the seam.
+[00:03:36 - 00:03:52] The person continues sewing a long section of the fabric, carefully guiding the edge.
+[00:03:52 - 00:04:00] They pull the fabric out from the machine and inspect the work.
+[00:04:00 - 00:04:03] They use the scissors to trim the edge of the fabric piece.
+[00:04:03 - 00:04:16] The person aligns the fabric under the needle and sews again, occasionally glancing down at their phone.
+[00:04:16 - 00:04:36] They continue sewing another long section of the blue edge.
+[00:04:36 - 00:04:54] They pull the fabric out, adjust it, and align a new piece under the needle, checking their phone while doing so.
+[00:04:54 - 00:05:05] They resume sewing the newly aligned fabric piece.
+[00:05:05 - 00:05:09] They stop sewing briefly to adjust the fabric's position.
+[00:05:09 - 00:05:22] They continue sewing the fabric.
+[00:05:22 - 00:05:32] The person pulls the fabric out from the machine and inspects the seam.
+[00:05:32 - 00:05:36] They pick up the scissors and use them to trim the edge of the fabric.
+[00:05:36 - 00:05:46] They align the fabric back under the needle and sew another section.
+[00:05:46 - 00:05:58] They pull the fabric out, check the seam, drop the piece, and glance at their phone.
+[00:05:58 - 00:06:01] They pick up the scissors and trim something on the fabric.
+[00:06:01 - 00:06:12] They place the fabric back under the needle and sew a small section.
+[00:06:12 - 00:06:17] They pull the fabric out, look down at their phone, and use their right hand to scroll on the screen.
+[00:06:17 - 00:06:33] After interacting with the phone, they align the fabric and resume sewing.
+[00:06:33 - 00:06:40] They stop sewing to adjust the fabric and check the seam.
+[00:06:40 - 00:06:50] They continue sewing the fabric piece.
+[00:06:50 - 00:07:00] They pull the fabric out, adjust its position, and start sewing again.
+[00:07:00 - 00:07:22] The person continuously sews a long section of the fabric, carefully guiding the blue edge.
+[00:07:22 - 00:07:32] They pull the fabric out, check the seam, drop the piece, and look at their phone.
+[00:07:32 - 00:07:36] They pick up the scissors and cut the fabric or thread.
+[00:07:36 - 00:07:56] They inspect the fabric piece, fold it, and align it under the needle.
+[00:07:56 - 00:08:01] They sew a short section of the aligned fabric.
+[00:08:01 - 00:08:04] They use the scissors to trim the fabric edge.
+[00:08:04 - 00:08:12] They check their phone briefly while looking at the fabric piece.
+[00:08:12 - 00:08:29] They align the fabric under the needle and resume sewing.
+[00:08:29 - 00:08:35] They pull the fabric out from the machine and inspect the seam.
+[00:08:35 - 00:08:50] They align the fabric again and sew another section.
+[00:08:50 - 00:09:00] They pull the fabric out, check their phone, and adjust the fabric piece.
+[00:09:00 - 00:09:03] They use the scissors to trim the fabric.
+[00:09:03 - 00:09:18] They place the fabric under the needle and sew.
+[00:09:18 - 00:09:26] They pull the fabric out, fold it, and prepare the next seam.
+[00:09:26 - 00:09:29] They pick up the scissors and cut the fabric.
+[00:09:29 - 00:09:47] They align the prepared fabric under the needle and sew a long section.
+[00:09:47 - 00:09:51] They pull the fabric out, place it aside, and look down at their phone.
+[00:09:51 - 00:09:54] They pick up the scissors and trim the fabric piece.
+[00:09:54 - 00:10:00] They align the fabric back under the needle and start sewing.
+[00:10:00 - 00:10:13] The camera view briefly shifts to a higher angle, showing the top of the sewing machine and two blue thread spools. The person adjusts the machine, manipulating the thread near the needle, before the view returns to the previous angle.
+[00:10:13 - 00:10:18] The person resumes sewing, then stops to check the seam.
+[00:10:18 - 00:10:28] They continue sewing the fabric piece.
+[00:10:28 - 00:10:35] They stop sewing, adjust the fabric, and fold it for the next section.
+[00:10:35 - 00:10:48] They align the folded fabric under the needle and sew.
+[00:10:48 - 00:10:55] They pull the fabric out, glance at their phone, and set up the next piece of fabric.
+[00:10:55 - 00:11:10] They sew the newly set up fabric piece.
+[00:11:10 - 00:11:20] They pull the fabric out from the machine, inspect the seam, and fold the material.
+[00:11:20 - 00:11:34] They place the fabric under the needle and continue sewing.
+[00:11:34 - 00:11:38] They pick up the scissors and use them to cut the thread or fabric.
+[00:11:38 - 00:11:43] They check their phone briefly while holding the fabric.
+[00:11:43 - 00:11:53] They fold the fabric piece and align it under the needle.
+[00:11:53 - 00:12:06] They resume sewing the fabric.
+[00:12:06 - 00:12:10] They use the scissors to trim the fabric edge.
+[00:12:10 - 00:12:20] They place the fabric back under the needle and sew again.
+[00:12:20 - 00:12:29] They pull the fabric out, inspect the work, and fold the material.
+[00:12:29 - 00:12:42] They align the fabric and sew another section.
+[00:12:42 - 00:12:53] They pull the fabric out and inspect the newly sewn seam.
+[00:12:53 - 00:13:02] They prepare the next piece of fabric, align it under the needle, and start sewing.
+[00:13:02 - 00:13:08] They stop sewing briefly to adjust the fabric's position.
+[00:13:08 - 00:13:20] They continue sewing the fabric piece.
+[00:13:20 - 00:13:31] They pull the fabric out, check the seam, and fold the material.
+[00:13:31 - 00:13:37] They place the fabric under the needle and sew a short section.
+[00:13:37 - 00:13:41] They pick up the scissors and use them to cut the thread or fabric edge.
+[00:13:41 - 00:13:56] They align the fabric back under the needle and sew.
+[00:13:56 - 00:14:00] They look down at their phone and use a finger to scroll on the screen.
+[00:14:00 - 00:14:03] They pick up the scissors and trim the fabric piece.
+[00:14:03 - 00:14:06] They put the scissors down and adjust the fabric.
+[00:14:06 - 00:14:14] They pick up the scissors again and use them to cut a larger section of the fabric edge.
+[00:14:14 - 00:14:26] They place the fabric under the needle and resume sewing.
+[00:14:26 - 00:14:38] They pull the fabric out from the machine, check the seam, and align the next piece of fabric.
+[00:14:38 - 00:14:46] They sew the newly aligned fabric piece.
+[00:14:46 - 00:14:55] They pull the fabric out and inspect the work.
+[00:14:55 - 00:15:00] They prepare the next piece of fabric for sewing.
+[00:15:00 - 00:15:03] They use the scissors to trim the edge of the prepared fabric piece.
+[00:15:03 - 00:15:18] They align the fabric under the needle and sew.
+[00:15:18 - 00:15:22] They pick up the scissors and use them to cut the thread or fabric.
+[00:15:22 - 00:15:35] They place the fabric back under the needle and continue sewing.
+[00:15:35 - 00:15:43] They pull the fabric out, check the seam, and pick up their phone to look at it.
+[00:15:43 - 00:15:53] They put the phone down, sew a short section of fabric, and pull it out.
+[00:15:53 - 00:15:57] They pick up the scissors and trim the fabric piece.
+[00:15:57 - 00:16:03] They fold the fabric and align it under the needle.
+[00:16:03 - 00:16:17] They sew the aligned fabric piece.
+[00:16:17 - 00:16:20] They use the scissors to cut the thread or fabric edge.
+[00:16:20 - 00:16:29] They put the scissors down, adjust the fabric, and inspect the seam.
+[00:16:29 - 00:16:40] They place the fabric under the needle and sew again.
+[00:16:40 - 00:16:51] They pull the fabric out, glance at their phone, and adjust the fabric piece.
+[00:16:51 - 00:17:05] They align the fabric and sew another section.
+[00:17:05 - 00:17:15] They pull the fabric out, fold the material, and align it under the needle.
+[00:17:15 - 00:17:28] They sew the folded fabric piece.
+[00:17:28 - 00:17:34] They pull the fabric out, check the seam, and fold it again.
+[00:17:34 - 00:17:46] They align the fabric under the needle and continue sewing.
+[00:17:46 - 00:17:54] They pull the fabric out, check the work, and align the next piece of fabric.
+[00:17:54 - 00:17:59] They pick up the scissors and use them to trim the fabric.
+[00:17:59 - 00:18:07] They place the fabric under the needle and sew.
+[00:18:07 - 00:18:15] They pull the fabric out, fold it, and align it under the needle.
+[00:18:15 - 00:18:23] They sew the folded fabric piece.
+[00:18:23 - 00:18:27] They use the scissors to trim the fabric edge.
+[00:18:27 - 00:18:31] They put the scissors down and adjust the fabric.
+[00:18:31 - 00:18:35] They pick up the scissors again and trim the fabric.
+[00:18:35 - 00:18:49] They align the fabric under the needle and sew.
+[00:18:49 - 00:18:59] They pull the fabric out, check the seam, and align the next piece.
+[00:18:59 - 00:19:12] They sew the newly aligned fabric piece.
+[00:19:12 - 00:19:20] They pull the fabric out, fold it, and align it under the needle.
+[00:19:20 - 00:19:35] They sew the folded fabric piece.
+[00:19:35 - 00:19:42] They pull the fabric out, check the work, and align the fabric again.
+[00:19:42 - 00:19:48] They sew a short section of the fabric.
+[00:19:48 - 00:19:52] They pick up the scissors and trim the fabric edge.
+[00:19:52 - 00:20:01] They place the fabric back under the needle and resume sewing until the end of the video.

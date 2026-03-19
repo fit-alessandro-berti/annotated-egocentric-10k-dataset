@@ -1,0 +1,183 @@
+[00:00:00 - 00:00:22] The wearer stands at a stationary metal lathe. Holding a red metal part with their left hand, they use a wrench in their right hand to loosen the fixture holding it. They pull the machined red part off the fixture and turn away.
+[00:00:22 - 00:00:36] The wearer walks over to a pile of red metal parts on the floor, sets the finished part down, picks up an unmachined red part, and returns to the lathe.
+[00:00:36 - 00:00:44] The wearer picks up a brush and sweeps metal shavings off the lathe fixture to clean the mounting surface.
+[00:00:44 - 00:00:56] Using both hands, the wearer mounts the new red metal part onto the lathe fixture, adjusting its position carefully.
+[00:00:56 - 00:01:05] The wearer grasps the two handwheels on the lathe carriage and turns them to bring the cutting tool close to the part.
+[00:01:05 - 00:01:10] The wearer grabs the wrench and tightens the fixture to secure the red part in place.
+[00:01:10 - 00:01:20] The lathe spins rapidly as the machining process begins. Sparks and metal shavings fly off as the cutting tool shapes the part. The wearer occasionally adjusts the handwheels during the cut.
+[00:01:20 - 00:01:31] The wearer turns the handwheels to back the cutting tool away from the spinning part, then reaches for a tool.
+[00:01:31 - 00:01:39] Holding a metal scraping tool against the spinning red part, the wearer deburrs the edges to smooth them out.
+[00:01:39 - 00:01:48] The wearer picks up a piece of cardboard and presses it against the spinning part to wipe off debris.
+[00:01:48 - 00:01:54] The lathe stops spinning. The wearer turns the handwheels to reposition the cutting tool for another pass.
+[00:01:54 - 00:02:08] The lathe starts spinning again, and the cutting tool machines the part a second time, throwing more metal shavings.
+[00:02:08 - 00:02:18] The wearer backs the cutting tool away, stops the lathe, uses the wrench to loosen the fixture, and pulls the machined part off.
+[00:02:18 - 00:02:30] The wearer walks back to the pile of parts on the floor, drops the finished piece, picks up a new red part, and returns to the lathe.
+[00:02:30 - 00:02:36] The wearer uses the brush to sweep metal shavings off the lathe fixture.
+[00:02:36 - 00:02:45] The wearer mounts the new red part onto the fixture with both hands.
+[00:02:45 - 00:02:51] The fixture is tightened securely using the wrench.
+[00:02:51 - 00:02:59] The wearer turns the handwheels to position the cutting tool near the part.
+[00:02:59 - 00:03:10] The lathe engages and spins. Metal shavings fly as the cutting tool machines the first side of the part.
+[00:03:10 - 00:03:14] The wearer turns the handwheels to pull the cutting tool away.
+[00:03:14 - 00:03:22] Using the scraping tool, the wearer deburrs the edges of the spinning part.
+[00:03:22 - 00:03:26] The wearer uses the piece of cardboard to wipe down the spinning part.
+[00:03:26 - 00:03:32] The machine stops. The wearer uses the wrench to loosen the fixture, removes the part, flips it over 180 degrees, and places it back onto the fixture.
+[00:03:32 - 00:03:44] The wearer adjusts the part's placement and tightens the fixture with the wrench.
+[00:03:44 - 00:03:52] The handwheels are turned to bring the cutting tool back into position.
+[00:03:52 - 00:04:02] The lathe spins, and the cutting tool machines the flipped side of the part, generating metal shavings.
+[00:04:02 - 00:04:06] The cutting tool is backed away using the handwheels.
+[00:04:06 - 00:04:14] The wearer applies the scraping tool to the spinning part to deburr the edges.
+[00:04:14 - 00:04:21] The lathe stops spinning. The wearer loosens the fixture with the wrench and removes the completed part.
+[00:04:21 - 00:04:30] The wearer walks to the pile on the floor, deposits the finished part, grabs a fresh unmachined part, and returns to the lathe.
+[00:04:30 - 00:04:37] The wearer brushes metal shavings off the lathe fixture.
+[00:04:37 - 00:04:44] The new part is positioned onto the fixture using both hands.
+[00:04:44 - 00:04:52] The wearer secures the part by tightening the fixture with the wrench.
+[00:04:52 - 00:05:01] The handwheels are adjusted to move the cutting tool toward the part.
+[00:05:01 - 00:05:10] The lathe spins and cuts into the part, sending shavings flying.
+[00:05:10 - 00:05:14] The cutting tool is retracted using the handwheels.
+[00:05:14 - 00:05:22] The wearer uses the scraping tool to deburr the spinning part.
+[00:05:22 - 00:05:32] The machine stops. The wearer loosens the fixture, removes the part, flips it over, and remounts it.
+[00:05:32 - 00:05:40] The fixture is tightened again with the wrench.
+[00:05:40 - 00:05:46] The wearer turns the handwheels to position the cutting tool for the next pass.
+[00:05:46 - 00:05:55] The lathe spins and machines the flipped side of the part.
+[00:05:55 - 00:05:58] The cutting tool is backed away.
+[00:05:58 - 00:06:05] The wearer deburrs the edges of the spinning part with the scraping tool.
+[00:06:05 - 00:06:14] The lathe stops. The wearer loosens the fixture, pulls off the finished part, and turns away.
+[00:06:14 - 00:06:22] The wearer walks to the pile, exchanges the finished part for a new one, and returns to the machine.
+[00:06:22 - 00:06:28] Shavings are brushed off the fixture.
+[00:06:28 - 00:06:35] The new part is mounted on the lathe.
+[00:06:35 - 00:06:40] The wearer tightens the fixture with the wrench.
+[00:06:40 - 00:06:48] The handwheels are turned to bring the cutting tool in.
+[00:06:48 - 00:06:58] The lathe engages, and the tool cuts the first side of the part.
+[00:06:58 - 00:07:01] The tool is backed off.
+[00:07:01 - 00:07:07] The wearer deburrs the spinning part with the scraping tool.
+[00:07:07 - 00:07:15] The machine stops, the part is loosened, flipped 180 degrees, and placed back on the fixture.
+[00:07:15 - 00:07:22] The fixture is tightened with the wrench.
+[00:07:22 - 00:07:29] The handwheels are adjusted to position the tool.
+[00:07:29 - 00:07:38] The lathe machines the flipped side.
+[00:07:38 - 00:07:41] The cutting tool is retracted.
+[00:07:41 - 00:07:49] The wearer deburrs the part with the scraping tool.
+[00:07:49 - 00:07:56] The lathe is stopped, the fixture is loosened, and the part is removed.
+[00:07:56 - 00:08:04] The wearer walks to the parts pile, swaps the finished part for an unmachined one, and returns.
+[00:08:04 - 00:08:08] The fixture is brushed clean.
+[00:08:08 - 00:08:14] The new part is mounted onto the fixture.
+[00:08:14 - 00:08:20] The fixture is tightened.
+[00:08:20 - 00:08:27] The handwheels are adjusted to move the tool into position.
+[00:08:27 - 00:08:35] The lathe spins and cuts the part, throwing shavings.
+[00:08:35 - 00:08:41] The cutting tool is backed off.
+[00:08:41 - 00:08:46] The spinning part is deburred with the scraping tool.
+[00:08:46 - 00:08:52] The lathe stops, the part is loosened, flipped over, and remounted.
+[00:08:52 - 00:08:57] The fixture is tightened with the wrench.
+[00:08:57 - 00:09:05] The handwheels are adjusted to reposition the tool.
+[00:09:05 - 00:09:12] The lathe machines the flipped side of the part.
+[00:09:12 - 00:09:17] The tool is backed away.
+[00:09:17 - 00:09:22] The wearer deburrs the spinning part.
+[00:09:22 - 00:09:28] The machine is stopped, and the finished part is removed.
+[00:09:28 - 00:09:36] The wearer walks to the pile, drops the part, picks up a new one, and walks back.
+[00:09:36 - 00:09:40] The fixture is brushed to remove shavings.
+[00:09:40 - 00:09:46] The new part is mounted on the lathe.
+[00:09:46 - 00:09:50] The wearer secures the part using the wrench.
+[00:09:50 - 00:09:56] The handwheels are turned to bring the cutting tool in.
+[00:09:56 - 00:10:04] The lathe spins and machines the first side.
+[00:10:04 - 00:10:08] The tool is retracted.
+[00:10:08 - 00:10:14] The scraping tool is used to deburr the part.
+[00:10:14 - 00:10:20] The lathe stops, the part is loosened, flipped, and remounted.
+[00:10:20 - 00:10:26] The fixture is tightened.
+[00:10:26 - 00:10:32] The handwheels are adjusted to position the tool.
+[00:10:32 - 00:10:41] The second machining pass cuts the flipped side.
+[00:10:41 - 00:10:45] The tool is backed off.
+[00:10:45 - 00:10:50] The wearer deburrs the spinning part.
+[00:10:50 - 00:10:55] The machine is stopped, the part is loosened and removed.
+[00:10:55 - 00:11:03] The wearer goes to the pile, swaps the part, and returns.
+[00:11:03 - 00:11:06] The wearer brushes the fixture clean.
+[00:11:06 - 00:11:12] The new part is mounted on the fixture.
+[00:11:12 - 00:11:17] The fixture is tightened with the wrench.
+[00:11:17 - 00:11:23] The handwheels are adjusted to position the cutting tool.
+[00:11:23 - 00:11:30] The lathe engages, machining the first side of the part.
+[00:11:30 - 00:11:34] The cutting tool is backed away.
+[00:11:34 - 00:11:39] The scraping tool is used to deburr the spinning part.
+[00:11:39 - 00:11:45] The lathe stops, the part is loosened, flipped over, and remounted.
+[00:11:45 - 00:11:51] The fixture is tightened.
+[00:11:51 - 00:11:57] The handwheels are adjusted to bring the tool in.
+[00:11:57 - 00:12:05] The lathe machines the flipped side of the part.
+[00:12:05 - 00:12:09] The cutting tool is backed off.
+[00:12:09 - 00:12:13] The wearer deburrs the part with the scraping tool.
+[00:12:13 - 00:12:18] The machine is stopped, and the part is loosened and removed.
+[00:12:18 - 00:12:26] The wearer walks to the pile, exchanges parts, and returns to the lathe.
+[00:12:26 - 00:12:29] The wearer brushes off the fixture.
+[00:12:29 - 00:12:35] The new part is mounted.
+[00:12:35 - 00:12:40] The fixture is tightened.
+[00:12:40 - 00:12:47] The handwheels are adjusted to position the tool.
+[00:12:47 - 00:12:54] The lathe machines the first side.
+[00:12:54 - 00:12:59] The tool is backed off.
+[00:12:59 - 00:13:03] The part is deburred with the scraping tool.
+[00:13:03 - 00:13:09] The lathe is stopped, the part is loosened, flipped, and remounted.
+[00:13:09 - 00:13:14] The fixture is tightened.
+[00:13:14 - 00:13:20] The handwheels are adjusted.
+[00:13:20 - 00:13:28] The lathe spins and cuts the flipped side of the part.
+[00:13:28 - 00:13:30] The tool is backed off, and the lathe is stopped.
+[00:13:30 - 00:13:58] The wearer turns away from the lathe and walks over to a workbench covered in tools and scattered metal parts. They sift through the small parts, pick up a small metal washer, inspect it, handle a few other items, and then return to the lathe holding the washer.
+[00:13:58 - 00:14:04] At the lathe, the wearer uses the wrench to loosen the fixture holding the red part. They pull the part back slightly, insert the small metal washer onto the center stud behind the part, and push the part back into place.
+[00:14:04 - 00:14:10] They tighten the fixture with the wrench to secure the part and the newly added washer.
+[00:14:10 - 00:14:17] The handwheels are adjusted to position the tool again.
+[00:14:17 - 00:14:26] The lathe spins, and a third corrective pass is made on the part.
+[00:14:26 - 00:14:30] The cutting tool is backed away.
+[00:14:30 - 00:14:36] The wearer deburrs the spinning part with the scraping tool.
+[00:14:36 - 00:14:42] The lathe is stopped, the fixture is loosened, and the part is removed.
+[00:14:42 - 00:14:50] The wearer walks to the pile, drops the finished part, picks up an unmachined one, and returns.
+[00:14:50 - 00:14:55] The wearer brushes the fixture clean.
+[00:14:55 - 00:15:00] The new part is mounted.
+[00:15:00 - 00:15:05] The fixture is tightened.
+[00:15:05 - 00:15:13] The handwheels are adjusted.
+[00:15:13 - 00:15:21] The lathe cuts the first side of the part.
+[00:15:21 - 00:15:26] The tool is backed off.
+[00:15:26 - 00:15:30] The part is deburred.
+[00:15:30 - 00:15:38] The lathe stops, the part is loosened, flipped over, and remounted.
+[00:15:38 - 00:15:43] The fixture is tightened.
+[00:15:43 - 00:15:50] The handwheels are adjusted to position the tool.
+[00:15:50 - 00:15:58] The lathe machines the flipped side.
+[00:15:58 - 00:16:03] The tool is backed off.
+[00:16:03 - 00:16:08] The scraping tool is used to deburr the part.
+[00:16:08 - 00:16:15] The machine is stopped, the part is loosened and removed.
+[00:16:15 - 00:16:22] The wearer walks to the pile, swaps parts, and returns.
+[00:16:22 - 00:16:26] The fixture is brushed clean.
+[00:16:26 - 00:16:32] The new part is mounted.
+[00:16:32 - 00:16:36] The fixture is tightened.
+[00:16:36 - 00:16:44] The handwheels are adjusted.
+[00:16:44 - 00:16:52] The lathe machines the first side.
+[00:16:52 - 00:16:56] The tool is backed off.
+[00:16:56 - 00:17:00] The part is deburred.
+[00:17:00 - 00:17:08] The lathe stops, the part is loosened, flipped, and remounted.
+[00:17:08 - 00:17:13] The fixture is tightened.
+[00:17:13 - 00:17:18] The handwheels are adjusted to position the tool.
+[00:17:18 - 00:17:21] The lathe cuts the flipped side. The tool is then backed away and the machine is stopped.
+[00:17:21 - 00:17:25] The part is loosened and removed without deburring. The wearer turns away from the lathe and walks to the pile, where another person in a blue plaid shirt is standing. The wearer tosses the part onto the pile, picks up a new one, and turns back.
+[00:17:25 - 00:17:30] The wearer returns to the lathe and brushes the fixture.
+[00:17:30 - 00:17:35] The new part is mounted.
+[00:17:35 - 00:17:40] The fixture is tightened.
+[00:17:40 - 00:17:48] The handwheels are adjusted.
+[00:17:48 - 00:17:55] The lathe machines the first side.
+[00:17:55 - 00:17:59] The tool is backed off.
+[00:17:59 - 00:18:03] The part is deburred.
+[00:18:03 - 00:18:11] The machine stops, the part is loosened, flipped, and remounted.
+[00:18:11 - 00:18:16] The fixture is tightened.
+[00:18:16 - 00:18:23] The handwheels are adjusted to position the tool.
+[00:18:23 - 00:18:30] The lathe cuts the flipped side.
+[00:18:30 - 00:18:33] The tool is backed off.
+[00:18:33 - 00:18:37] The scraping tool is used to deburr the part.
+[00:18:37 - 00:18:43] The lathe is stopped, the part is loosened and removed.
+[00:18:43 - 00:18:50] The wearer walks to the pile, swaps the part, and returns.
+[00:18:50 - 00:18:54] The fixture is brushed clean.
+[00:18:54 - 00:19:00] The new part is mounted.
+[00:19:00 - 00:19:05] The fixture is tightened.
+[00:19:05 - 00:19:12] The handwheels are adjusted.
+[00:19:12 - 00:19:19] The lathe machines the first side.
+[00:19:19 - 00:19:23] The tool is backed off.
+[00:19:23 - 00:19:27] The part is deburred.
+[00:19:27 - 00:19:35] The machine stops, the part is loosened, flipped, and remounted.
+[00:19:35 - 00:19:40] The fixture is tightened.
+[00:19:40 - 00:19:47] The handwheels are adjusted.
+[00:19:47 - 00:19:54] The lathe cuts the flipped side.
+[00:19:54 - 00:19:57] The tool is backed off.
+[00:19:57 - 00:20:01] The wearer deburrs the part.
+[00:20:01 - 00:20:06] The machine is stopped, the fixture is loosened, and the part is removed.
+[00:20:06 - 00:20:13] The wearer turns away from the lathe, carrying the finished part as the video ends.

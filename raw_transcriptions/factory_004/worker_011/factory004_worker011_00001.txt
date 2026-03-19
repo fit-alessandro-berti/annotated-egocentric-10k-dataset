@@ -1,0 +1,48 @@
+[00:00:00 - 00:00:15] The wearer stands at a long table covered in white fabric. They use both hands to pull and adjust the fabric, smoothing it out. They reach for and pick up a pair of scissors.
+[00:00:15 - 00:00:22] Using the scissors, the wearer cuts across the width of the white fabric on the table.
+[00:00:22 - 00:00:38] The wearer folds the cut piece of fabric, bringing the edges together and smoothing it down on the table.
+[00:00:38 - 00:00:48] The wearer places a long white straight-edge tool onto the fabric and rolls the folded fabric around it to create a tight bundle.
+[00:00:48 - 00:01:01] The wearer picks up the rolled fabric bundle and walks away from the table, moving through an aisle in the facility past shelves and other workstations.
+[00:01:01 - 00:01:14] The wearer arrives at a station with a digital scale, places the fabric bundle onto the scale, and taps the scale's interface.
+[00:01:14 - 00:01:43] After retrieving the fabric bundle from the scale, the wearer walks through another section of the facility, passing orange shelves and large bins filled with fabric scraps.
+[00:01:43 - 00:02:27] The wearer stops at a white desk. They place the fabric bundle down, use a calculator to perform some calculations, and then use a pen to write notes into a notebook.
+[00:02:27 - 00:02:45] The wearer picks up the fabric bundle again and walks back through the facility, heading towards the large cutting table.
+[00:02:45 - 00:04:02] Back at the large table, the wearer places the bundle down and begins a long process of unrolling, pulling, and meticulously spreading a large sheet of white fabric across the surface. They repeatedly use both hands to smooth wrinkles and align the edges.
+[00:04:02 - 00:04:26] The wearer picks up scissors and makes a cut along the edge of the fabric, then puts the scissors down and continues to adjust and smooth the material.
+[00:04:26 - 00:04:36] The wearer grabs the scissors again, makes another cut, and then uses their hands to smooth the fabric flat.
+[00:04:36 - 00:05:33] The wearer engages in an extended period of pulling the white fabric taut, spreading it across the table, and smoothing it with flat hands to remove any creases or unevenness.
+[00:05:33 - 00:05:40] The wearer uses the scissors to cut the fabric once more.
+[00:05:40 - 00:06:00] The wearer continues to manually adjust, pull, and smooth the white fabric on the table.
+[00:06:00 - 00:06:06] The wearer turns and walks briefly toward a nearby orange shelving unit holding bags of fabric.
+[00:06:06 - 00:06:21] Returning to the table, the wearer picks up the scissors and cuts the fabric.
+[00:06:21 - 00:07:47] The wearer resumes the repetitive task of pulling large swathes of white fabric onto the table, spreading them wide, and smoothing them down firmly with both hands to ensure the layers are perfectly flat.
+[00:07:47 - 00:08:00] The wearer picks up the scissors and cuts across the fabric.
+[00:08:00 - 00:08:21] The wearer folds the freshly cut piece of fabric, moves it aside, and then pulls a new layer of white fabric onto the workspace.
+[00:08:21 - 00:08:29] Using the scissors, the wearer cuts the newly pulled layer of fabric.
+[00:08:29 - 00:08:44] The wearer gathers some fabric offcuts, walks over to an orange bucket on the floor, discards the scraps into it, and walks back to the table.
+[00:08:44 - 00:09:40] The wearer begins a repetitive process of pulling a length of white fabric over the existing stack, spreading it evenly, and smoothing it down with sweeping hand motions.
+[00:09:40 - 00:09:50] The wearer steps away from the main table, carrying a piece of fabric to another area.
+[00:09:50 - 00:10:04] The wearer returns to the large table and continues arranging the white fabric.
+[00:10:04 - 00:10:14] The wearer uses scissors to cut the fabric layer they just laid down.
+[00:10:14 - 00:10:44] The wearer resumes pulling, spreading, and smoothing new layers of white fabric onto the growing stack.
+[00:10:44 - 00:10:50] The wearer briefly walks away and picks up a brown, folded paper pattern piece.
+[00:10:50 - 00:11:03] Returning to the table, the wearer continues the task of laying out the white fabric.
+[00:11:03 - 00:12:10] A long, uninterrupted sequence where the wearer repeatedly pulls lengths of white fabric, spreads them out over the table, and uses both hands to smooth the layers flat against the stack.
+[00:12:10 - 00:12:18] The wearer picks up the scissors and cuts the fabric layer.
+[00:12:18 - 00:12:56] The wearer continues the cyclical process of pulling, spreading, and manually smoothing layers of white fabric.
+[00:12:56 - 00:13:00] The wearer steps away from the table for a few seconds before returning.
+[00:13:00 - 00:13:29] Back at the table, the wearer continues to pull and smooth the white fabric layers.
+[00:13:29 - 00:13:38] The wearer uses the scissors to cut the fabric.
+[00:13:38 - 00:14:34] The wearer returns to the repetitive action of pulling new sections of white fabric, spreading them wide, and pressing them flat with their hands.
+[00:14:34 - 00:14:41] The wearer cuts the fabric again using the scissors.
+[00:14:41 - 00:15:58] An extended period where the wearer consistently pulls, spreads, and smooths layer after layer of white fabric onto the table.
+[00:15:58 - 00:16:04] The wearer picks up the scissors and makes a cut across the fabric.
+[00:16:04 - 00:17:07] The wearer continues the manual labor of laying out the white fabric, pulling it taut, and smoothing out any wrinkles with their hands.
+[00:17:07 - 00:17:10] The wearer briefly steps away toward the shelving unit.
+[00:17:10 - 00:17:22] The wearer returns to the table and pulls out another length of fabric.
+[00:17:22 - 00:17:30] The wearer uses the scissors to cut the fabric layer.
+[00:17:30 - 00:17:57] The wearer resumes pulling, spreading, and smoothing the white fabric.
+[00:17:57 - 00:18:04] The wearer makes another cut with the scissors.
+[00:18:04 - 00:19:37] A very long, continuous stretch where the wearer is solely focused on the repetitive task of pulling sections of white fabric, spreading them carefully, and smoothing them flat onto the stacked layers.
+[00:19:37 - 00:19:43] The wearer uses the scissors to cut the fabric one last time in this sequence.
+[00:19:43 - 00:20:00] The wearer finishes laying out the final layer of white fabric, doing some final smoothing and adjusting of the stack on the table.

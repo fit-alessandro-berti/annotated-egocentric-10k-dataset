@@ -1,0 +1,143 @@
+[00:00:00 - 00:00:03] The person holds the edge of a white fabric and pulls it towards them over a cutting table.
+[00:00:03 - 00:00:08] The person uses a large pair of black scissors to cut vertically through a folded edge of the fabric.
+[00:00:08 - 00:00:22] The person grabs the newly cut section of fabric, pulls it towards them, and unfolds it across the table, smoothing the surface flat with their hands.
+[00:00:22 - 00:00:30] They lift a flap of the fabric, fold it over towards the opposite side, align the edges, and smooth the folded layer out with both hands.
+[00:00:30 - 00:00:33] The person briefly steps away from the table, turning to their right and looking downwards.
+[00:00:33 - 00:00:50] The person returns to the table, grabs the folded edge of the fabric, lifts it, and pulls the top layer towards themselves, continuously smoothing it out flat.
+[00:00:50 - 00:01:04] They grab a larger section of the fabric from further down the table, pull it towards themselves, let it settle on the stack, and smooth it flat with wide, sweeping hand motions from the center to the edges.
+[00:01:04 - 00:01:06] The person steps back from the table again, turning slightly to the right.
+[00:01:06 - 00:01:10] They return, reach across the fabric, and pick up the scissors resting on the table.
+[00:01:10 - 00:01:27] They put down the scissors, grab the edge of the fabric with both hands, lift and pull it towards themselves to adjust the alignment, and then smooth the entire surface down flat.
+[00:01:27 - 00:01:35] The person picks up the scissors again and cuts a straight line across the width of the fabric.
+[00:01:35 - 00:01:40] They put the scissors down, lift a large section of the cut fabric, and fold it back over the stack.
+[00:01:40 - 00:01:42] The person steps away from the table, turning right.
+[00:01:42 - 00:01:55] Returning to the table, they reach for the next section of fabric, pull it across the table towards themselves, unfold it, and smooth the layers down with their hands.
+[00:01:55 - 00:01:58] Another quick step back and turn away from the table.
+[00:01:58 - 00:02:22] They grab the fabric edges, pull the material flat across the table, and spend time smoothing out wrinkles and aligning the edges with wide hand motions.
+[00:02:22 - 00:02:26] The person steps away from the table to their right, walking briefly past some orange shelving.
+[00:02:26 - 00:02:40] Returning to the table, they grab the fabric edge and pull a new layer of the material towards themselves, folding it over the existing layers and smoothing it.
+[00:02:40 - 00:02:50] They grab the scissors, make a cut across the folded edge of the fabric, and adjust the material.
+[00:02:50 - 00:03:05] They fold the newly cut layer back over the main stack, carefully aligning the edges and smoothing the fabric surface flat with both hands.
+[00:03:05 - 00:03:07] The person turns and steps away from the table.
+[00:03:07 - 00:03:19] They return to the table, grab the edge of the fabric, adjust the alignment of the layers, and smooth the material down.
+[00:03:19 - 00:03:25] They step away again, looking down towards the floor.
+[00:03:25 - 00:03:35] Back at the table, they use the scissors to cut another piece of the fabric, put the scissors down, and adjust the cut edge.
+[00:03:35 - 00:03:45] The person grabs a large piece of the fabric, pulls it towards themselves, and lays it flat over the pile, smoothing it.
+[00:03:45 - 00:03:48] They step back slightly from the table.
+[00:03:48 - 00:04:00] They reach out, grab the far end of the fabric, fold it towards themselves, and smooth it out over the existing stack to create a new aligned layer.
+[00:04:00 - 00:04:03] The person steps away from the table to the right.
+[00:04:03 - 00:04:18] They return, grab the folded edge of the fabric, pull it over to form another layer on the stack, and smooth it meticulously with their hands.
+[00:04:18 - 00:04:22] Another brief step away and turn to the right.
+[00:04:22 - 00:04:28] Returning, they lift a layer of the fabric stack, adjust its position slightly, and smooth it flat.
+[00:04:28 - 00:04:32] They step away from the table again.
+[00:04:32 - 00:04:41] Back at the table, they pick up the scissors and cut across the folded edge of the fabric.
+[00:04:41 - 00:05:01] After cutting, they fold a layer back, pull the material to align the edges with the rest of the stack, and repeatedly smooth the surface flat.
+[00:05:01 - 00:05:07] The person steps back, turning away from the table and looking downwards.
+[00:05:07 - 00:05:25] They return, pick up the scissors, cut along the edge of the fabric, put the scissors down, and then pull another large section of fabric over the table, unfolding and smoothing it.
+[00:05:25 - 00:05:30] They step away from the table to the right.
+[00:05:30 - 00:05:43] They come back, grab the fabric edges, pull the material flat, and smooth it across the top of the stack.
+[00:05:43 - 00:05:46] Another step away from the table.
+[00:05:46 - 00:05:54] They return, lift the fabric layer, adjust its alignment, and smooth it out.
+[00:05:54 - 00:05:57] They step away again.
+[00:05:57 - 00:06:01] They return briefly to adjust the edge of the fabric.
+[00:06:01 - 00:06:03] They step away to the right.
+[00:06:03 - 00:06:16] Back at the table, they grab the fabric, pull it to fold a new layer over the top of the stack, and smooth it down with both hands.
+[00:06:16 - 00:06:19] Step away from the table.
+[00:06:19 - 00:06:33] They return, grab the edge of the fabric, pull it towards them, adjust the fold, and smooth the material flat.
+[00:06:33 - 00:06:37] Another step away.
+[00:06:37 - 00:06:46] They return to the table, pick up the scissors, and cut through the folded edge of the fabric layer.
+[00:06:46 - 00:07:01] After cutting, they pull the newly cut fabric to align it with the stack and smooth it down completely, reaching to the far edges.
+[00:07:01 - 00:07:03] Step away.
+[00:07:03 - 00:07:20] They pick up the scissors, cut through the fabric again, then adjust the cut pieces, pulling a layer back and smoothing it.
+[00:07:20 - 00:07:22] Step away to the right.
+[00:07:22 - 00:07:39] Returning, they grab a large section of the fabric, pull it towards themselves, and unfold it over the stack, smoothing it out flat.
+[00:07:39 - 00:07:42] Step away.
+[00:07:42 - 00:07:54] They pull the fabric edge towards them, folding it over the pile, and smooth the new layer down.
+[00:07:54 - 00:07:57] Another step away.
+[00:07:57 - 00:08:11] They reach out, grab the fabric, pull it to create another fold over the stack, smooth it out, and finely adjust the edges.
+[00:08:11 - 00:08:14] Step away.
+[00:08:14 - 00:08:24] Back at the table, they pull a new section of fabric towards them, aligning the edges and smoothing the material.
+[00:08:24 - 00:08:44] They pick up the scissors, cut the folded edge of the fabric, fold the layer over, and smooth the entire top of the stack.
+[00:08:44 - 00:08:47] Step away.
+[00:08:47 - 00:08:58] They return, grab the fabric, pull it towards themselves, adjust the alignment of the layers, and smooth them down.
+[00:08:58 - 00:09:00] Step away.
+[00:09:00 - 00:09:12] They use the scissors to cut the fabric again, pull the cut piece, fold it over, and smooth the surface.
+[00:09:12 - 00:09:15] Step away.
+[00:09:15 - 00:09:27] They grab a large section of fabric, pull it over the stack, and smooth it flat.
+[00:09:27 - 00:09:29] Step away.
+[00:09:29 - 00:09:50] Returning, they pull the fabric and smooth it, then reach across, fold a layer towards themselves, align the edges precisely, and smooth the fabric flat.
+[00:09:50 - 00:09:53] Step away to the right.
+[00:09:53 - 00:10:00] They grab the fabric layers, adjust them, pull them flat, and smooth them out.
+[00:10:00 - 00:10:02] Step away.
+[00:10:02 - 00:10:08] They return, pull a layer of fabric towards themselves, and smooth it.
+[00:10:08 - 00:10:18] They pick up the scissors, then step away slightly, moving around near the table.
+[00:10:18 - 00:10:38] Returning, they pull the fabric edge towards them, create a fold over the stack, and smooth it meticulously with both hands.
+[00:10:38 - 00:10:41] Step away.
+[00:10:41 - 00:10:49] They pull another layer of fabric, folding it over and smoothing it down.
+[00:10:49 - 00:10:51] Step away.
+[00:10:51 - 00:11:03] They grab the fabric, pull it flat across the stack, smooth the material, and adjust the far edge.
+[00:11:03 - 00:11:14] They use the scissors to cut the fabric, then pull the cut piece and smooth it out.
+[00:11:14 - 00:11:18] Step away.
+[00:11:18 - 00:11:28] They grab the fabric, create another fold over the stack, and smooth it out.
+[00:11:28 - 00:11:30] Step away.
+[00:11:30 - 00:11:41] They reach out, grab the far edge of the fabric, fold it towards them, and smooth the new layer flat.
+[00:11:41 - 00:11:44] Step away.
+[00:11:44 - 00:11:51] They return, pull the fabric towards themselves, and smooth it down.
+[00:11:51 - 00:11:53] Step away.
+[00:11:53 - 00:12:04] They grab the fabric, pull a new layer over the pile, align it, and smooth it.
+[00:12:04 - 00:12:07] Step away.
+[00:12:07 - 00:12:21] They reach across the table, grab the fabric, pull it to fold a new layer towards themselves, and smooth it down.
+[00:12:21 - 00:12:24] Step away.
+[00:12:24 - 00:12:40] They pick up the scissors, cut the folded edge, pull the cut piece over, and smooth the fabric stack.
+[00:12:40 - 00:12:42] Step away.
+[00:12:42 - 00:12:59] They use the scissors to cut another section of the fabric edge, pull the material to adjust it, and smooth it flat.
+[00:12:59 - 00:13:16] They grab a large section of fabric, pull it over the pile, and thoroughly smooth it down with both hands.
+[00:13:16 - 00:13:18] Step away.
+[00:13:18 - 00:13:35] They pull the fabric edge, folding a new layer towards themselves, aligning the edges, and smoothing it.
+[00:13:35 - 00:13:41] Step away, then return briefly to adjust the fabric edge.
+[00:13:41 - 00:13:43] Step away again.
+[00:13:43 - 00:13:59] They return, pull the fabric towards them, create another fold over the stack, and smooth the layer perfectly flat.
+[00:13:59 - 00:14:02] Step away.
+[00:14:02 - 00:14:14] They pull another layer of fabric towards themselves and smooth it out across the stack.
+[00:14:14 - 00:14:17] Step away.
+[00:14:17 - 00:14:30] They pick up the scissors, cut the fabric, adjust the cut edge, pull the piece, and fold it over.
+[00:14:30 - 00:14:46] They pull another layer of fabric, use the scissors to cut it, fold it over the stack, and smooth it down.
+[00:14:46 - 00:14:52] Step away.
+[00:14:52 - 00:15:05] They reach out, grab the fabric, fold it towards themselves, and smooth it flat.
+[00:15:05 - 00:15:07] Step away.
+[00:15:07 - 00:15:19] They pull a layer of fabric towards themselves, aligning and smoothing it out.
+[00:15:19 - 00:15:22] Step away.
+[00:15:22 - 00:15:40] They grab the fabric edge, pull a new layer towards themselves over the pile, and smooth it down completely.
+[00:15:40 - 00:15:42] Step away.
+[00:15:42 - 00:15:46] They reach for the fabric and briefly adjust the alignment.
+[00:15:46 - 00:16:00] They pull a new layer of fabric over and smooth it flat.
+[00:16:00 - 00:16:02] Step away.
+[00:16:02 - 00:16:15] They use the scissors to cut the fabric fold, then adjust the cut piece on the stack.
+[00:16:15 - 00:16:19] Step away.
+[00:16:19 - 00:16:35] They pull a large piece of fabric towards themselves, fold it over the pile, and smooth it.
+[00:16:35 - 00:16:37] Step away.
+[00:16:37 - 00:16:44] They return to adjust the edge of the fabric layer.
+[00:16:44 - 00:16:47] Step away.
+[00:16:47 - 00:17:00] They reach out, grab the fabric, fold a new layer towards themselves, and smooth it out.
+[00:17:00 - 00:17:02] Step away.
+[00:17:02 - 00:17:16] They pull the fabric, folding it over the stack, and smooth it.
+[00:17:16 - 00:17:18] Step away.
+[00:17:18 - 00:17:34] They grab the fabric, create another fold, and thoroughly smooth it out.
+[00:17:34 - 00:17:40] They use the scissors to cut the edge of the fabric.
+[00:17:40 - 00:17:44] Step away.
+[00:17:44 - 00:18:02] They pick up the scissors, cut the fabric again, adjust the piece, and pull the layer to smooth it.
+[00:18:02 - 00:18:04] Step away.
+[00:18:04 - 00:18:15] They grab the fabric, pull it flat over the stack, and smooth it down.
+[00:18:15 - 00:18:17] Step away.
+[00:18:17 - 00:18:32] They reach out, pull the fabric towards themselves to form a fold, and smooth it out.
+[00:18:32 - 00:18:35] Step away.
+[00:18:35 - 00:18:46] They pull the next layer of fabric over and smooth it flat.
+[00:18:46 - 00:18:49] Step away.
+[00:18:49 - 00:19:07] They use the scissors to cut the fabric, pull the cut fabric, fold it over the stack, and smooth it.
+[00:19:07 - 00:19:09] Step away.
+[00:19:09 - 00:19:19] They pick up the scissors, cut the fabric again, pull the layer, and smooth it.
+[00:19:19 - 00:19:22] Step away.
+[00:19:22 - 00:19:33] They grab the fabric, pull a large piece towards themselves, and lay it flat on the pile.
+[00:19:33 - 00:19:35] Step away.
+[00:19:35 - 00:19:49] They reach for the fabric, pull a layer over, align it, and smooth it down.
+[00:19:49 - 00:20:00] They adjust the far edge, pull the fabric flat, and continue smoothing the surface of the stack until the video ends.

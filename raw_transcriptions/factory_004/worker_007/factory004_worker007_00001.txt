@@ -1,0 +1,141 @@
+[00:00:00 - 00:01:28] The wearer repeatedly takes a rectangular piece of cardboard from a stack on their left and places it flat on the worktable. They then grab a white t-shirt from a large stack on their right, lay it smoothly over the cardboard, and fold the sides of the shirt inwards to wrap neatly around the insert. Next, they pick up a steam iron attached to a thick blue hose, press it firmly over the folded garment, and finally slide the finished, folded shirt onto a completed stack on the left. During the first few repetitions, they hand the finished shirts to a coworker in a red shirt standing across the table, but then begin stacking them on the table. 
+
+[00:01:28 - 00:01:44] The wearer pauses their ironing task and lifts their head, looking around the workspace. The egocentric view pans across the room, revealing numerous tall stacks of packaged white garments, other workstations, industrial equipment including a sewing machine, and coworkers moving about the facility. The wearer then looks back down at their table.
+
+[00:01:44 - 00:02:11] The wearer resumes their work, continuing the established repetitive cycle: placing a piece of cardboard on the table, laying a white t-shirt over it, folding the edges inward, ironing the folded garment flat, and moving it to the finished stack on the left.
+
+[00:02:11 - 00:02:20] The wearer stops working, turns to their left, and walks away from the ironing station. They move across the wooden floor of the workspace, navigating past several large, tall cardboard boxes and other equipment.
+
+[00:02:20 - 00:02:37] The wearer arrives at a desk where two other men are seated. One of the men is holding up a smartphone with the flashlight turned on, and the group appears to briefly converse or examine something together at the desk.
+
+[00:02:37 - 00:02:44] The wearer turns away from the desk and walks back across the room, retracing their path past the large cardboard boxes to return to their ironing workstation.
+
+[00:02:44 - 00:03:00] Standing back at the worktable, the wearer picks up a blue pen with their right hand. They use it to write a column of numbers on the piece of cardboard currently lying on the table, seemingly tallying or logging their work. Once finished, they place the pen back down.
+
+[00:03:00 - 00:03:14] The wearer turns and walks away from the workstation a second time, moving past stacks of garments and approaching another desk area where a computer monitor is visible, before turning around.
+
+[00:03:14 - 00:03:22] The wearer walks back to their workstation and positions themselves in front of the table again.
+
+[00:03:22 - 00:04:10] The wearer resumes the continuous task of garment folding and ironing. They maintain a steady rhythm of placing the cardboard, folding the white t-shirt around it, pressing it with the steam iron, and sliding the finished item onto the stack on the left.
+
+[00:04:10 - 00:04:13] The wearer takes a larger piece of cardboard from the stack and uses both hands to snap it in half along a perforated line, creating the correct size for the shirt insert.
+
+[00:04:13 - 00:05:00] The wearer uses the newly broken piece of cardboard and continues the repetitive process of folding, ironing, and stacking the white t-shirts.
+
+[00:05:00 - 00:05:03] The wearer grabs another double-sized piece of cardboard and snaps it into two separate pieces.
+
+[00:05:03 - 00:06:06] The wearer seamlessly resumes the cycle of folding white t-shirts around the cardboard inserts, ironing them, and placing them onto the finished stack.
+
+[00:06:06 - 00:06:09] The wearer pauses to snap another large piece of cardboard in half.
+
+[00:06:09 - 00:06:33] The steady, repetitive task of folding and ironing the garments continues.
+
+[00:06:33 - 00:06:36] Another piece of cardboard is broken in two by the wearer.
+
+[00:06:36 - 00:06:55] The wearer continues to fold, iron, and stack the t-shirts.
+
+[00:06:55 - 00:06:57] The wearer takes a large piece of cardboard and breaks it in half.
+
+[00:06:57 - 00:07:22] The repetitive cycle of preparing and ironing the folded shirts is sustained without interruption.
+
+[00:07:22 - 00:07:24] Another double-sized cardboard insert is snapped into two pieces.
+
+[00:07:24 - 00:08:29] The wearer continues the continuous process of folding the white t-shirts around cardboard, pressing them with the iron, and moving them to the left stack.
+
+[00:08:29 - 00:08:32] The wearer pauses briefly to snap a large cardboard piece in half.
+
+[00:08:32 - 00:08:55] The folding and ironing task continues at a steady pace.
+
+[00:08:55 - 00:08:58] Another piece of cardboard is broken in two.
+
+[00:08:58 - 00:09:18] The wearer resumes folding, ironing, and stacking the garments.
+
+[00:09:18 - 00:09:21] The wearer snaps another piece of cardboard in half.
+
+[00:09:21 - 00:09:44] The continuous, repetitive process of assembling and ironing the shirts continues.
+
+[00:09:44 - 00:09:46] A double-sized piece of cardboard is broken into two sections.
+
+[00:09:46 - 00:10:07] The wearer continues the cycle of folding and ironing the t-shirts.
+
+[00:10:07 - 00:10:09] The wearer breaks another piece of cardboard in half.
+
+[00:10:09 - 00:10:34] The repetitive task of folding, ironing, and stacking continues.
+
+[00:10:34 - 00:10:36] Another cardboard insert is snapped in half.
+
+[00:10:36 - 00:11:01] The wearer sustains the steady rhythm of folding and ironing the garments.
+
+[00:11:01 - 00:11:03] The wearer pauses to break a piece of cardboard in two.
+
+[00:11:03 - 00:11:28] The continuous cycle of preparing the t-shirts with cardboard inserts and ironing them flat resumes.
+
+[00:11:28 - 00:11:31] Another piece of cardboard is broken in half.
+
+[00:11:31 - 00:11:49] The wearer continues the folding and ironing process.
+
+[00:11:49 - 00:11:52] The wearer snaps a large cardboard piece into two halves.
+
+[00:11:52 - 00:12:19] The repetitive task of folding, pressing, and stacking the shirts continues.
+
+[00:12:19 - 00:12:21] The wearer breaks another piece of cardboard in half.
+
+[00:12:21 - 00:12:24] The wearer briefly uses both hands to push against the finished stack of shirts on the left, straightening and aligning the pile.
+
+[00:12:24 - 00:12:41] The wearer resumes folding and ironing the white t-shirts.
+
+[00:12:41 - 00:12:44] Another double-sized cardboard insert is snapped in half.
+
+[00:12:44 - 00:13:08] The steady, repetitive cycle of folding and ironing continues.
+
+[00:13:08 - 00:13:10] The wearer breaks another piece of cardboard in two.
+
+[00:13:10 - 00:13:33] The continuous process of assembling and pressing the garments is sustained.
+
+[00:13:33 - 00:13:35] A large piece of cardboard is snapped in half.
+
+[00:13:35 - 00:14:04] The wearer continues folding, ironing, and stacking the t-shirts.
+
+[00:14:04 - 00:14:07] Another cardboard piece is broken into two sections.
+
+[00:14:07 - 00:14:36] The repetitive task of folding and ironing the garments continues without interruption.
+
+[00:14:36 - 00:14:39] The wearer pauses to snap a piece of cardboard in half.
+
+[00:14:39 - 00:15:06] The cycle of folding a shirt around the insert and pressing it flat with the iron resumes.
+
+[00:15:06 - 00:15:09] Another piece of cardboard is broken in two.
+
+[00:15:09 - 00:15:47] The wearer maintains the continuous, repetitive process of folding and ironing.
+
+[00:15:47 - 00:15:50] The wearer snaps another large piece of cardboard in half.
+
+[00:15:50 - 00:16:26] The steady rhythm of folding, ironing, and stacking the shirts continues.
+
+[00:16:26 - 00:16:29] Another double-sized cardboard insert is broken in two.
+
+[00:16:29 - 00:16:59] The repetitive task of preparing the garments continues.
+
+[00:16:59 - 00:17:02] The wearer snaps a piece of cardboard in half.
+
+[00:17:02 - 00:17:36] The continuous cycle of folding and ironing the t-shirts is sustained.
+
+[00:17:36 - 00:17:39] Another piece of cardboard is broken into two halves.
+
+[00:17:39 - 00:18:01] The wearer continues the folding and ironing process.
+
+[00:18:01 - 00:18:04] The wearer pauses to snap a cardboard piece in half.
+
+[00:18:04 - 00:18:33] The repetitive cycle of laying the shirt, folding, pressing, and stacking continues.
+
+[00:18:33 - 00:18:36] Another large piece of cardboard is broken in two.
+
+[00:18:36 - 00:18:59] The steady process of assembling and ironing the shirts continues.
+
+[00:18:59 - 00:19:02] A piece of cardboard is snapped in half.
+
+[00:19:02 - 00:19:44] The wearer continues to fold, iron, and stack the garments in a continuous loop.
+
+[00:19:44 - 00:19:46] Another piece of cardboard is broken into two sections.
+
+[00:19:46 - 00:20:00] The repetitive task of folding and ironing the white t-shirts continues until the video ends.

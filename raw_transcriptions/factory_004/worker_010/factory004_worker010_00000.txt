@@ -1,0 +1,42 @@
+[00:00:00 - 00:00:23] The camera wearer stands at a table covered with stacks of white folded shirts. The person grabs a large stack of shirts from the left and moves it to the center of the table, adjusting the stack to tidy it.
+[00:00:23 - 00:01:10] The person takes a piece of folded cardboard, places a set of three white folded shirts onto it, folds the ends of the cardboard over the shirts, and slides a printed black cardboard sleeve over the package. The person finishes the package and tosses it into a cardboard box on the floor to the left.
+[00:01:10 - 00:01:21] The person pauses the packaging task, looks around the room, and adjusts their purple shirt.
+[00:01:21 - 00:04:10] The person turns back to the table and repeatedly performs the same packaging task: grabbing three folded shirts from the stack, placing them on a cardboard backing piece, folding the cardboard ends, and sliding the black printed sleeve over it. The person stacks the finished packages on the table.
+[00:04:10 - 00:04:17] The person turns away from the table, looking down at the floor where scattered white string and cardboard boxes are visible.
+[00:04:17 - 00:04:24] The person turns back to the table and packages another set of shirts.
+[00:04:24 - 00:04:31] The person stops packaging, looks down at the boxes on the floor, and shifts their position slightly.
+[00:04:31 - 00:05:05] The person resumes the repetitive action of packaging the sets of three shirts into the cardboard sleeves.
+[00:05:05 - 00:05:14] The person moves the accumulated stack of completed packages to the edge of the table and looks around the room, briefly observing another worker.
+[00:05:14 - 00:06:48] The person continues the continuous packaging of the shirts in the same manner.
+[00:06:48 - 00:07:09] The person stops packaging, picks up a red smartphone from the table, and interacts with the screen, typing and scrolling through an application.
+[00:07:09 - 00:07:44] The person puts the phone down on the table and resumes packaging the shirts.
+[00:07:44 - 00:07:54] The person pauses, looks down, picks up the phone again briefly to check the screen, then puts it back down and looks back at the table.
+[00:07:54 - 00:08:14] The person resumes packaging the shirts into the cardboard sleeves.
+[00:08:14 - 00:08:28] The person stops packaging, picks up the phone again, opens the calculator app, and types in some numbers.
+[00:08:28 - 00:08:49] The person puts the phone away and continues the shirt packaging process.
+[00:08:49 - 00:08:58] The person stops and turns away from the table, looking at the floor and watching other workers moving around in the room.
+[00:08:58 - 00:09:26] The person turns back to the table and resumes the packaging task.
+[00:09:26 - 00:09:33] The person pauses, turns around, and looks at string scattered on the floor next to the cardboard boxes.
+[00:09:33 - 00:10:17] The person turns back to the work table and continues packaging shirts.
+[00:10:17 - 00:10:22] The person pauses and turns around to look at the floor again.
+[00:10:22 - 00:10:53] The person turns back to the table and resumes packaging shirts.
+[00:10:53 - 00:11:00] The person stops packaging, turns around, and walks slightly while looking at the floor and the other workers in the room.
+[00:11:00 - 00:12:47] The person returns to the table and continues the repetitive packaging of the sets of shirts.
+[00:12:47 - 00:12:56] The person takes the large stack of completed shirt packages and moves them to the side of the table. The person then grabs a new, large stack of unpacked white shirts and moves it to the center of the workspace.
+[00:12:56 - 00:14:26] The person resumes the packaging process, taking sets of three shirts from the new stack, folding the cardboard around them, and sliding the black sleeves over them.
+[00:14:26 - 00:14:38] The person stops packaging and turns to look at other workers in the room, appearing to converse with them.
+[00:14:38 - 00:16:11] The person turns back to the table and continues packaging the shirts.
+[00:16:11 - 00:16:35] The person turns around to watch another worker sweeping the floor, interacting and talking with the people in the room.
+[00:16:35 - 00:16:42] The person turns back to the table and packages another set of shirts.
+[00:16:42 - 00:16:55] The person turns around again, conversing and gesturing with the other workers nearby.
+[00:16:55 - 00:17:23] The person turns back to the table and resumes the repetitive packaging task.
+[00:17:23 - 00:17:28] The person pauses packaging and looks around the room.
+[00:17:28 - 00:18:08] The person resumes packaging the shirts.
+[00:18:08 - 00:18:13] The person stops packaging and looks down at the floor.
+[00:18:13 - 00:18:29] The person turns back to the table and continues packaging shirts.
+[00:18:29 - 00:18:32] The person pauses and turns around briefly.
+[00:18:32 - 00:18:55] The person turns back to the workspace and resumes packaging.
+[00:18:55 - 00:19:02] The person stops and turns around.
+[00:19:02 - 00:19:30] The person turns back to the table and continues the packaging process.
+[00:19:30 - 00:19:36] The person stops packaging and turns around, looking away from the table.
+[00:19:36 - 00:20:00] The person turns back to the table and resumes packaging the shirts until the video ends.

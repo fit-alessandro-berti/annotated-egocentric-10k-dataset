@@ -1,0 +1,40 @@
+[00:00:00 - 00:00:23] The wearer aligns a piece of blue fabric under the sewing machine needle, guiding it with both hands to sew a white edge along the fabric. They stop, pull the fabric out, and use small snips held in their right hand to cut the thread. They repeat this process with another piece of fabric.
+[00:00:23 - 00:00:33] The wearer drops the finished piece, shifts their attention to a smartphone resting on their lap, and briefly interacts with the screen. They then pick up a new piece of blue fabric.
+[00:00:33 - 00:00:48] The wearer opens the bobbin compartment under the sewing machine table, removes the bobbin case to inspect it, and places it back inside. They use the small snips to adjust the thread near the needle and pull it to check the tension.
+[00:00:48 - 00:01:55] The wearer resumes a repetitive sewing cycle: they pick up a piece of blue fabric, align it with a continuous white strip under the needle, sew them together while guiding the material with both hands, pull the fabric out, cut the thread with the snips, toss the piece aside, and briefly look at the smartphone on their lap before starting the next piece. This cycle is repeated several times.
+[00:01:55 - 00:01:58] The wearer picks up a pair of large scissors, cuts the continuous white strip, and sets the scissors down.
+[00:01:58 - 00:02:26] The wearer continues the cycle of aligning the blue fabric and white strip, sewing, cutting the thread with snips, and glancing at the phone.
+[00:02:26 - 00:02:29] The wearer picks up the large scissors again to cut the white strip.
+[00:02:29 - 00:02:57] The wearer returns to the standard cycle, sewing the white edge onto the blue fabric pieces, cutting the thread with snips, and checking the phone between actions.
+[00:02:57 - 00:02:59] The wearer uses the large scissors to cut the white strip.
+[00:02:59 - 00:04:30] The wearer repeats the sewing cycle multiple times, alternating between sewing pieces, cutting the thread with snips, and briefly watching the screen on their phone.
+[00:04:30 - 00:04:34] The wearer picks up the large scissors to cut the white strip.
+[00:04:34 - 00:04:59] The wearer resumes the sewing cycle, completing a few more pieces, cutting the threads with snips, and checking the phone.
+[00:04:59 - 00:05:03] The wearer uses the large scissors to cut the white strip.
+[00:05:03 - 00:05:22] The wearer continues the sewing and phone-checking cycle for a couple of pieces.
+[00:05:22 - 00:05:25] The wearer picks up the large scissors to cut the white strip.
+[00:05:25 - 00:06:53] The wearer repeats the cycle of aligning the blue fabric and white strip, sewing, cutting the thread with the snips, setting the fabric aside, and glancing at the phone. This sequence continues smoothly for several pieces.
+[00:06:53 - 00:06:56] The wearer uses the large scissors to cut the white strip.
+[00:06:56 - 00:07:22] The wearer goes back to the regular cycle of sewing pieces, cutting threads with snips, and looking at the phone.
+[00:07:22 - 00:07:25] The wearer picks up the large scissors and cuts the white strip.
+[00:07:25 - 00:08:33] The wearer continues the standard cycle, sewing the blue fabric and white strip, trimming the thread with snips, and checking the smartphone resting on their lap between pieces.
+[00:08:33 - 00:08:39] The wearer pauses the sewing task, shifts their attention to their lap, and uses a pen to write on a piece of paper or cardboard resting next to the phone.
+[00:08:39 - 00:09:14] The wearer resumes the sewing cycle, completing a few pieces, cutting the threads with snips, and checking the phone.
+[00:09:14 - 00:09:20] The wearer picks up the large scissors to cut the white strip.
+[00:09:20 - 00:09:34] The wearer sews another piece, cuts the thread with the snips, and checks the phone.
+[00:09:34 - 00:09:41] The wearer picks up the large scissors and cuts the white strip.
+[00:09:41 - 00:10:11] The wearer continues the cycle of sewing pieces, cutting the thread with snips, and glancing at the phone.
+[00:10:11 - 00:10:15] The wearer picks up the large scissors and cuts the white strip.
+[00:10:15 - 00:12:05] The wearer repeatedly performs the cycle of grabbing blue fabric, aligning it with the white strip, sewing them together, pulling the fabric out, cutting the thread with the small snips, and checking the phone on their lap.
+[00:12:05 - 00:12:08] The wearer picks up the large scissors and cuts the white strip.
+[00:12:08 - 00:12:51] The wearer resumes the regular sewing cycle, completing several pieces, using the snips to cut the thread, and checking the phone between actions.
+[00:12:51 - 00:12:56] The wearer picks up the large scissors and cuts the white strip.
+[00:12:56 - 00:14:38] The wearer continues the repeating cycle of sewing the white edge onto the blue fabric, cutting the thread with the snips, setting the finished pieces aside, and occasionally glancing at the phone screen.
+[00:14:38 - 00:14:41] The wearer picks up the large scissors and cuts the white strip.
+[00:14:41 - 00:15:09] The wearer returns to the sewing cycle, completing a few more pieces, trimming the threads with snips, and checking the phone.
+[00:15:09 - 00:15:15] The wearer reaches up to adjust the sewing machine's built-in light, then looks down at their phone.
+[00:15:15 - 00:17:15] The wearer repeatedly performs the standard cycle: aligning blue fabric and the white strip, sewing, pulling the fabric out, cutting the thread with the snips, and checking the phone between pieces.
+[00:17:15 - 00:17:17] The wearer picks up the large scissors and cuts the white strip.
+[00:17:17 - 00:18:14] The wearer resumes the cycle of sewing the blue fabric and white strip, cutting the threads with the snips, and watching the phone on their lap.
+[00:18:14 - 00:18:18] The wearer picks up the large scissors and cuts the white strip.
+[00:18:18 - 00:20:01] The wearer continues the steady cycle of aligning pieces under the sewing machine, sewing the white edge, cutting the thread with the small snips, placing the pieces aside, and glancing at the phone.

@@ -1,0 +1,83 @@
+[00:00:00 - 00:01:07] The wearer is standing at a metal workbench covered with orange copper wire coils and bare metal stator cores. Another person is visible working across the table. The wearer repeatedly picks up individual wire coils, threads white string through the loops, and ties knots to secure the coils' shape. They place each tied coil back onto the table.
+
+[00:01:07 - 00:01:21] The wearer picks up one of the tied copper wire coils from the workbench, turns away from the table, and walks towards a large automated winding machine.
+
+[00:01:21 - 00:01:47] At the winding machine, the wearer places the copper coil down onto the lower vertical tooling fingers of the machine. They then pick up a bare metal stator core and carefully slide it onto the upper central shaft of the machine, adjusting it until it is securely in position. 
+
+[00:01:47 - 00:01:54] The machine operates, pulling the coil into the stator core. The wearer grasps the stator core, which now has the copper coil wound tightly into its inner slots, and removes it from the central shaft.
+
+[00:01:54 - 00:02:07] The wearer carries the newly wound stator away from the machine, walks back to the metal workbench, and places it down among the other parts.
+
+[00:02:07 - 00:02:20] The wearer immediately picks up another tied copper coil from the table and walks back to the automated winding machine.
+
+[00:02:20 - 00:02:37] The wearer mounts the copper coil onto the machine's lower tooling fingers. They grab another bare stator core and slide it onto the central shaft, locking it into place.
+
+[00:02:37 - 00:02:44] The wearer holds the stator core with both hands and removes it from the machine, with the wire coil now fully inserted into the slots.
+
+[00:02:44 - 00:03:20] The wearer walks back to the workbench, places the wound stator down, and resumes picking up loose copper coils. They thread white string through the coils and tie knots to secure them, repeating this for a few coils.
+
+[00:03:20 - 00:03:42] The wearer grabs a tied coil, walks to the winding machine, and mounts it onto the lower tooling fingers. They then slide a bare stator core onto the upper central shaft.
+
+[00:03:42 - 00:03:59] After the machine finishes its cycle, the wearer pulls the wound stator off the central shaft, walks back to the workbench, and sets it down.
+
+[00:03:59 - 00:04:33] The wearer stays at the workbench, picking up multiple loose copper coils one by one, threading them with string, and tying secure knots to maintain their coiled shape.
+
+[00:04:33 - 00:05:00] The wearer takes a tied coil to the winding machine, places it onto the lower tooling, and then mounts a bare stator core onto the central shaft above it.
+
+[00:05:00 - 00:05:25] The wearer removes the freshly wound stator from the machine, turns around, and walks it back to the workbench, placing it with the others.
+
+[00:05:25 - 00:05:40] At the workbench, the wearer briefly ties another copper coil with white string.
+
+[00:05:40 - 00:06:21] The wearer carries a coil to the machine, mounts it on the lower tooling, and slides a stator core onto the central shaft. After the winding process, they remove the completed stator and hold it in their hands.
+
+[00:06:21 - 00:06:55] The wearer walks back to the workbench, drops the wound stator, and spends time threading and tying more loose copper coils with string.
+
+[00:06:55 - 00:07:37] The wearer picks up a tied coil, walks to the winding machine, mounts the coil on the bottom tooling, and secures a bare stator core on the central shaft. They pull the wound stator off the machine once finished.
+
+[00:07:37 - 00:08:08] The wearer returns to the workbench, places the stator down, and continues the process of tying white string around loose copper coils.
+
+[00:08:08 - 00:08:44] The wearer brings a coil to the machine, loads it onto the lower fingers, mounts a stator core onto the top shaft, and then removes the assembled wound stator after the machine operates.
+
+[00:08:44 - 00:09:21] Walking back to the workbench, the wearer sets the stator down and repeatedly ties knots around several copper coils.
+
+[00:09:21 - 00:09:50] The wearer takes a tied coil to the winding machine, loads it, mounts a stator core, and extracts the wound stator from the central shaft.
+
+[00:09:50 - 00:10:22] The wearer walks back to the workbench, places the stator down, and ties string around the remaining loose copper coils.
+
+[00:10:22 - 00:10:39] The wearer stops tying coils, picks up several of the completed wound stators from the workbench, and walks across the workshop floor.
+
+[00:10:39 - 00:10:53] The wearer arrives at a different workstation featuring a green machine with a rotating fixture. They place the stators down and mount one stator onto the fixture.
+
+[00:10:53 - 00:11:39] The wearer uses their fingers and a small tool to manually separate and route the colored lead wires (red, blue, black) extending from the stator windings, pulling them through the stator core to position them correctly.
+
+[00:11:39 - 00:12:00] The wearer picks up a pair of scissors and trims the ends of the colored lead wires, stripping the casing off the tips.
+
+[00:12:00 - 00:12:59] The wearer uses a pair of pliers to twist the exposed copper wire ends together. They then hold a soldering iron to solder the twisted connections, manipulating the wires carefully to ensure a solid joint.
+
+[00:12:59 - 00:13:13] The wearer removes the soldered stator from the rotating fixture and walks over to a nearby finishing and testing table.
+
+[00:13:13 - 00:13:48] The wearer places the stator onto a stand. They take a long piece of string and begin manually lacing the end turns of the copper windings, pulling the string tightly around the coils to bundle and secure them.
+
+[00:13:48 - 00:14:22] The wearer picks up a metal tool resembling a flathead screwdriver. They use it to firmly push white insulating wedges down deep into the stator slots, repeatedly rotating the stator to access and press down the wedges in every slot.
+
+[00:14:22 - 00:14:55] The wearer grabs scissors, cuts the remaining lacing string, and trims off any excess insulating paper or material protruding from the stator core.
+
+[00:14:55 - 00:15:46] The wearer connects the stator's lead wires to alligator clips attached to a testing panel. They observe the indicator lights on the panel to verify the electrical connections, then disconnect the alligator clips.
+
+[00:15:46 - 00:16:00] The wearer picks up a new, unprocessed wound stator and walks back to the green machine's rotating fixture, mounting it in place.
+
+[00:16:00 - 00:16:35] The wearer begins separating, pulling, and routing the lead wires on this new stator, arranging them for connection.
+
+[00:16:35 - 00:17:15] The wearer uses a lighter to burn the protective enamel coating off the ends of the thin copper wires. A small flame is visible as they hold the lighter to the wire tips.
+
+[00:17:15 - 00:17:42] The wearer slides small, cylindrical insulating sleeves over the stripped wire ends to protect the upcoming connections.
+
+[00:17:42 - 00:18:03] The wearer uses a soldering iron to apply solder to the wire connections, sealing them together.
+
+[00:18:03 - 00:18:38] The wearer moves the stator to the finishing stand and begins tightly lacing the copper end turns with string, wrapping and knotting it around the coil bundles.
+
+[00:18:38 - 00:19:07] The wearer uses the metal tool to forcefully push the white insulating wedges down into the stator slots, rotating the assembly to press every wedge securely over the copper wires.
+
+[00:19:07 - 00:19:40] The wearer connects the stator's lead wires to the testing panel's alligator clips, checks the illuminated indicator lights for a successful test, and then removes the clips.
+
+[00:19:40 - 00:20:00] The wearer performs final manual adjustments, pressing and shaping the copper windings with their thumbs to ensure everything is tightly packed and correctly aligned.

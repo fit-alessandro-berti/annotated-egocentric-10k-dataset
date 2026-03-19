@@ -1,0 +1,122 @@
+[00:00:00 - 00:00:04] The video begins with a view of a lathe machine. A person uses a small brush to sweep metal shavings off the carriage and tool post area.
+[00:00:04 - 00:00:10] The person picks up a handful of metal shavings and uses them to wipe down the orange metal part currently mounted in the lathe chuck. They then discard the shavings.
+[00:00:10 - 00:00:15] They pick up an orange, wheel-like metal part with a central hole and mount it onto the lathe chuck.
+[00:00:15 - 00:00:23] Using their hands, the person adjusts the position of the part on the chuck and manually spins it to check its alignment.
+[00:00:23 - 00:00:30] The person grabs a spanner and tightens the bolts on the chuck to secure the orange part in place.
+[00:00:30 - 00:00:39] They spin the chuck by hand a few times, then use the spanner again to further tighten the bolts.
+[00:00:39 - 00:00:46] They continue to use the spanner on different bolts of the chuck to ensure the part is firmly clamped.
+[00:00:46 - 00:00:54] The person rotates the chuck by hand to check the part's rotation.
+[00:00:54 - 00:01:00] They adjust a lever on the lathe to engage the machine, causing the chuck to start spinning.
+[00:01:00 - 00:01:13] The person holds a small, rectangular tool against the inner edge of the spinning orange part to clean or deburr it.
+[00:01:13 - 00:01:23] They grab the spanner, loosen the bolts on the chuck, and stop the machine.
+[00:01:23 - 00:01:28] They remove the orange part from the chuck and place it down off-screen.
+[00:01:28 - 00:01:34] The person picks up another similar orange part and places it onto the chuck.
+[00:01:34 - 00:01:42] They adjust the new part on the chuck with their hands.
+[00:01:42 - 00:01:50] Using the spanner, they tighten the bolts on the chuck to secure the new part.
+[00:01:50 - 00:01:56] They finish tightening the bolts and place the spanner down on the carriage.
+[00:01:56 - 00:02:10] The person picks up a small brush and sweeps away metal shavings from the tool post and carriage area.
+[00:02:10 - 00:02:22] They pick up a large spanner, loosen the bolt on top of the tool post, rotate the tool post slightly, and then tighten the bolt back down.
+[00:02:22 - 00:02:37] They grab an L-shaped hex key, adjust a screw on the side of the tool holder, and then put the key away.
+[00:02:37 - 00:02:44] The person turns the handwheel on the carriage to move it closer to the spinning chuck.
+[00:02:44 - 00:03:00] They hold a small measuring tool or scraper against the spinning orange part to check its surface, holding it there continuously.
+[00:03:00 - 00:03:26] The person uses the handwheels on the carriage to position the cutting tool and engage the feed. The machine begins cutting the face of the orange part, producing long metal shavings.
+[00:03:26 - 00:03:32] They disengage the feed, move the carriage back using the handwheel, and use the large spanner to loosen and rotate the tool post.
+[00:03:32 - 00:03:40] They pick up another unmachined orange part, hold it briefly near the tool post as a reference, and then set it down.
+[00:03:40 - 00:03:47] The person uses the spanner to loosen the chuck bolts and removes the machined orange part.
+[00:03:47 - 00:03:57] They turn the handwheels to move the carriage further away from the chuck.
+[00:03:57 - 00:04:09] They grab the spanner again and loosen the top bolt of the tool post to adjust its angle, then tighten it.
+[00:04:09 - 00:04:19] The person rotates the handwheels to reposition the carriage and cross-slide.
+[00:04:19 - 00:04:24] They briefly inspect the chuck area.
+[00:04:24 - 00:04:30] They pick up an orange part, hold it against the tool post to check the setup, and put it down.
+[00:04:30 - 00:04:47] They continue adjusting the carriage position using the handwheels while the machine is running.
+[00:04:47 - 00:04:53] They stop the rotation and use the spanner to loosen the chuck.
+[00:04:53 - 00:04:58] The person removes a part from the chuck and sets it aside.
+[00:04:58 - 00:05:24] They pick up a new unmachined orange part, place it into the chuck, and use the spanner to tighten the bolts, spinning the chuck by hand to tighten multiple sides.
+[00:05:24 - 00:05:35] They rotate the carriage handwheels to move the cutting tool close to the newly mounted part.
+[00:05:35 - 00:05:59] The person engages the feed, and the tool cuts across the face of the spinning orange part, generating metal shavings. They make small adjustments with the handwheels during the cut.
+[00:05:59 - 00:06:12] The cut finishes, they move the tool away, loosen the chuck with the spanner, and remove the finished part.
+[00:06:12 - 00:06:23] The person holds a finished part and walks over to a metal bin or cart nearby to deposit it.
+[00:06:23 - 00:06:29] The person stands near the cart, reaching down to pick up a new unmachined orange part from a pile.
+[00:06:29 - 00:06:33] They walk back to the lathe machine holding the new part.
+[00:06:33 - 00:06:40] They mount the new part onto the chuck and use the spanner to tighten it down securely.
+[00:06:40 - 00:06:58] The person turns the carriage handwheels to position the cutting tool and begins machining the face of the part.
+[00:06:58 - 00:07:05] After the cut, they move the carriage back, use the spanner to loosen the chuck, and remove the part.
+[00:07:05 - 00:07:12] They immediately pick up another unmachined part and place it into the chuck.
+[00:07:12 - 00:07:22] They use the spanner to tighten the chuck bolts, securing the new part.
+[00:07:22 - 00:07:37] They turn the handwheels to position the tool and machine the part's face.
+[00:07:37 - 00:07:48] Once the cut is done, they move the tool back, loosen the chuck with the spanner, and remove the part.
+[00:07:48 - 00:07:56] They grab the next unmachined part, mount it in the chuck, and tighten it with the spanner.
+[00:07:56 - 00:08:03] They position the carriage and start cutting the part.
+[00:08:03 - 00:08:13] The person finishes the cut, moves the carriage away, loosens the chuck, and takes the part out.
+[00:08:13 - 00:08:22] They pick up another part and mount it onto the chuck.
+[00:08:22 - 00:08:28] They use the spanner to tighten the chuck bolts.
+[00:08:28 - 00:08:43] The person looks towards a blue cabinet, seems to organize some parts, then turns back to the lathe and re-tightens the chuck bolts.
+[00:08:43 - 00:08:49] They pick up a finished part and toss it onto the floor next to other finished parts.
+[00:08:49 - 00:08:58] They mount a new part into the chuck and use the spanner to tighten it.
+[00:08:58 - 00:09:04] The person holds a small scraper tool against the spinning part to deburr or clean the edge.
+[00:09:04 - 00:09:12] They look around briefly, then turn back to the chuck and use the spanner to ensure it is tight.
+[00:09:12 - 00:09:25] They apply the small scraper tool again to the spinning part's inner edge.
+[00:09:25 - 00:09:31] The person glances to the right side of the workspace, then turns back to the machine.
+[00:09:31 - 00:09:41] They grab the spanner, loosen the chuck, and remove the part.
+[00:09:41 - 00:09:47] They pick up a new part and mount it in the chuck.
+[00:09:47 - 00:09:59] They rotate the handwheels to move the carriage and tool post into position.
+[00:09:59 - 00:10:06] They use the spanner to tighten the chuck bolts.
+[00:10:06 - 00:10:19] The person adjusts the tool post position using a spanner, then moves the carriage handwheels to start machining.
+[00:10:19 - 00:10:35] They continuously adjust the cross-slide and carriage handwheels to control the cut on the spinning part.
+[00:10:35 - 00:10:41] They stop machining, loosen the chuck with the spanner, and remove the part.
+[00:10:41 - 00:10:53] The person picks up a small brush and sweeps metal shavings off the tool post and carriage.
+[00:10:53 - 00:10:59] They use an Allen key to adjust a screw on the side of the tool holder.
+[00:10:59 - 00:11:04] They use the large spanner to adjust the top bolt of the tool post.
+[00:11:04 - 00:11:19] The person rotates the handwheels to reposition the carriage.
+[00:11:19 - 00:11:32] They mount a new unmachined part into the chuck and tighten the bolts with the spanner.
+[00:11:32 - 00:11:42] They turn the handwheels to position the cutting tool and begin machining the face of the part.
+[00:11:42 - 00:11:53] After finishing the cut, they move the tool back, loosen the chuck with the spanner, and remove the part.
+[00:11:53 - 00:12:00] The person uses the large spanner to adjust the angle of the tool post.
+[00:12:00 - 00:12:08] They turn the carriage handwheels to move the carriage slightly.
+[00:12:08 - 00:12:23] They pick up another part, mount it in the chuck, and use the spanner to tighten it securely.
+[00:12:23 - 00:12:35] They move the carriage using the handwheels and machine the face of the spinning part.
+[00:12:35 - 00:12:43] The person moves the carriage away, loosens the chuck bolts, and removes the part.
+[00:12:43 - 00:12:50] They grab the next part, place it in the chuck, and tighten it with the spanner.
+[00:12:50 - 00:13:06] They adjust the carriage handwheels to position the tool and machine the part.
+[00:13:06 - 00:13:16] After the cut, they move the carriage back, loosen the chuck, and extract the part.
+[00:13:16 - 00:13:25] They place a new part into the chuck and tighten it using the spanner.
+[00:13:25 - 00:13:34] The person rotates the handwheels to bring the tool in and machines the spinning part.
+[00:13:34 - 00:13:42] They back the tool off, loosen the chuck bolts with the spanner, and remove the part.
+[00:13:42 - 00:13:49] They pick up another unmachined part, mount it, and tighten the chuck.
+[00:13:49 - 00:14:02] They adjust the handwheels to position the tool and perform the cutting operation on the part's face.
+[00:14:02 - 00:14:09] They move the carriage away, loosen the chuck, and take the part out.
+[00:14:09 - 00:14:18] The person mounts a new part into the chuck and tightens it with the spanner.
+[00:14:18 - 00:14:31] They position the carriage using the handwheels and machine the part.
+[00:14:31 - 00:14:39] They back the tool away, use the spanner to loosen the chuck, and remove the part.
+[00:14:39 - 00:14:48] They mount the next part into the chuck and tighten the bolts.
+[00:14:48 - 00:15:00] They adjust the handwheels to bring the cutting tool to the part and machine it.
+[00:15:00 - 00:15:10] The person looks briefly to their right, then turns back, loosens the chuck with the spanner, and removes the part.
+[00:15:10 - 00:15:18] They pick up a new part, place it in the chuck, and tighten it.
+[00:15:18 - 00:15:35] They move the carriage into position using the handwheels and machine the part.
+[00:15:35 - 00:15:42] They move the tool back, loosen the chuck, and remove the part.
+[00:15:42 - 00:15:52] They mount another part into the chuck and use the spanner to tighten it.
+[00:15:52 - 00:16:03] They position the tool with the handwheels and machine the face of the part.
+[00:16:03 - 00:16:11] After the cut, they back the tool away, loosen the chuck, and remove the part.
+[00:16:11 - 00:16:20] The person places a new part into the chuck and tightens it with the spanner.
+[00:16:20 - 00:16:32] They turn the handwheels to bring the tool in and machine the part.
+[00:16:32 - 00:16:42] They finish the cut, move the carriage back, loosen the chuck, and take out the part.
+[00:16:42 - 00:16:51] They grab the next part, mount it in the chuck, and tighten the bolts.
+[00:16:51 - 00:17:04] They adjust the handwheels to position the tool and perform the machining operation.
+[00:17:04 - 00:17:15] They back the tool off, loosen the chuck with the spanner, and remove the part.
+[00:17:15 - 00:17:26] They pick up another part, mount it, and tighten the chuck securely.
+[00:17:26 - 00:17:37] They turn the handwheels to start cutting the newly mounted part.
+[00:17:37 - 00:17:46] Once the machining is done, they move the carriage away, loosen the chuck, and remove the part.
+[00:17:46 - 00:17:58] The person mounts a new part into the chuck and tightens it with the spanner.
+[00:17:58 - 00:18:07] They take the small scraper tool and hold it against the inner edge of the spinning part to clean it.
+[00:18:07 - 00:18:16] The view points down as the person picks up a couple of finished parts from the floor.
+[00:18:16 - 00:18:24] They hold two orange parts in their hands and rub them together to clean or deburr them.
+[00:18:24 - 00:18:31] They take a new unmachined part, mount it in the chuck, and tighten the bolts with the spanner.
+[00:18:31 - 00:18:41] They grab the small scraper tool and apply it to the spinning part to clean the edge.
+[00:18:41 - 00:18:50] They use the spanner to loosen the chuck and remove the part.
+[00:18:50 - 00:18:58] They mount another part in the chuck and tighten it down with the spanner.
+[00:18:58 - 00:19:12] They use the small scraper tool on the spinning part, then turn off the lathe's rotation.
+[00:19:12 - 00:19:22] They use a spanner to loosen the chuck jaws and remove the part.
+[00:19:22 - 00:19:32] The person mounts a new part into the chuck and tightens it with the spanner.
+[00:19:32 - 00:19:48] They look slightly to the right handling tools off-screen, then turn back, engage the lathe, and begin machining the part using the carriage handwheels.
+[00:19:48 - 00:19:57] After cutting, they move the tool back, use the large spanner to loosen the tool post, and use the brush to sweep away shavings.
+[00:19:57 - 00:20:00] They continue brushing the tool post and carriage to clear remaining metal shavings.
