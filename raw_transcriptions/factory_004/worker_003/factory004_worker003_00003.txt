@@ -1,0 +1,127 @@
+[00:00:00 - 00:01:25] The wearer is seated at a sewing machine, continuously sewing white garments. They repeatedly pick up pieces of white fabric from a large pile on their left, align the edges, feed them under the presser foot of the sewing machine, guide the fabric through with both hands, and drop the sewn pieces.
+
+[00:01:25 - 00:01:34] The wearer stands up and walks through the factory floor, passing cardboard boxes and large bags of garments on the ground.
+
+[00:01:34 - 00:01:54] The wearer approaches another workstation and stands nearby, watching a coworker in a bright orange shirt who is seated and sewing pink garments.
+
+[00:01:54 - 00:02:03] The wearer picks up a small piece of pink fabric and manipulates it with their hands, folding and inspecting it.
+
+[00:02:03 - 00:02:11] The wearer walks back toward the coworker in the orange shirt and stands behind them again.
+
+[00:02:11 - 00:02:14] The wearer turns and briefly walks away from the workstation.
+
+[00:02:14 - 00:02:37] The wearer returns to stand behind the coworker in the orange shirt, looking over their shoulder as they continue to sew the pink garments.
+
+[00:02:37 - 00:02:46] The wearer holds a piece of pink fabric, folding it and preparing it with their fingers.
+
+[00:02:46 - 00:03:00] The wearer walks to a different table with a sewing machine, places the pink fabric down, picks up a pair of scissors, and cuts the fabric.
+
+[00:03:00 - 00:03:07] The wearer picks up the cut pieces of pink fabric and walks away from the table.
+
+[00:03:07 - 00:03:10] The wearer walks past another coworker wearing a green patterned shirt who is working on pink garments.
+
+[00:03:10 - 00:03:22] The wearer stands behind the coworker in the orange shirt one more time, observing their sewing work.
+
+[00:03:22 - 00:03:30] The wearer is seated at their own sewing machine again. They reach out and pull a large pile of pink garments closer to their working area.
+
+[00:03:30 - 00:04:59] The wearer begins sewing the pink garments. They repeatedly pick up pieces of pink fabric, align them, and feed them into the sewing machine, which attaches a black trim along the edge. They guide the fabric through and drop the finished pieces.
+
+[00:04:59 - 00:05:08] The wearer grabs a large bunch of the sewn pink garments and shifts the pile around to organize their workspace.
+
+[00:05:08 - 00:05:14] The wearer picks up a pair of scissors and trims loose threads from the pink garments they just finished sewing.
+
+[00:05:14 - 00:05:27] The wearer stands up, walks away from the machine, navigates through the factory passing boxes and other workstations, and then sits back down at a sewing machine with white garments.
+
+[00:05:27 - 00:06:26] The wearer resumes sewing white garments. They pick up fabric pieces, align them, run them through the machine, and drop them, repeating this process continuously.
+
+[00:06:26 - 00:06:28] The wearer reaches down to grab a fresh bundle of white garments to add to their pile.
+
+[00:06:28 - 00:07:05] The wearer continues the repetitive process of picking, aligning, and sewing white garments.
+
+[00:07:05 - 00:07:08] The wearer pauses sewing to grab a large handful of white garments and pull them closer.
+
+[00:07:08 - 00:07:18] The continuous sewing of white garments resumes.
+
+[00:07:18 - 00:07:22] The wearer uses both hands to gather a bunch of white garments and shift them on the table.
+
+[00:07:22 - 00:08:30] The wearer continues sewing white garments, feeding pieces through the machine one after another.
+
+[00:08:30 - 00:08:37] The wearer stops to grab a large section of the white garment pile and adjust its position.
+
+[00:08:37 - 00:09:10] The repetitive sewing of white garments continues.
+
+[00:09:10 - 00:09:18] The wearer gathers a large amount of white fabric with both hands and moves the pile closer.
+
+[00:09:18 - 00:09:40] The wearer resumes feeding white fabric pieces into the sewing machine.
+
+[00:09:40 - 00:09:46] The wearer pauses to adjust and pull a large bunch of white garments towards themselves.
+
+[00:09:46 - 00:10:04] The continuous sewing of white garments resumes.
+
+[00:10:04 - 00:10:19] The wearer stands up, walks through the factory, passes a coworker in a blue sari, and then sits back down at their machine.
+
+[00:10:19 - 00:10:22] Upon sitting, the wearer immediately grabs a large pile of white garments and shifts them.
+
+[00:10:22 - 00:10:26] The wearer stands up again and briefly walks away from the machine.
+
+[00:10:26 - 00:10:37] The wearer sits back down and sews a few pieces of white garments.
+
+[00:10:37 - 00:10:44] The wearer stands up and walks across the factory floor again.
+
+[00:10:44 - 00:10:55] The wearer stands near a large pile of white garments on a table, next to another coworker.
+
+[00:10:55 - 00:11:11] The wearer walks back to their workstation, carrying some white garments, and sits down.
+
+[00:11:11 - 00:12:04] The wearer resumes the repetitive task of picking, aligning, and sewing white garments.
+
+[00:12:04 - 00:12:11] The wearer grabs a large bunch of white garments, stands up, and walks away briefly.
+
+[00:12:11 - 00:12:54] The wearer is back at the sewing machine, continuing to sew white garments.
+
+[00:12:54 - 00:13:01] The wearer pauses to pull a large bunch of white garments from the pile closer to the machine.
+
+[00:13:01 - 00:13:40] The continuous sewing of white garments resumes.
+
+[00:13:40 - 00:13:48] The wearer gathers a large amount of white fabric and shifts the pile.
+
+[00:13:48 - 00:14:12] The wearer continues feeding white fabric pieces into the sewing machine.
+
+[00:14:12 - 00:14:19] The wearer pauses to adjust and pull a large bunch of white garments towards themselves.
+
+[00:14:19 - 00:14:45] The repetitive sewing of white garments continues.
+
+[00:14:45 - 00:14:52] The wearer gathers a large amount of white fabric and shifts the pile.
+
+[00:14:52 - 00:15:21] The wearer continues feeding white fabric pieces into the sewing machine.
+
+[00:15:21 - 00:15:28] The wearer pauses to adjust and pull a large bunch of white garments towards themselves.
+
+[00:15:28 - 00:16:04] The repetitive sewing of white garments continues.
+
+[00:16:04 - 00:16:13] The wearer gathers a large amount of white fabric and shifts the pile.
+
+[00:16:13 - 00:16:24] The wearer continues feeding white fabric pieces into the sewing machine.
+
+[00:16:24 - 00:16:32] The wearer pauses to adjust and pull a large bunch of white garments towards themselves.
+
+[00:16:32 - 00:16:47] The repetitive sewing of white garments continues.
+
+[00:16:47 - 00:16:59] The wearer gathers a large amount of white fabric and shifts the pile.
+
+[00:16:59 - 00:17:18] The wearer continues feeding white fabric pieces into the sewing machine.
+
+[00:17:18 - 00:17:28] The wearer stands up, walks around, passes a table with pink garments, and returns to their seat.
+
+[00:17:28 - 00:18:06] The wearer resumes sewing white garments.
+
+[00:18:06 - 00:18:18] The wearer stands up, walks around carrying some garments, and sits back down at a machine, but the fabric is now pink.
+
+[00:18:18 - 00:18:45] The wearer begins sewing pink garments, attaching a black trim along the edges just like before.
+
+[00:18:45 - 00:18:51] The wearer pauses to grab a large bunch of pink garments and pull them closer.
+
+[00:18:51 - 00:19:08] The continuous sewing of pink garments with black trim resumes.
+
+[00:19:08 - 00:19:15] The wearer gathers a large amount of pink fabric and shifts the pile.
+
+[00:19:15 - 00:19:59] The wearer continues the repetitive process of picking, aligning, and sewing pink garments with black trim until the video ends.
