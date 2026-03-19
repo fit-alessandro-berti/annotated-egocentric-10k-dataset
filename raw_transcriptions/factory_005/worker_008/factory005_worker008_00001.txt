@@ -1,0 +1,38 @@
+[00:00:00 - 00:00:19] The wearer is operating a drilling machine on a red, irregularly shaped metal part. They hold the part with a gloved left hand, lower the rotating tool into the center hole, raise the tool, pick up the part, and inspect it.
+[00:00:19 - 00:00:30] The wearer turns, walks over to a large wire mesh bin, places the finished red part inside, and walks back to the machine, passing another worker in a tan uniform.
+[00:00:30 - 00:00:54] The wearer picks up a new red part from the machine bed, positions it under the drill, lowers the tool to machine the hole, raises the tool, and uses a small hand tool to clean the edges of the newly machined hole.
+[00:00:54 - 00:01:03] The wearer lifts the part, carries it to the wire bin, stacks it inside, and returns to the machine area.
+[00:01:03 - 00:01:28] The wearer positions another red part under the drill, machines the center hole, and uses the small hand tool to scrape and clean the edges.
+[00:01:28 - 00:01:47] The wearer carries the finished part to the wire bin, places it on the stack, and walks back to the machine.
+[00:01:47 - 00:02:14] The wearer places a new part under the drill, machines the hole, and cleans the edges with the small hand tool.
+[00:02:14 - 00:02:29] The wearer carries the part to the wire bin, adds it to the stack, and returns to the work area.
+[00:02:29 - 00:02:52] Another red part is positioned on the machine bed, the hole is drilled, and the edges are cleaned with the small hand tool.
+[00:02:52 - 00:03:31] The wearer leaves the part, walks over to a nearby trolley holding stacks of red parts, threads a long metal bar through the center holes of a stack, lifts the entire stack, carries it over to the machine area, and places it down.
+[00:03:31 - 00:03:55] The wearer returns to the trolley, threads the metal bar through another stack of parts, lifts it, carries it, and places it next to the previous stack near the machine.
+[00:03:55 - 00:04:49] The wearer picks up a part from the newly brought stack, places it on the machine bed, lowers the drill to machine the hole, and cleans the edges with the small hand tool.
+[00:04:49 - 00:05:27] The wearer carries the finished part to the wire bin and stacks it. They then walk over to the other worker who is using a grinder on a part, and the wearer stands there observing the process.
+[00:05:27 - 00:05:57] The wearer returns to their machine, positions a new part, machines the hole, and cleans the edges.
+[00:05:57 - 00:06:47] The wearer carries the part to the wire bin, places it, and then walks back to the other worker. The wearer watches the grinding process, picks up a finished ground part to inspect it, and continues waiting.
+[00:06:47 - 00:07:13] The wearer returns to their drilling machine, positions a part, machines the hole, and cleans the edges.
+[00:07:13 - 00:07:20] The wearer carries the finished part to the wire bin and adds it to the stack.
+[00:07:20 - 00:07:52] The wearer walks to the other worker's station, picks up a freshly ground part, brings it to their own machine, positions it, machines the hole, and cleans the edges.
+[00:07:52 - 00:08:26] The wearer carries the part to the wire bin, places it, walks back to the other worker's station, waits briefly, picks up another ground part, returns to their machine, machines the hole, and cleans it.
+[00:08:26 - 00:09:15] The wearer takes the finished part to the wire bin, then walks to the trolley, threads the metal bar through a stack of raw parts, lifts it, carries it to the other worker's station, places it down, and returns to their own machine.
+[00:09:15 - 00:09:40] The wearer grabs a part, positions it on the machine bed, drills the hole, and cleans the edges.
+[00:09:40 - 00:10:04] The wearer walks over to the other worker's station, picks up a brush, sweeps metal shavings off the work table, waits while the other worker grinds a part, and then picks up a finished ground part.
+[00:10:04 - 00:10:48] The wearer brings the part to their machine, positions it, drills the hole, and cleans the edges with the small hand tool.
+[00:10:48 - 00:11:03] The wearer carries the part to the wire bin, places it, walks back to the other worker's station, and uses the brush to sweep the table again.
+[00:11:03 - 00:11:36] The wearer takes a ground part from the table, walks to their machine, positions it, drills the hole, cleans the edges, carries the finished part to the wire bin, and stacks it.
+[00:11:36 - 00:12:08] The wearer walks to the trolley, threads the metal bar through a stack of raw parts, lifts it, carries it to the other worker's station, places it down, and walks back to their machine.
+[00:12:08 - 00:12:56] The wearer takes a part, positions it under the drill, machines the hole, cleans the edges, carries the finished part to the wire bin, stacks it, and returns to the other worker's station.
+[00:12:56 - 00:13:38] The wearer uses a cloth to wipe metal dust off the other worker's table, picks up a ground part, brings it to their machine, drills the hole, and cleans the edges.
+[00:13:38 - 00:14:14] The wearer carries the finished part to the wire bin, walks back to the other worker's station, wipes the table with a cloth, takes a part, returns to their machine, drills the hole, and cleans it.
+[00:14:14 - 00:14:50] The wearer takes the part to the wire bin, walks to the other worker's station, wipes the table with the cloth, picks up a part, returns to their machine, drills the hole, and cleans the edges.
+[00:14:50 - 00:15:23] The wearer carries the part to the wire bin, returns to the other worker's station, wipes the table, picks up a part, walks to their machine, machines the hole, and cleans it.
+[00:15:23 - 00:16:03] The wearer takes the finished part to the wire bin, walks to the other worker's station, wipes the table, grabs a part, returns to their machine, drills the hole, cleans the edges, and carries the part to the wire bin.
+[00:16:03 - 00:16:45] The wearer walks to the trolley, threads the metal bar through a stack of parts, carries the stack to the other worker's station, places it down, returns to their machine, machines a part, cleans it, and takes it to the wire bin.
+[00:16:45 - 00:17:18] The wearer walks to the other worker's station, wipes the table with a cloth, picks up a part, returns to their machine, drills the hole, cleans it, and carries the finished part to the wire bin.
+[00:17:18 - 00:17:53] The wearer goes to the other worker's station, wipes the table, takes a part, returns to their machine, machines the hole, cleans the edges, and carries the part to the wire bin.
+[00:17:53 - 00:18:33] The wearer visits the other worker's station, wipes the table, picks up a part, returns to their machine, drills the hole, cleans it, and takes the finished part to the wire bin.
+[00:18:33 - 00:19:18] The wearer walks to the trolley, threads the metal bar through a stack of parts, carries the stack to the other worker's station, places it down, returns to their machine, machines a part, cleans it, and carries it to the wire bin.
+[00:19:18 - 00:20:00] The wearer walks to the other worker's station, wipes the table with a cloth, picks up a part, returns to their machine, drills the hole, cleans the edges, and carries the finished part to the wire bin.

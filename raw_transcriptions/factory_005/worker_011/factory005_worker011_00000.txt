@@ -1,0 +1,56 @@
+[00:00:00 - 00:00:08] The wearer approaches a table where a woman in a blue shirt is working with metal parts and a dial indicator. The wearer gestures towards the parts on the table and then walks away.
+[00:00:08 - 00:00:32] The wearer walks past a person standing near wire bins and approaches a CNC machine. The wearer touches the control panel and then opens the machine door.
+[00:00:32 - 00:00:46] The wearer reaches into the machine, handles a part inside, closes the door, presses buttons on the control panel to start it, and walks away.
+[00:00:46 - 00:01:23] The wearer walks over to a group of men, one wearing a blue and white striped shirt, and points while talking to them.
+[00:01:23 - 00:01:46] The wearer walks back past the bins filled with metal parts and returns to the work table next to the CNC machine.
+[00:01:46 - 00:02:04] The wearer picks up a metal part from the table, inspects it briefly, places it back down, and then walks towards the bins.
+[00:02:04 - 00:02:22] The wearer returns to the table, handles the parts, looks at the dial indicator, and adjusts the parts again.
+[00:02:22 - 00:02:44] The wearer walks to the CNC machine's control panel, presses buttons, opens the door, looks inside, then walks back to the table and picks up a raw part.
+[00:02:44 - 00:03:00] The wearer brings the raw part to the machine, inserts it into the chuck, closes the door, presses the start button on the panel, and waits.
+[00:03:00 - 00:03:10] The wearer walks away from the machine to look inside the wire bins holding raw and finished parts.
+[00:03:10 - 00:03:32] The wearer walks back to the table, picks up another raw part, and moves back to the CNC machine.
+[00:03:32 - 00:03:45] The wearer opens the machine door, places the part inside, closes the door, and presses buttons on the control panel.
+[00:03:45 - 00:03:52] The wearer takes a finished part from the machine to the table and places it under the dial indicator. The woman in blue is also present at the table.
+[00:03:52 - 00:04:06] The wearer picks up a blue glove from the table and puts it on their right hand.
+[00:04:06 - 00:04:24] The wearer waits in front of the machine, then opens the machine door.
+[00:04:24 - 00:04:46] The wearer reaches into the machine, removes the finished part, inserts a raw part, closes the door, presses the panel button to start the cycle, and brings the finished part to the table.
+[00:04:46 - 00:05:01] At the table, the wearer uses the dial indicator to measure the finished part, then stacks it on top of other finished parts.
+[00:05:01 - 00:05:28] The wearer walks to the bins, picks up a raw part, brings it back to the table, and waits by the machine.
+[00:05:28 - 00:05:46] The wearer opens the machine door, swaps the finished part for the raw part, closes the door, starts the machine cycle from the panel, and brings the finished part to the table.
+[00:05:46 - 00:06:05] The wearer measures the newly finished part with the dial indicator, stacks it, and walks back to the bins.
+[00:06:05 - 00:06:18] The wearer picks up another raw part from the bin and brings it to the table.
+[00:06:18 - 00:06:40] The wearer waits, then opens the machine door, swaps the parts, closes the door, starts the cycle, and brings the finished part to the table.
+[00:06:40 - 00:06:58] The wearer checks the finished part under the dial indicator, stacks it with the others, and walks to the bins.
+[00:06:58 - 00:07:11] The wearer takes a raw part from the bin, brings it to the table, and waits. A man in a blue and white striped shirt walks past.
+[00:07:11 - 00:07:29] The wearer opens the machine door, swaps parts, closes the door, presses the start button, and moves to the table with the finished part.
+[00:07:29 - 00:07:54] The wearer measures the finished part, stacks it, walks to the bin to get another raw part, and brings it back to the table.
+[00:07:54 - 00:08:26] The wearer steps away from the machine, talks briefly to the man in the striped shirt, returns to the machine, and looks closely at a paper attached to its side.
+[00:08:26 - 00:08:38] The wearer touches the paper on the machine and examines it.
+[00:08:38 - 00:08:56] The wearer stands in front of the machine, waiting for the cycle to finish.
+[00:08:56 - 00:09:22] The wearer presses buttons on the control panel, looks back at the paper on the side of the machine, and points at it.
+[00:09:22 - 00:09:44] The wearer walks away, talks to the man in the blue shirt again, returns to the machine, and interacts with the control panel.
+[00:09:44 - 00:10:11] The wearer takes a cloth and wipes down the parts on the table, then stacks them. The man in the striped shirt walks past again.
+[00:10:11 - 00:10:41] The wearer waits briefly, then walks over to a different machine where the man in the striped shirt is working, and they converse.
+[00:10:41 - 00:11:24] The wearer returns to their machine area, waits, looks at the bins, and walks around the workspace.
+[00:11:24 - 00:11:51] The wearer picks up a stack of finished parts from the table, walks towards the bins, but turns back and places the stack back on the table.
+[00:11:51 - 00:12:07] The wearer walks around the immediate area and returns to stand by the machine.
+[00:12:07 - 00:12:35] The wearer stands at the table, organizing and adjusting the stacked parts.
+[00:12:35 - 00:12:56] The wearer waits by the machine, presses buttons on the control panel, and reads the paper attached to the machine again.
+[00:12:56 - 00:13:20] The wearer uses a cloth to wipe down parts on the table and stacks them neatly.
+[00:13:20 - 00:13:58] The wearer waits by the machine, looking at the control panel and reading the attached paper.
+[00:13:58 - 00:14:26] The wearer walks away from the machine, talks to someone off-camera, and then walks back.
+[00:14:26 - 00:14:51] The wearer returns to the table, moves parts around, and wipes them with the cloth.
+[00:14:51 - 00:15:25] The wearer waits, opens the machine door, swaps a finished part for a raw one, closes the door, starts the cycle, and brings the finished part to the table.
+[00:15:25 - 00:15:52] The wearer checks the finished part with the dial indicator and stacks it.
+[00:15:52 - 00:16:03] The wearer walks to the bins, grabs a raw part, and brings it to the table.
+[00:16:03 - 00:16:16] The wearer opens the machine door, swaps the parts, closes it, starts the machine, and brings the finished part to the table.
+[00:16:16 - 00:16:45] The wearer uses the dial indicator to measure the finished part, then stacks it.
+[00:16:45 - 00:17:09] The wearer takes the cloth, wipes parts on the table, and walks over to the bins.
+[00:17:09 - 00:17:29] The wearer takes a raw part from the bin, places it on the table, and walks around waiting.
+[00:17:29 - 00:17:51] The wearer opens the machine door, removes the finished part, inserts the raw part, closes the door, presses start, and moves to the table with the finished part.
+[00:17:51 - 00:18:29] The wearer takes off the glove, walks away briefly to talk to someone, returns to the table, puts the glove back on, and measures the finished part with the dial indicator.
+[00:18:29 - 00:18:41] The wearer stands in front of the machine, waiting.
+[00:18:41 - 00:19:07] The wearer moves to the table and uses the cloth to wipe the parts.
+[00:19:07 - 00:19:25] The wearer opens the machine door, swaps parts, closes the door, starts the machine, and takes the finished part to the table.
+[00:19:25 - 00:19:41] The wearer measures the finished part with the dial indicator and stacks it on the table.
+[00:19:41 - 00:20:00] The wearer wipes the parts on the table with the cloth, then points towards the machine's control panel.

@@ -1,0 +1,60 @@
+[00:00:00 - 00:00:16] The video begins with the person standing in front of a running lathe machine, observing as it machines a red metal part mounted in the chuck.
+[00:00:16 - 00:01:05] The person steps back, turns away from the lathe, and walks over to a nearby storage rack holding several red metal parts. They stand there, observing another worker in the background, waiting for the machining cycle to finish.
+[00:01:05 - 00:01:24] The person turns and walks back to their lathe, standing in front of it to monitor the ongoing machining process. They reach out and turn a handwheel on the carriage to adjust the tool position.
+[00:01:24 - 00:01:31] They pick up an air hose from the right and blow compressed air onto the spinning part to clear away metal shavings and coolant.
+[00:01:31 - 00:01:45] The person picks up a large wrench and uses it to loosen the nut securing the part in the fixture. After the initial turns with the wrench, they finish unscrewing the nut and remove a washer by hand.
+[00:01:45 - 00:01:53] They pull the finished red metal part off the fixture, turn around, walk over to the storage rack, and place the completed part down.
+[00:01:53 - 00:02:00] They pick up a new, unmachined red metal part from the rack, turn, and walk back to the lathe.
+[00:02:00 - 00:02:11] The person mounts the new part onto the lathe's fixture, adjusting it into place, then threads the washer and nut onto the central rod by hand.
+[00:02:11 - 00:02:19] They pick up the large wrench to tighten the nut securely. They then turn handwheels and pull a lever to engage the machine, starting the spindle and the cutting process.
+[00:02:19 - 00:02:29] The lathe runs, producing smoke or mist from the cutting fluid. The person stands and observes the operation.
+[00:02:29 - 00:03:07] They make a minor adjustment using a handwheel, then step back slightly, continuing to monitor the automated machining cycle.
+[00:03:07 - 00:04:01] The person steps away from the machine entirely, walking over to the storage rack. They stand near the rack, looking around and watching the other worker in the shop while their lathe continues running.
+[00:04:01 - 00:04:25] They turn and walk back to the lathe, standing in front of it to observe the final stages of the cycle, occasionally touching a handwheel.
+[00:04:25 - 00:04:33] They pick up the air hose and blow compressed air over the part to clean it. They then grab the large wrench and loosen the securing nut.
+[00:04:33 - 00:04:43] They finish unscrewing the nut by hand, remove the washer, and pull the finished part off the machine fixture.
+[00:04:43 - 00:04:48] They turn around, carry the part to the storage rack, and set it down.
+[00:04:48 - 00:04:59] They pick up a fresh red metal part from the rack, return to the lathe, and mount it onto the fixture.
+[00:04:59 - 00:05:08] They place the washer and nut onto the threaded rod, tightening them initially by hand and then securing them firmly with the large wrench.
+[00:05:08 - 00:05:25] They engage the lathe using levers and handwheels, starting the spindle. They stand and watch the machining process.
+[00:05:25 - 00:06:06] The person steps away from the machine, walking back to the rack area. They stand there, observing the other worker operating a different machine nearby.
+[00:06:06 - 00:06:42] They return to their lathe and stand in front of it, occasionally turning a handwheel to adjust the tool feed as the machine runs.
+[00:06:42 - 00:07:00] The person steps away again, walking to the rack area and waiting.
+[00:07:00 - 00:07:53] They walk back to the lathe and stand monitoring the process. They make adjustments with the carriage handwheels.
+[00:07:53 - 00:08:02] They pick up the air hose to blow off the metal shavings, then grab the wrench to loosen the central nut.
+[00:08:02 - 00:08:13] They manually finish unscrewing the nut, take off the washer, and remove the machined part from the fixture.
+[00:08:13 - 00:08:19] They turn, carry the part to the rack, place it down, and pick up an unmachined part.
+[00:08:19 - 00:08:29] They walk back to the lathe, mount the new part on the fixture, and put the washer and nut back on, tightening them by hand.
+[00:08:29 - 00:08:34] They use the large wrench to tighten the nut completely.
+[00:08:34 - 00:08:55] They operate the handwheels and levers to start the machining cycle. The spindle rotates, and they observe the cut.
+[00:08:55 - 00:09:18] The person steps away from the lathe, walking past the rack to another area of the shop, then turns around and walks back to their machine.
+[00:09:18 - 00:09:33] They stand in front of the running lathe, monitoring the process.
+[00:09:33 - 00:10:28] The person walks away from the machine again, pacing near the storage rack and observing the other worker. They wait for a prolonged period while the lathe runs.
+[00:10:28 - 00:10:36] They return to the lathe, adjust a handwheel, and use the air hose to blow off the finished part.
+[00:10:36 - 00:10:52] They pick up the wrench, loosen the nut, finish unscrewing it by hand, and remove the part from the machine.
+[00:10:52 - 00:11:00] They carry the finished part to the rack, set it down, and pick up a new red metal part.
+[00:11:00 - 00:11:21] Instead of going straight back to the lathe, they hold the new part and stand near the rack, interacting with the other worker and looking at the parts together.
+[00:11:21 - 00:11:32] They walk to the lathe, mount the new part onto the fixture, and hand-tighten the washer and nut.
+[00:11:32 - 00:11:41] They grab the wrench to tighten the nut securely, then turn the handwheels and engage the spindle to start the cycle.
+[00:11:41 - 00:12:15] The lathe runs while the person monitors the process, making occasional adjustments with the handwheels.
+[00:12:15 - 00:12:39] The person turns and walks towards the rack area, standing there briefly before returning to the lathe.
+[00:12:39 - 00:13:51] They stand in front of the lathe, observing the machining operation and making minor handwheel adjustments. They step back slightly at one point but remain focused on the machine.
+[00:13:51 - 00:14:02] They use the air hose to clean the part, then pick up the wrench and begin loosening the nut.
+[00:14:02 - 00:14:17] They unscrew the nut by hand, remove the part from the fixture, and turn to walk away.
+[00:14:17 - 00:14:27] They place the completed part on the storage rack, pick up a new one, and walk back to the lathe, mounting it on the fixture.
+[00:14:27 - 00:14:36] They put the washer and nut on by hand, then use the wrench to tighten the assembly firmly.
+[00:14:36 - 00:14:58] They operate the machine controls to engage the spindle and begin the cutting process, standing by to observe.
+[00:14:58 - 00:15:22] They turn a handwheel to move the tool carriage, then step away from the machine, walking towards the rack area.
+[00:15:22 - 00:15:30] They return to the lathe to make a quick adjustment with a handwheel.
+[00:15:30 - 00:16:13] The person walks away again, going over to the rack area and standing near the other worker, watching them operate their machine.
+[00:16:13 - 00:16:42] They walk back to their lathe and stand in front of it, monitoring the cycle and turning the handwheels.
+[00:16:42 - 00:16:53] They pick up the air hose, blow off the part, then use the wrench and their hands to loosen and remove the nut and washer.
+[00:16:53 - 00:17:03] They remove the finished part, carry it to the rack, set it down, and pick up a new part.
+[00:17:03 - 00:17:15] They carry the new part to the lathe, mount it on the fixture, and hand-tighten the washer and nut.
+[00:17:15 - 00:17:26] They use the wrench to fully tighten the nut, then turn the handwheels and engage the spindle.
+[00:17:26 - 00:17:51] The person stands in front of the machine, observing the cutting process.
+[00:17:51 - 00:18:18] They step away from the machine, standing in the aisle and looking around, then walk closer to make an adjustment on a handwheel.
+[00:18:18 - 00:19:25] The person walks away from the lathe entirely, spending a long time standing near the storage rack and observing the other worker in the shop.
+[00:19:25 - 00:19:38] They return to the lathe, adjust a handwheel, blow compressed air onto the part, and use the wrench to loosen the nut.
+[00:19:38 - 00:19:53] They finish unscrewing the nut by hand, pull the finished part off the fixture, and carry it to the rack.
+[00:19:53 - 00:20:01] They place the completed part on the rack, pick up a new unmachined part, and begin walking back towards the lathe as the video ends.
