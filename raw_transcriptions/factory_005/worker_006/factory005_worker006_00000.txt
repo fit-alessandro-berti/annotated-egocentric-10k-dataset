@@ -1,0 +1,72 @@
+[00:00:00 - 00:00:09] The person stands at a control panel, pressing buttons, and checks a large metal block on the machine directly in front of them.
+[00:00:09 - 00:00:18] They turn and walk away from the machine to a large metal bin filled with red metal parts. They reach in and pick up a handful of these red parts.
+[00:00:18 - 00:00:36] Returning to a grooved metal work table adjacent to the machine, they place the red parts down. They pick up a wrench and begin tightening or loosening a fixture attached to the table.
+[00:00:36 - 00:00:52] They make another trip to the large bin, retrieve a stack of more red parts, and carry them back to the table, setting them down.
+[00:00:52 - 00:01:00] They step away briefly to retrieve a grey metal ring and bring it to the work table.
+[00:01:00 - 00:01:15] At the table, they place the metal ring onto one of the red parts on the table's fixture and use the wrench to fasten them together.
+[00:01:15 - 00:01:21] They reach towards the spinning metal block on the main machine to briefly check or touch its surface.
+[00:01:21 - 00:01:38] They walk over to a rusty metal tray equipped with a long handle and pull it closer to their workspace.
+[00:01:38 - 00:01:45] They operate the control panel, pressing various buttons. The legs of another person are visible in the background.
+[00:01:45 - 00:02:11] They return to the table, assemble another metal ring onto a red part using the wrench, and then move one of the components.
+[00:02:11 - 00:02:18] They wipe the surface of the machine's large metal block with their bare hand.
+[00:02:18 - 00:03:10] For an extended period, they repeatedly use the wrench to assemble and disassemble red parts and metal rings on the table fixture, occasionally shifting parts around the workspace.
+[00:03:10 - 00:03:22] They briefly pause to wipe down the machine's metal block again.
+[00:03:22 - 00:04:06] They resume their repetitive task at the metal table, using the wrench to fasten components together on the fixture and swapping parts as needed.
+[00:04:06 - 00:04:28] They press buttons on the control panel, use a brush to wipe fluid across the machine's metal block, and then press more buttons.
+[00:04:28 - 00:05:03] They go back to the table, pick up components, and continue using the wrench to assemble parts, occasionally moving an assembled piece out of the immediate work zone.
+[00:05:03 - 00:05:08] They pull the rusty metal tray to adjust its position slightly.
+[00:05:08 - 00:05:19] They walk over to the large bin, collect more red parts, and bring them back to the work table.
+[00:05:19 - 00:06:03] They engage in another sustained sequence of assembling metal rings and red parts on the table fixture using the wrench.
+[00:06:03 - 00:06:10] They interact with the control panel and check the machine block.
+[00:06:10 - 00:06:22] They pick up a small brush and use it to sweep debris off the grooved metal work table.
+[00:06:22 - 00:06:33] They use the same brush to apply liquid to the fixture located on the machine's metal block.
+[00:06:33 - 00:07:00] They return to the table to assemble more parts with the wrench, picking up components and fastening them securely.
+[00:07:00 - 00:07:10] They pick up a completed part assembly and place it onto the rusty tray.
+[00:07:10 - 00:07:28] They walk to the control panel, press buttons, and then use the brush to apply more fluid to the machine block fixture.
+[00:07:28 - 00:08:00] They resume work at the table, using the wrench to assemble the next set of parts on the fixture.
+[00:08:00 - 00:08:29] They interact with the control panel, check the machine block, apply fluid to its fixture with the brush, and then take an assembled part from the table and mount it onto the machine block, tightening it by hand.
+[00:08:29 - 00:08:44] They pick up finished parts from the table and move them over to the rusty tray.
+[00:08:44 - 00:08:58] They go back to the table and use the wrench to assemble more parts.
+[00:08:58 - 00:09:12] They apply fluid with the brush to the part newly mounted on the machine block and make a minor adjustment to it.
+[00:09:12 - 00:09:16] They briefly brush off the surface of the metal work table.
+[00:09:16 - 00:09:52] They operate the control panel, then spend time at the table using the wrench to assemble more components.
+[00:09:52 - 00:10:11] They brush the machine block, dismount a finished part from it, and place it down on the table.
+[00:10:11 - 00:10:18] They walk over to the rusty tray.
+[00:10:18 - 00:10:28] They return and use the brush to apply fluid to the machine block fixture again.
+[00:10:28 - 00:10:41] They use the wrench on the parts at the table fixture.
+[00:10:41 - 00:10:54] They take a prepared part from the table, mount it onto the machine block, and tighten it down.
+[00:10:54 - 00:11:00] They return to the work table.
+[00:11:00 - 00:11:15] They walk to a different area, pick up a red part from the floor or a lower location, and bring it back to the workspace.
+[00:11:15 - 00:11:25] They walk over to the large bin of parts, interact with it briefly, and return.
+[00:11:25 - 00:11:58] They engage in a continuous cycle of assembling parts at the table using the wrench.
+[00:11:58 - 00:12:08] They use the brush to apply fluid to the machine block fixture.
+[00:12:08 - 00:12:15] They go back to the table.
+[00:12:15 - 00:12:21] They brush the machine block fixture once more.
+[00:12:21 - 00:12:27] They grab the handle and pull the rusty metal tray closer.
+[00:12:27 - 00:12:56] They spend time at the table, picking up parts and using the wrench to assemble them on the fixture.
+[00:12:56 - 00:13:09] They press buttons on the control panel and visually check the machine block.
+[00:13:09 - 00:13:54] They return to the table for a long stretch of repetitive assembly work, using the wrench to fasten metal rings to the red parts.
+[00:13:54 - 00:14:04] They interact with the control panel.
+[00:14:04 - 00:14:44] They continue their main task at the table, using the wrench to assemble and adjust multiple parts on the fixture.
+[00:14:44 - 00:14:55] They apply fluid to the machine block fixture with the brush.
+[00:14:55 - 00:15:13] They operate the control panel and watch as the machine performs a cutting or milling operation on the mounted part.
+[00:15:13 - 00:15:24] They use the wrench to disassemble or loosen parts at the table.
+[00:15:24 - 00:15:37] They pick up an assembled part and place it into the rusty tray.
+[00:15:37 - 00:15:47] They use the wrench to assemble the next part on the table.
+[00:15:47 - 00:16:03] They dismount the finished part from the machine block and move it to the table.
+[00:16:03 - 00:16:13] They walk to the large bin and grab another handful of red parts.
+[00:16:13 - 00:16:21] They push the rusty metal tray to a slightly different position on the floor.
+[00:16:21 - 00:16:27] They return to the work table.
+[00:16:27 - 00:16:53] They apply fluid to the machine block with the brush, operate the control panel, and then move a part from the machine back to the table.
+[00:16:53 - 00:17:08] They use the wrench to work on parts at the table fixture.
+[00:17:08 - 00:17:18] They interact with the machine block, preparing it for the next operation.
+[00:17:18 - 00:17:34] They press buttons on the control panel and brush the machine block fixture.
+[00:17:34 - 00:18:18] They undergo a very long sequence of assembling and fastening parts at the table using the wrench, placing rings on red parts and tightening them down.
+[00:18:18 - 00:18:30] They touch and check the machine block.
+[00:18:30 - 00:18:39] They use the wrench at the table.
+[00:18:39 - 00:18:47] They move an assembled part to the rusty tray.
+[00:18:47 - 00:19:00] They resume using the wrench to assemble parts at the table.
+[00:19:00 - 00:19:12] They operate the control panel and check the part mounted on the machine block.
+[00:19:12 - 00:19:21] The machine operates on the mounted part while the person watches the process.
+[00:19:21 - 00:19:42] They use the wrench to disassemble or adjust parts at the table, then move a part away.
+[00:19:42 - 00:20:00] In the final sequence, they assemble parts at the table using the wrench, tighten them, put their tools down, and stand idle near another person in uniform who has entered the workspace.

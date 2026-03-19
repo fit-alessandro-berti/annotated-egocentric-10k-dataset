@@ -1,0 +1,61 @@
+[00:00:00 - 00:00:17] The person rubs a clump of dark, oily metal shavings across the metal components of the lathe machine to clean them.
+[00:00:17 - 00:00:22] The person picks up a metal caliper, measures a part on the machine, and places the caliper down.
+[00:00:22 - 00:00:30] The person uses a brush with a red handle to sweep shavings off the tool post and surrounding area.
+[00:00:30 - 00:00:38] The person grabs the large handwheel on the carriage and turns it to adjust the carriage position along the bed.
+[00:00:38 - 00:00:46] They use the caliper again to check a measurement on the machine.
+[00:00:46 - 00:00:50] The person picks up the clump of shavings and wipes the machine surfaces again.
+[00:00:50 - 00:01:04] They turn the smaller handwheel on the cross slide several times, moving the tool post in and out.
+[00:01:04 - 00:01:14] The person uses the red-handled brush to clear away more metal shavings from the cross slide.
+[00:01:14 - 00:01:48] They continuously make adjustments to the lathe by turning the small handwheel on the cross slide, moving the carriage, and briefly using the caliper to check measurements.
+[00:01:48 - 00:02:00] The person takes a wrench, loosens a bolt on top of the tool post to adjust the tool, and then brushes the area with the red-handled brush.
+[00:02:00 - 00:02:43] The person performs a series of adjustments, repeatedly turning the small handwheel on the cross slide back and forth, and occasionally turning the large carriage handwheel.
+[00:02:43 - 00:02:59] They use the wrench again to adjust the tool post bolt, followed by sweeping the area with the red-handled brush.
+[00:02:59 - 00:03:22] They turn the small handwheel on the cross slide multiple times to finely adjust the tool's position.
+[00:03:22 - 00:03:41] The person uses the wrench to tighten the tool post bolt, sweeps the area with the brush, and then makes more adjustments with the small handwheel.
+[00:03:41 - 00:04:12] They brush the tool post again, turn the small cross-slide handwheel, and then make larger movements by turning the carriage handwheel back and forth. Finally, they brush the machine again.
+[00:04:12 - 00:04:43] The lathe is turned on, and the chuck begins spinning holding a part. The person turns the handwheels to engage the cutting tool with the spinning part, machining its surface. They then step back slightly.
+[00:04:43 - 00:05:08] With the machine off, the person sweeps shavings away with the red-handled brush, then turns the handwheels to back the tool post away from the chuck, and brushes the area once more.
+[00:05:08 - 00:05:35] The person reaches down, picks up an object from off-camera, places it near the machine, and then makes several adjustments to the cross slide by turning the small handwheel.
+[00:05:35 - 00:05:48] They use the wrench to adjust the bolt on the tool post and then sweep the shavings away with the brush.
+[00:05:48 - 00:06:03] The person turns the small handwheel on the cross slide a few more times and then uses the wrench on the tool post again.
+[00:06:03 - 00:06:28] The lathe chuck is spinning with an orange-painted part. The person uses the handwheels to machine the part, briefly looks away, and then adjusts the tool post with the wrench.
+[00:06:28 - 00:06:44] While the orange part spins in the chuck, the person holds a metal file against the spinning part to smooth its surface.
+[00:06:44 - 00:06:57] The person turns off the machine, uses the wrench to open the chuck, removes the orange part, and holds it.
+[00:06:57 - 00:07:05] The person inserts a new, unpainted metal part into the chuck and uses the wrench to secure it tightly.
+[00:07:05 - 00:07:18] They turn the handwheels to position the tool carriage and then use the wrench to tighten the tool post.
+[00:07:18 - 00:07:49] The machine is turned on. The person holds a metal file against various surfaces of the spinning metal part to smooth and deburr it.
+[00:07:49 - 00:08:04] They use the red-handled brush to clear away swarf while the part spins, then back the tool post away using the handwheels.
+[00:08:04 - 00:08:11] The machine stops, and the person uses the wrench to adjust the chuck.
+[00:08:11 - 00:08:33] They make several positional adjustments using the large and small handwheels to move the carriage and cross slide.
+[00:08:33 - 00:08:52] The lathe is running. The person uses the handwheels to feed the cutting tool into the spinning part, machining its surface, and then sweeps away the shavings with the brush.
+[00:08:52 - 00:09:15] They continue making passes with the cutting tool using the handwheels and intermittently brush away the accumulating metal shavings.
+[00:09:15 - 00:09:24] The person stops the machine, reaches into the chuck with the wrench, loosens it, and removes the machined part.
+[00:09:24 - 00:09:40] They load a new unpainted part into the chuck, tighten it with the wrench, and sweep the surrounding area with the brush.
+[00:09:40 - 00:09:55] They use the wrench on the tool post and adjust the position of the tool using the handwheels.
+[00:09:55 - 00:10:14] The machine is turned on, and the person files the surface of the spinning part.
+[00:10:14 - 00:10:27] They stop filing, brush away the shavings, and adjust the handwheels to position the cutting tool.
+[00:10:27 - 00:10:50] They engage the cutting tool to machine the part, pausing briefly to sweep away shavings with the brush before continuing the cut.
+[00:10:50 - 00:10:56] The machine is stopped, and the person removes the part from the chuck.
+[00:10:56 - 00:11:04] A new unpainted part is loaded into the chuck and tightened with the wrench.
+[00:11:04 - 00:11:18] The lathe starts spinning, and the person files the edges of the spinning part before adjusting the handwheels.
+[00:11:18 - 00:11:29] They use the cutting tool to machine the face of the part and sweep away the resulting shavings.
+[00:11:29 - 00:11:39] The machine stops. The person removes the unpainted part, reaches down, and picks up a new orange-painted part.
+[00:11:39 - 00:11:53] They insert the orange part into the chuck, tighten it with the wrench, and adjust a bolt on the tool post.
+[00:11:53 - 00:12:12] The person positions the tool with the handwheel, turns on the machine, and files the spinning orange part.
+[00:12:12 - 00:12:28] They brush the shavings away and use the handwheels to adjust the tool's position.
+[00:12:28 - 00:12:41] They machine the face of the orange part, then brush the shavings off the tool post.
+[00:12:41 - 00:12:50] The machine is stopped, and the person uses the wrench to remove the orange part from the chuck.
+[00:12:50 - 00:13:28] The person loads another orange part into the chuck, tightens it, adjusts the handwheels and tool post, turns on the machine, and begins filing the spinning part.
+[00:13:28 - 00:14:03] They finish filing, brush the area, adjust the handwheels, machine the surface of the spinning part, and sweep the shavings away again.
+[00:14:03 - 00:14:11] The machine stops, and the person removes the part.
+[00:14:11 - 00:14:48] They load a new orange part, secure it, adjust the handwheels and the tool post with the wrench, and then file the spinning part.
+[00:14:48 - 00:15:15] After brushing away the filings, they adjust the handwheels, machine the spinning part with the cutting tool, and brush away the shavings.
+[00:15:15 - 00:15:23] The machine stops, and the part is removed.
+[00:15:23 - 00:16:01] The person loads another orange part, secures it, positions the tool, and files the spinning part.
+[00:16:01 - 00:16:29] They brush the area, use the handwheels to move the tool post, machine the part, sweep the shavings away, stop the machine, and remove the part.
+[00:16:29 - 00:17:07] A new orange part is loaded and tightened in the chuck. The person adjusts the handwheels and files the spinning part.
+[00:17:07 - 00:17:42] They clear the shavings with the brush, position the cutting tool using the handwheels, machine the part's face, sweep the shavings away again, and stop the machine.
+[00:17:42 - 00:18:22] The person removes the part, loads a new one, tightens the chuck, adjusts the carriage, and files the spinning part.
+[00:18:22 - 00:18:55] They brush away the swarf, adjust the handwheels, machine the part with the cutting tool, sweep away the new shavings, and stop the machine.
+[00:18:55 - 00:19:32] They remove the part, load a new orange part, tighten the chuck, adjust the tool position, and file the spinning part.
+[00:19:32 - 00:20:01] The person brushes the machine, uses the handwheels to feed the cutting tool into the part for machining, and finishes by brushing away the shavings.
