@@ -15,7 +15,7 @@ from typing import BinaryIO
 import requests
 
 BASE_URL = "https://generativelanguage.googleapis.com"
-DEFAULT_DATASET_ROOT = Path("/data/Egocentric-10K")
+DEFAULT_DATASET_ROOT = Path("/data/Egocentric-10k")
 DEFAULT_PROJECT_ROOT = Path(__file__).resolve().parent
 DEFAULT_OUTPUT_ROOT = DEFAULT_PROJECT_ROOT / "raw_transcriptions"
 DEFAULT_API_KEY_PATH = DEFAULT_PROJECT_ROOT / "google_api_key.txt"
