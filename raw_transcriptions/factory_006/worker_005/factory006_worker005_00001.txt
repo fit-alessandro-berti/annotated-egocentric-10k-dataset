@@ -1,0 +1,56 @@
+[00:00:00 - 00:00:15] The person stands at a large machine press and adjusts settings by pressing buttons and turning switches on a control panel. They then turn away from the workstation and walk down a short set of stairs.
+[00:00:15 - 00:00:23] The person walks across the factory floor, passing by various blue storage bins, machines, and scattered materials, heading toward a different workstation.
+[00:00:23 - 00:00:30] Arriving at the new workstation, the person inspects a control panel with several switches, then turns to look at the hydraulic press located in front of them.
+[00:00:30 - 00:00:54] The person stands at a metal table covered in dust. They pick up the top half of a metal mold and set it aside. Using a small container, they scoop brown powder and fill the bottom half of the mold. They place the top half of the mold onto the filled bottom half, tap it to secure it, and pick up the fully assembled mold.
+[00:00:54 - 00:01:09] The person carries the assembled mold to the hydraulic press, places it onto the press bed, and operates the machine to compress the mold. 
+[00:01:09 - 00:01:16] The person steps back to the metal table and adjusts switches on the control panel located next to the press.
+[00:01:16 - 00:01:23] Returning to the press, the person removes the compressed mold and uses an air hose to blow dust and debris off the interior components of the press.
+[00:01:23 - 00:01:48] The person brings the mold back to the table, separates the top and bottom halves, and removes the newly formed, brick-like piece. They place the finished piece onto a neat stack of identical items accumulating on the table. A coworker is visible in the background. The person briefly surveys the factory floor before adding another finished piece to the stack.
+[00:01:48 - 00:01:57] The person presses buttons on the control panel, then turns their attention back to the hydraulic press.
+[00:01:57 - 00:02:14] Moving back to the table, the person fills the bottom half of the mold with powder, places the top half on it, and carries the assembled mold to the press. They return to the table, open a previously compressed mold, extract the finished piece, and place it neatly on the stack.
+[00:02:14 - 00:02:47] The person uses the air hose to blow dust out of the empty mold halves on the table. They scoop powder to fill the mold, assemble the halves, carry the unit to the press, place it inside, and operate the machine to compress it. Afterward, they retrieve the compressed mold.
+[00:02:47 - 00:02:55] The person carries the compressed mold back to the table and then reaches over to interact with the control panel.
+[00:02:55 - 00:03:09] Using the air hose, the person blows dust off the hydraulic press bed, then places another newly assembled mold inside for compression.
+[00:03:09 - 00:03:22] Standing at the table, the person uses the air hose to blow loose powder off the table surface. They then turn to adjust a few settings on the control panel.
+[00:03:22 - 00:04:08] The person repeatedly executes the core production cycle: removing a compressed mold from the press, bringing it to the table, separating the halves, adding the finished piece to the stack, refilling the mold with powder, reassembling it, carrying it back to the press, and operating the machine.
+[00:04:08 - 00:04:18] The person pauses the cycle to look closely at the control panel, adjusts a switch, and briefly looks away toward the factory floor.
+[00:04:18 - 00:04:32] The person uses the air hose to thoroughly clean the press mechanism, then places a filled mold inside and activates the compression cycle.
+[00:04:32 - 00:04:45] After retrieving the mold, the person uses the air hose to clean the press again, then turns to interact with the control panel.
+[00:04:45 - 00:05:50] The continuous production loop resumes: bringing the compressed mold to the table, extracting the finished piece, adding it to the growing stack, refilling the mold with powder from the container, assembling it, placing it in the press, and retrieving it after compression.
+[00:05:50 - 00:06:06] The person stops to look at the control panel and the surrounding workstation area, then grabs the air hose to blow dust out of the press.
+[00:06:06 - 00:06:26] The person places a newly filled mold into the press, then turns to the control panel and manipulates several switches.
+[00:06:26 - 00:07:23] The manufacturing cycle continues uninterrupted: transferring the compressed mold to the table, removing the finished piece, stacking it carefully, refilling the empty mold, assembling the halves, placing the unit in the press, operating the machine, and removing the mold.
+[00:07:23 - 00:07:44] The person interacts with the control panel, observes the press, and then conducts a thorough cleaning of the press bed and components using the air hose.
+[00:07:44 - 00:08:04] The person inserts a filled mold into the press, then brings a compressed mold to the table, separates the halves, removes the finished piece, and adds it to the stack.
+[00:08:04 - 00:08:18] Turning to the control panel, the person adjusts the switches, looks down at the table surface, and then uses the air hose to clean the press.
+[00:08:18 - 00:09:00] The person returns to the table to fill the mold with powder, assemble it, and bring it to the press. They then open another mold at the table, stack the finished piece, refill the mold, assemble it, place it in the press, operate the machine, and retrieve the compressed mold.
+[00:09:00 - 00:09:15] The person inspects the control panel, glances down at the floor, and uses the air hose to blow accumulated dust out of the press.
+[00:09:15 - 00:09:35] The person places an assembled mold into the press, moves to the table to open a compressed mold and stack the piece, and then checks the control panel and the table area.
+[00:09:35 - 00:10:25] The cycle of filling the mold, assembling it, bringing it to the press, opening a compressed mold at the table, stacking the finished piece, refilling, assembling, pressing, and removing the mold continues.
+[00:10:25 - 00:10:43] The person pauses to check the control panel, then cleans the press mechanism with the air hose.
+[00:10:43 - 00:10:55] A filled mold is placed into the press. The person looks over at the control panel and then back at the work table.
+[00:10:55 - 00:11:50] The continuous loop resumes: filling the mold, assembling it, adjusting the control panel, looking at the press, moving to the table to open a mold, stacking the piece, refilling, assembling, bringing the unit to the press, and operating the machine.
+[00:11:50 - 00:12:08] The person looks around the workstation, checks the settings on the control panel, and uses the air hose to blow out the press.
+[00:12:08 - 00:12:30] The person places a mold in the press. A coworker approaches the table and lifts the entire stack of finished pieces. The person watches as the coworker carries the stack away, then turns back to interact with the control panel.
+[00:12:30 - 00:12:44] The person checks the control panel, cleans the press with the air hose, and inserts a newly assembled mold into the press.
+[00:12:44 - 00:13:08] At the table, the person opens a compressed mold, removes the finished piece, and begins a new stack on the table. They refill the mold, assemble it, observe the press, use the air hose on the press bed, and place the mold inside.
+[00:13:08 - 00:13:34] The person looks around the factory floor, checks the control panel, inspects the press, and uses the air hose to clean it again.
+[00:13:34 - 00:13:59] The person places a mold in the press, moves to the table to open another mold and stack the piece. They use the air hose on the press, place another filled mold inside, and retrieve it after the compression cycle finishes.
+[00:13:59 - 00:14:14] The person looks at the press, the control panel, and the factory floor, then walks away from the workstation.
+[00:14:14 - 00:14:26] The person walks up a set of stairs to reach a higher, elevated platform containing a large mixing hopper and another press mechanism.
+[00:14:26 - 00:14:43] On the platform, the person inspects a control panel near the hopper, then uses their hands to adjust a mechanical component of the press located nearby.
+[00:14:43 - 00:14:50] The person leans over and looks down inside the large, cylindrical mixing hopper.
+[00:14:50 - 00:15:23] The person begins mixing materials. They pour dry brown powder from a large sack into a metal bucket, then empty the bucket directly into the hopper. They repeat this process and use their hands to push and mix the dry powder inside the machine.
+[00:15:23 - 00:15:33] The person steps away from the hopper and holds a metal piece against a spinning grinding wheel to sharpen or shape it.
+[00:15:33 - 00:15:53] After briefly looking at the control panel, the person uses a hand tool to adjust and tighten parts of the press mechanism.
+[00:15:53 - 00:16:13] The person places a mold into the press on the platform, checks the control panel, adjusts the mold positioning, and then walks away, descending the stairs and crossing the factory floor.
+[00:16:13 - 00:16:55] Returning to the large mixing hopper, the person pours another bag of powder into it. They add liquid from a bucket and begin vigorously mixing the wet powder mixture inside the hopper using their bare hands, reaching deep into the container to combine the materials.
+[00:16:55 - 00:17:05] The camera perspective shifts slightly, but the person remains at the large hopper, continuing to mix the heavy, wet powder by hand.
+[00:17:05 - 00:17:21] The person walks down from the platform to the lower press and table area, where a coworker is standing. They briefly interact and look over the workstation.
+[00:17:21 - 00:17:53] The person returns to the large hopper and uses a shovel or metal scoop to extract the mixed wet powder, transferring it into a white woven sack.
+[00:17:53 - 00:18:20] The person carries the sack to a different mixing container and continues to mix the powder by hand, breaking up clumps and adding more dry powder from nearby sacks to achieve the right consistency.
+[00:18:20 - 00:18:55] The person fills a green bucket with the mixed powder, carries it back to the main hopper, pours it in, and resumes vigorously mixing the contents with their hands.
+[00:18:55 - 00:19:12] The person uses a piece of sheet metal to scrape and scoop loose powder from a pile on the floor, transferring it into a white sack.
+[00:19:12 - 00:19:35] Back at the main mixing hopper, the person reaches in and thoroughly mixes the wet powder mixture by hand, ensuring an even consistency.
+[00:19:35 - 00:19:56] The person fills a small green bucket with the freshly mixed powder and walks across the factory floor carrying it. They pass a coworker who is currently stacking finished pieces at the main workstation.
+[00:19:56 - 00:20:01] The person places the bucket of mixed powder down onto a machine near the work table, ready for the next phase of production.

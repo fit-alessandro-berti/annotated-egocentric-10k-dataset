@@ -1,0 +1,23 @@
+[00:00:00 - 00:00:30] The wearer is kneeling, handling various small metal parts (circular and bracket-shaped) scattered on the floor, picking some up and dropping them back down.
+[00:00:30 - 00:00:58] The wearer stands up, walks over to a table covered with a large pile of metal bracket parts, picks up a handful of them, and turns away.
+[00:00:58 - 00:01:34] The wearer walks back across the workshop, drops the handful of brackets onto the initial pile on the floor, and then walks past other tables and piles of parts.
+[00:01:34 - 00:02:05] The wearer picks up three large cylindrical ribbed metal parts from a table, carries them across the room, drops them on the floor near other parts, then returns to the table, picks up four more similar parts, carries them over, and drops them in the same spot.
+[00:02:05 - 00:02:32] The wearer walks around the workshop, approaches another worker sorting parts at a table, interacts briefly, and then points towards an area.
+[00:02:32 - 00:02:49] The wearer picks up a cylindrical ribbed part from the floor, carries it to a blue metal crate filled with similar parts, and places it inside.
+[00:02:49 - 00:03:22] The wearer walks to a pile of smaller, bell-shaped metal parts on the floor, picks up several of them, carries them to a table, and sets them down.
+[00:03:22 - 00:03:52] The wearer picks up a few more bell-shaped parts from the floor, carries them, then walks to a pile of the larger cylindrical ribbed parts and picks up several of those.
+[00:03:52 - 00:04:30] The wearer carries the cylindrical parts, walking through the workshop, eventually dropping them. They then pick up more cylindrical parts from a pile on the floor.
+[00:04:30 - 00:05:03] The wearer walks to a pile of small metal bracket parts, picks some up, then moves to a pile of cylindrical parts and picks those up.
+[00:05:03 - 00:05:59] The wearer handles various parts near a table, then walks over to a pile of cylindrical parts, picks some up, and moves around the workshop floor.
+[00:05:59 - 00:06:17] The wearer walks over to a yellow bucket, picks it up, carries it to a machine, and empties its contents into it.
+[00:06:17 - 00:07:05] The wearer walks back to the piles of parts, picking up cylindrical ribbed parts and carrying them around.
+[00:07:05 - 00:08:11] The wearer walks around the workshop, occasionally bending down to pick up more cylindrical ribbed parts from various piles on the floor.
+[00:08:11 - 00:09:30] The wearer continues to move around the workspace, picking up cylindrical parts and dropping them in different locations.
+[00:09:30 - 00:10:15] The wearer gathers parts from the floor, moves around the workspace, and handles more cylindrical parts.
+[00:10:15 - 00:11:09] The wearer approaches an orange wheelbarrow and begins picking up cylindrical ribbed parts from the floor and throwing them into it.
+[00:11:09 - 00:13:13] The wearer repeatedly walks over to a large, neatly arranged stack of cylindrical ribbed parts, picks up several at a time, carries them to the wheelbarrow, and places them inside. This process of loading the wheelbarrow from the stack continues for multiple trips.
+[00:13:13 - 00:14:15] The wearer grabs the handles of the loaded wheelbarrow, turns it around, and wheels it across the workshop, navigating past tables and parts, until stopping near a pile of small metal brackets.
+[00:14:15 - 00:15:23] The wearer bends down repeatedly to pick up the small metal bracket parts from the pile on the floor, inspects them briefly, and tosses them into the wheelbarrow.
+[00:15:23 - 00:16:11] The wearer lifts the wheelbarrow handles and wheels it out of the main workshop area onto a dirt floor, tips the wheelbarrow forward, and dumps all the collected parts onto the ground.
+[00:16:11 - 00:16:35] The wearer leaves the empty wheelbarrow, walks back into the workshop towards a pile of scattered metal parts, and sits down cross-legged on the floor.
+[00:16:35 - 00:20:00] The wearer, seated cross-legged, positions a heavy hexagonal metal piece between their legs to use as an anvil. They continuously pick up small metal bracket parts from the floor, place them on the anvil, and strike them repeatedly with a hammer. They then set the hammered part aside and pick up another, repeating this hammering process continuously for the remainder of the video.

@@ -1,0 +1,33 @@
+[00:00:00 - 00:00:23] The camera wearer is at a molding machine. They use their hands to scoop and spread dark sand from a pile into a metal mold box situated on the machine base.
+[00:00:23 - 00:01:21] The wearer continuously packs the dark sand tightly into the mold box, pressing it down firmly with both hands around the edges and in the center to ensure an even and dense fill.
+[00:01:21 - 00:01:33] The machine's upper head lowers onto the mold box to compress the sand, then raises back up.
+[00:01:33 - 00:02:16] The wearer reaches into the machine area, manipulates an unseen component under the mold box, and then uses an air hose with a green nozzle to blow loose sand and debris off the mold and the surrounding machine parts.
+[00:02:16 - 00:02:37] The wearer turns and walks away from the machine, looking down a long track line filled with finished molds, before turning around and walking back to their workstation.
+[00:02:37 - 00:04:36] The wearer repeatedly picks up large, heavy rectangular metal pattern plates from the floor, lifts them up, blows them clean with the air hose, and places them onto a cart or section of the track next to the machine. They do this for four separate plates.
+[00:04:36 - 00:05:01] The wearer returns to the molding machine and uses the air hose to blow sand away from the base area, preparing it for the next mold.
+[00:05:01 - 00:06:06] The wearer places an empty metal mold box frame onto the machine. Another worker pours sand into it. The wearer uses their hands to spread and pack the sand firmly into the box.
+[00:06:06 - 00:06:17] The wearer uses a metal strike-off bar to scrape across the top of the mold box, leveling the sand and removing the excess into a pile.
+[00:06:17 - 00:06:46] The wearer walks away from the machine again, moving down the track line past numerous completed molds to the far end of the row.
+[00:06:46 - 00:07:22] The wearer returns to the machine, lifts the finished sand mold half (a cope) with both hands, carries it over to the track, and carefully places it on top of a matching bottom half (a drag) to close the mold.
+[00:07:22 - 00:07:49] The wearer moves back to the machine, picks up a metal pattern plate, blows it clean with the air hose, and sets it onto the machine's base.
+[00:07:49 - 00:08:35] An empty mold frame is placed on the pattern. Sand is added, and the wearer packs it by hand. The machine head lowers to compress the sand, and then the wearer levels the top with the strike-off bar.
+[00:08:35 - 00:09:07] The wearer lifts the completed mold half (a drag) off the machine with both hands.
+[00:09:07 - 00:09:21] The wearer carries the drag over to the track line and places it down on an empty spot.
+[00:09:21 - 00:09:59] The wearer returns to the machine, cleans the pattern plate with air, places it back, and sets an empty mold frame on top. Sand is poured in, and the wearer begins packing it.
+[00:09:59 - 00:10:29] The wearer finishes packing the sand, the machine compresses it, and the wearer levels the top surface with the strike-off bar.
+[00:10:29 - 00:10:56] The wearer lifts the finished cope mold half, carries it to the track, and places it precisely on top of the previously placed drag to complete another mold.
+[00:10:56 - 00:11:31] The wearer repeats the preparation: cleaning and placing the pattern plate, placing an empty frame, receiving sand, and packing it down by hand.
+[00:11:31 - 00:11:59] The machine head compresses the sand, and the wearer uses the strike-off bar to level the mold.
+[00:11:59 - 00:12:26] The wearer lifts the completed drag mold half, carries it to the track line, and sets it down.
+[00:12:26 - 00:13:00] The wearer performs the next preparation cycle: cleaning and setting the pattern plate, adding an empty frame, and packing the poured sand.
+[00:13:00 - 00:13:32] The camera view becomes heavily obscured by bright, flashing purple and pink lights. The wearer walks away from the machine to a green board and uses a marker to write numbers and times, updating a production log.
+[00:13:32 - 00:14:15] The wearer returns to the molding machine despite the continuing flashing lights. They place an empty mold frame on the machine, sand is added, and they pack it by hand.
+[00:14:15 - 00:14:47] The machine compresses the sand, and the wearer levels the surface with the strike-off bar.
+[00:14:47 - 00:15:15] The wearer lifts the completed drag mold half, carries it to the track, and places it down.
+[00:15:15 - 00:16:05] The wearer cleans and replaces the pattern plate, sets an empty frame, and packs the poured sand. The machine compresses it, and the wearer levels the top.
+[00:16:05 - 00:16:32] The wearer lifts the finished cope mold half, carries it to the track, and places it on top of the drag to close the mold.
+[00:16:32 - 00:17:15] The wearer leaves the workstation, walking out of the factory building. They walk down a paved outdoor path beside a white wall and a fence, passing a large blue barrel and some trees.
+[00:17:15 - 00:17:49] The wearer continues walking along the path, passing a group of workers standing near several large gas cylinders.
+[00:17:49 - 00:18:23] The wearer walks further down the path, approaching a large blue and white gate and a small security cabin where a guard is standing outside.
+[00:18:23 - 00:19:32] The wearer follows the security guard into the small cabin. They stand inside, interacting with the guard, who stands near the open doorway facing the camera.
+[00:19:32 - 00:20:01] The wearer exits the security cabin and walks back down the paved path, passing the large blue barrel again.

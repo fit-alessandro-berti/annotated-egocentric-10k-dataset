@@ -1,0 +1,85 @@
+[00:00:00 - 00:01:06] The wearer sits on the floor at a workstation with two blue crates in front of them. The right crate contains unfinished cylindrical wooden pieces, and the left crate is for finished pieces. The wearer repeatedly picks up a wooden cylinder from the right crate, uses a small hand tool to scrape and smooth both ends and the central grooves of the piece, and then drops the finished piece into the left crate. 
+
+[00:01:06 - 00:01:13] The wearer stands up, picks up the left crate filled with finished pieces, walks a short distance across the workshop floor, and places the crate down next to several stacks of similar finished products.
+
+[00:01:13 - 00:02:07] The wearer returns to their sitting station. The crates are repositioned. The wearer resumes the repetitive task of picking up an unfinished wooden piece from the right crate, scraping its edges and grooves with the small tool, and placing it into the empty left crate. 
+
+[00:02:07 - 00:02:13] The wearer stands up again, lifts the crate containing the newly finished pieces, walks over to the storage area, and sets it down on the floor.
+
+[00:02:13 - 00:02:30] The wearer returns to their seat and continues scraping the cylindrical pieces, moving them from the unfinished crate to the finished crate one by one.
+
+[00:02:30 - 00:02:44] The wearer gets up and walks over to another worker, a woman sitting on the floor operating a small machine. The wearer stands over her, briefly interacts with her, and hands her some materials.
+
+[00:02:44 - 00:03:13] The wearer is back at their seating station and resumes scraping the wooden cylinders with the hand tool, placing the completed ones into the left crate.
+
+[00:03:13 - 00:03:17] The wearer stands up, picks up the crate of finished pieces, and walks to place it in the storage area.
+
+[00:03:17 - 00:03:45] The wearer walks back toward the woman working on the floor, stands nearby to observe her work for a moment, and then turns to walk back to their own workstation.
+
+[00:03:45 - 00:04:10] The wearer sits down and continues the repetitive process of picking up a piece, scraping its ends and grooves, and dropping it into the finished crate.
+
+[00:04:10 - 00:04:18] The wearer stands, lifts the crate of finished pieces, walks over to the storage pile, and places the crate down.
+
+[00:04:18 - 00:04:52] The wearer sits back down at their station and continues to scrape the wooden pieces.
+
+[00:04:52 - 00:05:00] The wearer stands up, grabs the finished crate, walks, and deposits it with the other completed batches.
+
+[00:05:00 - 00:05:13] The wearer returns to their seat and scrapes another wooden piece, placing it in the crate.
+
+[00:05:13 - 00:05:28] The wearer stands up, walks over to the woman working on the floor, observes her briefly, and then walks back to their own station.
+
+[00:05:28 - 00:05:53] The wearer sits down and resumes scraping the wooden pieces with the hand tool.
+
+[00:05:53 - 00:06:01] The wearer gets up, lifts the crate of finished pieces, walks to the storage area, and places it down.
+
+[00:06:01 - 00:06:17] The wearer walks across the workshop to a different station featuring a metal table and a large, lever-operated cutting press. They gather a stack of flat, circular objects and place them on the metal table.
+
+[00:06:17 - 00:06:38] The wearer begins operating the cutting machine. They place a small stack of the circular pieces under the press, pull the large lever down to punch or shape them, release the lever, remove the processed pieces, and insert a new stack, repeating this motion several times.
+
+[00:06:38 - 00:06:50] The wearer stops operating the press, walks over to a pile of wooden parts on the floor, picks up a handful, and returns to the cutting table.
+
+[00:06:50 - 00:07:16] The wearer resumes using the lever press, repeatedly placing stacks of the circular pieces under the machine and pulling the lever down to process them.
+
+[00:07:16 - 00:07:33] The wearer steps away from the machine, walks over to gather more of the circular pieces from a pile, stacks them in their hands, and brings them back to the cutting table.
+
+[00:07:33 - 00:07:58] The wearer continues the repetitive action of placing stacks of circular pieces under the press and pulling the lever.
+
+[00:07:58 - 00:08:12] The wearer walks away from the press to retrieve a blue crate filled with circular pieces, carries it back, and sets it on the table.
+
+[00:08:12 - 00:08:35] The wearer continues to operate the manual cutting press on the circular pieces.
+
+[00:08:35 - 00:09:05] The wearer leaves the cutting table and walks over to a large control panel. They interact with the buttons and switches to power on a piece of machinery.
+
+[00:09:05 - 00:09:27] The wearer walks over to a large, cylindrical metal mixing vat. Inside, a dry, brown, powdery mixture is being churned by rotating blades. The wearer stands and observes the mixing process.
+
+[00:09:27 - 00:09:50] The wearer walks away from the vat, picks up a large white sack from the floor, and brings it back, setting it down near the mixer.
+
+[00:09:50 - 00:10:45] The wearer grabs a long wooden paddle and begins manually stirring the thick brown mixture inside the spinning vat. They use both hands to vigorously scrape the sides and push the mixture toward the center to ensure even blending.
+
+[00:10:45 - 00:11:00] The wearer pulls the wooden paddle out of the vat, briefly touches the mixture with their hand to feel its texture, and then steps away to pick up a small metal scraper tool.
+
+[00:11:00 - 00:11:21] The wearer pulls a lever to tilt the mixing vat forward. They position the white sack beneath the opening and use the metal scraper and their hands to pull the wet, doughy mixture out of the vat and into the sack.
+
+[00:11:21 - 00:11:36] The wearer grabs the top of the filled sack, lifts it, and drags it across the floor, placing it near a large blue pressing machine.
+
+[00:11:36 - 00:11:50] The wearer returns to the tilted mixing vat and uses the metal scraper to clean out the remaining clumps of the mixture, letting them fall into the sack.
+
+[00:11:50 - 00:12:12] The wearer walks over to a pile of dry materials, uses a container to scoop up some powder or sawdust, and carries it back to the mixing vat.
+
+[00:12:12 - 00:12:48] The wearer dumps the dry material into the running vat. They pick up the wooden paddle again and stir the new batch, scraping the sides and blending the dry powder with the wet residue inside the bowl.
+
+[00:12:48 - 00:13:00] The wearer walks away from the mixer, retrieves another empty white sack, and brings it back to the machine.
+
+[00:13:00 - 00:13:35] The wearer tilts the mixing vat forward again and uses the metal scraper and their hands to empty this newly mixed batch into the white sack positioned on the floor.
+
+[00:13:35 - 00:13:46] The wearer drags the newly filled sack across the floor over to the blue pressing machine.
+
+[00:13:46 - 00:14:04] The wearer walks around the machine area, briefly speaks to another worker, and then positions themselves at the feeding area of the blue pressing machine.
+
+[00:14:04 - 00:14:36] The wearer grabs handfuls of the mixed dough from the sack and feeds it into the hopper of the blue machine. As the machine compresses the material and extrudes cylindrical shapes, the wearer collects the formed pieces and places them aside.
+
+[00:14:36 - 00:15:21] The wearer walks away from the machine area and returns to their original seating station. They sit down and resume the task of scraping the cylindrical wooden pieces with the small hand tool, moving them from the unfinished crate to the finished crate.
+
+[00:15:21 - 00:15:43] The wearer stands up, walks back to the blue pressing machine area, stands there briefly to observe the area, and then turns to walk back.
+
+[00:15:43 - 00:20:00] The wearer sits back down at their workstation and begins a long, continuous session of scraping the wooden cylindrical pieces. Without interruption, they repeatedly pick up a piece from the right crate, carefully scrape both ends and the central grooves with the small tool, and place the finished piece into the left crate. This repetitive action continues in exactly the same manner until the video ends.
