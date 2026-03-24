@@ -61,7 +61,7 @@ The main processing scripts in this repository are named in execution order:
 
 Auxiliary cleanup utility:
 
-- [delete_uploaded_files.py](/mnt/c/Users/berti/annotated-egocentric-10k-dataset/delete_uploaded_files.py)
+- [delete_uploaded_files.py](/mnt/c/Users/berti/annotated-egocentric-10k-dataset/scripts/delete_uploaded_files.py)
 
 ## Prompt Files
 
