@@ -1,0 +1,12 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:05:08,press assembly against central block,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:05:08,2000-01-01 00:05:15,place finished assembly into pre-punched cardboard hole,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:05:15,2000-01-01 00:06:46,press assembly against central block,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:06:46,2000-01-01 00:07:07,press assembly against central block,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:07:09,2000-01-01 00:07:13,place finished assembly into pre-punched cardboard hole,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:07:13,2000-01-01 00:10:03,press assembly against central block,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:10:03,2000-01-01 00:10:05,place finished assembly into pre-punched cardboard hole,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:10:05,2000-01-01 00:12:59,press assembly against central block,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:13:06,2000-01-01 00:17:29,press assembly against central block,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:17:34,2000-01-01 00:17:41,drag small parts to front of bin,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:17:41,2000-01-01 00:20:00,press assembly against central block,Manual mechanical assembly,factory_001,worker_003

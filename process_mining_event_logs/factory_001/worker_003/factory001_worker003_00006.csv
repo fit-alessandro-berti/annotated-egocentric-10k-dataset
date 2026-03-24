@@ -1,0 +1,17 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:02:07,retrieve base and clip components from bins,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:02:07,2000-01-01 00:04:15,mate components over central jig,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:04:15,2000-01-01 00:06:22,insert small pin into base components,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:06:22,2000-01-01 00:08:30,snap finished assembly onto metal chain track,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:09:12,2000-01-01 00:09:32,retrieve base and clip components from bins,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:09:32,2000-01-01 00:09:52,mate components over central jig,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:09:52,2000-01-01 00:10:11,insert small pin into base components,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:10:11,2000-01-01 00:10:31,snap finished assembly onto metal chain track,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:10:35,2000-01-01 00:10:41,retrieve base and clip components from bins,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:10:41,2000-01-01 00:10:47,mate components over central jig,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:10:47,2000-01-01 00:10:54,insert small pin into base components,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:10:54,2000-01-01 00:11:00,snap finished assembly onto metal chain track,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:11:21,2000-01-01 00:13:31,retrieve base and clip components from bins,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:13:31,2000-01-01 00:15:41,mate components over central jig,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:15:41,2000-01-01 00:17:50,insert small pin into base components,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:17:50,2000-01-01 00:20:00,snap finished assembly onto metal chain track,Manual mechanical assembly,factory_001,worker_003

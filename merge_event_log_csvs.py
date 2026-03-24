@@ -14,6 +14,16 @@ DEFAULT_INPUT_ROOT = DEFAULT_PROJECT_ROOT / "process_mining_event_logs"
 DEFAULT_OUTPUT_ROOT = DEFAULT_PROJECT_ROOT / "merged_process_mining_event_logs"
 BASE_EVENT_DATETIME = datetime(2000, 1, 1, 0, 0, 0)
 TIMESTAMP_FORMAT = "%Y-%m-%d %H:%M:%S"
+OUTPUT_FIELDNAMES = [
+    "start_timestamp",
+    "end_timestamp",
+    "activity",
+    "process",
+    "factory",
+    "worker",
+    "source_file",
+    "case_id",
+]
 
 
 def parse_args() -> argparse.Namespace:
@@ -110,24 +120,34 @@ def merge_worker_csvs(worker_dir: Path) -> tuple[list[str], list[dict[str, str]]
         raise FileNotFoundError(f"No CSV files found under {worker_dir}")
 
     merged_rows: list[dict[str, str]] = []
-    fieldnames: list[str] | None = None
+    input_fieldnames: list[str] | None = None
     cumulative_offset = timedelta(0)
+    worker = worker_dir.name
+    factory = worker_dir.parent.name
+    case_id = f"{factory}_{worker}"
 
     for index, csv_path in enumerate(csv_paths):
         current_fieldnames, rows = read_csv_rows(csv_path)
-        if fieldnames is None:
-            fieldnames = current_fieldnames
+        if input_fieldnames is None:
+            input_fieldnames = current_fieldnames
         else:
-            validate_fieldnames(fieldnames, current_fieldnames, csv_path)
+            validate_fieldnames(input_fieldnames, current_fieldnames, csv_path)
 
         shifted_rows: list[dict[str, str]] = []
         file_last_end: datetime | None = None
         for row in rows:
-            shifted_row = dict(row)
             shifted_start = parse_timestamp(row["start_timestamp"]) + cumulative_offset
             shifted_end = parse_timestamp(row["end_timestamp"]) + cumulative_offset
-            shifted_row["start_timestamp"] = format_timestamp(shifted_start)
-            shifted_row["end_timestamp"] = format_timestamp(shifted_end)
+            shifted_row = {
+                "start_timestamp": format_timestamp(shifted_start),
+                "end_timestamp": format_timestamp(shifted_end),
+                "activity": row.get("activity", ""),
+                "process": row.get("process", ""),
+                "factory": row.get("factory", factory),
+                "worker": row.get("worker", worker),
+                "source_file": csv_path.name,
+                "case_id": case_id,
+            }
             shifted_rows.append(shifted_row)
 
             if file_last_end is None or shifted_end > file_last_end:
@@ -140,7 +160,7 @@ def merge_worker_csvs(worker_dir: Path) -> tuple[list[str], list[dict[str, str]]
         elif index == 0:
             cumulative_offset = timedelta(0)
 
-    return fieldnames or [], merged_rows
+    return OUTPUT_FIELDNAMES, merged_rows
 
 
 def write_csv(output_path: Path, fieldnames: list[str], rows: list[dict[str, str]]) -> None:
@@ -174,6 +194,7 @@ def merge_one_worker(
     if output_path.exists() and not overwrite:
         print(f"Keeping existing merged CSV {output_path}", flush=True)
         fieldnames, rows = read_csv_rows(output_path)
+        validate_fieldnames(OUTPUT_FIELDNAMES, fieldnames, output_path)
         return fieldnames, rows
 
     fieldnames, rows = merge_worker_csvs(worker_dir)
@@ -226,11 +247,13 @@ def merge_factory_workers(
     output_path = factory_output_path(output_root, factory)
     if output_path.exists() and not overwrite:
         print(f"Keeping existing factory CSV {output_path}", flush=True)
+        fieldnames, _ = read_csv_rows(output_path)
+        validate_fieldnames(OUTPUT_FIELDNAMES, fieldnames, output_path)
         return
 
     factory_rows = build_factory_rows(merged_worker_rows)
     print(f"Creating factory CSV {output_path}", flush=True)
-    write_csv(output_path, fieldnames or [], factory_rows)
+    write_csv(output_path, fieldnames or OUTPUT_FIELDNAMES, factory_rows)
 
 
 def main() -> int:

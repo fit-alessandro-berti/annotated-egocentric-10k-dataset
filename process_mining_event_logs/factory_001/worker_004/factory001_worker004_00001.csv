@@ -1,0 +1,14 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:15,toss completed sub-assembly into side bin,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:00:15,2000-01-01 00:05:35,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:05:38,2000-01-01 00:08:33,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:08:36,2000-01-01 00:10:47,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:10:47,2000-01-01 00:10:53,drag unassembled metal parts closer to fixture,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:10:53,2000-01-01 00:12:37,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:12:41,2000-01-01 00:14:07,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:14:10,2000-01-01 00:15:02,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:15:05,2000-01-01 00:17:28,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:17:31,2000-01-01 00:18:17,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:18:22,2000-01-01 00:18:57,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:19:01,2000-01-01 00:19:46,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:19:54,2000-01-01 00:20:00,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004

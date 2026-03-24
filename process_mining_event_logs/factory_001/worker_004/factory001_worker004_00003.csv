@@ -1,0 +1,41 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:10,2000-01-01 00:00:16,place metal bracket onto central fixture,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:00:16,2000-01-01 00:00:22,insert small fastener into pre-drilled hole,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:00:22,2000-01-01 00:00:28,pull down suspended power screwdriver,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:00:28,2000-01-01 00:00:34,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:00:34,2000-01-01 00:00:43,toss completed sub-assembly into side bin,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:00:43,2000-01-01 00:00:54,drag unassembled metal parts closer to fixture,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:00:54,2000-01-01 00:02:24,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:02:24,2000-01-01 00:02:34,place metal bracket onto central fixture,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:02:34,2000-01-01 00:03:05,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:03:05,2000-01-01 00:03:13,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:03:13,2000-01-01 00:03:39,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:03:39,2000-01-01 00:03:45,place metal bracket onto central fixture,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:03:45,2000-01-01 00:03:55,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:03:55,2000-01-01 00:04:03,place metal bracket onto central fixture,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:04:03,2000-01-01 00:05:03,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:05:03,2000-01-01 00:05:13,hand off part to adjacent coworker,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:05:13,2000-01-01 00:05:24,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:05:24,2000-01-01 00:05:32,show finished part to coworker,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:05:32,2000-01-01 00:05:42,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:05:50,2000-01-01 00:05:58,drag unassembled metal parts closer to fixture,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:05:58,2000-01-01 00:06:23,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:06:23,2000-01-01 00:06:28,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:06:28,2000-01-01 00:06:55,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:06:55,2000-01-01 00:07:05,insert small fastener into pre-drilled hole,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:07:05,2000-01-01 00:07:47,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:07:47,2000-01-01 00:07:53,place metal bracket onto central fixture,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:07:53,2000-01-01 00:08:00,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:08:06,2000-01-01 00:08:35,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:08:35,2000-01-01 00:08:44,toss completed sub-assembly into side bin,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:08:44,2000-01-01 00:09:14,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:09:14,2000-01-01 00:09:20,toss completed sub-assembly into side bin,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:09:20,2000-01-01 00:09:28,place metal bracket onto central fixture,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:09:28,2000-01-01 00:10:26,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:10:35,2000-01-01 00:10:44,drag unassembled metal parts closer to fixture,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:10:44,2000-01-01 00:10:56,drag unassembled metal parts closer to fixture,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:10:56,2000-01-01 00:11:05,place metal bracket onto central fixture,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:11:05,2000-01-01 00:11:15,place metal bracket onto central fixture,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:11:15,2000-01-01 00:17:25,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:17:25,2000-01-01 00:17:34,receive part from adjacent coworker,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:17:34,2000-01-01 00:19:53,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004

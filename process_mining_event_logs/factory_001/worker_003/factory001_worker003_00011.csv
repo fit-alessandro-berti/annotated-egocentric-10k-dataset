@@ -1,0 +1,47 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:07,mate components over central jig,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:00:08,2000-01-01 00:01:15,mount finished assembly onto wooden board pin,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:01:16,2000-01-01 00:02:00,mate components over central jig,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:02:00,2000-01-01 00:03:00,mount finished assembly onto wooden board pin,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:03:00,2000-01-01 00:03:22,mate components over central jig,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:03:23,2000-01-01 00:03:36,mount finished assembly onto wooden board pin,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:03:37,2000-01-01 00:03:46,pour large bag of small components into desktop bin,Material replenishment,factory_001,worker_003
+2000-01-01 00:03:47,2000-01-01 00:04:05,mate components over central jig,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:04:06,2000-01-01 00:04:47,mate components over central jig,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:04:48,2000-01-01 00:05:29,mount finished assembly onto wooden board pin,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:05:30,2000-01-01 00:06:00,consult coworker regarding part counts,Production tracking,factory_001,worker_003
+2000-01-01 00:06:01,2000-01-01 00:06:45,mate components over central jig,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:06:46,2000-01-01 00:07:02,drop loose parts into plastic bag,Component bagging,factory_001,worker_003
+2000-01-01 00:07:03,2000-01-01 00:07:23,write entry onto clipboard log,Production tracking,factory_001,worker_003
+2000-01-01 00:07:23,2000-01-01 00:07:37,mate components over central jig,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:07:38,2000-01-01 00:07:51,mount finished assembly onto wooden board pin,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:07:52,2000-01-01 00:07:55,place wooden board into machinery,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:07:56,2000-01-01 00:09:37,consult coworker regarding part counts,Production tracking,factory_001,worker_003
+2000-01-01 00:09:38,2000-01-01 00:10:40,write entry onto clipboard log,Production tracking,factory_001,worker_003
+2000-01-01 00:10:41,2000-01-01 00:10:47,mate components over central jig,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:10:48,2000-01-01 00:11:10,write entry onto clipboard log,Production tracking,factory_001,worker_003
+2000-01-01 00:11:11,2000-01-01 00:11:15,mate components over central jig,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:11:16,2000-01-01 00:11:22,carry finished batch to consolidation point,Finished goods transport,factory_001,worker_003
+2000-01-01 00:11:23,2000-01-01 00:11:41,mate components over central jig,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:11:42,2000-01-01 00:11:52,mount finished assembly onto wooden board pin,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:11:53,2000-01-01 00:12:00,write entry onto clipboard log,Production tracking,factory_001,worker_003
+2000-01-01 00:12:01,2000-01-01 00:12:06,mate components over central jig,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:12:07,2000-01-01 00:12:20,write entry onto clipboard log,Production tracking,factory_001,worker_003
+2000-01-01 00:12:21,2000-01-01 00:12:30,mate components over central jig,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:12:31,2000-01-01 00:12:35,mount finished assembly onto wooden board pin,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:12:36,2000-01-01 00:13:50,consult coworker regarding part counts,Production tracking,factory_001,worker_003
+2000-01-01 00:13:51,2000-01-01 00:14:00,mate components over central jig,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:14:01,2000-01-01 00:14:10,mount finished assembly onto wooden board pin,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:14:11,2000-01-01 00:14:17,write entry onto clipboard log,Production tracking,factory_001,worker_003
+2000-01-01 00:14:18,2000-01-01 00:14:31,mount finished assembly onto wooden board pin,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:14:32,2000-01-01 00:14:45,mate components over central jig,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:14:46,2000-01-01 00:15:10,write entry onto clipboard log,Production tracking,factory_001,worker_003
+2000-01-01 00:15:11,2000-01-01 00:15:25,mount finished assembly onto wooden board pin,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:15:26,2000-01-01 00:16:10,consult coworker regarding part counts,Production tracking,factory_001,worker_003
+2000-01-01 00:16:11,2000-01-01 00:16:47,mate components over central jig,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:16:48,2000-01-01 00:17:17,consult coworker regarding part counts,Production tracking,factory_001,worker_003
+2000-01-01 00:17:18,2000-01-01 00:18:23,mount finished assembly onto wooden board pin,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:18:24,2000-01-01 00:18:45,consult coworker regarding part counts,Production tracking,factory_001,worker_003
+2000-01-01 00:18:46,2000-01-01 00:19:09,mate components over central jig,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:19:10,2000-01-01 00:19:44,mate components over central jig,Manual mechanical assembly,factory_001,worker_003
+2000-01-01 00:19:45,2000-01-01 00:20:00,mount finished assembly onto wooden board pin,Manual mechanical assembly,factory_001,worker_003
