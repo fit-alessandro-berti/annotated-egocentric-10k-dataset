@@ -23,6 +23,9 @@ OUTPUT_FIELDNAMES = [
     "worker",
     "source_file",
     "case_id",
+    "start_seconds_from_video_start",
+    "end_seconds_from_video_start",
+    "duration_seconds",
 ]
 
 
@@ -114,6 +117,14 @@ def validate_fieldnames(expected: list[str], actual: list[str], path: Path) -> N
         )
 
 
+def matches_expected_schema(fieldnames: list[str]) -> bool:
+    return fieldnames == OUTPUT_FIELDNAMES
+
+
+def seconds_from_base(timestamp: datetime) -> int:
+    return int((timestamp - BASE_EVENT_DATETIME).total_seconds())
+
+
 def merge_worker_csvs(worker_dir: Path) -> tuple[list[str], list[dict[str, str]]]:
     csv_paths = iter_csv_paths(worker_dir)
     if not csv_paths:
@@ -136,8 +147,10 @@ def merge_worker_csvs(worker_dir: Path) -> tuple[list[str], list[dict[str, str]]
         shifted_rows: list[dict[str, str]] = []
         file_last_end: datetime | None = None
         for row in rows:
-            shifted_start = parse_timestamp(row["start_timestamp"]) + cumulative_offset
-            shifted_end = parse_timestamp(row["end_timestamp"]) + cumulative_offset
+            original_start = parse_timestamp(row["start_timestamp"])
+            original_end = parse_timestamp(row["end_timestamp"])
+            shifted_start = original_start + cumulative_offset
+            shifted_end = original_end + cumulative_offset
             shifted_row = {
                 "start_timestamp": format_timestamp(shifted_start),
                 "end_timestamp": format_timestamp(shifted_end),
@@ -147,6 +160,9 @@ def merge_worker_csvs(worker_dir: Path) -> tuple[list[str], list[dict[str, str]]
                 "worker": row.get("worker", worker),
                 "source_file": csv_path.name,
                 "case_id": case_id,
+                "start_seconds_from_video_start": str(seconds_from_base(original_start)),
+                "end_seconds_from_video_start": str(seconds_from_base(original_end)),
+                "duration_seconds": str(seconds_from_base(original_end) - seconds_from_base(original_start)),
             }
             shifted_rows.append(shifted_row)
 
@@ -194,8 +210,12 @@ def merge_one_worker(
     if output_path.exists() and not overwrite:
         print(f"Keeping existing merged CSV {output_path}", flush=True)
         fieldnames, rows = read_csv_rows(output_path)
-        validate_fieldnames(OUTPUT_FIELDNAMES, fieldnames, output_path)
-        return fieldnames, rows
+        if matches_expected_schema(fieldnames):
+            return fieldnames, rows
+        print(
+            f"Existing merged CSV has outdated schema, regenerating {output_path}",
+            flush=True,
+        )
 
     fieldnames, rows = merge_worker_csvs(worker_dir)
     print(f"Merging {factory}/{worker} -> {output_path}", flush=True)
@@ -248,8 +268,12 @@ def merge_factory_workers(
     if output_path.exists() and not overwrite:
         print(f"Keeping existing factory CSV {output_path}", flush=True)
         fieldnames, _ = read_csv_rows(output_path)
-        validate_fieldnames(OUTPUT_FIELDNAMES, fieldnames, output_path)
-        return
+        if matches_expected_schema(fieldnames):
+            return
+        print(
+            f"Existing factory CSV has outdated schema, regenerating {output_path}",
+            flush=True,
+        )
 
     factory_rows = build_factory_rows(merged_worker_rows)
     print(f"Creating factory CSV {output_path}", flush=True)

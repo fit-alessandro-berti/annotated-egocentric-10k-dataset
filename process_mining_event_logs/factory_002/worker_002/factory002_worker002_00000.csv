@@ -1,0 +1,22 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:07:08,fold sides of fabric inward,Fabric folding,factory_002,worker_002
+2000-01-01 00:07:08,2000-01-01 00:07:34,drop packaged garments into bulk box,Box packing,factory_002,worker_002
+2000-01-01 00:07:34,2000-01-01 00:09:40,fold sides of fabric inward,Fabric folding,factory_002,worker_002
+2000-01-01 00:09:40,2000-01-01 00:10:00,drop packaged garments into bulk box,Box packing,factory_002,worker_002
+2000-01-01 00:10:00,2000-01-01 00:11:15,fold sides of fabric inward,Fabric folding,factory_002,worker_002
+2000-01-01 00:11:15,2000-01-01 00:11:32,pick up loose fabric piece,Fabric folding,factory_002,worker_002
+2000-01-01 00:11:32,2000-01-01 00:12:15,fold sides of fabric inward,Fabric folding,factory_002,worker_002
+2000-01-01 00:12:15,2000-01-01 00:12:45,pick up loose fabric piece,Fabric folding,factory_002,worker_002
+2000-01-01 00:12:45,2000-01-01 00:14:02,fold sides of fabric inward,Fabric folding,factory_002,worker_002
+2000-01-01 00:14:02,2000-01-01 00:14:14,drop packaged garments into bulk box,Box packing,factory_002,worker_002
+2000-01-01 00:14:14,2000-01-01 00:14:38,fold sides of fabric inward,Fabric folding,factory_002,worker_002
+2000-01-01 00:14:38,2000-01-01 00:14:55,drop packaged garments into bulk box,Box packing,factory_002,worker_002
+2000-01-01 00:14:55,2000-01-01 00:17:08,fold sides of fabric inward,Fabric folding,factory_002,worker_002
+2000-01-01 00:17:08,2000-01-01 00:17:15,pick up loose fabric piece,Fabric folding,factory_002,worker_002
+2000-01-01 00:17:15,2000-01-01 00:17:45,fold sides of fabric inward,Fabric folding,factory_002,worker_002
+2000-01-01 00:17:45,2000-01-01 00:18:04,drop packaged garments into bulk box,Box packing,factory_002,worker_002
+2000-01-01 00:18:04,2000-01-01 00:18:48,fold sides of fabric inward,Fabric folding,factory_002,worker_002
+2000-01-01 00:18:48,2000-01-01 00:18:55,pick up loose fabric piece,Fabric folding,factory_002,worker_002
+2000-01-01 00:18:55,2000-01-01 00:19:10,fold sides of fabric inward,Fabric folding,factory_002,worker_002
+2000-01-01 00:19:10,2000-01-01 00:19:25,drop packaged garments into bulk box,Box packing,factory_002,worker_002
+2000-01-01 00:19:25,2000-01-01 00:20:00,fold sides of fabric inward,Fabric folding,factory_002,worker_002

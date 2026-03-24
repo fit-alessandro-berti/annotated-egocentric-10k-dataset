@@ -1,0 +1,72 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:59,snip loose threads with scissors,Thread snipping,factory_002,worker_002
+2000-01-01 00:00:59,2000-01-01 00:01:10,drop packaged garments into bulk box,Box packing,factory_002,worker_002
+2000-01-01 00:01:10,2000-01-01 00:01:40,slide folded garment into outer cardboard sleeve,Cardboard sleeve packaging,factory_002,worker_002
+2000-01-01 00:01:40,2000-01-01 00:02:07,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:02:07,2000-01-01 00:02:12,drop packaged garments into bulk box,Box packing,factory_002,worker_002
+2000-01-01 00:02:12,2000-01-01 00:02:45,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:02:45,2000-01-01 00:02:50,drop packaged garments into bulk box,Box packing,factory_002,worker_002
+2000-01-01 00:02:50,2000-01-01 00:03:05,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:03:05,2000-01-01 00:03:10,drop packaged garments into bulk box,Box packing,factory_002,worker_002
+2000-01-01 00:03:10,2000-01-01 00:03:45,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:03:45,2000-01-01 00:03:50,drop packaged garments into bulk box,Box packing,factory_002,worker_002
+2000-01-01 00:03:50,2000-01-01 00:04:28,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:04:28,2000-01-01 00:04:32,drop packaged garments into bulk box,Box packing,factory_002,worker_002
+2000-01-01 00:04:32,2000-01-01 00:05:08,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:05:08,2000-01-01 00:05:12,drop packaged garments into bulk box,Box packing,factory_002,worker_002
+2000-01-01 00:05:12,2000-01-01 00:05:30,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:05:30,2000-01-01 00:05:33,drop packaged garments into bulk box,Box packing,factory_002,worker_002
+2000-01-01 00:05:33,2000-01-01 00:05:55,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:05:55,2000-01-01 00:05:58,drop packaged garments into bulk box,Box packing,factory_002,worker_002
+2000-01-01 00:05:58,2000-01-01 00:06:58,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:06:58,2000-01-01 00:07:01,drop packaged garments into bulk box,Box packing,factory_002,worker_002
+2000-01-01 00:07:01,2000-01-01 00:07:39,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:07:39,2000-01-01 00:07:42,drop packaged garments into bulk box,Box packing,factory_002,worker_002
+2000-01-01 00:07:42,2000-01-01 00:09:30,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:09:30,2000-01-01 00:09:35,drop packaged garments into bulk box,Box packing,factory_002,worker_002
+2000-01-01 00:09:35,2000-01-01 00:09:58,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:09:58,2000-01-01 00:10:02,drop packaged garments into bulk box,Box packing,factory_002,worker_002
+2000-01-01 00:10:02,2000-01-01 00:10:18,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:10:18,2000-01-01 00:10:22,drop packaged garments into bulk box,Box packing,factory_002,worker_002
+2000-01-01 00:10:22,2000-01-01 00:11:08,write production numbers in lined notebook,Floor auditing,factory_002,worker_002
+2000-01-01 00:11:08,2000-01-01 00:11:41,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:11:41,2000-01-01 00:11:43,drop packaged garments into bulk box,Box packing,factory_002,worker_002
+2000-01-01 00:11:43,2000-01-01 00:11:47,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:11:47,2000-01-01 00:11:50,drop packaged garments into bulk box,Box packing,factory_002,worker_002
+2000-01-01 00:11:50,2000-01-01 00:12:22,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:12:22,2000-01-01 00:12:26,drop packaged garments into bulk box,Box packing,factory_002,worker_002
+2000-01-01 00:12:26,2000-01-01 00:12:44,transfer packaged stacks into wire-mesh cage cart,Cart loading,factory_002,worker_002
+2000-01-01 00:12:44,2000-01-01 00:12:56,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:12:56,2000-01-01 00:13:00,drop packaged garments into bulk box,Box packing,factory_002,worker_002
+2000-01-01 00:13:00,2000-01-01 00:13:04,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:13:04,2000-01-01 00:13:05,drop packaged garments into bulk box,Box packing,factory_002,worker_002
+2000-01-01 00:13:05,2000-01-01 00:13:25,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:13:25,2000-01-01 00:13:28,drop packaged garments into bulk box,Box packing,factory_002,worker_002
+2000-01-01 00:13:28,2000-01-01 00:13:37,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:13:37,2000-01-01 00:13:39,drop packaged garments into bulk box,Box packing,factory_002,worker_002
+2000-01-01 00:13:39,2000-01-01 00:13:42,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:13:42,2000-01-01 00:13:44,drop packaged garments into bulk box,Box packing,factory_002,worker_002
+2000-01-01 00:13:44,2000-01-01 00:14:12,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:14:12,2000-01-01 00:14:41,push loaded cage cart through factory aisle,Material transport,factory_002,worker_002
+2000-01-01 00:14:41,2000-01-01 00:14:48,review handwritten instruction slips,Floor auditing,factory_002,worker_002
+2000-01-01 00:14:48,2000-01-01 00:15:06,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:15:06,2000-01-01 00:15:08,drop packaged garments into bulk box,Box packing,factory_002,worker_002
+2000-01-01 00:15:08,2000-01-01 00:15:23,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:15:23,2000-01-01 00:15:25,drop packaged garments into bulk box,Box packing,factory_002,worker_002
+2000-01-01 00:15:25,2000-01-01 00:15:40,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:15:40,2000-01-01 00:15:42,drop packaged garments into bulk box,Box packing,factory_002,worker_002
+2000-01-01 00:15:42,2000-01-01 00:15:59,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:15:59,2000-01-01 00:16:00,drop packaged garments into bulk box,Box packing,factory_002,worker_002
+2000-01-01 00:16:00,2000-01-01 00:16:32,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:16:32,2000-01-01 00:16:35,drop packaged garments into bulk box,Box packing,factory_002,worker_002
+2000-01-01 00:16:35,2000-01-01 00:16:58,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:16:58,2000-01-01 00:17:00,drop packaged garments into bulk box,Box packing,factory_002,worker_002
+2000-01-01 00:17:00,2000-01-01 00:17:15,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:17:15,2000-01-01 00:17:40,pull clear tape from desktop dispenser,Package labeling,factory_002,worker_002
+2000-01-01 00:17:40,2000-01-01 00:17:56,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:17:56,2000-01-01 00:17:59,drop packaged garments into bulk box,Box packing,factory_002,worker_002
+2000-01-01 00:17:59,2000-01-01 00:18:25,drop packaged garments into bulk box,Box packing,factory_002,worker_002
+2000-01-01 00:18:25,2000-01-01 00:18:45,place empty floor board near table,Material transport,factory_002,worker_002
+2000-01-01 00:18:45,2000-01-01 00:18:59,write production numbers in lined notebook,Floor auditing,factory_002,worker_002
+2000-01-01 00:18:59,2000-01-01 00:19:29,fold bottom flaps of empty cardboard box,Box assembly,factory_002,worker_002
+2000-01-01 00:19:29,2000-01-01 00:19:59,apply adhesive label with handheld dispenser,Package labeling,factory_002,worker_002

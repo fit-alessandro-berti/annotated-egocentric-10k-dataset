@@ -1,0 +1,16 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:01:05,2000-01-01 00:01:31,fold raw garment around cardboard stiffener,Fabric folding,factory_002,worker_002
+2000-01-01 00:02:16,2000-01-01 00:02:39,write production numbers in lined notebook,Floor auditing,factory_002,worker_002
+2000-01-01 00:03:04,2000-01-01 00:05:39,write production numbers in lined notebook,Floor auditing,factory_002,worker_002
+2000-01-01 00:06:56,2000-01-01 00:08:24,slide folded garment into outer cardboard sleeve,Cardboard sleeve packaging,factory_002,worker_002
+2000-01-01 00:08:24,2000-01-01 00:13:43,fold t-shirt around permanent cardboard insert,Fabric folding,factory_002,worker_002
+2000-01-01 00:13:43,2000-01-01 00:13:53,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:13:53,2000-01-01 00:14:04,peel adhesive backing off plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:14:04,2000-01-01 00:14:15,fold over adhesive bag flap,Garment bagging,factory_002,worker_002
+2000-01-01 00:14:46,2000-01-01 00:16:38,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:16:38,2000-01-01 00:17:56,peel adhesive backing off plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:17:56,2000-01-01 00:19:14,fold over adhesive bag flap,Garment bagging,factory_002,worker_002
+2000-01-01 00:19:14,2000-01-01 00:19:25,fold t-shirt around permanent cardboard insert,Fabric folding,factory_002,worker_002
+2000-01-01 00:19:25,2000-01-01 00:19:36,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:19:36,2000-01-01 00:19:47,peel adhesive backing off plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:19:47,2000-01-01 00:19:59,fold over adhesive bag flap,Garment bagging,factory_002,worker_002

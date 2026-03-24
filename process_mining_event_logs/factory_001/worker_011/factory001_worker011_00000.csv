@@ -1,0 +1,41 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:02:55,actuate machine press,Metal stamping,factory_001,worker_011
+2000-01-01 00:00:00,2000-01-01 00:02:55,load metal blank from staged stack into die,Metal stamping,factory_001,worker_011
+2000-01-01 00:00:00,2000-01-01 00:02:55,remove finished part from die,Metal stamping,factory_001,worker_011
+2000-01-01 00:02:55,2000-01-01 00:03:02,pull scrap tray forward,Scrap disposal,factory_001,worker_011
+2000-01-01 00:03:02,2000-01-01 00:03:07,drop scrap metal into floor crate,Scrap disposal,factory_001,worker_011
+2000-01-01 00:03:07,2000-01-01 00:03:10,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_011
+2000-01-01 00:03:10,2000-01-01 00:07:13,actuate machine press,Metal stamping,factory_001,worker_011
+2000-01-01 00:03:10,2000-01-01 00:07:13,load metal blank from staged stack into die,Metal stamping,factory_001,worker_011
+2000-01-01 00:03:10,2000-01-01 00:07:13,remove finished part from die,Metal stamping,factory_001,worker_011
+2000-01-01 00:07:23,2000-01-01 00:07:30,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_011
+2000-01-01 00:07:34,2000-01-01 00:08:21,actuate machine press,Metal stamping,factory_001,worker_011
+2000-01-01 00:07:34,2000-01-01 00:08:21,load metal blank from staged stack into die,Metal stamping,factory_001,worker_011
+2000-01-01 00:07:34,2000-01-01 00:08:21,remove finished part from die,Metal stamping,factory_001,worker_011
+2000-01-01 00:08:21,2000-01-01 00:08:26,blow compressed air over machine bed,Workstation cleaning,factory_001,worker_011
+2000-01-01 00:08:26,2000-01-01 00:08:34,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_011
+2000-01-01 00:08:34,2000-01-01 00:08:44,manually adjust metal block in central machine area,Metal stamping,factory_001,worker_011
+2000-01-01 00:08:44,2000-01-01 00:09:02,actuate machine press,Metal stamping,factory_001,worker_011
+2000-01-01 00:08:44,2000-01-01 00:09:02,load metal blank from staged stack into die,Metal stamping,factory_001,worker_011
+2000-01-01 00:08:44,2000-01-01 00:09:02,remove finished part from die,Metal stamping,factory_001,worker_011
+2000-01-01 00:09:02,2000-01-01 00:09:08,manually adjust metal block in central machine area,Metal stamping,factory_001,worker_011
+2000-01-01 00:09:08,2000-01-01 00:10:23,actuate machine press,Metal stamping,factory_001,worker_011
+2000-01-01 00:09:08,2000-01-01 00:10:23,load metal blank from staged stack into die,Metal stamping,factory_001,worker_011
+2000-01-01 00:09:08,2000-01-01 00:10:23,remove finished part from die,Metal stamping,factory_001,worker_011
+2000-01-01 00:10:44,2000-01-01 00:14:58,actuate machine press,Metal stamping,factory_001,worker_011
+2000-01-01 00:10:44,2000-01-01 00:14:58,load metal blank from staged stack into die,Metal stamping,factory_001,worker_011
+2000-01-01 00:10:44,2000-01-01 00:14:58,remove finished part from die,Metal stamping,factory_001,worker_011
+2000-01-01 00:14:58,2000-01-01 00:15:04,actuate machine press,Metal stamping,factory_001,worker_011
+2000-01-01 00:14:58,2000-01-01 00:15:04,load metal blank from staged stack into die,Metal stamping,factory_001,worker_011
+2000-01-01 00:15:04,2000-01-01 00:15:09,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_011
+2000-01-01 00:15:09,2000-01-01 00:16:56,actuate machine press,Metal stamping,factory_001,worker_011
+2000-01-01 00:15:09,2000-01-01 00:16:56,load metal blank from staged stack into die,Metal stamping,factory_001,worker_011
+2000-01-01 00:15:09,2000-01-01 00:16:56,remove finished part from die,Metal stamping,factory_001,worker_011
+2000-01-01 00:16:56,2000-01-01 00:17:01,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_011
+2000-01-01 00:17:01,2000-01-01 00:18:35,actuate machine press,Metal stamping,factory_001,worker_011
+2000-01-01 00:17:01,2000-01-01 00:18:35,load metal blank from staged stack into die,Metal stamping,factory_001,worker_011
+2000-01-01 00:17:01,2000-01-01 00:18:35,remove finished part from die,Metal stamping,factory_001,worker_011
+2000-01-01 00:18:35,2000-01-01 00:18:41,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_011
+2000-01-01 00:18:41,2000-01-01 00:20:00,actuate machine press,Metal stamping,factory_001,worker_011
+2000-01-01 00:18:41,2000-01-01 00:20:00,load metal blank from staged stack into die,Metal stamping,factory_001,worker_011
+2000-01-01 00:18:41,2000-01-01 00:20:00,remove finished part from die,Metal stamping,factory_001,worker_011

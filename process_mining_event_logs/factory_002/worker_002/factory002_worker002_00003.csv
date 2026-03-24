@@ -1,0 +1,9 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:08,fold raw garment around cardboard stiffener,Garment bagging,factory_002,worker_002
+2000-01-01 00:00:08,2000-01-01 00:00:16,attach black plastic hanger hook to bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:00:16,2000-01-01 00:00:24,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:00:24,2000-01-01 00:00:32,peel adhesive backing off plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:00:32,2000-01-01 00:00:41,fold over adhesive bag flap,Garment bagging,factory_002,worker_002
+2000-01-01 00:00:41,2000-01-01 00:06:03,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:06:15,2000-01-01 00:14:24,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:14:31,2000-01-01 00:20:00,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_002

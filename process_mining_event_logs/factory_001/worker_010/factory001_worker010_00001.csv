@@ -1,0 +1,44 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:08,tighten bracket with Allen key,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 00:00:08,2000-01-01 00:00:15,manually join metal components,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 00:00:15,2000-01-01 00:00:44,tighten bracket with Allen key,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 00:00:44,2000-01-01 00:01:00,tighten set screw with hand tool,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 01:01:00,2000-01-01 01:01:21,tighten set screw with hand tool,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 01:01:21,2000-01-01 01:01:35,manually join metal components,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 01:01:35,2000-01-01 01:01:46,drag unassembled metal parts closer to fixture,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 01:01:46,2000-01-01 01:02:00,thread small screw into metal channel,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 01:02:00,2000-01-01 01:02:20,slide thin metal rod into channel,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 01:02:20,2000-01-01 01:02:32,drive screw into metal channel with power drill,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 01:02:32,2000-01-01 01:03:17,tighten bracket with Allen key,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 01:03:17,2000-01-01 01:03:28,manually join metal components,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 01:03:28,2000-01-01 01:03:40,tighten bracket with Allen key,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 01:03:40,2000-01-01 01:03:53,drive screw into metal channel with power drill,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 01:03:53,2000-01-01 01:04:05,make micro-adjustment to part with specialized tool,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 01:04:05,2000-01-01 01:04:39,tighten set screw with hand tool,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 01:04:39,2000-01-01 01:04:45,drive screw into metal channel with power drill,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 01:04:45,2000-01-01 01:05:01,make micro-adjustment to part with specialized tool,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 01:05:01,2000-01-01 01:05:09,thread small screw into metal channel,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 01:05:09,2000-01-01 01:05:20,slide thin metal rod into channel,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 01:05:20,2000-01-01 01:05:31,drive screw into metal channel with power drill,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 01:05:31,2000-01-01 01:05:38,manually join metal components,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 01:05:38,2000-01-01 01:06:40,sift unformed parts in bulk bin,Component kitting,factory_001,worker_010
+2000-01-01 01:09:08,2000-01-01 01:09:15,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_010
+2000-01-01 01:10:02,2000-01-01 01:10:24,place metal bracket onto central fixture,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 01:11:27,2000-01-01 01:11:38,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_010
+2000-01-01 01:11:43,2000-01-01 01:11:53,manually join metal components,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 01:12:15,2000-01-01 01:12:28,manually join metal components,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 01:12:28,2000-01-01 01:12:35,blow compressed air over unit,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 01:12:35,2000-01-01 01:12:44,manually join metal components,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 01:12:48,2000-01-01 01:12:59,manually join metal components,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 01:12:59,2000-01-01 01:13:46,weave flexible white strap through metal slots,Structural frame assembly,factory_001,worker_010
+2000-01-01 01:13:46,2000-01-01 01:13:58,make micro-adjustment to part with specialized tool,Structural frame assembly,factory_001,worker_010
+2000-01-01 01:14:12,2000-01-01 01:14:25,blow compressed air over unit,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 01:14:25,2000-01-01 01:14:43,manually join metal components,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 01:14:43,2000-01-01 01:14:49,blow compressed air over unit,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 01:15:02,2000-01-01 01:15:52,make micro-adjustment to part with specialized tool,Structural frame assembly,factory_001,worker_010
+2000-01-01 01:15:52,2000-01-01 01:16:41,weave flexible white strap through metal slots,Structural frame assembly,factory_001,worker_010
+2000-01-01 01:16:41,2000-01-01 01:17:12,secure strap with silver hand crimper,Structural frame assembly,factory_001,worker_010
+2000-01-01 01:17:12,2000-01-01 01:17:35,fit curved plastic shell over strapped metal frame,Structural frame assembly,factory_001,worker_010
+2000-01-01 01:17:35,2000-01-01 01:18:00,blow compressed air over unit,Structural frame assembly,factory_001,worker_010
+2000-01-01 01:18:00,2000-01-01 01:18:22,carry unit to seating fixture,Structural frame assembly,factory_001,worker_010
+2000-01-01 01:18:22,2000-01-01 01:20:00,press unit into blue seating fixture,Structural frame assembly,factory_001,worker_010

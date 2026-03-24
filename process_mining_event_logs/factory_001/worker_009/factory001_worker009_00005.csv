@@ -1,0 +1,30 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:26,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009
+2000-01-01 00:00:26,2000-01-01 00:00:32,drag small parts to front of bin,Material replenishment,factory_001,worker_009
+2000-01-01 00:00:32,2000-01-01 00:01:15,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009
+2000-01-01 00:01:15,2000-01-01 00:01:21,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_009
+2000-01-01 00:01:21,2000-01-01 00:02:04,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009
+2000-01-01 00:02:04,2000-01-01 00:02:11,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_009
+2000-01-01 00:02:11,2000-01-01 00:04:15,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009
+2000-01-01 00:04:26,2000-01-01 00:04:42,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009
+2000-01-01 00:04:42,2000-01-01 00:04:47,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_009
+2000-01-01 00:04:47,2000-01-01 00:05:13,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009
+2000-01-01 00:05:13,2000-01-01 00:05:22,drag small parts to front of bin,Material replenishment,factory_001,worker_009
+2000-01-01 00:05:22,2000-01-01 00:06:55,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009
+2000-01-01 00:06:55,2000-01-01 00:07:03,drag small parts to front of bin,Material replenishment,factory_001,worker_009
+2000-01-01 00:07:03,2000-01-01 00:09:20,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009
+2000-01-01 00:09:28,2000-01-01 00:09:47,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009
+2000-01-01 00:09:47,2000-01-01 00:09:56,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_009
+2000-01-01 00:09:56,2000-01-01 00:10:07,drag small parts to front of bin,Material replenishment,factory_001,worker_009
+2000-01-01 00:10:07,2000-01-01 00:11:00,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009
+2000-01-01 00:11:00,2000-01-01 00:11:09,drag small parts to front of bin,Material replenishment,factory_001,worker_009
+2000-01-01 00:11:09,2000-01-01 00:12:02,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009
+2000-01-01 00:12:02,2000-01-01 00:12:07,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_009
+2000-01-01 00:12:07,2000-01-01 00:14:41,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009
+2000-01-01 00:14:41,2000-01-01 00:14:51,drag small parts to front of bin,Material replenishment,factory_001,worker_009
+2000-01-01 00:14:51,2000-01-01 00:15:08,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009
+2000-01-01 00:15:08,2000-01-01 00:15:18,pour large bag of small components into desktop bin,Material replenishment,factory_001,worker_009
+2000-01-01 00:15:18,2000-01-01 00:17:34,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009
+2000-01-01 00:17:34,2000-01-01 00:17:46,drag small parts to front of bin,Material replenishment,factory_001,worker_009
+2000-01-01 00:17:46,2000-01-01 00:19:54,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009
+2000-01-01 00:19:54,2000-01-01 00:20:01,drag small parts to front of bin,Material replenishment,factory_001,worker_009

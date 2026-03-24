@@ -1,0 +1,32 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:35,finger-thread metal washer and nut onto pre-drilled hole,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 00:00:35,2000-01-01 00:00:46,retrieve wrapped red plastic enclosure from pallet,Material replenishment,factory_001,worker_010
+2000-01-01 00:00:46,2000-01-01 00:01:10,tear open clear plastic wrapping,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 00:01:10,2000-01-01 00:01:21,discard plastic wrapper on desk,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 00:01:21,2000-01-01 00:02:43,finger-thread metal washer and nut onto pre-drilled hole,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 00:02:43,2000-01-01 00:04:06,tighten nut from inside enclosure using pliers,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 00:04:06,2000-01-01 00:04:20,brush clear liquid onto switch threads,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 00:04:20,2000-01-01 00:04:35,insert switch into enclosure hole,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 00:04:35,2000-01-01 00:04:59,tighten nut from inside enclosure using pliers,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 00:05:01,2000-01-01 00:06:21,finger-thread metal washer and nut onto pre-drilled hole,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 00:06:21,2000-01-01 00:07:41,tighten nut from inside enclosure using pliers,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 00:07:41,2000-01-01 00:08:00,brush clear liquid onto switch threads,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 00:08:00,2000-01-01 00:08:20,insert switch into enclosure hole,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 00:08:20,2000-01-01 00:09:08,tighten nut from inside enclosure using pliers,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 00:09:08,2000-01-01 00:09:18,retrieve wrapped red plastic enclosure from pallet,Material replenishment,factory_001,worker_010
+2000-01-01 00:09:18,2000-01-01 00:09:40,tear open clear plastic wrapping,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 00:09:40,2000-01-01 00:09:47,discard plastic wrapper on desk,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 00:09:47,2000-01-01 00:11:15,finger-thread metal washer and nut onto pre-drilled hole,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 00:11:15,2000-01-01 00:12:43,tighten nut from inside enclosure using pliers,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 00:12:43,2000-01-01 00:13:00,brush clear liquid onto switch threads,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 00:13:00,2000-01-01 00:13:15,insert switch into enclosure hole,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 00:13:15,2000-01-01 00:13:48,tighten nut from inside enclosure using pliers,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 00:14:00,2000-01-01 00:15:20,finger-thread metal washer and nut onto pre-drilled hole,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 00:15:20,2000-01-01 00:16:39,tighten nut from inside enclosure using pliers,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 00:16:39,2000-01-01 00:16:55,brush clear liquid onto switch threads,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 00:16:55,2000-01-01 00:17:10,insert switch into enclosure hole,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 00:17:10,2000-01-01 00:17:46,tighten nut from inside enclosure using pliers,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 00:17:46,2000-01-01 00:17:54,retrieve wrapped red plastic enclosure from pallet,Material replenishment,factory_001,worker_010
+2000-01-01 00:17:54,2000-01-01 00:18:03,tear open clear plastic wrapping,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 00:18:03,2000-01-01 00:19:00,finger-thread metal washer and nut onto pre-drilled hole,Manual mechanical assembly,factory_001,worker_010
+2000-01-01 00:19:00,2000-01-01 00:20:00,tighten nut from inside enclosure using pliers,Manual mechanical assembly,factory_001,worker_010

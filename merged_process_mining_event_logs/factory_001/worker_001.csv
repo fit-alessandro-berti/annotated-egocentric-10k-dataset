@@ -1,83 +1,83 @@
-start_timestamp,end_timestamp,activity,process,factory,worker,source_file,case_id
-2000-01-01 00:00:03,2000-01-01 00:01:08,load raw metal blank into die,Metal stamping,factory_001,worker_001,factory001_worker001_00000.csv,factory_001_worker_001
-2000-01-01 00:01:08,2000-01-01 00:01:10,actuate machine press,Metal stamping,factory_001,worker_001,factory001_worker001_00000.csv,factory_001_worker_001
-2000-01-01 00:01:10,2000-01-01 00:03:26,load raw metal blank into die,Metal stamping,factory_001,worker_001,factory001_worker001_00000.csv,factory_001_worker_001
-2000-01-01 00:03:38,2000-01-01 00:03:41,retrieve base and clip components from bins,Material replenishment,factory_001,worker_001,factory001_worker001_00000.csv,factory_001_worker_001
-2000-01-01 00:04:08,2000-01-01 00:04:14,pour raw parts onto feed tray,Material replenishment,factory_001,worker_001,factory001_worker001_00000.csv,factory_001_worker_001
-2000-01-01 00:04:14,2000-01-01 00:06:58,load raw metal blank into die,Metal stamping,factory_001,worker_001,factory001_worker001_00000.csv,factory_001_worker_001
-2000-01-01 00:06:58,2000-01-01 00:07:07,hand part to coworker for inspection,Metal stamping,factory_001,worker_001,factory001_worker001_00000.csv,factory_001_worker_001
-2000-01-01 00:07:07,2000-01-01 00:09:11,load raw metal blank into die,Metal stamping,factory_001,worker_001,factory001_worker001_00001.csv,factory_001_worker_001
-2000-01-01 00:09:53,2000-01-01 00:09:58,pour raw parts onto feed tray,Material replenishment,factory_001,worker_001,factory001_worker001_00001.csv,factory_001_worker_001
-2000-01-01 00:09:58,2000-01-01 00:23:18,load raw metal blank into die,Metal stamping,factory_001,worker_001,factory001_worker001_00001.csv,factory_001_worker_001
-2000-01-01 00:23:42,2000-01-01 00:24:02,pour raw parts onto feed tray,Material replenishment,factory_001,worker_001,factory001_worker001_00001.csv,factory_001_worker_001
-2000-01-01 00:24:02,2000-01-01 00:27:07,load raw metal blank into die,Metal stamping,factory_001,worker_001,factory001_worker001_00001.csv,factory_001_worker_001
-2000-01-01 00:27:07,2000-01-01 00:29:48,actuate machine press,Semi-automated press assembly,factory_001,worker_001,factory001_worker001_00002.csv,factory_001_worker_001
-2000-01-01 00:29:48,2000-01-01 00:29:51,inspect newly stamped part,Semi-automated press assembly,factory_001,worker_001,factory001_worker001_00002.csv,factory_001_worker_001
-2000-01-01 00:29:51,2000-01-01 00:37:27,actuate machine press,Semi-automated press assembly,factory_001,worker_001,factory001_worker001_00002.csv,factory_001_worker_001
-2000-01-01 00:37:29,2000-01-01 00:39:42,actuate machine press,Semi-automated press assembly,factory_001,worker_001,factory001_worker001_00002.csv,factory_001_worker_001
-2000-01-01 00:40:35,2000-01-01 00:40:52,retrieve base and clip components from bins,Material replenishment,factory_001,worker_001,factory001_worker001_00002.csv,factory_001_worker_001
-2000-01-01 00:40:52,2000-01-01 00:40:55,pour raw parts onto feed tray,Material replenishment,factory_001,worker_001,factory001_worker001_00002.csv,factory_001_worker_001
-2000-01-01 00:41:26,2000-01-01 00:47:06,actuate machine press,Semi-automated press assembly,factory_001,worker_001,factory001_worker001_00002.csv,factory_001_worker_001
-2000-01-01 00:47:06,2000-01-01 00:47:36,load raw metal blank into die,Metal stamping,factory_001,worker_001,factory001_worker001_00003.csv,factory_001_worker_001
-2000-01-01 00:47:36,2000-01-01 00:47:39,wipe down metal die,Workstation cleaning,factory_001,worker_001,factory001_worker001_00003.csv,factory_001_worker_001
-2000-01-01 00:47:39,2000-01-01 00:51:08,load raw metal blank into die,Metal stamping,factory_001,worker_001,factory001_worker001_00003.csv,factory_001_worker_001
-2000-01-01 00:51:08,2000-01-01 00:51:20,inspect newly stamped part,Metal stamping,factory_001,worker_001,factory001_worker001_00003.csv,factory_001_worker_001
-2000-01-01 00:51:20,2000-01-01 00:54:11,load raw metal blank into die,Metal stamping,factory_001,worker_001,factory001_worker001_00003.csv,factory_001_worker_001
-2000-01-01 00:54:11,2000-01-01 00:54:39,carry finished batch to consolidation point,Finished goods transport,factory_001,worker_001,factory001_worker001_00003.csv,factory_001_worker_001
-2000-01-01 00:54:39,2000-01-01 00:55:30,dump finished pieces into bulk container,Finished goods transport,factory_001,worker_001,factory001_worker001_00003.csv,factory_001_worker_001
-2000-01-01 00:55:47,2000-01-01 00:56:04,scoop raw parts into bin,Material replenishment,factory_001,worker_001,factory001_worker001_00003.csv,factory_001_worker_001
-2000-01-01 00:56:04,2000-01-01 00:56:27,pour raw parts onto feed tray,Material replenishment,factory_001,worker_001,factory001_worker001_00003.csv,factory_001_worker_001
-2000-01-01 00:56:27,2000-01-01 01:07:05,load raw metal blank into die,Metal stamping,factory_001,worker_001,factory001_worker001_00003.csv,factory_001_worker_001
-2000-01-01 01:07:05,2000-01-01 09:16:05,actuate machine press,Metal stamping,factory_001,worker_001,factory001_worker001_00004.csv,factory_001_worker_001
-2000-01-01 09:16:05,2000-01-01 09:20:05,scoop raw parts into bin,Finished goods transport,factory_001,worker_001,factory001_worker001_00004.csv,factory_001_worker_001
-2000-01-01 09:20:05,2000-01-01 09:26:05,input multiplication formula into smartphone,Production tracking,factory_001,worker_001,factory001_worker001_00004.csv,factory_001_worker_001
-2000-01-01 09:26:05,2000-01-01 09:40:05,carry finished batch to consolidation point,Finished goods transport,factory_001,worker_001,factory001_worker001_00004.csv,factory_001_worker_001
-2000-01-01 09:40:05,2000-01-01 09:44:05,hand off part to adjacent coworker,Finished goods transport,factory_001,worker_001,factory001_worker001_00004.csv,factory_001_worker_001
-2000-01-01 09:51:05,2000-01-01 10:02:05,scoop raw parts into bin,Material replenishment,factory_001,worker_001,factory001_worker001_00004.csv,factory_001_worker_001
-2000-01-01 10:02:05,2000-01-01 10:08:05,hand off part to adjacent coworker,Material replenishment,factory_001,worker_001,factory001_worker001_00004.csv,factory_001_worker_001
-2000-01-01 10:22:05,2000-01-01 21:07:05,actuate machine press,Metal stamping,factory_001,worker_001,factory001_worker001_00004.csv,factory_001_worker_001
-2000-01-01 21:07:05,2000-01-01 21:10:31,actuate machine press,Metal stamping,factory_001,worker_001,factory001_worker001_00005.csv,factory_001_worker_001
-2000-01-01 21:10:31,2000-01-01 21:10:57,receive part from adjacent coworker,Finished goods transport,factory_001,worker_001,factory001_worker001_00005.csv,factory_001_worker_001
-2000-01-01 21:10:57,2000-01-01 21:11:19,carry finished batch to consolidation point,Finished goods transport,factory_001,worker_001,factory001_worker001_00005.csv,factory_001_worker_001
-2000-01-01 21:11:19,2000-01-01 21:11:27,dump finished pieces into bulk container,Component bagging,factory_001,worker_001,factory001_worker001_00005.csv,factory_001_worker_001
-2000-01-01 21:11:27,2000-01-01 21:11:39,carry finished batch to consolidation point,Finished goods transport,factory_001,worker_001,factory001_worker001_00005.csv,factory_001_worker_001
-2000-01-01 21:11:39,2000-01-01 21:12:01,drop loose parts into plastic bag,Component bagging,factory_001,worker_001,factory001_worker001_00005.csv,factory_001_worker_001
-2000-01-01 21:12:01,2000-01-01 21:12:10,stack empty bins behind workstation,Material replenishment,factory_001,worker_001,factory001_worker001_00005.csv,factory_001_worker_001
-2000-01-01 21:12:10,2000-01-01 21:12:35,wipe down metal die,Workstation cleaning,factory_001,worker_001,factory001_worker001_00005.csv,factory_001_worker_001
-2000-01-01 21:12:35,2000-01-01 21:27:05,actuate machine press,Metal stamping,factory_001,worker_001,factory001_worker001_00005.csv,factory_001_worker_001
-2000-01-01 21:27:05,2000-01-01 21:34:12,actuate machine press,Metal stamping,factory_001,worker_001,factory001_worker001_00006.csv,factory_001_worker_001
-2000-01-01 21:34:28,2000-01-01 21:34:45,inspect newly stamped part,Metal stamping,factory_001,worker_001,factory001_worker001_00006.csv,factory_001_worker_001
-2000-01-01 21:40:08,2000-01-01 21:40:39,carry finished batch to consolidation point,Finished goods transport,factory_001,worker_001,factory001_worker001_00006.csv,factory_001_worker_001
-2000-01-01 21:40:39,2000-01-01 21:47:04,actuate machine press,Metal stamping,factory_001,worker_001,factory001_worker001_00006.csv,factory_001_worker_001
-2000-01-01 21:47:04,2000-01-01 21:54:06,actuate machine press,Metal stamping,factory_001,worker_001,factory001_worker001_00007.csv,factory_001_worker_001
-2000-01-01 21:54:06,2000-01-01 21:55:33,scoop raw parts into bin,Material replenishment,factory_001,worker_001,factory001_worker001_00007.csv,factory_001_worker_001
-2000-01-01 21:55:33,2000-01-01 21:55:53,scoop raw parts into bin,Material replenishment,factory_001,worker_001,factory001_worker001_00007.csv,factory_001_worker_001
-2000-01-01 21:55:53,2000-01-01 21:56:45,pour raw parts onto feed tray,Material replenishment,factory_001,worker_001,factory001_worker001_00007.csv,factory_001_worker_001
-2000-01-01 21:56:45,2000-01-01 21:57:14,scoop raw parts into bin,Material replenishment,factory_001,worker_001,factory001_worker001_00007.csv,factory_001_worker_001
-2000-01-01 21:57:14,2000-01-01 21:57:29,pour raw parts onto feed tray,Material replenishment,factory_001,worker_001,factory001_worker001_00007.csv,factory_001_worker_001
-2000-01-01 21:57:29,2000-01-01 22:07:04,actuate machine press,Metal stamping,factory_001,worker_001,factory001_worker001_00007.csv,factory_001_worker_001
-2000-01-01 22:07:04,2000-01-01 22:09:09,actuate machine press,Metal stamping,factory_001,worker_001,factory001_worker001_00008.csv,factory_001_worker_001
-2000-01-01 22:09:13,2000-01-01 22:13:32,actuate machine press,Metal stamping,factory_001,worker_001,factory001_worker001_00008.csv,factory_001_worker_001
-2000-01-01 22:13:53,2000-01-01 22:19:03,actuate machine press,Metal stamping,factory_001,worker_001,factory001_worker001_00008.csv,factory_001_worker_001
-2000-01-01 22:19:56,2000-01-01 22:20:07,line bulk container with plastic,Material replenishment,factory_001,worker_001,factory001_worker001_00008.csv,factory_001_worker_001
-2000-01-01 22:20:08,2000-01-01 22:27:03,actuate machine press,Metal stamping,factory_001,worker_001,factory001_worker001_00008.csv,factory_001_worker_001
-2000-01-01 22:27:03,2000-01-01 22:27:29,actuate machine press,Metal stamping,factory_001,worker_001,factory001_worker001_00009.csv,factory_001_worker_001
-2000-01-01 22:27:29,2000-01-01 22:27:46,carry finished batch to consolidation point,Finished goods transport,factory_001,worker_001,factory001_worker001_00009.csv,factory_001_worker_001
-2000-01-01 22:27:46,2000-01-01 22:27:57,dump finished pieces into bulk container,Finished goods transport,factory_001,worker_001,factory001_worker001_00009.csv,factory_001_worker_001
-2000-01-01 22:28:03,2000-01-01 22:28:17,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_001,factory001_worker001_00009.csv,factory_001_worker_001
-2000-01-01 22:28:17,2000-01-01 22:32:07,actuate machine press,Metal stamping,factory_001,worker_001,factory001_worker001_00009.csv,factory_001_worker_001
-2000-01-01 22:32:07,2000-01-01 22:32:19,adjust plastic collection bag,Metal stamping,factory_001,worker_001,factory001_worker001_00009.csv,factory_001_worker_001
-2000-01-01 22:32:19,2000-01-01 22:34:14,actuate machine press,Metal stamping,factory_001,worker_001,factory001_worker001_00009.csv,factory_001_worker_001
-2000-01-01 22:34:33,2000-01-01 22:35:14,scoop raw parts into bin,Material replenishment,factory_001,worker_001,factory001_worker001_00009.csv,factory_001_worker_001
-2000-01-01 22:35:14,2000-01-01 22:41:43,actuate machine press,Metal stamping,factory_001,worker_001,factory001_worker001_00009.csv,factory_001_worker_001
-2000-01-01 22:41:43,2000-01-01 22:42:13,carry finished batch to consolidation point,Finished goods transport,factory_001,worker_001,factory001_worker001_00009.csv,factory_001_worker_001
-2000-01-01 22:42:13,2000-01-01 22:42:36,dump finished pieces into bulk container,Finished goods transport,factory_001,worker_001,factory001_worker001_00009.csv,factory_001_worker_001
-2000-01-01 22:42:51,2000-01-01 22:43:12,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_001,factory001_worker001_00009.csv,factory_001_worker_001
-2000-01-01 22:43:12,2000-01-01 22:47:03,actuate machine press,Metal stamping,factory_001,worker_001,factory001_worker001_00009.csv,factory_001_worker_001
-2000-01-01 22:47:03,2000-01-01 22:50:25,actuate machine press,Metal stamping,factory_001,worker_001,factory001_worker001_00010.csv,factory_001_worker_001
-2000-01-01 22:50:25,2000-01-01 22:51:16,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_001,factory001_worker001_00010.csv,factory_001_worker_001
-2000-01-01 22:51:16,2000-01-01 22:51:25,hand part to coworker for inspection,Metal stamping,factory_001,worker_001,factory001_worker001_00010.csv,factory_001_worker_001
-2000-01-01 22:51:25,2000-01-01 22:51:32,hold unbent pieces in non-dominant hand,Metal stamping,factory_001,worker_001,factory001_worker001_00010.csv,factory_001_worker_001
-2000-01-01 22:51:32,2000-01-01 22:52:01,scoop raw parts into bin,Material replenishment,factory_001,worker_001,factory001_worker001_00010.csv,factory_001_worker_001
-2000-01-01 22:52:01,2000-01-01 23:00:57,actuate machine press,Metal stamping,factory_001,worker_001,factory001_worker001_00010.csv,factory_001_worker_001
-2000-01-01 23:01:05,2000-01-01 23:07:03,actuate machine press,Metal stamping,factory_001,worker_001,factory001_worker001_00010.csv,factory_001_worker_001
+start_timestamp,end_timestamp,activity,process,factory,worker,source_file,case_id,start_seconds_from_video_start,end_seconds_from_video_start,duration_seconds
+2000-01-01 00:00:03,2000-01-01 00:01:08,load raw metal blank into die,Metal stamping,factory_001,worker_001,factory001_worker001_00000.csv,factory_001_worker_001,3,68,65
+2000-01-01 00:01:08,2000-01-01 00:01:10,actuate machine press,Metal stamping,factory_001,worker_001,factory001_worker001_00000.csv,factory_001_worker_001,68,70,2
+2000-01-01 00:01:10,2000-01-01 00:03:26,load raw metal blank into die,Metal stamping,factory_001,worker_001,factory001_worker001_00000.csv,factory_001_worker_001,70,206,136
+2000-01-01 00:03:38,2000-01-01 00:03:41,retrieve base and clip components from bins,Material replenishment,factory_001,worker_001,factory001_worker001_00000.csv,factory_001_worker_001,218,221,3
+2000-01-01 00:04:08,2000-01-01 00:04:14,pour raw parts onto feed tray,Material replenishment,factory_001,worker_001,factory001_worker001_00000.csv,factory_001_worker_001,248,254,6
+2000-01-01 00:04:14,2000-01-01 00:06:58,load raw metal blank into die,Metal stamping,factory_001,worker_001,factory001_worker001_00000.csv,factory_001_worker_001,254,418,164
+2000-01-01 00:06:58,2000-01-01 00:07:07,hand part to coworker for inspection,Metal stamping,factory_001,worker_001,factory001_worker001_00000.csv,factory_001_worker_001,418,427,9
+2000-01-01 00:07:07,2000-01-01 00:09:11,load raw metal blank into die,Metal stamping,factory_001,worker_001,factory001_worker001_00001.csv,factory_001_worker_001,0,124,124
+2000-01-01 00:09:53,2000-01-01 00:09:58,pour raw parts onto feed tray,Material replenishment,factory_001,worker_001,factory001_worker001_00001.csv,factory_001_worker_001,166,171,5
+2000-01-01 00:09:58,2000-01-01 00:23:18,load raw metal blank into die,Metal stamping,factory_001,worker_001,factory001_worker001_00001.csv,factory_001_worker_001,171,971,800
+2000-01-01 00:23:42,2000-01-01 00:24:02,pour raw parts onto feed tray,Material replenishment,factory_001,worker_001,factory001_worker001_00001.csv,factory_001_worker_001,995,1015,20
+2000-01-01 00:24:02,2000-01-01 00:27:07,load raw metal blank into die,Metal stamping,factory_001,worker_001,factory001_worker001_00001.csv,factory_001_worker_001,1015,1200,185
+2000-01-01 00:27:07,2000-01-01 00:29:48,actuate machine press,Semi-automated press assembly,factory_001,worker_001,factory001_worker001_00002.csv,factory_001_worker_001,0,161,161
+2000-01-01 00:29:48,2000-01-01 00:29:51,inspect newly stamped part,Semi-automated press assembly,factory_001,worker_001,factory001_worker001_00002.csv,factory_001_worker_001,161,164,3
+2000-01-01 00:29:51,2000-01-01 00:37:27,actuate machine press,Semi-automated press assembly,factory_001,worker_001,factory001_worker001_00002.csv,factory_001_worker_001,164,620,456
+2000-01-01 00:37:29,2000-01-01 00:39:42,actuate machine press,Semi-automated press assembly,factory_001,worker_001,factory001_worker001_00002.csv,factory_001_worker_001,622,755,133
+2000-01-01 00:40:35,2000-01-01 00:40:52,retrieve base and clip components from bins,Material replenishment,factory_001,worker_001,factory001_worker001_00002.csv,factory_001_worker_001,808,825,17
+2000-01-01 00:40:52,2000-01-01 00:40:55,pour raw parts onto feed tray,Material replenishment,factory_001,worker_001,factory001_worker001_00002.csv,factory_001_worker_001,825,828,3
+2000-01-01 00:41:26,2000-01-01 00:47:06,actuate machine press,Semi-automated press assembly,factory_001,worker_001,factory001_worker001_00002.csv,factory_001_worker_001,859,1199,340
+2000-01-01 00:47:06,2000-01-01 00:47:36,load raw metal blank into die,Metal stamping,factory_001,worker_001,factory001_worker001_00003.csv,factory_001_worker_001,0,30,30
+2000-01-01 00:47:36,2000-01-01 00:47:39,wipe down metal die,Workstation cleaning,factory_001,worker_001,factory001_worker001_00003.csv,factory_001_worker_001,30,33,3
+2000-01-01 00:47:39,2000-01-01 00:51:08,load raw metal blank into die,Metal stamping,factory_001,worker_001,factory001_worker001_00003.csv,factory_001_worker_001,33,242,209
+2000-01-01 00:51:08,2000-01-01 00:51:20,inspect newly stamped part,Metal stamping,factory_001,worker_001,factory001_worker001_00003.csv,factory_001_worker_001,242,254,12
+2000-01-01 00:51:20,2000-01-01 00:54:11,load raw metal blank into die,Metal stamping,factory_001,worker_001,factory001_worker001_00003.csv,factory_001_worker_001,254,425,171
+2000-01-01 00:54:11,2000-01-01 00:54:39,carry finished batch to consolidation point,Finished goods transport,factory_001,worker_001,factory001_worker001_00003.csv,factory_001_worker_001,425,453,28
+2000-01-01 00:54:39,2000-01-01 00:55:30,dump finished pieces into bulk container,Finished goods transport,factory_001,worker_001,factory001_worker001_00003.csv,factory_001_worker_001,453,504,51
+2000-01-01 00:55:47,2000-01-01 00:56:04,scoop raw parts into bin,Material replenishment,factory_001,worker_001,factory001_worker001_00003.csv,factory_001_worker_001,521,538,17
+2000-01-01 00:56:04,2000-01-01 00:56:27,pour raw parts onto feed tray,Material replenishment,factory_001,worker_001,factory001_worker001_00003.csv,factory_001_worker_001,538,561,23
+2000-01-01 00:56:27,2000-01-01 01:07:05,load raw metal blank into die,Metal stamping,factory_001,worker_001,factory001_worker001_00003.csv,factory_001_worker_001,561,1199,638
+2000-01-01 01:07:05,2000-01-01 09:16:05,actuate machine press,Metal stamping,factory_001,worker_001,factory001_worker001_00004.csv,factory_001_worker_001,0,29340,29340
+2000-01-01 09:16:05,2000-01-01 09:20:05,scoop raw parts into bin,Finished goods transport,factory_001,worker_001,factory001_worker001_00004.csv,factory_001_worker_001,29340,29580,240
+2000-01-01 09:20:05,2000-01-01 09:26:05,input multiplication formula into smartphone,Production tracking,factory_001,worker_001,factory001_worker001_00004.csv,factory_001_worker_001,29580,29940,360
+2000-01-01 09:26:05,2000-01-01 09:40:05,carry finished batch to consolidation point,Finished goods transport,factory_001,worker_001,factory001_worker001_00004.csv,factory_001_worker_001,29940,30780,840
+2000-01-01 09:40:05,2000-01-01 09:44:05,hand off part to adjacent coworker,Finished goods transport,factory_001,worker_001,factory001_worker001_00004.csv,factory_001_worker_001,30780,31020,240
+2000-01-01 09:51:05,2000-01-01 10:02:05,scoop raw parts into bin,Material replenishment,factory_001,worker_001,factory001_worker001_00004.csv,factory_001_worker_001,31440,32100,660
+2000-01-01 10:02:05,2000-01-01 10:08:05,hand off part to adjacent coworker,Material replenishment,factory_001,worker_001,factory001_worker001_00004.csv,factory_001_worker_001,32100,32460,360
+2000-01-01 10:22:05,2000-01-01 21:07:05,actuate machine press,Metal stamping,factory_001,worker_001,factory001_worker001_00004.csv,factory_001_worker_001,33300,72000,38700
+2000-01-01 21:07:05,2000-01-01 21:10:31,actuate machine press,Metal stamping,factory_001,worker_001,factory001_worker001_00005.csv,factory_001_worker_001,0,206,206
+2000-01-01 21:10:31,2000-01-01 21:10:57,receive part from adjacent coworker,Finished goods transport,factory_001,worker_001,factory001_worker001_00005.csv,factory_001_worker_001,206,232,26
+2000-01-01 21:10:57,2000-01-01 21:11:19,carry finished batch to consolidation point,Finished goods transport,factory_001,worker_001,factory001_worker001_00005.csv,factory_001_worker_001,232,254,22
+2000-01-01 21:11:19,2000-01-01 21:11:27,dump finished pieces into bulk container,Component bagging,factory_001,worker_001,factory001_worker001_00005.csv,factory_001_worker_001,254,262,8
+2000-01-01 21:11:27,2000-01-01 21:11:39,carry finished batch to consolidation point,Finished goods transport,factory_001,worker_001,factory001_worker001_00005.csv,factory_001_worker_001,262,274,12
+2000-01-01 21:11:39,2000-01-01 21:12:01,drop loose parts into plastic bag,Component bagging,factory_001,worker_001,factory001_worker001_00005.csv,factory_001_worker_001,274,296,22
+2000-01-01 21:12:01,2000-01-01 21:12:10,stack empty bins behind workstation,Material replenishment,factory_001,worker_001,factory001_worker001_00005.csv,factory_001_worker_001,296,305,9
+2000-01-01 21:12:10,2000-01-01 21:12:35,wipe down metal die,Workstation cleaning,factory_001,worker_001,factory001_worker001_00005.csv,factory_001_worker_001,305,330,25
+2000-01-01 21:12:35,2000-01-01 21:27:05,actuate machine press,Metal stamping,factory_001,worker_001,factory001_worker001_00005.csv,factory_001_worker_001,330,1200,870
+2000-01-01 21:27:05,2000-01-01 21:34:12,actuate machine press,Metal stamping,factory_001,worker_001,factory001_worker001_00006.csv,factory_001_worker_001,0,427,427
+2000-01-01 21:34:28,2000-01-01 21:34:45,inspect newly stamped part,Metal stamping,factory_001,worker_001,factory001_worker001_00006.csv,factory_001_worker_001,443,460,17
+2000-01-01 21:40:08,2000-01-01 21:40:39,carry finished batch to consolidation point,Finished goods transport,factory_001,worker_001,factory001_worker001_00006.csv,factory_001_worker_001,783,814,31
+2000-01-01 21:40:39,2000-01-01 21:47:04,actuate machine press,Metal stamping,factory_001,worker_001,factory001_worker001_00006.csv,factory_001_worker_001,814,1199,385
+2000-01-01 21:47:04,2000-01-01 21:54:06,actuate machine press,Metal stamping,factory_001,worker_001,factory001_worker001_00007.csv,factory_001_worker_001,0,422,422
+2000-01-01 21:54:06,2000-01-01 21:55:33,scoop raw parts into bin,Material replenishment,factory_001,worker_001,factory001_worker001_00007.csv,factory_001_worker_001,422,509,87
+2000-01-01 21:55:33,2000-01-01 21:55:53,scoop raw parts into bin,Material replenishment,factory_001,worker_001,factory001_worker001_00007.csv,factory_001_worker_001,509,529,20
+2000-01-01 21:55:53,2000-01-01 21:56:45,pour raw parts onto feed tray,Material replenishment,factory_001,worker_001,factory001_worker001_00007.csv,factory_001_worker_001,529,581,52
+2000-01-01 21:56:45,2000-01-01 21:57:14,scoop raw parts into bin,Material replenishment,factory_001,worker_001,factory001_worker001_00007.csv,factory_001_worker_001,581,610,29
+2000-01-01 21:57:14,2000-01-01 21:57:29,pour raw parts onto feed tray,Material replenishment,factory_001,worker_001,factory001_worker001_00007.csv,factory_001_worker_001,610,625,15
+2000-01-01 21:57:29,2000-01-01 22:07:04,actuate machine press,Metal stamping,factory_001,worker_001,factory001_worker001_00007.csv,factory_001_worker_001,625,1200,575
+2000-01-01 22:07:04,2000-01-01 22:09:09,actuate machine press,Metal stamping,factory_001,worker_001,factory001_worker001_00008.csv,factory_001_worker_001,0,125,125
+2000-01-01 22:09:13,2000-01-01 22:13:32,actuate machine press,Metal stamping,factory_001,worker_001,factory001_worker001_00008.csv,factory_001_worker_001,129,388,259
+2000-01-01 22:13:53,2000-01-01 22:19:03,actuate machine press,Metal stamping,factory_001,worker_001,factory001_worker001_00008.csv,factory_001_worker_001,409,719,310
+2000-01-01 22:19:56,2000-01-01 22:20:07,line bulk container with plastic,Material replenishment,factory_001,worker_001,factory001_worker001_00008.csv,factory_001_worker_001,772,783,11
+2000-01-01 22:20:08,2000-01-01 22:27:03,actuate machine press,Metal stamping,factory_001,worker_001,factory001_worker001_00008.csv,factory_001_worker_001,784,1199,415
+2000-01-01 22:27:03,2000-01-01 22:27:29,actuate machine press,Metal stamping,factory_001,worker_001,factory001_worker001_00009.csv,factory_001_worker_001,0,26,26
+2000-01-01 22:27:29,2000-01-01 22:27:46,carry finished batch to consolidation point,Finished goods transport,factory_001,worker_001,factory001_worker001_00009.csv,factory_001_worker_001,26,43,17
+2000-01-01 22:27:46,2000-01-01 22:27:57,dump finished pieces into bulk container,Finished goods transport,factory_001,worker_001,factory001_worker001_00009.csv,factory_001_worker_001,43,54,11
+2000-01-01 22:28:03,2000-01-01 22:28:17,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_001,factory001_worker001_00009.csv,factory_001_worker_001,60,74,14
+2000-01-01 22:28:17,2000-01-01 22:32:07,actuate machine press,Metal stamping,factory_001,worker_001,factory001_worker001_00009.csv,factory_001_worker_001,74,304,230
+2000-01-01 22:32:07,2000-01-01 22:32:19,adjust plastic collection bag,Metal stamping,factory_001,worker_001,factory001_worker001_00009.csv,factory_001_worker_001,304,316,12
+2000-01-01 22:32:19,2000-01-01 22:34:14,actuate machine press,Metal stamping,factory_001,worker_001,factory001_worker001_00009.csv,factory_001_worker_001,316,431,115
+2000-01-01 22:34:33,2000-01-01 22:35:14,scoop raw parts into bin,Material replenishment,factory_001,worker_001,factory001_worker001_00009.csv,factory_001_worker_001,450,491,41
+2000-01-01 22:35:14,2000-01-01 22:41:43,actuate machine press,Metal stamping,factory_001,worker_001,factory001_worker001_00009.csv,factory_001_worker_001,491,880,389
+2000-01-01 22:41:43,2000-01-01 22:42:13,carry finished batch to consolidation point,Finished goods transport,factory_001,worker_001,factory001_worker001_00009.csv,factory_001_worker_001,880,910,30
+2000-01-01 22:42:13,2000-01-01 22:42:36,dump finished pieces into bulk container,Finished goods transport,factory_001,worker_001,factory001_worker001_00009.csv,factory_001_worker_001,910,933,23
+2000-01-01 22:42:51,2000-01-01 22:43:12,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_001,factory001_worker001_00009.csv,factory_001_worker_001,948,969,21
+2000-01-01 22:43:12,2000-01-01 22:47:03,actuate machine press,Metal stamping,factory_001,worker_001,factory001_worker001_00009.csv,factory_001_worker_001,969,1200,231
+2000-01-01 22:47:03,2000-01-01 22:50:25,actuate machine press,Metal stamping,factory_001,worker_001,factory001_worker001_00010.csv,factory_001_worker_001,0,202,202
+2000-01-01 22:50:25,2000-01-01 22:51:16,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_001,factory001_worker001_00010.csv,factory_001_worker_001,202,253,51
+2000-01-01 22:51:16,2000-01-01 22:51:25,hand part to coworker for inspection,Metal stamping,factory_001,worker_001,factory001_worker001_00010.csv,factory_001_worker_001,253,262,9
+2000-01-01 22:51:25,2000-01-01 22:51:32,hold unbent pieces in non-dominant hand,Metal stamping,factory_001,worker_001,factory001_worker001_00010.csv,factory_001_worker_001,262,269,7
+2000-01-01 22:51:32,2000-01-01 22:52:01,scoop raw parts into bin,Material replenishment,factory_001,worker_001,factory001_worker001_00010.csv,factory_001_worker_001,269,298,29
+2000-01-01 22:52:01,2000-01-01 23:00:57,actuate machine press,Metal stamping,factory_001,worker_001,factory001_worker001_00010.csv,factory_001_worker_001,298,834,536
+2000-01-01 23:01:05,2000-01-01 23:07:03,actuate machine press,Metal stamping,factory_001,worker_001,factory001_worker001_00010.csv,factory_001_worker_001,842,1200,358
