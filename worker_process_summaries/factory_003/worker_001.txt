@@ -1,0 +1,42 @@
+Process Summary
+
+The observed workflow centers on the manual surface finishing, defect patching, and partial assembly of molded or cast yellow components. The worker executes a multi-stage process that includes scraping off excess material, blowing away debris, patching surface defects with putty, inserting secondary ring components into the parts, and applying and smoothing sealing pastes. The worker processes these parts in batches at a seated workbench and periodically transports completed trays to nearby storage racks or hands them off to secondary workers.
+
+Detailed Process Breakdown
+
+Workstation Setup and Material Handling
+The work is performed at a metal table covered with batches of unworked yellow components. The station is equipped with a small flat metal scraping tool, pieces of cloth and sandpaper, an air blow gun connected to a blue hose, small metal trays containing gray putty, containers of white paste and liquid, and assorted brushes (small detail brushes, a red-handled brush, and a thick wooden-handled brush). 
+
+Scraping and Filing
+The primary preparatory step involves the worker picking up individual components and using the flat metal tool to manually scrape and file the inner circular openings, outer contours, and ridges. The worker rotates the piece repeatedly to reach all surfaces. 
+
+Defect Patching
+During or immediately after the scraping phase, the worker inspects the pieces for gaps or defects. Using their fingers or the flat tool, they scoop small amounts of gray putty from a tray, press it into the surface defects, smooth it over with their thumb, and wipe the area with a cloth. 
+
+Cleaning and Debris Removal
+The scraping process generates dust and shavings. The worker periodically interrupts the scraping task to clear this debris. They achieve this by either vigorously brushing the parts and the table with a paintbrush, wiping individual parts with a cloth, or using the compressed air gun to blow dust off the parts and the workstation. 
+
+Assembly (Ring Insertion)
+In a distinct operational phase, the worker applies a dark gray paste to the inner rim of the component's opening. They then take a small white ring and press it firmly into the pasted opening, effectively seating the secondary part into the main yellow component. 
+
+Paste Application and Joint Sealing
+Once the components are prepped (and rings inserted, if applicable), the worker applies a white paste or liquid around the openings or the newly formed joints. The paste is applied using a small brush, the flat scraping tool, or bare fingers. To achieve a smooth finish, the worker dips a brush into a liquid container, brushes it over the white paste, and wipes away excess material using their thumb or by scraping it onto the edge of the work table. They also use small, folded pieces of cloth twisted inside the circular openings to ensure the interior remains clean. 
+
+Transport and Handoffs
+Completed parts are staged on the table or placed directly onto metal trays. Once a batch is finished, the worker routinely stands up, carries the loaded tray across the workshop, and places it on metal shelving racks. On multiple occasions, a secondary worker approaches the table to arrange parts or gather completed pieces directly from the primary worker's staging area.
+
+Possible Process Optimizations
+
+*   Transport and Material Staging (Inference): The worker frequently halts production to carry small trays of finished parts across the workshop to storage racks. Placing rolling racks immediately adjacent to the workbench, or using a short conveyor/gravity chute, would eliminate the walk time and reduce interruptions to the core assembly cycle.
+*   Debris Management (Visible/Inference): The current method of cleaning involves using an air gun or dry brushes to blow metal or ceramic shavings across the table. Because the worker applies wet pastes and putties at the same station, airborne dust risks contaminating the adhesives. Installing a downdraft grate at the scraping station or a localized vacuum nozzle would immediately extract shavings, eliminating the need to use an air gun and protecting the pasting process.
+*   Batch Size Standardization (Inference): The worker exhibits highly variable batching sequences—sometimes scraping, pasting, and wiping a single part from start to finish, and other times scraping large batches before switching to paste. Standardizing the batch size for each sub-task would minimize the repetitive picking up and putting down of different tools (scraper, brush, cloth, putty), thereby reducing tool-switch overhead.
+*   Workstation Organization and Tool Presentation (Visible): The worker constantly sets down and searches for various small tools and cloths on a cluttered surface. Implementing shadow boards or dedicated tool rests, and providing a specific wiping block (rather than the worker wiping excess paste on the table edge), would improve cleanliness and reduce non-value-added handling time.
+*   Handoff Coordination (Visible): The interaction with the secondary worker picking up parts from the table appears ad hoc and occasionally interrupts the primary worker. Establishing a clearly delineated "outbound" square or bin on the edge of the table would allow the material handler to collect parts without encroaching on the primary worker's active workspace.
+
+Evidence Limits
+
+*   The exact material composition of the yellow parts (e.g., whether they are ceramic, cast metal, or plastic) cannot be definitively determined from the visual evidence alone, though they generate fine dust when scraped.
+*   The chemical nature and purpose of the various pastes, liquids, and putties (e.g., whether they are adhesives, cosmetic fillers, or sealants) are unknown.
+*   It is unclear if the distinct ring-insertion task applies to every component processed in the factory, as it was only observed during specific sequences.
+*   Quality control criteria—specifically how the worker determines which parts require gray putty patching versus standard scraping—cannot be visually verified.
+*   The upstream source of the unworked parts and the downstream destination of the storage racks are out of frame, limiting the ability to assess broader line-balancing opportunities.

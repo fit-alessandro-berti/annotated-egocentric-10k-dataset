@@ -1,0 +1,41 @@
+Process Summary
+
+The observed workflow consists of manual fabric preparation, sorting, kitting, and bundling operations. The worker primarily operates at a white table, sorting pre-cut pieces of pink fabric, assembling them into standardized kits, and securing these bundles for downstream operations. The work can be divided into three distinct sub-processes: (1) fabric pinning and sub-assembly alignment, (2) paper-wrapped bundling, and (3) bulk alignment, folding, and bagging. The operational flow relies heavily on manual dexterity, visual alignment, and frequent localized material transport by the worker.
+
+Detailed Process Breakdown
+
+**Fabric Pinning and Sub-Assembly Alignment**
+The worker sits at the workstation and performs highly repetitive matching and joining tasks:
+*   **Small Piece Pairing:** The worker aligns the curved edges of two small fabric pieces, folds them slightly, and secures them with a pin. These pinned pairs are stacked in the center of the table.
+*   **Base Piece Mating:** The worker places a large pink fabric piece flat on the work surface, takes a previously pinned small pair, and aligns it to a specific edge or cutout on the larger piece. 
+*   **Marking:** During alignment, the worker occasionally uses a pen to make specific alignment marks on the fabric.
+*   **Bundling:** Completed stacks of these sub-assemblies are tied together securely using purple tags with blue string.
+*   **Transport:** Once a bundle is tied, the worker stands up and walks through the factory aisles to drop off the bundles at designated areas before returning to resume the loop.
+
+**Paper-Wrapped Bundling**
+This distinct task involves wrapping fabric with brown dotted paper:
+*   **Wrapping:** A piece of pink fabric is placed over a sheet of brown dotted paper. The paper is folded multiple times over the fabric to create a tight, rectangular bundle.
+*   **Securing:** To secure the folded paper, the worker uses a blue pen to repeatedly poke holes or make marks into the bundle. 
+*   **Staging:** The worker carries the secured paper bundle to an adjacent table and adds it to a large pile of identical bundles. During this process, they walk to a bin in the factory to discard paper scraps.
+
+**Bulk Alignment, Folding, and Bagging**
+This process focuses on larger volumes of fabric pieces and final packaging:
+*   **Meticulous Alignment:** The worker handles large stacks of thin pink fabric pieces, repeatedly tapping and adjusting the edges against the table to ensure they are perfectly flush. 
+*   **Stacking and Folding:** Smaller fabric cutouts are systematically stacked onto larger base pieces. Once aligned, the entire combined stack is folded over itself to create a compact bundle.
+*   **Tying and Labeling:** These bundles are tied using either white string or blue-stringed labels. The worker manually writes on the labels before attaching them. 
+*   **Bagging:** Tied bundles are transported to a large, clear plastic sack on the floor. Once the sack is full, the worker ties the top closed, lifts the sack, and carries it to another staging area in the factory. 
+*   **Handoffs:** Throughout this process, adjacent workers periodically approach the table to pick up paperwork, review labels, or drop off new piles of pre-cut fabric.
+
+Possible Process Optimizations
+
+*   **Fastening Tool Introduction:** The method of using a pen to poke holes in the brown dotted paper to secure the bundle appears to be a makeshift workaround. Providing a specialized fastening tool—such as a stapler, heavy-duty tape dispenser, or standardized clips—would likely improve cycle time and ergonomics for this step.
+*   **Material Transport and Handoffs:** The worker frequently halts assembly to walk through the aisles to discard scraps, retrieve tools (e.g., scissors), drop off individual bundles, and carry filled sacks. *Inference:* Implementing a material handler ("water spider") to supply raw fabric and take away completed sacks, or installing a gravity chute/conveyor for finished bundles, would significantly reduce operator travel time and keep them focused on value-added assembly.
+*   **Workstation Tool and Waste Organization:** The worker had to walk away from the table to discard a paper scrap and, in another instance, walk away to retrieve scissors. *Inference:* Placing a small point-of-use waste bin immediately under the desk and introducing shadowed tool organizers (or tethered tools) would eliminate unnecessary walking for setup and cleanup.
+*   **Batching Optimization:** The worker sometimes transports single finished bundles to an adjacent table or bin. *Inference:* Staging a larger intermediate tote directly on or beside the primary work table would allow the worker to batch transports, reducing the frequency of standing and pivoting.
+
+Evidence Limits
+
+*   The exact nature of the final garment or product cannot be determined from the close-up view of the fabric pieces.
+*   It is unclear what specific information is being written on the tags or what the pen marks on the fabric signify (e.g., sizing, matching indicators, or defect marking).
+*   The exact destination of the worker during off-camera walks (e.g., where the clear plastic sacks are delivered) is not visible, limiting recommendations on factory-level layout changes.
+*   It is not entirely clear why the paper bundles require hole-poking, nor is it visible if this method holds up during downstream transport.

@@ -1,0 +1,41 @@
+Process Summary
+
+The observed workflow primarily centers on sewing operations using an overlock machine. The worker handles precut pieces of white fabric and performs two distinct but related processes. The first process is a high-volume overlock seaming task, where raw edges of white fabric are aligned and joined. Depending on the batch, these pieces are either processed into massive, continuous stitched chains or snapped apart individually. The second distinct process involves folding the edge of the fabric, inserting a small tag, and sewing the pieces together in chained pairs before manually separating them. 
+
+Detailed Process Breakdown
+
+**Workspace Setup and Material Staging**
+The primary workstation consists of a table with an overlock sewing machine equipped with large thread cones. Precut white fabric is staged in large, frequently disorganized piles to the worker's left or front. Adjacent tables hold large piles of differently colored fabrics (pink, dark blue), which the worker occasionally reaches out to adjust. A scrap collection area, including a bucket, is located under the table, though fabric trimmings heavily accumulate directly on the floor around the worker’s feet.
+
+**Process 1: Overlock Seaming and Chaining**
+This is a highly repetitive, high-volume task. The operational loop proceeds as follows:
+1. The worker reaches left or forward to grab unsewn pieces of white fabric.
+2. Using both hands, the worker meticulously unfolds and aligns the raw edges of the fabric pieces.
+3. The aligned edges are fed under the presser foot of the overlock machine, which stitches the seam and trims the excess fabric simultaneously.
+4. **Output Handling Variation A (Continuous Chaining):** The worker continuously feeds piece after piece without cutting the connecting thread, resulting in a massive chain of sewn items that accumulates on the table and in the worker's lap. Periodically, the worker halts sewing, gathers the heavy accumulated chain, turns around, and tosses the entire bundle onto a pile on the floor or an orange stool behind them.
+5. **Output Handling Variation B (Individual Snapping):** Instead of building large chains, the worker pulls the sewn piece backward out of the machine, sharply snaps the thread chain by hand to detach it, and tosses the finished piece onto a pile to their right.
+
+During both variations, the immediate supply of unsewn fabric depletes, forcing the worker to stop sewing periodically, grab thick, heavy bundles of raw fabric from the larger disorganized pile, and drag them across the table to restock their immediate working area.
+
+**Process 2: Folding and Tag Attachment**
+This process requires more precise material manipulation and is processed in micro-batches (pairs). The cycle is as follows:
+1. The worker pulls a single piece of white fabric from the staged pile and folds an edge over with both hands.
+2. The worker picks up a small tag and inserts it directly into the fold.
+3. The folded, tagged edge is fed through the sewing machine.
+4. Without cutting the thread, the worker immediately prepares a second piece of fabric in the exact same manner (folding and tagging) and feeds it into the machine, chaining it to the first piece.
+5. The worker pulls the connected pair of garments from the machine and manually cuts the connecting thread with a tool to separate the two pieces. 
+
+Possible Process Optimizations
+
+*   **Material Presentation and Staging:** The worker frequently halts the sewing cycle to drag bulky, disorganized stacks of unsewn fabric into their immediate reach zone. Implementing angled gravity bins, staging trays, or presenting the fabric in neatly stacked bundles directly next to the presser foot would reduce manual replenishment time and handling effort.
+*   **Finished Goods Handling:** Tossing massive chains of completed items onto the floor behind the worker requires double handling and risks soiling the white fabric. Placing a wheeled bin, catch-cart, or slide immediately behind or to the right of the worker would eliminate floor staging and streamline transport to the next station.
+*   **Automated Thread Trimming:** In Process 1, the worker manually snaps thread chains; in Process 2, they manually cut the thread to separate pairs. Equipping the sewing machine with an automatic thread trimmer (guillotine) or a static blade attachment positioned directly behind the presser foot (a chain cutter) would eliminate the manual separation step, increasing throughput.
+*   **Scrap Management:** The accumulation of fabric scraps on the floor suggests an inefficient waste disposal layout. Installing a direct waste chute from the overlock machine's cutting blade into an under-table bin would maintain workspace cleanliness and eliminate the need for subsequent floor sweeping.
+*   **Chain Management (Inference):** For the continuous chaining operation, allowing the fabric to pile up on the worker's lap causes physical obstruction. If continuous chaining is strictly required by the downstream process, a mechanical puller or a simple gravity chute extending off the back of the table into a staging cart could automatically guide the chain away from the worker's lap.
+
+Evidence Limits
+
+*   It is entirely unclear where the finished goods go after they are tossed onto the floor behind the workstation or into the pile on the right. Downstream processing is not visible.
+*   The exact upstream origin of the disorganized white fabric piles is not observed, limiting recommendations on how batch sizes are delivered to the station.
+*   The exact text or purpose of the small tags inserted during the second process cannot be seen.
+*   While the worker occasionally interacts with pink and blue fabric on adjacent tables, it is unknown if these fabrics are part of this worker's assigned process or if they are simply sharing table space with neighboring stations.

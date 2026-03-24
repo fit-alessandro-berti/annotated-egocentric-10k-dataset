@@ -1,0 +1,39 @@
+Process Summary
+
+The observed worker is engaged in multiple manual preparation and assembly stages for intricate, multi-part wooden puzzle objects or mechanisms. The overall workflow consists of several distinct, highly repetitive processes: liquid coating of wooden blocks, detailed mechanical scraping and sanding, batch application of paste to slotted joints, seam trimming for small cylindrical pegs, and the final insertion and assembly of the pegs into wooden bases. The worker frequently transitions between these tasks, managing various hand tools, raw material piles, cleaning equipment, and organized staging trays. The workspace is shared at times with other personnel, and the worker occasionally manages inventory counts against paper documentation. 
+
+Detailed Process Breakdown
+
+**Process 1: Liquid Coating of Carved Blocks**
+The worker treats untreated, intricately carved yellow wooden blocks with a brownish liquid. Working from a disorganized pile of raw blocks on the table, the worker holds a single block in their left hand while repeatedly dipping a brush-like tool into a small metal cup of liquid with their right hand. The block is rotated continuously to ensure the liquid reaches all internal angles and carved surfaces. Once fully coated, the block is placed into a completed pile on the left side of the workstation.
+
+**Process 2: Detail Scraping, Sanding, and Cleaning**
+The worker cleans and fine-tunes the internal tracks, moving parts, and crevices of the yellow wooden blocks. 
+*   **Scraping & Mechanism Testing:** Using a pointed metal scraping tool, the worker clears debris from the inner edges and gaps. For blocks with sliding mechanisms, the worker manually actuates the internal parts back and forth to clear out dust and ensure a smooth fit.
+*   **Sanding & Wiping:** The worker periodically sets down the scraping tool to use small pieces of sandpaper for surface smoothing, or uses a small white cloth to wipe down the pieces as they scrape.
+*   **Dust Clearing:** An air blow gun is occasionally used to blast loosened wooden dust off the piece and the general workspace. 
+*   Finished pieces are either stacked in piles on the desk or placed into organized rows on a nearby metal rack.
+
+**Process 3: Batch Paste Application**
+The worker applies a white, paste-like substance to the slotted top surfaces of the yellow wooden objects. Unlike the single-piece flow of the scraping and coating processes, this task is batched. The worker arranges cleaned blocks into neat rows within empty metal trays. Using a small brush or a thin wooden stick, the worker systematically dips into a container of white paste and dabs the substance onto the top slots of multiple objects in succession across several trays. During this phase, the worker is also observed comparing the trays of objects against a paper document, seemingly performing an inventory or specification check.
+
+**Process 4: Component Trimming (Green Pegs)**
+The worker prepares small, green cylindrical wooden pegs. A cardboard box of raw pegs is dumped onto the metal table, and the worker uses a paintbrush to sweep the scattered pieces into a central pile. Picking up one peg at a time, the worker uses a small, flat metal tool to scrape along the sides of the cylinder, presumably to remove seams or excess material. The scraped peg is then rotated, scraped again, and placed into a new pile of finished parts closer to the worker. A secondary worker is sometimes visible at the same table, parallel-processing these pegs.
+
+**Process 5: Assembly of Pegs and Bases**
+The worker combines the prepared green pegs with light-colored wooden puzzle bases. The worker retrieves a tray of wooden bases from a nearby large metal rack. Holding a base in one hand and a green peg in the other, the worker inserts the peg into a specific slot. A flat metal tool is used to press, adjust, and apply a substance to secure the peg firmly into the joint. The assembled piece is then set aside, and the loop repeats.
+
+Possible Process Optimizations
+
+*   **Material Presentation and Staging (Inference):** The worker currently dumps bulk components (like the green pegs and untreated yellow blocks) into disorganized piles on the table, requiring them to sweep parts together and visually hunt for the next piece. Implementing gravity-fed gravity bins or slanted hopper dispensers could present pieces consistently at the optimal grasp point, eliminating the setup time of sweeping and organizing loose parts.
+*   **Standardized Catch-Bins for Single-Piece Flow:** In Processes 1, 2, and 4, completed pieces are placed into unstructured piles on the desk. Providing structured, slotted trays or dedicated drop-chutes for finished components would reduce desk clutter, prevent part damage, and speed up the handoff to the next production step.
+*   **Dust Management (Inference):** The use of an air blow gun clears dust from the immediate part but scatters debris across the workbench and onto previously cleaned pieces. Installing a localized downdraft table or a vacuum extraction nozzle at the scraping station would capture dust directly at the source, reducing cross-contamination and the need for secondary cleanings.
+*   **Tool Organization and Ergonomics:** During Process 2, the worker frequently switches between a scraping tool, sandpaper, a brush, a cloth, and an air gun, setting them down loosely on the table. Implementing specialized tool holsters, designated shadowed resting spots, or a retractable tether for the air gun would reduce search time and excessive reaching.
+*   **Specialized Deburring Tools (Inference):** The worker uses a generic flat or pointed metal tool for repetitive seam removal and track scraping. Providing a custom-profiled scraper that matches the exact dimensions of the slots, or utilizing a mechanized tumbling/brushing step for the raw wooden pegs, could significantly reduce the manual friction and time required per piece.
+
+Evidence Limits
+
+*   The exact sequence of the overall manufacturing line cannot be determined; it is unclear if scraping happens before liquid coating, or if these represent entirely different product variants.
+*   The chemical composition and purpose of the brownish liquid and the white paste are unknown, limiting suggestions on alternative application methods (e.g., dipping vs. brushing).
+*   While a secondary worker is present and sometimes assists with the peg-scraping task, the specific division of labor, quota sharing, or routing between their respective stations is not fully visible.
+*   It is not entirely clear if the paper document the worker references during the paste application task is a quality checklist, a routing slip, or an inventory count sheet.

@@ -1,0 +1,36 @@
+Process Summary
+
+The worker performs a variety of highly manual, batch-oriented manufacturing tasks focused on the preparation, assembly, and finishing of molded yellow components. The operational flow is divided into three distinct primary processes: the multi-step assembly and bundling of complex frame components; the preparation and closing of two-part molds containing threaded core inserts; and the repetitive cleaning, scraping, and filing of finished parts to remove flash and debris. The worker transitions between these tasks at a central metal workbench, utilizing hand tools, adhesives, rubber bands, and nearby tall metal racks to stage completed batches. 
+
+Detailed Process Breakdown
+
+*Process 1: Component Assembly and Bundling*
+*   **Component Preparation:** The worker begins by taking small, individual yellow pieces and using a flat metal file to smooth their edges. 
+*   **Sub-Assembly:** Yellow cylindrical pieces are sorted and assembled into bone-like shapes. The worker uses a tool to apply white paste to both ends of a cylinder and attaches smaller end caps to each side.
+*   **Frame Integration:** White paste from a plastic squeeze bag or hot glue from a gun is applied to the inner joints of larger square yellow frames. The previously filed small pieces, or the assembled bone-like structures, are inserted into the center cutouts of these frames.
+*   **Securing and Bundling:** The integrated assemblies are secured by stretching yellow rubber bands around them. The worker then stacks several of these completed square frames together and uses additional rubber bands to bind the stacks into thick bundles.
+*   **Staging:** Completed bundles are neatly arranged onto perforated metal trays. Once a tray is fully loaded, the worker carries it to nearby tall metal drying racks and slides it into an empty slot. 
+
+*Process 2: Mold Preparation and Core Insertion*
+*   **Coating and Wiping:** The worker picks up halves of yellow two-part molds and uses a brush to coat the inner cavities with a white liquid or powder from a nearby container. Excess residue is wiped away using a small white cloth. 
+*   **Core Assembly:** Small green cylindrical items are scooped from a bin and manually threaded one by one onto long, thin blue sticks. 
+*   **Mold Closing:** The worker uses a flat metal scraping tool to clean the mating surfaces and internal channels of a coated mold half. The threaded blue stick is then placed into the central channel. The second half of the mold is placed on top, and the enclosed unit is tightly secured with red rubber bands. 
+
+*Process 3: Part Cleaning and Finishing*
+*   **Scraping and Smoothing:** Operating in large batches, the worker holds intricate yellow objects (occasionally appearing to be sand molds) and uses varied hand tools to scrape and clean internal cutouts and exterior faces. Tools include a pointed metal tool, a flat file, a blue-handled tool, and a small white rectangular abrasive block. 
+*   **Debris Management:** The scraping process generates "stringy" yellow debris and fine dust. The worker periodically gathers handfuls of this accumulated waste from the workbench and either sweeps it onto a separate metal tray or drops it into a cardboard waste box located on the floor. 
+*   **Dust Removal:** For certain completed batches, the worker uses a compressed air hose equipped with a nozzle to blow accumulated yellow dust off the stacks of finished components.
+
+Possible Process Optimizations
+
+*   **Debris Management (Inference):** The worker repeatedly pauses the cleaning task to manually gather handfuls of stringy debris and drop them into a box on the floor. Installing a benchtop drop-hole with a chute leading directly into a waste bin beneath the table, or adding a sweeping trough to the table's edge, would eliminate this repetitive manual waste transfer and reduce cycle time.
+*   **Adhesive Dispensing (Inference):** The manual application of paste using a hand tool or a plastic squeeze bag requires constant gripping and precise manual dotting. Upgrading to a foot-pedal-operated pneumatic fluid dispenser could standardize the amount of adhesive applied, free up one of the worker's hands for component manipulation, and increase overall throughput.
+*   **Workstation Layout and Tool Presentation (Inference):** The worker utilizes multiple tools (files, scrapers, abrasive blocks, brushes, hot glue guns) alongside bulk containers of rubber bands, paste, and small green parts. Implementing a shadowed tool organizer, gravity-fed bins for small parts, and overhead balancers for the air hose and hot glue gun would reduce workbench clutter and minimize reach distances.
+*   **Batch Size Reduction (Visible):** During mold preparation, the worker coats a massive batch of molds, then wipes them all, then bands them all, rather than completing a single piece or small batch from start to finish. Transitioning to a smaller batch size or single-piece flow could heavily reduce the tabletop footprint required for staging and eliminate the double-handling of incomplete units.
+
+Evidence Limits
+
+*   The exact material composition of the yellow components (e.g., whether they are plastic injected parts, compacted sand molds, or foam) is difficult to determine with absolute certainty, though they behave as though they generate brittle flash, dust, and stringy shavings.
+*   The exact functions of the white liquid/powder, the white paste, and the hot glue are not definitively known; it is inferred that they act as release agents, sealants, or structural adhesives.
+*   It is unclear whether the three distinct processes observed are sequential steps in the creation of a single final product, or if the worker is switching between entirely distinct product lines. 
+*   Blurry camera movements, erratic view shifts, and times when the camera focuses primarily on the worker's lap occasionally obscure the exact placement of small components within the larger assemblies.

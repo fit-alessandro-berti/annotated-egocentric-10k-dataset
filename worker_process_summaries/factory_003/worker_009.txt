@@ -1,0 +1,40 @@
+Process Summary
+
+The observed operations revolve around the manual extraction and post-processing of injection-molded yellow plastic parts. The primary workflow entails operating an injection molding press, manually extracting the hot plastic sprues from the open mold, separating the usable plastic parts from the waste runners, and performing manual finishing and sorting tasks. The worker alternates between machine operation, mold cleaning, trimming or deflashing the parts with various hand tools, and executing frequent material handling tasks to aggregate finished parts into larger trays and staging areas. Occasional secondary duties include inspecting wall-mounted electrical cabinets and adjusting the controls of a nearby secondary machine.
+
+Detailed Process Breakdown
+
+**Machine Operation and Part Extraction**
+The worker operates the molding machine primarily via a green control panel. Once the molding cycle completes and the machine opens, the worker reaches inside with gloved hands to pull out the freshly molded yellow plastic sprue. On some cycles, the part sticks to the mold, and the worker uses a metal scraper tool to manually pry the hot plastic piece free. After extraction, the worker presses the control panel buttons to initiate the next closed-mold cycle. 
+
+**Mold Cleaning and Maintenance**
+Between molding cycles, the worker frequently cleans the open mold cavity. This is most commonly done by using an air gun with a blue hose to blow out debris from the mold and the surrounding work table. Occasionally, the worker wipes the inside of the mold with a yellow cloth. In some instances, a more intensive cleaning is performed, where the worker uses a long wooden brush to vigorously scrub the upper and lower inner surfaces of the open mold deep inside the machine.
+
+**Part Separation and Finishing**
+Once the part is extracted, the worker must separate the individual yellow pieces from the central sprue or runner. This is done in varying ways:
+*   **Manual Snapping:** Breaking the parts off the runner by hand.
+*   **Tool-Assisted Trimming:** Placing the sprue on a workbench or tray and using a small cutter or a metal tool to systematically snap or cut off the smaller branches.
+*   **Edge Cleaning:** Holding the separated parts and scraping the edges or lattice sections with either a small white block-like tool or a dark-colored scraping tool to remove flash or rough edges.
+
+**Workflow Variations (Batching vs. Continuous Flow)**
+The worker alters their processing rhythm throughout the observations. At times, they utilize a one-piece flow, trimming the part immediately after extraction before starting the next machine cycle. At other times, the worker batches the process: they extract parts over several cycles, simply setting the hot sprues on a workbench, and then spend an extended period at the workbench processing the accumulated batch with a metal tool while the molding machine remains idle.
+
+**Material Handling and Transport**
+During the separation process, waste runners are discarded into a cardboard box, while usable parts are sorted into a separate container or tray. The worker frequently performs micro-transfers of the finished materials, periodically picking up a small, filled cardboard box of separated parts and emptying it onto a larger metal tray or an aggregation table just a few steps away. Once larger containers or boxes are full, the worker carries them away from the immediate station to stage them near blue barrels or on stacked shelving racks down a nearby aisle. 
+
+**Ancillary Tasks and Coordination**
+The worker occasionally leaves the primary workstation to inspect an open electrical control cabinet on the wall, sometimes using a flashlight to look inside. They also walk over to an adjacent workstation where a coworker is stationed to adjust settings on a secondary machine's touch-screen control panel. Handoffs occur intermittently, with the worker passing paperwork, water, or specific parts to a coworker in a blue uniform.
+
+Possible Process Optimizations
+
+*   **Machine Cycle Synchronization:** The worker frequently waits for the machine to open, and conversely, the machine frequently sits idle and open while the worker processes large batches of parts at the workbench. *Inference:* The overall output could be optimized by better balancing the cycle times. If the trimming and scraping tasks take less time than the molding cycle, the worker should be trained to perform all finishing work *during* the machine's closed-mold time. If trimming takes longer than molding, separating the extraction role from the trimming role (utilizing a second operator) would prevent machine idle time.
+*   **Elimination of Micro-Transfers:** The worker spends a significant amount of time continuously emptying a small cardboard box of finished parts onto a larger metal aggregation tray or table. Relocating the large metal tray directly adjacent to or beneath the trimming station, or implementing a simple gravity chute, would allow separated parts to drop directly into their final bulk container, eliminating this repetitive material handling step.
+*   **Ejection System Tuning (Inference):** The worker routinely needs a metal scraper tool to manually pry the molded plastic from the machine. *Inference:* Adjusting the machine's automatic ejector pins, modifying the mold temperature, or applying a mold release agent could ensure the part ejects freely, eliminating the manual prying step and reducing extraction time.
+*   **Tool Presentation and Layout Consolidation:** The worker uses several tools (cutters, metal tools, white scrapers, dark scrapers, brushes, air guns) and occasionally operates a secondary machine located near a coworker. Standardizing a single, highly effective trimming/scraping tool and bringing the secondary machine controls closer to the primary workstation could reduce walking and tool-switching time.
+
+Evidence Limits
+
+*   The exact cycle time parameters (heating time, cooling time) of the injection molding machine cannot be quantified from the video, making it difficult to know exactly how much idle time is strictly necessary.
+*   The required quality standards for edge cleaning are not visible; it is unclear if scraping every edge is a strict quality requirement or a discretionary aesthetic choice.
+*   The purpose of the wall-mounted electrical cabinet inspections and the specific parameters being adjusted on the secondary machine are unknown.
+*   It is not clear if the variations in workflow (batching vs. one-piece flow) are a matter of personal worker preference or dictated by the specific type of yellow part being molded at that time.

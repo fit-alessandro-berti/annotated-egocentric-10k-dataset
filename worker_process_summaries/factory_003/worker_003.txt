@@ -1,0 +1,40 @@
+Process Summary
+
+The worker is engaged in the manual finishing, sub-assembly, and touch-up of molded yellow parts. The primary operations consist of defect filling, flash removal, component joining, and spot painting. The workflow is highly manual and repetitive, relying on hand tools such as scrapers, small brushes, and the worker’s fingers to apply compounds. Additionally, the worker is responsible for intermediate material handling, which involves organizing finished parts onto trays, monitoring an adjacent moving track system, and walking full trays to multi-tiered storage racks. 
+
+Detailed Process Breakdown
+
+Flash Removal and Defect Filling
+This is the most frequent and repetitive task. The worker retrieves an unworked yellow part from a bulk pile on the workbench. Using their fingers or a small metal tool, they extract a white, clay-like paste or putty from a bag and press it into the part's grooves, seams, and surface imperfections. They smooth the paste with their thumb, rotating the part to ensure total coverage. Following the putty application, the worker uses a flat, rectangular metal or white scraping tool to vigorously file and shave away excess material, mold lines, and flash from the inner and outer edges of the part. This process generates a significant amount of white dust. 
+
+Component Assembly
+For certain parts, the worker performs a sub-assembly process. They apply a dark liquid to the inner surfaces and edges of a yellow half-part using a small brush. They then press a piece of the white clay-like substance into a structural groove, align a second matching half-part, and manually squeeze the two halves tightly together. A small wooden stick is used to smooth the white substance visible through an access hole in the assembled unit. The assembled part is then subjected to the standard scraping and flash removal process.
+
+Spot Treatment and Painting
+The worker periodically performs touch-up painting on batches of scraped parts. Using a thin brush dipped in a small container, they apply a dark liquid to specific spots, seams, or areas where the white putty was previously applied. After treating the parts with the dark liquid, they switch to a different brush to paint over those exact spots with yellow paint, blending the treated areas into the rest of the part.
+
+Material Handling and Transport
+The worker manages the flow of materials in several ways:
+- They batch finished parts into neat rows on metal or wooden trays located on their workbench.
+- Once a tray is full, they lift it with both hands, stand up or turn around, and walk it to multi-tiered metal storage racks to slide it onto a shelf. 
+- They retrieve empty trays from nearby stacks to continue batching.
+- They periodically interact with a moving tray system or metal track to their left, sometimes pushing large trays down the line or placing individual parts onto it. 
+- Occasionally, the worker navigates the factory aisles to inspect a large metal bin, interact with its contents, and retrieve full trays of parts to bring back to the workstation.
+
+Cleaning and Station Maintenance
+Because the scraping and putty application creates heavy white dust and residue, the worker intermittently uses an air hose to blow debris off the completed parts. They also frequently clean their hands by rubbing them together with a liquid or powder dispensed from a small, red-capped plastic bottle kept at the workstation.
+
+Possible Process Optimizations
+
+- Workstation Layout and Tray Transport (Inference): The worker frequently stands, turns entirely around, or walks short distances to transfer full trays to storage racks and fetch empty ones. Implementing gravity flow racks, roller conveyors, or mobile staging carts immediately adjacent to the workbench would eliminate the walking, reaching, and torso-twisting required for tray swap-outs, significantly reducing transport waste.
+- Material Presentation and Application (Inference): The white putty is pinched directly from a bag and applied manually, heavily coating the worker's hands and necessitating frequent pauses for hand-cleaning. Introducing a dedicated dispensing applicator (e.g., a pneumatic syringe or manual caulking tool) for the putty would standardize the application, reduce material mess, and minimize the time spent cleaning hands.
+- Task Sequencing and Station Separation (Inference): The worker frequently alternates between "dry" tasks (scraping, sanding, puttying) and "wet" tasks (applying dark liquid, yellow painting) at the same station. Batching these tasks more strictly, or separating them into distinct workstations, could reduce tool-switching time and prevent the white dust generated during scraping from contaminating the wet paint and liquid applications.
+- Track System Monitoring (Inference): The worker repeatedly interrupts their active scraping task to look up and visually monitor a moving tray system or metal track on their left. Installing a mechanical buffer, an end-stop, or an automated visual/auditory alert on the track would allow the worker to maintain focus on the manual finishing task without needing to continuously monitor the conveyor flow.
+- Batching Standardization: In some instances, the worker places single finished parts directly onto a rack behind them one by one, while at other times they batch them efficiently onto trays. Standardizing a strict tray-batching method for all parts before transport would minimize repetitive reaching motions.
+
+Evidence Limits
+
+- The precise chemical composition and structural purpose of the white paste, dark liquid, and yellow paint (e.g., gap filler, structural adhesive, cosmetic primer) cannot be confirmed from visual evidence alone.
+- It is unclear if the worker's frequent glances at the moving track system are required for safety monitoring, process pacing, or waiting for specific parts to arrive.
+- The contents of the large metal bin the worker occasionally inspects are not visible, making it impossible to determine what role that machine or bin plays in the workflow.
+- The specific reason the worker cleans their hands (e.g., whether the putty is a chemical irritant or simply impairs grip friction) is inferential.

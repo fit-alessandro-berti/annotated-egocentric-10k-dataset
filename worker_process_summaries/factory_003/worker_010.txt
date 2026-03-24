@@ -1,0 +1,46 @@
+Process Summary
+The observed operation is a cyclical, semi-automated molding or casting process. The worker is responsible for assembling two-part reusable molds, loading them with pre-manufactured inserts (such as complex sand cores, small conical parts, or larger clay cups), applying binding pastes or powders, and operating a pressing machine to form finished composite pieces. To maintain continuous production, the worker utilizes at least two sets of molds interchangeably: while one mold assembly is actively being pressed in the machine or awaiting extraction, the worker performs extensive, manual refurbishment and cleaning of a second mold set at an adjacent metal table. The workflow consists of overlapping loops of mold preparation, part assembly, press operation, and finished-goods extraction.
+
+Detailed Process Breakdown
+The worker’s routine is highly repetitive and involves handling different variations of inserts and binders. The operational flow can be broken down into the following distinct phases:
+
+**Mold Cleaning and Refurbishment**
+A significant portion of the worker’s time is dedicated to manually cleaning the two-part reusable molds at a designated metal table. 
+* The worker uses a small, pointed metal pick to meticulously clear out fine grooves and cavities.
+* A flat metal scraper is used vigorously to remove stuck material from the broad, flat surfaces of the mold halves.
+* A sanding block or sponge is occasionally rubbed across the faces to smooth them.
+* Compressed air is used repeatedly between scraping and sanding steps to blow away the loosened dust and debris.
+
+**Mold Assembly and Insert Loading**
+Once a mold is cleaned, the worker transports the bottom half to the machine bed (sometimes described as resting on vertical pins or a grate). 
+* The worker retrieves inserts from nearby racks, trays, or bins. Depending on the product run, these inserts vary: they may be intricate sand cores, small red/brown cone-shaped parts, or larger brown funnels and bell-shaped clay cups. 
+* The inserts are manually placed into specific designated cavities within the bottom mold.
+* During some production runs, the worker steps away to manually rub a reddish-brown granular material through a mesh sieve to prep it before adding inserts.
+* Once the inserts are seated, the worker uses the air gun to blow away any ambient dust or debris from the open mold assembly.
+
+**Binding Agent Application**
+After the inserts are placed and the mold is blown clean, the worker applies a binding or filling agent.
+* For certain parts, the worker uses a piping bag to squeeze small dabs of white paste or glue onto specific contact points around the cores.
+* For other parts, the worker uses a small plastic bag to squeeze and dust white or pink powder directly into the cavities to fill the gaps around the inserts. 
+
+**Pressing, Extraction, and Material Handling**
+* The worker retrieves the matching top mold half, carefully aligns it over the bottom half, and presses it down to close the assembly. 
+* The closed mold is pushed into the pressing machine, and the press mechanism is actuated.
+* While the machine operates, the worker often returns to the metal table to clean the alternate set of molds, cleans the immediate area with compressed air, or handles material staging.
+* Once the press cycle is complete, the worker pulls the mold out, removes the top half, and extracts the newly formed parts (often emerging as connected grids or assembled pieces). 
+* The finished parts are stacked neatly into blue plastic crates or perforated trays. Empty crates are routinely blown out with compressed air before use. 
+
+Possible Process Optimizations
+Based on the visible workflow, several process-level optimizations could be implemented to reduce cycle time, minimize waste, and improve ergonomics:
+
+* **Automated or Semi-Automated Mold Cleaning:** The manual scraping, picking, and sanding of the molds represents a massive labor and time sink. As an inference, implementing an automated mold-cleaning station (such as an ultrasonic bath, a dry-ice blasting cabinet, or a mechanized brush-and-air system), or applying a semi-permanent non-stick mold release coating, could drastically reduce the time spent refurbishing molds and increase the overall throughput of the press.
+* **Workstation Layout and Cell Design:** The worker walks constantly between the cleaning table, the material staging racks, the pressing machine, and the finished-goods crates. Reorganizing the layout into a tighter "U-shaped" work cell would significantly reduce transport time and motion waste. Bins of inserts and powder/paste tools should be mounted directly adjacent to the machine bed.
+* **Dispensing Automation:** Applying paste and powder manually via piping and squeeze bags is imprecise and time-consuming. This process could be optimized by introducing a pneumatic, multi-nozzle dispensing system for the paste, or a template-guided shaker/dispenser for the powder. This would ensure consistent volume application and speed up the binding phase.
+* **Decoupling Material Preparation:** The worker pauses the assembly process to manually sift granular reddish-brown material through a mesh sieve. This step should be decoupled from the primary machine operation. The material could be pre-sifted in bulk by a support worker or processed through a gravity-fed hopper with an integrated sifter at the workstation, ensuring the machine operator is not waiting on material prep.
+* **Inline Part Cleaning:** The worker occasionally spends time using the air gun to blow dust off large batches of finished pieces inside the storage crates. Adding an inline vacuum or air-blow curtain immediately as the parts are extracted from the press would eliminate this secondary batch-cleaning step.
+
+Evidence Limits
+* **Material Properties:** The exact chemical composition of the white paste, the pink/white powders, and the sand/clay inserts is not visible. It is unclear if the pressing machine uses heat, UV light, or purely mechanical pressure to cure the parts.
+* **Machine Cycle Time:** Because the worker frequently walks away or changes camera angles while the machine is engaged, the exact automated cycle time of the press cannot be strictly verified.
+* **Cleaning Tolerances:** It is not evident what specific visual or tactile cues the worker uses to determine when a mold is sufficiently "clean" during the scraping phase.
+* **Product Identification:** The final end-use of the molded grids and assembled parts cannot be determined from the available footage.

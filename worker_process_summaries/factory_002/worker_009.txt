@@ -1,0 +1,38 @@
+Process Summary
+
+The worker performs manual fabric preparation, pattern alignment, and bundling tasks, likely in the pre-assembly or cutting department of a garment manufacturing facility. The work involves handling loose, cut fabric panels (primarily striped, but also dotted patterns), meticulously aligning them to match patterns and edges, and organizing them into specific configurations for downstream production. The worker shifts between three distinct but related sub-processes: bulk stacking and tying of aligned panels; individual folding of single panels; and kitting pairs of large and small panels together. 
+
+Detailed Process Breakdown
+
+Process 1: Bulk Stacking, Aligning, and Tying
+- Setup: The worker sits at a table with loose cut fabric pieces. 
+- Action Loop: The worker picks up a large fabric panel, lays it flat on a central pile, and spends significant time smoothing the fabric with both hands. The primary goal of this step is perfect visual alignment of the outer edges and the printed patterns (such as stripes) with the layers beneath it.
+- Material Handling: This process is performed on both blue/white striped panels (with curved armhole/neckline cutouts) and dark dotted fabric. Occasionally, the worker folds and pins much smaller pieces of fabric directly onto the top of the aligned stack. 
+- Batch Completion: Once the stack reaches a specific thickness, the worker stops adding layers. They fold the edges of the thick pile inward, fold the entire bundle in half, wrap it tightly with white string, cut the string with scissors, and tie it securely. A printed tag is also attached to the bundle. The worker is also seen handling a bundle of brown perforated cardboard pattern templates tied with string during this sequence.
+
+Process 2: Individual Piece Folding
+- Setup/Staging: Unfolded striped fabric is staged on one side of the workstation. 
+- Action Loop: The worker repeatedly pulls a single piece to the center of the table, spreads it flat, folds one side over to the opposite side (e.g., left to right), smooths the creases with their hands, and places the folded piece onto a growing stack on the opposite side.
+- Variations: The worker occasionally pauses to peel off debris, such as a yellow sticker, or to vigorously shake out fabric pieces that are clinging together. 
+
+Process 3: Kitting and Assembling Pairs
+- Setup/Staging: Large rectangular striped pieces are staged on one side (e.g., left), smaller curved pieces are staged in the center, and completed kits are stacked on the other side (e.g., right).
+- Action Loop: The worker spreads a large piece flat on the table, picks up a smaller curved piece, and places it on top. They spend time meticulously aligning the stripes of the smaller piece to perfectly match the stripes of the larger piece. Once aligned, the worker folds the right edge of the large piece over the smaller piece to create an enclosed bundle, which is then moved to the completed stack.
+
+General Workflow Observations
+Across all tasks, the worker frequently pauses to walk a short distance away from the table, look down at the floor, or look at nearby shelving. The worker also periodically shakes out tangled bunches of fabric to separate single pieces. A secondary worker is occasionally visible nearby, but direct interaction is minimal.
+
+Possible Process Optimizations
+
+- Workstation Layout & Staging: In the kitting process, the worker crosses their body to retrieve materials and stack finished goods. Reorganizing the raw material staging to flow linearly—such as utilizing angled gravity-fed bins directly in front of the worker and moving the finished stack closer to the assembly point—could reduce reach distance and shoulder rotation.
+- Alignment Guides or Fixturing: The highly meticulous alignment of stripes and edges currently relies entirely on visual estimation and repeated manual smoothing. Implementing simple physical guides, a light table, or edge-alignment jigs could speed up the pattern-matching process and reduce the time spent continuously adjusting and flattening the fabric.
+- Material Presentation (Inference): Fabric pieces frequently stick together, requiring the worker to shake them out vigorously in the air or peel them apart. Treating the fabric to reduce static or altering how the cut pieces are stacked during the preceding cutting stage (e.g., staggered stacking) could eliminate this non-value-added separation time.
+- Material Handling & Transport (Inference): The worker takes frequent, short walks away from the workstation. If it is inferred that these walks are to retrieve raw materials, drop off finished bundles, or manage waste, assigning a material handler (water spider) or using mobile staging carts within arm's reach could eliminate this transit time and keep the worker engaged in assembly.
+- Tool Presentation: The worker uses loose string and hand scissors for tying bulk bundles. Providing a mounted string cutter or pre-cut lengths of string could streamline the bundling and tagging step.
+
+Evidence Limits
+
+- The purpose of the worker's frequent short walks away from the table is not explicitly visible; it is unknown if they are retrieving parts, staging finished goods, or pausing for other reasons.
+- The exact text on the tags, small fabric scraps, and brown cardboard pattern templates cannot be read.
+- It is unclear if the three distinct processes (stacking, individual folding, kitting) represent consecutive steps for the same garment order or completely different jobs.
+- Occasional erratic camera movement and blurry angles obscure the wider workspace, making it difficult to fully assess the room's layout, the origin points of all incoming fabric, or the final destination of the tied bundles.

@@ -1,0 +1,39 @@
+Process Summary
+The worker performs manual finishing, sub-assembly, and staging of intricate molded components, which appear to be wax patterns or similar moldable materials likely intended for investment casting. The overall workflow consists of detailed surface preparation (deburring, filing, and scraping), complex joining operations (using mechanical inserts, chemical liquid/paste adhesives, and thermal welding), surface finishing, and material handling. The worker frequently transitions between single-piece flow and small-batch processing, repetitively cycling through tool changes, material replenishment from floor-level storage, and staging finished assemblies on racks or in boxes.
+
+Detailed Process Breakdown
+The worker’s operations can be categorized into four primary process phases:
+
+**Material Handling and Preparation**
+*   **Replenishment:** The worker frequently reaches into large cardboard boxes located on the floor to retrieve handfuls of raw materials (small pegs, rods, or broken pieces) and deposits them onto the worktable. Occasionally, the worker mixes or agitates the components inside these boxes, sometimes using compressed air.
+*   **Sifting:** To separate debris from usable components, the worker uses a perforated metal screen, manually shaking it over a container located below the table. 
+*   **Workspace Maintenance:** The worker periodically sweeps offcuts and debris from the table using a small brush and a flat metal tray, or clears dust using a compressed air blow gun.
+
+**Deburring and Surface Preparation**
+*   **Scraping and Filing:** Using various thin metal needle tools, spatulas, blue-handled files, and flat scrapers, the worker meticulously cleans excess material from the internal cutouts, holes, and external edges of rectangular frames, cylindrical pieces, and small pegs. 
+*   **Tool Maintenance:** During scraping, the worker occasionally rubs the tip of their metal tool against a white cylindrical stick, likely for lubrication or cleaning.
+*   **Component Repair:** The worker occasionally identifies broken pieces, aligns them, applies a dab of paste, presses them together to glue them, and scrapes the joints to blend the repair.
+
+**Assembly and Joining**
+The worker employs three distinct joining methods depending on the specific components being assembled:
+*   **Mechanical and Chemical Insertion:** The worker dips a brush or stick into a white cup to apply a liquid or paste adhesive to the inside of frame holes or directly onto joints. They then manually insert pre-filed pegs, rods, or smaller frame pieces into the main component. In some cases, a blue-handled tool is used to trim, flatten, or shape the protruding ends of the inserted pegs.
+*   **Binding and Securing:** To hold assemblies together while they set, the worker mechanically binds them. This is done either by tying orange and yellow string around inserted pegs with a tight knot, or by wrapping thick red rubber bands or flexible wax bands around paired components. 
+*   **Thermal Welding (Wax Trees):** Using a heated pen-like tool, the worker melts and fuses wax components together. This includes attaching small cylindrical pieces to rectangular bases, attaching tiny wax pieces to a central sprue to build a "tree," and welding sprues onto larger square structures.
+
+**Finishing and Staging**
+*   **Surface Finishing:** Assembled pieces are frequently wiped down with a white cloth to remove excess liquid or debris. In some instances, the worker applies a powder or light coating over the entire object with a soft brush, or makes quick passes over a batch of pieces with a handheld heat gun/air blower. 
+*   **Base Preparation:** The worker occasionally uses a large blue applicator (resembling a hot glue gun) to dispense a thick material onto the bases of rack-mounted assemblies.
+*   **Staging and Packaging:** Finished pieces are stacked neatly on the table, placed onto large metal trays/racks, or loaded into brown cardboard boxes. The worker frequently uses a compressed air gun to blow dust off the stacked, finished assemblies. 
+
+Possible Process Optimizations
+*   **Material Presentation:** The worker frequently leans down and reaches into deep cardboard boxes on the floor to retrieve raw materials and loose pegs. Elevating these boxes to workbench height, or implementing gravity-fed bins/hoppers, would eliminate non-value-added bending and reaching, improving ergonomic flow and reducing cycle time.
+*   **Workspace Layout and Tool Staging:** Tools and parts are often kept in a disorganized central pile, requiring the worker to reach across the table to retrieve or discard items. Implementing point-of-use tool organization (such as shadow boards or dedicated tool holsters) and structured staging areas for unworked parts would reduce reaching motions and tool-search time.
+*   **Batch Size Optimization:** The worker frequently switches between multiple tools (e.g., scraper, brush, cloth, file) for a single component or very small batches. Standardizing a larger batch size for each specific sub-task (e.g., applying adhesive to 20 parts at once, then inserting pegs into all 20) could reduce the repetitive motion waste associated with constant tool swapping.
+*   **Cleaning Methodology:** The routine use of a compressed air gun to blow dust off finished parts and the table likely disperses debris into the ambient environment, risking the re-contamination of freshly pasted or liquid-coated assemblies nearby. Transitioning to a vacuum-based cleaning system or a downdraft table would capture debris at the source and improve overall part cleanliness.
+*   **Sifting Operation:** Manually shaking a perforated metal screen over a floor container is ergonomically awkward and interrupts the primary assembly flow. This could be optimized by using a small, automated vibratory sifter or integrating a screened drop-slot directly into the workbench.
+
+Evidence Limits
+*   The exact chemical composition of the liquids, pastes, coatings, and structural materials cannot be definitively determined from visual observation alone.
+*   It is unclear whether the transition between different joining methods (string tying vs. rubber banding vs. thermal melting) represents different product lines, distinct stages of a multi-day manufacturing process, or ad-hoc problem-solving by the worker.
+*   Quality standards, required curing times for the adhesives, and the exact dimensional tolerances for the filing/scraping tasks are not visible. 
+*   The overall factory flow—including where the floor boxes originate and where the finished racks are taken—is outside the camera's field of view.

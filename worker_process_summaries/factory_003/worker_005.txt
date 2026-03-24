@@ -1,0 +1,44 @@
+Process Summary
+
+The worker primarily performs a manual finishing and separation task on raw metal castings, utilizing a hammer to detach excess material (such as sprues or runners) from the main components. The work is divided into two distinct processing methods. The first method involves a moving, corrugated conveyor belt where the worker processes a continuous flow of clustered metal parts alongside co-workers. The second method takes place at a stationary, sloped, corrugated metal table, requiring the worker to manually retrieve batches of parts from a nearby bin before processing them. The worker’s duties also include material handling, workstation maintenance, periodic part sorting, and navigating the factory floor to transport bins and wheelbarrows. 
+
+Detailed Process Breakdown
+
+**Setup and Maintenance**
+The worker begins by retrieving personal protective equipment (white gloves) from a secured storage locker. Workstation preparation includes using bare hands to sweep dust and debris off the conveyor frame. Throughout the shifts, the worker applies a liquid from a blue squeeze bottle onto their gloves and the moving parts or conveyor surface, likely for lubrication or cooling. Hand protection varies slightly; the worker typically wears a glove on the left hand to hold the metal, but later transitions to wearing gloves on both hands. 
+
+**Process 1: Conveyor-Based Casting Separation**
+The primary continuous workflow takes place on an elevated metal grating platform beside a slowly moving, corrugated metal conveyor belt. 
+*   **Action Loop:** Clusters of rough metal castings travel down the belt. The worker uses their left hand to grab, position, and steady the clustered pieces against the belt. With a hammer in their right hand, they forcefully strike the parts to break off the excess metal. 
+*   **Part Flow:** The separated components are either tossed or allowed to slide down the belt's corrugated channels off the edge into large collection bins positioned on the floor below. 
+*   **Flow Management:** When parts bunch together on the belt, the worker momentarily sets aside the hammer or uses their gloved hands to manually spread and organize the clusters for easier striking. 
+*   **Coordination:** Co-workers operate adjacent to the worker on the same line, performing the identical hammering task. Occasionally, co-workers reach into the worker's immediate workspace to access parts.
+
+**Process 2: Stationary Table Casting Separation**
+A secondary workflow occurs at a stationary, sloped corrugated table. This process is highly batch-dependent and requires constant movement.
+*   **Action Loop:** The worker steps away from the table to a nearby bulk storage bin, uses their left hand to scoop a small handful of parts, and walks back to the sloped table. They place the parts on the surface and use the hammer in their right hand to strike and separate them.
+*   **High-Frequency Movement:** Because the worker holds the hammer in their right hand, they can only retrieve as many parts as their left hand can carry. This results in a micro-loop where the worker must return to the bin to fetch more parts every few seconds.
+*   **Clearing the Table:** To manage accumulated processed parts, the worker periodically uses a flat, long metal guide bar. They slide this bar horizontally across the corrugated surface to sweep large batches of separated parts downward into a collection container at the bottom edge. The guide bar is periodically wiped clean with a cloth. 
+
+**Ancillary Tasks and Material Handling**
+Beyond the primary hammering tasks, the worker engages in several logistical activities:
+*   **Manual Lifting:** Moving heavy bins of unrefined castings across the floor by dragging or lifting them.
+*   **Wheelbarrow Transport:** With the assistance of a co-worker, the worker maneuvers a wheelbarrow backwards through the factory floor to transport materials.
+*   **Signage:** Moving a rectangular metal sheet with writing on it from the floor to designate a specific bin, and later transporting it via wheelbarrow to another staging area.
+*   **Secondary Sorting and Inspection:** The worker briefly interacts with a flat conveyor belt (sorting small parts by hand) and walks through a storage area to visually inspect dark, rectangular molded blocks stored on large racks.
+
+Possible Process Optimizations
+
+*   **Material Presentation at the Stationary Table (Inference):** The most visible inefficiency is the high-frequency walking loop required in Process 2. The worker constantly walks to a bin to scoop parts one-handed. This could be optimized by placing a gravity-fed hopper or an angled chute directly above or adjacent to the sloped table, allowing parts to flow naturally to the striking area and eliminating the constant travel and hand-scooping.
+*   **Two-Handed Material Transfer:** If a hopper cannot be installed for Process 2, providing a tool holster for the hammer or a dedicated scoop tool would allow the worker to use both hands to transfer larger batches of parts at once, significantly reducing the number of trips to the bin.
+*   **Conveyor Upstream Flow Management:** In Process 1, the worker frequently pauses hammering to manually separate clustered or bunched parts on the belt. Installing a static mechanical diverter, baffle, or vibratory feeder upstream could automatically spread the castings evenly across the width of the belt before they reach the operators.
+*   **Sweeping Mechanism for Stationary Table:** At the sloped table, the worker manually clears the workspace using a separate metal guide bar. Integrating a mounted, lever-operated sweep arm, or increasing the angle of the table to allow gravity to clear the parts automatically upon separation, would reduce handling time.
+*   **Material Transport Ergonomics:** The worker is observed lifting heavy bins manually and pulling a wheelbarrow backwards. Replacing the wheelbarrow with a specialized parts cart on swivel casters or using a pallet jack/motorized tugger would improve material transport efficiency and routing.
+
+Evidence Limits
+
+*   **Liquid Identification:** The exact contents of the blue squeeze bottle are not visible. It is an inference that the liquid is a lubricant, coolant, or cleaning agent.
+*   **Signage Purpose:** The specific text on the metal sheet is not readable; it is inferred to be inventory routing or bin identification signage based on its placement on top of processed parts.
+*   **Quality Control Criteria:** The visual parameters for a "successful" part separation are unknown. The video shows the mechanical act of hammering, but the specific quality checks the worker might be performing visually are not evident.
+*   **Process Distinction:** It is unclear if the stationary table and the moving conveyor belt are processing different product lines, or if the stationary table is simply an overflow/rework station for the main conveyor line.
+*   **Ancillary Role Clarity:** The worker's brief interaction inspecting molds and sorting on a flat conveyor belt makes it difficult to determine if these are core responsibilities, cross-training, or temporary idle-time tasks.

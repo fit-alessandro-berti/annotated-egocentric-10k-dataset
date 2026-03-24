@@ -1,0 +1,42 @@
+Process Summary
+The worker performs a core preparation and mold-pressing operation using a machine press and a two-part mold. The process involves trimming and prepping ceramic or core-like components (triangular pieces and bell-shaped objects), seating them into the mold along with small break-away inserts, applying a specialized paste, and running a machine press cycle. The workflow requires moving between a primary prep workbench and the machine press, with the worker performing cleaning and minor sub-assembly tasks while the press operates. 
+
+Detailed Process Breakdown
+The operation follows a cyclic pattern, generally consisting of component preparation, mold loading, pressing, and cleaning.
+
+1. Component Preparation
+The worker occasionally starts at a separate workbench to prepare triangular components. This involves scraping and trimming the edges of the pieces over a bin, followed by applying "core paste" directly to the part (sometimes using their thumb to spread it). 
+
+2. Mold Preparation and Cleaning
+At the main machine press station, the worker begins each cycle by thoroughly cleaning the open halves of a large, two-part yellow mold. This is done by blowing out dust and debris with a compressed air gun and wiping the internal surfaces with a cloth. Surrounding machine beds and flat metal plates are also regularly cleared with compressed air.
+
+3. Loading the Mold
+Once clean, the worker loads the mold. This typically involves:
+- Breaking small square blue inserts off a larger solid block and seating them into specific recesses in the bottom half of the mold. 
+- Retrieving pre-made objects from nearby bins (either the pre-trimmed triangular components or bell-shaped objects).
+- Placing these objects into the mold cavities on top of the blue inserts. 
+
+4. Paste Application
+Paste is applied to the components and the mold to facilitate sealing or bonding. The application method varies across cycles:
+- Using a specialized tool with a small sponge to apply paste to the rims and tops of the bell-shaped objects.
+- Squeezing paste directly from a white packet into the channels and along the edges of the yellow mold.
+- Spreading paste by hand (thumb) onto components before they are brought to the press.
+
+5. Machine Cycle and Parallel Tasks
+After the components and paste are situated, the worker positions the top half of the mold using its metal handles. The machine press is then activated, closing the mold halves together. While the machine cycles, the worker utilizes the wait time to perform parallel tasks:
+- Using an air blow gun to clear the surrounding workstation of dust.
+- Reaching into part bins to wipe the inside of incoming bell-shaped objects with a cloth.
+- Breaking apart blue inserts in advance and staging them on a flat metal plate.
+- Waiting idly and observing a nearby coworker scraping a large metal structure.
+
+Possible Process Optimizations
+- Workstation Consolidation: The worker currently walks between a prep bench (for trimming triangular pieces) and the machine press. Moving the trimming bin and prep tools directly adjacent to the machine press would eliminate unnecessary transport and motion.
+- Standardized Paste Application: The worker switches between spreading paste with a thumb, using a sponge tool, and squeezing it directly from the packet onto the mold. Standardizing this application method—perhaps by using a precision applicator or dispensing syringe—could improve material consistency, reduce mess, and speed up the application step.
+- Batch Preparation of Inserts: The worker frequently breaks individual blue inserts off a larger block directly during the mold-loading step. Batch-processing these inserts (breaking them all apart ahead of time and storing them in a small, easily accessible point-of-use bin) would streamline the loading sequence.
+- Better Utilization of Machine Cycle Time: A significant amount of the worker's time is spent standing idle watching a nearby coworker while the press is closed. Process sequencing could be optimized by officially shifting all offline tasks—such as trimming the triangular components, pre-wiping the bell-shaped objects, and breaking apart the blue inserts—into the machine's active press time. 
+
+Evidence Limits
+- The actual unloading of a finished, pressed product is not clearly visible; the footage primarily shows the preparation, loading, and closing of the mold.
+- It is unclear if the triangular components and bell-shaped objects are part of the same final assembly or represent two distinct product variations being run in alternating batches. 
+- The exact purpose of the blue inserts and the core paste (e.g., whether it is an adhesive, a sealant, or a thermal barrier) cannot be definitively determined from the visual evidence.
+- The internal parameters of the machine press, such as temperature, pressure, and the required curing or dwell time, are unknown.

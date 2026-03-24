@@ -1,0 +1,32 @@
+Process Summary
+
+The worker performs a manual quality control and packaging function consisting of two distinct but highly similar processes: processing adult-sized white t-shirts and processing baby onesies. Both operations involve retrieving unorganized, unstitched garments, inspecting them for quality defects (primarily loose threads), trimming the threads with small clippers, folding the garments, and organizing them into stacks or bundles for the next stage of production. The operational flow mixes detailed, repetitive hand-work with periodic material handling, as the worker frequently leaves the immediate workstation to restock raw materials or transport finished stacks to nearby staging areas. 
+
+Detailed Process Breakdown
+
+Process 1: T-Shirt Inspection, Trimming, and Folding
+*   Material Inbound: The worker sources unfinished white t-shirts from a large, disorganized pile on the left side of their white work table. Occasionally, the worker must stand up to gather large bundles of unstitched shirts from a nearby sewing station or a different table to replenish their supply. 
+*   Inspection and Trimming: The worker pulls a single shirt to the center of the table and lays it flat. They visually inspect the collar, shoulder seams, sleeves, and bottom hem. Using a small pair of blue clippers (or scissors), they meticulously snip away loose threads. If no threads are found, the shirt is folded immediately. On one occasion, the worker was observed using a small pink, spool-like object to vigorously rub out a spot or stain on the fabric.
+*   Folding and Stacking: After trimming, the worker folds the sleeves inward, folds the body in half lengthwise, and then folds it in half again from bottom to top to form a neat rectangle. The folded shirt is placed onto a stack on the right side of the table. The worker frequently adjusts the stacks to keep them straight and sometimes builds exceptionally tall towers of folded shirts. 
+*   Coworker Interaction: A coworker positioned across the table occasionally slides over single folded shirts or small stacks, which the worker integrates into their own completed pile.
+*   Transport and Handoff: Periodically, the worker interrupts the folding loop to grab a stack of folded shirts, walk across the factory floor, and drop them into a large cardboard box situated near a worker operating a sewing machine. 
+
+Process 2: Onesie Inspection, Trimming, and Bundling
+*   Material Inbound: Similar to the t-shirts, white onesies are supplied in messy piles on the left side of the table. At times, a fresh pile of unfinished garments is dropped onto the table from above by another worker.
+*   Inspection and Trimming: The worker lays the garment flat, inspects the inner and outer seams, top edges, bottom edges, and snap closures. They use the blue clippers to remove stray threads. 
+*   Folding and Bundling: The onesies are folded and stacked on the right. Once a sufficiently large stack has accumulated, the worker transitions to a bundling task. They pull a long, thin string or strip of scrap fabric across the table, cut a piece off with their clippers, wrap it around the stack of onesies, and pull it tight, tying a knot to secure the bundle. The finished bundles are then pushed aside to clear the workspace.
+
+Possible Process Optimizations
+
+*   Transport and Batching (Inference): The worker frequently stops the trimming and folding process to physically carry small stacks of finished t-shirts to a cardboard box near a sewing station, and similarly walks to fetch new unorganized shirts. Implementing a dedicated material handler (a "water spider" role) to supply raw garments and take away finished goods would allow this worker to remain stationed and focus purely on value-added inspection and folding.
+*   Point-of-Use Staging: If a material handler is not feasible, placing a finished-goods bin or a wheeled cart immediately adjacent to the folding table would eliminate the worker's walking time. They could drop finished stacks directly into the receptacle without leaving their seat.
+*   Inbound Material Presentation: Garments are currently provided in tangled, disorganized piles, which requires the worker to constantly untangle, pull, and flatten each piece. Standardizing how unfinished garments are presented—such as staging them in uniform bins, transferring them on flat trays, or sliding them down a gravity-fed chute—could reduce the handling time required before inspection begins.
+*   Bundling Method: The manual process of measuring, cutting, and tying scrap fabric to secure bundles of onesies is time-consuming. This step could be optimized by providing reusable elastic loops, Velcro straps, or utilizing a simple mechanical banding/strapping machine to secure the stacks much faster.
+*   Workstation Ergonomics: The worker frequently has to reach far to the left to drag unorganized piles closer to their active work zone. Installing angled bins or a localized drop-zone that naturally keeps the next piece of apparel within a comfortable reaching distance would reduce repetitive ergonomic strain and streamline the picking motion.
+
+Evidence Limits
+
+*   The camera's perspective sometimes drops downwards or becomes erratic when the worker stands up or walks, obscuring the exact layout of the factory floor, the locations of all storage boxes, and the precise handoff mechanisms at the sewing stations.
+*   Several portions of the footage are fast-forwarded, making it impossible to ascertain the standard cycle time for inspecting and folding a single garment or how much total time is lost to material transport.
+*   The overall quality standard is not explicitly visible; it is unclear what defect threshold requires trimming versus when a garment can simply be folded, or whether the single instance of stain removal is a standard procedure or an ad-hoc fix.
+*   The overarching production flow surrounding this workstation is unseen, making it difficult to determine if this worker's output speed is constrained by the upstream sewing operators or if it is dictating the pace of downstream packaging.

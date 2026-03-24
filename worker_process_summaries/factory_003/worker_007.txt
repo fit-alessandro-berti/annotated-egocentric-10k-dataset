@@ -1,0 +1,30 @@
+Process Summary
+The worker is performing a multi-step manual finishing and assembly process for small, intricate molded parts, which strongly resemble wax patterns used in investment casting. The overall workflow consists of breaking apart clumps of molded components into individual pieces, meticulously scraping away excess flash or material, assembling the cleaned pieces into multi-part clusters using an assembly fixture and a bonding liquid, and performing final detailing and sealing on the assembled structures. The finished clusters are then systematically arranged into neat rows on large flat metal trays and stored on multi-tiered racks. 
+
+Detailed Process Breakdown
+Material Preparation
+The worker receives clumps of molded components. Working at a metal workbench, they use both hands to forcefully snap and break these molded clumps apart into individual pieces. These uncleaned raw pieces are piled directly on the workbench in front of the worker.
+
+Fettling and Flash Removal (Individual Parts)
+The worker picks up single uncleaned pieces and uses a variety of hand tools to meticulously remove excess material, flash, and smooth the surfaces. Tools used include a small flat white rectangular scraper, a thin pointed metal pick or awl for deep crevices, and a small metal spatula. The worker continuously rotates the part in their left hand to reach all flat faces, edges, and internal holes, occasionally blowing on the part to clear away dust and scraped debris. Finished individual parts are placed in a staging pile or lined up on the table to the left. 
+
+Cluster Assembly
+The worker transitions to assembling the cleaned individual parts into a unified cluster. This is done using a metal assembly mold or fixture situated on the workbench. The worker holds a cleaned piece, uses a small brush to dab a liquid substance (likely a solvent or adhesive) onto specific contact points, and presses the piece firmly into the designated slot in the metal mold. This sequence—clean the piece with a metal tool, brush on liquid, press into mold—is repeated sequentially for exactly six individual pieces until the cluster is complete. The full assembly is then lifted out of the fixture.
+
+Post-Assembly Detailing and Sealing
+Completed assemblies undergo further structural detailing. The worker uses a white stick-like tool to dab and wipe the central stem or runner of the cluster, rotating the assembly to coat or clean all sides. A tool with a brush-like tip is repeatedly used to apply more of the liquid substance directly to the central joints, reinforcing the connections between the individual parts and the main runner. The worker occasionally switches back to pointed metal tools to pick at and refine the joints. The worker is observed performing this step both in single-piece flow and in small batches, where they line up multiple completed clusters on the table and brush the joints of the entire batch sequentially.
+
+Staging and Material Transport
+Finished clusters are moved to large flat metal trays. The worker carefully places and adjusts each assembly to maintain tight, uniform rows. Once a tray is sufficiently filled, the worker either carries the tray through the workshop or slides it directly into a slot on a multi-tiered wooden or metal storage rack adjacent to the workstation. When empty trays are needed, the worker pulls them from the rack to their immediate workspace.
+
+Possible Process Optimizations
+*   Batching Standardization: The worker is observed switching between single-piece flow and small-batch processing (lining up several parts to batch-apply the liquid substance to the joints). Standardizing the workflow to a small-batch process could reduce the ergonomic strain and time lost from constantly swapping between scraping tools and the brush.
+*   Tool Presentation (Inference): The workflow requires constant switching between several small hand tools (white scraper, metal pick, spatula, brush). *Inference*: Providing a standardized tool organizer, shadow board, or immediate-access tool holsters at the work zone could reduce the visual search and grasp time required for frequent tool changeovers.
+*   Debris Management (Inference): The worker occasionally blows on the parts to remove scraped dust. *Inference*: Installing a small, foot-pedal-operated compressed air nozzle or a downdraft vacuum grate at the workstation would automate debris removal, keep the workspace cleaner, and eliminate the need for the worker to blow on the parts.
+*   Material Presentation (Inference): Breaking apart molded clumps by hand and grasping parts from an unorganized pile on the table introduces variability in handling time. *Inference*: Delivering pre-separated parts to the workstation via gravity-fed bins or inclined hoppers positioned immediately in front of the worker could streamline the initial material grasping phase.
+
+Evidence Limits
+*   The exact material of the objects (variously appearing brown, yellowish-brown, and brass-colored) and the precise nature of the applied liquid (e.g., glue, solvent, liquid wax) cannot be definitively confirmed visually, though they strongly align with lost-wax casting prep.
+*   It is unclear how the raw clumps of material are delivered to the workstation, as the replenishment of the raw material pile mostly occurs off-camera.
+*   The downstream destination of the filled trays on the storage racks is unknown; it is unclear if they are left there to cure or if they are transported by other workers to a different department. 
+*   The worker keeps a blue water bottle on the immediate workbench among the raw parts, tools, and chemicals, and is observed drinking from it. While this represents a potential 5S or workspace hygiene issue, the visual evidence does not show whether the liquid inside is exclusively drinking water or if the bottle is also used for process fluids.

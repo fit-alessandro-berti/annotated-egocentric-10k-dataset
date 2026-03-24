@@ -19,6 +19,15 @@ Worker summary requirements:
 - Preserve the worker identifier for each summary, because the output is factory-level.
 - Focus on the main process(es), major material flows, handoffs, machine interactions, transport, inspection, waiting, cleaning, batching, and coordination patterns that matter operationally.
 
+Factory process label requirements:
+- Explicitly provide one raw deduplicated list of processes executed across the different workers in the factory.
+- Express each process as a short label only.
+- Keep process labels concise and comparable across the factory.
+- Prefer labels such as "metal stamping", "box assembly", "garment bagging", "part transport", "inspection", or "machine cleaning".
+- Distinguish clearly between materially different processes, but do not create unnecessary micro-variants.
+- Do not group the labels by worker.
+- Do not repeat the same label for multiple workers.
+
 Activity catalogue requirements:
 - The catalogue must be long and detailed.
 - Each activity must be a short string only, suitable as a candidate event label for process mining.
@@ -36,6 +45,7 @@ Write the output in plain text with exactly these section headings:
 
 Factory Process Overview
 Worker Process Summaries
+Factory Process Labels
 Factory Activity Catalogue
 Optimization-Relevant Process Observations
 Evidence Limits
@@ -43,5 +53,7 @@ Evidence Limits
 Formatting rules for the output:
 - Under "Worker Process Summaries", use one line per worker in the form:
   worker_xxx: summary
+- Under "Factory Process Labels", use one bullet per process label.
+- Each bullet in "Factory Process Labels" must contain only a short process label and nothing else.
 - Under "Factory Activity Catalogue", use one bullet per activity.
 - Each bullet in "Factory Activity Catalogue" must contain only a short activity string and nothing else.
