@@ -1,0 +1,58 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:26,drop loose parts into plastic bag,Component bagging,factory_001,worker_002
+2000-01-01 00:00:26,2000-01-01 00:00:30,seal plastic bag with manual stapler,Component bagging,factory_001,worker_002
+2000-01-01 00:00:30,2000-01-01 00:01:07,drop loose parts into plastic bag,Component bagging,factory_001,worker_002
+2000-01-01 00:01:07,2000-01-01 00:01:12,seal plastic bag with manual stapler,Component bagging,factory_001,worker_002
+2000-01-01 00:01:12,2000-01-01 00:01:54,drop loose parts into plastic bag,Component bagging,factory_001,worker_002
+2000-01-01 00:01:54,2000-01-01 00:02:00,seal plastic bag with manual stapler,Component bagging,factory_001,worker_002
+2000-01-01 00:02:00,2000-01-01 00:02:40,drop loose parts into plastic bag,Component bagging,factory_001,worker_002
+2000-01-01 00:02:40,2000-01-01 00:02:47,seal plastic bag with manual stapler,Component bagging,factory_001,worker_002
+2000-01-01 00:02:47,2000-01-01 00:02:54,carry finished batch to consolidation point,Finished goods transport,factory_001,worker_002
+2000-01-01 00:02:54,2000-01-01 00:03:00,drop sealed bags into bulk container,Component bagging,factory_001,worker_002
+2000-01-01 00:03:00,2000-01-01 00:03:36,drop loose parts into plastic bag,Component bagging,factory_001,worker_002
+2000-01-01 00:03:36,2000-01-01 00:03:41,seal plastic bag with manual stapler,Component bagging,factory_001,worker_002
+2000-01-01 00:03:41,2000-01-01 00:04:23,drop loose parts into plastic bag,Component bagging,factory_001,worker_002
+2000-01-01 00:04:23,2000-01-01 00:04:29,seal plastic bag with manual stapler,Component bagging,factory_001,worker_002
+2000-01-01 00:04:29,2000-01-01 00:05:08,drop loose parts into plastic bag,Component bagging,factory_001,worker_002
+2000-01-01 00:05:08,2000-01-01 00:05:15,seal plastic bag with manual stapler,Component bagging,factory_001,worker_002
+2000-01-01 00:05:15,2000-01-01 00:06:01,drop loose parts into plastic bag,Component bagging,factory_001,worker_002
+2000-01-01 00:06:01,2000-01-01 00:06:04,drop sealed bags into bulk container,Component bagging,factory_001,worker_002
+2000-01-01 00:06:04,2000-01-01 00:06:46,drop loose parts into plastic bag,Component bagging,factory_001,worker_002
+2000-01-01 00:06:46,2000-01-01 00:06:50,seal plastic bag with manual stapler,Component bagging,factory_001,worker_002
+2000-01-01 00:06:50,2000-01-01 00:07:30,drop loose parts into plastic bag,Component bagging,factory_001,worker_002
+2000-01-01 00:07:30,2000-01-01 00:07:35,seal plastic bag with manual stapler,Component bagging,factory_001,worker_002
+2000-01-01 00:07:35,2000-01-01 00:08:14,drop loose parts into plastic bag,Component bagging,factory_001,worker_002
+2000-01-01 00:08:14,2000-01-01 00:08:19,seal plastic bag with manual stapler,Component bagging,factory_001,worker_002
+2000-01-01 00:08:19,2000-01-01 00:08:34,drop sealed bags into bulk container,Component bagging,factory_001,worker_002
+2000-01-01 00:08:34,2000-01-01 00:09:00,drop loose parts into plastic bag,Component bagging,factory_001,worker_002
+2000-01-01 00:09:00,2000-01-01 00:09:03,seal plastic bag with manual stapler,Component bagging,factory_001,worker_002
+2000-01-01 00:09:03,2000-01-01 00:09:42,drop loose parts into plastic bag,Component bagging,factory_001,worker_002
+2000-01-01 00:09:42,2000-01-01 00:09:46,seal plastic bag with manual stapler,Component bagging,factory_001,worker_002
+2000-01-01 00:09:46,2000-01-01 00:10:25,drop loose parts into plastic bag,Component bagging,factory_001,worker_002
+2000-01-01 00:10:25,2000-01-01 00:10:35,unfold cardboard box,Component bagging,factory_001,worker_002
+2000-01-01 00:10:35,2000-01-01 00:10:45,line bulk container with plastic,Component bagging,factory_001,worker_002
+2000-01-01 00:10:45,2000-01-01 00:10:52,drop sealed bags into bulk container,Component bagging,factory_001,worker_002
+2000-01-01 00:10:52,2000-01-01 00:11:34,drop loose parts into plastic bag,Component bagging,factory_001,worker_002
+2000-01-01 00:11:34,2000-01-01 00:11:41,seal plastic bag with manual stapler,Component bagging,factory_001,worker_002
+2000-01-01 00:11:41,2000-01-01 00:12:15,drop loose parts into plastic bag,Component bagging,factory_001,worker_002
+2000-01-01 00:12:15,2000-01-01 00:12:20,seal plastic bag with manual stapler,Component bagging,factory_001,worker_002
+2000-01-01 00:12:20,2000-01-01 00:12:48,drop loose parts into plastic bag,Component bagging,factory_001,worker_002
+2000-01-01 00:12:48,2000-01-01 00:13:00,drop sealed bags into bulk container,Component bagging,factory_001,worker_002
+2000-01-01 00:13:00,2000-01-01 00:13:41,drop loose parts into plastic bag,Component bagging,factory_001,worker_002
+2000-01-01 00:13:41,2000-01-01 00:13:45,seal plastic bag with manual stapler,Component bagging,factory_001,worker_002
+2000-01-01 00:13:45,2000-01-01 00:14:21,drop loose parts into plastic bag,Component bagging,factory_001,worker_002
+2000-01-01 00:14:21,2000-01-01 00:14:26,seal plastic bag with manual stapler,Component bagging,factory_001,worker_002
+2000-01-01 00:14:26,2000-01-01 00:15:00,drop loose parts into plastic bag,Component bagging,factory_001,worker_002
+2000-01-01 00:15:00,2000-01-01 00:15:15,drop sealed bags into bulk container,Component bagging,factory_001,worker_002
+2000-01-01 00:15:15,2000-01-01 00:15:53,drop loose parts into plastic bag,Component bagging,factory_001,worker_002
+2000-01-01 00:15:53,2000-01-01 00:15:58,seal plastic bag with manual stapler,Component bagging,factory_001,worker_002
+2000-01-01 00:15:58,2000-01-01 00:16:11,flatten and organize completed bags in bin,Component bagging,factory_001,worker_002
+2000-01-01 00:16:11,2000-01-01 00:16:47,drop loose parts into plastic bag,Component bagging,factory_001,worker_002
+2000-01-01 00:16:47,2000-01-01 00:16:51,seal plastic bag with manual stapler,Component bagging,factory_001,worker_002
+2000-01-01 00:16:51,2000-01-01 00:17:28,drop loose parts into plastic bag,Component bagging,factory_001,worker_002
+2000-01-01 00:17:28,2000-01-01 00:17:33,seal plastic bag with manual stapler,Component bagging,factory_001,worker_002
+2000-01-01 00:17:33,2000-01-01 00:17:47,drop loose parts into plastic bag,Component bagging,factory_001,worker_002
+2000-01-01 00:17:47,2000-01-01 00:18:03,blow compressed air over machine bed,Machine maintenance,factory_001,worker_002
+2000-01-01 00:18:03,2000-01-01 00:18:41,cut printed sheets into paper strips,Component bagging,factory_001,worker_002
+2000-01-01 00:18:41,2000-01-01 00:19:10,drop loose parts into plastic bag,Component bagging,factory_001,worker_002
+2000-01-01 00:19:10,2000-01-01 00:20:00,cut printed sheets into paper strips,Component bagging,factory_001,worker_002

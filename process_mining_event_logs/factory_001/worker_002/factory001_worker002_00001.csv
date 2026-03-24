@@ -1,0 +1,31 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:26,drop loose parts into plastic bag,Component bagging,factory_001,worker_002
+2000-01-01 00:00:26,2000-01-01 00:00:53,fold top edge of plastic bag,Component bagging,factory_001,worker_002
+2000-01-01 00:00:53,2000-01-01 00:01:19,seal plastic bag with manual stapler,Component bagging,factory_001,worker_002
+2000-01-01 00:01:19,2000-01-01 00:01:46,stack sealed bag on workbench,Component bagging,factory_001,worker_002
+2000-01-01 00:01:46,2000-01-01 00:01:50,carry finished batch to consolidation point,Finished goods transport,factory_001,worker_002
+2000-01-01 00:01:50,2000-01-01 00:01:54,drop sealed bags into bulk container,Finished goods transport,factory_001,worker_002
+2000-01-01 00:02:00,2000-01-01 00:03:39,drop loose parts into plastic bag,Component bagging,factory_001,worker_002
+2000-01-01 00:03:39,2000-01-01 00:05:18,fold top edge of plastic bag,Component bagging,factory_001,worker_002
+2000-01-01 00:05:18,2000-01-01 00:06:56,seal plastic bag with manual stapler,Component bagging,factory_001,worker_002
+2000-01-01 00:06:56,2000-01-01 00:08:35,stack sealed bag on workbench,Component bagging,factory_001,worker_002
+2000-01-01 00:08:35,2000-01-01 00:08:41,carry finished batch to consolidation point,Finished goods transport,factory_001,worker_002
+2000-01-01 00:08:41,2000-01-01 00:08:48,drop sealed bags into bulk container,Finished goods transport,factory_001,worker_002
+2000-01-01 00:08:53,2000-01-01 00:10:25,drop loose parts into plastic bag,Component bagging,factory_001,worker_002
+2000-01-01 00:10:25,2000-01-01 00:11:57,fold top edge of plastic bag,Component bagging,factory_001,worker_002
+2000-01-01 00:11:57,2000-01-01 00:13:28,seal plastic bag with manual stapler,Component bagging,factory_001,worker_002
+2000-01-01 00:13:28,2000-01-01 00:15:00,stack sealed bag on workbench,Component bagging,factory_001,worker_002
+2000-01-01 00:15:00,2000-01-01 00:15:05,carry finished batch to consolidation point,Finished goods transport,factory_001,worker_002
+2000-01-01 00:15:05,2000-01-01 00:15:10,drop sealed bags into bulk container,Finished goods transport,factory_001,worker_002
+2000-01-01 00:15:10,2000-01-01 00:15:16,flatten and organize completed bags in bin,Finished goods transport,factory_001,worker_002
+2000-01-01 00:15:20,2000-01-01 00:16:16,drop loose parts into plastic bag,Component bagging,factory_001,worker_002
+2000-01-01 00:16:16,2000-01-01 00:17:12,fold top edge of plastic bag,Component bagging,factory_001,worker_002
+2000-01-01 00:17:12,2000-01-01 00:18:08,seal plastic bag with manual stapler,Component bagging,factory_001,worker_002
+2000-01-01 00:18:08,2000-01-01 00:19:04,stack sealed bag on workbench,Component bagging,factory_001,worker_002
+2000-01-01 00:19:04,2000-01-01 00:19:11,carry finished batch to consolidation point,Finished goods transport,factory_001,worker_002
+2000-01-01 00:19:11,2000-01-01 00:19:18,drop sealed bags into bulk container,Finished goods transport,factory_001,worker_002
+2000-01-01 00:19:18,2000-01-01 00:19:25,flatten and organize completed bags in bin,Finished goods transport,factory_001,worker_002
+2000-01-01 00:19:29,2000-01-01 00:19:37,drop loose parts into plastic bag,Component bagging,factory_001,worker_002
+2000-01-01 00:19:37,2000-01-01 00:19:45,fold top edge of plastic bag,Component bagging,factory_001,worker_002
+2000-01-01 00:19:45,2000-01-01 00:19:53,seal plastic bag with manual stapler,Component bagging,factory_001,worker_002
+2000-01-01 00:19:53,2000-01-01 00:20:00,stack sealed bag on workbench,Component bagging,factory_001,worker_002

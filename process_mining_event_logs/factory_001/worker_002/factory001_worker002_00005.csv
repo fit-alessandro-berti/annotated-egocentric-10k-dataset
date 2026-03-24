@@ -1,0 +1,12 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:04,seal plastic bag with manual stapler,Component bagging,factory_001,worker_002
+2000-01-01 00:00:04,2000-01-01 00:00:13,carry finished batch to consolidation point,Finished goods transport,factory_001,worker_002
+2000-01-01 00:00:13,2000-01-01 00:00:30,drop sealed bags into bulk container,Component bagging,factory_001,worker_002
+2000-01-01 00:00:41,2000-01-01 00:01:07,drop loose parts into plastic bag,Component bagging,factory_001,worker_002
+2000-01-01 00:01:07,2000-01-01 00:01:30,unfold cardboard box,Component bagging,factory_001,worker_002
+2000-01-01 00:01:30,2000-01-01 00:02:05,cut plastic tubing to length,Component bagging,factory_001,worker_002
+2000-01-01 00:02:05,2000-01-01 00:02:24,line bulk container with plastic,Component bagging,factory_001,worker_002
+2000-01-01 00:02:44,2000-01-01 00:03:19,drop sealed bags into bulk container,Component bagging,factory_001,worker_002
+2000-01-01 00:03:19,2000-01-01 00:04:03,manually join metal components,Manual mechanical assembly,factory_001,worker_002
+2000-01-01 00:04:03,2000-01-01 00:04:09,carry finished batch to consolidation point,Finished goods transport,factory_001,worker_002
+2000-01-01 00:04:09,2000-01-01 00:20:01,manually join metal components,Manual mechanical assembly,factory_001,worker_002

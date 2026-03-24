@@ -1,0 +1,26 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:01:36,drop loose parts into plastic bag,Component bagging,factory_001,worker_002
+2000-01-01 00:01:37,2000-01-01 00:01:48,drop sealed bags into bulk container,Component bagging,factory_001,worker_002
+2000-01-01 00:01:48,2000-01-01 00:02:22,flatten and organize completed bags in bin,Component bagging,factory_001,worker_002
+2000-01-01 00:02:23,2000-01-01 00:02:59,tear open bulk bag of parts,Material replenishment,factory_001,worker_002
+2000-01-01 00:03:00,2000-01-01 00:03:15,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_002
+2000-01-01 00:03:15,2000-01-01 00:03:28,carry finished batch to consolidation point,Finished goods transport,factory_001,worker_002
+2000-01-01 00:03:28,2000-01-01 00:05:46,drop loose parts into plastic bag,Component bagging,factory_001,worker_002
+2000-01-01 00:05:46,2000-01-01 00:06:00,drop sealed bags into bulk container,Component bagging,factory_001,worker_002
+2000-01-01 00:06:00,2000-01-01 00:06:40,drop loose parts into plastic bag,Component bagging,factory_001,worker_002
+2000-01-01 00:06:41,2000-01-01 00:08:06,insert paper slip into plastic bag,Component bagging,factory_001,worker_002
+2000-01-01 00:08:07,2000-01-01 00:08:26,drop sealed bags into bulk container,Component bagging,factory_001,worker_002
+2000-01-01 00:08:27,2000-01-01 00:09:00,seal plastic bag with manual stapler,Component bagging,factory_001,worker_002
+2000-01-01 00:09:00,2000-01-01 00:09:17,tear open bulk bag of parts,Material replenishment,factory_001,worker_002
+2000-01-01 00:09:18,2000-01-01 00:09:32,flatten and organize completed bags in bin,Component bagging,factory_001,worker_002
+2000-01-01 00:09:33,2000-01-01 00:10:55,drop loose parts into plastic bag,Component bagging,factory_001,worker_002
+2000-01-01 00:10:56,2000-01-01 00:11:08,drop sealed bags into bulk container,Component bagging,factory_001,worker_002
+2000-01-01 00:11:09,2000-01-01 00:11:47,tear open bulk bag of parts,Material replenishment,factory_001,worker_002
+2000-01-01 00:11:48,2000-01-01 00:13:31,drop loose parts into plastic bag,Component bagging,factory_001,worker_002
+2000-01-01 00:13:32,2000-01-01 00:13:58,seal plastic bag with manual stapler,Component bagging,factory_001,worker_002
+2000-01-01 00:13:59,2000-01-01 00:15:35,drop loose parts into plastic bag,Component bagging,factory_001,worker_002
+2000-01-01 00:15:36,2000-01-01 00:15:46,drop sealed bags into bulk container,Component bagging,factory_001,worker_002
+2000-01-01 00:15:47,2000-01-01 00:16:12,tear open bulk bag of parts,Material replenishment,factory_001,worker_002
+2000-01-01 00:16:13,2000-01-01 00:18:14,drop loose parts into plastic bag,Component bagging,factory_001,worker_002
+2000-01-01 00:18:15,2000-01-01 00:18:24,drop sealed bags into bulk container,Component bagging,factory_001,worker_002
+2000-01-01 00:18:25,2000-01-01 00:19:59,drop loose parts into plastic bag,Component bagging,factory_001,worker_002
