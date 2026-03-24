@@ -1,0 +1,43 @@
+Process Summary
+
+The worker performs highly repetitive, short-cycle sub-assembly tasks focused on small mechanical hardware, such as latches and spring-loaded brackets. The core workflow involves retrieving components (springs, pins, nuts, screws, and plastic or metal housings) from table-mounted bins, combining them in a central fixture or jig, and securing them together. Based on the components being handled, the fastening process takes one of two primary forms: using a mechanical press/lever on the jig to snap the parts together, or using small hand tools (like an Allen key or a pin-pushing tool) to manually secure the unit. The worker continuously loops through this micro-assembly process, periodically pausing to restock their bins or accommodate coworkers moving materials in and out of the workspace.
+
+Detailed Process Breakdown
+
+**Workspace Setup**
+The worker is seated at a workbench densely populated with blue plastic parts bins. A central metal fixture or jig is mounted directly in front of the worker, serving as the primary anchor for all assembly tasks.
+
+**Component Retrieval & Pre-Assembly**
+The worker uses both hands to pick parts from the bins, often simultaneously or in rapid succession. Components vary by assembly batch but generally include a base piece (a black plastic housing or metal bracket), a tension mechanism (a small black spring), and fastening hardware (silver pins, small screws, or U-nuts). In some variations, the worker manually threads a spring onto a pin or threads a screw into a U-nut before placing the components into the fixture.
+
+**Assembly and Fastening Variations**
+Once the base and secondary components are aligned on the central fixture, the worker secures them using one of the following observed methods:
+*   **Jig Press:** The worker aligns the parts, sometimes adding a top plate or lever. They then actuate the jig—either by pulling a lever on the side or pressing down forcefully on a top handle—to snap or press-fit the components together. 
+*   **Hand Tool:** The worker aligns the components in the fixture and uses a small tool, such as an Allen key to tighten a bracket, or a specialized hand tool to manually push a pin through a spring and bracket.
+
+**Part Disposal and Secondary Integration**
+Finished assemblies are typically removed from the jig and tossed off-screen to the left or right. However, during certain batches, a secondary step occurs: instead of tossing the finished latch, the worker picks up a larger, flat metal bracket, installs the newly completed latch sub-assembly into it, and then sets the combined unit aside. 
+
+**Restocking and Bin Management**
+The worker frequently pauses to manage their material supply. They use their hands to drag small parts from the back of the bins to the front edge. When immediate supplies run low, they scoop handfuls of parts from distant bins into the bins directly in front of them, or they open clear plastic bags of parts and pour them into the active bins. 
+
+**Quality Checks**
+Quality inspection is brief and primarily visual. The worker occasionally inspects bare base brackets immediately after picking them; if defective, the part is tossed aside unassembled. Rarely, the worker uses a metallic measuring tool to check a finished part or holds up a completed assembly to visually inspect it.
+
+**Coworker Interaction**
+The workstation is highly congested. Coworkers seated opposite and directly adjacent to the worker frequently reach across the worker's line of sight and physical workspace to reorganize bins, drop off boxes of new parts, or shift materials. The worker routinely has to navigate their hands around these intrusions or pause their assembly cycle until the coworker finishes moving the bins.
+
+Possible Process Optimizations
+
+*   **Bin Presentation (Inference):** The worker loses cycle time manually dragging parts to the front of flat bins and transferring parts from distant bins. Implementing gravity-fed flow racks or sloped-bottom bins would automatically stage components at the front edge, reducing reach distances and eliminating manual sorting pauses.
+*   **Restocking Coordination:** Coworkers currently reach directly into the active workspace to swap or move bins, interrupting the workflow. This process could be optimized by utilizing a two-bin (Kanban) system loaded from the rear or side of the workstation, allowing material handlers to replenish supplies without crossing the worker's hands or field of view.
+*   **Drop Chutes for Finished Parts:** The worker spends time and physical motion tossing finished units into lateral piles. Installing a drop chute or funnel directly beneath or immediately adjacent to the central fixture would allow the worker to simply drop or sweep the finished part downward, minimizing hand travel time and reducing physical fatigue.
+*   **Fixture Redesign for Two-Handed Operation (Inference):** During some cycles, the worker holds a base component in one hand while threading a spring or pin with the other. If the central fixture were redesigned to securely clamp the base piece upon initial placement, the worker could use both hands simultaneously to retrieve and insert the secondary components, improving cycle efficiency.
+*   **Scrap Part Segregation:** Defective bare brackets are currently discarded by tossing them loosely to the side. Providing a designated, clearly marked "scrap" bin near the primary picking area would standardize defect disposal and prevent rejected parts from mixing with completed assemblies or creating workspace clutter.
+
+Evidence Limits
+
+*   The exact product names, part numbers, and the specific criteria the worker uses to visually reject defective brackets are unknown.
+*   The camera framing often obscures where the finished parts ultimately land when tossed to the sides, so it is unclear if they are entering a finished goods bin, a conveyor, or simply accumulating on the table.
+*   Due to the lack of audio, any verbal coordination, instructions, or signaling between the worker and the adjacent coworkers during restocking cannot be assessed.
+*   It is unclear if the different observed fastening methods (e.g., Allen key vs. jig press) represent the worker rotating through different workstations, or if they are simply assembling different product variations at the same multi-purpose workstation.

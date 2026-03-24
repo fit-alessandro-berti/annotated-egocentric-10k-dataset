@@ -1,0 +1,35 @@
+Process Summary
+The primary process observed is the manual assembly of heavy metal hinges. The worker continuously combines metal brackets and pins using a metal fixture block, a cylindrical punch tool, and a hammer/mallet. The workflow is characterized by a highly repetitive assembly loop, which is frequently interrupted by batching activities where the worker meticulously organizes finished loose hinges into neat, dense stacks. These stacks are then manually transported to larger bulk storage bins or wheeled carts located around the factory floor. A brief secondary process involves modifying small metal clips using a heavy tool block and a mallet. The worker also engages in periodic production tracking, utilizing a smartphone calculator to multiply batch counts.
+
+Detailed Process Breakdown
+Workspace Setup: 
+The worker operates at a long shared workbench covered with a blue plastic sheet. Materials (flat brackets, U-shaped brackets, and small pin components) are initially scattered in disorganized piles or drawn from shared bins on the table. The worker frequently works in parallel with multiple coworkers who are performing identical assembly tasks or sorting parts.
+
+Process 1: Metal Hinge Assembly
+1. Material Preparation (Occasional): In some instances, the worker pre-assembles components by manually interlocking the barrels of two separate hinge plates, building up a pile of interlocking pieces before proceeding to the pinning stage.
+2. Primary Assembly Loop: 
+   - The worker reaches into the unorganized piles or adjacent bins to retrieve a metal base plate/bracket and a corresponding pin component.
+   - The components are aligned by hand either directly on the table or on a central metal fixture block/jig.
+   - The worker holds a cylindrical metal punch tool over the aligned pin with their left hand.
+   - Using a mallet or hammer in their right hand, the worker strikes the punch tool firmly to drive the pin into the barrel, securing the hinge joint. 
+   - The assembled hinge is removed and dropped into a loose pile on the left side of the workspace.
+3. Batching and Staging: The assembly loop is frequently paused so the worker can organize the loosely dropped finished parts. Using both hands, the worker gathers the scattered hinges and meticulously aligns them face-to-face, building tight, structurally neat rectangular blocks or towers on the table.
+4. Transport and Handoff: Once a stack reaches a certain size, the worker carefully lifts the heavy block of hinges with both hands, stands up from the workbench, and walks to large bulk containers (grey metal bins, green plastic containers, or a wheeled metal cart with clear lids). The worker places the stacks inside, occasionally assisting coworkers in arranging the bins to maximize capacity. 
+
+Process 2: Metal Clip Processing
+In a distinct and brief secondary workflow at a different workstation, the worker modifies thin, flat metal clips. The worker places individual clips onto a heavy dark metal tool block, strikes the block forcefully with a mallet, and tosses the processed clips directly into a deep blue plastic bin. 
+
+Production Tracking
+Periodically, the worker consults a smartphone calculator application. They input specific multiplication formulas (e.g., 396x10, 408x5, 408x7) and visually inspect bulk carts of finished parts, occasionally verifying the screen against the bin contents with a coworker. 
+
+Possible Process Optimizations
+- Material Presentation: Parts are currently pulled from mixed, messy piles on the work table, requiring the worker to constantly sift, sort, and orient each component before assembly. Optimization: Introduce gravity-fed parts bins, angled hoppers, or pre-oriented dunnage to present the brackets and pins in a consistent orientation, reducing search and handling time.
+- Batching and Staging Inefficiencies: The worker spends a significant portion of their cycle time stopping assembly to manually square up and meticulously stack finished hinges into precise rectangular blocks. Optimization: Implement a localized drop-chute or a customized staging rack/jig at the workstation. This would allow finished pieces to be dropped directly into an organized orientation immediately after hammering, completely eliminating the manual sorting and stacking step.
+- Material Transport and Routing: The worker frequently stands up to walk heavy stacks of finished goods to bulk bins located across the floor. Optimization: Reposition the bulk receiving bins directly beside or beneath the workstation so parts can be deposited without standing or walking. Alternatively, establish a dedicated material handler role to collect finished stacks from the workbenches, allowing the assemblers to remain seated and focused on production.
+- Environmental Ergonomics: Intense sun glare is repeatedly noted washing across the blue plastic table covering, which likely causes visual strain and obscures the work area. Optimization: Install window shades, anti-glare table matting, or reorient the workbenches to mitigate the shifting sunlight. (Note: This is an inference based on the repeated environmental observation of severe glare during the precision alignment task).
+
+Evidence Limits
+- Camera angles are periodically erratic, obscured by the worker's clothing, or pointed upside-down/at the floor. This obscures some material handling details, particularly when the worker stands up or interacts with lower shelves.
+- The exact operational purpose of the secondary metal clip processing task is not fully visible due to its brief duration in the footage.
+- While the smartphone calculator math strongly indicates production volume tracking or piece-rate calculation, the exact quotas, metrics, or payment structures driving this behavior cannot be definitively confirmed.
+- It is unclear if specific quality control inspections are occurring during the manual alignment, as no formal measurement tools or rejection criteria are visible.

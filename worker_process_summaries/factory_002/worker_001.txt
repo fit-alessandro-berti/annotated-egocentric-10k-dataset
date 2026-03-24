@@ -1,0 +1,29 @@
+Process Summary
+The worker performs two distinct manual operations involving fabric handling. The first process is a folding and staging operation for patterned fabric pieces. The second process is an assembly operation where patterned fabric is paired and edge-aligned with solid-colored fabric. Both processes are highly repetitive, stationary tasks executed at a work table, punctuated by occasional material staging and transport activities. 
+
+Detailed Process Breakdown
+
+Process 1: Fabric Folding and Staging
+*   Setup and Layout: The worker stands at a work table with a supply of patterned fabric (dark purple with light dots) piled on their left. A completed stack is built on the right side of the table. 
+*   Folding Loop: The worker picks up a piece of fabric from the left, shakes it out, and lays it flat on the table. They fold the bottom section up toward the middle, then fold the sides inward to create a compact bundle. The folded piece is then placed onto the completed stack on the right. 
+*   Tool Handling: Throughout the entire folding process, the worker continuously holds a small piece of blue chalk in their right hand. The chalk occasionally touches the fabric during the folding steps, though it is used concurrently with manual fabric manipulation.
+*   Material Staging: Once the completed stack on the table reaches a certain size, the folding loop is interrupted. The worker walks across the room, retrieves a large, flat, white rectangular board, and brings it back to the workstation. The board is placed flat on the floor next to the table. The worker then lifts the entire stack of folded fabric from the table and places it onto the board on the floor before resuming the folding loop to build a new stack on the table.
+
+Process 2: Fabric Pairing and Alignment
+*   Setup and Layout: The worker handles two separate material streams at the table: solid dark purple fabric on the right, and patterned fabric (matching the material from Process 1) on the left.
+*   Pairing Loop: The worker lays one piece of fabric flat on the table and smooths it out. They then retrieve a piece of the contrasting fabric, lay it directly on top, and meticulously align the left and top edges. During this process, the sequence occasionally varies; sometimes the solid fabric is laid down first, and other times the patterned fabric is laid down first. 
+*   Quality Checks: The worker visually inspects the alignment, occasionally lifting the paired set up from the table to check the edges, folding or adjusting the fabric slightly to ensure perfect alignment.
+*   Stacking: Once aligned, the matched pair is lifted together and placed onto a finished stack on the right side of the table.
+
+Possible Process Optimizations
+
+*   Material Staging and Ergonomics: In Process 1, the transfer of completed fabric stacks to a board on the floor requires the worker to repeatedly bend down while bearing weight. This poses an ergonomic risk and adds non-value-added vertical movement. Providing a wheeled cart, a rolling rack, or a staging surface at table height would allow stacks to be slid or shifted seamlessly, reducing physical strain and improving transport readiness.
+*   Point-of-Use Tooling: The worker walks across the room to fetch the white staging boards. Storing empty boards directly underneath or adjacent to the work table would eliminate this transport waste and reduce process interruption.
+*   Tool Handling (Chalk): The continuous holding of blue chalk in the right hand during Process 1 likely restricts manual dexterity and slows down the two-handed folding steps. If continuous marking is not required, the process could be optimized by introducing a wearable chalk holder (such as a ring or wrist band) or simply resting the chalk on the table between marking steps to free up both hands.
+*   Standardized Assembly Sequence (Inference): In Process 2, the worker alternates which fabric type acts as the bottom layer. Standardizing this sequence (e.g., always placing the solid fabric down first) could be inferred to build stronger muscle memory, reduce cognitive decision-making, and slightly increase alignment speed over time.
+
+Evidence Limits
+*   It is not visibly clear what exact purpose the blue chalk serves or whether visible marks are actively being applied to the fabric during the folding steps, as the worker's hand simply obscures it.
+*   The final destination of the fabric stacks staged on the floor boards is not shown, limiting insight into downstream transport and handoff procedures.
+*   While the patterned fabric appears identical across both processes, it is not definitively clear if Process 1 and Process 2 are strictly sequential steps in the exact same batch workflow. 
+*   Because the camera view is limited to the immediate workstation, upstream material supply methods and background factory dynamics are mostly unknown.

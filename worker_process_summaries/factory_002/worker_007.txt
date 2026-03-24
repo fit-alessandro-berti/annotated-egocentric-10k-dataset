@@ -1,0 +1,41 @@
+Process Summary
+
+The observed workflow revolves around the final packaging, labeling, and bulk boxing of folded garments, specifically blue shirts. The worker is responsible for multiple stages of the packaging pipeline. The work includes individually bagging and banding garments, grouping them into master bags, assembling cardboard boxes, packing the garments into the boxes, and transporting the sealed boxes to staging areas. The process is highly manual, involves repetitive micro-routines, and requires significant mobility as the worker frequently steps away from their primary station to retrieve materials, share tools, or hand off intermediate products to coworkers. 
+
+Detailed Process Breakdown
+
+The worker's operations can be divided into three distinct primary processes, supported by ongoing material handling.
+
+Process 1: Individual Garment Packaging
+The worker performs several variations of individual garment packaging depending on the specific product requirements:
+- Bagging with Hangers: The worker takes a folded shirt with a black hanger, slides it into a clear plastic bag, peels off an adhesive backing strip, folds the flap to seal it, and tapes the hanger hook to the outside of the bag.
+- Cardboard Banding: The worker centers a white cardboard band over a folded shirt, wraps the ends to the back, and secures the band closed with clear tape pulled from a desktop dispenser. In some instances, the banded shirt is subsequently slid into a clear plastic sleeve.
+- Sleeve Sealing and Labeling: For shirts placed into unsealed sleeves, the worker folds the plastic flap over and uses a small piece of tape to secure it. They also use a handheld yellow dispenser to apply small labels to individual packaged shirts, stacking them neatly once labeled.
+
+Process 2: Master Bagging
+For certain batches, the worker consolidates the individually packaged shirts. They grab small stacks of packaged shirts and slide them together into a larger, clear plastic master bag. The worker then folds the open end of the master bag over and seals it shut using a tape dispenser.
+
+Process 3: Box Assembly and Bulk Packing
+The worker transitions to packing the finished garments into cardboard shipping boxes:
+- Box Assembly: The worker retrieves flat, unassembled cardboard boxes. They pull a box open into a rectangle, fold the bottom flaps inward, and seal the bottom seam with clear tape. Notably, the worker frequently uses a blue pen to smooth down and cut the clear packing tape.
+- Packing: The worker transfers either individual shirts, banded shirts, or master bags into the open boxes, arranging them into neat stacks until the box is full.
+- Sealing and Marking: The worker folds the top flaps inward, tapes the top seam closed (again often using the pen to cut the tape), and writes on the top of the box with a marker or pen. 
+- Transport: The sealed boxes are then lifted and carried to a nearby staging area or stacked on the floor.
+
+Material Handling, Transport, and Coordination
+Throughout all processes, the worker frequently walks across the workspace. They transport stacks of unpackaged shirts to their station, carry completed stacks to adjacent tables for coworkers to process, and retrieve flat boxes from storage aisles. The worker occasionally uses a wheeled trolley to move large boxes, though manual carrying is more common. The worker also periodically handles paperwork, signing documents presented by coworkers or security personnel, and reviews printed pages alongside the packaging tasks. 
+
+Possible Process Optimizations
+
+- Tool Provisioning (Observed): The worker repeatedly uses a blue pen to smooth and cut clear packing tape during box assembly. Providing a standard handheld tape dispenser with a built-in serrated cutting edge (a tape gun) for box assembly would eliminate this awkward workaround, improving both cycle time and ergonomic safety.
+- Dedicated Workstation Tools (Observed): The worker is seen walking away from their station to search for a roll of tape on the floor, and they repeatedly hand tape dispensers back and forth with nearby coworkers. Ensuring every active packaging station has dedicated supplies (tape dispensers, labelers, markers) would eliminate waiting times and transport waste caused by sharing tools.
+- Workstation Layout and Staging (Inference): The worker constantly leaves their table to fetch new stacks of folded shirts, drop off completed packages at adjacent tables, and retrieve empty flat boxes. It is inferred that rearranging the tables into a tighter u-shaped cellular layout, or implementing gravity-flow racks for handoffs between workers, would significantly reduce travel time and streamline the transfer of batches.
+- Box Assembly Batching (Inference): The worker currently operates in a single-piece flow for boxing: they assemble one box, pack it, seal it, walk it to storage, and then return to assemble the next flat box. It is inferred that batching the assembly step (e.g., building and bottom-taping 5 to 10 boxes at once) or assigning a water spider (material handler) to provide pre-assembled boxes would reduce continuous task-switching and unnecessary walking.
+- Standardized Transport Equipment (Inference): While a wheeled trolley is used once to move a box, the worker mostly carries heavy, fully loaded boxes to staging areas by hand. It is inferred that standardizing the use of trolleys or rolling carts for all finished box transport would reduce physical strain and allow the worker to move multiple boxes per trip.
+
+Evidence Limits
+
+- The operational logic dictating which shirts receive hangers, which receive cardboard bands, and which are consolidated into master bags is not evident from the visual footage.
+- The contents of the paperwork being reviewed, signed, and checked off by the worker cannot be read.
+- Conversations with coworkers and security personnel are not discernible, making it impossible to determine if interactions are for quality control, material requests, or general instruction.
+- In one instance, the worker slices open a newly sealed package, marks the cardboard insert, adds tape, and repacks the shirt. The underlying quality or tracking reason for this rework step is not visible.

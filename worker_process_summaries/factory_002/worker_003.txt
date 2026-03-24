@@ -1,0 +1,38 @@
+Process Summary
+
+The observed worker is engaged in multiple stages of a garment packaging and finishing operation. The workflow involves several distinct processes: preparing and assembling hangers, folding garments, attaching hangers to the folded garments using various methods, wrapping garments with cardboard inserts, and finally enclosing the garments in clear plastic bags for shipping. The worker frequently transitions between these tasks, managing their own materials by moving stacks of garments, hangers, and packaging supplies between staging tables and their primary workstations.
+
+Detailed Process Breakdown
+
+**Hanger Preparation and Assembly**
+The worker performs two specific sub-tasks related to hanger management:
+*   **Assembly:** The worker snaps together two-piece black plastic hangers (a main body and a smaller clip component) and secures a small red rubber band around the top hook of each assembled hanger.
+*   **Bundling/Unbundling:** The worker gathers loose black plastic hangers and ties them together at the necks using white string loops to create tight bundles. At other times, the worker performs the exact reverse—taking bundled hangers, untying them, and scattering them into loose piles for immediate use. 
+
+**Garment Folding and Hanging**
+The worker folds and hangs garments, adjusting their technique based on the garment type:
+*   **Tops/Shirts:** The worker folds the sides of light blue garments inward and then folds them in half. Hangers are attached in a few different ways. In some instances, the worker manually threads a pre-cut white string through the hanger and a garment loop, tying a knot to secure them. In other instances, they use a green handheld tag gun to attach a white string loop directly to the fabric, then drape the garment over the bottom bar of a black plastic hanger.
+*   **Bottoms/Pants:** The garment is laid flat, the bottom legs are folded up to the waistband, the outer edges are folded inward to narrow the width, and the garment is folded in half vertically. The worker then pinches open the clips of an assembled black hanger and attaches it directly to the top folded edge of the garment. 
+
+**Cardboard Wrapping**
+The worker folds small, rectangular white cardboard pieces (some plain, some with a red line) in half. These folded cardboards are subsequently wrapped around the hanger/neck area of the folded garments and secured in place using tape pulled manually from a desktop dispenser.
+
+**Bagging and Sealing**
+The worker slides folded and hung garments into clear plastic shipping bags. To seal the bags, the worker folds the plastic flap over, manually pulls and cuts a piece of tape from a standard desktop tape dispenser, and applies it to the flap. The packaged items are pushed into finished stacks. Occasionally, the worker skips the plastic bag entirely, instead just taping the cardboard wrap around the hanger and stacking the bare garment. 
+
+**Material Handling and Workspace Management**
+Throughout all processes, the worker continuously manages their workspace. They manually sweep dust and loose threads off tables. When immediate supplies run low, they stop their primary task to reach across the table or walk to adjacent staging areas to pull new stacks of garments, empty bags, labels, or string bundles into their active workspace. Finished stacks are routinely transferred to separate tables or placed into large cardboard cartons on the floor.
+
+Possible Process Optimizations
+
+*   **Automated Tape Dispensing or Peel-and-Seal Bags (Inference):** The worker uses a two-handed manual pull-and-cut motion with a standard desktop tape dispenser for every single bag seal and cardboard wrap. Providing an automatic tape dispenser that pre-cuts fixed lengths of tape, or switching to self-sealing plastic bags with adhesive strips, would eliminate significant repetitive motion and speed up the bagging process.
+*   **Eliminate Hanger Tying/Untying (Inference):** The worker spends time tying loose hangers into bundles with string, only to manually untie them later at the folding station. Replacing this practice with reusable totes, bins, or mobile peg racks for transporting loose hangers between stations would eliminate these non-value-added tying and untying steps.
+*   **Workstation Restocking Flow (Inference):** The worker frequently interrupts their folding and bagging cycles to pull new stock from adjacent tables or push finished stacks away. Introducing gravity-fed bins, inclined presentation shelving, or dedicated material handlers to supply bags and garments directly into the worker's ergonomic strike zone would reduce reaching and walking interruptions. 
+*   **Standardize Hanging Methods (Inference):** The worker uses multiple methods to attach hangers, with hand-tying string knots being the most time-consuming. If product specifications allow, standardizing the attachment method to rely solely on the much faster clip hangers or the tag gun would optimize the cycle time.
+
+Evidence Limits
+
+*   The narrow field of view from the egocentric camera limits visibility of the broader factory floor, making it difficult to determine exactly where garments arrive from or where the completed cartons are transported.
+*   It is not definitively clear why hanger attachment methods vary so much (e.g., hand-tying vs. tagging vs. clipping); it is assumed this is due to different garment styles or client requirements, but this cannot be confirmed from the footage.
+*   The reason for occasionally skipping the plastic bagging step in favor of stacking garments with taped cardboard wraps is unknown based solely on the visual evidence. 
+*   Brief interactions and gestures with coworkers occur, but the lack of audio context makes it impossible to know what information is being communicated or if it relates to a process bottleneck.

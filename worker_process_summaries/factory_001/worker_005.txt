@@ -1,0 +1,39 @@
+Process Summary
+
+The worker performs several distinct light manufacturing, assembly, and packaging processes within the facility. The workflow is highly variable and involves frequent switching between manual part assembly, semi-automated machine operation, continuous machine feeding, and final packaging/boxing. The work involves handling small-to-medium plastic and metal components, combining them into sub-assemblies or finished goods, and staging them for downstream transport. The primary operational modes are divided into manual benchwork, machine-assisted press operations, and kitting/bagging. 
+
+Detailed Process Breakdown
+
+**Manual Assembly Operations**
+In pure manual assembly, the worker utilizes a two-handed method. They repeatedly pick a base component (often a metal bracket or silver component) with their left hand from a side bin, while simultaneously picking a secondary component (often a black plastic piece) from a front mechanism or central pile with their right hand. The parts are pressed together manually and the finished unit is tossed into a central collection bin or off to the side. In some variations, the worker must first tear open clear plastic wrapping to extract raw parts, discarding the wrapper on the desk before assembling the pieces. 
+
+**Semi-Automated Machine Operations**
+The worker operates multiple types of small assembly machines or pneumatic presses. 
+*   **Single-Button/Sliding Press:** The worker places a component into a metal fixture, sometimes pushes a sliding mechanism, presses a single red button to cycle the machine, and then removes the part.
+*   **Dual-Button Press:** The worker places a part in the fixture, depresses two red buttons simultaneously (a safety interlock feature), waits for the cycle, and drops the processed part into a central collection bin. 
+*   **Continuous Machine Feeding:** In a completely different machine interaction, the worker dumps entire blue bins of small, loose plastic parts onto a corrugated cardboard surface. They then continuously use both hands to scoop and sweep the parts directly into the machine’s receiving mechanism. 
+
+**Packaging and Bagging**
+Packaging is handled through several different methods depending on the product:
+*   **Bulk Scooping:** The worker pauses assembly, fetches an empty clear plastic bag, and plunges both hands into a collection bin to scoop handfuls of completed parts into the bag until full.
+*   **Direct-to-Bag (Lap Bagging):** To bypass scooping, the worker occasionally modifies their workflow by opening an empty plastic bag on their lap. They perform the machine assembly cycle and drop the finished part directly into the bag on their lap, changing the bag once it is full.
+*   **Kitting:** A more complex sequence where the worker fills a small bag with loose parts, sets it aside, places a main machine-assembled component into a larger bag, adds the small bag of loose parts to the larger bag, and folds it closed. 
+*   **Coworker Assistance:** The worker occasionally moves to a shared packing table to assist another employee in placing parts into bags.
+
+**Material Handling and Handoffs**
+The operational flow requires constant material management. The worker frequently stops core assembly tasks to physically manage their workstation. They turn around or stand up to walk to cardboard boxes on the floor to retrieve empty bags. They manually lift and swap heavy blue bins to replenish raw materials from floor storage to the benchtop. Filled bags are carried by hand and dropped into larger cardboard boxes staged on the floor, which the worker occasionally folds, arranges, or tapes shut. Empty bins are manually stacked behind the workstation, and bins full of packaged goods are sometimes poured directly into floor boxes.
+
+Possible Process Optimizations
+
+*   **Point-of-Use Bag Presentation:** The worker frequently halts assembly, stands up, and turns around to fetch empty plastic bags from floor boxes. Installing gravity-fed bag dispensers or a hanging roll rack directly above or beside the primary work zone would eliminate the walking and reaching required to procure packaging supplies.
+*   **Direct-to-Bag Fixturing (Inference):** The worker’s makeshift adaptation of holding a bag on their lap to catch parts directly from the machine indicates a need for a drop-chute or bagging fixture. Providing a funnel-style chute attached to the desk that leads directly into an open bag or box would eliminate the secondary task of scooping bulk parts from bins into bags.
+*   **Automated Machine Feeding (Inference):** The process of manually sweeping loose parts into a machine ties up both of the operator's hands for extended periods. This could be optimized by introducing a vibratory bowl feeder or a gravity-fed hopper above the machine, allowing the worker to simply load a bulk bin into the hopper and pivot to other value-added tasks while the machine auto-feeds.
+*   **Upstream De-trashing:** In tasks where the worker must tear open individually wrapped components prior to assembly, motion is wasted and the workstation becomes cluttered with plastic debris. An optimization would be shifting this unbagging step upstream, having material handlers supply bins of loose, unwrapped parts to the line. Alternatively, providing a slotted drop-hole on the desk for immediate waste disposal would reduce periodic clearing of the workspace.
+*   **Material Routing and "Water Spider" Implementation:** The operator spends significant time acting as their own material handler—lifting heavy raw material bins from the floor to the desk, carrying full bags to floor boxes, taping boxes, and moving empty bins to stacks. Implementing a "water spider" (a dedicated material handler) to replenish raw parts on angled flow racks and retrieve finished boxes via a roller conveyor would allow the worker to maintain continuous assembly flow without breaking rhythm.
+
+Evidence Limits
+
+*   **Field of View:** The egocentric camera angle heavily restricts the view of the broader factory floor. It is difficult to ascertain the overall line layout, the total distance to staging areas, or how the worker's station integrates with upstream and downstream processes.
+*   **Task Switching Triggers:** It is unclear why the worker switches so frequently between purely manual tasks, machine pressing, machine feeding, and packing assist. This could be due to batch manufacturing schedules, job rotation, or line balancing, but the operational logic is not captured on camera.
+*   **Machine Cycle Times:** The exact durations of the pneumatic press cycles and the processing speed of the sweeping machine are not entirely clear, limiting precise cycle-time or machine-idle-time analysis.
+*   **Quality Control:** Standard quality inspection requirements are not visible. The worker inspects a part closely only once, making it unclear if visual checks are a required step in the standard operating procedure or a reaction to an anomaly.

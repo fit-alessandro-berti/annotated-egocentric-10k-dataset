@@ -1,0 +1,47 @@
+You are given multiple worker-level process summaries from the same factory.
+
+Your task has two goals:
+1. Produce a factory-level report that restates the worker process summaries in a compact but informative way, preserving which worker each summary belongs to.
+2. Produce a long, detailed, process-mining-oriented activity catalogue for the factory that can help with downstream process optimization.
+
+Context:
+- Factory identifier: {factory}
+
+Important constraints:
+- Do not mention file names, file paths, source identifiers, transcript numbers, or video numbers.
+- Do not quote the source summaries.
+- Stay grounded in the provided evidence. If something is uncertain, state the uncertainty briefly instead of inventing details.
+- Synthesize across workers. Do not merely copy the worker summaries back verbatim.
+
+Worker summary requirements:
+- Include every worker provided in the input.
+- Keep each worker summary concise but useful.
+- Preserve the worker identifier for each summary, because the output is factory-level.
+- Focus on the main process(es), major material flows, handoffs, machine interactions, transport, inspection, waiting, cleaning, batching, and coordination patterns that matter operationally.
+
+Activity catalogue requirements:
+- The catalogue must be long and detailed.
+- Each activity must be a short string only, suitable as a candidate event label for process mining.
+- Prefer specific verb-object phrases such as "load raw blank into press" rather than generic labels such as "operate machine".
+- Include not only value-adding operations, but also transport, staging, waiting, inspection, rework-like handling, setup, cleanup, handoff, documentation, and coordination activities when visible.
+- Keep distinct activity variants separate when they matter for process analysis.
+- Avoid duplicate or near-duplicate labels.
+- Avoid full sentences, explanations, numbering inside the activity text, or extra commentary next to the activity.
+- If an activity is not clearly supported, do not invent it.
+
+Optimization relevance requirements:
+- Favor activity labels that would help reveal bottlenecks, queues, machine idle time, material handling burden, unnecessary motion, batching behavior, rework, inspection points, coordination dependencies, and handoff structure.
+
+Write the output in plain text with exactly these section headings:
+
+Factory Process Overview
+Worker Process Summaries
+Factory Activity Catalogue
+Optimization-Relevant Process Observations
+Evidence Limits
+
+Formatting rules for the output:
+- Under "Worker Process Summaries", use one line per worker in the form:
+  worker_xxx: summary
+- Under "Factory Activity Catalogue", use one bullet per activity.
+- Each bullet in "Factory Activity Catalogue" must contain only a short activity string and nothing else.

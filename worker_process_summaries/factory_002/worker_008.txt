@@ -1,0 +1,29 @@
+Process Summary
+The worker is engaged in a repetitive garment tagging process, specifically attaching green tags to the inner collars of folded white t-shirts. The overarching workflow includes staging untagged shirts at the workstation, manually aligning tags, securing them with a hand-held plastic tagging gun, stacking the finished garments, and managing the immediate workspace. The role also encompasses intermittent material transport tasks—such as fetching bulk untagged garments from other factory areas and dropping off completed stacks—as well as occasional tool maintenance, including replacing tagging gun needles and reloading fasteners.
+
+Detailed Process Breakdown
+**Material Staging and Setup**
+The primary workspace is a table where tall stacks of folded white t-shirts are staged. The worker manages workspace capacity by periodically pulling new stacks of untagged shirts closer to the center of the table from the back or sides. When local table supplies are exhausted, the worker leaves the station, walks to bulk storage areas (sometimes pulling back plastic sheeting), and carries heavy stacks of untagged shirts back to the table. Tags are sourced from strips of cardboard, loose piles scattered on the table, or retrieved from nearby boxes.
+
+**Tagging Cycles and Variations**
+The worker consistently holds the tagging gun in the right hand and manages the garments and tags with the left hand. However, the worker utilizes three distinct handling and stacking methods during the tagging process:
+1.  **Dual-Stack Method**: The worker pulls two untagged shirts and lays them flat side-by-side. A tag is detached from a strip, aligned with the left shirt's collar, and fastened with the gun. Another tag is detached and fastened to the right shirt's collar. This cycle repeats continuously to build two parallel stacks of finished goods.
+2.  **Single-Stack (Right-Side Routing)**: The worker pulls a single shirt to the center, snaps a tag off a strip, attaches it to the collar, and lifts the finished shirt onto a completed stack on their right.
+3.  **Single-Stack (Left-Side Routing) with Loose Tags**: The worker pulls a single shirt to the center. Instead of pulling tags from a strip, the worker holds a small bundle of loose tags in the palm of their left hand, using their thumb to slide a single tag forward for positioning. After firing the gun, the shirt is slid onto a completed stack on their left.
+
+**Workspace Management and Material Transport**
+Because the finished stacks accumulate directly in the primary work zone, the worker frequently pauses tagging to push the completed stacks toward the rear of the table. Once the table reaches capacity, the worker pauses the cycle, stands up, gathers the finished stacks, and walks away to drop them off at an unseen staging area before returning to resume work. 
+
+**Tool Maintenance and Replenishment**
+The worker pauses the process to maintain the tagging gun. This includes reloading strips of plastic fasteners into the gun. In one instance, the worker leaves the workstation to hand a small object to another operator in a different aisle, receives a replacement metal needle in return, walks back, and carefully inserts and locks the new needle into the tagging gun before testing it. 
+
+Possible Process Optimizations
+*   **Standardization of Work Method**: The worker frequently alternates between dual-stacking, single-stacking to the right, and single-stacking to the left, as well as changing how tags are held (strips vs. loose handfuls). Standardizing the operational sequence to the single most ergonomic and time-efficient method would reduce process variation. 
+*   **Point-of-Use Material Supply (Inference)**: The worker spends significant time walking to retrieve untagged shirts, fetch tags from boxes, and transport finished stacks. Implementing a material handler (water spider) to deliver raw materials and take away finished goods would allow the tagging operator to remain at the workstation, increasing machine/tool utilization.
+*   **Finished Goods Conveyance (Inference)**: If a material handler is not feasible, installing a gravity chute, slide, or simple roller conveyor at the desk could allow the worker to push finished items directly out of the workspace. This would eliminate the micro-pauses required to push stacks to the back of the table and the macro-pauses required to walk completed batches to drop-off zones.
+*   **Workstation Organization**: The worker is seen scooping loose tags off the desk or walking to other areas to retrieve basic supplies like replacement needles. Implementing dedicated, localized point-of-use bins for tags, spare needles, and fastener strips directly in the worker's optimal strike zone would eliminate search time and transport waste.
+
+Evidence Limits
+*   The camera's egocentric angle restricts the view of the broader factory floor, making it impossible to evaluate the exact distance to drop-off zones or the specific workflow of the upstream and downstream stations.
+*   It is not clear why the worker alternates between different batching methods (dual vs. single stacking); this could be based on personal preference, different product variants, or specific downstream requirements that are not visible. 
+*   The context of the needle replacement is unclear. It is not visible whether the previous needle broke, jammed, or simply wore out, nor is it clear why the replacement had to be acquired from another worker rather than a supply cabinet.

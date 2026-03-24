@@ -1,0 +1,32 @@
+Process Summary
+The worker performs two distinct preparatory manual processes within a garment manufacturing environment. The first process involves untangling, flattening, and staging crumpled pieces of blue fabric. The second, more extensive process involves repeatedly folding white fabric strips and marking their edges with a pen. The worker manages their own material replenishment for the second task, periodically leaving the workstation to gather bulk supplies from factory storage areas.
+
+Detailed Process Breakdown
+
+Process 1: Unfolding and Stacking Fabric Panels
+- Setup: The worker sits at a table with a disorganized, crumpled pile of blue fabric pieces on the right. Each piece has a small yellow sticker attached.
+- Action Loop: The worker reaches to the right, grabs a single piece of fabric, and uses both hands to pull the edges taut, completely unfolding it. They lay the straightened piece flat in the center of the table, smoothing it down to build an aligned stack.
+- Staging: Once the central stack reaches a certain volume, the worker grasps the entire stack with both hands, lifts it, and places it on the left side of the table next to other completed stacks. 
+
+Process 2: Folding and Marking Fabric Strips
+- Setup: The workspace features a central table, large transparent bags filled with white fabric strips, and blue pens. 
+- Action Loop: The core task is picking up white fabric strips, folding them, and marking the folded edges with a blue pen. However, the worker utilizes several completely different execution methods throughout the observed periods:
+  - Single-Piece Method: The worker folds a single strip in half with the left hand, marks the folded tip with the pen in the right hand, and tosses the strip onto a loose pile.
+  - Batch-Accumulation Method: The worker folds single strips but keeps them pinched in their left hand, accumulating a large, thick stack. Once a substantial bundle is formed, they use the pen to draw a single continuous line across all the aligned edges at once before placing the entire bundle down.
+  - Core-Bundle Method: The worker pulls a long, continuous fabric strip, folds it back and forth to create a thick central core, and wraps it. They then press smaller, single folded strips against this core to build a larger block for edge-marking.
+  - Multi-Fold and Bagging: The worker tightly folds a single strip multiple times into a compact rectangle, marks it, and tosses it directly into a large bag on the left.
+- Material Handling & Replenishment: The worker performs their own material transport. They stop working, stand, and walk to distant blue storage racks. Here, they transfer loose white fabric strips from a large sack on the floor into a smaller transport bag, routinely bending over to collect pieces that have spilled onto the floor. They carry this bag back to the desk. They make similar trips to distant bins to retrieve fresh blue pens. 
+- Housekeeping: The worker periodically reaches into the bag of finished, marked bundles to press down and manually compress the fabric to make more room. They also occasionally drop tools or fabric and must retrieve them from the floor.
+
+Possible Process Optimizations
+
+- Standardize Marking Methodology: The worker fluctuates between single-piece marking and various forms of batch marking. Standardizing the "Batch-Accumulation Method" (holding multiple folded strips and marking their combined edges with a single pen stroke) is highly inferable as the most efficient technique, as it minimizes redundant pen movements and repetitive handling.
+- Upstream Material Presentation: The blue fabric pieces arrive in crumpled, tangled piles. If the upstream process could stage and hand off these pieces flat or partially aligned, it would eliminate the continuous manual untangling and stretching currently required at this station.
+- Decouple Replenishment from Production: The worker spends significant time walking to storage areas, manually stuffing bags on the floor, picking up spilled pieces, and carrying supplies back. Using a material handler (water spider) to deliver properly sized bins of fabric and pens directly to the workstation would eliminate this transport and staging downtime.
+- Improve Output Receptacles: The worker uses soft, unstructured bags to catch the finished white fabric bundles, requiring them to stop and manually compress the bag's contents. Replacing bags with rigid, appropriately sized bins or hoppers would eliminate the need to manually manage the receptacle volume.
+- Workstation Organization: Adding lipped edges to the table or using dedicated tool holders could prevent pens and fabric pieces from slipping off the table, reducing the time spent retrieving dropped items.
+
+Evidence Limits
+- The ultimate purpose of the blue pen marks on the white fabric strips is not visible in the footage.
+- The routing or next step for the finished stacks of blue fabric and the bags of marked white strips is unseen.
+- During one extended sequence of the folding and marking process, the worker stands up and walks away for a few seconds at highly frequent intervals. The exact reason for this erratic pacing (e.g., retrieving micro-batches of material just out of frame, pacing, or supervisory checks) is completely obscured by motion blur and framing.

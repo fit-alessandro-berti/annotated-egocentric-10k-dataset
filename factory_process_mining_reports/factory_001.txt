@@ -1,0 +1,140 @@
+Factory Process Overview
+
+The factory operates as a discrete manufacturing and assembly facility specializing in metal and plastic components. The production environment features a mix of heavy industrial stamping presses, semi-automated pneumatic machinery, and extensive manual bench-assembly stations. A defining characteristic of the facility's current operating model is the high degree of manual material handling intertwined with core production tasks; operators frequently act as their own material handlers, routinely halting value-added manufacturing to fetch raw materials, unwrap components, and transport finished goods across the factory floor. The operational flow relies heavily on localized batching, decentralized quality checks, and frequent physical coordination between adjacent workstations, indicating a tightly packed but loosely buffered production line.
+
+Worker Process Summaries
+
+worker_001: Operates heavy metal stamping presses using single, dual, or batch-feeding techniques, while frequently pausing to manually fetch raw materials from bulk storage and transport finished batches to centralized collection points.
+worker_002: Performs manual packaging and assembly of small metal components into clear plastic bags, seals them with a hand stapler, and periodically walks to organize finished bags into large bulk containers.
+worker_003: Executes fine manual assembly of metal clips and pins over a central jig, stages finished units on various track or board fixtures, manually records production counts on clipboards, and retrieves bulk materials.
+worker_004: Assembles metal brackets using small fasteners and a suspended power screwdriver, frequently interrupting the short-cycle assembly to drag messy part piles closer, restock bins, and transport finished goods.
+worker_005: Switches between manual bracket assembly, semi-automated machine pressing, and continuous machine-feeding, while acting as their own material handler to fetch empty bags, unwrap components, and pack finished goods.
+worker_006: Assembles heavy metal hinges using a punch and mallet, meticulously batches finished pieces into dense rectangular stacks, and physically carries these heavy stacks to large floor bins while tracking production on a smartphone.
+worker_007: Operates a heavy industrial press to form metal blanks, uses specialized hand tools to micro-adjust parts in the die, manually extracts parts, and frequently pauses to level bulk collection bins and scoop raw materials from the floor.
+worker_008: Builds simple and complex spring-loaded mechanisms using table jigs, manually hand-threads small screws, and actively manages material flow by retrieving bulk bags and bagging finished parts with coworker assistance.
+worker_009: Assembles small mechanical hardware like latches using a central lever-press jig or hand tools, periodically rejecting defective bare brackets, and frequently pauses to accommodate coworkers who cross the workspace to restock bins.
+worker_010: Alternates among small mechanical sub-assembly with adhesives, complex structural frame weaving requiring transit between multiple stations, and single-piece flow assembly of red plastic enclosures involving constant walking to unwrap units.
+worker_011: Runs a metal stamping press by manually feeding blanks and extracting bent parts, regularly interrupting the cycle to lift heavy stacks of raw blanks from low bins, dispose of metal scrap, and clear die debris with compressed air.
+
+Factory Activity Catalogue
+
+* load raw blank into press
+* load dual components into press
+* feed batch of raw components into press
+* align component in die with hand tool
+* actuate press via dual buttons
+* actuate press via single button
+* actuate press via foot pedal
+* actuate press via hand tool mechanism
+* sweep loose parts into machine receiver
+* place base component into assembly jig
+* insert pin into aligned components
+* insert spring into bracket
+* snap components together via jig lever
+* press components together manually
+* drive fastener with suspended power tool
+* drive fastener with handheld power drill
+* tighten set screw with hand tool
+* tighten nut with pliers
+* thread screw manually
+* rivet pin with pneumatic tool
+* strike punch tool with mallet
+* strike metal clip with mallet
+* apply adhesive drop to joint
+* brush threadlocker onto switch
+* weave flexible strap through metal clip
+* crimp metal clip with hand tool
+* seat assembled frame into blue fixture
+* remove stamped part from die manually
+* flick stamped part into bin
+* extract stamped part with magnetic tool
+* remove assembled component from jig
+* drop loose parts into plastic bag
+* insert assembled component into plastic bag
+* insert paper label into plastic bag
+* seal plastic bag with manual stapler
+* fold plastic bag closed
+* place finished part into individual green bin
+* stage assembled part on corrugated cardboard
+* insert assembled part into pre-punched cardboard hole
+* snap assembled part onto metal chain track
+* mount assembled part onto wooden board pin
+* stack finished hinges into dense rectangular block
+* install completed sub-assembly into larger bracket
+* walk to bulk storage area
+* scoop bulk parts into transport bin
+* pour bulk parts into workstation bin
+* lift heavy stack of blanks onto machine bed
+* drag loose parts closer to assembly zone
+* transfer parts from back of bin to front
+* unwrap plastic from raw component
+* tear open bulk bag of parts
+* sift raw parts in bulk bin
+* fetch empty plastic bag from floor box
+* fetch empty transport bin
+* receive pre-printed label from coworker
+* carry bin of finished parts to bulk container
+* carry heavy stack of hinges to bulk cart
+* carry assembled frame to fixture station
+* pour finished parts into bulk container
+* drop sealed bags into bulk container
+* level finished parts in bulk cart
+* organize layers of completed bags in bin
+* push heavy metal cart across floor
+* scoop finished parts from desk into bag
+* line bulk container with plastic tubing
+* cut plastic tubing to length
+* knot plastic tubing to form bag bottom
+* cut paper label sheet with metal ruler
+* write batch label on bulk container
+* swap fixture block on workstation
+* wipe central die with cloth
+* wipe workstation jig with cloth
+* rub fingers in grip enhancer pouch
+* clear debris from die manually
+* blow debris from machine bed with air gun
+* empty scrap metal tray
+* discard metal scrap into floor crate
+* discard plastic wrapper
+* inspect stamped part visually
+* compare newly stamped part to older part
+* measure finished part with metallic tool
+* test spring functionality of assembled mechanism
+* discard defective bare bracket
+* hand off part to coworker
+* receive part from coworker
+* exchange bagged parts with coworker
+* demonstrate hand tool usage to coworker
+* count rows of completed parts
+* record production count on clipboard
+* write production tag with pen
+* calculate batch count on smartphone
+* verify smartphone calculation with coworker
+* wait for coworker to restock bins
+* hold plastic bag open for coworker
+* stabilize frame for coworker
+
+Optimization-Relevant Process Observations
+
+Material Handling and Transit Dependencies
+The most significant operational bottleneck across the factory is the lack of decoupled material handling. Operators routinely stop value-adding machine or assembly work to walk across the factory floor to fetch raw materials, dump finished goods, or unwrap single components. This creates severe machine and operator idle time. Implementing "water spiders" (dedicated material handlers) to replenish stock and remove finished goods would yield massive throughput gains.
+
+Workstation Ergonomics and Material Presentation
+Parts are frequently staged in loose, unorganized piles, flat bins on tables, or low floor bins. This forces workers to manually drag, sort, and orient components, or repeatedly bend over to lift heavy stacks. Transitioning to sloped gravity-fed bins, pick-lips, auto-feed screwdrivers, and spring-loaded lift tables would drastically reduce awkward reaching, spine twisting, and non-value-added search time.
+
+Batching vs. Single-Piece Flow Inefficiencies
+There is highly erratic batching behavior across different workstations. Some workers spend massive amounts of cycle time meticulously stacking parts into dense geometric blocks before transport, while others walk to fetch and unwrap a single item per cycle, creating constant micro-interruptions. Standardizing batch sizes, utilizing drop-chutes for immediate part disposal, and staging unwrapped materials directly at the point of use would stabilize production pacing.
+
+Lack of Automated Ejection and Fastening
+A vast number of manual motions could be easily automated to shorten cycle times. Operators manually extract stamped parts from heavy press dies, which could be replaced with pneumatic blow-off valves linked to the press stroke. Furthermore, tedious manual screw twisting and hand-stapling tasks act as distinct choke points; these should be upgraded to suspended power tools or continuous heat sealers.
+
+Unplanned Dependencies and Workspace Intrusions
+Tight physical coupling and a lack of point-of-use buffers cause continuous workflow interruptions. Workers frequently pause assembly while coworkers reach across their workspace to restock bins, wait for neighbors to hold bags open, or require a second operator to stabilize structural frames. Redesigning fixtures to hold parts securely and utilizing rear-loaded two-bin (Kanban) systems would decouple these dependencies and eliminate waiting time.
+
+Evidence Limits
+
+* The egocentric camera field of view heavily restricts visibility of the broader factory floor layout, obscuring upstream/downstream routing networks and the exact distances traveled during material transport.
+* The lack of audio makes it impossible to verify the content of frequent coworker conversations, masking whether they involve critical quality control discussions, production coordination, or casual talk.
+* Visual obstructions, including hands blocking the lens, blurry rapid movements, and erratic camera angles, obscure fine mechanical details, exact fitment criteria, and the precise functioning of some right-hand tools and machine interlocks.
+* Specific production targets, exact defect and rework rates, part numbers, and precise cycle times cannot be fully quantified without timestamps or visible formal documentation.
+* The purposes of specific chemical liquids (adhesives, threadlockers) and pouch contents (grip enhancers) are inferred based on application context and cannot be chemically verified from the footage alone.
