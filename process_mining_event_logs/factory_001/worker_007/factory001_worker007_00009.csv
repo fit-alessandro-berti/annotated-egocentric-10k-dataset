@@ -1,0 +1,13 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:02:55,load raw metal blank into die,Metal forming,factory_001,worker_007
+2000-01-01 00:02:55,2000-01-01 00:03:17,level finished parts in bulk cart,Metal forming,factory_001,worker_007
+2000-01-01 00:03:19,2000-01-01 00:06:19,load raw metal blank into die,Metal forming,factory_001,worker_007
+2000-01-01 00:06:32,2000-01-01 00:09:18,load raw metal blank into die,Metal forming,factory_001,worker_007
+2000-01-01 00:09:18,2000-01-01 00:09:27,level finished parts in bulk cart,Metal forming,factory_001,worker_007
+2000-01-01 00:09:29,2000-01-01 00:10:27,load raw metal blank into die,Metal forming,factory_001,worker_007
+2000-01-01 00:10:27,2000-01-01 00:10:41,level finished parts in bulk cart,Metal forming,factory_001,worker_007
+2000-01-01 00:10:43,2000-01-01 00:13:17,load raw metal blank into die,Metal forming,factory_001,worker_007
+2000-01-01 00:13:17,2000-01-01 00:13:26,level finished parts in bulk cart,Metal forming,factory_001,worker_007
+2000-01-01 00:13:28,2000-01-01 00:16:43,load raw metal blank into die,Metal forming,factory_001,worker_007
+2000-01-01 00:16:43,2000-01-01 00:16:59,level finished parts in bulk cart,Metal forming,factory_001,worker_007
+2000-01-01 00:17:01,2000-01-01 00:20:00,load raw metal blank into die,Metal forming,factory_001,worker_007

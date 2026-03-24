@@ -1,0 +1,58 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:34,actuate machine press,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:00:34,2000-01-01 00:00:46,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:00:46,2000-01-01 00:01:03,drop sealed bags into bulk container,Component bagging,factory_001,worker_005
+2000-01-01 00:01:03,2000-01-01 00:01:36,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:01:36,2000-01-01 00:02:56,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:02:56,2000-01-01 00:03:12,drop sealed bags into bulk container,Component bagging,factory_001,worker_005
+2000-01-01 00:03:12,2000-01-01 00:04:18,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:04:18,2000-01-01 00:04:43,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_005
+2000-01-01 00:04:43,2000-01-01 00:04:51,drop sealed bags into bulk container,Component bagging,factory_001,worker_005
+2000-01-01 00:04:51,2000-01-01 00:05:07,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:05:07,2000-01-01 00:05:15,drop sealed bags into bulk container,Component bagging,factory_001,worker_005
+2000-01-01 00:05:15,2000-01-01 00:06:17,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:06:17,2000-01-01 00:06:28,drop sealed bags into bulk container,Component bagging,factory_001,worker_005
+2000-01-01 00:06:28,2000-01-01 00:07:00,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:07:00,2000-01-01 00:07:11,drop sealed bags into bulk container,Component bagging,factory_001,worker_005
+2000-01-01 00:07:11,2000-01-01 00:07:22,stack empty bins behind workstation,Material replenishment,factory_001,worker_005
+2000-01-01 00:07:22,2000-01-01 00:07:48,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:07:48,2000-01-01 00:07:59,drop sealed bags into bulk container,Component bagging,factory_001,worker_005
+2000-01-01 00:07:59,2000-01-01 00:08:20,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:08:20,2000-01-01 00:08:44,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_005
+2000-01-01 00:08:44,2000-01-01 00:09:19,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:09:19,2000-01-01 00:09:26,drop sealed bags into bulk container,Component bagging,factory_001,worker_005
+2000-01-01 00:09:26,2000-01-01 00:09:56,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:09:56,2000-01-01 00:10:04,drop sealed bags into bulk container,Component bagging,factory_001,worker_005
+2000-01-01 00:10:04,2000-01-01 00:10:45,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:10:45,2000-01-01 00:10:55,drop sealed bags into bulk container,Component bagging,factory_001,worker_005
+2000-01-01 00:10:55,2000-01-01 00:11:11,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:11:11,2000-01-01 00:11:21,drop sealed bags into bulk container,Component bagging,factory_001,worker_005
+2000-01-01 00:11:21,2000-01-01 00:11:42,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:11:42,2000-01-01 00:11:51,drop sealed bags into bulk container,Component bagging,factory_001,worker_005
+2000-01-01 00:11:51,2000-01-01 00:12:00,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:12:00,2000-01-01 00:12:12,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_005
+2000-01-01 00:12:12,2000-01-01 00:12:56,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:12:56,2000-01-01 00:13:08,drop sealed bags into bulk container,Component bagging,factory_001,worker_005
+2000-01-01 00:13:08,2000-01-01 00:13:22,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:13:22,2000-01-01 00:13:31,drop sealed bags into bulk container,Component bagging,factory_001,worker_005
+2000-01-01 00:13:31,2000-01-01 00:13:52,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:13:52,2000-01-01 00:14:04,drop sealed bags into bulk container,Component bagging,factory_001,worker_005
+2000-01-01 00:14:04,2000-01-01 00:14:14,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:14:14,2000-01-01 00:14:24,drop sealed bags into bulk container,Component bagging,factory_001,worker_005
+2000-01-01 00:14:24,2000-01-01 00:14:48,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:14:48,2000-01-01 00:14:57,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_005
+2000-01-01 00:14:57,2000-01-01 00:15:31,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:15:31,2000-01-01 00:15:43,drop sealed bags into bulk container,Component bagging,factory_001,worker_005
+2000-01-01 00:15:43,2000-01-01 00:16:29,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:16:29,2000-01-01 00:16:42,drop sealed bags into bulk container,Component bagging,factory_001,worker_005
+2000-01-01 00:16:42,2000-01-01 00:17:00,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:17:00,2000-01-01 00:17:11,drop sealed bags into bulk container,Component bagging,factory_001,worker_005
+2000-01-01 00:17:11,2000-01-01 00:17:44,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:17:44,2000-01-01 00:17:58,drop sealed bags into bulk container,Component bagging,factory_001,worker_005
+2000-01-01 00:17:58,2000-01-01 00:18:16,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:18:16,2000-01-01 00:18:27,drop sealed bags into bulk container,Component bagging,factory_001,worker_005
+2000-01-01 00:18:27,2000-01-01 00:18:48,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:18:48,2000-01-01 00:18:59,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_005
+2000-01-01 00:18:59,2000-01-01 00:19:35,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:19:35,2000-01-01 00:19:49,drop sealed bags into bulk container,Component bagging,factory_001,worker_005
+2000-01-01 00:19:49,2000-01-01 00:20:01,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005

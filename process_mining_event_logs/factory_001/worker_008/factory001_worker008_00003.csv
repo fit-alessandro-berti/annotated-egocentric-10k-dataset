@@ -1,0 +1,26 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:01:46,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:01:46,2000-01-01 00:01:49,show finished part to coworker,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:01:49,2000-01-01 00:03:28,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:03:28,2000-01-01 00:03:32,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_008
+2000-01-01 00:03:32,2000-01-01 00:05:08,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:05:08,2000-01-01 00:05:12,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_008
+2000-01-01 00:05:12,2000-01-01 00:10:18,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:10:18,2000-01-01 00:10:21,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_008
+2000-01-01 00:10:21,2000-01-01 00:10:33,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:10:33,2000-01-01 00:10:38,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_008
+2000-01-01 00:10:38,2000-01-01 00:10:55,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_008
+2000-01-01 00:10:55,2000-01-01 00:11:09,carry finished batch to consolidation point,Finished goods transport,factory_001,worker_008
+2000-01-01 00:11:21,2000-01-01 00:11:27,adjust plastic collection bag,Component bagging,factory_001,worker_008
+2000-01-01 00:11:27,2000-01-01 00:11:31,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_008
+2000-01-01 00:11:31,2000-01-01 00:11:49,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:11:49,2000-01-01 00:11:57,fold top edge of plastic bag,Component bagging,factory_001,worker_008
+2000-01-01 00:11:57,2000-01-01 00:14:08,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:14:08,2000-01-01 00:14:11,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_008
+2000-01-01 00:14:11,2000-01-01 00:15:24,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:15:24,2000-01-01 00:15:32,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_008
+2000-01-01 00:15:32,2000-01-01 00:17:48,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:17:48,2000-01-01 00:17:53,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_008
+2000-01-01 00:17:53,2000-01-01 00:19:44,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:19:44,2000-01-01 00:19:49,adjust plastic collection bag,Component bagging,factory_001,worker_008
+2000-01-01 00:19:49,2000-01-01 00:20:00,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008

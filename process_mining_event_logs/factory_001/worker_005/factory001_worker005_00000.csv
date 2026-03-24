@@ -1,0 +1,17 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:01:36,manually join metal components,Manual mechanical assembly,factory_001,worker_005
+2000-01-01 00:01:36,2000-01-01 00:03:20,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_005
+2000-01-01 00:03:20,2000-01-01 00:05:10,manually join metal components,Manual mechanical assembly,factory_001,worker_005
+2000-01-01 00:05:10,2000-01-01 00:05:20,carry finished batch to consolidation point,Finished goods transport,factory_001,worker_005
+2000-01-01 00:05:20,2000-01-01 00:06:10,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_005
+2000-01-01 00:06:10,2000-01-01 00:06:23,carry finished batch to consolidation point,Finished goods transport,factory_001,worker_005
+2000-01-01 00:06:23,2000-01-01 00:10:52,manually join metal components,Manual mechanical assembly,factory_001,worker_005
+2000-01-01 00:10:52,2000-01-01 00:11:28,unfold cardboard box,Component bagging,factory_001,worker_005
+2000-01-01 00:11:28,2000-01-01 00:11:51,manually join metal components,Manual mechanical assembly,factory_001,worker_005
+2000-01-01 00:12:00,2000-01-01 00:15:05,manually join metal components,Manual mechanical assembly,factory_001,worker_005
+2000-01-01 00:15:05,2000-01-01 00:15:26,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_005
+2000-01-01 00:15:26,2000-01-01 00:15:35,carry finished batch to consolidation point,Finished goods transport,factory_001,worker_005
+2000-01-01 00:15:35,2000-01-01 00:16:34,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_005
+2000-01-01 00:16:34,2000-01-01 00:16:42,carry finished batch to consolidation point,Finished goods transport,factory_001,worker_005
+2000-01-01 00:16:42,2000-01-01 00:19:28,manually join metal components,Manual mechanical assembly,factory_001,worker_005
+2000-01-01 00:19:28,2000-01-01 00:20:00,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_005

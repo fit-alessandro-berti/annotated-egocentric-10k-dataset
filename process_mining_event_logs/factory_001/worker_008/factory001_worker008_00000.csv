@@ -1,0 +1,25 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:15,pour large bag of small components into desktop bin,Material replenishment,factory_001,worker_008
+2000-01-01 00:00:15,2000-01-01 00:00:23,sift unformed parts in bulk bin,Material replenishment,factory_001,worker_008
+2000-01-01 00:00:23,2000-01-01 00:01:21,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:01:21,2000-01-01 00:01:31,pour large bag of small components into desktop bin,Material replenishment,factory_001,worker_008
+2000-01-01 00:01:31,2000-01-01 00:02:51,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:02:51,2000-01-01 00:03:00,toss defective bare bracket aside,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:03:00,2000-01-01 00:04:26,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:04:26,2000-01-01 00:04:32,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_008
+2000-01-01 00:04:32,2000-01-01 00:05:43,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:05:43,2000-01-01 00:05:51,sift unformed parts in bulk bin,Material replenishment,factory_001,worker_008
+2000-01-01 00:05:51,2000-01-01 00:07:22,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:07:22,2000-01-01 00:07:38,adjust plastic collection bag,Component bagging,factory_001,worker_008
+2000-01-01 00:07:38,2000-01-01 00:08:48,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:08:48,2000-01-01 00:08:55,drag small parts to front of bin,Material replenishment,factory_001,worker_008
+2000-01-01 00:08:55,2000-01-01 00:10:32,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:10:39,2000-01-01 00:12:17,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:12:17,2000-01-01 00:12:25,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_008
+2000-01-01 00:12:25,2000-01-01 00:13:12,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:13:12,2000-01-01 00:13:21,adjust plastic collection bag,Component bagging,factory_001,worker_008
+2000-01-01 00:13:21,2000-01-01 00:14:42,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:14:48,2000-01-01 00:16:42,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:16:51,2000-01-01 00:18:38,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:18:38,2000-01-01 00:18:49,pour large bag of small components into desktop bin,Material replenishment,factory_001,worker_008
+2000-01-01 00:18:49,2000-01-01 00:20:01,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008

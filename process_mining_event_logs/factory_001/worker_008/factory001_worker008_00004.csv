@@ -1,0 +1,6 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:07:20,insert small screw into metal base plate,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:07:38,2000-01-01 00:08:00,scoop raw parts into bin,Material replenishment,factory_001,worker_008
+2000-01-01 00:08:11,2000-01-01 00:15:25,insert small screw into metal base plate,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:15:30,2000-01-01 00:19:28,insert small screw into metal base plate,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:19:28,2000-01-01 00:19:50,scoop raw parts into bin,Material replenishment,factory_001,worker_008

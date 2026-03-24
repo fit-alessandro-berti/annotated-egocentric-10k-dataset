@@ -1,0 +1,24 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:02:15,interlock barrels of separate hinge plates,Manual mechanical assembly,factory_001,worker_006
+2000-01-01 00:02:15,2000-01-01 00:08:10,hold cylindrical punch tool over aligned pin,Manual mechanical assembly,factory_001,worker_006
+2000-01-01 00:08:10,2000-01-01 00:08:24,place stack of hinges into bulk container,Manual mechanical assembly,factory_001,worker_006
+2000-01-01 00:08:24,2000-01-01 00:10:15,hold cylindrical punch tool over aligned pin,Manual mechanical assembly,factory_001,worker_006
+2000-01-01 00:10:15,2000-01-01 00:10:30,interlock barrels of separate hinge plates,Manual mechanical assembly,factory_001,worker_006
+2000-01-01 00:10:30,2000-01-01 00:11:30,hold cylindrical punch tool over aligned pin,Manual mechanical assembly,factory_001,worker_006
+2000-01-01 00:11:30,2000-01-01 00:11:42,level finished parts in bulk cart,Manual mechanical assembly,factory_001,worker_006
+2000-01-01 00:11:42,2000-01-01 00:12:20,hold cylindrical punch tool over aligned pin,Manual mechanical assembly,factory_001,worker_006
+2000-01-01 00:12:20,2000-01-01 00:12:35,drag unassembled metal parts closer to fixture,Manual mechanical assembly,factory_001,worker_006
+2000-01-01 00:12:35,2000-01-01 00:14:00,hold cylindrical punch tool over aligned pin,Manual mechanical assembly,factory_001,worker_006
+2000-01-01 00:14:00,2000-01-01 00:14:15,stack finished hinges into rectangular block,Manual mechanical assembly,factory_001,worker_006
+2000-01-01 00:14:15,2000-01-01 00:14:52,sift unformed parts in bulk bin,Manual mechanical assembly,factory_001,worker_006
+2000-01-01 00:14:52,2000-01-01 00:15:00,interlock barrels of separate hinge plates,Manual mechanical assembly,factory_001,worker_006
+2000-01-01 00:15:00,2000-01-01 00:15:20,gather scattered finished hinges,Manual mechanical assembly,factory_001,worker_006
+2000-01-01 00:15:20,2000-01-01 00:15:43,place stack of hinges into bulk container,Manual mechanical assembly,factory_001,worker_006
+2000-01-01 00:15:43,2000-01-01 00:15:53,interlock barrels of separate hinge plates,Manual mechanical assembly,factory_001,worker_006
+2000-01-01 00:15:53,2000-01-01 00:17:35,hold cylindrical punch tool over aligned pin,Manual mechanical assembly,factory_001,worker_006
+2000-01-01 00:17:35,2000-01-01 00:18:00,stack finished hinges into rectangular block,Manual mechanical assembly,factory_001,worker_006
+2000-01-01 00:18:00,2000-01-01 00:18:38,hold cylindrical punch tool over aligned pin,Manual mechanical assembly,factory_001,worker_006
+2000-01-01 00:18:38,2000-01-01 00:18:52,stack finished hinges into rectangular block,Manual mechanical assembly,factory_001,worker_006
+2000-01-01 00:18:52,2000-01-01 00:19:15,hold cylindrical punch tool over aligned pin,Manual mechanical assembly,factory_001,worker_006
+2000-01-01 00:19:15,2000-01-01 00:19:35,stack finished hinges into rectangular block,Manual mechanical assembly,factory_001,worker_006
+2000-01-01 00:19:35,2000-01-01 00:20:00,drag unassembled metal parts closer to fixture,Manual mechanical assembly,factory_001,worker_006

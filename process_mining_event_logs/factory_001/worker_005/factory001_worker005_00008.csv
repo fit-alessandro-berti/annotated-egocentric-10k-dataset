@@ -1,0 +1,50 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:23,actuate machine press,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:00:23,2000-01-01 00:00:30,pour raw parts onto feed tray,Material replenishment,factory_001,worker_005
+2000-01-01 00:00:30,2000-01-01 00:00:50,actuate machine press,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:00:50,2000-01-01 00:00:54,inspect newly stamped part,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:00:54,2000-01-01 00:01:25,actuate machine press,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:01:25,2000-01-01 00:01:36,stack empty bins behind workstation,Workstation cleaning,factory_001,worker_005
+2000-01-01 00:01:36,2000-01-01 00:02:00,actuate machine press,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:02:00,2000-01-01 00:02:08,push sliding mechanism on press,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:02:08,2000-01-01 00:02:26,actuate machine press,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:02:26,2000-01-01 00:02:35,drag small parts to front of bin,Material replenishment,factory_001,worker_005
+2000-01-01 00:02:35,2000-01-01 00:02:44,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_005
+2000-01-01 00:02:44,2000-01-01 00:03:00,actuate machine press,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:03:00,2000-01-01 00:03:08,drag small parts to front of bin,Material replenishment,factory_001,worker_005
+2000-01-01 00:03:08,2000-01-01 00:03:30,actuate machine press,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:03:30,2000-01-01 00:03:38,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_005
+2000-01-01 00:03:38,2000-01-01 00:04:14,actuate machine press,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:04:14,2000-01-01 00:04:36,drop sealed bags into bulk container,Finished goods transport,factory_001,worker_005
+2000-01-01 00:04:36,2000-01-01 00:04:51,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_005
+2000-01-01 00:04:51,2000-01-01 00:04:59,drop sealed bags into bulk container,Component bagging,factory_001,worker_005
+2000-01-01 00:04:59,2000-01-01 00:05:18,actuate machine press,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:05:18,2000-01-01 00:05:32,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_005
+2000-01-01 00:05:32,2000-01-01 00:06:48,actuate machine press,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:06:48,2000-01-01 00:06:51,pour raw parts onto feed tray,Material replenishment,factory_001,worker_005
+2000-01-01 00:06:51,2000-01-01 00:08:15,actuate machine press,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:08:15,2000-01-01 00:08:31,drop sealed bags into bulk container,Component bagging,factory_001,worker_005
+2000-01-01 00:08:31,2000-01-01 00:08:39,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_005
+2000-01-01 00:08:39,2000-01-01 00:08:48,drop sealed bags into bulk container,Component bagging,factory_001,worker_005
+2000-01-01 00:08:48,2000-01-01 00:09:29,unfold cardboard box,Finished goods transport,factory_001,worker_005
+2000-01-01 00:09:29,2000-01-01 00:10:20,actuate machine press,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:10:20,2000-01-01 00:10:24,drag small parts to front of bin,Material replenishment,factory_001,worker_005
+2000-01-01 00:10:24,2000-01-01 00:11:06,actuate machine press,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:11:06,2000-01-01 00:11:13,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_005
+2000-01-01 00:11:13,2000-01-01 00:11:20,drop sealed bags into bulk container,Component bagging,factory_001,worker_005
+2000-01-01 00:11:20,2000-01-01 00:12:44,actuate machine press,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:12:44,2000-01-01 00:12:51,unfold cardboard box,Finished goods transport,factory_001,worker_005
+2000-01-01 00:12:51,2000-01-01 00:12:59,drop sealed bags into bulk container,Finished goods transport,factory_001,worker_005
+2000-01-01 00:12:59,2000-01-01 00:13:08,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_005
+2000-01-01 00:13:08,2000-01-01 00:14:14,actuate machine press,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:14:14,2000-01-01 00:14:21,push sliding mechanism on press,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:14:21,2000-01-01 00:15:52,actuate machine press,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:15:52,2000-01-01 00:15:55,pour raw parts onto feed tray,Material replenishment,factory_001,worker_005
+2000-01-01 00:15:55,2000-01-01 00:16:18,actuate machine press,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:16:25,2000-01-01 00:17:13,actuate machine press,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:17:13,2000-01-01 00:17:18,pour raw parts onto feed tray,Material replenishment,factory_001,worker_005
+2000-01-01 00:17:18,2000-01-01 00:18:37,actuate machine press,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:18:37,2000-01-01 00:18:40,pour raw parts onto feed tray,Material replenishment,factory_001,worker_005
+2000-01-01 00:18:40,2000-01-01 00:19:10,actuate machine press,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:19:10,2000-01-01 00:19:15,pour raw parts onto feed tray,Material replenishment,factory_001,worker_005
+2000-01-01 00:19:15,2000-01-01 00:19:51,actuate machine press,Semi-automated press assembly,factory_001,worker_005

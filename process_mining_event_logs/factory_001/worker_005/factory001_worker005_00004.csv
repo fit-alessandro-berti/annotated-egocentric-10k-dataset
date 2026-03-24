@@ -1,0 +1,26 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:04:36,place main component into larger bag,Component kitting,factory_001,worker_005
+2000-01-01 00:04:36,2000-01-01 00:04:50,unfold cardboard box,Material replenishment,factory_001,worker_005
+2000-01-01 00:04:50,2000-01-01 00:06:42,place main component into larger bag,Component kitting,factory_001,worker_005
+2000-01-01 00:06:42,2000-01-01 00:06:50,consult coworker regarding part counts,Production tracking,factory_001,worker_005
+2000-01-01 00:06:50,2000-01-01 00:07:34,place main component into larger bag,Component kitting,factory_001,worker_005
+2000-01-01 00:07:34,2000-01-01 00:07:42,adjust plastic collection bag,Material replenishment,factory_001,worker_005
+2000-01-01 00:07:42,2000-01-01 00:09:44,place main component into larger bag,Component kitting,factory_001,worker_005
+2000-01-01 00:09:44,2000-01-01 00:09:51,adjust plastic collection bag,Material replenishment,factory_001,worker_005
+2000-01-01 00:09:51,2000-01-01 00:10:38,place main component into larger bag,Component kitting,factory_001,worker_005
+2000-01-01 00:10:38,2000-01-01 00:10:44,adjust plastic collection bag,Material replenishment,factory_001,worker_005
+2000-01-01 00:10:44,2000-01-01 00:11:15,place main component into larger bag,Component kitting,factory_001,worker_005
+2000-01-01 00:11:15,2000-01-01 00:11:23,adjust plastic collection bag,Material replenishment,factory_001,worker_005
+2000-01-01 00:11:23,2000-01-01 00:13:51,place main component into larger bag,Component kitting,factory_001,worker_005
+2000-01-01 00:13:51,2000-01-01 00:14:00,adjust plastic collection bag,Material replenishment,factory_001,worker_005
+2000-01-01 00:14:00,2000-01-01 00:14:55,place main component into larger bag,Component kitting,factory_001,worker_005
+2000-01-01 00:14:55,2000-01-01 00:15:00,adjust plastic collection bag,Material replenishment,factory_001,worker_005
+2000-01-01 00:15:00,2000-01-01 00:15:50,place main component into larger bag,Component kitting,factory_001,worker_005
+2000-01-01 00:15:50,2000-01-01 00:16:05,adjust plastic collection bag,Material replenishment,factory_001,worker_005
+2000-01-01 00:16:05,2000-01-01 00:17:35,place main component into larger bag,Component kitting,factory_001,worker_005
+2000-01-01 00:17:35,2000-01-01 00:17:41,adjust plastic collection bag,Material replenishment,factory_001,worker_005
+2000-01-01 00:17:41,2000-01-01 00:18:13,place main component into larger bag,Component kitting,factory_001,worker_005
+2000-01-01 00:18:13,2000-01-01 00:18:18,adjust plastic collection bag,Material replenishment,factory_001,worker_005
+2000-01-01 00:18:18,2000-01-01 00:19:43,place main component into larger bag,Component kitting,factory_001,worker_005
+2000-01-01 00:19:43,2000-01-01 00:19:50,adjust plastic collection bag,Material replenishment,factory_001,worker_005
+2000-01-01 00:19:50,2000-01-01 00:20:00,place main component into larger bag,Component kitting,factory_001,worker_005

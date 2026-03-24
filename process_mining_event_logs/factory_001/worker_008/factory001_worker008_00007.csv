@@ -1,0 +1,33 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:01:21,manually join metal components,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:01:21,2000-01-01 00:01:46,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_008
+2000-01-01 00:01:46,2000-01-01 00:02:42,manually join metal components,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:02:46,2000-01-01 00:05:47,manually join metal components,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:05:51,2000-01-01 00:07:26,manually join metal components,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:07:26,2000-01-01 00:07:30,toss completed sub-assembly into side bin,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:07:30,2000-01-01 00:08:08,manually join metal components,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:08:12,2000-01-01 00:08:44,manually join metal components,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:08:48,2000-01-01 00:08:53,manually join metal components,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:08:58,2000-01-01 00:09:20,manually join metal components,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:09:22,2000-01-01 00:09:28,manually join metal components,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:09:31,2000-01-01 00:10:00,manually join metal components,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:10:04,2000-01-01 00:10:25,manually join metal components,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:10:28,2000-01-01 00:10:33,manually join metal components,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:10:33,2000-01-01 00:10:38,toss completed sub-assembly into side bin,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:10:38,2000-01-01 00:11:51,manually join metal components,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:11:55,2000-01-01 00:12:16,manually join metal components,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:12:16,2000-01-01 00:12:21,toss completed sub-assembly into side bin,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:12:21,2000-01-01 00:12:46,manually join metal components,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:12:50,2000-01-01 00:13:11,manually join metal components,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:13:25,2000-01-01 00:13:30,drag unassembled metal parts closer to fixture,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:13:30,2000-01-01 00:14:49,manually join metal components,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:14:55,2000-01-01 00:15:58,manually join metal components,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:16:03,2000-01-01 00:16:51,manually join metal components,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:16:51,2000-01-01 00:16:55,toss completed sub-assembly into side bin,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:16:55,2000-01-01 00:17:06,manually join metal components,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:17:15,2000-01-01 00:17:18,toss completed sub-assembly into side bin,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:17:18,2000-01-01 00:17:37,manually join metal components,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:17:41,2000-01-01 00:18:43,manually join metal components,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:18:45,2000-01-01 00:19:28,manually join metal components,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:19:32,2000-01-01 00:19:42,manually join metal components,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:19:46,2000-01-01 00:19:59,manually join metal components,Manual mechanical assembly,factory_001,worker_008

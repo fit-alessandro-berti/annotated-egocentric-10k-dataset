@@ -1,0 +1,21 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:01:03,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:01:03,2000-01-01 00:01:59,pour large bag of small components into desktop bin,Material replenishment,factory_001,worker_008
+2000-01-01 00:01:59,2000-01-01 00:03:19,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:03:19,2000-01-01 00:04:47,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:05:03,2000-01-01 00:05:47,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:05:51,2000-01-01 00:06:22,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:06:25,2000-01-01 00:08:16,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:08:18,2000-01-01 00:08:44,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:08:46,2000-01-01 00:09:00,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:09:15,2000-01-01 00:09:44,pour large bag of small components into desktop bin,Material replenishment,factory_001,worker_008
+2000-01-01 00:09:56,2000-01-01 00:10:25,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:10:31,2000-01-01 00:11:40,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:11:42,2000-01-01 00:13:05,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:13:08,2000-01-01 00:14:16,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:14:20,2000-01-01 00:16:50,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:16:54,2000-01-01 00:17:00,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:17:02,2000-01-01 00:18:13,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:18:17,2000-01-01 00:19:26,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:19:28,2000-01-01 00:19:43,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:19:48,2000-01-01 00:20:00,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008

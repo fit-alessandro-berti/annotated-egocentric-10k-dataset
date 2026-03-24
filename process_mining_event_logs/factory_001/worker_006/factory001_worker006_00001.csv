@@ -1,0 +1,39 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:41,manually join metal components,Manual mechanical assembly,factory_001,worker_006
+2000-01-01 00:00:41,2000-01-01 00:01:17,place stack of hinges into bulk container,Finished goods transport,factory_001,worker_006
+2000-01-01 00:01:17,2000-01-01 00:01:56,manually join metal components,Manual mechanical assembly,factory_001,worker_006
+2000-01-01 00:01:56,2000-01-01 00:02:30,place stack of hinges into bulk container,Finished goods transport,factory_001,worker_006
+2000-01-01 00:02:30,2000-01-01 00:02:43,manually join metal components,Manual mechanical assembly,factory_001,worker_006
+2000-01-01 00:02:43,2000-01-01 00:02:59,place stack of hinges into bulk container,Finished goods transport,factory_001,worker_006
+2000-01-01 00:02:59,2000-01-01 00:03:13,manually join metal components,Manual mechanical assembly,factory_001,worker_006
+2000-01-01 00:03:13,2000-01-01 00:03:25,place stack of hinges into bulk container,Finished goods transport,factory_001,worker_006
+2000-01-01 00:03:25,2000-01-01 00:06:30,manually join metal components,Manual mechanical assembly,factory_001,worker_006
+2000-01-01 00:06:30,2000-01-01 00:06:39,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_006
+2000-01-01 00:06:39,2000-01-01 00:08:57,manually join metal components,Manual mechanical assembly,factory_001,worker_006
+2000-01-01 00:08:57,2000-01-01 00:09:12,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_006
+2000-01-01 00:09:12,2000-01-01 00:10:10,manually join metal components,Manual mechanical assembly,factory_001,worker_006
+2000-01-01 00:10:10,2000-01-01 00:10:20,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_006
+2000-01-01 00:10:20,2000-01-01 00:10:53,manually join metal components,Manual mechanical assembly,factory_001,worker_006
+2000-01-01 00:10:53,2000-01-01 00:11:00,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_006
+2000-01-01 00:11:00,2000-01-01 00:12:00,manually join metal components,Manual mechanical assembly,factory_001,worker_006
+2000-01-01 00:12:00,2000-01-01 00:12:05,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_006
+2000-01-01 00:12:05,2000-01-01 00:12:12,manually join metal components,Manual mechanical assembly,factory_001,worker_006
+2000-01-01 00:12:12,2000-01-01 00:12:20,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_006
+2000-01-01 00:12:20,2000-01-01 00:13:57,manually join metal components,Manual mechanical assembly,factory_001,worker_006
+2000-01-01 00:14:04,2000-01-01 00:14:38,manually join metal components,Manual mechanical assembly,factory_001,worker_006
+2000-01-01 00:14:38,2000-01-01 00:15:00,place stack of hinges into bulk container,Finished goods transport,factory_001,worker_006
+2000-01-01 00:15:00,2000-01-01 00:15:28,manually join metal components,Manual mechanical assembly,factory_001,worker_006
+2000-01-01 00:15:28,2000-01-01 00:15:42,place stack of hinges into bulk container,Finished goods transport,factory_001,worker_006
+2000-01-01 00:15:42,2000-01-01 00:16:11,manually join metal components,Manual mechanical assembly,factory_001,worker_006
+2000-01-01 00:16:11,2000-01-01 00:16:15,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_006
+2000-01-01 00:16:15,2000-01-01 00:16:20,manually join metal components,Manual mechanical assembly,factory_001,worker_006
+2000-01-01 00:16:20,2000-01-01 00:16:30,place stack of hinges into bulk container,Finished goods transport,factory_001,worker_006
+2000-01-01 00:16:30,2000-01-01 00:16:43,manually join metal components,Manual mechanical assembly,factory_001,worker_006
+2000-01-01 00:16:43,2000-01-01 00:16:51,place stack of hinges into bulk container,Finished goods transport,factory_001,worker_006
+2000-01-01 00:16:51,2000-01-01 00:16:56,manually join metal components,Manual mechanical assembly,factory_001,worker_006
+2000-01-01 00:16:56,2000-01-01 00:17:02,place stack of hinges into bulk container,Finished goods transport,factory_001,worker_006
+2000-01-01 00:17:02,2000-01-01 00:17:12,manually join metal components,Manual mechanical assembly,factory_001,worker_006
+2000-01-01 00:17:12,2000-01-01 00:17:15,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_006
+2000-01-01 00:17:15,2000-01-01 00:18:14,manually join metal components,Manual mechanical assembly,factory_001,worker_006
+2000-01-01 00:18:14,2000-01-01 00:18:23,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_006
+2000-01-01 00:18:23,2000-01-01 00:20:00,manually join metal components,Manual mechanical assembly,factory_001,worker_006

@@ -1,0 +1,28 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:03:07,manually join metal components,Manual mechanical assembly,factory_001,worker_005
+2000-01-01 00:03:07,2000-01-01 00:03:17,dump bin of loose parts onto cardboard,Material replenishment,factory_001,worker_005
+2000-01-01 00:03:17,2000-01-01 00:03:25,manually join metal components,Manual mechanical assembly,factory_001,worker_005
+2000-01-01 00:03:25,2000-01-01 00:03:47,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_005
+2000-01-01 00:03:47,2000-01-01 00:05:05,manually join metal components,Manual mechanical assembly,factory_001,worker_005
+2000-01-01 00:05:05,2000-01-01 00:05:28,inspect newly stamped part,Manual mechanical assembly,factory_001,worker_005
+2000-01-01 00:05:28,2000-01-01 00:07:07,manually join metal components,Manual mechanical assembly,factory_001,worker_005
+2000-01-01 00:07:07,2000-01-01 00:07:11,consult coworker regarding part counts,Manual mechanical assembly,factory_001,worker_005
+2000-01-01 00:07:11,2000-01-01 00:07:42,manually join metal components,Manual mechanical assembly,factory_001,worker_005
+2000-01-01 00:07:42,2000-01-01 00:08:00,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_005
+2000-01-01 00:08:00,2000-01-01 00:11:21,manually join metal components,Manual mechanical assembly,factory_001,worker_005
+2000-01-01 00:11:21,2000-01-01 00:11:31,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_005
+2000-01-01 00:11:31,2000-01-01 00:11:41,tear open clear plastic wrapping,Material replenishment,factory_001,worker_005
+2000-01-01 00:11:41,2000-01-01 00:14:04,manually join metal components,Manual mechanical assembly,factory_001,worker_005
+2000-01-01 00:14:04,2000-01-01 00:14:10,sift unformed parts in bulk bin,Material replenishment,factory_001,worker_005
+2000-01-01 00:14:10,2000-01-01 00:15:30,manually join metal components,Manual mechanical assembly,factory_001,worker_005
+2000-01-01 00:15:30,2000-01-01 00:15:33,consult coworker regarding part counts,Manual mechanical assembly,factory_001,worker_005
+2000-01-01 00:15:33,2000-01-01 00:15:59,manually join metal components,Manual mechanical assembly,factory_001,worker_005
+2000-01-01 00:15:59,2000-01-01 00:16:08,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_005
+2000-01-01 00:16:08,2000-01-01 00:16:29,tear open clear plastic wrapping,Material replenishment,factory_001,worker_005
+2000-01-01 00:16:32,2000-01-01 00:17:10,manually join metal components,Manual mechanical assembly,factory_001,worker_005
+2000-01-01 00:17:10,2000-01-01 00:17:21,hold unbent pieces in non-dominant hand,Manual mechanical assembly,factory_001,worker_005
+2000-01-01 00:17:21,2000-01-01 00:18:04,manually join metal components,Manual mechanical assembly,factory_001,worker_005
+2000-01-01 00:18:04,2000-01-01 00:18:13,sift unformed parts in bulk bin,Material replenishment,factory_001,worker_005
+2000-01-01 00:18:13,2000-01-01 00:18:31,manually join metal components,Manual mechanical assembly,factory_001,worker_005
+2000-01-01 00:18:31,2000-01-01 00:18:41,discard plastic wrapper on desk,Workstation cleaning,factory_001,worker_005
+2000-01-01 00:18:41,2000-01-01 00:19:59,manually join metal components,Manual mechanical assembly,factory_001,worker_005

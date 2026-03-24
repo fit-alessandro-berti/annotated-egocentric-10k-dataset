@@ -1,0 +1,27 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:41,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:00:41,2000-01-01 00:01:41,exchange plastic bag of parts with coworker,Material replenishment,factory_001,worker_008
+2000-01-01 00:01:41,2000-01-01 00:03:02,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:03:02,2000-01-01 00:03:41,drop loose parts into plastic bag,Material replenishment,factory_001,worker_008
+2000-01-01 00:03:41,2000-01-01 00:04:24,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:05:01,2000-01-01 00:06:38,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:06:46,2000-01-01 00:07:43,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:07:43,2000-01-01 00:08:02,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_008
+2000-01-01 00:08:02,2000-01-01 00:09:00,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:09:00,2000-01-01 00:09:08,drag small parts to front of bin,Material replenishment,factory_001,worker_008
+2000-01-01 00:09:08,2000-01-01 00:09:55,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:09:55,2000-01-01 00:10:59,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_008
+2000-01-01 00:11:06,2000-01-01 00:11:47,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:12:00,2000-01-01 00:12:51,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:12:51,2000-01-01 00:12:58,retrieve base and clip components from bins,Material replenishment,factory_001,worker_008
+2000-01-01 00:12:58,2000-01-01 00:13:54,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:14:02,2000-01-01 00:14:58,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:15:04,2000-01-01 00:15:45,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:15:45,2000-01-01 00:15:58,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_008
+2000-01-01 00:15:58,2000-01-01 00:16:16,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:16:26,2000-01-01 00:17:03,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:17:15,2000-01-01 00:18:05,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:18:05,2000-01-01 00:18:41,place stack of hinges into bulk container,Component bagging,factory_001,worker_008
+2000-01-01 00:18:50,2000-01-01 00:19:08,fold top edge of plastic bag,Component bagging,factory_001,worker_008
+2000-01-01 00:19:08,2000-01-01 00:19:38,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:19:38,2000-01-01 00:20:00,place main component into larger bag,Component bagging,factory_001,worker_008

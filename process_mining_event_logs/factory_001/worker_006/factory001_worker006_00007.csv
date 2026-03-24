@@ -1,0 +1,7 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:26,2000-01-01 00:01:21,interlock barrels of separate hinge plates,Manual mechanical assembly,factory_001,worker_006
+2000-01-01 00:01:21,2000-01-01 00:02:40,push pins through aligned holes to create loose batch,Manual mechanical assembly,factory_001,worker_006
+2000-01-01 00:02:40,2000-01-01 00:04:12,strike punch tool with mallet,Manual mechanical assembly,factory_001,worker_006
+2000-01-01 00:04:12,2000-01-01 00:07:30,sift unformed parts in bulk bin,Material replenishment,factory_001,worker_006
+2000-01-01 00:07:30,2000-01-01 00:08:29,level finished parts in bulk cart,Finished goods transport,factory_001,worker_006
+2000-01-01 00:08:29,2000-01-01 00:19:10,strike punch tool with mallet,Manual mechanical assembly,factory_001,worker_006

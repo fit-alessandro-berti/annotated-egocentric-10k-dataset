@@ -1,0 +1,6 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:10,discard plastic wrapper on desk,Workstation cleaning,factory_001,worker_004
+2000-01-01 00:00:10,2000-01-01 00:05:15,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004
+2000-01-01 00:05:22,2000-01-01 00:05:39,tear open clear plastic wrapping,Material replenishment,factory_001,worker_004
+2000-01-01 00:05:39,2000-01-01 00:06:05,pour large bag of small components into desktop bin,Material replenishment,factory_001,worker_004
+2000-01-01 00:06:05,2000-01-01 00:20:00,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004

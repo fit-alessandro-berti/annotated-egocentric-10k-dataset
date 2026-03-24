@@ -1,0 +1,25 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:01:33,actuate machine press,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:01:33,2000-01-01 00:01:56,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_005
+2000-01-01 00:01:56,2000-01-01 00:02:00,carry finished batch to consolidation point,Component bagging,factory_001,worker_005
+2000-01-01 00:02:00,2000-01-01 00:02:27,tape floor box shut,Component bagging,factory_001,worker_005
+2000-01-01 00:02:27,2000-01-01 00:02:53,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_005
+2000-01-01 00:02:53,2000-01-01 00:02:58,carry finished batch to consolidation point,Component bagging,factory_001,worker_005
+2000-01-01 00:02:58,2000-01-01 00:03:59,actuate machine press,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:03:59,2000-01-01 00:04:07,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_005
+2000-01-01 00:04:07,2000-01-01 00:07:53,actuate machine press,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:07:53,2000-01-01 00:08:11,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_005
+2000-01-01 00:08:11,2000-01-01 00:08:16,carry finished batch to consolidation point,Component bagging,factory_001,worker_005
+2000-01-01 00:08:16,2000-01-01 00:10:53,actuate machine press,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:10:53,2000-01-01 00:11:24,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_005
+2000-01-01 00:11:24,2000-01-01 00:11:36,carry finished batch to consolidation point,Component bagging,factory_001,worker_005
+2000-01-01 00:11:36,2000-01-01 00:11:57,flatten and organize completed bags in bin,Component bagging,factory_001,worker_005
+2000-01-01 00:11:57,2000-01-01 00:12:13,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_005
+2000-01-01 00:12:13,2000-01-01 00:12:19,carry finished batch to consolidation point,Component bagging,factory_001,worker_005
+2000-01-01 00:12:19,2000-01-01 00:15:39,actuate machine press,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:15:39,2000-01-01 00:16:03,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_005
+2000-01-01 00:16:03,2000-01-01 00:16:07,carry finished batch to consolidation point,Component bagging,factory_001,worker_005
+2000-01-01 00:16:07,2000-01-01 00:19:35,actuate machine press,Semi-automated press assembly,factory_001,worker_005
+2000-01-01 00:19:35,2000-01-01 00:19:53,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_005
+2000-01-01 00:19:53,2000-01-01 00:19:57,carry finished batch to consolidation point,Component bagging,factory_001,worker_005
+2000-01-01 00:19:57,2000-01-01 00:20:00,actuate machine press,Semi-automated press assembly,factory_001,worker_005

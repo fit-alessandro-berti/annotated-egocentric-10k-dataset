@@ -1,0 +1,16 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:41,clear finished part with magnetic tool,Metal stamping,factory_001,worker_007
+2000-01-01 00:00:41,2000-01-01 00:00:52,push heavy metal cart across floor,Finished goods transport,factory_001,worker_007
+2000-01-01 00:00:52,2000-01-01 00:01:06,level finished parts in bulk cart,Metal stamping,factory_001,worker_007
+2000-01-01 00:01:06,2000-01-01 00:01:28,clear finished part with magnetic tool,Metal stamping,factory_001,worker_007
+2000-01-01 00:01:28,2000-01-01 00:01:43,consult coworker regarding part counts,Metal stamping,factory_001,worker_007
+2000-01-01 00:01:43,2000-01-01 00:04:24,clear finished part with magnetic tool,Metal stamping,factory_001,worker_007
+2000-01-01 00:04:24,2000-01-01 00:04:47,sift unformed parts in bulk bin,Material replenishment,factory_001,worker_007
+2000-01-01 00:04:47,2000-01-01 00:05:08,consult coworker regarding part counts,Metal stamping,factory_001,worker_007
+2000-01-01 00:05:08,2000-01-01 00:08:44,clear finished part with magnetic tool,Metal stamping,factory_001,worker_007
+2000-01-01 00:08:44,2000-01-01 00:09:13,consult coworker regarding part counts,Production tracking,factory_001,worker_007
+2000-01-01 00:09:13,2000-01-01 00:09:39,clear finished part with magnetic tool,Metal stamping,factory_001,worker_007
+2000-01-01 00:09:39,2000-01-01 00:09:56,consult coworker regarding part counts,Production tracking,factory_001,worker_007
+2000-01-01 00:09:56,2000-01-01 00:10:21,clear finished part with magnetic tool,Metal stamping,factory_001,worker_007
+2000-01-01 00:10:21,2000-01-01 00:10:48,level finished parts in bulk cart,Finished goods transport,factory_001,worker_007
+2000-01-01 00:10:48,2000-01-01 00:20:00,clear finished part with magnetic tool,Metal stamping,factory_001,worker_007

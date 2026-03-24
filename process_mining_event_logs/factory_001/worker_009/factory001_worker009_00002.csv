@@ -1,0 +1,32 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:25,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009
+2000-01-01 00:00:26,2000-01-01 00:00:31,drag small parts to front of bin,Material replenishment,factory_001,worker_009
+2000-01-01 00:00:31,2000-01-01 00:01:21,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009
+2000-01-01 00:01:21,2000-01-01 00:01:25,toss completed sub-assembly into side bin,Manual mechanical assembly,factory_001,worker_009
+2000-01-01 00:01:25,2000-01-01 00:02:47,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009
+2000-01-01 00:02:48,2000-01-01 00:03:11,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009
+2000-01-01 00:03:11,2000-01-01 00:03:12,manually adjust metal block in central machine area,Manual mechanical assembly,factory_001,worker_009
+2000-01-01 00:03:12,2000-01-01 00:04:51,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009
+2000-01-01 00:04:51,2000-01-01 00:04:53,drag small parts to front of bin,Material replenishment,factory_001,worker_009
+2000-01-01 00:04:53,2000-01-01 00:06:03,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009
+2000-01-01 00:06:04,2000-01-01 00:06:37,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009
+2000-01-01 00:06:38,2000-01-01 00:07:29,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009
+2000-01-01 00:07:29,2000-01-01 00:07:33,drag small parts to front of bin,Material replenishment,factory_001,worker_009
+2000-01-01 00:07:33,2000-01-01 00:09:22,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009
+2000-01-01 00:09:22,2000-01-01 00:09:28,drag small parts to front of bin,Material replenishment,factory_001,worker_009
+2000-01-01 00:09:28,2000-01-01 00:09:38,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009
+2000-01-01 00:09:44,2000-01-01 00:10:04,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009
+2000-01-01 00:10:06,2000-01-01 00:11:10,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009
+2000-01-01 00:11:10,2000-01-01 00:11:13,drag small parts to front of bin,Material replenishment,factory_001,worker_009
+2000-01-01 00:11:13,2000-01-01 00:12:00,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009
+2000-01-01 00:12:00,2000-01-01 00:12:04,drag small parts to front of bin,Material replenishment,factory_001,worker_009
+2000-01-01 00:12:04,2000-01-01 00:13:00,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009
+2000-01-01 00:13:00,2000-01-01 00:13:05,manually adjust metal block in central machine area,Manual mechanical assembly,factory_001,worker_009
+2000-01-01 00:13:05,2000-01-01 00:13:17,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009
+2000-01-01 00:13:17,2000-01-01 00:13:19,drag small parts to front of bin,Material replenishment,factory_001,worker_009
+2000-01-01 00:13:19,2000-01-01 00:13:38,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009
+2000-01-01 00:13:42,2000-01-01 00:16:25,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009
+2000-01-01 00:16:37,2000-01-01 00:18:49,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009
+2000-01-01 00:18:59,2000-01-01 00:19:25,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009
+2000-01-01 00:19:25,2000-01-01 00:19:28,drag small parts to front of bin,Material replenishment,factory_001,worker_009
+2000-01-01 00:19:28,2000-01-01 00:20:01,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009

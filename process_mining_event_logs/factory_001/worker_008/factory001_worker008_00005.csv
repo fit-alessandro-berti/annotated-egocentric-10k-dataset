@@ -1,0 +1,14 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:57,2000-01-01 00:04:10,manually join metal components,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:04:16,2000-01-01 00:04:47,manually join metal components,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:04:54,2000-01-01 00:07:03,dispense small part from palm with thumb,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:07:09,2000-01-01 00:09:04,dispense small part from palm with thumb,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:09:09,2000-01-01 00:10:35,dispense small part from palm with thumb,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:10:38,2000-01-01 00:12:06,manually join metal components,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:12:12,2000-01-01 00:12:28,manually join metal components,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:12:35,2000-01-01 00:13:00,manually join metal components,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:13:03,2000-01-01 00:14:42,manually join metal components,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:14:46,2000-01-01 00:15:58,manually join metal components,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:16:02,2000-01-01 00:17:10,manually join metal components,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:17:12,2000-01-01 00:18:38,manually join metal components,Manual mechanical assembly,factory_001,worker_008
+2000-01-01 00:18:43,2000-01-01 00:20:00,manually join metal components,Manual mechanical assembly,factory_001,worker_008
