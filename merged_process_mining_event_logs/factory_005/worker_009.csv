@@ -1,0 +1,23 @@
+start_timestamp,end_timestamp,activity,process,factory,worker,source_file,case_id,start_seconds_from_video_start,end_seconds_from_video_start,duration_seconds
+2000-01-01 00:00:15,2000-01-01 00:03:41,pull drill press side lever,drill press machining,factory_005,worker_009,factory005_worker009_00000.csv,factory_005_worker_009,15,221,206
+2000-01-01 00:03:51,2000-01-01 00:04:01,pump manual pallet jack handle,material transport and logistics,factory_005,worker_009,factory005_worker009_00000.csv,factory_005_worker_009,231,241,10
+2000-01-01 00:04:01,2000-01-01 00:05:11,pull loaded pallet jack across floor,material transport and logistics,factory_005,worker_009,factory005_worker009_00000.csv,factory_005_worker_009,241,311,70
+2000-01-01 00:05:47,2000-01-01 00:06:02,pump manual pallet jack handle,material transport and logistics,factory_005,worker_009,factory005_worker009_00000.csv,factory_005_worker_009,347,362,15
+2000-01-01 00:06:02,2000-01-01 00:08:35,pull loaded pallet jack across floor,material transport and logistics,factory_005,worker_009,factory005_worker009_00000.csv,factory_005_worker_009,362,515,153
+2000-01-01 00:08:55,2000-01-01 00:09:05,pump manual pallet jack handle,material transport and logistics,factory_005,worker_009,factory005_worker009_00000.csv,factory_005_worker_009,535,545,10
+2000-01-01 00:09:05,2000-01-01 00:09:55,pull loaded pallet jack across floor,material transport and logistics,factory_005,worker_009,factory005_worker009_00000.csv,factory_005_worker_009,545,595,50
+2000-01-01 00:11:39,2000-01-01 00:11:52,pump manual pallet jack handle,material transport and logistics,factory_005,worker_009,factory005_worker009_00000.csv,factory_005_worker_009,699,712,13
+2000-01-01 00:11:52,2000-01-01 00:13:06,pull loaded pallet jack across floor,material transport and logistics,factory_005,worker_009,factory005_worker009_00000.csv,factory_005_worker_009,712,786,74
+2000-01-01 00:13:20,2000-01-01 00:13:48,transfer finished parts into yellow metal storage cages,part sorting and staging,factory_005,worker_009,factory005_worker009_00000.csv,factory_005_worker_009,800,828,28
+2000-01-01 00:14:26,2000-01-01 00:18:24,tow loaded flatbed trolley with metal pulling hook,material transport and logistics,factory_005,worker_009,factory005_worker009_00000.csv,factory_005_worker_009,866,1104,238
+2000-01-01 00:18:24,2000-01-01 00:19:31,tow loaded flatbed trolley with metal pulling hook,material transport and logistics,factory_005,worker_009,factory005_worker009_00001.csv,factory_005_worker_009,0,67,67
+2000-01-01 00:19:31,2000-01-01 00:19:45,reposition part on drill press circular table,drill press machining,factory_005,worker_009,factory005_worker009_00001.csv,factory_005_worker_009,67,81,14
+2000-01-01 00:19:45,2000-01-01 00:22:46,pull drill press side lever,drill press machining,factory_005,worker_009,factory005_worker009_00001.csv,factory_005_worker_009,81,262,181
+2000-01-01 00:22:54,2000-01-01 00:23:24,pull drill press side lever,drill press machining,factory_005,worker_009,factory005_worker009_00001.csv,factory_005_worker_009,270,300,30
+2000-01-01 00:23:34,2000-01-01 00:24:19,pull drill press side lever,drill press machining,factory_005,worker_009,factory005_worker009_00001.csv,factory_005_worker_009,310,355,45
+2000-01-01 00:24:27,2000-01-01 00:24:38,reposition part on drill press circular table,drill press machining,factory_005,worker_009,factory005_worker009_00001.csv,factory_005_worker_009,363,374,11
+2000-01-01 00:24:46,2000-01-01 00:29:04,pull drill press side lever,drill press machining,factory_005,worker_009,factory005_worker009_00001.csv,factory_005_worker_009,382,640,258
+2000-01-01 00:29:39,2000-01-01 00:29:58,tow loaded flatbed trolley with metal pulling hook,material transport and logistics,factory_005,worker_009,factory005_worker009_00001.csv,factory_005_worker_009,675,694,19
+2000-01-01 00:30:11,2000-01-01 00:30:59,tow loaded flatbed trolley with metal pulling hook,material transport and logistics,factory_005,worker_009,factory005_worker009_00001.csv,factory_005_worker_009,707,755,48
+2000-01-01 00:31:13,2000-01-01 00:35:34,transfer finished parts into yellow metal storage cages,material transport and logistics,factory_005,worker_009,factory005_worker009_00001.csv,factory_005_worker_009,769,1030,261
+2000-01-01 00:36:52,2000-01-01 00:37:16,arrange parts manually inside deep wire mesh bin,part sorting and staging,factory_005,worker_009,factory005_worker009_00001.csv,factory_005_worker_009,1108,1132,24

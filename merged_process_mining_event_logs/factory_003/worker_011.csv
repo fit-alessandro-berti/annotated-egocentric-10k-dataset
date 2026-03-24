@@ -1,0 +1,60 @@
+start_timestamp,end_timestamp,activity,process,factory,worker,source_file,case_id,start_seconds_from_video_start,end_seconds_from_video_start,duration_seconds
+2000-01-01 00:00:00,2000-01-01 00:00:14,file component edges,Surface finishing and polishing,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,0,14,14
+2000-01-01 00:00:16,2000-01-01 00:00:30,squeeze binding paste from piping bag,Component sub-assembly,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,16,30,14
+2000-01-01 00:00:46,2000-01-01 00:01:00,blow debris with compressed air gun,Mold preparation and cleaning,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,46,60,14
+2000-01-01 00:01:00,2000-01-01 00:01:10,break apart breakaway inserts by hand,Mold preparation and cleaning,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,60,70,10
+2000-01-01 00:01:10,2000-01-01 00:01:23,load pre-manufactured insert into mold,Mold preparation and cleaning,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,70,83,13
+2000-01-01 00:01:23,2000-01-01 00:01:34,apply paste with brush,Component sub-assembly,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,83,94,11
+2000-01-01 00:01:34,2000-01-01 00:01:42,assemble components in metal fixture,Component sub-assembly,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,94,102,8
+2000-01-01 00:01:42,2000-01-01 00:01:54,blow debris with compressed air gun,Mold preparation and cleaning,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,102,114,12
+2000-01-01 00:03:00,2000-01-01 00:03:25,blow debris with compressed air gun,Mold preparation and cleaning,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,180,205,25
+2000-01-01 00:03:25,2000-01-01 00:03:30,actuate pressing machine,Machine pressing,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,205,210,5
+2000-01-01 00:03:30,2000-01-01 00:04:15,scoop loose parts from bulk bin,Component sub-assembly,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,210,255,45
+2000-01-01 00:04:15,2000-01-01 00:04:45,blow debris with compressed air gun,Mold preparation and cleaning,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,255,285,30
+2000-01-01 00:04:45,2000-01-01 00:05:05,wait for machine press cycle completion,Machine pressing,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,285,305,20
+2000-01-01 00:05:05,2000-01-01 00:05:20,blow debris with compressed air gun,Mold preparation and cleaning,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,305,320,15
+2000-01-01 00:05:20,2000-01-01 00:05:30,load pre-manufactured insert into mold,Mold preparation and cleaning,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,320,330,10
+2000-01-01 00:05:30,2000-01-01 00:05:44,assemble components in metal fixture,Component sub-assembly,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,330,344,14
+2000-01-01 00:05:44,2000-01-01 00:06:07,apply paste with brush,Component sub-assembly,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,344,367,23
+2000-01-01 00:06:07,2000-01-01 00:06:15,close two-part mold assembly,Mold preparation and cleaning,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,367,375,8
+2000-01-01 00:06:15,2000-01-01 00:06:20,actuate pressing machine,Machine pressing,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,375,380,5
+2000-01-01 00:06:20,2000-01-01 00:06:32,blow debris with compressed air gun,Mold preparation and cleaning,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,380,392,12
+2000-01-01 00:06:42,2000-01-01 00:06:58,break apart breakaway inserts by hand,Mold preparation and cleaning,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,402,418,16
+2000-01-01 00:06:58,2000-01-01 00:07:20,load pre-manufactured insert into mold,Mold preparation and cleaning,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,418,440,22
+2000-01-01 00:07:30,2000-01-01 00:07:50,blow debris with compressed air gun,Mold preparation and cleaning,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,450,470,20
+2000-01-01 00:07:50,2000-01-01 00:08:14,squeeze binding paste from piping bag,Mold preparation and cleaning,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,470,494,24
+2000-01-01 00:08:14,2000-01-01 00:08:20,close two-part mold assembly,Mold preparation and cleaning,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,494,500,6
+2000-01-01 00:08:20,2000-01-01 00:08:25,actuate pressing machine,Machine pressing,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,500,505,5
+2000-01-01 00:08:25,2000-01-01 00:08:52,wipe internal surface of bell-shaped object,Component sub-assembly,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,505,532,27
+2000-01-01 00:08:52,2000-01-01 00:09:35,blow debris with compressed air gun,Mold preparation and cleaning,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,532,575,43
+2000-01-01 00:09:35,2000-01-01 00:09:52,wait for machine press cycle completion,Machine pressing,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,575,592,17
+2000-01-01 00:09:52,2000-01-01 00:10:12,blow debris with compressed air gun,Mold preparation and cleaning,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,592,612,20
+2000-01-01 00:10:12,2000-01-01 00:10:25,load pre-manufactured insert into mold,Mold preparation and cleaning,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,612,625,13
+2000-01-01 00:10:25,2000-01-01 00:10:42,squeeze binding paste from piping bag,Mold preparation and cleaning,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,625,642,17
+2000-01-01 00:10:42,2000-01-01 00:10:50,close two-part mold assembly,Mold preparation and cleaning,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,642,650,8
+2000-01-01 00:10:50,2000-01-01 00:10:55,actuate pressing machine,Machine pressing,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,650,655,5
+2000-01-01 00:11:10,2000-01-01 00:11:25,blow debris with compressed air gun,Mold preparation and cleaning,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,670,685,15
+2000-01-01 00:11:25,2000-01-01 00:11:45,wait for machine press cycle completion,Machine pressing,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,685,705,20
+2000-01-01 00:11:45,2000-01-01 00:12:15,blow debris with compressed air gun,Mold preparation and cleaning,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,705,735,30
+2000-01-01 00:12:15,2000-01-01 00:12:41,apply paste with brush,Mold preparation and cleaning,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,735,761,26
+2000-01-01 00:12:41,2000-01-01 00:12:48,close two-part mold assembly,Mold preparation and cleaning,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,761,768,7
+2000-01-01 00:12:48,2000-01-01 00:12:53,actuate pressing machine,Machine pressing,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,768,773,5
+2000-01-01 00:12:53,2000-01-01 00:13:25,blow debris with compressed air gun,Mold preparation and cleaning,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,773,805,32
+2000-01-01 00:13:25,2000-01-01 00:14:18,wait for machine press cycle completion,Machine pressing,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,805,858,53
+2000-01-01 00:14:18,2000-01-01 00:14:40,blow debris with compressed air gun,Mold preparation and cleaning,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,858,880,22
+2000-01-01 00:14:40,2000-01-01 00:14:50,load pre-manufactured insert into mold,Mold preparation and cleaning,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,880,890,10
+2000-01-01 00:14:50,2000-01-01 00:15:08,squeeze binding paste from piping bag,Mold preparation and cleaning,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,890,908,18
+2000-01-01 00:15:08,2000-01-01 00:15:13,actuate pressing machine,Machine pressing,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,908,913,5
+2000-01-01 00:15:13,2000-01-01 00:15:40,blow debris with compressed air gun,Mold preparation and cleaning,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,913,940,27
+2000-01-01 00:15:40,2000-01-01 00:16:19,wait for machine press cycle completion,Machine pressing,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,940,979,39
+2000-01-01 00:16:19,2000-01-01 00:16:40,blow debris with compressed air gun,Mold preparation and cleaning,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,979,1000,21
+2000-01-01 00:16:40,2000-01-01 00:17:01,apply paste with brush,Mold preparation and cleaning,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,1000,1021,21
+2000-01-01 00:17:01,2000-01-01 00:17:06,actuate pressing machine,Machine pressing,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,1021,1026,5
+2000-01-01 00:17:15,2000-01-01 00:17:45,blow debris with compressed air gun,Mold preparation and cleaning,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,1035,1065,30
+2000-01-01 00:17:45,2000-01-01 00:18:24,wait for machine press cycle completion,Machine pressing,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,1065,1104,39
+2000-01-01 00:18:24,2000-01-01 00:18:45,blow debris with compressed air gun,Mold preparation and cleaning,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,1104,1125,21
+2000-01-01 00:18:45,2000-01-01 00:18:58,load pre-manufactured insert into mold,Mold preparation and cleaning,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,1125,1138,13
+2000-01-01 00:18:58,2000-01-01 00:19:12,squeeze binding paste from piping bag,Mold preparation and cleaning,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,1138,1152,14
+2000-01-01 00:19:12,2000-01-01 00:19:18,close two-part mold assembly,Mold preparation and cleaning,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,1152,1158,6
+2000-01-01 00:19:18,2000-01-01 00:19:23,actuate pressing machine,Machine pressing,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,1158,1163,5
+2000-01-01 00:19:33,2000-01-01 00:19:43,blow debris with compressed air gun,Mold preparation and cleaning,factory_003,worker_011,factory003_worker011_00000.csv,factory_003_worker_011,1173,1183,10

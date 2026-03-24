@@ -1,0 +1,164 @@
+start_timestamp,end_timestamp,activity,process,factory,worker,source_file,case_id,start_seconds_from_video_start,end_seconds_from_video_start,duration_seconds
+2000-01-01 00:03:59,2000-01-01 00:07:18,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00000.csv,factory_003_worker_005,239,438,199
+2000-01-01 00:07:38,2000-01-01 00:07:51,monitor moving track system,Metal casting separation,factory_003,worker_005,factory003_worker005_00000.csv,factory_003_worker_005,458,471,13
+2000-01-01 00:07:51,2000-01-01 00:09:02,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00000.csv,factory_003_worker_005,471,542,71
+2000-01-01 00:09:02,2000-01-01 00:09:14,sweep separated parts with metal guide bar,Metal casting separation,factory_003,worker_005,factory003_worker005_00000.csv,factory_003_worker_005,542,554,12
+2000-01-01 00:09:14,2000-01-01 00:10:49,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00000.csv,factory_003_worker_005,554,649,95
+2000-01-01 00:11:05,2000-01-01 00:13:36,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00000.csv,factory_003_worker_005,665,816,151
+2000-01-01 00:13:50,2000-01-01 00:15:52,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00000.csv,factory_003_worker_005,830,952,122
+2000-01-01 00:16:16,2000-01-01 00:17:15,sweep separated parts with metal guide bar,Metal casting separation,factory_003,worker_005,factory003_worker005_00000.csv,factory_003_worker_005,976,1035,59
+2000-01-01 00:17:15,2000-01-01 00:17:34,inspect large metal bin,Metal casting separation,factory_003,worker_005,factory003_worker005_00000.csv,factory_003_worker_005,1035,1054,19
+2000-01-01 00:17:34,2000-01-01 00:17:49,monitor moving track system,Metal casting separation,factory_003,worker_005,factory003_worker005_00000.csv,factory_003_worker_005,1054,1069,15
+2000-01-01 00:17:49,2000-01-01 00:18:55,sweep separated parts with metal guide bar,Metal casting separation,factory_003,worker_005,factory003_worker005_00000.csv,factory_003_worker_005,1069,1135,66
+2000-01-01 00:19:51,2000-01-01 00:20:00,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00000.csv,factory_003_worker_005,1191,1200,9
+2000-01-01 00:20:00,2000-01-01 00:23:23,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00001.csv,factory_003_worker_005,0,203,203
+2000-01-01 00:23:23,2000-01-01 00:23:32,monitor moving track system,Metal casting separation,factory_003,worker_005,factory003_worker005_00001.csv,factory_003_worker_005,203,212,9
+2000-01-01 00:23:32,2000-01-01 00:25:07,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00001.csv,factory_003_worker_005,212,307,95
+2000-01-01 00:25:14,2000-01-01 00:25:53,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00001.csv,factory_003_worker_005,314,353,39
+2000-01-01 00:26:17,2000-01-01 00:28:00,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00001.csv,factory_003_worker_005,377,480,103
+2000-01-01 00:28:00,2000-01-01 00:28:06,monitor moving track system,Metal casting separation,factory_003,worker_005,factory003_worker005_00001.csv,factory_003_worker_005,480,486,6
+2000-01-01 00:28:06,2000-01-01 00:30:52,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00001.csv,factory_003_worker_005,486,652,166
+2000-01-01 00:30:59,2000-01-01 00:32:06,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00001.csv,factory_003_worker_005,659,726,67
+2000-01-01 00:32:12,2000-01-01 00:33:59,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00001.csv,factory_003_worker_005,732,839,107
+2000-01-01 00:33:59,2000-01-01 00:34:10,inspect large metal bin,Metal casting separation,factory_003,worker_005,factory003_worker005_00001.csv,factory_003_worker_005,839,850,11
+2000-01-01 00:34:20,2000-01-01 00:34:43,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00001.csv,factory_003_worker_005,860,883,23
+2000-01-01 00:35:17,2000-01-01 00:36:08,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00001.csv,factory_003_worker_005,917,968,51
+2000-01-01 00:36:16,2000-01-01 00:37:45,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00001.csv,factory_003_worker_005,976,1065,89
+2000-01-01 00:37:53,2000-01-01 00:38:45,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00001.csv,factory_003_worker_005,1073,1125,52
+2000-01-01 00:38:52,2000-01-01 00:39:19,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00001.csv,factory_003_worker_005,1132,1159,27
+2000-01-01 00:39:19,2000-01-01 00:39:27,inspect large metal bin,Metal casting separation,factory_003,worker_005,factory003_worker005_00001.csv,factory_003_worker_005,1159,1167,8
+2000-01-01 00:39:27,2000-01-01 00:40:00,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00001.csv,factory_003_worker_005,1167,1200,33
+2000-01-01 00:40:00,2000-01-01 00:40:59,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00002.csv,factory_003_worker_005,0,59,59
+2000-01-01 00:41:07,2000-01-01 00:43:03,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00002.csv,factory_003_worker_005,67,183,116
+2000-01-01 00:43:19,2000-01-01 00:44:29,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00002.csv,factory_003_worker_005,199,269,70
+2000-01-01 00:44:32,2000-01-01 00:45:14,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00002.csv,factory_003_worker_005,272,314,42
+2000-01-01 00:45:16,2000-01-01 00:47:39,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00002.csv,factory_003_worker_005,316,459,143
+2000-01-01 00:47:41,2000-01-01 00:48:52,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00002.csv,factory_003_worker_005,461,532,71
+2000-01-01 00:48:55,2000-01-01 00:52:04,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00002.csv,factory_003_worker_005,535,724,189
+2000-01-01 00:52:13,2000-01-01 00:52:26,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00002.csv,factory_003_worker_005,733,746,13
+2000-01-01 00:52:28,2000-01-01 00:52:47,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00002.csv,factory_003_worker_005,748,767,19
+2000-01-01 00:52:49,2000-01-01 00:52:55,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00002.csv,factory_003_worker_005,769,775,6
+2000-01-01 00:52:57,2000-01-01 00:53:09,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00002.csv,factory_003_worker_005,777,789,12
+2000-01-01 00:53:14,2000-01-01 00:54:29,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00002.csv,factory_003_worker_005,794,869,75
+2000-01-01 00:54:31,2000-01-01 00:57:39,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00002.csv,factory_003_worker_005,871,1059,188
+2000-01-01 00:57:43,2000-01-01 00:58:03,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00002.csv,factory_003_worker_005,1063,1083,20
+2000-01-01 00:58:10,2000-01-01 00:58:25,sweep separated parts with metal guide bar,Metal casting separation,factory_003,worker_005,factory003_worker005_00002.csv,factory_003_worker_005,1090,1105,15
+2000-01-01 00:58:30,2000-01-01 00:58:41,coat mold cavity with liquid release agent,Metal casting separation,factory_003,worker_005,factory003_worker005_00002.csv,factory_003_worker_005,1110,1121,11
+2000-01-01 00:58:52,2000-01-01 00:59:46,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00002.csv,factory_003_worker_005,1132,1186,54
+2000-01-01 00:59:49,2000-01-01 01:00:00,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00002.csv,factory_003_worker_005,1189,1200,11
+2000-01-01 01:00:00,2000-01-01 01:02:11,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00003.csv,factory_003_worker_005,0,131,131
+2000-01-01 01:02:16,2000-01-01 01:02:49,sweep separated parts with metal guide bar,Metal casting separation,factory_003,worker_005,factory003_worker005_00003.csv,factory_003_worker_005,136,169,33
+2000-01-01 01:04:16,2000-01-01 01:14:48,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00003.csv,factory_003_worker_005,256,888,632
+2000-01-01 01:14:48,2000-01-01 01:15:06,sweep separated parts with metal guide bar,Metal casting separation,factory_003,worker_005,factory003_worker005_00003.csv,factory_003_worker_005,888,906,18
+2000-01-01 01:15:35,2000-01-01 01:17:00,transport bulk material via wheelbarrow,Metal casting separation,factory_003,worker_005,factory003_worker005_00003.csv,factory_003_worker_005,935,1020,85
+2000-01-01 01:18:20,2000-01-01 01:18:49,sweep separated parts with metal guide bar,Metal casting separation,factory_003,worker_005,factory003_worker005_00003.csv,factory_003_worker_005,1100,1129,29
+2000-01-01 01:19:08,2000-01-01 01:19:33,inspect large metal bin,Inventory verification,factory_003,worker_005,factory003_worker005_00003.csv,factory_003_worker_005,1148,1173,25
+2000-01-01 01:19:33,2000-01-01 01:19:46,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,0,13,13
+2000-01-01 01:19:46,2000-01-01 01:19:55,scoop loose parts from bulk bin,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,13,22,9
+2000-01-01 01:19:55,2000-01-01 01:20:11,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,22,38,16
+2000-01-01 01:20:11,2000-01-01 01:20:19,scoop loose parts from bulk bin,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,38,46,8
+2000-01-01 01:20:19,2000-01-01 01:20:22,sweep separated parts with metal guide bar,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,46,49,3
+2000-01-01 01:20:22,2000-01-01 01:20:26,scoop loose parts from bulk bin,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,49,53,4
+2000-01-01 01:20:26,2000-01-01 01:20:43,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,53,70,17
+2000-01-01 01:20:43,2000-01-01 01:20:47,scoop loose parts from bulk bin,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,70,74,4
+2000-01-01 01:20:47,2000-01-01 01:21:01,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,74,88,14
+2000-01-01 01:21:01,2000-01-01 01:21:05,scoop loose parts from bulk bin,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,88,92,4
+2000-01-01 01:21:05,2000-01-01 01:21:21,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,92,108,16
+2000-01-01 01:21:21,2000-01-01 01:21:23,scoop loose parts from bulk bin,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,108,110,2
+2000-01-01 01:21:23,2000-01-01 01:21:34,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,110,121,11
+2000-01-01 01:21:34,2000-01-01 01:21:36,scoop loose parts from bulk bin,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,121,123,2
+2000-01-01 01:21:36,2000-01-01 01:21:48,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,123,135,12
+2000-01-01 01:21:48,2000-01-01 01:21:53,scoop loose parts from bulk bin,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,135,140,5
+2000-01-01 01:21:53,2000-01-01 01:22:12,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,140,159,19
+2000-01-01 01:22:12,2000-01-01 01:22:17,scoop loose parts from bulk bin,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,159,164,5
+2000-01-01 01:22:17,2000-01-01 01:22:22,sweep separated parts with metal guide bar,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,164,169,5
+2000-01-01 01:22:22,2000-01-01 01:22:33,scoop loose parts from bulk bin,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,169,180,11
+2000-01-01 01:22:33,2000-01-01 01:22:55,sweep separated parts with metal guide bar,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,180,202,22
+2000-01-01 01:22:58,2000-01-01 01:23:02,scoop loose parts from bulk bin,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,205,209,4
+2000-01-01 01:23:02,2000-01-01 01:23:13,sweep separated parts with metal guide bar,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,209,220,11
+2000-01-01 01:23:13,2000-01-01 01:23:24,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,220,231,11
+2000-01-01 01:23:24,2000-01-01 01:23:27,sweep separated parts with metal guide bar,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,231,234,3
+2000-01-01 01:23:27,2000-01-01 01:23:42,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,234,249,15
+2000-01-01 01:23:42,2000-01-01 01:23:46,scoop loose parts from bulk bin,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,249,253,4
+2000-01-01 01:23:46,2000-01-01 01:24:02,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,253,269,16
+2000-01-01 01:24:02,2000-01-01 01:24:05,scoop loose parts from bulk bin,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,269,272,3
+2000-01-01 01:24:05,2000-01-01 01:24:20,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,272,287,15
+2000-01-01 01:24:20,2000-01-01 01:24:25,scoop loose parts from bulk bin,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,287,292,5
+2000-01-01 01:24:25,2000-01-01 01:24:40,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,292,307,15
+2000-01-01 01:24:40,2000-01-01 01:24:46,scoop loose parts from bulk bin,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,307,313,6
+2000-01-01 01:24:46,2000-01-01 01:24:50,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,313,317,4
+2000-01-01 01:24:50,2000-01-01 01:24:53,scoop loose parts from bulk bin,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,317,320,3
+2000-01-01 01:24:53,2000-01-01 01:24:57,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,320,324,4
+2000-01-01 01:24:57,2000-01-01 01:25:01,sweep separated parts with metal guide bar,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,324,328,4
+2000-01-01 01:25:01,2000-01-01 01:25:19,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,328,346,18
+2000-01-01 01:25:19,2000-01-01 01:25:24,scoop loose parts from bulk bin,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,346,351,5
+2000-01-01 01:25:24,2000-01-01 01:25:38,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,351,365,14
+2000-01-01 01:25:38,2000-01-01 01:25:41,scoop loose parts from bulk bin,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,365,368,3
+2000-01-01 01:25:41,2000-01-01 01:25:54,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,368,381,13
+2000-01-01 01:25:54,2000-01-01 01:25:58,scoop loose parts from bulk bin,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,381,385,4
+2000-01-01 01:25:58,2000-01-01 01:26:13,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,385,400,15
+2000-01-01 01:26:13,2000-01-01 01:26:16,scoop loose parts from bulk bin,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,400,403,3
+2000-01-01 01:26:16,2000-01-01 01:26:30,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,403,417,14
+2000-01-01 01:26:30,2000-01-01 01:26:35,scoop loose parts from bulk bin,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,417,422,5
+2000-01-01 01:26:35,2000-01-01 01:27:01,sweep separated parts with metal guide bar,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,422,448,26
+2000-01-01 01:27:01,2000-01-01 01:27:09,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,448,456,8
+2000-01-01 01:27:09,2000-01-01 01:27:33,sweep separated parts with metal guide bar,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,456,480,24
+2000-01-01 01:27:33,2000-01-01 01:27:39,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,480,486,6
+2000-01-01 01:27:39,2000-01-01 01:27:45,scoop loose parts from bulk bin,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,486,492,6
+2000-01-01 01:27:45,2000-01-01 01:27:54,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,492,501,9
+2000-01-01 01:29:17,2000-01-01 01:29:25,scoop loose parts from bulk bin,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,584,592,8
+2000-01-01 01:29:57,2000-01-01 01:30:28,sweep separated parts with metal guide bar,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,624,655,31
+2000-01-01 01:30:28,2000-01-01 01:30:33,scoop loose parts from bulk bin,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,655,660,5
+2000-01-01 01:30:33,2000-01-01 01:30:41,sweep separated parts with metal guide bar,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,660,668,8
+2000-01-01 01:30:41,2000-01-01 01:30:56,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,668,683,15
+2000-01-01 01:30:56,2000-01-01 01:31:01,scoop loose parts from bulk bin,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,683,688,5
+2000-01-01 01:31:01,2000-01-01 01:31:18,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,688,705,17
+2000-01-01 01:31:18,2000-01-01 01:31:24,scoop loose parts from bulk bin,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,705,711,6
+2000-01-01 01:31:24,2000-01-01 01:31:40,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,711,727,16
+2000-01-01 01:31:40,2000-01-01 01:31:43,scoop loose parts from bulk bin,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,727,730,3
+2000-01-01 01:31:43,2000-01-01 01:32:02,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,730,749,19
+2000-01-01 01:32:02,2000-01-01 01:32:07,scoop loose parts from bulk bin,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,749,754,5
+2000-01-01 01:32:07,2000-01-01 01:32:26,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,754,773,19
+2000-01-01 01:32:26,2000-01-01 01:32:30,scoop loose parts from bulk bin,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,773,777,4
+2000-01-01 01:32:30,2000-01-01 01:32:43,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,777,790,13
+2000-01-01 01:32:43,2000-01-01 01:32:48,scoop loose parts from bulk bin,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,790,795,5
+2000-01-01 01:32:48,2000-01-01 01:33:03,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,795,810,15
+2000-01-01 01:33:03,2000-01-01 01:33:06,scoop loose parts from bulk bin,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,810,813,3
+2000-01-01 01:33:06,2000-01-01 01:33:13,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,813,820,7
+2000-01-01 01:33:13,2000-01-01 01:33:17,scoop loose parts from bulk bin,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,820,824,4
+2000-01-01 01:33:17,2000-01-01 01:33:34,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,824,841,17
+2000-01-01 01:33:34,2000-01-01 01:33:37,scoop loose parts from bulk bin,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,841,844,3
+2000-01-01 01:33:37,2000-01-01 01:33:59,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,844,866,22
+2000-01-01 01:33:59,2000-01-01 01:34:02,scoop loose parts from bulk bin,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,866,869,3
+2000-01-01 01:34:02,2000-01-01 01:34:21,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,869,888,19
+2000-01-01 01:34:21,2000-01-01 01:34:25,scoop loose parts from bulk bin,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,888,892,4
+2000-01-01 01:34:25,2000-01-01 01:34:41,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,892,908,16
+2000-01-01 01:34:41,2000-01-01 01:34:43,scoop loose parts from bulk bin,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,908,910,2
+2000-01-01 01:34:43,2000-01-01 01:34:59,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,910,926,16
+2000-01-01 01:34:59,2000-01-01 01:35:03,scoop loose parts from bulk bin,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,926,930,4
+2000-01-01 01:35:03,2000-01-01 01:35:20,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,930,947,17
+2000-01-01 01:35:20,2000-01-01 01:35:26,scoop loose parts from bulk bin,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,947,953,6
+2000-01-01 01:35:26,2000-01-01 01:35:33,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,953,960,7
+2000-01-01 01:35:33,2000-01-01 01:35:37,scoop loose parts from bulk bin,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,960,964,4
+2000-01-01 01:35:37,2000-01-01 01:35:49,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,964,976,12
+2000-01-01 01:35:49,2000-01-01 01:36:03,sweep separated parts with metal guide bar,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,976,990,14
+2000-01-01 01:36:03,2000-01-01 01:36:07,scoop loose parts from bulk bin,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,990,994,4
+2000-01-01 01:36:07,2000-01-01 01:36:26,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,994,1013,19
+2000-01-01 01:36:26,2000-01-01 01:36:31,scoop loose parts from bulk bin,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,1013,1018,5
+2000-01-01 01:36:31,2000-01-01 01:36:58,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,1018,1045,27
+2000-01-01 01:36:58,2000-01-01 01:37:07,sweep separated parts with metal guide bar,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,1045,1054,9
+2000-01-01 01:37:07,2000-01-01 01:37:22,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,1054,1069,15
+2000-01-01 01:37:22,2000-01-01 01:37:27,scoop loose parts from bulk bin,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,1069,1074,5
+2000-01-01 01:37:27,2000-01-01 01:37:50,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,1074,1097,23
+2000-01-01 01:37:50,2000-01-01 01:37:54,scoop loose parts from bulk bin,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,1097,1101,4
+2000-01-01 01:37:54,2000-01-01 01:38:14,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,1101,1121,20
+2000-01-01 01:38:14,2000-01-01 01:38:17,scoop loose parts from bulk bin,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,1121,1124,3
+2000-01-01 01:38:17,2000-01-01 01:38:25,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,1124,1132,8
+2000-01-01 01:38:25,2000-01-01 01:38:29,scoop loose parts from bulk bin,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,1132,1136,4
+2000-01-01 01:38:29,2000-01-01 01:38:40,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,1136,1147,11
+2000-01-01 01:38:40,2000-01-01 01:38:44,scoop loose parts from bulk bin,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,1147,1151,4
+2000-01-01 01:38:44,2000-01-01 01:38:58,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,1151,1165,14
+2000-01-01 01:38:58,2000-01-01 01:39:03,scoop loose parts from bulk bin,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,1165,1170,5
+2000-01-01 01:39:03,2000-01-01 01:39:15,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,1170,1182,12
+2000-01-01 01:39:15,2000-01-01 01:39:19,scoop loose parts from bulk bin,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,1182,1186,4
+2000-01-01 01:39:19,2000-01-01 01:39:33,strike metal casting with hammer,Metal casting separation,factory_003,worker_005,factory003_worker005_00004.csv,factory_003_worker_005,1186,1200,14

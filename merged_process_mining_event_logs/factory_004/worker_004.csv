@@ -1,0 +1,217 @@
+start_timestamp,end_timestamp,activity,process,factory,worker,source_file,case_id,start_seconds_from_video_start,end_seconds_from_video_start,duration_seconds
+2000-01-01 00:00:00,2000-01-01 00:00:51,Thread overlock machine using tweezers,Machine maintenance,factory_004,worker_004,factory004_worker004_00000.csv,factory_004_worker_004,0,51,51
+2000-01-01 00:00:51,2000-01-01 00:01:05,Grab unsewn fabric from disorganized pile,Overlock seaming,factory_004,worker_004,factory004_worker004_00000.csv,factory_004_worker_004,51,65,14
+2000-01-01 00:01:05,2000-01-01 00:01:17,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00000.csv,factory_004_worker_004,65,77,12
+2000-01-01 00:01:17,2000-01-01 00:01:28,Grab unsewn fabric from disorganized pile,Overlock seaming,factory_004,worker_004,factory004_worker004_00000.csv,factory_004_worker_004,77,88,11
+2000-01-01 00:01:28,2000-01-01 00:02:04,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00000.csv,factory_004_worker_004,88,124,36
+2000-01-01 00:02:04,2000-01-01 00:02:46,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00000.csv,factory_004_worker_004,124,166,42
+2000-01-01 00:02:46,2000-01-01 00:03:09,Thread overlock machine using tweezers,Machine maintenance,factory_004,worker_004,factory004_worker004_00000.csv,factory_004_worker_004,166,189,23
+2000-01-01 00:03:09,2000-01-01 00:05:24,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00000.csv,factory_004_worker_004,189,324,135
+2000-01-01 00:05:24,2000-01-01 00:06:17,Thread overlock machine using tweezers,Machine maintenance,factory_004,worker_004,factory004_worker004_00000.csv,factory_004_worker_004,324,377,53
+2000-01-01 00:06:17,2000-01-01 00:18:43,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00000.csv,factory_004_worker_004,377,1123,746
+2000-01-01 00:18:43,2000-01-01 00:18:56,Transport heavy fabric stack across factory floor,Material transport,factory_004,worker_004,factory004_worker004_00000.csv,factory_004_worker_004,1123,1136,13
+2000-01-01 00:18:56,2000-01-01 00:19:16,Show folded fabric sample to coworker,Quality inspection,factory_004,worker_004,factory004_worker004_00000.csv,factory_004_worker_004,1136,1156,20
+2000-01-01 00:19:16,2000-01-01 00:19:28,Transport heavy fabric stack across factory floor,Material transport,factory_004,worker_004,factory004_worker004_00000.csv,factory_004_worker_004,1156,1168,12
+2000-01-01 00:19:28,2000-01-01 00:20:00,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00000.csv,factory_004_worker_004,1168,1200,32
+2000-01-01 00:20:00,2000-01-01 00:21:15,Sew long straight seam,Overlock seaming,factory_004,worker_004,factory004_worker004_00001.csv,factory_004_worker_004,0,75,75
+2000-01-01 00:21:15,2000-01-01 00:21:19,Pull sewn piece out of machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00001.csv,factory_004_worker_004,75,79,4
+2000-01-01 00:21:19,2000-01-01 00:21:21,Snap thread chain by hand,Thread trimming,factory_004,worker_004,factory004_worker004_00001.csv,factory_004_worker_004,79,81,2
+2000-01-01 00:21:21,2000-01-01 00:21:31,Grab unsewn fabric from disorganized pile,Overlock seaming,factory_004,worker_004,factory004_worker004_00001.csv,factory_004_worker_004,81,91,10
+2000-01-01 00:21:31,2000-01-01 00:21:41,Unfold raw fabric edges,Overlock seaming,factory_004,worker_004,factory004_worker004_00001.csv,factory_004_worker_004,91,101,10
+2000-01-01 00:21:41,2000-01-01 00:21:54,Align raw fabric edges by hand,Overlock seaming,factory_004,worker_004,factory004_worker004_00001.csv,factory_004_worker_004,101,114,13
+2000-01-01 00:21:54,2000-01-01 00:24:17,Sew long straight seam,Overlock seaming,factory_004,worker_004,factory004_worker004_00001.csv,factory_004_worker_004,114,257,143
+2000-01-01 00:24:17,2000-01-01 00:24:21,Pull sewn piece out of machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00001.csv,factory_004_worker_004,257,261,4
+2000-01-01 00:24:21,2000-01-01 00:24:24,Snap thread chain by hand,Thread trimming,factory_004,worker_004,factory004_worker004_00001.csv,factory_004_worker_004,261,264,3
+2000-01-01 00:24:24,2000-01-01 00:24:54,Transport heavy fabric stack across factory floor,Material transport,factory_004,worker_004,factory004_worker004_00001.csv,factory_004_worker_004,264,294,30
+2000-01-01 00:25:01,2000-01-01 00:25:35,Transport heavy fabric stack across factory floor,Material transport,factory_004,worker_004,factory004_worker004_00001.csv,factory_004_worker_004,301,335,34
+2000-01-01 00:25:46,2000-01-01 00:25:58,Grab unsewn fabric from disorganized pile,Curvilinear seam joining,factory_004,worker_004,factory004_worker004_00001.csv,factory_004_worker_004,346,358,12
+2000-01-01 00:25:58,2000-01-01 00:26:14,Align raw fabric edges by hand,Curvilinear seam joining,factory_004,worker_004,factory004_worker004_00001.csv,factory_004_worker_004,358,374,16
+2000-01-01 00:26:14,2000-01-01 00:28:31,Feed continuous fabric chain without breaking thread,Continuous fabric chaining,factory_004,worker_004,factory004_worker004_00001.csv,factory_004_worker_004,374,511,137
+2000-01-01 00:28:31,2000-01-01 00:28:42,Stage bulky fabric chain on lap,Continuous fabric chaining,factory_004,worker_004,factory004_worker004_00001.csv,factory_004_worker_004,511,522,11
+2000-01-01 00:28:42,2000-01-01 00:30:13,Feed continuous fabric chain without breaking thread,Continuous fabric chaining,factory_004,worker_004,factory004_worker004_00001.csv,factory_004_worker_004,522,613,91
+2000-01-01 00:30:13,2000-01-01 00:30:20,Grab unsewn fabric from disorganized pile,Continuous fabric chaining,factory_004,worker_004,factory004_worker004_00001.csv,factory_004_worker_004,613,620,7
+2000-01-01 00:30:20,2000-01-01 00:31:21,Feed continuous fabric chain without breaking thread,Continuous fabric chaining,factory_004,worker_004,factory004_worker004_00001.csv,factory_004_worker_004,620,681,61
+2000-01-01 00:31:21,2000-01-01 00:31:25,Stage bulky fabric chain on lap,Continuous fabric chaining,factory_004,worker_004,factory004_worker004_00001.csv,factory_004_worker_004,681,685,4
+2000-01-01 00:31:25,2000-01-01 00:32:23,Feed continuous fabric chain without breaking thread,Continuous fabric chaining,factory_004,worker_004,factory004_worker004_00001.csv,factory_004_worker_004,685,743,58
+2000-01-01 00:32:23,2000-01-01 00:32:28,Grab unsewn fabric from disorganized pile,Continuous fabric chaining,factory_004,worker_004,factory004_worker004_00001.csv,factory_004_worker_004,743,748,5
+2000-01-01 00:32:28,2000-01-01 00:34:02,Feed continuous fabric chain without breaking thread,Continuous fabric chaining,factory_004,worker_004,factory004_worker004_00001.csv,factory_004_worker_004,748,842,94
+2000-01-01 00:34:08,2000-01-01 00:34:26,Feed continuous fabric chain without breaking thread,Continuous fabric chaining,factory_004,worker_004,factory004_worker004_00001.csv,factory_004_worker_004,848,866,18
+2000-01-01 00:34:26,2000-01-01 00:34:31,Deposit fabric offcuts into blue bin,Scrap material management,factory_004,worker_004,factory004_worker004_00001.csv,factory_004_worker_004,866,871,5
+2000-01-01 00:34:31,2000-01-01 00:35:51,Feed continuous fabric chain without breaking thread,Continuous fabric chaining,factory_004,worker_004,factory004_worker004_00001.csv,factory_004_worker_004,871,951,80
+2000-01-01 00:35:51,2000-01-01 00:35:55,Cut continuous thread chain with scissors,Thread trimming,factory_004,worker_004,factory004_worker004_00001.csv,factory_004_worker_004,951,955,4
+2000-01-01 00:35:55,2000-01-01 00:36:12,Transport heavy fabric stack across factory floor,Material transport,factory_004,worker_004,factory004_worker004_00001.csv,factory_004_worker_004,955,972,17
+2000-01-01 00:36:12,2000-01-01 00:36:45,Cut continuous thread chain with scissors,Thread trimming,factory_004,worker_004,factory004_worker004_00001.csv,factory_004_worker_004,972,1005,33
+2000-01-01 00:36:55,2000-01-01 00:37:09,Deposit fabric offcuts into blue bin,Scrap material management,factory_004,worker_004,factory004_worker004_00001.csv,factory_004_worker_004,1015,1029,14
+2000-01-01 00:37:18,2000-01-01 00:37:58,Grab unsewn fabric from disorganized pile,Curvilinear seam joining,factory_004,worker_004,factory004_worker004_00001.csv,factory_004_worker_004,1038,1078,40
+2000-01-01 00:37:58,2000-01-01 00:38:05,Trim raw fabric edge manually,Bulk fabric cutting,factory_004,worker_004,factory004_worker004_00001.csv,factory_004_worker_004,1078,1085,7
+2000-01-01 00:38:05,2000-01-01 00:38:35,Sew short straight seam,Overlock seaming,factory_004,worker_004,factory004_worker004_00001.csv,factory_004_worker_004,1085,1115,30
+2000-01-01 00:38:35,2000-01-01 00:39:18,Cut curved fabric piece with scissors,Bulk fabric cutting,factory_004,worker_004,factory004_worker004_00001.csv,factory_004_worker_004,1115,1158,43
+2000-01-01 00:39:33,2000-01-01 00:39:42,Transport heavy fabric stack across factory floor,Material transport,factory_004,worker_004,factory004_worker004_00001.csv,factory_004_worker_004,1173,1182,9
+2000-01-01 00:39:42,2000-01-01 00:40:00,Align raw fabric edges by hand,Curvilinear seam joining,factory_004,worker_004,factory004_worker004_00001.csv,factory_004_worker_004,1182,1200,18
+2000-01-01 00:40:00,2000-01-01 00:40:16,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00002.csv,factory_004_worker_004,0,16,16
+2000-01-01 00:40:16,2000-01-01 00:40:20,Pull sewn piece out of machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00002.csv,factory_004_worker_004,16,20,4
+2000-01-01 00:40:30,2000-01-01 00:40:41,Align raw fabric edges by hand,Overlock seaming,factory_004,worker_004,factory004_worker004_00002.csv,factory_004_worker_004,30,41,11
+2000-01-01 00:40:41,2000-01-01 00:43:04,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00002.csv,factory_004_worker_004,41,184,143
+2000-01-01 00:43:04,2000-01-01 00:43:18,Grab unsewn fabric from disorganized pile,Material transport,factory_004,worker_004,factory004_worker004_00002.csv,factory_004_worker_004,184,198,14
+2000-01-01 00:43:18,2000-01-01 00:45:32,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00002.csv,factory_004_worker_004,198,332,134
+2000-01-01 00:45:32,2000-01-01 00:45:58,Fold fabric into compact bundle,Material transport,factory_004,worker_004,factory004_worker004_00002.csv,factory_004_worker_004,332,358,26
+2000-01-01 00:46:06,2000-01-01 00:46:22,Grab unsewn fabric from disorganized pile,Material transport,factory_004,worker_004,factory004_worker004_00002.csv,factory_004_worker_004,366,382,16
+2000-01-01 00:46:22,2000-01-01 00:49:47,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00002.csv,factory_004_worker_004,382,587,205
+2000-01-01 00:49:47,2000-01-01 00:50:00,Fold fabric into compact bundle,Material transport,factory_004,worker_004,factory004_worker004_00002.csv,factory_004_worker_004,587,600,13
+2000-01-01 00:50:00,2000-01-01 00:50:08,Grab unsewn fabric from disorganized pile,Material transport,factory_004,worker_004,factory004_worker004_00002.csv,factory_004_worker_004,600,608,8
+2000-01-01 00:50:08,2000-01-01 00:50:50,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00002.csv,factory_004_worker_004,608,650,42
+2000-01-01 00:50:50,2000-01-01 00:51:04,Cut continuous thread chain with scissors,Continuous fabric chaining,factory_004,worker_004,factory004_worker004_00002.csv,factory_004_worker_004,650,664,14
+2000-01-01 00:51:04,2000-01-01 00:53:06,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00002.csv,factory_004_worker_004,664,786,122
+2000-01-01 00:53:06,2000-01-01 00:53:21,Fold fabric into compact bundle,Material transport,factory_004,worker_004,factory004_worker004_00002.csv,factory_004_worker_004,786,801,15
+2000-01-01 00:53:21,2000-01-01 00:53:28,Grab unsewn fabric from disorganized pile,Material transport,factory_004,worker_004,factory004_worker004_00002.csv,factory_004_worker_004,801,808,7
+2000-01-01 00:53:28,2000-01-01 00:54:00,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00002.csv,factory_004_worker_004,808,840,32
+2000-01-01 00:54:00,2000-01-01 00:54:09,Mark fabric piece with blue pen,Fabric measuring,factory_004,worker_004,factory004_worker004_00002.csv,factory_004_worker_004,840,849,9
+2000-01-01 00:54:09,2000-01-01 00:54:19,Trim raw fabric edge manually,Bulk fabric cutting,factory_004,worker_004,factory004_worker004_00002.csv,factory_004_worker_004,849,859,10
+2000-01-01 00:54:19,2000-01-01 00:55:33,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00002.csv,factory_004_worker_004,859,933,74
+2000-01-01 00:55:33,2000-01-01 00:55:47,Fold fabric into compact bundle,Material transport,factory_004,worker_004,factory004_worker004_00002.csv,factory_004_worker_004,933,947,14
+2000-01-01 00:55:47,2000-01-01 00:55:55,Grab unsewn fabric from disorganized pile,Material transport,factory_004,worker_004,factory004_worker004_00002.csv,factory_004_worker_004,947,955,8
+2000-01-01 00:55:55,2000-01-01 00:57:03,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00002.csv,factory_004_worker_004,955,1023,68
+2000-01-01 00:57:12,2000-01-01 00:57:23,Grab unsewn fabric from disorganized pile,Material transport,factory_004,worker_004,factory004_worker004_00002.csv,factory_004_worker_004,1032,1043,11
+2000-01-01 00:57:23,2000-01-01 00:58:49,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00002.csv,factory_004_worker_004,1043,1129,86
+2000-01-01 00:58:49,2000-01-01 00:59:00,Fold fabric into compact bundle,Material transport,factory_004,worker_004,factory004_worker004_00002.csv,factory_004_worker_004,1129,1140,11
+2000-01-01 00:59:07,2000-01-01 00:59:15,Grab unsewn fabric from disorganized pile,Material transport,factory_004,worker_004,factory004_worker004_00002.csv,factory_004_worker_004,1147,1155,8
+2000-01-01 00:59:15,2000-01-01 01:00:00,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00002.csv,factory_004_worker_004,1155,1200,45
+2000-01-01 01:00:13,2000-01-01 01:00:29,Align raw fabric edges by hand,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,13,29,16
+2000-01-01 01:00:29,2000-01-01 01:00:40,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,29,40,11
+2000-01-01 01:00:52,2000-01-01 01:01:04,Align raw fabric edges by hand,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,52,64,12
+2000-01-01 01:01:04,2000-01-01 01:01:17,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,64,77,13
+2000-01-01 01:01:17,2000-01-01 01:01:28,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,77,88,11
+2000-01-01 01:01:28,2000-01-01 01:01:42,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,88,102,14
+2000-01-01 01:01:42,2000-01-01 01:01:49,Align raw fabric edges by hand,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,102,109,7
+2000-01-01 01:01:49,2000-01-01 01:02:06,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,109,126,17
+2000-01-01 01:02:06,2000-01-01 01:02:16,Align raw fabric edges by hand,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,126,136,10
+2000-01-01 01:02:16,2000-01-01 01:02:32,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,136,152,16
+2000-01-01 01:02:32,2000-01-01 01:02:39,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,152,159,7
+2000-01-01 01:02:39,2000-01-01 01:02:54,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,159,174,15
+2000-01-01 01:02:54,2000-01-01 01:03:02,Align raw fabric edges by hand,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,174,182,8
+2000-01-01 01:03:02,2000-01-01 01:03:16,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,182,196,14
+2000-01-01 01:03:16,2000-01-01 01:03:31,Grab unsewn fabric from disorganized pile,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,196,211,15
+2000-01-01 01:03:31,2000-01-01 01:03:54,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,211,234,23
+2000-01-01 01:04:00,2000-01-01 01:04:16,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,240,256,16
+2000-01-01 01:04:16,2000-01-01 01:04:22,Align raw fabric edges by hand,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,256,262,6
+2000-01-01 01:04:22,2000-01-01 01:04:34,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,262,274,12
+2000-01-01 01:04:34,2000-01-01 01:04:42,Align raw fabric edges by hand,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,274,282,8
+2000-01-01 01:04:42,2000-01-01 01:04:53,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,282,293,11
+2000-01-01 01:04:53,2000-01-01 01:05:00,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,293,300,7
+2000-01-01 01:05:00,2000-01-01 01:05:13,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,300,313,13
+2000-01-01 01:05:13,2000-01-01 01:05:24,Align raw fabric edges by hand,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,313,324,11
+2000-01-01 01:05:24,2000-01-01 01:05:41,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,324,341,17
+2000-01-01 01:05:41,2000-01-01 01:05:47,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,341,347,6
+2000-01-01 01:05:47,2000-01-01 01:05:59,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,347,359,12
+2000-01-01 01:06:20,2000-01-01 01:06:31,Unfold raw fabric edges,Tape feeding,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,380,391,11
+2000-01-01 01:06:31,2000-01-01 01:06:44,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,391,404,13
+2000-01-01 01:06:44,2000-01-01 01:06:50,Align raw fabric edges by hand,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,404,410,6
+2000-01-01 01:06:50,2000-01-01 01:07:02,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,410,422,12
+2000-01-01 01:07:24,2000-01-01 01:07:38,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,444,458,14
+2000-01-01 01:07:38,2000-01-01 01:07:44,Align raw fabric edges by hand,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,458,464,6
+2000-01-01 01:07:44,2000-01-01 01:07:55,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,464,475,11
+2000-01-01 01:07:55,2000-01-01 01:08:04,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,475,484,9
+2000-01-01 01:08:04,2000-01-01 01:08:19,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,484,499,15
+2000-01-01 01:08:19,2000-01-01 01:08:29,Align raw fabric edges by hand,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,499,509,10
+2000-01-01 01:08:29,2000-01-01 01:08:39,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,509,519,10
+2000-01-01 01:08:39,2000-01-01 01:08:47,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,519,527,8
+2000-01-01 01:08:47,2000-01-01 01:09:00,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,527,540,13
+2000-01-01 01:09:00,2000-01-01 01:09:07,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,540,547,7
+2000-01-01 01:09:07,2000-01-01 01:09:18,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,547,558,11
+2000-01-01 01:09:18,2000-01-01 01:09:43,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,558,583,25
+2000-01-01 01:09:58,2000-01-01 01:10:10,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,598,610,12
+2000-01-01 01:10:22,2000-01-01 01:10:36,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,622,636,14
+2000-01-01 01:10:48,2000-01-01 01:11:00,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,648,660,12
+2000-01-01 01:11:12,2000-01-01 01:11:29,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,672,689,17
+2000-01-01 01:11:43,2000-01-01 01:11:51,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,703,711,8
+2000-01-01 01:12:00,2000-01-01 01:12:10,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,720,730,10
+2000-01-01 01:12:10,2000-01-01 01:12:18,Unfold raw fabric edges,Tape feeding,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,730,738,8
+2000-01-01 01:12:34,2000-01-01 01:12:47,Align raw fabric edges by hand,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,754,767,13
+2000-01-01 01:12:47,2000-01-01 01:12:53,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,767,773,6
+2000-01-01 01:13:06,2000-01-01 01:13:19,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,786,799,13
+2000-01-01 01:13:31,2000-01-01 01:13:39,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,811,819,8
+2000-01-01 01:13:44,2000-01-01 01:13:58,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,824,838,14
+2000-01-01 01:13:58,2000-01-01 01:14:04,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,838,844,6
+2000-01-01 01:14:04,2000-01-01 01:14:15,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,844,855,11
+2000-01-01 01:14:15,2000-01-01 01:14:24,Align raw fabric edges by hand,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,855,864,9
+2000-01-01 01:14:24,2000-01-01 01:14:36,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,864,876,12
+2000-01-01 01:14:45,2000-01-01 01:14:55,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,885,895,10
+2000-01-01 01:14:55,2000-01-01 01:15:05,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,895,905,10
+2000-01-01 01:15:05,2000-01-01 01:15:18,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,905,918,13
+2000-01-01 01:15:28,2000-01-01 01:15:38,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,928,938,10
+2000-01-01 01:15:38,2000-01-01 01:16:01,Align raw fabric edges by hand,Tape feeding,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,938,961,23
+2000-01-01 01:16:01,2000-01-01 01:16:08,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,961,968,7
+2000-01-01 01:16:08,2000-01-01 01:16:30,Align raw fabric edges by hand,Tape feeding,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,968,990,22
+2000-01-01 01:16:30,2000-01-01 01:16:47,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,990,1007,17
+2000-01-01 01:16:56,2000-01-01 01:17:18,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,1016,1038,22
+2000-01-01 01:17:18,2000-01-01 01:17:24,Align raw fabric edges by hand,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,1038,1044,6
+2000-01-01 01:17:24,2000-01-01 01:17:36,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,1044,1056,12
+2000-01-01 01:17:42,2000-01-01 01:18:03,Trim raw fabric edge manually,Thread trimming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,1062,1083,21
+2000-01-01 01:18:03,2000-01-01 01:18:32,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,1083,1112,29
+2000-01-01 01:18:32,2000-01-01 01:18:48,Trim raw fabric edge manually,Thread trimming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,1112,1128,16
+2000-01-01 01:18:48,2000-01-01 01:19:00,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,1128,1140,12
+2000-01-01 01:19:16,2000-01-01 01:19:22,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,1156,1162,6
+2000-01-01 01:19:22,2000-01-01 01:20:00,Trim raw fabric edge manually,Thread trimming,factory_004,worker_004,factory004_worker004_00003.csv,factory_004_worker_004,1162,1200,38
+2000-01-01 01:20:00,2000-01-01 01:20:15,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00004.csv,factory_004_worker_004,0,15,15
+2000-01-01 01:20:15,2000-01-01 01:20:38,Route seam tape through machine guide,Tape feeding,factory_004,worker_004,factory004_worker004_00004.csv,factory_004_worker_004,15,38,23
+2000-01-01 01:20:54,2000-01-01 01:21:14,Align raw fabric edges by hand,Overlock seaming,factory_004,worker_004,factory004_worker004_00004.csv,factory_004_worker_004,54,74,20
+2000-01-01 01:21:34,2000-01-01 01:21:50,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00004.csv,factory_004_worker_004,94,110,16
+2000-01-01 01:21:50,2000-01-01 01:22:14,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00004.csv,factory_004_worker_004,110,134,24
+2000-01-01 01:22:19,2000-01-01 01:22:45,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00004.csv,factory_004_worker_004,139,165,26
+2000-01-01 01:22:45,2000-01-01 01:23:07,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00004.csv,factory_004_worker_004,165,187,22
+2000-01-01 01:23:07,2000-01-01 01:23:57,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00004.csv,factory_004_worker_004,187,237,50
+2000-01-01 01:23:57,2000-01-01 01:24:39,Grab unsewn fabric from disorganized pile,Overlock seaming,factory_004,worker_004,factory004_worker004_00004.csv,factory_004_worker_004,237,279,42
+2000-01-01 01:25:13,2000-01-01 01:25:35,Align raw fabric edges by hand,Overlock seaming,factory_004,worker_004,factory004_worker004_00004.csv,factory_004_worker_004,313,335,22
+2000-01-01 01:25:35,2000-01-01 01:27:09,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00004.csv,factory_004_worker_004,335,429,94
+2000-01-01 01:27:23,2000-01-01 01:27:41,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00004.csv,factory_004_worker_004,443,461,18
+2000-01-01 01:27:41,2000-01-01 01:28:24,Route seam tape through machine guide,Tape feeding,factory_004,worker_004,factory004_worker004_00004.csv,factory_004_worker_004,461,504,43
+2000-01-01 01:28:24,2000-01-01 01:29:12,Sew continuous edge binding,Edge binding attachment,factory_004,worker_004,factory004_worker004_00004.csv,factory_004_worker_004,504,552,48
+2000-01-01 01:29:12,2000-01-01 01:29:47,Route seam tape through machine guide,Tape feeding,factory_004,worker_004,factory004_worker004_00004.csv,factory_004_worker_004,552,587,35
+2000-01-01 01:29:47,2000-01-01 01:30:05,Sew continuous edge binding,Edge binding attachment,factory_004,worker_004,factory004_worker004_00004.csv,factory_004_worker_004,587,605,18
+2000-01-01 01:30:05,2000-01-01 01:30:37,Thread overlock machine using tweezers,Machine maintenance,factory_004,worker_004,factory004_worker004_00004.csv,factory_004_worker_004,605,637,32
+2000-01-01 01:30:37,2000-01-01 01:30:47,Sew continuous edge binding,Edge binding attachment,factory_004,worker_004,factory004_worker004_00004.csv,factory_004_worker_004,637,647,10
+2000-01-01 01:30:47,2000-01-01 01:31:32,Grab unsewn fabric from disorganized pile,Overlock seaming,factory_004,worker_004,factory004_worker004_00004.csv,factory_004_worker_004,647,692,45
+2000-01-01 01:31:32,2000-01-01 01:31:58,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00004.csv,factory_004_worker_004,692,718,26
+2000-01-01 01:32:12,2000-01-01 01:32:39,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00004.csv,factory_004_worker_004,732,759,27
+2000-01-01 01:32:39,2000-01-01 01:33:08,Grab unsewn fabric from disorganized pile,Overlock seaming,factory_004,worker_004,factory004_worker004_00004.csv,factory_004_worker_004,759,788,29
+2000-01-01 01:33:08,2000-01-01 01:33:36,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00004.csv,factory_004_worker_004,788,816,28
+2000-01-01 01:34:08,2000-01-01 01:34:54,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00004.csv,factory_004_worker_004,848,894,46
+2000-01-01 01:34:54,2000-01-01 01:35:15,Trim raw fabric edge manually,Overlock seaming,factory_004,worker_004,factory004_worker004_00004.csv,factory_004_worker_004,894,915,21
+2000-01-01 01:35:15,2000-01-01 01:35:51,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00004.csv,factory_004_worker_004,915,951,36
+2000-01-01 01:36:20,2000-01-01 01:36:38,Trim raw fabric edge manually,Overlock seaming,factory_004,worker_004,factory004_worker004_00004.csv,factory_004_worker_004,980,998,18
+2000-01-01 01:36:38,2000-01-01 01:37:11,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00004.csv,factory_004_worker_004,998,1031,33
+2000-01-01 01:37:11,2000-01-01 01:37:34,Grab unsewn fabric from disorganized pile,Overlock seaming,factory_004,worker_004,factory004_worker004_00004.csv,factory_004_worker_004,1031,1054,23
+2000-01-01 01:37:34,2000-01-01 01:38:05,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00004.csv,factory_004_worker_004,1054,1085,31
+2000-01-01 01:38:05,2000-01-01 01:38:22,Grab unsewn fabric from disorganized pile,Overlock seaming,factory_004,worker_004,factory004_worker004_00004.csv,factory_004_worker_004,1085,1102,17
+2000-01-01 01:38:22,2000-01-01 01:39:04,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004,factory004_worker004_00004.csv,factory_004_worker_004,1102,1144,42
+2000-01-01 01:39:04,2000-01-01 01:40:00,Sew long straight seam,Overlock seaming,factory_004,worker_004,factory004_worker004_00004.csv,factory_004_worker_004,1144,1200,56
+2000-01-01 01:40:00,2000-01-01 01:40:18,Feed continuous fabric chain without breaking thread,Continuous fabric chaining,factory_004,worker_004,factory004_worker004_00005.csv,factory_004_worker_004,0,18,18
+2000-01-01 01:40:18,2000-01-01 01:42:44,Cut continuous thread chain with scissors,Continuous fabric chaining,factory_004,worker_004,factory004_worker004_00005.csv,factory_004_worker_004,18,164,146
+2000-01-01 01:42:44,2000-01-01 01:43:00,Stage bulky fabric chain on lap,Continuous fabric chaining,factory_004,worker_004,factory004_worker004_00005.csv,factory_004_worker_004,164,180,16
+2000-01-01 01:43:00,2000-01-01 01:43:32,Cut continuous thread chain with scissors,Continuous fabric chaining,factory_004,worker_004,factory004_worker004_00005.csv,factory_004_worker_004,180,212,32
+2000-01-01 01:43:32,2000-01-01 01:43:51,Stage bulky fabric chain on lap,Continuous fabric chaining,factory_004,worker_004,factory004_worker004_00005.csv,factory_004_worker_004,212,231,19
+2000-01-01 01:43:51,2000-01-01 01:45:01,Cut continuous thread chain with scissors,Continuous fabric chaining,factory_004,worker_004,factory004_worker004_00005.csv,factory_004_worker_004,231,301,70
+2000-01-01 01:45:01,2000-01-01 01:45:14,Tie scrap fabric strip around garment stack,Material transport,factory_004,worker_004,factory004_worker004_00005.csv,factory_004_worker_004,301,314,13
+2000-01-01 01:47:38,2000-01-01 01:48:12,Transport heavy fabric stack across factory floor,Material transport,factory_004,worker_004,factory004_worker004_00005.csv,factory_004_worker_004,458,492,34
+2000-01-01 01:48:44,2000-01-01 01:49:17,Transport heavy fabric stack across factory floor,Material transport,factory_004,worker_004,factory004_worker004_00005.csv,factory_004_worker_004,524,557,33
+2000-01-01 01:49:17,2000-01-01 01:49:39,Feed continuous fabric chain without breaking thread,Continuous fabric chaining,factory_004,worker_004,factory004_worker004_00005.csv,factory_004_worker_004,557,579,22
+2000-01-01 01:49:44,2000-01-01 01:50:04,Feed continuous fabric chain without breaking thread,Continuous fabric chaining,factory_004,worker_004,factory004_worker004_00005.csv,factory_004_worker_004,584,604,20
+2000-01-01 01:50:04,2000-01-01 01:50:14,Grab unsewn fabric from disorganized pile,Continuous fabric chaining,factory_004,worker_004,factory004_worker004_00005.csv,factory_004_worker_004,604,614,10
+2000-01-01 01:50:14,2000-01-01 01:51:00,Feed continuous fabric chain without breaking thread,Continuous fabric chaining,factory_004,worker_004,factory004_worker004_00005.csv,factory_004_worker_004,614,660,46
+2000-01-01 01:51:23,2000-01-01 01:52:06,Feed continuous fabric chain without breaking thread,Continuous fabric chaining,factory_004,worker_004,factory004_worker004_00005.csv,factory_004_worker_004,683,726,43
+2000-01-01 01:52:06,2000-01-01 01:52:12,Grab unsewn fabric from disorganized pile,Continuous fabric chaining,factory_004,worker_004,factory004_worker004_00005.csv,factory_004_worker_004,726,732,6
+2000-01-01 01:52:12,2000-01-01 01:52:59,Feed continuous fabric chain without breaking thread,Continuous fabric chaining,factory_004,worker_004,factory004_worker004_00005.csv,factory_004_worker_004,732,779,47
+2000-01-01 01:52:59,2000-01-01 01:53:08,Push finished fabric chain to table edge,Continuous fabric chaining,factory_004,worker_004,factory004_worker004_00005.csv,factory_004_worker_004,779,788,9
+2000-01-01 01:53:08,2000-01-01 01:54:08,Feed continuous fabric chain without breaking thread,Continuous fabric chaining,factory_004,worker_004,factory004_worker004_00005.csv,factory_004_worker_004,788,848,60
+2000-01-01 01:54:08,2000-01-01 01:54:16,Push finished fabric chain to table edge,Continuous fabric chaining,factory_004,worker_004,factory004_worker004_00005.csv,factory_004_worker_004,848,856,8
+2000-01-01 01:54:16,2000-01-01 01:54:59,Feed continuous fabric chain without breaking thread,Continuous fabric chaining,factory_004,worker_004,factory004_worker004_00005.csv,factory_004_worker_004,856,899,43
+2000-01-01 01:55:13,2000-01-01 01:55:37,Feed continuous fabric chain without breaking thread,Continuous fabric chaining,factory_004,worker_004,factory004_worker004_00005.csv,factory_004_worker_004,913,937,24
+2000-01-01 01:55:37,2000-01-01 01:55:45,Grab unsewn fabric from disorganized pile,Continuous fabric chaining,factory_004,worker_004,factory004_worker004_00005.csv,factory_004_worker_004,937,945,8
+2000-01-01 01:55:45,2000-01-01 01:56:42,Feed continuous fabric chain without breaking thread,Continuous fabric chaining,factory_004,worker_004,factory004_worker004_00005.csv,factory_004_worker_004,945,1002,57
+2000-01-01 01:56:42,2000-01-01 01:56:49,Push finished fabric chain to table edge,Continuous fabric chaining,factory_004,worker_004,factory004_worker004_00005.csv,factory_004_worker_004,1002,1009,7
+2000-01-01 01:56:49,2000-01-01 01:57:46,Feed continuous fabric chain without breaking thread,Continuous fabric chaining,factory_004,worker_004,factory004_worker004_00005.csv,factory_004_worker_004,1009,1066,57
+2000-01-01 01:57:46,2000-01-01 01:58:07,Thread overlock machine using tweezers,Machine maintenance,factory_004,worker_004,factory004_worker004_00005.csv,factory_004_worker_004,1066,1087,21
+2000-01-01 01:58:07,2000-01-01 01:58:14,Grab unsewn fabric from disorganized pile,Continuous fabric chaining,factory_004,worker_004,factory004_worker004_00005.csv,factory_004_worker_004,1087,1094,7
+2000-01-01 01:58:14,2000-01-01 01:58:49,Feed continuous fabric chain without breaking thread,Continuous fabric chaining,factory_004,worker_004,factory004_worker004_00005.csv,factory_004_worker_004,1094,1129,35
+2000-01-01 01:58:49,2000-01-01 01:59:05,Thread overlock machine using tweezers,Machine maintenance,factory_004,worker_004,factory004_worker004_00005.csv,factory_004_worker_004,1129,1145,16
+2000-01-01 01:59:05,2000-01-01 02:00:00,Feed continuous fabric chain without breaking thread,Continuous fabric chaining,factory_004,worker_004,factory004_worker004_00005.csv,factory_004_worker_004,1145,1200,55

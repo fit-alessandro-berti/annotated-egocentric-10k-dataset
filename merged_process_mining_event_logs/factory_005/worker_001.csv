@@ -1,0 +1,254 @@
+start_timestamp,end_timestamp,activity,process,factory,worker,source_file,case_id,start_seconds_from_video_start,end_seconds_from_video_start,duration_seconds
+2000-01-01 00:00:00,2000-01-01 00:01:40,gather flat cardboard sheets,finished goods packaging,factory_005,worker_001,factory005_worker001_00000.csv,factory_005_worker_001,0,100,100
+2000-01-01 00:02:08,2000-01-01 00:02:15,peel single label from stack,motor labeling and nameplate attachment,factory_005,worker_001,factory005_worker001_00000.csv,factory_005_worker_001,128,135,7
+2000-01-01 00:02:15,2000-01-01 00:02:24,apply adhesive label to motor housing,motor labeling and nameplate attachment,factory_005,worker_001,factory005_worker001_00000.csv,factory_005_worker_001,135,144,9
+2000-01-01 00:02:24,2000-01-01 00:02:29,rub label to ensure adhesion,motor labeling and nameplate attachment,factory_005,worker_001,factory005_worker001_00000.csv,factory_005_worker_001,144,149,5
+2000-01-01 00:04:47,2000-01-01 00:04:57,position metallic nameplate on motor housing,motor labeling and nameplate attachment,factory_005,worker_001,factory005_worker001_00000.csv,factory_005_worker_001,287,297,10
+2000-01-01 00:04:57,2000-01-01 00:05:05,insert holding pins through nameplate,motor labeling and nameplate attachment,factory_005,worker_001,factory005_worker001_00000.csv,factory_005_worker_001,297,305,8
+2000-01-01 00:05:05,2000-01-01 00:05:20,tap pins into place with hammer,motor labeling and nameplate attachment,factory_005,worker_001,factory005_worker001_00000.csv,factory_005_worker_001,305,320,15
+2000-01-01 00:05:20,2000-01-01 00:05:30,position metallic nameplate on motor housing,motor labeling and nameplate attachment,factory_005,worker_001,factory005_worker001_00000.csv,factory_005_worker_001,320,330,10
+2000-01-01 00:05:30,2000-01-01 00:05:38,insert holding pins through nameplate,motor labeling and nameplate attachment,factory_005,worker_001,factory005_worker001_00000.csv,factory_005_worker_001,330,338,8
+2000-01-01 00:05:38,2000-01-01 00:05:53,tap pins into place with hammer,motor labeling and nameplate attachment,factory_005,worker_001,factory005_worker001_00000.csv,factory_005_worker_001,338,353,15
+2000-01-01 00:05:53,2000-01-01 00:06:03,position metallic nameplate on motor housing,motor labeling and nameplate attachment,factory_005,worker_001,factory005_worker001_00000.csv,factory_005_worker_001,353,363,10
+2000-01-01 00:06:03,2000-01-01 00:06:11,insert holding pins through nameplate,motor labeling and nameplate attachment,factory_005,worker_001,factory005_worker001_00000.csv,factory_005_worker_001,363,371,8
+2000-01-01 00:06:11,2000-01-01 00:06:26,tap pins into place with hammer,motor labeling and nameplate attachment,factory_005,worker_001,factory005_worker001_00000.csv,factory_005_worker_001,371,386,15
+2000-01-01 00:06:26,2000-01-01 00:06:36,position metallic nameplate on motor housing,motor labeling and nameplate attachment,factory_005,worker_001,factory005_worker001_00000.csv,factory_005_worker_001,386,396,10
+2000-01-01 00:06:36,2000-01-01 00:06:44,insert holding pins through nameplate,motor labeling and nameplate attachment,factory_005,worker_001,factory005_worker001_00000.csv,factory_005_worker_001,396,404,8
+2000-01-01 00:06:44,2000-01-01 00:06:59,tap pins into place with hammer,motor labeling and nameplate attachment,factory_005,worker_001,factory005_worker001_00000.csv,factory_005_worker_001,404,419,15
+2000-01-01 00:06:59,2000-01-01 00:07:09,position metallic nameplate on motor housing,motor labeling and nameplate attachment,factory_005,worker_001,factory005_worker001_00000.csv,factory_005_worker_001,419,429,10
+2000-01-01 00:07:09,2000-01-01 00:07:17,insert holding pins through nameplate,motor labeling and nameplate attachment,factory_005,worker_001,factory005_worker001_00000.csv,factory_005_worker_001,429,437,8
+2000-01-01 00:07:17,2000-01-01 00:07:32,tap pins into place with hammer,motor labeling and nameplate attachment,factory_005,worker_001,factory005_worker001_00000.csv,factory_005_worker_001,437,452,15
+2000-01-01 00:07:32,2000-01-01 00:07:42,position metallic nameplate on motor housing,motor labeling and nameplate attachment,factory_005,worker_001,factory005_worker001_00000.csv,factory_005_worker_001,452,462,10
+2000-01-01 00:07:42,2000-01-01 00:07:50,insert holding pins through nameplate,motor labeling and nameplate attachment,factory_005,worker_001,factory005_worker001_00000.csv,factory_005_worker_001,462,470,8
+2000-01-01 00:07:50,2000-01-01 00:08:05,tap pins into place with hammer,motor labeling and nameplate attachment,factory_005,worker_001,factory005_worker001_00000.csv,factory_005_worker_001,470,485,15
+2000-01-01 00:08:05,2000-01-01 00:08:15,position metallic nameplate on motor housing,motor labeling and nameplate attachment,factory_005,worker_001,factory005_worker001_00000.csv,factory_005_worker_001,485,495,10
+2000-01-01 00:08:15,2000-01-01 00:08:23,insert holding pins through nameplate,motor labeling and nameplate attachment,factory_005,worker_001,factory005_worker001_00000.csv,factory_005_worker_001,495,503,8
+2000-01-01 00:08:23,2000-01-01 00:08:38,tap pins into place with hammer,motor labeling and nameplate attachment,factory_005,worker_001,factory005_worker001_00000.csv,factory_005_worker_001,503,518,15
+2000-01-01 00:08:38,2000-01-01 00:08:48,position metallic nameplate on motor housing,motor labeling and nameplate attachment,factory_005,worker_001,factory005_worker001_00000.csv,factory_005_worker_001,518,528,10
+2000-01-01 00:08:48,2000-01-01 00:08:56,insert holding pins through nameplate,motor labeling and nameplate attachment,factory_005,worker_001,factory005_worker001_00000.csv,factory_005_worker_001,528,536,8
+2000-01-01 00:08:56,2000-01-01 00:09:11,tap pins into place with hammer,motor labeling and nameplate attachment,factory_005,worker_001,factory005_worker001_00000.csv,factory_005_worker_001,536,551,15
+2000-01-01 00:09:11,2000-01-01 00:09:21,position metallic nameplate on motor housing,motor labeling and nameplate attachment,factory_005,worker_001,factory005_worker001_00000.csv,factory_005_worker_001,551,561,10
+2000-01-01 00:09:21,2000-01-01 00:09:29,insert holding pins through nameplate,motor labeling and nameplate attachment,factory_005,worker_001,factory005_worker001_00000.csv,factory_005_worker_001,561,569,8
+2000-01-01 00:09:29,2000-01-01 00:09:44,tap pins into place with hammer,motor labeling and nameplate attachment,factory_005,worker_001,factory005_worker001_00000.csv,factory_005_worker_001,569,584,15
+2000-01-01 00:09:44,2000-01-01 00:09:54,position metallic nameplate on motor housing,motor labeling and nameplate attachment,factory_005,worker_001,factory005_worker001_00000.csv,factory_005_worker_001,584,594,10
+2000-01-01 00:09:54,2000-01-01 00:10:02,insert holding pins through nameplate,motor labeling and nameplate attachment,factory_005,worker_001,factory005_worker001_00000.csv,factory_005_worker_001,594,602,8
+2000-01-01 00:10:02,2000-01-01 00:10:21,tap pins into place with hammer,motor labeling and nameplate attachment,factory_005,worker_001,factory005_worker001_00000.csv,factory_005_worker_001,602,621,19
+2000-01-01 00:11:45,2000-01-01 00:13:42,transport blue plastic pallets,material transport and logistics,factory_005,worker_001,factory005_worker001_00000.csv,factory_005_worker_001,705,822,117
+2000-01-01 00:13:42,2000-01-01 00:14:15,pull loaded pallet jack across floor,material transport and logistics,factory_005,worker_001,factory005_worker001_00000.csv,factory_005_worker_001,822,855,33
+2000-01-01 00:14:15,2000-01-01 00:15:15,retrieve plastic film roll,finished goods packaging,factory_005,worker_001,factory005_worker001_00000.csv,factory_005_worker_001,855,915,60
+2000-01-01 00:15:15,2000-01-01 00:16:00,gather flat cardboard sheets,finished goods packaging,factory_005,worker_001,factory005_worker001_00000.csv,factory_005_worker_001,915,960,45
+2000-01-01 00:16:00,2000-01-01 00:16:29,fold cardboard box inserts,finished goods packaging,factory_005,worker_001,factory005_worker001_00000.csv,factory_005_worker_001,960,989,29
+2000-01-01 00:16:40,2000-01-01 00:17:15,fold cardboard box inserts,finished goods packaging,factory_005,worker_001,factory005_worker001_00000.csv,factory_005_worker_001,1000,1035,35
+2000-01-01 00:19:38,2000-01-01 00:19:43,load boxed motor onto strapping machine,motor packaging and strapping,factory_005,worker_001,factory005_worker001_00000.csv,factory_005_worker_001,1178,1183,5
+2000-01-01 00:19:43,2000-01-01 00:19:49,feed plastic strap around box,motor packaging and strapping,factory_005,worker_001,factory005_worker001_00000.csv,factory_005_worker_001,1183,1189,6
+2000-01-01 00:19:49,2000-01-01 00:19:54,trigger strapping machine cycle,motor packaging and strapping,factory_005,worker_001,factory005_worker001_00000.csv,factory_005_worker_001,1189,1194,5
+2000-01-01 00:19:54,2000-01-01 00:20:28,thread white string through copper coils,stator coil binding,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,0,34,34
+2000-01-01 00:20:28,2000-01-01 00:21:01,tie securing knots on copper coils,stator coil binding,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,34,67,33
+2000-01-01 00:21:15,2000-01-01 00:21:27,mount coil onto winding machine tooling,automated stator winding,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,81,93,12
+2000-01-01 00:21:27,2000-01-01 00:21:41,slide stator core onto winding machine shaft,automated stator winding,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,93,107,14
+2000-01-01 00:21:41,2000-01-01 00:21:48,unload wound stator from machine,automated stator winding,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,107,114,7
+2000-01-01 00:22:14,2000-01-01 00:22:22,mount coil onto winding machine tooling,automated stator winding,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,140,148,8
+2000-01-01 00:22:22,2000-01-01 00:22:31,slide stator core onto winding machine shaft,automated stator winding,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,148,157,9
+2000-01-01 00:22:31,2000-01-01 00:22:38,unload wound stator from machine,automated stator winding,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,157,164,7
+2000-01-01 00:22:44,2000-01-01 00:22:59,thread white string through copper coils,stator coil binding,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,170,185,15
+2000-01-01 00:22:59,2000-01-01 00:23:14,tie securing knots on copper coils,stator coil binding,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,185,200,15
+2000-01-01 00:23:22,2000-01-01 00:23:28,mount coil onto winding machine tooling,automated stator winding,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,208,214,6
+2000-01-01 00:23:28,2000-01-01 00:23:36,slide stator core onto winding machine shaft,automated stator winding,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,214,222,8
+2000-01-01 00:23:36,2000-01-01 00:23:41,unload wound stator from machine,automated stator winding,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,222,227,5
+2000-01-01 00:23:53,2000-01-01 00:24:10,thread white string through copper coils,stator coil binding,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,239,256,17
+2000-01-01 00:24:10,2000-01-01 00:24:27,tie securing knots on copper coils,stator coil binding,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,256,273,17
+2000-01-01 00:24:36,2000-01-01 00:24:44,mount coil onto winding machine tooling,automated stator winding,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,282,290,8
+2000-01-01 00:24:44,2000-01-01 00:24:54,slide stator core onto winding machine shaft,automated stator winding,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,290,300,10
+2000-01-01 00:24:54,2000-01-01 00:25:00,unload wound stator from machine,automated stator winding,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,300,306,6
+2000-01-01 00:25:19,2000-01-01 00:25:34,tie securing knots on copper coils,stator coil binding,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,325,340,15
+2000-01-01 00:25:42,2000-01-01 00:25:52,mount coil onto winding machine tooling,automated stator winding,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,348,358,10
+2000-01-01 00:25:52,2000-01-01 00:26:03,slide stator core onto winding machine shaft,automated stator winding,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,358,369,11
+2000-01-01 00:26:03,2000-01-01 00:26:15,unload wound stator from machine,automated stator winding,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,369,381,12
+2000-01-01 00:26:22,2000-01-01 00:26:35,thread white string through copper coils,stator coil binding,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,388,401,13
+2000-01-01 00:26:35,2000-01-01 00:26:49,tie securing knots on copper coils,stator coil binding,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,401,415,14
+2000-01-01 00:26:59,2000-01-01 00:27:09,mount coil onto winding machine tooling,automated stator winding,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,425,435,10
+2000-01-01 00:27:09,2000-01-01 00:27:22,slide stator core onto winding machine shaft,automated stator winding,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,435,448,13
+2000-01-01 00:27:22,2000-01-01 00:27:31,unload wound stator from machine,automated stator winding,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,448,457,9
+2000-01-01 00:27:38,2000-01-01 00:28:02,tie securing knots on copper coils,stator coil binding,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,464,488,24
+2000-01-01 00:28:10,2000-01-01 00:28:19,mount coil onto winding machine tooling,automated stator winding,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,496,505,9
+2000-01-01 00:28:19,2000-01-01 00:28:28,slide stator core onto winding machine shaft,automated stator winding,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,505,514,9
+2000-01-01 00:28:28,2000-01-01 00:28:38,unload wound stator from machine,automated stator winding,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,514,524,10
+2000-01-01 00:28:45,2000-01-01 00:29:15,tie securing knots on copper coils,stator coil binding,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,531,561,30
+2000-01-01 00:29:22,2000-01-01 00:29:29,mount coil onto winding machine tooling,automated stator winding,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,568,575,7
+2000-01-01 00:29:29,2000-01-01 00:29:36,slide stator core onto winding machine shaft,automated stator winding,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,575,582,7
+2000-01-01 00:29:36,2000-01-01 00:29:44,unload wound stator from machine,automated stator winding,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,582,590,8
+2000-01-01 00:29:51,2000-01-01 00:30:16,tie securing knots on copper coils,stator coil binding,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,597,622,25
+2000-01-01 00:30:47,2000-01-01 00:31:33,route colored lead wires through stator core,stator lead wire finishing and soldering,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,653,699,46
+2000-01-01 00:31:33,2000-01-01 00:31:54,trim excess wire with scissors,stator lead wire finishing and soldering,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,699,720,21
+2000-01-01 00:31:54,2000-01-01 00:32:22,twist exposed copper wire ends,stator lead wire finishing and soldering,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,720,748,28
+2000-01-01 00:32:22,2000-01-01 00:32:53,seal wire joints with soldering iron,stator lead wire finishing and soldering,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,748,779,31
+2000-01-01 00:33:07,2000-01-01 00:33:42,lace copper end turns with string,stator coil binding,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,793,828,35
+2000-01-01 00:33:42,2000-01-01 00:34:16,push insulating wedges into stator slots,stator coil binding,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,828,862,34
+2000-01-01 00:34:16,2000-01-01 00:34:49,trim excess insulating paper,stator coil binding,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,862,895,33
+2000-01-01 00:34:49,2000-01-01 00:35:11,connect stator lead wires to testing panel,stator lead wire finishing and soldering,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,895,917,22
+2000-01-01 00:35:11,2000-01-01 00:35:40,verify electrical connection via indicator lights,stator lead wire finishing and soldering,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,917,946,29
+2000-01-01 00:35:54,2000-01-01 00:36:29,route colored lead wires through stator core,stator lead wire finishing and soldering,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,960,995,35
+2000-01-01 00:36:29,2000-01-01 00:37:09,burn off enamel wire coating with lighter,stator lead wire finishing and soldering,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,995,1035,40
+2000-01-01 00:37:09,2000-01-01 00:37:36,slide insulating sleeves over wires,stator lead wire finishing and soldering,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,1035,1062,27
+2000-01-01 00:37:36,2000-01-01 00:37:57,seal wire joints with soldering iron,stator lead wire finishing and soldering,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,1062,1083,21
+2000-01-01 00:37:57,2000-01-01 00:38:32,lace copper end turns with string,stator coil binding,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,1083,1118,35
+2000-01-01 00:38:32,2000-01-01 00:39:01,push insulating wedges into stator slots,stator coil binding,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,1118,1147,29
+2000-01-01 00:39:01,2000-01-01 00:39:18,connect stator lead wires to testing panel,stator lead wire finishing and soldering,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,1147,1164,17
+2000-01-01 00:39:18,2000-01-01 00:39:34,verify electrical connection via indicator lights,stator lead wire finishing and soldering,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,1164,1180,16
+2000-01-01 00:39:34,2000-01-01 00:39:54,press copper windings into tight pack,stator coil binding,factory_005,worker_001,factory005_worker001_00001.csv,factory_005_worker_001,1180,1200,20
+2000-01-01 00:39:54,2000-01-01 00:40:04,press copper windings into tight pack,semi-automatic stator wire insertion,factory_005,worker_001,factory005_worker001_00002.csv,factory_005_worker_001,0,10,10
+2000-01-01 00:40:04,2000-01-01 00:40:08,unload wound stator from machine,semi-automatic stator wire insertion,factory_005,worker_001,factory005_worker001_00002.csv,factory_005_worker_001,10,14,4
+2000-01-01 00:40:11,2000-01-01 00:40:16,slide stator core onto winding machine shaft,automated stator winding,factory_005,worker_001,factory005_worker001_00002.csv,factory_005_worker_001,17,22,5
+2000-01-01 00:40:16,2000-01-01 00:40:26,thread copper wire into stator fixture,automated stator winding,factory_005,worker_001,factory005_worker001_00002.csv,factory_005_worker_001,22,32,10
+2000-01-01 00:40:26,2000-01-01 00:40:29,unload wound stator from machine,automated stator winding,factory_005,worker_001,factory005_worker001_00002.csv,factory_005_worker_001,32,35,3
+2000-01-01 00:40:32,2000-01-01 00:40:35,slide stator core onto winding machine shaft,semi-automatic stator wire insertion,factory_005,worker_001,factory005_worker001_00002.csv,factory_005_worker_001,38,41,3
+2000-01-01 00:40:35,2000-01-01 00:40:37,thread copper wire into stator fixture,semi-automatic stator wire insertion,factory_005,worker_001,factory005_worker001_00002.csv,factory_005_worker_001,41,43,2
+2000-01-01 00:40:37,2000-01-01 00:41:00,pack twisted wire loops into stator slots,semi-automatic stator wire insertion,factory_005,worker_001,factory005_worker001_00002.csv,factory_005_worker_001,43,66,23
+2000-01-01 00:41:00,2000-01-01 00:41:03,unload wound stator from machine,semi-automatic stator wire insertion,factory_005,worker_001,factory005_worker001_00002.csv,factory_005_worker_001,66,69,3
+2000-01-01 00:41:04,2000-01-01 00:41:06,trim excess wire with scissors,semi-automatic stator wire insertion,factory_005,worker_001,factory005_worker001_00002.csv,factory_005_worker_001,70,72,2
+2000-01-01 00:41:06,2000-01-01 00:41:10,brush metal shavings off lathe tool post,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,0,4,4
+2000-01-01 00:41:10,2000-01-01 00:41:16,polish spinning metal part with raw swarf,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,4,10,6
+2000-01-01 00:41:16,2000-01-01 00:41:21,mount unmachined part into lathe chuck,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,10,15,5
+2000-01-01 00:41:21,2000-01-01 00:41:29,spin lathe chuck manually for alignment,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,15,23,8
+2000-01-01 00:41:29,2000-01-01 00:41:52,tighten lathe chuck bolts with spanner,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,23,46,23
+2000-01-01 00:41:52,2000-01-01 00:42:00,spin lathe chuck manually for alignment,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,46,54,8
+2000-01-01 00:42:00,2000-01-01 00:42:06,engage lathe spindle rotation,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,54,60,6
+2000-01-01 00:42:06,2000-01-01 00:42:19,deburr spinning part edge with metal scraper,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,60,73,13
+2000-01-01 00:42:19,2000-01-01 00:42:29,loosen lathe chuck bolts,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,73,83,10
+2000-01-01 00:42:29,2000-01-01 00:42:34,remove machined part from lathe,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,83,88,5
+2000-01-01 00:42:34,2000-01-01 00:42:48,mount unmachined part into lathe chuck,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,88,102,14
+2000-01-01 00:42:48,2000-01-01 00:43:02,tighten lathe chuck bolts with spanner,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,102,116,14
+2000-01-01 00:43:02,2000-01-01 00:43:16,brush metal shavings off lathe tool post,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,116,130,14
+2000-01-01 00:43:16,2000-01-01 00:43:43,adjust lathe toolpost with hand wrench mid-cut,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,130,157,27
+2000-01-01 00:43:43,2000-01-01 00:43:50,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,157,164,7
+2000-01-01 00:43:50,2000-01-01 00:44:06,deburr spinning part edge with metal scraper,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,164,180,16
+2000-01-01 00:44:06,2000-01-01 00:44:32,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,180,206,26
+2000-01-01 00:44:32,2000-01-01 00:44:38,adjust lathe toolpost with hand wrench mid-cut,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,206,212,6
+2000-01-01 00:44:46,2000-01-01 00:44:50,loosen lathe chuck bolts,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,220,224,4
+2000-01-01 00:44:50,2000-01-01 00:44:53,remove machined part from lathe,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,224,227,3
+2000-01-01 00:44:53,2000-01-01 00:45:03,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,227,237,10
+2000-01-01 00:45:03,2000-01-01 00:45:15,adjust lathe toolpost with hand wrench mid-cut,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,237,249,12
+2000-01-01 00:45:15,2000-01-01 00:45:25,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,249,259,10
+2000-01-01 00:45:36,2000-01-01 00:45:53,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,270,287,17
+2000-01-01 00:45:53,2000-01-01 00:45:59,loosen lathe chuck bolts,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,287,293,6
+2000-01-01 00:45:59,2000-01-01 00:46:04,remove machined part from lathe,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,293,298,5
+2000-01-01 00:46:04,2000-01-01 00:46:14,mount unmachined part into lathe chuck,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,298,308,10
+2000-01-01 00:46:14,2000-01-01 00:46:30,tighten lathe chuck bolts with spanner,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,308,324,16
+2000-01-01 00:46:30,2000-01-01 00:47:05,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,324,359,35
+2000-01-01 00:47:05,2000-01-01 00:47:13,loosen lathe chuck bolts,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,359,367,8
+2000-01-01 00:47:13,2000-01-01 00:47:18,remove machined part from lathe,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,367,372,5
+2000-01-01 00:47:39,2000-01-01 00:47:42,mount unmachined part into lathe chuck,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,393,396,3
+2000-01-01 00:47:42,2000-01-01 00:47:46,tighten lathe chuck bolts with spanner,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,396,400,4
+2000-01-01 00:47:46,2000-01-01 00:48:04,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,400,418,18
+2000-01-01 00:48:04,2000-01-01 00:48:08,loosen lathe chuck bolts,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,418,422,4
+2000-01-01 00:48:08,2000-01-01 00:48:11,remove machined part from lathe,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,422,425,3
+2000-01-01 00:48:11,2000-01-01 00:48:18,mount unmachined part into lathe chuck,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,425,432,7
+2000-01-01 00:48:18,2000-01-01 00:48:28,tighten lathe chuck bolts with spanner,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,432,442,10
+2000-01-01 00:48:28,2000-01-01 00:48:43,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,442,457,15
+2000-01-01 00:48:43,2000-01-01 00:48:49,loosen lathe chuck bolts,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,457,463,6
+2000-01-01 00:48:49,2000-01-01 00:48:54,remove machined part from lathe,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,463,468,5
+2000-01-01 00:48:54,2000-01-01 00:48:58,mount unmachined part into lathe chuck,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,468,472,4
+2000-01-01 00:48:58,2000-01-01 00:49:02,tighten lathe chuck bolts with spanner,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,472,476,4
+2000-01-01 00:49:02,2000-01-01 00:49:09,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,476,483,7
+2000-01-01 00:49:09,2000-01-01 00:49:15,loosen lathe chuck bolts,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,483,489,6
+2000-01-01 00:49:15,2000-01-01 00:49:19,remove machined part from lathe,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,489,493,4
+2000-01-01 00:49:19,2000-01-01 00:49:28,mount unmachined part into lathe chuck,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,493,502,9
+2000-01-01 00:49:28,2000-01-01 00:49:49,tighten lathe chuck bolts with spanner,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,502,523,21
+2000-01-01 00:49:49,2000-01-01 00:49:55,remove machined part from lathe,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,523,529,6
+2000-01-01 00:49:55,2000-01-01 00:50:00,mount unmachined part into lathe chuck,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,529,534,5
+2000-01-01 00:50:00,2000-01-01 00:50:04,tighten lathe chuck bolts with spanner,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,534,538,4
+2000-01-01 00:50:04,2000-01-01 00:50:10,deburr spinning part edge with metal scraper,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,538,544,6
+2000-01-01 00:50:10,2000-01-01 00:50:18,tighten lathe chuck bolts with spanner,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,544,552,8
+2000-01-01 00:50:18,2000-01-01 00:50:31,deburr spinning part edge with metal scraper,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,552,565,13
+2000-01-01 00:50:37,2000-01-01 00:50:42,loosen lathe chuck bolts,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,571,576,5
+2000-01-01 00:50:42,2000-01-01 00:50:47,remove machined part from lathe,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,576,581,5
+2000-01-01 00:50:47,2000-01-01 00:50:53,mount unmachined part into lathe chuck,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,581,587,6
+2000-01-01 00:50:53,2000-01-01 00:51:05,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,587,599,12
+2000-01-01 00:51:05,2000-01-01 00:51:12,tighten lathe chuck bolts with spanner,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,599,606,7
+2000-01-01 00:51:12,2000-01-01 00:51:18,adjust lathe toolpost with hand wrench mid-cut,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,606,612,6
+2000-01-01 00:51:18,2000-01-01 00:51:41,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,612,635,23
+2000-01-01 00:51:41,2000-01-01 00:51:44,loosen lathe chuck bolts,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,635,638,3
+2000-01-01 00:51:44,2000-01-01 00:51:47,remove machined part from lathe,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,638,641,3
+2000-01-01 00:51:47,2000-01-01 00:51:59,brush metal shavings off lathe tool post,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,641,653,12
+2000-01-01 00:51:59,2000-01-01 00:52:10,adjust lathe toolpost with hand wrench mid-cut,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,653,664,11
+2000-01-01 00:52:10,2000-01-01 00:52:25,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,664,679,15
+2000-01-01 00:52:25,2000-01-01 00:52:32,mount unmachined part into lathe chuck,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,679,686,7
+2000-01-01 00:52:32,2000-01-01 00:52:38,tighten lathe chuck bolts with spanner,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,686,692,6
+2000-01-01 00:52:38,2000-01-01 00:52:48,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,692,702,10
+2000-01-01 00:52:48,2000-01-01 00:52:54,loosen lathe chuck bolts,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,702,708,6
+2000-01-01 00:52:54,2000-01-01 00:52:59,remove machined part from lathe,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,708,713,5
+2000-01-01 00:52:59,2000-01-01 00:53:06,adjust lathe toolpost with hand wrench mid-cut,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,713,720,7
+2000-01-01 00:53:06,2000-01-01 00:53:14,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,720,728,8
+2000-01-01 00:53:14,2000-01-01 00:53:22,mount unmachined part into lathe chuck,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,728,736,8
+2000-01-01 00:53:22,2000-01-01 00:53:29,tighten lathe chuck bolts with spanner,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,736,743,7
+2000-01-01 00:53:29,2000-01-01 00:53:41,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,743,755,12
+2000-01-01 00:53:41,2000-01-01 00:53:45,loosen lathe chuck bolts,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,755,759,4
+2000-01-01 00:53:45,2000-01-01 00:53:49,remove machined part from lathe,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,759,763,4
+2000-01-01 00:53:49,2000-01-01 00:53:53,mount unmachined part into lathe chuck,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,763,767,4
+2000-01-01 00:53:53,2000-01-01 00:53:56,tighten lathe chuck bolts with spanner,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,767,770,3
+2000-01-01 00:53:56,2000-01-01 00:54:12,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,770,786,16
+2000-01-01 00:54:12,2000-01-01 00:54:17,loosen lathe chuck bolts,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,786,791,5
+2000-01-01 00:54:17,2000-01-01 00:54:22,remove machined part from lathe,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,791,796,5
+2000-01-01 00:54:22,2000-01-01 00:54:27,mount unmachined part into lathe chuck,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,796,801,5
+2000-01-01 00:54:27,2000-01-01 00:54:31,tighten lathe chuck bolts with spanner,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,801,805,4
+2000-01-01 00:54:31,2000-01-01 00:54:40,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,805,814,9
+2000-01-01 00:54:40,2000-01-01 00:54:44,loosen lathe chuck bolts,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,814,818,4
+2000-01-01 00:54:44,2000-01-01 00:54:48,remove machined part from lathe,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,818,822,4
+2000-01-01 00:54:48,2000-01-01 00:54:52,mount unmachined part into lathe chuck,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,822,826,4
+2000-01-01 00:54:52,2000-01-01 00:54:55,tighten lathe chuck bolts with spanner,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,826,829,3
+2000-01-01 00:54:55,2000-01-01 00:55:08,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,829,842,13
+2000-01-01 00:55:08,2000-01-01 00:55:11,loosen lathe chuck bolts,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,842,845,3
+2000-01-01 00:55:11,2000-01-01 00:55:15,remove machined part from lathe,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,845,849,4
+2000-01-01 00:55:15,2000-01-01 00:55:20,mount unmachined part into lathe chuck,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,849,854,5
+2000-01-01 00:55:20,2000-01-01 00:55:24,tighten lathe chuck bolts with spanner,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,854,858,4
+2000-01-01 00:55:24,2000-01-01 00:55:37,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,858,871,13
+2000-01-01 00:55:37,2000-01-01 00:55:41,loosen lathe chuck bolts,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,871,875,4
+2000-01-01 00:55:41,2000-01-01 00:55:45,remove machined part from lathe,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,875,879,4
+2000-01-01 00:55:45,2000-01-01 00:55:50,mount unmachined part into lathe chuck,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,879,884,5
+2000-01-01 00:55:50,2000-01-01 00:55:54,tighten lathe chuck bolts with spanner,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,884,888,4
+2000-01-01 00:55:54,2000-01-01 00:56:06,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,888,900,12
+2000-01-01 00:56:06,2000-01-01 00:56:11,loosen lathe chuck bolts,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,900,905,5
+2000-01-01 00:56:11,2000-01-01 00:56:16,remove machined part from lathe,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,905,910,5
+2000-01-01 00:56:16,2000-01-01 00:56:20,mount unmachined part into lathe chuck,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,910,914,4
+2000-01-01 00:56:20,2000-01-01 00:56:24,tighten lathe chuck bolts with spanner,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,914,918,4
+2000-01-01 00:56:24,2000-01-01 00:56:41,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,918,935,17
+2000-01-01 00:56:41,2000-01-01 00:56:44,loosen lathe chuck bolts,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,935,938,3
+2000-01-01 00:56:44,2000-01-01 00:56:48,remove machined part from lathe,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,938,942,4
+2000-01-01 00:56:48,2000-01-01 00:56:53,mount unmachined part into lathe chuck,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,942,947,5
+2000-01-01 00:56:53,2000-01-01 00:56:58,tighten lathe chuck bolts with spanner,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,947,952,5
+2000-01-01 00:56:58,2000-01-01 00:57:09,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,952,963,11
+2000-01-01 00:57:09,2000-01-01 00:57:13,loosen lathe chuck bolts,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,963,967,4
+2000-01-01 00:57:13,2000-01-01 00:57:17,remove machined part from lathe,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,967,971,4
+2000-01-01 00:57:17,2000-01-01 00:57:21,mount unmachined part into lathe chuck,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,971,975,4
+2000-01-01 00:57:21,2000-01-01 00:57:26,tighten lathe chuck bolts with spanner,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,975,980,5
+2000-01-01 00:57:26,2000-01-01 00:57:38,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,980,992,12
+2000-01-01 00:57:38,2000-01-01 00:57:43,loosen lathe chuck bolts,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,992,997,5
+2000-01-01 00:57:43,2000-01-01 00:57:48,remove machined part from lathe,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,997,1002,5
+2000-01-01 00:57:48,2000-01-01 00:57:53,mount unmachined part into lathe chuck,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,1002,1007,5
+2000-01-01 00:57:53,2000-01-01 00:57:57,tighten lathe chuck bolts with spanner,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,1007,1011,4
+2000-01-01 00:57:57,2000-01-01 00:58:10,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,1011,1024,13
+2000-01-01 00:58:10,2000-01-01 00:58:15,loosen lathe chuck bolts,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,1024,1029,5
+2000-01-01 00:58:15,2000-01-01 00:58:21,remove machined part from lathe,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,1029,1035,6
+2000-01-01 00:58:21,2000-01-01 00:58:27,mount unmachined part into lathe chuck,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,1035,1041,6
+2000-01-01 00:58:27,2000-01-01 00:58:32,tighten lathe chuck bolts with spanner,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,1041,1046,5
+2000-01-01 00:58:32,2000-01-01 00:58:43,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,1046,1057,11
+2000-01-01 00:58:43,2000-01-01 00:58:47,loosen lathe chuck bolts,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,1057,1061,4
+2000-01-01 00:58:47,2000-01-01 00:58:52,remove machined part from lathe,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,1061,1066,5
+2000-01-01 00:58:52,2000-01-01 00:58:58,mount unmachined part into lathe chuck,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,1066,1072,6
+2000-01-01 00:58:58,2000-01-01 00:59:04,tighten lathe chuck bolts with spanner,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,1072,1078,6
+2000-01-01 00:59:04,2000-01-01 00:59:13,deburr spinning part edge with metal scraper,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,1078,1087,9
+2000-01-01 00:59:30,2000-01-01 00:59:34,mount unmachined part into lathe chuck,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,1104,1108,4
+2000-01-01 00:59:34,2000-01-01 00:59:37,tighten lathe chuck bolts with spanner,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,1108,1111,3
+2000-01-01 00:59:37,2000-01-01 00:59:47,deburr spinning part edge with metal scraper,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,1111,1121,10
+2000-01-01 00:59:47,2000-01-01 00:59:52,loosen lathe chuck bolts,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,1121,1126,5
+2000-01-01 00:59:52,2000-01-01 00:59:56,remove machined part from lathe,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,1126,1130,4
+2000-01-01 00:59:56,2000-01-01 01:00:00,mount unmachined part into lathe chuck,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,1130,1134,4
+2000-01-01 01:00:00,2000-01-01 01:00:04,tighten lathe chuck bolts with spanner,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,1134,1138,4
+2000-01-01 01:00:04,2000-01-01 01:00:18,deburr spinning part edge with metal scraper,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,1138,1152,14
+2000-01-01 01:00:18,2000-01-01 01:00:23,loosen lathe chuck bolts,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,1152,1157,5
+2000-01-01 01:00:23,2000-01-01 01:00:28,remove machined part from lathe,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,1157,1162,5
+2000-01-01 01:00:28,2000-01-01 01:00:33,mount unmachined part into lathe chuck,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,1162,1167,5
+2000-01-01 01:00:33,2000-01-01 01:00:38,tighten lathe chuck bolts with spanner,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,1167,1172,5
+2000-01-01 01:00:38,2000-01-01 01:00:54,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,1172,1188,16
+2000-01-01 01:00:54,2000-01-01 01:01:00,adjust lathe toolpost with hand wrench mid-cut,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,1188,1194,6
+2000-01-01 01:01:00,2000-01-01 01:01:06,brush metal shavings off lathe tool post,manual lathe machining,factory_005,worker_001,factory005_worker001_00003.csv,factory_005_worker_001,1194,1200,6

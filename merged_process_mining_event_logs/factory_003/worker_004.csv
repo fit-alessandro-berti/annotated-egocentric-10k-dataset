@@ -1,0 +1,198 @@
+start_timestamp,end_timestamp,activity,process,factory,worker,source_file,case_id,start_seconds_from_video_start,end_seconds_from_video_start,duration_seconds
+2000-01-01 00:00:15,2000-01-01 00:00:50,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00000.csv,factory_003_worker_004,15,50,35
+2000-01-01 00:00:50,2000-01-01 00:01:00,rub white powder into metal component,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00000.csv,factory_003_worker_004,50,60,10
+2000-01-01 00:01:00,2000-01-01 00:01:33,apply paste with brush,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00000.csv,factory_003_worker_004,60,93,33
+2000-01-01 00:01:38,2000-01-01 00:02:22,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00000.csv,factory_003_worker_004,98,142,44
+2000-01-01 00:02:22,2000-01-01 00:02:33,rub white powder into metal component,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00000.csv,factory_003_worker_004,142,153,11
+2000-01-01 00:02:33,2000-01-01 00:03:12,apply paste with brush,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00000.csv,factory_003_worker_004,153,192,39
+2000-01-01 00:03:12,2000-01-01 00:04:09,wipe excess paste with cloth,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00000.csv,factory_003_worker_004,192,249,57
+2000-01-01 00:04:09,2000-01-01 00:04:49,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00000.csv,factory_003_worker_004,249,289,40
+2000-01-01 00:04:49,2000-01-01 00:04:59,rub white powder into metal component,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00000.csv,factory_003_worker_004,289,299,10
+2000-01-01 00:04:59,2000-01-01 00:05:37,apply paste with brush,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00000.csv,factory_003_worker_004,299,337,38
+2000-01-01 00:05:37,2000-01-01 00:06:28,wipe excess paste with cloth,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00000.csv,factory_003_worker_004,337,388,51
+2000-01-01 00:06:28,2000-01-01 00:06:58,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00000.csv,factory_003_worker_004,388,418,30
+2000-01-01 00:06:58,2000-01-01 00:07:29,apply paste with brush,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00000.csv,factory_003_worker_004,418,449,31
+2000-01-01 00:07:29,2000-01-01 00:08:09,wipe excess paste with cloth,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00000.csv,factory_003_worker_004,449,489,40
+2000-01-01 00:08:09,2000-01-01 00:08:40,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00000.csv,factory_003_worker_004,489,520,31
+2000-01-01 00:08:40,2000-01-01 00:09:18,apply paste with brush,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00000.csv,factory_003_worker_004,520,558,38
+2000-01-01 00:09:18,2000-01-01 00:10:04,wipe excess paste with cloth,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00000.csv,factory_003_worker_004,558,604,46
+2000-01-01 00:10:04,2000-01-01 00:10:22,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00000.csv,factory_003_worker_004,604,622,18
+2000-01-01 00:10:22,2000-01-01 00:10:41,apply paste with brush,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00000.csv,factory_003_worker_004,622,641,19
+2000-01-01 00:10:41,2000-01-01 00:11:07,wipe excess paste with cloth,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00000.csv,factory_003_worker_004,641,667,26
+2000-01-01 00:11:07,2000-01-01 00:11:18,apply paste with brush,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00000.csv,factory_003_worker_004,667,678,11
+2000-01-01 00:11:18,2000-01-01 00:11:30,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00000.csv,factory_003_worker_004,678,690,12
+2000-01-01 00:11:30,2000-01-01 00:11:39,apply paste with brush,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00000.csv,factory_003_worker_004,690,699,9
+2000-01-01 00:11:39,2000-01-01 00:12:00,wipe excess paste with cloth,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00000.csv,factory_003_worker_004,699,720,21
+2000-01-01 00:12:00,2000-01-01 00:12:17,apply paste with brush,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00000.csv,factory_003_worker_004,720,737,17
+2000-01-01 00:12:17,2000-01-01 00:12:31,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00000.csv,factory_003_worker_004,737,751,14
+2000-01-01 00:12:31,2000-01-01 00:12:51,wipe excess paste with cloth,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00000.csv,factory_003_worker_004,751,771,20
+2000-01-01 00:12:51,2000-01-01 00:13:19,apply paste with brush,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00000.csv,factory_003_worker_004,771,799,28
+2000-01-01 00:13:19,2000-01-01 00:14:37,wipe excess paste with cloth,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00000.csv,factory_003_worker_004,799,877,78
+2000-01-01 00:14:37,2000-01-01 00:14:51,apply paste with brush,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00000.csv,factory_003_worker_004,877,891,14
+2000-01-01 00:14:51,2000-01-01 00:15:03,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00000.csv,factory_003_worker_004,891,903,12
+2000-01-01 00:15:03,2000-01-01 00:15:10,apply paste with brush,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00000.csv,factory_003_worker_004,903,910,7
+2000-01-01 00:15:10,2000-01-01 00:15:32,wipe excess paste with cloth,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00000.csv,factory_003_worker_004,910,932,22
+2000-01-01 00:15:32,2000-01-01 00:15:45,apply paste with brush,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00000.csv,factory_003_worker_004,932,945,13
+2000-01-01 00:15:45,2000-01-01 00:16:16,wipe excess paste with cloth,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00000.csv,factory_003_worker_004,945,976,31
+2000-01-01 00:16:48,2000-01-01 00:17:03,blow debris with compressed air gun,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00000.csv,factory_003_worker_004,1008,1023,15
+2000-01-01 00:17:03,2000-01-01 00:17:25,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00000.csv,factory_003_worker_004,1023,1045,22
+2000-01-01 00:17:25,2000-01-01 00:17:47,apply paste with brush,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00000.csv,factory_003_worker_004,1045,1067,22
+2000-01-01 00:17:47,2000-01-01 00:18:14,wipe excess paste with cloth,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00000.csv,factory_003_worker_004,1067,1094,27
+2000-01-01 00:18:14,2000-01-01 00:18:36,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00000.csv,factory_003_worker_004,1094,1116,22
+2000-01-01 00:18:36,2000-01-01 00:18:50,rub white powder into metal component,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00000.csv,factory_003_worker_004,1116,1130,14
+2000-01-01 00:18:50,2000-01-01 00:19:12,wipe excess paste with cloth,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00000.csv,factory_003_worker_004,1130,1152,22
+2000-01-01 00:19:12,2000-01-01 00:19:27,apply paste with brush,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00000.csv,factory_003_worker_004,1152,1167,15
+2000-01-01 00:19:27,2000-01-01 00:20:00,wipe excess paste with cloth,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00000.csv,factory_003_worker_004,1167,1200,33
+2000-01-01 00:20:00,2000-01-01 00:25:14,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00001.csv,factory_003_worker_004,0,314,314
+2000-01-01 00:25:14,2000-01-01 00:32:44,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00001.csv,factory_003_worker_004,314,764,450
+2000-01-01 00:32:56,2000-01-01 00:33:06,blow debris with compressed air gun,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00001.csv,factory_003_worker_004,776,786,10
+2000-01-01 00:33:17,2000-01-01 00:40:00,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00001.csv,factory_003_worker_004,797,1200,403
+2000-01-01 00:40:00,2000-01-01 00:40:26,scrape component surface with metal tool,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,0,26,26
+2000-01-01 00:40:28,2000-01-01 00:40:57,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,28,57,29
+2000-01-01 00:40:57,2000-01-01 00:41:23,scrape component surface with metal tool,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,57,83,26
+2000-01-01 00:41:23,2000-01-01 00:41:31,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,83,91,8
+2000-01-01 00:41:31,2000-01-01 00:41:38,scrape component surface with metal tool,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,91,98,7
+2000-01-01 00:41:38,2000-01-01 00:41:54,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,98,114,16
+2000-01-01 00:41:54,2000-01-01 00:42:08,scrape component surface with metal tool,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,114,128,14
+2000-01-01 00:42:08,2000-01-01 00:42:22,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,128,142,14
+2000-01-01 00:42:22,2000-01-01 00:42:28,scrape component surface with metal tool,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,142,148,6
+2000-01-01 00:42:28,2000-01-01 00:42:36,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,148,156,8
+2000-01-01 00:42:36,2000-01-01 00:42:48,scrape component surface with metal tool,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,156,168,12
+2000-01-01 00:42:58,2000-01-01 00:43:08,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,178,188,10
+2000-01-01 00:43:08,2000-01-01 00:43:22,scrape component surface with metal tool,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,188,202,14
+2000-01-01 00:43:22,2000-01-01 00:43:32,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,202,212,10
+2000-01-01 00:43:32,2000-01-01 00:43:47,scrape component surface with metal tool,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,212,227,15
+2000-01-01 00:43:47,2000-01-01 00:43:55,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,227,235,8
+2000-01-01 00:43:55,2000-01-01 00:44:13,scrape component surface with metal tool,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,235,253,18
+2000-01-01 00:44:13,2000-01-01 00:44:22,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,253,262,9
+2000-01-01 00:44:22,2000-01-01 00:44:30,scrape component surface with metal tool,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,262,270,8
+2000-01-01 00:44:30,2000-01-01 00:44:37,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,270,277,7
+2000-01-01 00:44:37,2000-01-01 00:44:47,scrape component surface with metal tool,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,277,287,10
+2000-01-01 00:44:47,2000-01-01 00:44:54,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,287,294,7
+2000-01-01 00:44:54,2000-01-01 00:45:07,scrape component surface with metal tool,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,294,307,13
+2000-01-01 00:45:07,2000-01-01 00:45:14,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,307,314,7
+2000-01-01 00:45:14,2000-01-01 00:45:22,scrape component surface with metal tool,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,314,322,8
+2000-01-01 00:45:34,2000-01-01 00:45:46,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,334,346,12
+2000-01-01 00:45:46,2000-01-01 00:46:05,scrape component surface with metal tool,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,346,365,19
+2000-01-01 00:46:05,2000-01-01 00:46:13,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,365,373,8
+2000-01-01 00:46:13,2000-01-01 00:46:27,scrape component surface with metal tool,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,373,387,14
+2000-01-01 00:46:27,2000-01-01 00:46:33,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,387,393,6
+2000-01-01 00:46:33,2000-01-01 00:46:48,scrape component surface with metal tool,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,393,408,15
+2000-01-01 00:46:48,2000-01-01 00:46:56,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,408,416,8
+2000-01-01 00:46:56,2000-01-01 00:47:08,scrape component surface with metal tool,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,416,428,12
+2000-01-01 00:47:08,2000-01-01 00:47:15,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,428,435,7
+2000-01-01 00:47:15,2000-01-01 00:47:22,scrape component surface with metal tool,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,435,442,7
+2000-01-01 00:47:22,2000-01-01 00:47:29,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,442,449,7
+2000-01-01 00:47:29,2000-01-01 00:47:44,scrape component surface with metal tool,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,449,464,15
+2000-01-01 00:48:00,2000-01-01 00:48:14,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,480,494,14
+2000-01-01 00:48:14,2000-01-01 00:48:29,scrape component surface with metal tool,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,494,509,15
+2000-01-01 00:48:29,2000-01-01 00:48:35,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,509,515,6
+2000-01-01 00:48:35,2000-01-01 00:48:52,scrape component surface with metal tool,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,515,532,17
+2000-01-01 00:48:52,2000-01-01 00:48:59,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,532,539,7
+2000-01-01 00:49:12,2000-01-01 00:49:17,blow debris with compressed air gun,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,552,557,5
+2000-01-01 00:49:17,2000-01-01 00:49:27,scrape component surface with metal tool,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,557,567,10
+2000-01-01 00:49:27,2000-01-01 00:49:34,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,567,574,7
+2000-01-01 00:49:34,2000-01-01 00:49:48,scrape component surface with metal tool,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,574,588,14
+2000-01-01 00:49:48,2000-01-01 00:49:55,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,588,595,7
+2000-01-01 00:49:55,2000-01-01 00:50:09,scrape component surface with metal tool,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,595,609,14
+2000-01-01 00:50:09,2000-01-01 00:50:15,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,609,615,6
+2000-01-01 00:50:15,2000-01-01 00:50:29,scrape component surface with metal tool,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,615,629,14
+2000-01-01 00:50:29,2000-01-01 00:50:35,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,629,635,6
+2000-01-01 00:50:35,2000-01-01 00:50:52,scrape component surface with metal tool,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,635,652,17
+2000-01-01 00:50:52,2000-01-01 00:50:59,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,652,659,7
+2000-01-01 00:50:59,2000-01-01 00:51:06,scrape component surface with metal tool,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,659,666,7
+2000-01-01 00:51:06,2000-01-01 00:51:15,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,666,675,9
+2000-01-01 00:51:15,2000-01-01 00:51:27,scrape component surface with metal tool,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,675,687,12
+2000-01-01 00:51:38,2000-01-01 00:51:49,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,698,709,11
+2000-01-01 00:51:49,2000-01-01 00:52:04,scrape component surface with metal tool,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,709,724,15
+2000-01-01 00:52:04,2000-01-01 00:52:12,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,724,732,8
+2000-01-01 00:52:12,2000-01-01 00:52:28,scrape component surface with metal tool,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,732,748,16
+2000-01-01 00:52:28,2000-01-01 00:52:35,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,748,755,7
+2000-01-01 00:52:35,2000-01-01 00:52:49,scrape component surface with metal tool,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,755,769,14
+2000-01-01 00:52:49,2000-01-01 00:52:56,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,769,776,7
+2000-01-01 00:52:56,2000-01-01 00:53:06,scrape component surface with metal tool,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,776,786,10
+2000-01-01 00:53:06,2000-01-01 00:53:16,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,786,796,10
+2000-01-01 00:53:16,2000-01-01 00:53:28,scrape component surface with metal tool,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,796,808,12
+2000-01-01 00:53:28,2000-01-01 00:53:38,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,808,818,10
+2000-01-01 00:53:38,2000-01-01 00:53:51,scrape component surface with metal tool,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,818,831,13
+2000-01-01 00:54:02,2000-01-01 00:54:13,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,842,853,11
+2000-01-01 00:54:13,2000-01-01 00:54:31,scrape component surface with metal tool,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,853,871,18
+2000-01-01 00:54:31,2000-01-01 00:54:38,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,871,878,7
+2000-01-01 00:54:38,2000-01-01 00:54:55,scrape component surface with metal tool,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,878,895,17
+2000-01-01 00:54:55,2000-01-01 00:55:01,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,895,901,6
+2000-01-01 00:55:01,2000-01-01 00:55:15,scrape component surface with metal tool,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,901,915,14
+2000-01-01 00:55:15,2000-01-01 00:55:24,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,915,924,9
+2000-01-01 00:55:24,2000-01-01 00:55:38,scrape component surface with metal tool,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,924,938,14
+2000-01-01 00:55:38,2000-01-01 00:55:45,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,938,945,7
+2000-01-01 00:55:45,2000-01-01 00:55:56,scrape component surface with metal tool,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,945,956,11
+2000-01-01 00:55:56,2000-01-01 00:56:05,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,956,965,9
+2000-01-01 00:56:05,2000-01-01 00:56:16,scrape component surface with metal tool,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,965,976,11
+2000-01-01 00:56:26,2000-01-01 00:56:36,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,986,996,10
+2000-01-01 00:56:36,2000-01-01 00:56:50,scrape component surface with metal tool,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,996,1010,14
+2000-01-01 00:56:50,2000-01-01 00:57:00,blow debris with compressed air gun,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,1010,1020,10
+2000-01-01 00:57:00,2000-01-01 00:57:06,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,1020,1026,6
+2000-01-01 00:57:06,2000-01-01 00:57:21,scrape component surface with metal tool,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,1026,1041,15
+2000-01-01 00:57:21,2000-01-01 00:57:28,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,1041,1048,7
+2000-01-01 00:57:28,2000-01-01 00:57:42,scrape component surface with metal tool,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,1048,1062,14
+2000-01-01 00:57:42,2000-01-01 00:57:49,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,1062,1069,7
+2000-01-01 00:57:49,2000-01-01 00:58:03,scrape component surface with metal tool,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,1069,1083,14
+2000-01-01 00:58:03,2000-01-01 00:58:10,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,1083,1090,7
+2000-01-01 00:58:10,2000-01-01 00:58:23,scrape component surface with metal tool,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,1090,1103,13
+2000-01-01 00:58:23,2000-01-01 00:58:31,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,1103,1111,8
+2000-01-01 00:58:31,2000-01-01 00:58:41,scrape component surface with metal tool,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,1111,1121,10
+2000-01-01 00:58:41,2000-01-01 00:58:47,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,1121,1127,6
+2000-01-01 00:58:47,2000-01-01 00:58:53,scrape component surface with metal tool,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,1127,1133,6
+2000-01-01 00:58:53,2000-01-01 00:58:58,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,1133,1138,5
+2000-01-01 00:58:58,2000-01-01 00:59:10,wipe excess paste with cloth,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,1138,1150,12
+2000-01-01 00:59:10,2000-01-01 00:59:15,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,1150,1155,5
+2000-01-01 00:59:15,2000-01-01 00:59:26,scrape component surface with metal tool,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,1155,1166,11
+2000-01-01 00:59:36,2000-01-01 00:59:47,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,1176,1187,11
+2000-01-01 00:59:47,2000-01-01 01:00:02,scrape component surface with metal tool,Defect patching,factory_003,worker_004,factory003_worker004_00002.csv,factory_003_worker_004,1187,1202,15
+2000-01-01 01:00:02,2000-01-01 01:01:07,rub white powder into metal component,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00003.csv,factory_003_worker_004,0,65,65
+2000-01-01 01:01:07,2000-01-01 01:01:19,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00003.csv,factory_003_worker_004,65,77,12
+2000-01-01 01:01:19,2000-01-01 01:04:18,fill metal gap with dark clay,Defect patching,factory_003,worker_004,factory003_worker004_00003.csv,factory_003_worker_004,77,256,179
+2000-01-01 01:04:18,2000-01-01 01:04:27,retrieve raw material from floor-level box,Defect patching,factory_003,worker_004,factory003_worker004_00003.csv,factory_003_worker_004,256,265,9
+2000-01-01 01:04:27,2000-01-01 01:05:05,fill metal gap with dark clay,Defect patching,factory_003,worker_004,factory003_worker004_00003.csv,factory_003_worker_004,265,303,38
+2000-01-01 01:05:05,2000-01-01 01:05:15,retrieve raw material from floor-level box,Defect patching,factory_003,worker_004,factory003_worker004_00003.csv,factory_003_worker_004,303,313,10
+2000-01-01 01:05:15,2000-01-01 01:05:24,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00003.csv,factory_003_worker_004,313,322,9
+2000-01-01 01:05:24,2000-01-01 01:06:19,fill metal gap with dark clay,Defect patching,factory_003,worker_004,factory003_worker004_00003.csv,factory_003_worker_004,322,377,55
+2000-01-01 01:06:19,2000-01-01 01:06:31,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00003.csv,factory_003_worker_004,377,389,12
+2000-01-01 01:06:31,2000-01-01 01:07:02,fill metal gap with dark clay,Defect patching,factory_003,worker_004,factory003_worker004_00003.csv,factory_003_worker_004,389,420,31
+2000-01-01 01:07:02,2000-01-01 01:07:24,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00003.csv,factory_003_worker_004,420,442,22
+2000-01-01 01:07:36,2000-01-01 01:07:46,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00003.csv,factory_003_worker_004,454,464,10
+2000-01-01 01:07:46,2000-01-01 01:08:17,fill metal gap with dark clay,Defect patching,factory_003,worker_004,factory003_worker004_00003.csv,factory_003_worker_004,464,495,31
+2000-01-01 01:08:17,2000-01-01 01:08:43,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00003.csv,factory_003_worker_004,495,521,26
+2000-01-01 01:08:43,2000-01-01 01:09:00,fill metal gap with dark clay,Defect patching,factory_003,worker_004,factory003_worker004_00003.csv,factory_003_worker_004,521,538,17
+2000-01-01 01:09:00,2000-01-01 01:09:10,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00003.csv,factory_003_worker_004,538,548,10
+2000-01-01 01:09:10,2000-01-01 01:09:20,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00003.csv,factory_003_worker_004,548,558,10
+2000-01-01 01:09:20,2000-01-01 01:09:44,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00003.csv,factory_003_worker_004,558,582,24
+2000-01-01 01:10:06,2000-01-01 01:10:19,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00003.csv,factory_003_worker_004,604,617,13
+2000-01-01 01:10:19,2000-01-01 01:10:35,fill metal gap with dark clay,Defect patching,factory_003,worker_004,factory003_worker004_00003.csv,factory_003_worker_004,617,633,16
+2000-01-01 01:10:35,2000-01-01 01:10:45,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00003.csv,factory_003_worker_004,633,643,10
+2000-01-01 01:10:51,2000-01-01 01:11:05,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00003.csv,factory_003_worker_004,649,663,14
+2000-01-01 01:11:05,2000-01-01 01:11:26,fill metal gap with dark clay,Defect patching,factory_003,worker_004,factory003_worker004_00003.csv,factory_003_worker_004,663,684,21
+2000-01-01 01:11:26,2000-01-01 01:11:36,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00003.csv,factory_003_worker_004,684,694,10
+2000-01-01 01:11:42,2000-01-01 01:11:58,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00003.csv,factory_003_worker_004,700,716,16
+2000-01-01 01:11:58,2000-01-01 01:12:24,fill metal gap with dark clay,Defect patching,factory_003,worker_004,factory003_worker004_00003.csv,factory_003_worker_004,716,742,26
+2000-01-01 01:12:24,2000-01-01 01:12:37,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00003.csv,factory_003_worker_004,742,755,13
+2000-01-01 01:13:16,2000-01-01 01:13:47,transport loaded tray to storage rack,Inventory verification,factory_003,worker_004,factory003_worker004_00003.csv,factory_003_worker_004,794,825,31
+2000-01-01 01:14:04,2000-01-01 01:20:02,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00003.csv,factory_003_worker_004,842,1200,358
+2000-01-01 01:20:02,2000-01-01 01:20:55,rub white powder into metal component,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00004.csv,factory_003_worker_004,0,53,53
+2000-01-01 01:21:29,2000-01-01 01:21:40,view digital instruction on smartphone,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00004.csv,factory_003_worker_004,87,98,11
+2000-01-01 01:22:58,2000-01-01 01:23:10,view digital instruction on smartphone,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00004.csv,factory_003_worker_004,176,188,12
+2000-01-01 01:24:48,2000-01-01 01:25:01,view digital instruction on smartphone,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00004.csv,factory_003_worker_004,286,299,13
+2000-01-01 01:25:40,2000-01-01 01:29:12,rub white powder into metal component,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00004.csv,factory_003_worker_004,338,550,212
+2000-01-01 01:29:12,2000-01-01 01:40:02,apply paste with brush,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00004.csv,factory_003_worker_004,550,1200,650
+2000-01-01 01:40:02,2000-01-01 01:47:25,apply paste with brush,Defect patching,factory_003,worker_004,factory003_worker004_00005.csv,factory_003_worker_004,0,443,443
+2000-01-01 01:47:30,2000-01-01 01:50:55,file component edges,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00005.csv,factory_003_worker_004,448,653,205
+2000-01-01 01:51:08,2000-01-01 01:51:15,file component edges,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00005.csv,factory_003_worker_004,666,673,7
+2000-01-01 01:51:21,2000-01-01 01:52:12,file component edges,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00005.csv,factory_003_worker_004,679,730,51
+2000-01-01 01:52:17,2000-01-01 01:54:07,file component edges,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00005.csv,factory_003_worker_004,735,845,110
+2000-01-01 01:54:15,2000-01-01 01:54:26,blow debris with compressed air gun,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00005.csv,factory_003_worker_004,853,864,11
+2000-01-01 01:54:30,2000-01-01 02:00:02,file component edges,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00005.csv,factory_003_worker_004,868,1200,332
+2000-01-01 02:00:02,2000-01-01 02:03:42,file component edges,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00006.csv,factory_003_worker_004,0,220,220
+2000-01-01 02:03:42,2000-01-01 02:03:59,blow debris with compressed air gun,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00006.csv,factory_003_worker_004,220,237,17
+2000-01-01 02:04:54,2000-01-01 02:17:35,file component edges,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00006.csv,factory_003_worker_004,292,1053,761
+2000-01-01 02:17:35,2000-01-01 02:20:02,apply paste with brush,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00006.csv,factory_003_worker_004,1053,1200,147
+2000-01-01 02:20:02,2000-01-01 02:25:23,apply paste with brush,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00007.csv,factory_003_worker_004,0,321,321
+2000-01-01 02:25:30,2000-01-01 02:39:57,file component edges,Surface finishing and polishing,factory_003,worker_004,factory003_worker004_00007.csv,factory_003_worker_004,328,1195,867

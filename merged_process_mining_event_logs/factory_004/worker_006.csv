@@ -1,0 +1,382 @@
+start_timestamp,end_timestamp,activity,process,factory,worker,source_file,case_id,start_seconds_from_video_start,end_seconds_from_video_start,duration_seconds
+2000-01-01 00:00:00,2000-01-01 00:00:23,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00000.csv,factory_004_worker_006,0,23,23
+2000-01-01 00:00:23,2000-01-01 00:00:33,Calculate production batch on smartphone,Production data logging,factory_004,worker_006,factory004_worker006_00000.csv,factory_004_worker_006,23,33,10
+2000-01-01 00:00:33,2000-01-01 00:00:48,Adjust machine thread tensioner,Machine maintenance,factory_004,worker_006,factory004_worker006_00000.csv,factory_004_worker_006,33,48,15
+2000-01-01 00:00:48,2000-01-01 00:08:33,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00000.csv,factory_004_worker_006,48,513,465
+2000-01-01 00:08:39,2000-01-01 00:15:09,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00000.csv,factory_004_worker_006,519,909,390
+2000-01-01 00:15:15,2000-01-01 00:20:01,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00000.csv,factory_004_worker_006,915,1201,286
+2000-01-01 00:20:01,2000-01-01 00:20:24,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00001.csv,factory_004_worker_006,0,23,23
+2000-01-01 00:20:24,2000-01-01 00:20:31,Grab unsewn fabric from disorganized pile,Material transport,factory_004,worker_006,factory004_worker006_00001.csv,factory_004_worker_006,23,30,7
+2000-01-01 00:20:31,2000-01-01 00:20:52,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00001.csv,factory_004_worker_006,30,51,21
+2000-01-01 00:20:57,2000-01-01 00:24:14,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00001.csv,factory_004_worker_006,56,253,197
+2000-01-01 00:24:14,2000-01-01 00:31:37,Trim raw fabric edge manually,Bulk fabric cutting,factory_004,worker_006,factory004_worker006_00001.csv,factory_004_worker_006,253,696,443
+2000-01-01 00:31:37,2000-01-01 00:32:25,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00001.csv,factory_004_worker_006,696,744,48
+2000-01-01 00:32:25,2000-01-01 00:35:12,Trim raw fabric edge manually,Bulk fabric cutting,factory_004,worker_006,factory004_worker006_00001.csv,factory_004_worker_006,744,911,167
+2000-01-01 00:35:19,2000-01-01 00:35:47,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00001.csv,factory_004_worker_006,918,946,28
+2000-01-01 00:35:47,2000-01-01 00:36:15,Trim raw fabric edge manually,Bulk fabric cutting,factory_004,worker_006,factory004_worker006_00001.csv,factory_004_worker_006,946,974,28
+2000-01-01 00:36:15,2000-01-01 00:36:43,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00001.csv,factory_004_worker_006,974,1002,28
+2000-01-01 00:36:43,2000-01-01 00:37:11,Trim raw fabric edge manually,Bulk fabric cutting,factory_004,worker_006,factory004_worker006_00001.csv,factory_004_worker_006,1002,1030,28
+2000-01-01 00:37:11,2000-01-01 00:37:39,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00001.csv,factory_004_worker_006,1030,1058,28
+2000-01-01 00:37:39,2000-01-01 00:38:07,Trim raw fabric edge manually,Bulk fabric cutting,factory_004,worker_006,factory004_worker006_00001.csv,factory_004_worker_006,1058,1086,28
+2000-01-01 00:38:07,2000-01-01 00:38:35,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00001.csv,factory_004_worker_006,1086,1114,28
+2000-01-01 00:38:35,2000-01-01 00:39:03,Trim raw fabric edge manually,Bulk fabric cutting,factory_004,worker_006,factory004_worker006_00001.csv,factory_004_worker_006,1114,1142,28
+2000-01-01 00:39:03,2000-01-01 00:39:31,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00001.csv,factory_004_worker_006,1142,1170,28
+2000-01-01 00:39:31,2000-01-01 00:40:01,Trim raw fabric edge manually,Bulk fabric cutting,factory_004,worker_006,factory004_worker006_00001.csv,factory_004_worker_006,1170,1200,30
+2000-01-01 00:40:01,2000-01-01 00:40:42,Sew piping onto fabric edge,Piping attachment,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,0,41,41
+2000-01-01 00:40:42,2000-01-01 00:40:44,Snip loose threads with small clippers,Thread trimming,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,41,43,2
+2000-01-01 00:40:44,2000-01-01 00:40:46,Grab unsewn fabric from disorganized pile,Material transport,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,43,45,2
+2000-01-01 00:40:46,2000-01-01 00:40:55,Sew piping onto fabric edge,Piping attachment,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,45,54,9
+2000-01-01 00:40:59,2000-01-01 00:41:25,Sew piping onto fabric edge,Piping attachment,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,58,84,26
+2000-01-01 00:41:25,2000-01-01 00:41:28,Snip loose threads with small clippers,Thread trimming,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,84,87,3
+2000-01-01 00:41:28,2000-01-01 00:41:32,Sew piping onto fabric edge,Piping attachment,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,87,91,4
+2000-01-01 00:41:35,2000-01-01 00:42:23,Sew piping onto fabric edge,Piping attachment,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,94,142,48
+2000-01-01 00:42:23,2000-01-01 00:42:35,Align raw fabric edges by hand,Curvilinear seam joining,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,142,154,12
+2000-01-01 00:42:35,2000-01-01 00:42:47,Join scalloped edge to flat panel,Curvilinear seam joining,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,154,166,12
+2000-01-01 00:42:47,2000-01-01 00:43:00,Snip loose threads with small clippers,Thread trimming,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,166,179,13
+2000-01-01 00:43:00,2000-01-01 00:43:05,Trim raw fabric edge manually,Thread trimming,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,179,184,5
+2000-01-01 00:43:05,2000-01-01 00:43:13,Align raw fabric edges by hand,Curvilinear seam joining,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,184,192,8
+2000-01-01 00:43:13,2000-01-01 00:43:32,Sew short straight seam,Curvilinear seam joining,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,192,211,19
+2000-01-01 00:43:32,2000-01-01 00:43:36,Trim raw fabric edge manually,Thread trimming,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,211,215,4
+2000-01-01 00:43:36,2000-01-01 00:43:40,Align raw fabric edges by hand,Curvilinear seam joining,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,215,219,4
+2000-01-01 00:43:40,2000-01-01 00:43:52,Sew short straight seam,Curvilinear seam joining,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,219,231,12
+2000-01-01 00:43:52,2000-01-01 00:44:04,Align raw fabric edges by hand,Curvilinear seam joining,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,231,243,12
+2000-01-01 00:44:04,2000-01-01 00:44:10,Sew short straight seam,Curvilinear seam joining,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,243,249,6
+2000-01-01 00:44:10,2000-01-01 00:44:19,Thread overlock machine using tweezers,Machine maintenance,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,249,258,9
+2000-01-01 00:44:19,2000-01-01 00:45:05,Sew long straight seam,Curvilinear seam joining,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,258,304,46
+2000-01-01 00:45:05,2000-01-01 00:45:09,Snip loose threads with small clippers,Thread trimming,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,304,308,4
+2000-01-01 00:45:09,2000-01-01 00:45:16,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,308,315,7
+2000-01-01 00:45:16,2000-01-01 00:45:21,Trim raw fabric edge manually,Thread trimming,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,315,320,5
+2000-01-01 00:45:21,2000-01-01 00:45:38,Sew short straight seam,Curvilinear seam joining,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,320,337,17
+2000-01-01 00:45:38,2000-01-01 00:45:41,Adjust machine thread tensioner,Machine maintenance,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,337,340,3
+2000-01-01 00:45:41,2000-01-01 00:46:44,Sew long straight seam,Curvilinear seam joining,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,340,403,63
+2000-01-01 00:46:44,2000-01-01 00:46:49,Snip loose threads with small clippers,Thread trimming,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,403,408,5
+2000-01-01 00:46:49,2000-01-01 00:47:06,Align raw fabric edges by hand,Curvilinear seam joining,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,408,425,17
+2000-01-01 00:47:06,2000-01-01 00:47:09,Trim raw fabric edge manually,Thread trimming,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,425,428,3
+2000-01-01 00:47:09,2000-01-01 00:47:39,Join scalloped edge to flat panel,Curvilinear seam joining,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,428,458,30
+2000-01-01 00:47:39,2000-01-01 00:47:42,Trim raw fabric edge manually,Thread trimming,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,458,461,3
+2000-01-01 00:47:42,2000-01-01 00:47:54,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,461,473,12
+2000-01-01 00:47:54,2000-01-01 00:48:01,Align raw fabric edges by hand,Curvilinear seam joining,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,473,480,7
+2000-01-01 00:48:01,2000-01-01 00:48:25,Sew short straight seam,Curvilinear seam joining,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,480,504,24
+2000-01-01 00:48:25,2000-01-01 00:48:49,Sew long straight seam,Curvilinear seam joining,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,504,528,24
+2000-01-01 00:48:49,2000-01-01 00:48:53,Snip loose threads with small clippers,Thread trimming,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,528,532,4
+2000-01-01 00:48:53,2000-01-01 00:48:57,Align raw fabric edges by hand,Curvilinear seam joining,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,532,536,4
+2000-01-01 00:48:57,2000-01-01 00:49:02,Trim raw fabric edge manually,Thread trimming,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,536,541,5
+2000-01-01 00:49:02,2000-01-01 00:50:42,Sew long straight seam,Curvilinear seam joining,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,541,641,100
+2000-01-01 00:50:42,2000-01-01 00:50:46,Snip loose threads with small clippers,Thread trimming,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,641,645,4
+2000-01-01 00:50:46,2000-01-01 00:51:27,Sew long straight seam,Curvilinear seam joining,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,645,686,41
+2000-01-01 00:51:27,2000-01-01 00:51:30,Align raw fabric edges by hand,Curvilinear seam joining,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,686,689,3
+2000-01-01 00:51:30,2000-01-01 00:51:36,Snip loose threads with small clippers,Thread trimming,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,689,695,6
+2000-01-01 00:51:36,2000-01-01 00:51:46,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,695,705,10
+2000-01-01 00:51:46,2000-01-01 00:51:48,Trim raw fabric edge manually,Thread trimming,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,705,707,2
+2000-01-01 00:51:48,2000-01-01 00:52:26,Sew long straight seam,Curvilinear seam joining,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,707,745,38
+2000-01-01 00:52:26,2000-01-01 00:52:30,Snip loose threads with small clippers,Thread trimming,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,745,749,4
+2000-01-01 00:52:30,2000-01-01 00:53:07,Sew long straight seam,Curvilinear seam joining,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,749,786,37
+2000-01-01 00:53:07,2000-01-01 00:53:14,Snip loose threads with small clippers,Thread trimming,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,786,793,7
+2000-01-01 00:53:14,2000-01-01 00:53:19,Trim raw fabric edge manually,Thread trimming,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,793,798,5
+2000-01-01 00:53:19,2000-01-01 00:53:42,Sew short straight seam,Curvilinear seam joining,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,798,821,23
+2000-01-01 00:53:42,2000-01-01 00:53:47,Snip loose threads with small clippers,Thread trimming,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,821,826,5
+2000-01-01 00:53:47,2000-01-01 00:53:53,Trim raw fabric edge manually,Thread trimming,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,826,832,6
+2000-01-01 00:53:53,2000-01-01 00:54:03,Sew short straight seam,Curvilinear seam joining,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,832,842,10
+2000-01-01 00:54:03,2000-01-01 00:54:07,Align raw fabric edges by hand,Curvilinear seam joining,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,842,846,4
+2000-01-01 00:54:07,2000-01-01 00:54:11,Snip loose threads with small clippers,Thread trimming,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,846,850,4
+2000-01-01 00:54:11,2000-01-01 00:55:12,Sew long straight seam,Curvilinear seam joining,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,850,911,61
+2000-01-01 00:55:12,2000-01-01 00:55:14,Trim raw fabric edge manually,Thread trimming,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,911,913,2
+2000-01-01 00:55:14,2000-01-01 00:55:22,Snip loose threads with small clippers,Thread trimming,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,913,921,8
+2000-01-01 00:55:22,2000-01-01 00:55:36,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,921,935,14
+2000-01-01 00:55:36,2000-01-01 00:55:44,Align raw fabric edges by hand,Curvilinear seam joining,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,935,943,8
+2000-01-01 00:55:44,2000-01-01 00:56:10,Join scalloped edge to flat panel,Curvilinear seam joining,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,943,969,26
+2000-01-01 00:56:22,2000-01-01 00:56:29,Align raw fabric edges by hand,Curvilinear seam joining,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,981,988,7
+2000-01-01 00:56:29,2000-01-01 00:57:01,Sew long straight seam,Curvilinear seam joining,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,988,1020,32
+2000-01-01 00:57:01,2000-01-01 00:57:04,Snip loose threads with small clippers,Thread trimming,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,1020,1023,3
+2000-01-01 00:57:04,2000-01-01 00:57:43,Sew long straight seam,Curvilinear seam joining,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,1023,1062,39
+2000-01-01 00:57:43,2000-01-01 00:57:49,Trim raw fabric edge manually,Thread trimming,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,1062,1068,6
+2000-01-01 00:57:49,2000-01-01 00:58:49,Sew long straight seam,Curvilinear seam joining,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,1068,1128,60
+2000-01-01 00:58:49,2000-01-01 00:58:53,Snip loose threads with small clippers,Thread trimming,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,1128,1132,4
+2000-01-01 00:58:53,2000-01-01 00:59:22,Sew long straight seam,Curvilinear seam joining,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,1132,1161,29
+2000-01-01 00:59:22,2000-01-01 00:59:25,Align raw fabric edges by hand,Curvilinear seam joining,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,1161,1164,3
+2000-01-01 00:59:25,2000-01-01 00:59:34,Snip loose threads with small clippers,Thread trimming,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,1164,1173,9
+2000-01-01 00:59:34,2000-01-01 00:59:38,Trim raw fabric edge manually,Thread trimming,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,1173,1177,4
+2000-01-01 00:59:38,2000-01-01 00:59:49,Sew short straight seam,Curvilinear seam joining,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,1177,1188,11
+2000-01-01 00:59:49,2000-01-01 00:59:52,Snip loose threads with small clippers,Thread trimming,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,1188,1191,3
+2000-01-01 00:59:52,2000-01-01 00:59:55,Grab unsewn fabric from disorganized pile,Material transport,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,1191,1194,3
+2000-01-01 00:59:55,2000-01-01 00:59:58,Unfold raw fabric edges,Curvilinear seam joining,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,1194,1197,3
+2000-01-01 00:59:58,2000-01-01 01:00:01,Align raw fabric edges by hand,Curvilinear seam joining,factory_004,worker_006,factory004_worker006_00002.csv,factory_004_worker_006,1197,1200,3
+2000-01-01 01:00:01,2000-01-01 01:00:07,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,0,6,6
+2000-01-01 01:00:07,2000-01-01 01:00:08,Cut continuous thread chain with scissors,Thread trimming,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,6,7,1
+2000-01-01 01:00:08,2000-01-01 01:00:15,Grab unsewn fabric from disorganized pile,Material transport,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,7,14,7
+2000-01-01 01:00:15,2000-01-01 01:00:18,Snip loose threads with small clippers,Thread trimming,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,14,17,3
+2000-01-01 01:00:18,2000-01-01 01:00:24,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,17,23,6
+2000-01-01 01:00:24,2000-01-01 01:00:37,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,23,36,13
+2000-01-01 01:00:37,2000-01-01 01:00:47,Cut continuous thread chain with scissors,Thread trimming,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,36,46,10
+2000-01-01 01:00:47,2000-01-01 01:00:55,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,46,54,8
+2000-01-01 01:00:55,2000-01-01 01:01:26,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,54,85,31
+2000-01-01 01:01:26,2000-01-01 01:01:32,Cut continuous thread chain with scissors,Thread trimming,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,85,91,6
+2000-01-01 01:01:32,2000-01-01 01:01:47,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,91,106,15
+2000-01-01 01:01:47,2000-01-01 01:01:51,Calculate production batch on smartphone,Production data logging,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,106,110,4
+2000-01-01 01:01:51,2000-01-01 01:01:55,Cut continuous thread chain with scissors,Thread trimming,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,110,114,4
+2000-01-01 01:01:55,2000-01-01 01:02:33,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,114,152,38
+2000-01-01 01:02:33,2000-01-01 01:02:36,Cut continuous thread chain with scissors,Thread trimming,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,152,155,3
+2000-01-01 01:02:36,2000-01-01 01:03:05,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,155,184,29
+2000-01-01 01:03:05,2000-01-01 01:03:09,Calculate production batch on smartphone,Production data logging,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,184,188,4
+2000-01-01 01:03:09,2000-01-01 01:03:13,Cut continuous thread chain with scissors,Thread trimming,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,188,192,4
+2000-01-01 01:03:13,2000-01-01 01:03:27,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,192,206,14
+2000-01-01 01:03:27,2000-01-01 01:03:33,Cut continuous thread chain with scissors,Thread trimming,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,206,212,6
+2000-01-01 01:03:33,2000-01-01 01:03:41,Calculate production batch on smartphone,Production data logging,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,212,220,8
+2000-01-01 01:03:41,2000-01-01 01:03:58,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,220,237,17
+2000-01-01 01:03:58,2000-01-01 01:04:03,Cut continuous thread chain with scissors,Thread trimming,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,237,242,5
+2000-01-01 01:04:03,2000-01-01 01:04:47,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,242,286,44
+2000-01-01 01:04:47,2000-01-01 01:04:51,Cut continuous thread chain with scissors,Thread trimming,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,286,290,4
+2000-01-01 01:04:51,2000-01-01 01:05:20,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,290,319,29
+2000-01-01 01:05:20,2000-01-01 01:05:31,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,319,330,11
+2000-01-01 01:05:31,2000-01-01 01:05:37,Trim raw fabric edge manually,Thread trimming,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,330,336,6
+2000-01-01 01:05:37,2000-01-01 01:05:53,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,336,352,16
+2000-01-01 01:05:53,2000-01-01 01:05:59,Calculate production batch on smartphone,Production data logging,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,352,358,6
+2000-01-01 01:05:59,2000-01-01 01:06:06,Cut continuous thread chain with scissors,Thread trimming,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,358,365,7
+2000-01-01 01:06:06,2000-01-01 01:06:22,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,365,381,16
+2000-01-01 01:06:22,2000-01-01 01:06:26,Cut continuous thread chain with scissors,Thread trimming,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,381,385,4
+2000-01-01 01:06:26,2000-01-01 01:06:49,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,385,408,23
+2000-01-01 01:06:49,2000-01-01 01:06:52,Cut continuous thread chain with scissors,Thread trimming,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,408,411,3
+2000-01-01 01:06:52,2000-01-01 01:07:09,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,411,428,17
+2000-01-01 01:07:09,2000-01-01 01:07:11,Calculate production batch on smartphone,Production data logging,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,428,430,2
+2000-01-01 01:07:11,2000-01-01 01:07:14,Cut continuous thread chain with scissors,Thread trimming,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,430,433,3
+2000-01-01 01:07:14,2000-01-01 01:07:22,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,433,441,8
+2000-01-01 01:07:22,2000-01-01 01:07:26,Cut continuous thread chain with scissors,Thread trimming,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,441,445,4
+2000-01-01 01:07:26,2000-01-01 01:07:50,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,445,469,24
+2000-01-01 01:07:50,2000-01-01 01:07:55,Cut continuous thread chain with scissors,Thread trimming,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,469,474,5
+2000-01-01 01:07:55,2000-01-01 01:08:25,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,474,504,30
+2000-01-01 01:08:25,2000-01-01 01:08:32,Cut continuous thread chain with scissors,Thread trimming,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,504,511,7
+2000-01-01 01:08:32,2000-01-01 01:08:44,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,511,523,12
+2000-01-01 01:08:44,2000-01-01 01:08:50,Calculate production batch on smartphone,Production data logging,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,523,529,6
+2000-01-01 01:08:50,2000-01-01 01:09:06,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,529,545,16
+2000-01-01 01:09:06,2000-01-01 01:09:22,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,545,561,16
+2000-01-01 01:09:22,2000-01-01 01:09:26,Cut continuous thread chain with scissors,Thread trimming,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,561,565,4
+2000-01-01 01:09:26,2000-01-01 01:09:46,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,565,585,20
+2000-01-01 01:09:46,2000-01-01 01:09:54,Calculate production batch on smartphone,Production data logging,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,585,593,8
+2000-01-01 01:09:54,2000-01-01 01:10:15,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,593,614,21
+2000-01-01 01:10:15,2000-01-01 01:10:22,Cut continuous thread chain with scissors,Thread trimming,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,614,621,7
+2000-01-01 01:10:22,2000-01-01 01:10:48,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,621,647,26
+2000-01-01 01:10:48,2000-01-01 01:10:51,Calculate production batch on smartphone,Production data logging,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,647,650,3
+2000-01-01 01:10:51,2000-01-01 01:10:56,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,650,655,5
+2000-01-01 01:10:56,2000-01-01 01:11:00,Cut continuous thread chain with scissors,Thread trimming,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,655,659,4
+2000-01-01 01:11:00,2000-01-01 01:11:21,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,659,680,21
+2000-01-01 01:11:21,2000-01-01 01:11:26,Cut continuous thread chain with scissors,Thread trimming,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,680,685,5
+2000-01-01 01:11:26,2000-01-01 01:11:40,Trim raw fabric edge manually,Thread trimming,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,685,699,14
+2000-01-01 01:11:40,2000-01-01 01:11:52,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,699,711,12
+2000-01-01 01:11:52,2000-01-01 01:12:03,Cut continuous thread chain with scissors,Thread trimming,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,711,722,11
+2000-01-01 01:12:03,2000-01-01 01:12:16,Calculate production batch on smartphone,Production data logging,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,722,735,13
+2000-01-01 01:12:16,2000-01-01 01:12:31,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,735,750,15
+2000-01-01 01:12:31,2000-01-01 01:12:36,Cut continuous thread chain with scissors,Thread trimming,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,750,755,5
+2000-01-01 01:12:36,2000-01-01 01:13:18,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,755,797,42
+2000-01-01 01:13:18,2000-01-01 01:13:23,Calculate production batch on smartphone,Production data logging,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,797,802,5
+2000-01-01 01:13:23,2000-01-01 01:13:30,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,802,809,7
+2000-01-01 01:13:30,2000-01-01 01:13:34,Cut continuous thread chain with scissors,Thread trimming,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,809,813,4
+2000-01-01 01:13:34,2000-01-01 01:13:49,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,813,828,15
+2000-01-01 01:13:49,2000-01-01 01:13:59,Calculate production batch on smartphone,Production data logging,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,828,838,10
+2000-01-01 01:13:59,2000-01-01 01:14:11,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,838,850,12
+2000-01-01 01:14:11,2000-01-01 01:14:16,Calculate production batch on smartphone,Production data logging,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,850,855,5
+2000-01-01 01:14:16,2000-01-01 01:14:28,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,855,867,12
+2000-01-01 01:14:28,2000-01-01 01:14:32,Cut continuous thread chain with scissors,Thread trimming,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,867,871,4
+2000-01-01 01:14:32,2000-01-01 01:14:56,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,871,895,24
+2000-01-01 01:14:56,2000-01-01 01:15:00,Calculate production batch on smartphone,Production data logging,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,895,899,4
+2000-01-01 01:15:00,2000-01-01 01:15:16,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,899,915,16
+2000-01-01 01:15:16,2000-01-01 01:15:21,Cut continuous thread chain with scissors,Thread trimming,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,915,920,5
+2000-01-01 01:15:21,2000-01-01 01:15:26,Trim raw fabric edge manually,Thread trimming,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,920,925,5
+2000-01-01 01:15:26,2000-01-01 01:15:33,Calculate production batch on smartphone,Production data logging,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,925,932,7
+2000-01-01 01:15:33,2000-01-01 01:15:51,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,932,950,18
+2000-01-01 01:15:51,2000-01-01 01:15:57,Cut continuous thread chain with scissors,Thread trimming,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,950,956,6
+2000-01-01 01:15:57,2000-01-01 01:16:03,Calculate production batch on smartphone,Production data logging,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,956,962,6
+2000-01-01 01:16:03,2000-01-01 01:16:10,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,962,969,7
+2000-01-01 01:16:10,2000-01-01 01:16:36,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,969,995,26
+2000-01-01 01:16:36,2000-01-01 01:16:43,Cut continuous thread chain with scissors,Thread trimming,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,995,1002,7
+2000-01-01 01:16:43,2000-01-01 01:17:10,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,1002,1029,27
+2000-01-01 01:17:10,2000-01-01 01:17:20,Calculate production batch on smartphone,Production data logging,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,1029,1039,10
+2000-01-01 01:17:20,2000-01-01 01:17:24,Cut continuous thread chain with scissors,Thread trimming,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,1039,1043,4
+2000-01-01 01:17:24,2000-01-01 01:17:43,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,1043,1062,19
+2000-01-01 01:17:43,2000-01-01 01:17:50,Calculate production batch on smartphone,Production data logging,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,1062,1069,7
+2000-01-01 01:17:50,2000-01-01 01:17:59,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,1069,1078,9
+2000-01-01 01:17:59,2000-01-01 01:18:04,Cut continuous thread chain with scissors,Thread trimming,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,1078,1083,5
+2000-01-01 01:18:04,2000-01-01 01:18:36,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,1083,1115,32
+2000-01-01 01:18:36,2000-01-01 01:18:43,Calculate production batch on smartphone,Production data logging,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,1115,1122,7
+2000-01-01 01:18:43,2000-01-01 01:18:54,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,1122,1133,11
+2000-01-01 01:18:54,2000-01-01 01:19:00,Cut continuous thread chain with scissors,Thread trimming,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,1133,1139,6
+2000-01-01 01:19:00,2000-01-01 01:19:14,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,1139,1153,14
+2000-01-01 01:19:14,2000-01-01 01:19:18,Cut continuous thread chain with scissors,Thread trimming,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,1153,1157,4
+2000-01-01 01:19:18,2000-01-01 01:19:30,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,1157,1169,12
+2000-01-01 01:19:30,2000-01-01 01:19:44,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,1169,1183,14
+2000-01-01 01:19:44,2000-01-01 01:19:49,Cut continuous thread chain with scissors,Thread trimming,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,1183,1188,5
+2000-01-01 01:19:49,2000-01-01 01:20:02,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00003.csv,factory_004_worker_006,1188,1201,13
+2000-01-01 01:20:02,2000-01-01 01:20:10,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,0,8,8
+2000-01-01 01:20:10,2000-01-01 01:20:17,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,8,15,7
+2000-01-01 01:20:17,2000-01-01 01:20:38,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,15,36,21
+2000-01-01 01:20:38,2000-01-01 01:20:48,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,36,46,10
+2000-01-01 01:20:48,2000-01-01 01:21:10,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,46,68,22
+2000-01-01 01:21:10,2000-01-01 01:21:23,Pull sewn piece out of machine,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,68,81,13
+2000-01-01 01:21:23,2000-01-01 01:21:26,Cut continuous thread chain with scissors,Thread trimming,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,81,84,3
+2000-01-01 01:21:26,2000-01-01 01:21:42,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,84,100,16
+2000-01-01 01:21:42,2000-01-01 01:21:50,Pull sewn piece out of machine,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,100,108,8
+2000-01-01 01:21:50,2000-01-01 01:21:56,Trim raw fabric edge manually,Thread trimming,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,108,114,6
+2000-01-01 01:21:56,2000-01-01 01:22:04,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,114,122,8
+2000-01-01 01:22:04,2000-01-01 01:22:24,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,122,142,20
+2000-01-01 01:22:24,2000-01-01 01:22:47,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,142,165,23
+2000-01-01 01:22:47,2000-01-01 01:22:53,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,165,171,6
+2000-01-01 01:22:53,2000-01-01 01:23:04,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,171,182,11
+2000-01-01 01:23:04,2000-01-01 01:23:14,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,182,192,10
+2000-01-01 01:23:14,2000-01-01 01:23:27,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,192,205,13
+2000-01-01 01:23:27,2000-01-01 01:23:30,Cut continuous thread chain with scissors,Thread trimming,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,205,208,3
+2000-01-01 01:23:30,2000-01-01 01:23:54,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,208,232,24
+2000-01-01 01:23:54,2000-01-01 01:24:02,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,232,240,8
+2000-01-01 01:24:02,2000-01-01 01:24:05,Trim raw fabric edge manually,Thread trimming,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,240,243,3
+2000-01-01 01:24:05,2000-01-01 01:24:38,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,243,276,33
+2000-01-01 01:24:38,2000-01-01 01:24:56,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,276,294,18
+2000-01-01 01:24:56,2000-01-01 01:25:07,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,294,305,11
+2000-01-01 01:25:07,2000-01-01 01:25:11,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,305,309,4
+2000-01-01 01:25:11,2000-01-01 01:25:24,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,309,322,13
+2000-01-01 01:25:24,2000-01-01 01:25:34,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,322,332,10
+2000-01-01 01:25:34,2000-01-01 01:25:38,Trim raw fabric edge manually,Thread trimming,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,332,336,4
+2000-01-01 01:25:38,2000-01-01 01:25:48,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,336,346,10
+2000-01-01 01:25:48,2000-01-01 01:26:00,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,346,358,12
+2000-01-01 01:26:00,2000-01-01 01:26:03,Trim raw fabric edge manually,Thread trimming,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,358,361,3
+2000-01-01 01:26:03,2000-01-01 01:26:14,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,361,372,11
+2000-01-01 01:26:14,2000-01-01 01:26:19,Pull sewn piece out of machine,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,372,377,5
+2000-01-01 01:26:19,2000-01-01 01:26:35,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,377,393,16
+2000-01-01 01:26:35,2000-01-01 01:26:42,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,393,400,7
+2000-01-01 01:26:42,2000-01-01 01:26:52,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,400,410,10
+2000-01-01 01:26:52,2000-01-01 01:27:02,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,410,420,10
+2000-01-01 01:27:02,2000-01-01 01:27:24,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,420,442,22
+2000-01-01 01:27:24,2000-01-01 01:27:34,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,442,452,10
+2000-01-01 01:27:34,2000-01-01 01:27:38,Cut continuous thread chain with scissors,Thread trimming,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,452,456,4
+2000-01-01 01:27:38,2000-01-01 01:27:58,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,456,476,20
+2000-01-01 01:27:58,2000-01-01 01:28:03,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,476,481,5
+2000-01-01 01:28:03,2000-01-01 01:28:06,Trim raw fabric edge manually,Thread trimming,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,481,484,3
+2000-01-01 01:28:14,2000-01-01 01:28:31,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,492,509,17
+2000-01-01 01:28:31,2000-01-01 01:28:37,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,509,515,6
+2000-01-01 01:28:37,2000-01-01 01:28:52,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,515,530,15
+2000-01-01 01:28:52,2000-01-01 01:29:02,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,530,540,10
+2000-01-01 01:29:02,2000-01-01 01:29:05,Trim raw fabric edge manually,Thread trimming,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,540,543,3
+2000-01-01 01:29:05,2000-01-01 01:29:20,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,543,558,15
+2000-01-01 01:29:20,2000-01-01 01:29:28,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,558,566,8
+2000-01-01 01:29:28,2000-01-01 01:29:31,Trim raw fabric edge manually,Thread trimming,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,566,569,3
+2000-01-01 01:29:31,2000-01-01 01:29:49,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,569,587,18
+2000-01-01 01:29:49,2000-01-01 01:29:53,Pull sewn piece out of machine,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,587,591,4
+2000-01-01 01:29:53,2000-01-01 01:29:56,Trim raw fabric edge manually,Thread trimming,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,591,594,3
+2000-01-01 01:29:56,2000-01-01 01:30:02,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,594,600,6
+2000-01-01 01:30:02,2000-01-01 01:30:15,Adjust machine thread tensioner,Machine maintenance,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,600,613,13
+2000-01-01 01:30:15,2000-01-01 01:30:30,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,613,628,15
+2000-01-01 01:30:30,2000-01-01 01:30:37,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,628,635,7
+2000-01-01 01:30:37,2000-01-01 01:30:50,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,635,648,13
+2000-01-01 01:30:50,2000-01-01 01:30:57,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,648,655,7
+2000-01-01 01:30:57,2000-01-01 01:31:12,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,655,670,15
+2000-01-01 01:31:12,2000-01-01 01:31:22,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,670,680,10
+2000-01-01 01:31:22,2000-01-01 01:31:36,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,680,694,14
+2000-01-01 01:31:36,2000-01-01 01:31:40,Cut continuous thread chain with scissors,Thread trimming,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,694,698,4
+2000-01-01 01:31:45,2000-01-01 01:31:55,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,703,713,10
+2000-01-01 01:31:55,2000-01-01 01:32:08,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,713,726,13
+2000-01-01 01:32:08,2000-01-01 01:32:12,Trim raw fabric edge manually,Thread trimming,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,726,730,4
+2000-01-01 01:32:12,2000-01-01 01:32:22,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,730,740,10
+2000-01-01 01:32:22,2000-01-01 01:32:31,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,740,749,9
+2000-01-01 01:32:31,2000-01-01 01:32:44,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,749,762,13
+2000-01-01 01:32:44,2000-01-01 01:32:55,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,762,773,11
+2000-01-01 01:32:55,2000-01-01 01:33:04,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,773,782,9
+2000-01-01 01:33:04,2000-01-01 01:33:10,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,782,788,6
+2000-01-01 01:33:10,2000-01-01 01:33:22,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,788,800,12
+2000-01-01 01:33:22,2000-01-01 01:33:33,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,800,811,11
+2000-01-01 01:33:33,2000-01-01 01:33:39,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,811,817,6
+2000-01-01 01:33:39,2000-01-01 01:33:43,Trim raw fabric edge manually,Thread trimming,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,817,821,4
+2000-01-01 01:33:43,2000-01-01 01:33:58,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,821,836,15
+2000-01-01 01:34:02,2000-01-01 01:34:05,Trim raw fabric edge manually,Thread trimming,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,840,843,3
+2000-01-01 01:34:05,2000-01-01 01:34:08,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,843,846,3
+2000-01-01 01:34:08,2000-01-01 01:34:16,Trim raw fabric edge manually,Thread trimming,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,846,854,8
+2000-01-01 01:34:16,2000-01-01 01:34:28,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,854,866,12
+2000-01-01 01:34:28,2000-01-01 01:34:40,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,866,878,12
+2000-01-01 01:34:40,2000-01-01 01:34:48,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,878,886,8
+2000-01-01 01:34:48,2000-01-01 01:34:57,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,886,895,9
+2000-01-01 01:34:57,2000-01-01 01:35:02,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,895,900,5
+2000-01-01 01:35:02,2000-01-01 01:35:05,Trim raw fabric edge manually,Thread trimming,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,900,903,3
+2000-01-01 01:35:05,2000-01-01 01:35:20,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,903,918,15
+2000-01-01 01:35:20,2000-01-01 01:35:24,Cut continuous thread chain with scissors,Thread trimming,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,918,922,4
+2000-01-01 01:35:24,2000-01-01 01:35:37,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,922,935,13
+2000-01-01 01:35:37,2000-01-01 01:35:45,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,935,943,8
+2000-01-01 01:35:45,2000-01-01 01:35:55,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,943,953,10
+2000-01-01 01:35:55,2000-01-01 01:35:59,Trim raw fabric edge manually,Thread trimming,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,953,957,4
+2000-01-01 01:35:59,2000-01-01 01:36:05,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,957,963,6
+2000-01-01 01:36:05,2000-01-01 01:36:19,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,963,977,14
+2000-01-01 01:36:19,2000-01-01 01:36:22,Cut continuous thread chain with scissors,Thread trimming,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,977,980,3
+2000-01-01 01:36:22,2000-01-01 01:36:31,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,980,989,9
+2000-01-01 01:36:31,2000-01-01 01:36:42,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,989,1000,11
+2000-01-01 01:36:42,2000-01-01 01:36:53,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,1000,1011,11
+2000-01-01 01:36:53,2000-01-01 01:37:07,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,1011,1025,14
+2000-01-01 01:37:07,2000-01-01 01:37:17,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,1025,1035,10
+2000-01-01 01:37:17,2000-01-01 01:37:30,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,1035,1048,13
+2000-01-01 01:37:30,2000-01-01 01:37:36,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,1048,1054,6
+2000-01-01 01:37:36,2000-01-01 01:37:48,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,1054,1066,12
+2000-01-01 01:37:48,2000-01-01 01:37:56,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,1066,1074,8
+2000-01-01 01:37:56,2000-01-01 01:38:01,Trim raw fabric edge manually,Thread trimming,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,1074,1079,5
+2000-01-01 01:38:01,2000-01-01 01:38:09,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,1079,1087,8
+2000-01-01 01:38:09,2000-01-01 01:38:17,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,1087,1095,8
+2000-01-01 01:38:17,2000-01-01 01:38:25,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,1095,1103,8
+2000-01-01 01:38:25,2000-01-01 01:38:29,Trim raw fabric edge manually,Thread trimming,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,1103,1107,4
+2000-01-01 01:38:29,2000-01-01 01:38:33,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,1107,1111,4
+2000-01-01 01:38:33,2000-01-01 01:38:37,Trim raw fabric edge manually,Thread trimming,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,1111,1115,4
+2000-01-01 01:38:37,2000-01-01 01:38:51,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,1115,1129,14
+2000-01-01 01:38:51,2000-01-01 01:39:01,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,1129,1139,10
+2000-01-01 01:39:01,2000-01-01 01:39:14,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,1139,1152,13
+2000-01-01 01:39:14,2000-01-01 01:39:22,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,1152,1160,8
+2000-01-01 01:39:22,2000-01-01 01:39:37,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,1160,1175,15
+2000-01-01 01:39:37,2000-01-01 01:39:44,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,1175,1182,7
+2000-01-01 01:39:44,2000-01-01 01:39:50,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,1182,1188,6
+2000-01-01 01:39:50,2000-01-01 01:39:54,Trim raw fabric edge manually,Thread trimming,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,1188,1192,4
+2000-01-01 01:39:54,2000-01-01 01:40:03,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006,factory004_worker006_00004.csv,factory_004_worker_006,1192,1201,9
+2000-01-01 01:40:03,2000-01-01 01:40:23,Sew piping onto fabric edge,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,0,20,20
+2000-01-01 01:40:23,2000-01-01 01:40:56,Cut continuous thread chain with scissors,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,20,53,33
+2000-01-01 01:40:56,2000-01-01 01:41:35,Sew piping onto fabric edge,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,53,92,39
+2000-01-01 01:41:35,2000-01-01 01:41:43,Cut continuous thread chain with scissors,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,92,100,8
+2000-01-01 01:41:43,2000-01-01 01:42:11,Sew piping onto fabric edge,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,100,128,28
+2000-01-01 01:42:11,2000-01-01 01:42:14,Cut continuous thread chain with scissors,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,128,131,3
+2000-01-01 01:42:14,2000-01-01 01:42:38,Sew piping onto fabric edge,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,131,155,24
+2000-01-01 01:42:38,2000-01-01 01:42:47,Cut continuous thread chain with scissors,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,155,164,9
+2000-01-01 01:42:47,2000-01-01 01:43:16,Sew piping onto fabric edge,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,164,193,29
+2000-01-01 01:43:20,2000-01-01 01:43:50,Sew piping onto fabric edge,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,197,227,30
+2000-01-01 01:43:50,2000-01-01 01:43:54,Cut continuous thread chain with scissors,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,227,231,4
+2000-01-01 01:43:54,2000-01-01 01:44:13,Sew piping onto fabric edge,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,231,250,19
+2000-01-01 01:44:19,2000-01-01 01:44:21,Cut continuous thread chain with scissors,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,256,258,2
+2000-01-01 01:44:21,2000-01-01 01:44:31,Sew piping onto fabric edge,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,258,268,10
+2000-01-01 01:44:31,2000-01-01 01:44:53,Sew piping onto fabric edge,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,268,290,22
+2000-01-01 01:44:53,2000-01-01 01:45:16,Sew piping onto fabric edge,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,290,313,23
+2000-01-01 01:45:16,2000-01-01 01:45:54,Sew piping onto fabric edge,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,313,351,38
+2000-01-01 01:45:54,2000-01-01 01:45:58,Cut continuous thread chain with scissors,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,351,355,4
+2000-01-01 01:45:58,2000-01-01 01:46:29,Sew piping onto fabric edge,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,355,386,31
+2000-01-01 01:46:29,2000-01-01 01:46:39,Cut continuous thread chain with scissors,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,386,396,10
+2000-01-01 01:46:39,2000-01-01 01:47:05,Sew piping onto fabric edge,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,396,422,26
+2000-01-01 01:47:05,2000-01-01 01:47:30,Sew piping onto fabric edge,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,422,447,25
+2000-01-01 01:47:30,2000-01-01 01:48:11,Sew piping onto fabric edge,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,447,488,41
+2000-01-01 01:48:11,2000-01-01 01:48:17,Cut continuous thread chain with scissors,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,488,494,6
+2000-01-01 01:48:17,2000-01-01 01:48:38,Sew piping onto fabric edge,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,494,515,21
+2000-01-01 01:48:38,2000-01-01 01:48:44,Cut continuous thread chain with scissors,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,515,521,6
+2000-01-01 01:48:44,2000-01-01 01:49:10,Sew piping onto fabric edge,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,521,547,26
+2000-01-01 01:49:10,2000-01-01 01:49:31,Sew piping onto fabric edge,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,547,568,21
+2000-01-01 01:49:31,2000-01-01 01:49:37,Cut continuous thread chain with scissors,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,568,574,6
+2000-01-01 01:49:37,2000-01-01 01:49:53,Sew piping onto fabric edge,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,574,590,16
+2000-01-01 01:49:53,2000-01-01 01:49:59,Cut continuous thread chain with scissors,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,590,596,6
+2000-01-01 01:49:59,2000-01-01 01:50:05,Snip loose threads with small clippers,Thread trimming,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,596,602,6
+2000-01-01 01:50:05,2000-01-01 01:50:35,Sew piping onto fabric edge,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,602,632,30
+2000-01-01 01:50:35,2000-01-01 01:50:41,Cut continuous thread chain with scissors,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,632,638,6
+2000-01-01 01:50:41,2000-01-01 01:51:18,Sew piping onto fabric edge,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,638,675,37
+2000-01-01 01:51:18,2000-01-01 01:52:08,Sew piping onto fabric edge,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,675,725,50
+2000-01-01 01:52:08,2000-01-01 01:52:14,Cut continuous thread chain with scissors,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,725,731,6
+2000-01-01 01:52:14,2000-01-01 01:52:33,Sew piping onto fabric edge,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,731,750,19
+2000-01-01 01:52:33,2000-01-01 01:52:38,Cut continuous thread chain with scissors,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,750,755,5
+2000-01-01 01:52:38,2000-01-01 01:53:11,Sew piping onto fabric edge,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,755,788,33
+2000-01-01 01:53:11,2000-01-01 01:54:01,Sew piping onto fabric edge,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,788,838,50
+2000-01-01 01:54:01,2000-01-01 01:54:07,Cut continuous thread chain with scissors,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,838,844,6
+2000-01-01 01:54:07,2000-01-01 01:54:43,Sew piping onto fabric edge,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,844,880,36
+2000-01-01 01:54:43,2000-01-01 01:54:49,Cut continuous thread chain with scissors,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,880,886,6
+2000-01-01 01:54:49,2000-01-01 01:55:27,Sew piping onto fabric edge,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,886,924,38
+2000-01-01 01:55:27,2000-01-01 01:56:14,Sew piping onto fabric edge,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,924,971,47
+2000-01-01 01:56:14,2000-01-01 01:56:20,Cut continuous thread chain with scissors,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,971,977,6
+2000-01-01 01:56:20,2000-01-01 01:56:47,Sew piping onto fabric edge,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,977,1004,27
+2000-01-01 01:56:47,2000-01-01 01:56:53,Cut continuous thread chain with scissors,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,1004,1010,6
+2000-01-01 01:56:53,2000-01-01 01:57:52,Sew piping onto fabric edge,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,1010,1069,59
+2000-01-01 01:57:52,2000-01-01 01:58:59,Sew piping onto fabric edge,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,1069,1136,67
+2000-01-01 01:58:59,2000-01-01 01:59:06,Cut continuous thread chain with scissors,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,1136,1143,7
+2000-01-01 01:59:06,2000-01-01 01:59:57,Sew piping onto fabric edge,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,1143,1194,51
+2000-01-01 01:59:57,2000-01-01 02:00:03,Cut continuous thread chain with scissors,Piping attachment,factory_004,worker_006,factory004_worker006_00005.csv,factory_004_worker_006,1194,1200,6

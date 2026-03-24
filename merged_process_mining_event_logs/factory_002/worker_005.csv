@@ -1,0 +1,705 @@
+start_timestamp,end_timestamp,activity,process,factory,worker,source_file,case_id,start_seconds_from_video_start,end_seconds_from_video_start,duration_seconds
+2000-01-01 00:00:00,2000-01-01 00:00:23,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00000.csv,factory_002_worker_005,0,23,23
+2000-01-01 00:00:23,2000-01-01 00:00:57,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00000.csv,factory_002_worker_005,23,57,34
+2000-01-01 00:01:03,2000-01-01 00:01:26,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00000.csv,factory_002_worker_005,63,86,23
+2000-01-01 00:01:26,2000-01-01 00:02:00,fold t-shirt around permanent cardboard insert,Garment ironing,factory_002,worker_005,factory002_worker005_00000.csv,factory_002_worker_005,86,120,34
+2000-01-01 00:02:12,2000-01-01 00:02:37,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00000.csv,factory_002_worker_005,132,157,25
+2000-01-01 00:02:37,2000-01-01 00:03:13,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00000.csv,factory_002_worker_005,157,193,36
+2000-01-01 00:03:18,2000-01-01 00:03:42,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00000.csv,factory_002_worker_005,198,222,24
+2000-01-01 00:03:42,2000-01-01 00:04:10,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00000.csv,factory_002_worker_005,222,250,28
+2000-01-01 00:04:10,2000-01-01 00:04:35,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00000.csv,factory_002_worker_005,250,275,25
+2000-01-01 00:04:35,2000-01-01 00:05:09,fold t-shirt around permanent cardboard insert,Garment ironing,factory_002,worker_005,factory002_worker005_00000.csv,factory_002_worker_005,275,309,34
+2000-01-01 00:05:09,2000-01-01 00:05:32,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00000.csv,factory_002_worker_005,309,332,23
+2000-01-01 00:05:32,2000-01-01 00:06:04,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00000.csv,factory_002_worker_005,332,364,32
+2000-01-01 00:06:10,2000-01-01 00:06:33,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00000.csv,factory_002_worker_005,370,393,23
+2000-01-01 00:06:33,2000-01-01 00:07:06,fold t-shirt around permanent cardboard insert,Garment ironing,factory_002,worker_005,factory002_worker005_00000.csv,factory_002_worker_005,393,426,33
+2000-01-01 00:07:06,2000-01-01 00:07:30,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00000.csv,factory_002_worker_005,426,450,24
+2000-01-01 00:07:30,2000-01-01 00:08:02,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00000.csv,factory_002_worker_005,450,482,32
+2000-01-01 00:08:08,2000-01-01 00:08:26,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00000.csv,factory_002_worker_005,488,506,18
+2000-01-01 00:08:26,2000-01-01 00:09:00,fold t-shirt around permanent cardboard insert,Garment ironing,factory_002,worker_005,factory002_worker005_00000.csv,factory_002_worker_005,506,540,34
+2000-01-01 00:09:00,2000-01-01 00:09:22,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00000.csv,factory_002_worker_005,540,562,22
+2000-01-01 00:09:22,2000-01-01 00:09:56,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00000.csv,factory_002_worker_005,562,596,34
+2000-01-01 00:10:00,2000-01-01 00:10:19,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00000.csv,factory_002_worker_005,600,619,19
+2000-01-01 00:10:19,2000-01-01 00:10:52,fold t-shirt around permanent cardboard insert,Garment ironing,factory_002,worker_005,factory002_worker005_00000.csv,factory_002_worker_005,619,652,33
+2000-01-01 00:10:52,2000-01-01 00:11:15,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00000.csv,factory_002_worker_005,652,675,23
+2000-01-01 00:11:15,2000-01-01 00:11:48,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00000.csv,factory_002_worker_005,675,708,33
+2000-01-01 00:11:54,2000-01-01 00:12:15,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00000.csv,factory_002_worker_005,714,735,21
+2000-01-01 00:12:15,2000-01-01 00:12:48,fold t-shirt around permanent cardboard insert,Garment ironing,factory_002,worker_005,factory002_worker005_00000.csv,factory_002_worker_005,735,768,33
+2000-01-01 00:12:48,2000-01-01 00:13:10,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00000.csv,factory_002_worker_005,768,790,22
+2000-01-01 00:13:10,2000-01-01 00:13:45,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00000.csv,factory_002_worker_005,790,825,35
+2000-01-01 00:13:51,2000-01-01 00:14:12,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00000.csv,factory_002_worker_005,831,852,21
+2000-01-01 00:14:12,2000-01-01 00:14:47,fold t-shirt around permanent cardboard insert,Garment ironing,factory_002,worker_005,factory002_worker005_00000.csv,factory_002_worker_005,852,887,35
+2000-01-01 00:14:47,2000-01-01 00:15:09,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00000.csv,factory_002_worker_005,887,909,22
+2000-01-01 00:15:09,2000-01-01 00:15:43,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00000.csv,factory_002_worker_005,909,943,34
+2000-01-01 00:15:50,2000-01-01 00:16:10,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00000.csv,factory_002_worker_005,950,970,20
+2000-01-01 00:16:10,2000-01-01 00:16:43,fold t-shirt around permanent cardboard insert,Garment ironing,factory_002,worker_005,factory002_worker005_00000.csv,factory_002_worker_005,970,1003,33
+2000-01-01 00:16:43,2000-01-01 00:17:06,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00000.csv,factory_002_worker_005,1003,1026,23
+2000-01-01 00:17:06,2000-01-01 00:17:39,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00000.csv,factory_002_worker_005,1026,1059,33
+2000-01-01 00:17:46,2000-01-01 00:18:08,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00000.csv,factory_002_worker_005,1066,1088,22
+2000-01-01 00:18:08,2000-01-01 00:18:41,fold t-shirt around permanent cardboard insert,Garment ironing,factory_002,worker_005,factory002_worker005_00000.csv,factory_002_worker_005,1088,1121,33
+2000-01-01 00:18:41,2000-01-01 00:19:04,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00000.csv,factory_002_worker_005,1121,1144,23
+2000-01-01 00:19:04,2000-01-01 00:19:38,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00000.csv,factory_002_worker_005,1144,1178,34
+2000-01-01 00:19:45,2000-01-01 00:20:02,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00000.csv,factory_002_worker_005,1185,1202,17
+2000-01-01 00:20:02,2000-01-01 00:20:25,smooth fabric flat on table,Fabric edge alignment,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,0,23,23
+2000-01-01 00:20:25,2000-01-01 00:20:36,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,23,34,11
+2000-01-01 00:20:36,2000-01-01 00:21:01,fold t-shirt over removable white template,Fabric folding,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,34,59,25
+2000-01-01 00:21:01,2000-01-01 00:21:12,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,59,70,11
+2000-01-01 00:21:12,2000-01-01 00:21:33,fold bottom section of fabric,Fabric folding,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,70,91,21
+2000-01-01 00:21:33,2000-01-01 00:21:56,smooth fabric flat on table,Fabric edge alignment,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,91,114,23
+2000-01-01 00:21:56,2000-01-01 00:22:04,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,114,122,8
+2000-01-01 00:22:04,2000-01-01 00:22:27,fold t-shirt over removable white template,Fabric folding,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,122,145,23
+2000-01-01 00:22:27,2000-01-01 00:22:43,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,145,161,16
+2000-01-01 00:22:43,2000-01-01 00:22:57,fold bottom section of fabric,Fabric folding,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,161,175,14
+2000-01-01 00:23:05,2000-01-01 00:23:33,smooth fabric flat on table,Fabric edge alignment,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,183,211,28
+2000-01-01 00:23:33,2000-01-01 00:23:37,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,211,215,4
+2000-01-01 00:23:37,2000-01-01 00:23:54,fold t-shirt over removable white template,Fabric folding,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,215,232,17
+2000-01-01 00:23:54,2000-01-01 00:24:02,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,232,240,8
+2000-01-01 00:24:02,2000-01-01 00:24:17,fold bottom section of fabric,Fabric folding,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,240,255,15
+2000-01-01 00:24:17,2000-01-01 00:24:32,smooth fabric flat on table,Fabric edge alignment,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,255,270,15
+2000-01-01 00:24:32,2000-01-01 00:24:38,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,270,276,6
+2000-01-01 00:24:38,2000-01-01 00:24:54,fold t-shirt over removable white template,Fabric folding,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,276,292,16
+2000-01-01 00:24:54,2000-01-01 00:25:01,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,292,299,7
+2000-01-01 00:25:01,2000-01-01 00:25:09,fold bottom section of fabric,Fabric folding,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,299,307,8
+2000-01-01 00:25:09,2000-01-01 00:25:34,smooth fabric flat on table,Fabric edge alignment,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,307,332,25
+2000-01-01 00:25:34,2000-01-01 00:25:42,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,332,340,8
+2000-01-01 00:25:42,2000-01-01 00:25:52,fold t-shirt over removable white template,Fabric folding,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,340,350,10
+2000-01-01 00:25:52,2000-01-01 00:26:01,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,350,359,9
+2000-01-01 00:26:01,2000-01-01 00:26:10,fold bottom section of fabric,Fabric folding,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,359,368,9
+2000-01-01 00:26:10,2000-01-01 00:26:42,smooth fabric flat on table,Fabric edge alignment,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,368,400,32
+2000-01-01 00:26:42,2000-01-01 00:26:52,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,400,410,10
+2000-01-01 00:26:52,2000-01-01 00:27:07,fold t-shirt over removable white template,Fabric folding,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,410,425,15
+2000-01-01 00:27:07,2000-01-01 00:27:13,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,425,431,6
+2000-01-01 00:27:13,2000-01-01 00:27:22,fold bottom section of fabric,Fabric folding,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,431,440,9
+2000-01-01 00:27:22,2000-01-01 00:27:43,smooth fabric flat on table,Fabric edge alignment,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,440,461,21
+2000-01-01 00:27:43,2000-01-01 00:27:56,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,461,474,13
+2000-01-01 00:27:56,2000-01-01 00:28:10,fold t-shirt over removable white template,Fabric folding,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,474,488,14
+2000-01-01 00:28:10,2000-01-01 00:28:20,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,488,498,10
+2000-01-01 00:28:20,2000-01-01 00:28:31,fold bottom section of fabric,Fabric folding,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,498,509,11
+2000-01-01 00:28:31,2000-01-01 00:28:52,smooth fabric flat on table,Fabric edge alignment,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,509,530,21
+2000-01-01 00:28:52,2000-01-01 00:29:01,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,530,539,9
+2000-01-01 00:29:01,2000-01-01 00:29:10,fold t-shirt over removable white template,Fabric folding,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,539,548,9
+2000-01-01 00:29:10,2000-01-01 00:29:20,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,548,558,10
+2000-01-01 00:29:20,2000-01-01 00:29:30,fold bottom section of fabric,Fabric folding,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,558,568,10
+2000-01-01 00:29:30,2000-01-01 00:29:53,smooth fabric flat on table,Fabric edge alignment,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,568,591,23
+2000-01-01 00:29:53,2000-01-01 00:30:00,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,591,598,7
+2000-01-01 00:30:00,2000-01-01 00:30:16,fold t-shirt over removable white template,Fabric folding,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,598,614,16
+2000-01-01 00:30:16,2000-01-01 00:30:26,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,614,624,10
+2000-01-01 00:30:26,2000-01-01 00:30:32,fold bottom section of fabric,Fabric folding,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,624,630,6
+2000-01-01 00:30:32,2000-01-01 00:30:54,smooth fabric flat on table,Fabric edge alignment,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,630,652,22
+2000-01-01 00:30:54,2000-01-01 00:31:04,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,652,662,10
+2000-01-01 00:31:04,2000-01-01 00:31:17,fold t-shirt over removable white template,Fabric folding,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,662,675,13
+2000-01-01 00:31:17,2000-01-01 00:31:29,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,675,687,12
+2000-01-01 00:31:29,2000-01-01 00:31:39,fold bottom section of fabric,Fabric folding,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,687,697,10
+2000-01-01 00:31:39,2000-01-01 00:32:02,smooth fabric flat on table,Fabric edge alignment,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,697,720,23
+2000-01-01 00:32:02,2000-01-01 00:32:08,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,720,726,6
+2000-01-01 00:32:08,2000-01-01 00:32:19,fold t-shirt over removable white template,Fabric folding,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,726,737,11
+2000-01-01 00:32:19,2000-01-01 00:32:28,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,737,746,9
+2000-01-01 00:32:28,2000-01-01 00:32:37,fold bottom section of fabric,Fabric folding,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,746,755,9
+2000-01-01 00:32:37,2000-01-01 00:32:59,smooth fabric flat on table,Fabric edge alignment,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,755,777,22
+2000-01-01 00:32:59,2000-01-01 00:33:08,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,777,786,9
+2000-01-01 00:33:08,2000-01-01 00:33:23,fold t-shirt over removable white template,Fabric folding,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,786,801,15
+2000-01-01 00:33:23,2000-01-01 00:33:32,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,801,810,9
+2000-01-01 00:33:32,2000-01-01 00:33:42,fold bottom section of fabric,Fabric folding,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,810,820,10
+2000-01-01 00:33:42,2000-01-01 00:34:06,smooth fabric flat on table,Fabric edge alignment,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,820,844,24
+2000-01-01 00:34:06,2000-01-01 00:34:16,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,844,854,10
+2000-01-01 00:34:16,2000-01-01 00:34:28,fold t-shirt over removable white template,Fabric folding,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,854,866,12
+2000-01-01 00:34:28,2000-01-01 00:34:36,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,866,874,8
+2000-01-01 00:34:36,2000-01-01 00:34:47,fold bottom section of fabric,Fabric folding,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,874,885,11
+2000-01-01 00:34:47,2000-01-01 00:35:07,smooth fabric flat on table,Fabric edge alignment,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,885,905,20
+2000-01-01 00:35:07,2000-01-01 00:35:17,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,905,915,10
+2000-01-01 00:35:17,2000-01-01 00:35:32,fold t-shirt over removable white template,Fabric folding,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,915,930,15
+2000-01-01 00:35:32,2000-01-01 00:35:42,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,930,940,10
+2000-01-01 00:35:42,2000-01-01 00:35:54,fold bottom section of fabric,Fabric folding,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,940,952,12
+2000-01-01 00:35:54,2000-01-01 00:36:17,smooth fabric flat on table,Fabric edge alignment,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,952,975,23
+2000-01-01 00:36:17,2000-01-01 00:36:28,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,975,986,11
+2000-01-01 00:36:28,2000-01-01 00:36:40,fold t-shirt over removable white template,Fabric folding,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,986,998,12
+2000-01-01 00:36:40,2000-01-01 00:36:49,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,998,1007,9
+2000-01-01 00:36:49,2000-01-01 00:36:57,fold bottom section of fabric,Fabric folding,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,1007,1015,8
+2000-01-01 00:36:57,2000-01-01 00:37:20,smooth fabric flat on table,Fabric edge alignment,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,1015,1038,23
+2000-01-01 00:37:20,2000-01-01 00:37:30,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,1038,1048,10
+2000-01-01 00:37:30,2000-01-01 00:37:44,fold t-shirt over removable white template,Fabric folding,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,1048,1062,14
+2000-01-01 00:37:44,2000-01-01 00:37:53,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,1062,1071,9
+2000-01-01 00:37:53,2000-01-01 00:38:02,fold bottom section of fabric,Fabric folding,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,1071,1080,9
+2000-01-01 00:38:02,2000-01-01 00:38:27,smooth fabric flat on table,Fabric edge alignment,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,1080,1105,25
+2000-01-01 00:38:27,2000-01-01 00:38:36,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,1105,1114,9
+2000-01-01 00:38:36,2000-01-01 00:38:50,fold t-shirt over removable white template,Fabric folding,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,1114,1128,14
+2000-01-01 00:38:50,2000-01-01 00:38:59,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,1128,1137,9
+2000-01-01 00:38:59,2000-01-01 00:39:09,fold bottom section of fabric,Fabric folding,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,1137,1147,10
+2000-01-01 00:39:09,2000-01-01 00:39:32,smooth fabric flat on table,Fabric edge alignment,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,1147,1170,23
+2000-01-01 00:39:32,2000-01-01 00:39:42,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,1170,1180,10
+2000-01-01 00:39:42,2000-01-01 00:39:56,fold t-shirt over removable white template,Fabric folding,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,1180,1194,14
+2000-01-01 00:39:56,2000-01-01 00:40:02,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00001.csv,factory_002_worker_005,1194,1200,6
+2000-01-01 00:40:02,2000-01-01 00:40:11,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,0,9,9
+2000-01-01 00:40:11,2000-01-01 00:40:20,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,9,18,9
+2000-01-01 00:40:20,2000-01-01 00:40:30,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,18,28,10
+2000-01-01 00:40:53,2000-01-01 00:41:06,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,51,64,13
+2000-01-01 00:41:06,2000-01-01 00:41:29,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,64,87,23
+2000-01-01 00:41:29,2000-01-01 00:41:38,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,87,96,9
+2000-01-01 00:41:38,2000-01-01 00:41:48,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,96,106,10
+2000-01-01 00:42:09,2000-01-01 00:42:20,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,127,138,11
+2000-01-01 00:42:20,2000-01-01 00:42:42,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,138,160,22
+2000-01-01 00:42:42,2000-01-01 00:42:51,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,160,169,9
+2000-01-01 00:42:51,2000-01-01 00:43:01,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,169,179,10
+2000-01-01 00:43:21,2000-01-01 00:43:33,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,199,211,12
+2000-01-01 00:43:33,2000-01-01 00:43:56,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,211,234,23
+2000-01-01 00:43:56,2000-01-01 00:44:04,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,234,242,8
+2000-01-01 00:44:04,2000-01-01 00:44:14,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,242,252,10
+2000-01-01 00:44:35,2000-01-01 00:44:46,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,273,284,11
+2000-01-01 00:44:46,2000-01-01 00:45:09,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,284,307,23
+2000-01-01 00:45:09,2000-01-01 00:45:17,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,307,315,8
+2000-01-01 00:45:17,2000-01-01 00:45:27,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,315,325,10
+2000-01-01 00:45:48,2000-01-01 00:45:59,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,346,357,11
+2000-01-01 00:45:59,2000-01-01 00:46:22,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,357,380,23
+2000-01-01 00:46:22,2000-01-01 00:46:30,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,380,388,8
+2000-01-01 00:46:30,2000-01-01 00:46:39,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,388,397,9
+2000-01-01 00:47:00,2000-01-01 00:47:11,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,418,429,11
+2000-01-01 00:47:11,2000-01-01 00:47:34,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,429,452,23
+2000-01-01 00:47:34,2000-01-01 00:47:42,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,452,460,8
+2000-01-01 00:47:42,2000-01-01 00:47:52,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,460,470,10
+2000-01-01 00:48:13,2000-01-01 00:48:25,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,491,503,12
+2000-01-01 00:48:25,2000-01-01 00:48:47,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,503,525,22
+2000-01-01 00:48:47,2000-01-01 00:48:55,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,525,533,8
+2000-01-01 00:48:55,2000-01-01 00:49:05,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,533,543,10
+2000-01-01 00:49:26,2000-01-01 00:49:37,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,564,575,11
+2000-01-01 00:49:37,2000-01-01 00:50:00,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,575,598,23
+2000-01-01 00:50:00,2000-01-01 00:50:08,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,598,606,8
+2000-01-01 00:50:08,2000-01-01 00:50:17,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,606,615,9
+2000-01-01 00:50:38,2000-01-01 00:50:50,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,636,648,12
+2000-01-01 00:50:50,2000-01-01 00:51:12,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,648,670,22
+2000-01-01 00:51:12,2000-01-01 00:51:21,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,670,679,9
+2000-01-01 00:51:21,2000-01-01 00:51:30,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,679,688,9
+2000-01-01 00:51:51,2000-01-01 00:52:02,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,709,720,11
+2000-01-01 00:52:02,2000-01-01 00:52:25,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,720,743,23
+2000-01-01 00:52:25,2000-01-01 00:52:33,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,743,751,8
+2000-01-01 00:52:33,2000-01-01 00:52:43,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,751,761,10
+2000-01-01 00:53:03,2000-01-01 00:53:15,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,781,793,12
+2000-01-01 00:53:15,2000-01-01 00:53:38,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,793,816,23
+2000-01-01 00:53:38,2000-01-01 00:53:46,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,816,824,8
+2000-01-01 00:53:46,2000-01-01 00:53:55,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,824,833,9
+2000-01-01 00:54:16,2000-01-01 00:54:28,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,854,866,12
+2000-01-01 00:54:28,2000-01-01 00:54:50,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,866,888,22
+2000-01-01 00:54:50,2000-01-01 00:54:58,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,888,896,8
+2000-01-01 00:54:58,2000-01-01 00:55:08,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,896,906,10
+2000-01-01 00:55:28,2000-01-01 00:55:39,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,926,937,11
+2000-01-01 00:55:39,2000-01-01 00:56:02,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,937,960,23
+2000-01-01 00:56:02,2000-01-01 00:56:10,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,960,968,8
+2000-01-01 00:56:10,2000-01-01 00:56:19,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,968,977,9
+2000-01-01 00:56:40,2000-01-01 00:56:51,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,998,1009,11
+2000-01-01 00:56:51,2000-01-01 00:57:13,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,1009,1031,22
+2000-01-01 00:57:13,2000-01-01 00:57:21,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,1031,1039,8
+2000-01-01 00:57:21,2000-01-01 00:57:31,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,1039,1049,10
+2000-01-01 00:57:51,2000-01-01 00:58:02,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,1069,1080,11
+2000-01-01 00:58:02,2000-01-01 00:58:24,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,1080,1102,22
+2000-01-01 00:58:24,2000-01-01 00:58:33,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,1102,1111,9
+2000-01-01 00:58:33,2000-01-01 00:58:43,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,1111,1121,10
+2000-01-01 00:59:03,2000-01-01 00:59:14,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,1141,1152,11
+2000-01-01 00:59:14,2000-01-01 00:59:37,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,1152,1175,23
+2000-01-01 00:59:37,2000-01-01 00:59:45,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,1175,1183,8
+2000-01-01 00:59:45,2000-01-01 00:59:55,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,1183,1193,10
+2000-01-01 01:00:15,2000-01-01 01:00:20,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00002.csv,factory_002_worker_005,1213,1218,5
+2000-01-01 01:00:20,2000-01-01 01:00:40,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,0,20,20
+2000-01-01 01:00:40,2000-01-01 01:01:04,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,20,44,24
+2000-01-01 01:01:04,2000-01-01 01:01:41,fold t-shirt around permanent cardboard insert,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,44,81,37
+2000-01-01 01:01:41,2000-01-01 01:01:46,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,81,86,5
+2000-01-01 01:01:51,2000-01-01 01:02:25,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,91,125,34
+2000-01-01 01:02:25,2000-01-01 01:02:31,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,125,131,6
+2000-01-01 01:02:31,2000-01-01 01:03:14,fold t-shirt around permanent cardboard insert,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,131,174,43
+2000-01-01 01:03:14,2000-01-01 01:03:19,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,174,179,5
+2000-01-01 01:03:24,2000-01-01 01:03:58,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,184,218,34
+2000-01-01 01:03:58,2000-01-01 01:04:07,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,218,227,9
+2000-01-01 01:04:07,2000-01-01 01:04:51,fold t-shirt around permanent cardboard insert,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,227,271,44
+2000-01-01 01:04:51,2000-01-01 01:04:57,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,271,277,6
+2000-01-01 01:05:02,2000-01-01 01:05:19,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,282,299,17
+2000-01-01 01:05:19,2000-01-01 01:05:30,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,299,310,11
+2000-01-01 01:05:30,2000-01-01 01:05:44,fold t-shirt around permanent cardboard insert,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,310,324,14
+2000-01-01 01:05:44,2000-01-01 01:05:52,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,324,332,8
+2000-01-01 01:05:57,2000-01-01 01:06:12,fold t-shirt around permanent cardboard insert,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,337,352,15
+2000-01-01 01:06:12,2000-01-01 01:06:16,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,352,356,4
+2000-01-01 01:06:21,2000-01-01 01:06:37,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,361,377,16
+2000-01-01 01:06:37,2000-01-01 01:06:47,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,377,387,10
+2000-01-01 01:06:47,2000-01-01 01:07:09,fold t-shirt around permanent cardboard insert,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,387,409,22
+2000-01-01 01:07:09,2000-01-01 01:07:14,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,409,414,5
+2000-01-01 01:07:19,2000-01-01 01:07:38,fold t-shirt around permanent cardboard insert,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,419,438,19
+2000-01-01 01:07:38,2000-01-01 01:07:43,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,438,443,5
+2000-01-01 01:07:49,2000-01-01 01:08:06,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,449,466,17
+2000-01-01 01:08:06,2000-01-01 01:08:16,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,466,476,10
+2000-01-01 01:08:16,2000-01-01 01:08:34,fold t-shirt around permanent cardboard insert,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,476,494,18
+2000-01-01 01:08:34,2000-01-01 01:08:39,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,494,499,5
+2000-01-01 01:08:44,2000-01-01 01:09:01,fold t-shirt around permanent cardboard insert,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,504,521,17
+2000-01-01 01:09:01,2000-01-01 01:09:05,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,521,525,4
+2000-01-01 01:09:09,2000-01-01 01:09:25,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,529,545,16
+2000-01-01 01:09:25,2000-01-01 01:09:34,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,545,554,9
+2000-01-01 01:09:34,2000-01-01 01:09:53,fold t-shirt around permanent cardboard insert,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,554,573,19
+2000-01-01 01:09:53,2000-01-01 01:09:57,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,573,577,4
+2000-01-01 01:10:02,2000-01-01 01:10:17,fold t-shirt around permanent cardboard insert,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,582,597,15
+2000-01-01 01:10:17,2000-01-01 01:10:21,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,597,601,4
+2000-01-01 01:10:26,2000-01-01 01:10:42,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,606,622,16
+2000-01-01 01:10:42,2000-01-01 01:10:51,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,622,631,9
+2000-01-01 01:10:51,2000-01-01 01:11:09,fold t-shirt around permanent cardboard insert,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,631,649,18
+2000-01-01 01:11:09,2000-01-01 01:11:13,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,649,653,4
+2000-01-01 01:11:18,2000-01-01 01:11:35,fold t-shirt around permanent cardboard insert,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,658,675,17
+2000-01-01 01:11:35,2000-01-01 01:11:39,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,675,679,4
+2000-01-01 01:11:44,2000-01-01 01:12:01,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,684,701,17
+2000-01-01 01:12:01,2000-01-01 01:12:08,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,701,708,7
+2000-01-01 01:12:08,2000-01-01 01:12:27,fold t-shirt around permanent cardboard insert,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,708,727,19
+2000-01-01 01:12:27,2000-01-01 01:12:32,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,727,732,5
+2000-01-01 01:12:37,2000-01-01 01:12:53,fold t-shirt around permanent cardboard insert,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,737,753,16
+2000-01-01 01:12:53,2000-01-01 01:12:57,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,753,757,4
+2000-01-01 01:13:02,2000-01-01 01:13:16,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,762,776,14
+2000-01-01 01:13:16,2000-01-01 01:13:24,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,776,784,8
+2000-01-01 01:13:24,2000-01-01 01:13:44,fold t-shirt around permanent cardboard insert,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,784,804,20
+2000-01-01 01:13:44,2000-01-01 01:13:48,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,804,808,4
+2000-01-01 01:13:53,2000-01-01 01:14:09,fold t-shirt around permanent cardboard insert,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,813,829,16
+2000-01-01 01:14:09,2000-01-01 01:14:14,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,829,834,5
+2000-01-01 01:15:10,2000-01-01 01:15:27,fold t-shirt around permanent cardboard insert,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,890,907,17
+2000-01-01 01:15:27,2000-01-01 01:15:31,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,907,911,4
+2000-01-01 01:15:36,2000-01-01 01:15:52,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,916,932,16
+2000-01-01 01:15:52,2000-01-01 01:16:00,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,932,940,8
+2000-01-01 01:16:00,2000-01-01 01:16:18,fold t-shirt around permanent cardboard insert,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,940,958,18
+2000-01-01 01:16:18,2000-01-01 01:16:23,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,958,963,5
+2000-01-01 01:16:27,2000-01-01 01:16:44,fold t-shirt around permanent cardboard insert,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,967,984,17
+2000-01-01 01:16:44,2000-01-01 01:16:48,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,984,988,4
+2000-01-01 01:16:53,2000-01-01 01:17:09,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,993,1009,16
+2000-01-01 01:17:09,2000-01-01 01:17:18,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,1009,1018,9
+2000-01-01 01:17:18,2000-01-01 01:17:35,fold t-shirt around permanent cardboard insert,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,1018,1035,17
+2000-01-01 01:17:35,2000-01-01 01:17:39,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,1035,1039,4
+2000-01-01 01:17:43,2000-01-01 01:17:59,fold t-shirt around permanent cardboard insert,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,1043,1059,16
+2000-01-01 01:17:59,2000-01-01 01:18:03,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,1059,1063,4
+2000-01-01 01:18:08,2000-01-01 01:18:23,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,1068,1083,15
+2000-01-01 01:18:23,2000-01-01 01:18:33,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,1083,1093,10
+2000-01-01 01:18:33,2000-01-01 01:18:51,fold t-shirt around permanent cardboard insert,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,1093,1111,18
+2000-01-01 01:18:51,2000-01-01 01:18:55,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,1111,1115,4
+2000-01-01 01:19:00,2000-01-01 01:19:16,fold t-shirt around permanent cardboard insert,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,1120,1136,16
+2000-01-01 01:19:16,2000-01-01 01:19:20,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,1136,1140,4
+2000-01-01 01:19:25,2000-01-01 01:19:42,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,1145,1162,17
+2000-01-01 01:19:42,2000-01-01 01:19:50,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,1162,1170,8
+2000-01-01 01:19:50,2000-01-01 01:20:07,fold t-shirt around permanent cardboard insert,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,1170,1187,17
+2000-01-01 01:20:07,2000-01-01 01:20:12,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,1187,1192,5
+2000-01-01 01:20:17,2000-01-01 01:20:21,fold t-shirt around permanent cardboard insert,Garment ironing,factory_002,worker_005,factory002_worker005_00003.csv,factory_002_worker_005,1197,1201,4
+2000-01-01 01:20:21,2000-01-01 01:20:33,fold t-shirt over removable white template,Fabric folding,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,0,12,12
+2000-01-01 01:20:33,2000-01-01 01:20:37,slide template out from folded t-shirt,Fabric folding,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,12,16,4
+2000-01-01 01:20:37,2000-01-01 01:21:12,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,16,51,35
+2000-01-01 01:21:12,2000-01-01 01:21:52,freehand fold t-shirt,Fabric folding,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,51,91,40
+2000-01-01 01:21:52,2000-01-01 01:21:58,smooth fabric flat on table,Fabric edge alignment,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,91,97,6
+2000-01-01 01:21:58,2000-01-01 01:22:22,fold t-shirt over removable white template,Fabric folding,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,97,121,24
+2000-01-01 01:22:22,2000-01-01 01:22:32,slide template out from folded t-shirt,Fabric folding,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,121,131,10
+2000-01-01 01:22:32,2000-01-01 01:22:50,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,131,149,18
+2000-01-01 01:22:50,2000-01-01 01:23:12,freehand fold t-shirt,Fabric folding,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,149,171,22
+2000-01-01 01:23:12,2000-01-01 01:23:30,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,171,189,18
+2000-01-01 01:23:30,2000-01-01 01:23:52,freehand fold t-shirt,Fabric folding,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,189,211,22
+2000-01-01 01:23:52,2000-01-01 01:24:00,smooth fabric flat on table,Fabric edge alignment,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,211,219,8
+2000-01-01 01:24:00,2000-01-01 01:24:18,fold t-shirt over removable white template,Fabric folding,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,219,237,18
+2000-01-01 01:24:18,2000-01-01 01:24:22,slide template out from folded t-shirt,Fabric folding,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,237,241,4
+2000-01-01 01:24:22,2000-01-01 01:24:31,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,241,250,9
+2000-01-01 01:24:31,2000-01-01 01:24:49,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,250,268,18
+2000-01-01 01:24:49,2000-01-01 01:25:11,freehand fold t-shirt,Fabric folding,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,268,290,22
+2000-01-01 01:25:11,2000-01-01 01:25:27,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,290,306,16
+2000-01-01 01:25:27,2000-01-01 01:25:45,fold t-shirt over removable white template,Fabric folding,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,306,324,18
+2000-01-01 01:25:45,2000-01-01 01:25:51,slide template out from folded t-shirt,Fabric folding,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,324,330,6
+2000-01-01 01:25:51,2000-01-01 01:26:11,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,330,350,20
+2000-01-01 01:26:11,2000-01-01 01:26:37,freehand fold t-shirt,Fabric folding,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,350,376,26
+2000-01-01 01:26:37,2000-01-01 01:26:58,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,376,397,21
+2000-01-01 01:26:58,2000-01-01 01:27:24,freehand fold t-shirt,Fabric folding,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,397,423,26
+2000-01-01 01:27:24,2000-01-01 01:27:37,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,423,436,13
+2000-01-01 01:27:37,2000-01-01 01:27:52,fold t-shirt over removable white template,Fabric folding,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,436,451,15
+2000-01-01 01:27:52,2000-01-01 01:27:56,slide template out from folded t-shirt,Fabric folding,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,451,455,4
+2000-01-01 01:27:56,2000-01-01 01:28:05,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,455,464,9
+2000-01-01 01:28:05,2000-01-01 01:28:20,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,464,479,15
+2000-01-01 01:28:20,2000-01-01 01:28:38,freehand fold t-shirt,Fabric folding,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,479,497,18
+2000-01-01 01:28:38,2000-01-01 01:28:58,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,497,517,20
+2000-01-01 01:28:58,2000-01-01 01:29:18,fold t-shirt over removable white template,Fabric folding,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,517,537,20
+2000-01-01 01:29:18,2000-01-01 01:29:26,slide template out from folded t-shirt,Fabric folding,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,537,545,8
+2000-01-01 01:29:26,2000-01-01 01:29:40,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,545,559,14
+2000-01-01 01:29:40,2000-01-01 01:29:58,freehand fold t-shirt,Fabric folding,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,559,577,18
+2000-01-01 01:29:58,2000-01-01 01:30:12,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,577,591,14
+2000-01-01 01:30:12,2000-01-01 01:30:30,freehand fold t-shirt,Fabric folding,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,591,609,18
+2000-01-01 01:30:30,2000-01-01 01:30:42,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,609,621,12
+2000-01-01 01:30:42,2000-01-01 01:30:55,fold t-shirt over removable white template,Fabric folding,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,621,634,13
+2000-01-01 01:30:55,2000-01-01 01:31:00,slide template out from folded t-shirt,Fabric folding,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,634,639,5
+2000-01-01 01:31:00,2000-01-01 01:31:13,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,639,652,13
+2000-01-01 01:31:13,2000-01-01 01:31:30,freehand fold t-shirt,Fabric folding,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,652,669,17
+2000-01-01 01:31:30,2000-01-01 01:31:43,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,669,682,13
+2000-01-01 01:31:43,2000-01-01 01:32:00,freehand fold t-shirt,Fabric folding,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,682,699,17
+2000-01-01 01:32:00,2000-01-01 01:32:13,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,699,712,13
+2000-01-01 01:32:13,2000-01-01 01:32:30,freehand fold t-shirt,Fabric folding,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,712,729,17
+2000-01-01 01:32:30,2000-01-01 01:32:43,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,729,742,13
+2000-01-01 01:32:43,2000-01-01 01:33:00,freehand fold t-shirt,Fabric folding,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,742,759,17
+2000-01-01 01:33:00,2000-01-01 01:33:12,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,759,771,12
+2000-01-01 01:33:12,2000-01-01 01:33:28,fold t-shirt over removable white template,Fabric folding,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,771,787,16
+2000-01-01 01:33:28,2000-01-01 01:33:32,slide template out from folded t-shirt,Fabric folding,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,787,791,4
+2000-01-01 01:33:32,2000-01-01 01:33:39,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,791,798,7
+2000-01-01 01:33:39,2000-01-01 01:33:59,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,798,818,20
+2000-01-01 01:33:59,2000-01-01 01:34:25,freehand fold t-shirt,Fabric folding,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,818,844,26
+2000-01-01 01:34:25,2000-01-01 01:34:36,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,844,855,11
+2000-01-01 01:34:36,2000-01-01 01:34:48,fold t-shirt over removable white template,Fabric folding,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,855,867,12
+2000-01-01 01:34:48,2000-01-01 01:34:53,slide template out from folded t-shirt,Fabric folding,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,867,872,5
+2000-01-01 01:34:53,2000-01-01 01:35:07,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,872,886,14
+2000-01-01 01:35:07,2000-01-01 01:35:25,freehand fold t-shirt,Fabric folding,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,886,904,18
+2000-01-01 01:35:25,2000-01-01 01:35:39,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,904,918,14
+2000-01-01 01:35:39,2000-01-01 01:35:57,freehand fold t-shirt,Fabric folding,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,918,936,18
+2000-01-01 01:35:57,2000-01-01 01:36:11,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,936,950,14
+2000-01-01 01:36:11,2000-01-01 01:36:29,freehand fold t-shirt,Fabric folding,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,950,968,18
+2000-01-01 01:36:29,2000-01-01 01:36:39,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,968,978,10
+2000-01-01 01:36:39,2000-01-01 01:36:51,fold t-shirt over removable white template,Fabric folding,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,978,990,12
+2000-01-01 01:36:51,2000-01-01 01:36:56,slide template out from folded t-shirt,Fabric folding,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,990,995,5
+2000-01-01 01:36:56,2000-01-01 01:37:12,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,995,1011,16
+2000-01-01 01:37:12,2000-01-01 01:37:32,freehand fold t-shirt,Fabric folding,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,1011,1031,20
+2000-01-01 01:37:32,2000-01-01 01:37:48,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,1031,1047,16
+2000-01-01 01:37:48,2000-01-01 01:38:08,freehand fold t-shirt,Fabric folding,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,1047,1067,20
+2000-01-01 01:38:08,2000-01-01 01:38:24,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,1067,1083,16
+2000-01-01 01:38:24,2000-01-01 01:38:44,freehand fold t-shirt,Fabric folding,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,1083,1103,20
+2000-01-01 01:38:44,2000-01-01 01:39:01,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,1103,1120,17
+2000-01-01 01:39:01,2000-01-01 01:39:21,freehand fold t-shirt,Fabric folding,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,1120,1140,20
+2000-01-01 01:39:21,2000-01-01 01:39:33,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,1140,1152,12
+2000-01-01 01:39:33,2000-01-01 01:39:46,fold t-shirt over removable white template,Fabric folding,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,1152,1165,13
+2000-01-01 01:39:46,2000-01-01 01:39:51,slide template out from folded t-shirt,Fabric folding,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,1165,1170,5
+2000-01-01 01:39:51,2000-01-01 01:40:06,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,1170,1185,15
+2000-01-01 01:40:06,2000-01-01 01:40:24,freehand fold t-shirt,Fabric folding,factory_002,worker_005,factory002_worker005_00004.csv,factory_002_worker_005,1185,1203,18
+2000-01-01 01:40:24,2000-01-01 01:41:21,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00005.csv,factory_002_worker_005,0,57,57
+2000-01-01 01:41:21,2000-01-01 01:41:45,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00005.csv,factory_002_worker_005,57,81,24
+2000-01-01 01:41:45,2000-01-01 01:42:28,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00005.csv,factory_002_worker_005,81,124,43
+2000-01-01 01:42:28,2000-01-01 01:43:04,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00005.csv,factory_002_worker_005,124,160,36
+2000-01-01 01:43:04,2000-01-01 01:43:24,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00005.csv,factory_002_worker_005,160,180,20
+2000-01-01 01:43:24,2000-01-01 01:44:09,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00005.csv,factory_002_worker_005,180,225,45
+2000-01-01 01:44:09,2000-01-01 01:45:02,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00005.csv,factory_002_worker_005,225,278,53
+2000-01-01 01:45:02,2000-01-01 01:45:31,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00005.csv,factory_002_worker_005,278,307,29
+2000-01-01 01:45:31,2000-01-01 01:46:40,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00005.csv,factory_002_worker_005,307,376,69
+2000-01-01 01:46:40,2000-01-01 01:47:08,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00005.csv,factory_002_worker_005,376,404,28
+2000-01-01 01:47:08,2000-01-01 01:48:10,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00005.csv,factory_002_worker_005,404,466,62
+2000-01-01 01:48:10,2000-01-01 01:48:45,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00005.csv,factory_002_worker_005,466,501,35
+2000-01-01 01:48:45,2000-01-01 01:49:24,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00005.csv,factory_002_worker_005,501,540,39
+2000-01-01 01:49:24,2000-01-01 01:50:03,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00005.csv,factory_002_worker_005,540,579,39
+2000-01-01 01:50:03,2000-01-01 01:50:37,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00005.csv,factory_002_worker_005,579,613,34
+2000-01-01 01:50:37,2000-01-01 01:51:03,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00005.csv,factory_002_worker_005,613,639,26
+2000-01-01 01:51:03,2000-01-01 01:51:49,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00005.csv,factory_002_worker_005,639,685,46
+2000-01-01 01:51:49,2000-01-01 01:52:15,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00005.csv,factory_002_worker_005,685,711,26
+2000-01-01 01:52:15,2000-01-01 01:52:52,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00005.csv,factory_002_worker_005,711,748,37
+2000-01-01 01:52:52,2000-01-01 01:53:32,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00005.csv,factory_002_worker_005,748,788,40
+2000-01-01 01:53:32,2000-01-01 01:54:33,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00005.csv,factory_002_worker_005,788,849,61
+2000-01-01 01:54:33,2000-01-01 01:54:58,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00005.csv,factory_002_worker_005,849,874,25
+2000-01-01 01:54:58,2000-01-01 01:55:35,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00005.csv,factory_002_worker_005,874,911,37
+2000-01-01 01:55:35,2000-01-01 01:56:17,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00005.csv,factory_002_worker_005,911,953,42
+2000-01-01 01:56:17,2000-01-01 01:56:30,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00005.csv,factory_002_worker_005,953,966,13
+2000-01-01 01:56:30,2000-01-01 01:56:50,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00005.csv,factory_002_worker_005,966,986,20
+2000-01-01 01:56:50,2000-01-01 01:57:26,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00005.csv,factory_002_worker_005,986,1022,36
+2000-01-01 01:57:26,2000-01-01 01:57:43,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00005.csv,factory_002_worker_005,1022,1039,17
+2000-01-01 01:57:43,2000-01-01 01:58:11,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00005.csv,factory_002_worker_005,1039,1067,28
+2000-01-01 01:58:11,2000-01-01 01:58:33,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00005.csv,factory_002_worker_005,1067,1089,22
+2000-01-01 01:58:33,2000-01-01 01:58:53,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00005.csv,factory_002_worker_005,1089,1109,20
+2000-01-01 01:58:53,2000-01-01 01:59:14,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00005.csv,factory_002_worker_005,1109,1130,21
+2000-01-01 01:59:14,2000-01-01 01:59:34,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00005.csv,factory_002_worker_005,1130,1150,20
+2000-01-01 01:59:34,2000-01-01 01:59:59,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00005.csv,factory_002_worker_005,1150,1175,25
+2000-01-01 01:59:59,2000-01-01 02:00:12,fold t-shirt around permanent cardboard insert,Cardboard wrapping,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,0,13,13
+2000-01-01 02:00:12,2000-01-01 02:00:31,smooth fabric flat on table,Fabric edge alignment,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,13,32,19
+2000-01-01 02:00:31,2000-01-01 02:00:43,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,32,44,12
+2000-01-01 02:00:43,2000-01-01 02:01:26,freehand fold t-shirt,Fabric folding,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,44,87,43
+2000-01-01 02:01:26,2000-01-01 02:01:30,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,87,91,4
+2000-01-01 02:01:34,2000-01-01 02:02:08,fold t-shirt around permanent cardboard insert,Cardboard wrapping,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,95,129,34
+2000-01-01 02:02:08,2000-01-01 02:02:21,smooth fabric flat on table,Fabric edge alignment,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,129,142,13
+2000-01-01 02:02:21,2000-01-01 02:02:28,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,142,149,7
+2000-01-01 02:02:28,2000-01-01 02:03:09,wrap flat t-shirt around stack of folded t-shirts,Fabric bundling,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,149,190,41
+2000-01-01 02:03:09,2000-01-01 02:03:22,smooth fabric flat on table,Fabric edge alignment,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,190,203,13
+2000-01-01 02:03:22,2000-01-01 02:03:29,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,203,210,7
+2000-01-01 02:03:29,2000-01-01 02:04:10,wrap flat t-shirt around stack of folded t-shirts,Fabric bundling,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,210,251,41
+2000-01-01 02:04:10,2000-01-01 02:04:23,smooth fabric flat on table,Fabric edge alignment,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,251,264,13
+2000-01-01 02:04:23,2000-01-01 02:04:30,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,264,271,7
+2000-01-01 02:04:30,2000-01-01 02:05:11,wrap flat t-shirt around stack of folded t-shirts,Fabric bundling,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,271,312,41
+2000-01-01 02:05:11,2000-01-01 02:05:24,smooth fabric flat on table,Fabric edge alignment,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,312,325,13
+2000-01-01 02:05:24,2000-01-01 02:05:31,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,325,332,7
+2000-01-01 02:05:31,2000-01-01 02:06:12,wrap flat t-shirt around stack of folded t-shirts,Fabric bundling,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,332,373,41
+2000-01-01 02:06:12,2000-01-01 02:06:25,smooth fabric flat on table,Fabric edge alignment,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,373,386,13
+2000-01-01 02:06:25,2000-01-01 02:06:32,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,386,393,7
+2000-01-01 02:06:32,2000-01-01 02:07:13,wrap flat t-shirt around stack of folded t-shirts,Fabric bundling,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,393,434,41
+2000-01-01 02:07:13,2000-01-01 02:07:26,smooth fabric flat on table,Fabric edge alignment,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,434,447,13
+2000-01-01 02:07:26,2000-01-01 02:07:33,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,447,454,7
+2000-01-01 02:07:33,2000-01-01 02:08:14,wrap flat t-shirt around stack of folded t-shirts,Fabric bundling,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,454,495,41
+2000-01-01 02:08:14,2000-01-01 02:08:27,smooth fabric flat on table,Fabric edge alignment,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,495,508,13
+2000-01-01 02:08:27,2000-01-01 02:08:34,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,508,515,7
+2000-01-01 02:08:34,2000-01-01 02:09:15,wrap flat t-shirt around stack of folded t-shirts,Fabric bundling,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,515,556,41
+2000-01-01 02:09:15,2000-01-01 02:09:28,smooth fabric flat on table,Fabric edge alignment,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,556,569,13
+2000-01-01 02:09:28,2000-01-01 02:09:35,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,569,576,7
+2000-01-01 02:09:35,2000-01-01 02:10:16,wrap flat t-shirt around stack of folded t-shirts,Fabric bundling,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,576,617,41
+2000-01-01 02:10:16,2000-01-01 02:10:29,smooth fabric flat on table,Fabric edge alignment,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,617,630,13
+2000-01-01 02:10:29,2000-01-01 02:10:36,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,630,637,7
+2000-01-01 02:10:36,2000-01-01 02:11:17,wrap flat t-shirt around stack of folded t-shirts,Fabric bundling,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,637,678,41
+2000-01-01 02:11:17,2000-01-01 02:11:30,smooth fabric flat on table,Fabric edge alignment,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,678,691,13
+2000-01-01 02:11:30,2000-01-01 02:11:37,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,691,698,7
+2000-01-01 02:11:37,2000-01-01 02:12:18,wrap flat t-shirt around stack of folded t-shirts,Fabric bundling,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,698,739,41
+2000-01-01 02:12:18,2000-01-01 02:12:31,smooth fabric flat on table,Fabric edge alignment,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,739,752,13
+2000-01-01 02:12:31,2000-01-01 02:12:38,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,752,759,7
+2000-01-01 02:12:38,2000-01-01 02:13:19,wrap flat t-shirt around stack of folded t-shirts,Fabric bundling,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,759,800,41
+2000-01-01 02:13:19,2000-01-01 02:13:32,smooth fabric flat on table,Fabric edge alignment,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,800,813,13
+2000-01-01 02:13:32,2000-01-01 02:13:39,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,813,820,7
+2000-01-01 02:13:39,2000-01-01 02:14:20,wrap flat t-shirt around stack of folded t-shirts,Fabric bundling,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,820,861,41
+2000-01-01 02:14:20,2000-01-01 02:14:33,smooth fabric flat on table,Fabric edge alignment,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,861,874,13
+2000-01-01 02:14:33,2000-01-01 02:14:40,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,874,881,7
+2000-01-01 02:14:40,2000-01-01 02:15:21,wrap flat t-shirt around stack of folded t-shirts,Fabric bundling,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,881,922,41
+2000-01-01 02:15:21,2000-01-01 02:15:34,smooth fabric flat on table,Fabric edge alignment,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,922,935,13
+2000-01-01 02:15:34,2000-01-01 02:15:41,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,935,942,7
+2000-01-01 02:15:41,2000-01-01 02:16:22,wrap flat t-shirt around stack of folded t-shirts,Fabric bundling,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,942,983,41
+2000-01-01 02:16:22,2000-01-01 02:16:35,smooth fabric flat on table,Fabric edge alignment,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,983,996,13
+2000-01-01 02:16:35,2000-01-01 02:16:42,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,996,1003,7
+2000-01-01 02:16:42,2000-01-01 02:17:23,wrap flat t-shirt around stack of folded t-shirts,Fabric bundling,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,1003,1044,41
+2000-01-01 02:17:23,2000-01-01 02:17:36,smooth fabric flat on table,Fabric edge alignment,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,1044,1057,13
+2000-01-01 02:17:36,2000-01-01 02:17:43,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,1057,1064,7
+2000-01-01 02:17:43,2000-01-01 02:18:24,wrap flat t-shirt around stack of folded t-shirts,Fabric bundling,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,1064,1105,41
+2000-01-01 02:18:24,2000-01-01 02:18:37,smooth fabric flat on table,Fabric edge alignment,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,1105,1118,13
+2000-01-01 02:18:37,2000-01-01 02:18:44,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,1118,1125,7
+2000-01-01 02:18:44,2000-01-01 02:19:25,wrap flat t-shirt around stack of folded t-shirts,Fabric bundling,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,1125,1166,41
+2000-01-01 02:19:25,2000-01-01 02:19:38,smooth fabric flat on table,Fabric edge alignment,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,1166,1179,13
+2000-01-01 02:19:38,2000-01-01 02:20:00,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00006.csv,factory_002_worker_005,1179,1201,22
+2000-01-01 02:20:00,2000-01-01 02:20:07,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,0,7,7
+2000-01-01 02:20:07,2000-01-01 02:20:20,smooth fabric flat on table,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,7,20,13
+2000-01-01 02:20:20,2000-01-01 02:20:25,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,20,25,5
+2000-01-01 02:20:25,2000-01-01 02:20:41,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,25,41,16
+2000-01-01 02:20:41,2000-01-01 02:20:45,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,41,45,4
+2000-01-01 02:20:45,2000-01-01 02:20:52,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,45,52,7
+2000-01-01 02:20:52,2000-01-01 02:20:56,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,52,56,4
+2000-01-01 02:20:56,2000-01-01 02:21:01,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,56,61,5
+2000-01-01 02:21:01,2000-01-01 02:21:08,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,61,68,7
+2000-01-01 02:21:14,2000-01-01 02:21:25,smooth fabric flat on table,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,74,85,11
+2000-01-01 02:21:25,2000-01-01 02:21:29,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,85,89,4
+2000-01-01 02:21:29,2000-01-01 02:21:42,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,89,102,13
+2000-01-01 02:21:42,2000-01-01 02:21:45,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,102,105,3
+2000-01-01 02:21:45,2000-01-01 02:21:51,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,105,111,6
+2000-01-01 02:21:51,2000-01-01 02:21:54,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,111,114,3
+2000-01-01 02:21:54,2000-01-01 02:21:58,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,114,118,4
+2000-01-01 02:21:58,2000-01-01 02:22:04,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,118,124,6
+2000-01-01 02:22:04,2000-01-01 02:22:16,smooth fabric flat on table,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,124,136,12
+2000-01-01 02:22:16,2000-01-01 02:22:21,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,136,141,5
+2000-01-01 02:22:21,2000-01-01 02:22:36,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,141,156,15
+2000-01-01 02:22:36,2000-01-01 02:22:40,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,156,160,4
+2000-01-01 02:22:40,2000-01-01 02:22:47,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,160,167,7
+2000-01-01 02:22:47,2000-01-01 02:22:51,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,167,171,4
+2000-01-01 02:22:51,2000-01-01 02:22:55,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,171,175,4
+2000-01-01 02:22:55,2000-01-01 02:23:01,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,175,181,6
+2000-01-01 02:23:01,2000-01-01 02:23:13,smooth fabric flat on table,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,181,193,12
+2000-01-01 02:23:13,2000-01-01 02:23:18,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,193,198,5
+2000-01-01 02:23:18,2000-01-01 02:23:33,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,198,213,15
+2000-01-01 02:23:33,2000-01-01 02:23:37,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,213,217,4
+2000-01-01 02:23:37,2000-01-01 02:23:44,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,217,224,7
+2000-01-01 02:23:44,2000-01-01 02:23:48,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,224,228,4
+2000-01-01 02:23:48,2000-01-01 02:23:52,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,228,232,4
+2000-01-01 02:23:52,2000-01-01 02:23:58,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,232,238,6
+2000-01-01 02:23:58,2000-01-01 02:24:10,smooth fabric flat on table,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,238,250,12
+2000-01-01 02:24:10,2000-01-01 02:24:15,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,250,255,5
+2000-01-01 02:24:15,2000-01-01 02:24:30,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,255,270,15
+2000-01-01 02:24:30,2000-01-01 02:24:34,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,270,274,4
+2000-01-01 02:24:34,2000-01-01 02:24:41,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,274,281,7
+2000-01-01 02:24:41,2000-01-01 02:24:45,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,281,285,4
+2000-01-01 02:24:45,2000-01-01 02:24:49,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,285,289,4
+2000-01-01 02:24:49,2000-01-01 02:24:55,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,289,295,6
+2000-01-01 02:24:55,2000-01-01 02:25:07,smooth fabric flat on table,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,295,307,12
+2000-01-01 02:25:07,2000-01-01 02:25:12,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,307,312,5
+2000-01-01 02:25:12,2000-01-01 02:25:27,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,312,327,15
+2000-01-01 02:25:27,2000-01-01 02:25:31,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,327,331,4
+2000-01-01 02:25:31,2000-01-01 02:25:38,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,331,338,7
+2000-01-01 02:25:38,2000-01-01 02:25:42,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,338,342,4
+2000-01-01 02:25:42,2000-01-01 02:25:46,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,342,346,4
+2000-01-01 02:25:46,2000-01-01 02:25:52,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,346,352,6
+2000-01-01 02:25:52,2000-01-01 02:26:04,smooth fabric flat on table,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,352,364,12
+2000-01-01 02:26:04,2000-01-01 02:26:09,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,364,369,5
+2000-01-01 02:26:09,2000-01-01 02:26:24,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,369,384,15
+2000-01-01 02:26:24,2000-01-01 02:26:28,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,384,388,4
+2000-01-01 02:26:28,2000-01-01 02:26:35,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,388,395,7
+2000-01-01 02:26:35,2000-01-01 02:26:39,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,395,399,4
+2000-01-01 02:26:39,2000-01-01 02:26:44,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,399,404,5
+2000-01-01 02:26:44,2000-01-01 02:26:50,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,404,410,6
+2000-01-01 02:26:50,2000-01-01 02:27:02,smooth fabric flat on table,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,410,422,12
+2000-01-01 02:27:02,2000-01-01 02:27:07,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,422,427,5
+2000-01-01 02:27:07,2000-01-01 02:27:22,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,427,442,15
+2000-01-01 02:27:22,2000-01-01 02:27:26,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,442,446,4
+2000-01-01 02:27:26,2000-01-01 02:27:33,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,446,453,7
+2000-01-01 02:27:33,2000-01-01 02:27:37,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,453,457,4
+2000-01-01 02:27:37,2000-01-01 02:27:42,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,457,462,5
+2000-01-01 02:27:42,2000-01-01 02:27:48,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,462,468,6
+2000-01-01 02:27:54,2000-01-01 02:28:06,smooth fabric flat on table,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,474,486,12
+2000-01-01 02:28:06,2000-01-01 02:28:11,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,486,491,5
+2000-01-01 02:28:11,2000-01-01 02:28:26,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,491,506,15
+2000-01-01 02:28:26,2000-01-01 02:28:30,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,506,510,4
+2000-01-01 02:28:30,2000-01-01 02:28:36,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,510,516,6
+2000-01-01 02:28:36,2000-01-01 02:28:40,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,516,520,4
+2000-01-01 02:28:40,2000-01-01 02:28:44,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,520,524,4
+2000-01-01 02:28:44,2000-01-01 02:28:50,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,524,530,6
+2000-01-01 02:28:50,2000-01-01 02:29:02,smooth fabric flat on table,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,530,542,12
+2000-01-01 02:29:02,2000-01-01 02:29:07,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,542,547,5
+2000-01-01 02:29:07,2000-01-01 02:29:22,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,547,562,15
+2000-01-01 02:29:22,2000-01-01 02:29:26,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,562,566,4
+2000-01-01 02:29:26,2000-01-01 02:29:32,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,566,572,6
+2000-01-01 02:29:32,2000-01-01 02:29:36,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,572,576,4
+2000-01-01 02:29:36,2000-01-01 02:29:40,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,576,580,4
+2000-01-01 02:29:40,2000-01-01 02:29:46,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,580,586,6
+2000-01-01 02:29:46,2000-01-01 02:29:58,smooth fabric flat on table,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,586,598,12
+2000-01-01 02:29:58,2000-01-01 02:30:03,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,598,603,5
+2000-01-01 02:30:03,2000-01-01 02:30:18,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,603,618,15
+2000-01-01 02:30:18,2000-01-01 02:30:22,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,618,622,4
+2000-01-01 02:30:22,2000-01-01 02:30:29,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,622,629,7
+2000-01-01 02:30:29,2000-01-01 02:30:33,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,629,633,4
+2000-01-01 02:30:33,2000-01-01 02:30:37,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,633,637,4
+2000-01-01 02:30:37,2000-01-01 02:30:43,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,637,643,6
+2000-01-01 02:30:43,2000-01-01 02:30:55,smooth fabric flat on table,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,643,655,12
+2000-01-01 02:30:55,2000-01-01 02:31:00,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,655,660,5
+2000-01-01 02:31:04,2000-01-01 02:31:18,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,664,678,14
+2000-01-01 02:31:18,2000-01-01 02:31:22,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,678,682,4
+2000-01-01 02:31:22,2000-01-01 02:31:28,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,682,688,6
+2000-01-01 02:31:28,2000-01-01 02:31:32,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,688,692,4
+2000-01-01 02:31:32,2000-01-01 02:31:36,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,692,696,4
+2000-01-01 02:31:36,2000-01-01 02:31:42,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,696,702,6
+2000-01-01 02:31:42,2000-01-01 02:31:55,smooth fabric flat on table,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,702,715,13
+2000-01-01 02:31:55,2000-01-01 02:32:00,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,715,720,5
+2000-01-01 02:32:00,2000-01-01 02:32:15,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,720,735,15
+2000-01-01 02:32:15,2000-01-01 02:32:19,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,735,739,4
+2000-01-01 02:32:19,2000-01-01 02:32:26,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,739,746,7
+2000-01-01 02:32:26,2000-01-01 02:32:30,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,746,750,4
+2000-01-01 02:32:30,2000-01-01 02:32:35,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,750,755,5
+2000-01-01 02:32:35,2000-01-01 02:32:41,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,755,761,6
+2000-01-01 02:32:46,2000-01-01 02:32:55,smooth fabric flat on table,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,766,775,9
+2000-01-01 02:32:55,2000-01-01 02:32:59,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,775,779,4
+2000-01-01 02:32:59,2000-01-01 02:33:11,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,779,791,12
+2000-01-01 02:33:11,2000-01-01 02:33:14,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,791,794,3
+2000-01-01 02:33:14,2000-01-01 02:33:19,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,794,799,5
+2000-01-01 02:33:19,2000-01-01 02:33:22,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,799,802,3
+2000-01-01 02:33:22,2000-01-01 02:33:25,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,802,805,3
+2000-01-01 02:33:25,2000-01-01 02:33:30,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,805,810,5
+2000-01-01 02:33:30,2000-01-01 02:33:39,smooth fabric flat on table,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,810,819,9
+2000-01-01 02:33:39,2000-01-01 02:33:43,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,819,823,4
+2000-01-01 02:33:43,2000-01-01 02:33:55,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,823,835,12
+2000-01-01 02:33:55,2000-01-01 02:33:58,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,835,838,3
+2000-01-01 02:33:58,2000-01-01 02:34:03,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,838,843,5
+2000-01-01 02:34:03,2000-01-01 02:34:06,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,843,846,3
+2000-01-01 02:34:06,2000-01-01 02:34:09,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,846,849,3
+2000-01-01 02:34:09,2000-01-01 02:34:14,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,849,854,5
+2000-01-01 02:34:14,2000-01-01 02:34:23,smooth fabric flat on table,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,854,863,9
+2000-01-01 02:34:23,2000-01-01 02:34:27,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,863,867,4
+2000-01-01 02:34:27,2000-01-01 02:34:39,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,867,879,12
+2000-01-01 02:34:39,2000-01-01 02:34:42,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,879,882,3
+2000-01-01 02:34:42,2000-01-01 02:34:47,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,882,887,5
+2000-01-01 02:34:47,2000-01-01 02:34:50,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,887,890,3
+2000-01-01 02:34:50,2000-01-01 02:34:53,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,890,893,3
+2000-01-01 02:34:53,2000-01-01 02:34:58,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,893,898,5
+2000-01-01 02:35:04,2000-01-01 02:35:18,smooth fabric flat on table,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,904,918,14
+2000-01-01 02:35:18,2000-01-01 02:35:23,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,918,923,5
+2000-01-01 02:35:23,2000-01-01 02:35:40,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,923,940,17
+2000-01-01 02:35:40,2000-01-01 02:35:44,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,940,944,4
+2000-01-01 02:35:44,2000-01-01 02:35:51,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,944,951,7
+2000-01-01 02:35:51,2000-01-01 02:35:55,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,951,955,4
+2000-01-01 02:35:55,2000-01-01 02:36:01,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,955,961,6
+2000-01-01 02:36:01,2000-01-01 02:36:09,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,961,969,8
+2000-01-01 02:36:09,2000-01-01 02:36:23,smooth fabric flat on table,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,969,983,14
+2000-01-01 02:36:23,2000-01-01 02:36:28,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,983,988,5
+2000-01-01 02:36:28,2000-01-01 02:36:45,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,988,1005,17
+2000-01-01 02:36:45,2000-01-01 02:36:49,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,1005,1009,4
+2000-01-01 02:36:49,2000-01-01 02:36:56,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,1009,1016,7
+2000-01-01 02:36:56,2000-01-01 02:37:00,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,1016,1020,4
+2000-01-01 02:37:00,2000-01-01 02:37:06,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,1020,1026,6
+2000-01-01 02:37:06,2000-01-01 02:37:14,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,1026,1034,8
+2000-01-01 02:37:14,2000-01-01 02:37:28,smooth fabric flat on table,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,1034,1048,14
+2000-01-01 02:37:28,2000-01-01 02:37:33,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,1048,1053,5
+2000-01-01 02:37:33,2000-01-01 02:37:50,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,1053,1070,17
+2000-01-01 02:37:50,2000-01-01 02:37:54,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,1070,1074,4
+2000-01-01 02:37:54,2000-01-01 02:38:01,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,1074,1081,7
+2000-01-01 02:38:01,2000-01-01 02:38:05,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,1081,1085,4
+2000-01-01 02:38:05,2000-01-01 02:38:10,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,1085,1090,5
+2000-01-01 02:38:10,2000-01-01 02:38:18,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,1090,1098,8
+2000-01-01 02:38:24,2000-01-01 02:38:34,smooth fabric flat on table,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,1104,1114,10
+2000-01-01 02:38:34,2000-01-01 02:38:38,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,1114,1118,4
+2000-01-01 02:38:38,2000-01-01 02:38:50,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,1118,1130,12
+2000-01-01 02:38:50,2000-01-01 02:38:53,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,1130,1133,3
+2000-01-01 02:38:53,2000-01-01 02:38:58,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,1133,1138,5
+2000-01-01 02:38:58,2000-01-01 02:39:01,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,1138,1141,3
+2000-01-01 02:39:01,2000-01-01 02:39:05,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,1141,1145,4
+2000-01-01 02:39:05,2000-01-01 02:39:11,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,1145,1151,6
+2000-01-01 02:39:11,2000-01-01 02:39:21,smooth fabric flat on table,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,1151,1161,10
+2000-01-01 02:39:21,2000-01-01 02:39:25,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,1161,1165,4
+2000-01-01 02:39:25,2000-01-01 02:39:38,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,1165,1178,13
+2000-01-01 02:39:38,2000-01-01 02:39:41,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,1178,1181,3
+2000-01-01 02:39:41,2000-01-01 02:39:46,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,1181,1186,5
+2000-01-01 02:39:46,2000-01-01 02:39:49,press folded garment creases with iron,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,1186,1189,3
+2000-01-01 02:39:49,2000-01-01 02:39:53,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,1189,1193,4
+2000-01-01 02:39:53,2000-01-01 02:39:59,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00007.csv,factory_002_worker_005,1193,1199,6
+2000-01-01 02:40:18,2000-01-01 02:40:59,distribute white cardboard sheets to adjacent stations,Material transport,factory_002,worker_005,factory002_worker005_00008.csv,factory_002_worker_005,19,60,41
+2000-01-01 02:40:59,2000-01-01 02:41:40,slice plastic banding on cardboard stacks with orange cutter,Material transport,factory_002,worker_005,factory002_worker005_00008.csv,factory_002_worker_005,60,101,41
+2000-01-01 02:42:05,2000-01-01 02:42:54,review handwritten instruction slips,Floor auditing,factory_002,worker_005,factory002_worker005_00008.csv,factory_002_worker_005,126,175,49
+2000-01-01 02:42:54,2000-01-01 02:43:02,smooth fabric flat on table,Fabric edge alignment,factory_002,worker_005,factory002_worker005_00008.csv,factory_002_worker_005,175,183,8
+2000-01-01 02:43:02,2000-01-01 02:43:08,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00008.csv,factory_002_worker_005,183,189,6
+2000-01-01 02:43:08,2000-01-01 02:43:39,fold t-shirt over removable white template,Fabric folding,factory_002,worker_005,factory002_worker005_00008.csv,factory_002_worker_005,189,220,31
+2000-01-01 02:43:39,2000-01-01 02:43:44,slide template out from folded t-shirt,Fabric folding,factory_002,worker_005,factory002_worker005_00008.csv,factory_002_worker_005,220,225,5
+2000-01-01 02:43:44,2000-01-01 02:59:59,fold t-shirt over removable white template,Fabric folding,factory_002,worker_005,factory002_worker005_00008.csv,factory_002_worker_005,225,1200,975
+2000-01-01 02:59:59,2000-01-01 03:00:53,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00009.csv,factory_002_worker_005,0,54,54
+2000-01-01 03:01:03,2000-01-01 03:01:35,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00009.csv,factory_002_worker_005,64,96,32
+2000-01-01 03:01:35,2000-01-01 03:02:00,fold t-shirt around permanent cardboard insert,Fabric folding,factory_002,worker_005,factory002_worker005_00009.csv,factory_002_worker_005,96,121,25
+2000-01-01 03:02:00,2000-01-01 03:03:24,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00009.csv,factory_002_worker_005,121,205,84
+2000-01-01 03:03:24,2000-01-01 03:03:41,fold t-shirt around permanent cardboard insert,Fabric folding,factory_002,worker_005,factory002_worker005_00009.csv,factory_002_worker_005,205,222,17
+2000-01-01 03:03:41,2000-01-01 03:05:17,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00009.csv,factory_002_worker_005,222,318,96
+2000-01-01 03:05:17,2000-01-01 03:05:34,fold t-shirt around permanent cardboard insert,Fabric folding,factory_002,worker_005,factory002_worker005_00009.csv,factory_002_worker_005,318,335,17
+2000-01-01 03:05:34,2000-01-01 03:06:33,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00009.csv,factory_002_worker_005,335,394,59
+2000-01-01 03:06:33,2000-01-01 03:06:52,fold t-shirt around permanent cardboard insert,Fabric folding,factory_002,worker_005,factory002_worker005_00009.csv,factory_002_worker_005,394,413,19
+2000-01-01 03:06:52,2000-01-01 03:08:41,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00009.csv,factory_002_worker_005,413,522,109
+2000-01-01 03:08:41,2000-01-01 03:08:59,fold t-shirt around permanent cardboard insert,Fabric folding,factory_002,worker_005,factory002_worker005_00009.csv,factory_002_worker_005,522,540,18
+2000-01-01 03:08:59,2000-01-01 03:09:48,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00009.csv,factory_002_worker_005,540,589,49
+2000-01-01 03:09:48,2000-01-01 03:10:03,fold t-shirt around permanent cardboard insert,Fabric folding,factory_002,worker_005,factory002_worker005_00009.csv,factory_002_worker_005,589,604,15
+2000-01-01 03:10:03,2000-01-01 03:10:27,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00009.csv,factory_002_worker_005,604,628,24
+2000-01-01 03:10:27,2000-01-01 03:10:42,fold t-shirt around permanent cardboard insert,Fabric folding,factory_002,worker_005,factory002_worker005_00009.csv,factory_002_worker_005,628,643,15
+2000-01-01 03:10:42,2000-01-01 03:11:17,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00009.csv,factory_002_worker_005,643,678,35
+2000-01-01 03:11:17,2000-01-01 03:11:31,fold t-shirt around permanent cardboard insert,Fabric folding,factory_002,worker_005,factory002_worker005_00009.csv,factory_002_worker_005,678,692,14
+2000-01-01 03:11:31,2000-01-01 03:11:57,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00009.csv,factory_002_worker_005,692,718,26
+2000-01-01 03:11:57,2000-01-01 03:12:13,fold t-shirt around permanent cardboard insert,Fabric folding,factory_002,worker_005,factory002_worker005_00009.csv,factory_002_worker_005,718,734,16
+2000-01-01 03:12:13,2000-01-01 03:12:50,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00009.csv,factory_002_worker_005,734,771,37
+2000-01-01 03:12:50,2000-01-01 03:13:08,fold t-shirt around permanent cardboard insert,Fabric folding,factory_002,worker_005,factory002_worker005_00009.csv,factory_002_worker_005,771,789,18
+2000-01-01 03:13:08,2000-01-01 03:13:46,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00009.csv,factory_002_worker_005,789,827,38
+2000-01-01 03:13:46,2000-01-01 03:14:03,fold t-shirt around permanent cardboard insert,Fabric folding,factory_002,worker_005,factory002_worker005_00009.csv,factory_002_worker_005,827,844,17
+2000-01-01 03:14:03,2000-01-01 03:14:25,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00009.csv,factory_002_worker_005,844,866,22
+2000-01-01 03:14:25,2000-01-01 03:14:40,fold t-shirt around permanent cardboard insert,Fabric folding,factory_002,worker_005,factory002_worker005_00009.csv,factory_002_worker_005,866,881,15
+2000-01-01 03:14:40,2000-01-01 03:15:40,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00009.csv,factory_002_worker_005,881,941,60
+2000-01-01 03:15:40,2000-01-01 03:15:57,fold t-shirt around permanent cardboard insert,Fabric folding,factory_002,worker_005,factory002_worker005_00009.csv,factory_002_worker_005,941,958,17
+2000-01-01 03:15:57,2000-01-01 03:16:40,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00009.csv,factory_002_worker_005,958,1001,43
+2000-01-01 03:16:40,2000-01-01 03:16:58,fold t-shirt around permanent cardboard insert,Fabric folding,factory_002,worker_005,factory002_worker005_00009.csv,factory_002_worker_005,1001,1019,18
+2000-01-01 03:16:58,2000-01-01 03:17:13,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00009.csv,factory_002_worker_005,1019,1034,15
+2000-01-01 03:17:13,2000-01-01 03:17:26,fold t-shirt around permanent cardboard insert,Fabric folding,factory_002,worker_005,factory002_worker005_00009.csv,factory_002_worker_005,1034,1047,13
+2000-01-01 03:17:26,2000-01-01 03:18:12,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00009.csv,factory_002_worker_005,1047,1093,46
+2000-01-01 03:18:12,2000-01-01 03:18:28,fold t-shirt around permanent cardboard insert,Fabric folding,factory_002,worker_005,factory002_worker005_00009.csv,factory_002_worker_005,1093,1109,16
+2000-01-01 03:18:28,2000-01-01 03:18:55,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00009.csv,factory_002_worker_005,1109,1136,27
+2000-01-01 03:18:55,2000-01-01 03:19:11,fold t-shirt around permanent cardboard insert,Fabric folding,factory_002,worker_005,factory002_worker005_00009.csv,factory_002_worker_005,1136,1152,16
+2000-01-01 03:19:11,2000-01-01 03:19:34,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00009.csv,factory_002_worker_005,1152,1175,23
+2000-01-01 03:19:34,2000-01-01 03:19:48,fold t-shirt around permanent cardboard insert,Fabric folding,factory_002,worker_005,factory002_worker005_00009.csv,factory_002_worker_005,1175,1189,14
+2000-01-01 03:19:48,2000-01-01 03:20:09,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00009.csv,factory_002_worker_005,1189,1210,21
+2000-01-01 03:20:09,2000-01-01 03:20:24,fold t-shirt around permanent cardboard insert,Fabric folding,factory_002,worker_005,factory002_worker005_00009.csv,factory_002_worker_005,1210,1225,15
+2000-01-01 03:20:24,2000-01-01 03:21:26,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00010.csv,factory_002_worker_005,0,62,62
+2000-01-01 03:21:26,2000-01-01 03:21:40,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00010.csv,factory_002_worker_005,62,76,14
+2000-01-01 03:21:40,2000-01-01 03:21:45,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00010.csv,factory_002_worker_005,76,81,5
+2000-01-01 03:21:51,2000-01-01 03:22:29,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00010.csv,factory_002_worker_005,87,125,38
+2000-01-01 03:22:41,2000-01-01 03:23:05,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00010.csv,factory_002_worker_005,137,161,24
+2000-01-01 03:23:05,2000-01-01 03:23:15,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00010.csv,factory_002_worker_005,161,171,10
+2000-01-01 03:23:15,2000-01-01 03:23:33,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00010.csv,factory_002_worker_005,171,189,18
+2000-01-01 03:23:33,2000-01-01 03:23:54,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00010.csv,factory_002_worker_005,189,210,21
+2000-01-01 03:23:54,2000-01-01 03:23:58,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00010.csv,factory_002_worker_005,210,214,4
+2000-01-01 03:24:08,2000-01-01 03:24:20,write production numbers in lined notebook,Floor auditing,factory_002,worker_005,factory002_worker005_00010.csv,factory_002_worker_005,224,236,12
+2000-01-01 03:24:21,2000-01-01 03:25:51,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00010.csv,factory_002_worker_005,237,327,90
+2000-01-01 03:25:51,2000-01-01 03:26:10,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00010.csv,factory_002_worker_005,327,346,19
+2000-01-01 03:26:10,2000-01-01 03:26:14,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00010.csv,factory_002_worker_005,346,350,4
+2000-01-01 03:26:14,2000-01-01 03:27:38,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00010.csv,factory_002_worker_005,350,434,84
+2000-01-01 03:27:38,2000-01-01 03:27:58,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00010.csv,factory_002_worker_005,434,454,20
+2000-01-01 03:27:58,2000-01-01 03:28:01,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00010.csv,factory_002_worker_005,454,457,3
+2000-01-01 03:28:01,2000-01-01 03:28:37,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00010.csv,factory_002_worker_005,457,493,36
+2000-01-01 03:28:37,2000-01-01 03:28:56,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00010.csv,factory_002_worker_005,493,512,19
+2000-01-01 03:28:56,2000-01-01 03:29:44,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00010.csv,factory_002_worker_005,512,560,48
+2000-01-01 03:29:44,2000-01-01 03:30:02,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00010.csv,factory_002_worker_005,560,578,18
+2000-01-01 03:30:02,2000-01-01 03:30:05,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00010.csv,factory_002_worker_005,578,581,3
+2000-01-01 03:30:05,2000-01-01 03:31:04,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00010.csv,factory_002_worker_005,581,640,59
+2000-01-01 03:31:04,2000-01-01 03:31:23,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00010.csv,factory_002_worker_005,640,659,19
+2000-01-01 03:31:23,2000-01-01 03:31:56,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00010.csv,factory_002_worker_005,659,692,33
+2000-01-01 03:31:56,2000-01-01 03:32:11,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00010.csv,factory_002_worker_005,692,707,15
+2000-01-01 03:32:11,2000-01-01 03:32:15,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00010.csv,factory_002_worker_005,707,711,4
+2000-01-01 03:34:55,2000-01-01 03:35:24,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00010.csv,factory_002_worker_005,871,900,29
+2000-01-01 03:35:24,2000-01-01 03:35:48,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00010.csv,factory_002_worker_005,900,924,24
+2000-01-01 03:35:48,2000-01-01 03:36:27,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00010.csv,factory_002_worker_005,924,963,39
+2000-01-01 03:36:27,2000-01-01 03:36:42,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00010.csv,factory_002_worker_005,963,978,15
+2000-01-01 03:36:42,2000-01-01 03:36:45,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00010.csv,factory_002_worker_005,978,981,3
+2000-01-01 03:36:45,2000-01-01 03:37:39,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00010.csv,factory_002_worker_005,981,1035,54
+2000-01-01 03:37:39,2000-01-01 03:37:55,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00010.csv,factory_002_worker_005,1035,1051,16
+2000-01-01 03:37:55,2000-01-01 03:38:33,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00010.csv,factory_002_worker_005,1051,1089,38
+2000-01-01 03:38:47,2000-01-01 03:38:55,freehand fold t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00010.csv,factory_002_worker_005,1103,1111,8
+2000-01-01 03:38:55,2000-01-01 03:39:43,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00010.csv,factory_002_worker_005,1111,1159,48
+2000-01-01 03:39:43,2000-01-01 03:40:00,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005,factory002_worker005_00010.csv,factory_002_worker_005,1159,1176,17
+2000-01-01 03:40:00,2000-01-01 03:40:03,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005,factory002_worker005_00010.csv,factory_002_worker_005,1176,1179,3
+2000-01-01 03:40:03,2000-01-01 03:40:18,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005,factory002_worker005_00010.csv,factory_002_worker_005,1179,1194,15

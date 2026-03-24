@@ -1,0 +1,347 @@
+start_timestamp,end_timestamp,activity,process,factory,worker,source_file,case_id,start_seconds_from_video_start,end_seconds_from_video_start,duration_seconds
+2000-01-01 00:00:00,2000-01-01 00:00:30,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00000.csv,factory_003_worker_009,0,30,30
+2000-01-01 00:00:30,2000-01-01 00:00:54,file component edges,Surface finishing and polishing,factory_003,worker_009,factory003_worker009_00000.csv,factory_003_worker_009,30,54,24
+2000-01-01 00:00:54,2000-01-01 00:01:21,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00000.csv,factory_003_worker_009,54,81,27
+2000-01-01 00:01:21,2000-01-01 00:01:26,blow debris with compressed air gun,Mold preparation and cleaning,factory_003,worker_009,factory003_worker009_00000.csv,factory_003_worker_009,81,86,5
+2000-01-01 00:01:26,2000-01-01 00:01:34,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00000.csv,factory_003_worker_009,86,94,8
+2000-01-01 00:01:34,2000-01-01 00:01:44,file component edges,Surface finishing and polishing,factory_003,worker_009,factory003_worker009_00000.csv,factory_003_worker_009,94,104,10
+2000-01-01 00:01:44,2000-01-01 00:02:18,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00000.csv,factory_003_worker_009,104,138,34
+2000-01-01 00:02:30,2000-01-01 00:02:40,inspect wall-mounted electrical cabinet,Injection molding,factory_003,worker_009,factory003_worker009_00000.csv,factory_003_worker_009,150,160,10
+2000-01-01 00:02:50,2000-01-01 00:03:06,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00000.csv,factory_003_worker_009,170,186,16
+2000-01-01 00:03:10,2000-01-01 00:03:16,blow debris with compressed air gun,Mold preparation and cleaning,factory_003,worker_009,factory003_worker009_00000.csv,factory_003_worker_009,190,196,6
+2000-01-01 00:03:16,2000-01-01 00:03:26,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00000.csv,factory_003_worker_009,196,206,10
+2000-01-01 00:03:41,2000-01-01 00:04:18,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00000.csv,factory_003_worker_009,221,258,37
+2000-01-01 00:04:30,2000-01-01 00:04:57,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00000.csv,factory_003_worker_009,270,297,27
+2000-01-01 00:05:03,2000-01-01 00:07:46,pick debris from mold cavity,Mold preparation and cleaning,factory_003,worker_009,factory003_worker009_00000.csv,factory_003_worker_009,303,466,163
+2000-01-01 00:07:46,2000-01-01 00:08:31,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00000.csv,factory_003_worker_009,466,511,45
+2000-01-01 00:08:42,2000-01-01 00:10:19,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00000.csv,factory_003_worker_009,522,619,97
+2000-01-01 00:10:23,2000-01-01 00:10:37,file component edges,Surface finishing and polishing,factory_003,worker_009,factory003_worker009_00000.csv,factory_003_worker_009,623,637,14
+2000-01-01 00:10:37,2000-01-01 00:10:43,handoff finished part to secondary worker,Injection molding,factory_003,worker_009,factory003_worker009_00000.csv,factory_003_worker_009,637,643,6
+2000-01-01 00:10:43,2000-01-01 00:11:21,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00000.csv,factory_003_worker_009,643,681,38
+2000-01-01 00:11:36,2000-01-01 00:11:42,adjust secondary machine control panel,Injection molding,factory_003,worker_009,factory003_worker009_00000.csv,factory_003_worker_009,696,702,6
+2000-01-01 00:11:42,2000-01-01 00:11:49,transport loaded tray to storage rack,Injection molding,factory_003,worker_009,factory003_worker009_00000.csv,factory_003_worker_009,702,709,7
+2000-01-01 00:11:49,2000-01-01 00:12:20,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00000.csv,factory_003_worker_009,709,740,31
+2000-01-01 00:12:35,2000-01-01 00:13:02,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00000.csv,factory_003_worker_009,755,782,27
+2000-01-01 00:13:02,2000-01-01 00:13:06,blow debris with compressed air gun,Mold preparation and cleaning,factory_003,worker_009,factory003_worker009_00000.csv,factory_003_worker_009,782,786,4
+2000-01-01 00:13:06,2000-01-01 00:13:42,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00000.csv,factory_003_worker_009,786,822,36
+2000-01-01 00:13:42,2000-01-01 00:14:14,file component edges,Surface finishing and polishing,factory_003,worker_009,factory003_worker009_00000.csv,factory_003_worker_009,822,854,32
+2000-01-01 00:14:14,2000-01-01 00:14:31,adjust secondary machine control panel,Injection molding,factory_003,worker_009,factory003_worker009_00000.csv,factory_003_worker_009,854,871,17
+2000-01-01 00:14:31,2000-01-01 00:15:06,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00000.csv,factory_003_worker_009,871,906,35
+2000-01-01 00:15:06,2000-01-01 00:16:05,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00000.csv,factory_003_worker_009,906,965,59
+2000-01-01 00:16:11,2000-01-01 00:17:15,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00000.csv,factory_003_worker_009,971,1035,64
+2000-01-01 00:17:15,2000-01-01 00:17:19,adjust secondary machine control panel,Injection molding,factory_003,worker_009,factory003_worker009_00000.csv,factory_003_worker_009,1035,1039,4
+2000-01-01 00:18:09,2000-01-01 00:18:41,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00000.csv,factory_003_worker_009,1089,1121,32
+2000-01-01 00:18:47,2000-01-01 00:19:33,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00000.csv,factory_003_worker_009,1127,1173,46
+2000-01-01 00:19:37,2000-01-01 00:20:01,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00000.csv,factory_003_worker_009,1177,1201,24
+2000-01-01 00:20:01,2000-01-01 00:20:16,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,0,15,15
+2000-01-01 00:20:16,2000-01-01 00:20:59,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,15,58,43
+2000-01-01 00:21:07,2000-01-01 00:21:19,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,66,78,12
+2000-01-01 00:21:19,2000-01-01 00:21:59,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,78,118,40
+2000-01-01 00:21:59,2000-01-01 00:22:15,transport loaded tray to storage rack,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,118,134,16
+2000-01-01 00:22:15,2000-01-01 00:22:30,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,134,149,15
+2000-01-01 00:22:30,2000-01-01 00:22:41,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,149,160,11
+2000-01-01 00:22:41,2000-01-01 00:23:39,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,160,218,58
+2000-01-01 00:23:39,2000-01-01 00:24:01,transport loaded tray to storage rack,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,218,240,22
+2000-01-01 00:24:01,2000-01-01 00:24:08,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,240,247,7
+2000-01-01 00:24:08,2000-01-01 00:24:27,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,247,266,19
+2000-01-01 00:24:27,2000-01-01 00:24:51,transport loaded tray to storage rack,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,266,290,24
+2000-01-01 00:24:51,2000-01-01 00:24:58,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,290,297,7
+2000-01-01 00:24:58,2000-01-01 00:25:23,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,297,322,25
+2000-01-01 00:25:32,2000-01-01 00:25:45,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,331,344,13
+2000-01-01 00:25:45,2000-01-01 00:26:55,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,344,414,70
+2000-01-01 00:27:06,2000-01-01 00:27:19,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,425,438,13
+2000-01-01 00:27:19,2000-01-01 00:28:17,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,438,496,58
+2000-01-01 00:28:17,2000-01-01 00:28:25,transport loaded tray to storage rack,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,496,504,8
+2000-01-01 00:28:25,2000-01-01 00:28:36,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,504,515,11
+2000-01-01 00:28:36,2000-01-01 00:29:09,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,515,548,33
+2000-01-01 00:29:21,2000-01-01 00:29:31,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,560,570,10
+2000-01-01 00:29:31,2000-01-01 00:29:55,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,570,594,24
+2000-01-01 00:30:05,2000-01-01 00:30:12,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,604,611,7
+2000-01-01 00:30:12,2000-01-01 00:30:43,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,611,642,31
+2000-01-01 00:30:51,2000-01-01 00:31:00,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,650,659,9
+2000-01-01 00:31:00,2000-01-01 00:31:23,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,659,682,23
+2000-01-01 00:31:29,2000-01-01 00:31:38,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,688,697,9
+2000-01-01 00:31:38,2000-01-01 00:32:04,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,697,723,26
+2000-01-01 00:32:04,2000-01-01 00:32:07,adjust secondary machine control panel,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,723,726,3
+2000-01-01 00:32:11,2000-01-01 00:32:25,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,730,744,14
+2000-01-01 00:32:25,2000-01-01 00:32:32,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,744,751,7
+2000-01-01 00:32:32,2000-01-01 00:32:53,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,751,772,21
+2000-01-01 00:32:53,2000-01-01 00:33:01,transport loaded tray to storage rack,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,772,780,8
+2000-01-01 00:33:01,2000-01-01 00:33:07,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,780,786,6
+2000-01-01 00:33:07,2000-01-01 00:33:18,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,786,797,11
+2000-01-01 00:33:18,2000-01-01 00:33:29,adjust secondary machine control panel,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,797,808,11
+2000-01-01 00:33:29,2000-01-01 00:33:43,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,808,822,14
+2000-01-01 00:33:43,2000-01-01 00:34:49,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,822,888,66
+2000-01-01 00:34:56,2000-01-01 00:35:11,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,895,910,15
+2000-01-01 00:35:16,2000-01-01 00:35:29,adjust secondary machine control panel,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,915,928,13
+2000-01-01 00:35:29,2000-01-01 00:35:38,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,928,937,9
+2000-01-01 00:35:38,2000-01-01 00:36:02,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,937,961,24
+2000-01-01 00:36:02,2000-01-01 00:36:12,adjust secondary machine control panel,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,961,971,10
+2000-01-01 00:36:12,2000-01-01 00:36:21,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,971,980,9
+2000-01-01 00:36:21,2000-01-01 00:36:43,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,980,1002,22
+2000-01-01 00:36:59,2000-01-01 00:37:08,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,1018,1027,9
+2000-01-01 00:37:08,2000-01-01 00:37:26,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,1027,1045,18
+2000-01-01 00:37:26,2000-01-01 00:37:35,adjust secondary machine control panel,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,1045,1054,9
+2000-01-01 00:37:35,2000-01-01 00:37:45,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,1054,1064,10
+2000-01-01 00:37:45,2000-01-01 00:38:14,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,1064,1093,29
+2000-01-01 00:38:14,2000-01-01 00:38:23,transport loaded tray to storage rack,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,1093,1102,9
+2000-01-01 00:38:23,2000-01-01 00:38:31,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,1102,1110,8
+2000-01-01 00:38:31,2000-01-01 00:38:57,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,1110,1136,26
+2000-01-01 00:38:57,2000-01-01 00:39:13,adjust secondary machine control panel,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,1136,1152,16
+2000-01-01 00:39:13,2000-01-01 00:39:24,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,1152,1163,11
+2000-01-01 00:39:24,2000-01-01 00:39:32,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,1163,1171,8
+2000-01-01 00:39:32,2000-01-01 00:40:01,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00001.csv,factory_003_worker_009,1171,1200,29
+2000-01-01 00:40:01,2000-01-01 00:40:09,wait for machine press cycle completion,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,0,8,8
+2000-01-01 00:40:09,2000-01-01 00:40:16,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,8,15,7
+2000-01-01 00:40:19,2000-01-01 00:40:26,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,18,25,7
+2000-01-01 00:40:26,2000-01-01 00:40:34,wait for machine press cycle completion,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,25,33,8
+2000-01-01 00:40:34,2000-01-01 00:40:39,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,33,38,5
+2000-01-01 00:40:41,2000-01-01 00:40:47,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,40,46,6
+2000-01-01 00:40:47,2000-01-01 00:40:52,adjust secondary machine control panel,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,46,51,5
+2000-01-01 00:40:52,2000-01-01 00:41:26,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,51,85,34
+2000-01-01 00:41:35,2000-01-01 00:41:47,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,94,106,12
+2000-01-01 00:41:47,2000-01-01 00:41:52,wait for machine press cycle completion,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,106,111,5
+2000-01-01 00:41:52,2000-01-01 00:41:55,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,111,114,3
+2000-01-01 00:42:01,2000-01-01 00:42:05,wait for machine press cycle completion,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,120,124,4
+2000-01-01 00:42:05,2000-01-01 00:42:09,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,124,128,4
+2000-01-01 00:42:18,2000-01-01 00:42:23,adjust secondary machine control panel,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,137,142,5
+2000-01-01 00:42:23,2000-01-01 00:43:00,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,142,179,37
+2000-01-01 00:43:00,2000-01-01 00:43:04,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,179,183,4
+2000-01-01 00:43:18,2000-01-01 00:43:20,wait for machine press cycle completion,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,197,199,2
+2000-01-01 00:43:20,2000-01-01 00:43:23,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,199,202,3
+2000-01-01 00:43:33,2000-01-01 00:43:38,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,212,217,5
+2000-01-01 00:43:42,2000-01-01 00:43:46,adjust secondary machine control panel,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,221,225,4
+2000-01-01 00:43:46,2000-01-01 00:44:00,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,225,239,14
+2000-01-01 00:44:00,2000-01-01 00:44:03,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,239,242,3
+2000-01-01 00:44:08,2000-01-01 00:44:13,adjust secondary machine control panel,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,247,252,5
+2000-01-01 00:44:13,2000-01-01 00:44:26,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,252,265,13
+2000-01-01 00:44:26,2000-01-01 00:44:30,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,265,269,4
+2000-01-01 00:44:35,2000-01-01 00:44:39,adjust secondary machine control panel,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,274,278,4
+2000-01-01 00:44:39,2000-01-01 00:44:43,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,278,282,4
+2000-01-01 00:44:43,2000-01-01 00:45:01,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,282,300,18
+2000-01-01 00:45:01,2000-01-01 00:45:05,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,300,304,4
+2000-01-01 00:45:05,2000-01-01 00:45:10,adjust secondary machine control panel,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,304,309,5
+2000-01-01 00:45:10,2000-01-01 00:45:15,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,309,314,5
+2000-01-01 00:45:15,2000-01-01 00:45:19,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,314,318,4
+2000-01-01 00:45:19,2000-01-01 00:45:26,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,318,325,7
+2000-01-01 00:45:26,2000-01-01 00:45:32,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,325,331,6
+2000-01-01 00:45:32,2000-01-01 00:45:46,inspect wall-mounted electrical cabinet,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,331,345,14
+2000-01-01 00:45:46,2000-01-01 00:46:01,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,345,360,15
+2000-01-01 00:46:01,2000-01-01 00:46:04,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,360,363,3
+2000-01-01 00:46:04,2000-01-01 00:46:16,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,363,375,12
+2000-01-01 00:46:16,2000-01-01 00:46:22,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,375,381,6
+2000-01-01 00:46:22,2000-01-01 00:46:34,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,381,393,12
+2000-01-01 00:46:34,2000-01-01 00:46:38,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,393,397,4
+2000-01-01 00:46:38,2000-01-01 00:46:51,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,397,410,13
+2000-01-01 00:46:51,2000-01-01 00:47:08,empty small parts box into bulk tray,Material sorting and sifting,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,410,427,17
+2000-01-01 00:47:08,2000-01-01 00:47:13,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,427,432,5
+2000-01-01 00:47:13,2000-01-01 00:47:39,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,432,458,26
+2000-01-01 00:47:45,2000-01-01 00:47:50,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,464,469,5
+2000-01-01 00:47:55,2000-01-01 00:48:01,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,474,480,6
+2000-01-01 00:48:01,2000-01-01 00:48:07,adjust secondary machine control panel,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,480,486,6
+2000-01-01 00:48:07,2000-01-01 00:48:13,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,486,492,6
+2000-01-01 00:48:13,2000-01-01 00:48:19,adjust secondary machine control panel,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,492,498,6
+2000-01-01 00:48:19,2000-01-01 00:48:35,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,498,514,16
+2000-01-01 00:48:35,2000-01-01 00:48:40,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,514,519,5
+2000-01-01 00:48:45,2000-01-01 00:48:49,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,524,528,4
+2000-01-01 00:48:49,2000-01-01 00:48:56,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,528,535,7
+2000-01-01 00:49:13,2000-01-01 00:49:23,adjust secondary machine control panel,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,552,562,10
+2000-01-01 00:49:23,2000-01-01 00:49:28,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,562,567,5
+2000-01-01 00:49:33,2000-01-01 00:49:38,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,572,577,5
+2000-01-01 00:49:41,2000-01-01 00:49:45,adjust secondary machine control panel,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,580,584,4
+2000-01-01 00:49:45,2000-01-01 00:49:49,pick debris from mold cavity,Mold preparation and cleaning,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,584,588,4
+2000-01-01 00:49:49,2000-01-01 00:49:55,adjust secondary machine control panel,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,588,594,6
+2000-01-01 00:49:55,2000-01-01 00:50:08,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,594,607,13
+2000-01-01 00:50:17,2000-01-01 00:50:31,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,616,630,14
+2000-01-01 00:50:47,2000-01-01 00:50:52,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,646,651,5
+2000-01-01 00:50:57,2000-01-01 00:51:01,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,656,660,4
+2000-01-01 00:51:01,2000-01-01 00:51:10,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,660,669,9
+2000-01-01 00:51:10,2000-01-01 00:51:15,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,669,674,5
+2000-01-01 00:51:15,2000-01-01 00:51:19,adjust secondary machine control panel,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,674,678,4
+2000-01-01 00:51:19,2000-01-01 00:51:24,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,678,683,5
+2000-01-01 00:51:24,2000-01-01 00:51:29,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,683,688,5
+2000-01-01 00:51:29,2000-01-01 00:51:36,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,688,695,7
+2000-01-01 00:51:36,2000-01-01 00:51:40,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,695,699,4
+2000-01-01 00:51:40,2000-01-01 00:51:52,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,699,711,12
+2000-01-01 00:51:52,2000-01-01 00:51:56,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,711,715,4
+2000-01-01 00:51:56,2000-01-01 00:52:05,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,715,724,9
+2000-01-01 00:52:05,2000-01-01 00:52:11,adjust secondary machine control panel,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,724,730,6
+2000-01-01 00:52:16,2000-01-01 00:52:21,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,735,740,5
+2000-01-01 00:52:21,2000-01-01 00:52:29,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,740,748,8
+2000-01-01 00:52:29,2000-01-01 00:52:33,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,748,752,4
+2000-01-01 00:52:33,2000-01-01 00:52:38,adjust secondary machine control panel,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,752,757,5
+2000-01-01 00:52:38,2000-01-01 00:52:44,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,757,763,6
+2000-01-01 00:52:44,2000-01-01 00:52:49,adjust secondary machine control panel,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,763,768,5
+2000-01-01 00:52:49,2000-01-01 00:53:01,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,768,780,12
+2000-01-01 00:53:01,2000-01-01 00:53:06,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,780,785,5
+2000-01-01 00:53:06,2000-01-01 00:53:17,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,785,796,11
+2000-01-01 00:53:17,2000-01-01 00:53:21,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,796,800,4
+2000-01-01 00:53:21,2000-01-01 00:53:39,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,800,818,18
+2000-01-01 00:53:43,2000-01-01 00:53:48,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,822,827,5
+2000-01-01 00:53:51,2000-01-01 00:53:55,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,830,834,4
+2000-01-01 00:53:55,2000-01-01 00:54:05,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,834,844,10
+2000-01-01 00:54:05,2000-01-01 00:54:09,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,844,848,4
+2000-01-01 00:54:09,2000-01-01 00:54:13,adjust secondary machine control panel,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,848,852,4
+2000-01-01 00:54:13,2000-01-01 00:54:18,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,852,857,5
+2000-01-01 00:54:18,2000-01-01 00:54:21,adjust secondary machine control panel,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,857,860,3
+2000-01-01 00:54:24,2000-01-01 00:54:29,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,863,868,5
+2000-01-01 00:54:29,2000-01-01 00:54:39,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,868,878,10
+2000-01-01 00:54:39,2000-01-01 00:54:43,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,878,882,4
+2000-01-01 00:54:43,2000-01-01 00:54:56,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,882,895,13
+2000-01-01 00:55:12,2000-01-01 00:55:16,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,911,915,4
+2000-01-01 00:55:19,2000-01-01 00:55:22,adjust secondary machine control panel,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,918,921,3
+2000-01-01 00:55:22,2000-01-01 00:55:27,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,921,926,5
+2000-01-01 00:55:27,2000-01-01 00:55:38,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,926,937,11
+2000-01-01 00:55:38,2000-01-01 00:55:43,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,937,942,5
+2000-01-01 00:55:43,2000-01-01 00:55:48,adjust secondary machine control panel,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,942,947,5
+2000-01-01 00:55:48,2000-01-01 00:56:00,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,947,959,12
+2000-01-01 00:56:00,2000-01-01 00:56:04,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,959,963,4
+2000-01-01 00:56:07,2000-01-01 00:56:10,adjust secondary machine control panel,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,966,969,3
+2000-01-01 00:56:10,2000-01-01 00:56:14,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,969,973,4
+2000-01-01 00:56:14,2000-01-01 00:56:27,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,973,986,13
+2000-01-01 00:56:27,2000-01-01 00:56:31,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,986,990,4
+2000-01-01 00:56:31,2000-01-01 00:56:45,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,990,1004,14
+2000-01-01 00:56:50,2000-01-01 00:56:55,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,1009,1014,5
+2000-01-01 00:56:55,2000-01-01 00:57:02,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,1014,1021,7
+2000-01-01 00:57:02,2000-01-01 00:57:06,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,1021,1025,4
+2000-01-01 00:57:06,2000-01-01 00:57:16,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,1025,1035,10
+2000-01-01 00:57:16,2000-01-01 00:57:21,adjust secondary machine control panel,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,1035,1040,5
+2000-01-01 00:57:21,2000-01-01 00:57:29,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,1040,1048,8
+2000-01-01 00:57:29,2000-01-01 00:57:33,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,1048,1052,4
+2000-01-01 00:57:33,2000-01-01 00:57:37,adjust secondary machine control panel,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,1052,1056,4
+2000-01-01 00:57:37,2000-01-01 00:57:43,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,1056,1062,6
+2000-01-01 00:57:43,2000-01-01 00:57:47,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,1062,1066,4
+2000-01-01 00:57:47,2000-01-01 00:57:56,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,1066,1075,9
+2000-01-01 00:57:56,2000-01-01 00:58:01,adjust secondary machine control panel,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,1075,1080,5
+2000-01-01 00:58:01,2000-01-01 00:58:06,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,1080,1085,5
+2000-01-01 00:58:11,2000-01-01 00:58:15,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,1090,1094,4
+2000-01-01 00:58:15,2000-01-01 00:58:25,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,1094,1104,10
+2000-01-01 00:58:25,2000-01-01 00:58:29,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,1104,1108,4
+2000-01-01 00:58:35,2000-01-01 00:58:42,adjust secondary machine control panel,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,1114,1121,7
+2000-01-01 00:58:42,2000-01-01 00:58:52,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,1121,1131,10
+2000-01-01 00:58:52,2000-01-01 00:58:56,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,1131,1135,4
+2000-01-01 00:58:56,2000-01-01 00:59:03,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,1135,1142,7
+2000-01-01 00:59:03,2000-01-01 00:59:08,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,1142,1147,5
+2000-01-01 00:59:08,2000-01-01 00:59:17,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,1147,1156,9
+2000-01-01 00:59:17,2000-01-01 00:59:22,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,1156,1161,5
+2000-01-01 00:59:29,2000-01-01 00:59:33,adjust secondary machine control panel,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,1168,1172,4
+2000-01-01 00:59:33,2000-01-01 00:59:39,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,1172,1178,6
+2000-01-01 00:59:39,2000-01-01 00:59:51,cut plastic sprue with hand tool,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,1178,1190,12
+2000-01-01 00:59:51,2000-01-01 00:59:56,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00002.csv,factory_003_worker_009,1190,1195,5
+2000-01-01 01:00:23,2000-01-01 01:00:31,blow debris with compressed air gun,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,27,35,8
+2000-01-01 01:00:31,2000-01-01 01:00:37,actuate pressing machine,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,35,41,6
+2000-01-01 01:00:37,2000-01-01 01:00:44,wait for machine press cycle completion,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,41,48,7
+2000-01-01 01:00:44,2000-01-01 01:00:50,blow debris with compressed air gun,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,48,54,6
+2000-01-01 01:00:50,2000-01-01 01:00:54,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,54,58,4
+2000-01-01 01:00:54,2000-01-01 01:00:59,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,58,63,5
+2000-01-01 01:00:59,2000-01-01 01:01:02,actuate pressing machine,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,63,66,3
+2000-01-01 01:01:02,2000-01-01 01:01:12,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,66,76,10
+2000-01-01 01:01:12,2000-01-01 01:01:30,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,76,94,18
+2000-01-01 01:01:30,2000-01-01 01:01:39,empty small parts box into bulk tray,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,94,103,9
+2000-01-01 01:01:39,2000-01-01 01:02:01,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,103,125,22
+2000-01-01 01:02:01,2000-01-01 01:02:36,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,125,160,35
+2000-01-01 01:02:36,2000-01-01 01:02:41,empty small parts box into bulk tray,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,160,165,5
+2000-01-01 01:02:41,2000-01-01 01:02:46,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,165,170,5
+2000-01-01 01:02:46,2000-01-01 01:02:53,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,170,177,7
+2000-01-01 01:02:53,2000-01-01 01:02:58,empty small parts box into bulk tray,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,177,182,5
+2000-01-01 01:02:58,2000-01-01 01:03:03,pry stuck plastic part from mold,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,182,187,5
+2000-01-01 01:03:03,2000-01-01 01:03:09,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,187,193,6
+2000-01-01 01:03:09,2000-01-01 01:03:15,empty small parts box into bulk tray,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,193,199,6
+2000-01-01 01:03:15,2000-01-01 01:03:20,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,199,204,5
+2000-01-01 01:03:20,2000-01-01 01:03:28,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,204,212,8
+2000-01-01 01:03:28,2000-01-01 01:03:34,empty small parts box into bulk tray,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,212,218,6
+2000-01-01 01:03:34,2000-01-01 01:03:49,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,218,233,15
+2000-01-01 01:03:49,2000-01-01 01:04:11,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,233,255,22
+2000-01-01 01:04:11,2000-01-01 01:04:18,empty small parts box into bulk tray,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,255,262,7
+2000-01-01 01:04:18,2000-01-01 01:04:22,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,262,266,4
+2000-01-01 01:04:22,2000-01-01 01:04:28,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,266,272,6
+2000-01-01 01:04:28,2000-01-01 01:04:34,empty small parts box into bulk tray,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,272,278,6
+2000-01-01 01:04:34,2000-01-01 01:04:40,blow debris with compressed air gun,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,278,284,6
+2000-01-01 01:04:40,2000-01-01 01:04:48,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,284,292,8
+2000-01-01 01:04:48,2000-01-01 01:05:01,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,292,305,13
+2000-01-01 01:05:10,2000-01-01 01:05:13,actuate pressing machine,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,314,317,3
+2000-01-01 01:05:13,2000-01-01 01:05:17,wait for machine press cycle completion,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,317,321,4
+2000-01-01 01:05:17,2000-01-01 01:05:39,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,321,343,22
+2000-01-01 01:05:39,2000-01-01 01:06:17,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,343,381,38
+2000-01-01 01:06:17,2000-01-01 01:06:22,empty small parts box into bulk tray,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,381,386,5
+2000-01-01 01:06:22,2000-01-01 01:06:40,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,386,404,18
+2000-01-01 01:06:40,2000-01-01 01:07:08,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,404,432,28
+2000-01-01 01:07:08,2000-01-01 01:07:14,empty small parts box into bulk tray,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,432,438,6
+2000-01-01 01:07:14,2000-01-01 01:07:20,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,438,444,6
+2000-01-01 01:07:20,2000-01-01 01:07:31,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,444,455,11
+2000-01-01 01:07:42,2000-01-01 01:07:54,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,466,478,12
+2000-01-01 01:07:54,2000-01-01 01:08:12,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,478,496,18
+2000-01-01 01:08:12,2000-01-01 01:08:20,empty small parts box into bulk tray,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,496,504,8
+2000-01-01 01:08:20,2000-01-01 01:08:27,blow debris with compressed air gun,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,504,511,7
+2000-01-01 01:08:27,2000-01-01 01:08:40,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,511,524,13
+2000-01-01 01:08:40,2000-01-01 01:09:00,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,524,544,20
+2000-01-01 01:09:00,2000-01-01 01:09:08,empty small parts box into bulk tray,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,544,552,8
+2000-01-01 01:09:08,2000-01-01 01:09:25,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,552,569,17
+2000-01-01 01:09:25,2000-01-01 01:09:51,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,569,595,26
+2000-01-01 01:09:51,2000-01-01 01:09:56,empty small parts box into bulk tray,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,595,600,5
+2000-01-01 01:09:56,2000-01-01 01:10:00,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,600,604,4
+2000-01-01 01:10:00,2000-01-01 01:10:07,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,604,611,7
+2000-01-01 01:10:07,2000-01-01 01:10:13,empty small parts box into bulk tray,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,611,617,6
+2000-01-01 01:10:13,2000-01-01 01:10:16,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,617,620,3
+2000-01-01 01:10:16,2000-01-01 01:10:21,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,620,625,5
+2000-01-01 01:10:21,2000-01-01 01:10:27,empty small parts box into bulk tray,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,625,631,6
+2000-01-01 01:10:27,2000-01-01 01:10:39,blow debris with compressed air gun,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,631,643,12
+2000-01-01 01:10:39,2000-01-01 01:10:46,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,643,650,7
+2000-01-01 01:10:46,2000-01-01 01:10:58,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,650,662,12
+2000-01-01 01:10:58,2000-01-01 01:11:03,inspect wall-mounted electrical cabinet,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,662,667,5
+2000-01-01 01:11:03,2000-01-01 01:11:09,adjust secondary machine control panel,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,667,673,6
+2000-01-01 01:11:09,2000-01-01 01:11:15,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,673,679,6
+2000-01-01 01:11:15,2000-01-01 01:11:24,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,679,688,9
+2000-01-01 01:11:24,2000-01-01 01:11:30,empty small parts box into bulk tray,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,688,694,6
+2000-01-01 01:11:30,2000-01-01 01:11:39,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,694,703,9
+2000-01-01 01:11:39,2000-01-01 01:11:54,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,703,718,15
+2000-01-01 01:11:54,2000-01-01 01:12:01,empty small parts box into bulk tray,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,718,725,7
+2000-01-01 01:12:01,2000-01-01 01:12:04,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,725,728,3
+2000-01-01 01:12:04,2000-01-01 01:12:07,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,728,731,3
+2000-01-01 01:12:07,2000-01-01 01:12:12,empty small parts box into bulk tray,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,731,736,5
+2000-01-01 01:12:12,2000-01-01 01:12:14,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,736,738,2
+2000-01-01 01:12:14,2000-01-01 01:12:17,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,738,741,3
+2000-01-01 01:12:17,2000-01-01 01:12:21,empty small parts box into bulk tray,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,741,745,4
+2000-01-01 01:12:21,2000-01-01 01:12:35,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,745,759,14
+2000-01-01 01:12:35,2000-01-01 01:12:57,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,759,781,22
+2000-01-01 01:12:57,2000-01-01 01:13:02,empty small parts box into bulk tray,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,781,786,5
+2000-01-01 01:13:02,2000-01-01 01:13:13,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,786,797,11
+2000-01-01 01:13:13,2000-01-01 01:13:29,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,797,813,16
+2000-01-01 01:13:29,2000-01-01 01:13:36,empty small parts box into bulk tray,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,813,820,7
+2000-01-01 01:13:36,2000-01-01 01:13:42,blow debris with compressed air gun,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,820,826,6
+2000-01-01 01:13:42,2000-01-01 01:13:50,pry stuck plastic part from mold,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,826,834,8
+2000-01-01 01:13:50,2000-01-01 01:14:01,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,834,845,11
+2000-01-01 01:14:01,2000-01-01 01:14:08,empty small parts box into bulk tray,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,845,852,7
+2000-01-01 01:14:08,2000-01-01 01:14:27,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,852,871,19
+2000-01-01 01:14:27,2000-01-01 01:14:58,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,871,902,31
+2000-01-01 01:14:58,2000-01-01 01:15:04,empty small parts box into bulk tray,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,902,908,6
+2000-01-01 01:15:04,2000-01-01 01:15:23,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,908,927,19
+2000-01-01 01:15:23,2000-01-01 01:15:52,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,927,956,29
+2000-01-01 01:15:52,2000-01-01 01:15:58,empty small parts box into bulk tray,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,956,962,6
+2000-01-01 01:15:58,2000-01-01 01:16:06,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,962,970,8
+2000-01-01 01:16:06,2000-01-01 01:16:19,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,970,983,13
+2000-01-01 01:16:19,2000-01-01 01:16:25,empty small parts box into bulk tray,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,983,989,6
+2000-01-01 01:16:25,2000-01-01 01:16:36,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,989,1000,11
+2000-01-01 01:16:36,2000-01-01 01:16:52,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,1000,1016,16
+2000-01-01 01:16:52,2000-01-01 01:16:57,empty small parts box into bulk tray,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,1016,1021,5
+2000-01-01 01:16:57,2000-01-01 01:17:01,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,1021,1025,4
+2000-01-01 01:17:01,2000-01-01 01:17:08,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,1025,1032,7
+2000-01-01 01:17:13,2000-01-01 01:17:23,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,1037,1047,10
+2000-01-01 01:17:23,2000-01-01 01:17:38,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,1047,1062,15
+2000-01-01 01:17:38,2000-01-01 01:17:44,empty small parts box into bulk tray,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,1062,1068,6
+2000-01-01 01:17:44,2000-01-01 01:17:53,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,1068,1077,9
+2000-01-01 01:17:53,2000-01-01 01:18:06,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,1077,1090,13
+2000-01-01 01:18:06,2000-01-01 01:18:11,empty small parts box into bulk tray,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,1090,1095,5
+2000-01-01 01:18:11,2000-01-01 01:18:15,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,1095,1099,4
+2000-01-01 01:18:15,2000-01-01 01:18:20,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,1099,1104,5
+2000-01-01 01:18:20,2000-01-01 01:18:27,empty small parts box into bulk tray,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,1104,1111,7
+2000-01-01 01:18:27,2000-01-01 01:18:35,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,1111,1119,8
+2000-01-01 01:18:35,2000-01-01 01:18:46,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,1119,1130,11
+2000-01-01 01:18:46,2000-01-01 01:18:51,empty small parts box into bulk tray,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,1130,1135,5
+2000-01-01 01:18:51,2000-01-01 01:18:58,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,1135,1142,7
+2000-01-01 01:18:58,2000-01-01 01:19:08,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,1142,1152,10
+2000-01-01 01:19:12,2000-01-01 01:19:20,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,1156,1164,8
+2000-01-01 01:19:20,2000-01-01 01:19:31,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,1164,1175,11
+2000-01-01 01:19:31,2000-01-01 01:19:38,empty small parts box into bulk tray,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,1175,1182,7
+2000-01-01 01:19:38,2000-01-01 01:19:45,extract hot plastic sprue from mold,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,1182,1189,7
+2000-01-01 01:19:45,2000-01-01 01:19:56,snap plastic part off runner by hand,Injection molding,factory_003,worker_009,factory003_worker009_00003.csv,factory_003_worker_009,1189,1200,11

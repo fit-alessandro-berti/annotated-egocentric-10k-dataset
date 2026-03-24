@@ -1,0 +1,16 @@
+start_timestamp,end_timestamp,activity,process,factory,worker,source_file,case_id,start_seconds_from_video_start,end_seconds_from_video_start,duration_seconds
+2000-01-01 00:00:00,2000-01-01 00:00:54,sort flexible rubber seals,part sorting and staging,factory_005,worker_002,factory005_worker002_00000.csv,factory_005_worker_002,0,54,54
+2000-01-01 00:01:36,2000-01-01 00:03:22,apply adhesive label to motor housing,motor labeling and nameplate attachment,factory_005,worker_002,factory005_worker002_00000.csv,factory_005_worker_002,96,202,106
+2000-01-01 00:05:13,2000-01-01 00:05:41,insert holding pins through nameplate,motor labeling and nameplate attachment,factory_005,worker_002,factory005_worker002_00000.csv,factory_005_worker_002,313,341,28
+2000-01-01 00:06:58,2000-01-01 00:08:04,apply holographic sticker to nameplate,motor labeling and nameplate attachment,factory_005,worker_002,factory005_worker002_00000.csv,factory_005_worker_002,418,484,66
+2000-01-01 00:09:19,2000-01-01 00:11:27,position metallic nameplate on motor housing,motor labeling and nameplate attachment,factory_005,worker_002,factory005_worker002_00000.csv,factory_005_worker_002,559,687,128
+2000-01-01 00:12:56,2000-01-01 00:13:52,wipe dirty hands with cloth rag,motor labeling and nameplate attachment,factory_005,worker_002,factory005_worker002_00000.csv,factory_005_worker_002,776,832,56
+2000-01-01 00:13:52,2000-01-01 00:13:55,place stator coil into binding machine fixture,stator coil binding,factory_005,worker_002,factory005_worker002_00001.csv,factory_005_worker_002,0,3,3
+2000-01-01 00:13:55,2000-01-01 00:13:58,activate two-hand safety control for binding,stator coil binding,factory_005,worker_002,factory005_worker002_00001.csv,factory_005_worker_002,3,6,3
+2000-01-01 00:14:23,2000-01-01 00:14:28,place stator coil into binding machine fixture,stator coil binding,factory_005,worker_002,factory005_worker002_00001.csv,factory_005_worker_002,31,36,5
+2000-01-01 00:14:28,2000-01-01 00:14:34,activate two-hand safety control for binding,stator coil binding,factory_005,worker_002,factory005_worker002_00001.csv,factory_005_worker_002,36,42,6
+2000-01-01 00:14:57,2000-01-01 00:15:27,heat-shrink wire connections with handheld tool,stator lead wire finishing and soldering,factory_005,worker_002,factory005_worker002_00001.csv,factory_005_worker_002,65,95,30
+2000-01-01 00:15:39,2000-01-01 00:15:50,heat-shrink wire connections with handheld tool,stator lead wire finishing and soldering,factory_005,worker_002,factory005_worker002_00001.csv,factory_005_worker_002,107,118,11
+2000-01-01 00:15:50,2000-01-01 00:15:54,adjust control unit dial,stator lead wire finishing and soldering,factory_005,worker_002,factory005_worker002_00001.csv,factory_005_worker_002,118,122,4
+2000-01-01 00:15:54,2000-01-01 00:16:18,heat-shrink wire connections with handheld tool,stator lead wire finishing and soldering,factory_005,worker_002,factory005_worker002_00001.csv,factory_005_worker_002,122,146,24
+2000-01-01 00:16:29,2000-01-01 00:16:39,retrieve wire cutters from storage bin,stator lead wire finishing and soldering,factory_005,worker_002,factory005_worker002_00001.csv,factory_005_worker_002,157,167,10

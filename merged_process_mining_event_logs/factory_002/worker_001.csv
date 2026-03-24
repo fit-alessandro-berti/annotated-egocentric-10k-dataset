@@ -1,0 +1,10 @@
+start_timestamp,end_timestamp,activity,process,factory,worker,source_file,case_id,start_seconds_from_video_start,end_seconds_from_video_start,duration_seconds
+2000-01-01 00:00:00,2000-01-01 00:08:14,fold bottom section of fabric,Fabric folding,factory_002,worker_001,factory002_worker001_00000.csv,factory_002_worker_001,0,494,494
+2000-01-01 00:08:14,2000-01-01 00:08:52,place empty floor board near table,Material transport,factory_002,worker_001,factory002_worker001_00000.csv,factory_002_worker_001,494,532,38
+2000-01-01 00:08:52,2000-01-01 00:09:16,transfer fabric stack to floor board,Material transport,factory_002,worker_001,factory002_worker001_00000.csv,factory_002_worker_001,532,556,24
+2000-01-01 00:09:16,2000-01-01 00:20:02,fold bottom section of fabric,Fabric folding,factory_002,worker_001,factory002_worker001_00000.csv,factory_002_worker_001,556,1202,646
+2000-01-01 00:20:02,2000-01-01 00:20:12,smooth fabric flat on table,Fabric pairing,factory_002,worker_001,factory002_worker001_00001.csv,factory_002_worker_001,0,10,10
+2000-01-01 00:20:12,2000-01-01 00:20:34,align printed fabric patterns,Fabric pairing,factory_002,worker_001,factory002_worker001_00001.csv,factory_002_worker_001,10,32,22
+2000-01-01 00:20:34,2000-01-01 00:20:53,align printed fabric patterns,Fabric pairing,factory_002,worker_001,factory002_worker001_00001.csv,factory_002_worker_001,32,51,19
+2000-01-01 00:20:53,2000-01-01 00:21:07,align printed fabric patterns,Fabric pairing,factory_002,worker_001,factory002_worker001_00001.csv,factory_002_worker_001,51,65,14
+2000-01-01 00:21:07,2000-01-01 00:40:01,align printed fabric patterns,Fabric pairing,factory_002,worker_001,factory002_worker001_00001.csv,factory_002_worker_001,65,1199,1134

@@ -1,0 +1,107 @@
+start_timestamp,end_timestamp,activity,process,factory,worker,source_file,case_id,start_seconds_from_video_start,end_seconds_from_video_start,duration_seconds
+2000-01-01 00:00:00,2000-01-01 00:00:30,scoop loose parts from bulk bin,Material sorting and sifting,factory_003,worker_002,factory003_worker002_00000.csv,factory_003_worker_002,0,30,30
+2000-01-01 00:00:30,2000-01-01 00:09:05,apply paste with brush,Wax pattern assembly,factory_003,worker_002,factory003_worker002_00000.csv,factory_003_worker_002,30,545,515
+2000-01-01 00:09:05,2000-01-01 00:09:18,apply hot glue to frame joints,Thermal welding,factory_003,worker_002,factory003_worker002_00000.csv,factory_003_worker_002,545,558,13
+2000-01-01 00:09:18,2000-01-01 00:14:16,apply paste with brush,Wax pattern assembly,factory_003,worker_002,factory003_worker002_00000.csv,factory_003_worker_002,558,856,298
+2000-01-01 00:14:52,2000-01-01 00:15:02,press component halves together,Wax pattern assembly,factory_003,worker_002,factory003_worker002_00000.csv,factory_003_worker_002,892,902,10
+2000-01-01 00:15:02,2000-01-01 00:17:21,bind assembled components with rubber bands,Wax pattern assembly,factory_003,worker_002,factory003_worker002_00000.csv,factory_003_worker_002,902,1041,139
+2000-01-01 00:18:25,2000-01-01 00:18:30,transport loaded tray to storage rack,Wax pattern assembly,factory_003,worker_002,factory003_worker002_00000.csv,factory_003_worker_002,1105,1110,5
+2000-01-01 00:18:52,2000-01-01 00:18:59,bind assembled components with rubber bands,Wax pattern assembly,factory_003,worker_002,factory003_worker002_00000.csv,factory_003_worker_002,1132,1139,7
+2000-01-01 00:18:59,2000-01-01 00:19:07,transport loaded tray to storage rack,Wax pattern assembly,factory_003,worker_002,factory003_worker002_00000.csv,factory_003_worker_002,1139,1147,8
+2000-01-01 00:19:28,2000-01-01 00:19:47,bind assembled components with rubber bands,Wax pattern assembly,factory_003,worker_002,factory003_worker002_00000.csv,factory_003_worker_002,1168,1187,19
+2000-01-01 00:19:47,2000-01-01 00:20:00,transport loaded tray to storage rack,Wax pattern assembly,factory_003,worker_002,factory003_worker002_00000.csv,factory_003_worker_002,1187,1200,13
+2000-01-01 00:20:00,2000-01-01 00:26:18,coat mold cavity with liquid release agent,Mold preparation and cleaning,factory_003,worker_002,factory003_worker002_00001.csv,factory_003_worker_002,0,378,378
+2000-01-01 00:26:18,2000-01-01 00:26:46,wipe excess paste with cloth,Mold preparation and cleaning,factory_003,worker_002,factory003_worker002_00001.csv,factory_003_worker_002,378,406,28
+2000-01-01 00:26:46,2000-01-01 00:27:44,bind assembled components with rubber bands,Mold preparation and cleaning,factory_003,worker_002,factory003_worker002_00001.csv,factory_003_worker_002,406,464,58
+2000-01-01 00:27:44,2000-01-01 00:28:18,wipe excess paste with cloth,Mold preparation and cleaning,factory_003,worker_002,factory003_worker002_00001.csv,factory_003_worker_002,464,498,34
+2000-01-01 00:28:18,2000-01-01 00:28:33,bind assembled components with rubber bands,Mold preparation and cleaning,factory_003,worker_002,factory003_worker002_00001.csv,factory_003_worker_002,498,513,15
+2000-01-01 00:28:33,2000-01-01 00:28:48,wipe excess paste with cloth,Mold preparation and cleaning,factory_003,worker_002,factory003_worker002_00001.csv,factory_003_worker_002,513,528,15
+2000-01-01 00:28:48,2000-01-01 00:29:05,bind assembled components with rubber bands,Mold preparation and cleaning,factory_003,worker_002,factory003_worker002_00001.csv,factory_003_worker_002,528,545,17
+2000-01-01 00:29:05,2000-01-01 00:29:40,pick debris from mold cavity,Mold preparation and cleaning,factory_003,worker_002,factory003_worker002_00001.csv,factory_003_worker_002,545,580,35
+2000-01-01 00:29:40,2000-01-01 00:30:36,thread core insert onto stick,Mold preparation and cleaning,factory_003,worker_002,factory003_worker002_00001.csv,factory_003_worker_002,580,636,56
+2000-01-01 00:30:36,2000-01-01 00:30:52,load pre-manufactured insert into mold,Mold preparation and cleaning,factory_003,worker_002,factory003_worker002_00001.csv,factory_003_worker_002,636,652,16
+2000-01-01 00:30:52,2000-01-01 00:31:09,pick debris from mold cavity,Mold preparation and cleaning,factory_003,worker_002,factory003_worker002_00001.csv,factory_003_worker_002,652,669,17
+2000-01-01 00:31:09,2000-01-01 00:31:25,close two-part mold assembly,Mold preparation and cleaning,factory_003,worker_002,factory003_worker002_00001.csv,factory_003_worker_002,669,685,16
+2000-01-01 00:31:38,2000-01-01 00:31:46,thread core insert onto stick,Mold preparation and cleaning,factory_003,worker_002,factory003_worker002_00001.csv,factory_003_worker_002,698,706,8
+2000-01-01 00:31:46,2000-01-01 00:31:54,load pre-manufactured insert into mold,Mold preparation and cleaning,factory_003,worker_002,factory003_worker002_00001.csv,factory_003_worker_002,706,714,8
+2000-01-01 00:31:54,2000-01-01 00:32:03,close two-part mold assembly,Mold preparation and cleaning,factory_003,worker_002,factory003_worker002_00001.csv,factory_003_worker_002,714,723,9
+2000-01-01 00:32:03,2000-01-01 00:32:12,bind assembled components with rubber bands,Mold preparation and cleaning,factory_003,worker_002,factory003_worker002_00001.csv,factory_003_worker_002,723,732,9
+2000-01-01 00:32:12,2000-01-01 00:32:18,pick debris from mold cavity,Mold preparation and cleaning,factory_003,worker_002,factory003_worker002_00001.csv,factory_003_worker_002,732,738,6
+2000-01-01 00:32:18,2000-01-01 00:32:24,load pre-manufactured insert into mold,Mold preparation and cleaning,factory_003,worker_002,factory003_worker002_00001.csv,factory_003_worker_002,738,744,6
+2000-01-01 00:32:24,2000-01-01 00:32:31,close two-part mold assembly,Mold preparation and cleaning,factory_003,worker_002,factory003_worker002_00001.csv,factory_003_worker_002,744,751,7
+2000-01-01 00:32:31,2000-01-01 00:35:33,pick debris from mold cavity,Mold preparation and cleaning,factory_003,worker_002,factory003_worker002_00002.csv,factory_003_worker_002,0,182,182
+2000-01-01 00:35:38,2000-01-01 00:37:29,pick debris from mold cavity,Mold preparation and cleaning,factory_003,worker_002,factory003_worker002_00002.csv,factory_003_worker_002,187,298,111
+2000-01-01 00:37:36,2000-01-01 00:37:58,pick debris from mold cavity,Mold preparation and cleaning,factory_003,worker_002,factory003_worker002_00002.csv,factory_003_worker_002,305,327,22
+2000-01-01 00:38:15,2000-01-01 00:40:00,pick debris from mold cavity,Mold preparation and cleaning,factory_003,worker_002,factory003_worker002_00002.csv,factory_003_worker_002,344,449,105
+2000-01-01 00:40:18,2000-01-01 00:42:07,pick debris from mold cavity,Mold preparation and cleaning,factory_003,worker_002,factory003_worker002_00002.csv,factory_003_worker_002,467,576,109
+2000-01-01 00:42:07,2000-01-01 00:42:21,blow debris with compressed air gun,Mold preparation and cleaning,factory_003,worker_002,factory003_worker002_00002.csv,factory_003_worker_002,576,590,14
+2000-01-01 00:42:21,2000-01-01 00:42:41,file component edges,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00003.csv,factory_003_worker_002,0,20,20
+2000-01-01 00:42:41,2000-01-01 00:42:47,blow debris with compressed air gun,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00003.csv,factory_003_worker_002,20,26,6
+2000-01-01 00:42:47,2000-01-01 00:44:07,file component edges,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00003.csv,factory_003_worker_002,26,106,80
+2000-01-01 00:44:07,2000-01-01 00:44:43,squeeze binding paste from piping bag,Wax pattern assembly,factory_003,worker_002,factory003_worker002_00003.csv,factory_003_worker_002,106,142,36
+2000-01-01 00:44:43,2000-01-01 00:44:56,bind assembled components with rubber bands,Wax pattern assembly,factory_003,worker_002,factory003_worker002_00003.csv,factory_003_worker_002,142,155,13
+2000-01-01 00:44:56,2000-01-01 00:45:07,squeeze binding paste from piping bag,Wax pattern assembly,factory_003,worker_002,factory003_worker002_00003.csv,factory_003_worker_002,155,166,11
+2000-01-01 00:45:07,2000-01-01 00:45:15,bind assembled components with rubber bands,Wax pattern assembly,factory_003,worker_002,factory003_worker002_00003.csv,factory_003_worker_002,166,174,8
+2000-01-01 00:45:15,2000-01-01 00:45:25,squeeze binding paste from piping bag,Wax pattern assembly,factory_003,worker_002,factory003_worker002_00003.csv,factory_003_worker_002,174,184,10
+2000-01-01 00:45:25,2000-01-01 00:45:34,bind assembled components with rubber bands,Wax pattern assembly,factory_003,worker_002,factory003_worker002_00003.csv,factory_003_worker_002,184,193,9
+2000-01-01 00:45:34,2000-01-01 00:45:54,squeeze binding paste from piping bag,Wax pattern assembly,factory_003,worker_002,factory003_worker002_00003.csv,factory_003_worker_002,193,213,20
+2000-01-01 00:45:54,2000-01-01 00:46:20,bind assembled components with rubber bands,Wax pattern assembly,factory_003,worker_002,factory003_worker002_00003.csv,factory_003_worker_002,213,239,26
+2000-01-01 00:46:20,2000-01-01 00:46:30,transport loaded tray to storage rack,Wax pattern assembly,factory_003,worker_002,factory003_worker002_00003.csv,factory_003_worker_002,239,249,10
+2000-01-01 00:46:30,2000-01-01 00:47:29,file component edges,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00003.csv,factory_003_worker_002,249,308,59
+2000-01-01 00:47:29,2000-01-01 00:47:51,transport loaded tray to storage rack,Wax pattern assembly,factory_003,worker_002,factory003_worker002_00003.csv,factory_003_worker_002,308,330,22
+2000-01-01 00:47:51,2000-01-01 00:49:16,file component edges,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00003.csv,factory_003_worker_002,330,415,85
+2000-01-01 00:49:16,2000-01-01 00:49:29,squeeze binding paste from piping bag,Wax pattern assembly,factory_003,worker_002,factory003_worker002_00003.csv,factory_003_worker_002,415,428,13
+2000-01-01 00:49:29,2000-01-01 00:49:41,bind assembled components with rubber bands,Wax pattern assembly,factory_003,worker_002,factory003_worker002_00003.csv,factory_003_worker_002,428,440,12
+2000-01-01 00:49:41,2000-01-01 00:49:47,transport loaded tray to storage rack,Wax pattern assembly,factory_003,worker_002,factory003_worker002_00003.csv,factory_003_worker_002,440,446,6
+2000-01-01 00:49:47,2000-01-01 00:50:32,file component edges,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00003.csv,factory_003_worker_002,446,491,45
+2000-01-01 00:50:32,2000-01-01 00:52:21,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00003.csv,factory_003_worker_002,491,600,109
+2000-01-01 00:52:28,2000-01-01 00:53:51,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00003.csv,factory_003_worker_002,607,690,83
+2000-01-01 00:54:21,2000-01-01 00:55:20,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00003.csv,factory_003_worker_002,720,779,59
+2000-01-01 00:55:20,2000-01-01 00:55:29,transport loaded tray to storage rack,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00003.csv,factory_003_worker_002,779,788,9
+2000-01-01 00:56:03,2000-01-01 00:57:27,file component edges,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00003.csv,factory_003_worker_002,822,906,84
+2000-01-01 00:57:27,2000-01-01 00:58:50,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00004.csv,factory_003_worker_002,0,83,83
+2000-01-01 00:58:52,2000-01-01 00:59:09,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00004.csv,factory_003_worker_002,85,102,17
+2000-01-01 00:59:11,2000-01-01 00:59:38,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00004.csv,factory_003_worker_002,104,131,27
+2000-01-01 00:59:38,2000-01-01 00:59:40,sweep accumulated debris into waste box,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00004.csv,factory_003_worker_002,131,133,2
+2000-01-01 00:59:40,2000-01-01 01:00:15,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00004.csv,factory_003_worker_002,133,168,35
+2000-01-01 01:00:15,2000-01-01 01:00:18,sweep accumulated debris into waste box,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00004.csv,factory_003_worker_002,168,171,3
+2000-01-01 01:00:18,2000-01-01 01:02:02,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00004.csv,factory_003_worker_002,171,275,104
+2000-01-01 01:02:02,2000-01-01 01:02:06,sweep accumulated debris into waste box,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00004.csv,factory_003_worker_002,275,279,4
+2000-01-01 01:02:06,2000-01-01 01:03:38,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00004.csv,factory_003_worker_002,279,371,92
+2000-01-01 01:03:44,2000-01-01 01:04:33,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00004.csv,factory_003_worker_002,377,426,49
+2000-01-01 01:04:33,2000-01-01 01:04:35,sweep accumulated debris into waste box,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00004.csv,factory_003_worker_002,426,428,2
+2000-01-01 01:04:35,2000-01-01 01:04:47,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00004.csv,factory_003_worker_002,428,440,12
+2000-01-01 01:04:50,2000-01-01 01:06:15,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00004.csv,factory_003_worker_002,443,528,85
+2000-01-01 01:06:15,2000-01-01 01:06:19,sweep accumulated debris into waste box,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00004.csv,factory_003_worker_002,528,532,4
+2000-01-01 01:06:19,2000-01-01 01:08:03,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00004.csv,factory_003_worker_002,532,636,104
+2000-01-01 01:08:03,2000-01-01 01:08:08,sweep accumulated debris into waste box,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00004.csv,factory_003_worker_002,636,641,5
+2000-01-01 01:08:08,2000-01-01 01:08:40,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00004.csv,factory_003_worker_002,641,673,32
+2000-01-01 01:08:42,2000-01-01 01:09:09,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00004.csv,factory_003_worker_002,675,702,27
+2000-01-01 01:09:09,2000-01-01 01:09:13,sweep accumulated debris into waste box,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00004.csv,factory_003_worker_002,702,706,4
+2000-01-01 01:09:13,2000-01-01 01:09:35,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00004.csv,factory_003_worker_002,706,728,22
+2000-01-01 01:09:38,2000-01-01 01:09:53,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00004.csv,factory_003_worker_002,731,746,15
+2000-01-01 01:09:53,2000-01-01 01:10:00,sweep accumulated debris into waste box,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00004.csv,factory_003_worker_002,746,753,7
+2000-01-01 01:10:00,2000-01-01 01:10:22,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00004.csv,factory_003_worker_002,753,775,22
+2000-01-01 01:10:25,2000-01-01 01:11:38,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00004.csv,factory_003_worker_002,778,851,73
+2000-01-01 01:11:38,2000-01-01 01:11:40,sweep accumulated debris into waste box,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00004.csv,factory_003_worker_002,851,853,2
+2000-01-01 01:11:40,2000-01-01 01:13:10,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00004.csv,factory_003_worker_002,853,943,90
+2000-01-01 01:13:10,2000-01-01 01:13:13,sweep accumulated debris into waste box,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00004.csv,factory_003_worker_002,943,946,3
+2000-01-01 01:13:13,2000-01-01 01:13:33,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00004.csv,factory_003_worker_002,946,966,20
+2000-01-01 01:13:36,2000-01-01 01:14:15,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00004.csv,factory_003_worker_002,969,1008,39
+2000-01-01 01:14:15,2000-01-01 01:14:18,sweep accumulated debris into waste box,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00004.csv,factory_003_worker_002,1008,1011,3
+2000-01-01 01:14:18,2000-01-01 01:14:47,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00004.csv,factory_003_worker_002,1011,1040,29
+2000-01-01 01:14:49,2000-01-01 01:14:58,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00004.csv,factory_003_worker_002,1042,1051,9
+2000-01-01 01:15:04,2000-01-01 01:15:24,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00004.csv,factory_003_worker_002,1057,1077,20
+2000-01-01 01:15:24,2000-01-01 01:15:27,sweep accumulated debris into waste box,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00004.csv,factory_003_worker_002,1077,1080,3
+2000-01-01 01:15:27,2000-01-01 01:16:15,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00004.csv,factory_003_worker_002,1080,1128,48
+2000-01-01 01:16:15,2000-01-01 01:16:17,sweep accumulated debris into waste box,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00004.csv,factory_003_worker_002,1128,1130,2
+2000-01-01 01:16:17,2000-01-01 01:16:39,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00004.csv,factory_003_worker_002,1130,1152,22
+2000-01-01 01:16:41,2000-01-01 01:17:09,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00004.csv,factory_003_worker_002,1154,1182,28
+2000-01-01 01:17:09,2000-01-01 01:17:11,sweep accumulated debris into waste box,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00004.csv,factory_003_worker_002,1182,1184,2
+2000-01-01 01:17:11,2000-01-01 01:17:19,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00004.csv,factory_003_worker_002,1184,1192,8
+2000-01-01 01:17:21,2000-01-01 01:17:27,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00004.csv,factory_003_worker_002,1194,1200,6
+2000-01-01 01:17:27,2000-01-01 01:17:42,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00005.csv,factory_003_worker_002,0,15,15
+2000-01-01 01:17:42,2000-01-01 01:17:49,scoop loose parts from bulk bin,Material sorting and sifting,factory_003,worker_002,factory003_worker002_00005.csv,factory_003_worker_002,15,22,7
+2000-01-01 01:17:49,2000-01-01 01:18:13,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00005.csv,factory_003_worker_002,22,46,24
+2000-01-01 01:18:13,2000-01-01 01:24:37,file component edges,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00005.csv,factory_003_worker_002,46,430,384
+2000-01-01 01:26:29,2000-01-01 01:37:27,file component edges,Surface finishing and polishing,factory_003,worker_002,factory003_worker002_00005.csv,factory_003_worker_002,542,1200,658

@@ -1,0 +1,95 @@
+start_timestamp,end_timestamp,activity,process,factory,worker,source_file,case_id,start_seconds_from_video_start,end_seconds_from_video_start,duration_seconds
+2000-01-01 00:00:00,2000-01-01 00:00:15,load metal casing into wheelbarrow,Bulk material transport,factory_006,worker_004,factory006_worker004_00000.csv,factory_006_worker_004,0,15,15
+2000-01-01 00:00:15,2000-01-01 00:00:27,push loaded wheelbarrow across factory floor,Bulk material transport,factory_006,worker_004,factory006_worker004_00000.csv,factory_006_worker_004,15,27,12
+2000-01-01 00:01:05,2000-01-01 00:01:21,sift through mixed small parts on floor,Floor-based part sorting,factory_006,worker_004,factory006_worker004_00000.csv,factory_006_worker_004,65,81,16
+2000-01-01 00:01:34,2000-01-01 00:02:04,sift through mixed small parts on floor,Floor-based part sorting,factory_006,worker_004,factory006_worker004_00000.csv,factory_006_worker_004,94,124,30
+2000-01-01 00:03:42,2000-01-01 00:04:13,load metal casing into wheelbarrow,Bulk material transport,factory_006,worker_004,factory006_worker004_00000.csv,factory_006_worker_004,222,253,31
+2000-01-01 00:04:33,2000-01-01 00:04:50,push loaded wheelbarrow across factory floor,Bulk material transport,factory_006,worker_004,factory006_worker004_00000.csv,factory_006_worker_004,273,290,17
+2000-01-01 00:04:58,2000-01-01 00:05:37,hook and drag metal casings into straight floor rows,Component staging and arrangement,factory_006,worker_004,factory006_worker004_00000.csv,factory_006_worker_004,298,337,39
+2000-01-01 00:05:37,2000-01-01 00:05:59,dump metal casings onto floor pile,Bulk material transport,factory_006,worker_004,factory006_worker004_00000.csv,factory_006_worker_004,337,359,22
+2000-01-01 00:05:59,2000-01-01 00:06:17,hook and drag metal casings into straight floor rows,Component staging and arrangement,factory_006,worker_004,factory006_worker004_00000.csv,factory_006_worker_004,359,377,18
+2000-01-01 00:06:17,2000-01-01 00:06:50,interlock finned motor casings into horizontal rows,Component staging and arrangement,factory_006,worker_004,factory006_worker004_00000.csv,factory_006_worker_004,377,410,33
+2000-01-01 00:07:14,2000-01-01 00:07:35,load metal casing into wheelbarrow,Bulk material transport,factory_006,worker_004,factory006_worker004_00000.csv,factory_006_worker_004,434,455,21
+2000-01-01 00:07:35,2000-01-01 00:07:55,push loaded wheelbarrow across factory floor,Bulk material transport,factory_006,worker_004,factory006_worker004_00000.csv,factory_006_worker_004,455,475,20
+2000-01-01 00:07:55,2000-01-01 00:08:42,dump metal casings onto floor pile,Bulk material transport,factory_006,worker_004,factory006_worker004_00000.csv,factory_006_worker_004,475,522,47
+2000-01-01 00:08:42,2000-01-01 00:08:59,hook and drag metal casings into straight floor rows,Component staging and arrangement,factory_006,worker_004,factory006_worker004_00000.csv,factory_006_worker_004,522,539,17
+2000-01-01 00:08:59,2000-01-01 00:09:17,interlock finned motor casings into horizontal rows,Component staging and arrangement,factory_006,worker_004,factory006_worker004_00000.csv,factory_006_worker_004,539,557,18
+2000-01-01 00:09:17,2000-01-01 00:09:29,hook and drag metal casings into straight floor rows,Component staging and arrangement,factory_006,worker_004,factory006_worker004_00000.csv,factory_006_worker_004,557,569,12
+2000-01-01 00:09:59,2000-01-01 00:10:11,load metal casing into wheelbarrow,Bulk material transport,factory_006,worker_004,factory006_worker004_00000.csv,factory_006_worker_004,599,611,12
+2000-01-01 00:10:11,2000-01-01 00:10:23,push loaded wheelbarrow across factory floor,Bulk material transport,factory_006,worker_004,factory006_worker004_00000.csv,factory_006_worker_004,611,623,12
+2000-01-01 00:10:23,2000-01-01 00:10:41,hook and drag metal casings into straight floor rows,Component staging and arrangement,factory_006,worker_004,factory006_worker004_00000.csv,factory_006_worker_004,623,641,18
+2000-01-01 00:10:41,2000-01-01 00:10:52,dump metal casings onto floor pile,Bulk material transport,factory_006,worker_004,factory006_worker004_00000.csv,factory_006_worker_004,641,652,11
+2000-01-01 00:10:52,2000-01-01 00:11:08,hook and drag metal casings into straight floor rows,Component staging and arrangement,factory_006,worker_004,factory006_worker004_00000.csv,factory_006_worker_004,652,668,16
+2000-01-01 00:11:08,2000-01-01 00:11:21,interlock finned motor casings into horizontal rows,Component staging and arrangement,factory_006,worker_004,factory006_worker004_00000.csv,factory_006_worker_004,668,681,13
+2000-01-01 00:11:46,2000-01-01 00:11:59,load metal casing into wheelbarrow,Bulk material transport,factory_006,worker_004,factory006_worker004_00000.csv,factory_006_worker_004,706,719,13
+2000-01-01 00:11:59,2000-01-01 00:12:11,push loaded wheelbarrow across factory floor,Bulk material transport,factory_006,worker_004,factory006_worker004_00000.csv,factory_006_worker_004,719,731,12
+2000-01-01 00:12:11,2000-01-01 00:12:24,hook and drag metal casings into straight floor rows,Component staging and arrangement,factory_006,worker_004,factory006_worker004_00000.csv,factory_006_worker_004,731,744,13
+2000-01-01 00:12:24,2000-01-01 00:12:35,dump metal casings onto floor pile,Bulk material transport,factory_006,worker_004,factory006_worker004_00000.csv,factory_006_worker_004,744,755,11
+2000-01-01 00:12:54,2000-01-01 00:13:48,sift through mixed small parts on floor,Floor-based part sorting,factory_006,worker_004,factory006_worker004_00000.csv,factory_006_worker_004,774,828,54
+2000-01-01 00:14:49,2000-01-01 00:15:38,sift through mixed small parts on floor,Floor-based part sorting,factory_006,worker_004,factory006_worker004_00000.csv,factory_006_worker_004,889,938,49
+2000-01-01 00:15:38,2000-01-01 00:15:56,scoop sorted metal brackets into bowl,Floor-based part sorting,factory_006,worker_004,factory006_worker004_00000.csv,factory_006_worker_004,938,956,18
+2000-01-01 00:15:56,2000-01-01 00:16:18,sift through mixed small parts on floor,Floor-based part sorting,factory_006,worker_004,factory006_worker004_00000.csv,factory_006_worker_004,956,978,22
+2000-01-01 00:16:18,2000-01-01 00:16:29,scoop sorted metal brackets into bowl,Floor-based part sorting,factory_006,worker_004,factory006_worker004_00000.csv,factory_006_worker_004,978,989,11
+2000-01-01 00:16:29,2000-01-01 00:16:51,sift through mixed small parts on floor,Floor-based part sorting,factory_006,worker_004,factory006_worker004_00000.csv,factory_006_worker_004,989,1011,22
+2000-01-01 00:16:51,2000-01-01 00:17:15,scoop sorted metal brackets into bowl,Floor-based part sorting,factory_006,worker_004,factory006_worker004_00000.csv,factory_006_worker_004,1011,1035,24
+2000-01-01 00:17:15,2000-01-01 00:17:48,sift through mixed small parts on floor,Floor-based part sorting,factory_006,worker_004,factory006_worker004_00000.csv,factory_006_worker_004,1035,1068,33
+2000-01-01 00:17:48,2000-01-01 00:17:59,scoop sorted metal brackets into bowl,Floor-based part sorting,factory_006,worker_004,factory006_worker004_00000.csv,factory_006_worker_004,1068,1079,11
+2000-01-01 00:17:59,2000-01-01 00:18:21,sift through mixed small parts on floor,Floor-based part sorting,factory_006,worker_004,factory006_worker004_00000.csv,factory_006_worker_004,1079,1101,22
+2000-01-01 00:19:02,2000-01-01 00:19:15,sift through mixed small parts on floor,Floor-based part sorting,factory_006,worker_004,factory006_worker004_00000.csv,factory_006_worker_004,1142,1155,13
+2000-01-01 00:19:15,2000-01-01 00:19:25,scoop sorted metal brackets into bowl,Floor-based part sorting,factory_006,worker_004,factory006_worker004_00000.csv,factory_006_worker_004,1155,1165,10
+2000-01-01 00:19:25,2000-01-01 00:19:59,sift through mixed small parts on floor,Floor-based part sorting,factory_006,worker_004,factory006_worker004_00000.csv,factory_006_worker_004,1165,1199,34
+2000-01-01 00:20:07,2000-01-01 00:20:42,scoop sorted metal brackets into bowl,Floor-based part sorting,factory_006,worker_004,factory006_worker004_00001.csv,factory_006_worker_004,8,43,35
+2000-01-01 00:20:42,2000-01-01 00:20:51,push loaded wheelbarrow across factory floor,Bulk material transport,factory_006,worker_004,factory006_worker004_00001.csv,factory_006_worker_004,43,52,9
+2000-01-01 00:20:59,2000-01-01 00:21:07,sift through mixed small parts on floor,Floor-based part sorting,factory_006,worker_004,factory006_worker004_00001.csv,factory_006_worker_004,60,68,8
+2000-01-01 00:21:07,2000-01-01 00:21:28,scoop sorted metal brackets into bowl,Floor-based part sorting,factory_006,worker_004,factory006_worker004_00001.csv,factory_006_worker_004,68,89,21
+2000-01-01 00:21:28,2000-01-01 00:21:38,push loaded wheelbarrow across factory floor,Bulk material transport,factory_006,worker_004,factory006_worker004_00001.csv,factory_006_worker_004,89,99,10
+2000-01-01 00:21:49,2000-01-01 00:22:06,scoop sorted metal brackets into bowl,Floor-based part sorting,factory_006,worker_004,factory006_worker004_00001.csv,factory_006_worker_004,110,127,17
+2000-01-01 00:22:06,2000-01-01 00:22:16,push loaded wheelbarrow across factory floor,Bulk material transport,factory_006,worker_004,factory006_worker004_00001.csv,factory_006_worker_004,127,137,10
+2000-01-01 00:22:36,2000-01-01 00:22:59,load metal casing into wheelbarrow,Bulk material transport,factory_006,worker_004,factory006_worker004_00001.csv,factory_006_worker_004,157,180,23
+2000-01-01 00:22:59,2000-01-01 00:23:09,push loaded wheelbarrow across factory floor,Bulk material transport,factory_006,worker_004,factory006_worker004_00001.csv,factory_006_worker_004,180,190,10
+2000-01-01 00:23:21,2000-01-01 00:24:45,load metal casing into wheelbarrow,Bulk material transport,factory_006,worker_004,factory006_worker004_00001.csv,factory_006_worker_004,202,286,84
+2000-01-01 00:24:45,2000-01-01 00:24:59,push loaded wheelbarrow across factory floor,Bulk material transport,factory_006,worker_004,factory006_worker004_00001.csv,factory_006_worker_004,286,300,14
+2000-01-01 00:24:59,2000-01-01 00:25:04,dump metal casings onto floor pile,Bulk material transport,factory_006,worker_004,factory006_worker004_00001.csv,factory_006_worker_004,300,305,5
+2000-01-01 00:25:38,2000-01-01 00:26:11,arrange metal casings into table grids,Component staging and arrangement,factory_006,worker_004,factory006_worker004_00001.csv,factory_006_worker_004,339,372,33
+2000-01-01 00:27:27,2000-01-01 00:27:59,arrange metal casings into table grids,Component staging and arrangement,factory_006,worker_004,factory006_worker004_00001.csv,factory_006_worker_004,448,480,32
+2000-01-01 00:27:59,2000-01-01 00:28:34,load metal casing into wheelbarrow,Bulk material transport,factory_006,worker_004,factory006_worker004_00001.csv,factory_006_worker_004,480,515,35
+2000-01-01 00:28:34,2000-01-01 00:28:39,push loaded wheelbarrow across factory floor,Bulk material transport,factory_006,worker_004,factory006_worker004_00001.csv,factory_006_worker_004,515,520,5
+2000-01-01 00:28:39,2000-01-01 00:28:43,dump metal casings onto floor pile,Bulk material transport,factory_006,worker_004,factory006_worker004_00001.csv,factory_006_worker_004,520,524,4
+2000-01-01 00:28:43,2000-01-01 00:29:34,load metal casing into wheelbarrow,Bulk material transport,factory_006,worker_004,factory006_worker004_00001.csv,factory_006_worker_004,524,575,51
+2000-01-01 00:29:34,2000-01-01 00:29:39,push loaded wheelbarrow across factory floor,Bulk material transport,factory_006,worker_004,factory006_worker004_00001.csv,factory_006_worker_004,575,580,5
+2000-01-01 00:29:39,2000-01-01 00:29:43,dump metal casings onto floor pile,Bulk material transport,factory_006,worker_004,factory006_worker004_00001.csv,factory_006_worker_004,580,584,4
+2000-01-01 00:29:43,2000-01-01 00:29:59,load metal casing into wheelbarrow,Bulk material transport,factory_006,worker_004,factory006_worker004_00001.csv,factory_006_worker_004,584,600,16
+2000-01-01 00:29:59,2000-01-01 00:30:09,push loaded wheelbarrow across factory floor,Bulk material transport,factory_006,worker_004,factory006_worker004_00001.csv,factory_006_worker_004,600,610,10
+2000-01-01 00:30:22,2000-01-01 00:32:47,arrange metal casings into table grids,Component staging and arrangement,factory_006,worker_004,factory006_worker004_00001.csv,factory_006_worker_004,623,768,145
+2000-01-01 00:32:47,2000-01-01 00:33:12,dump metal casings onto floor pile,Bulk material transport,factory_006,worker_004,factory006_worker004_00001.csv,factory_006_worker_004,768,793,25
+2000-01-01 00:33:12,2000-01-01 00:34:01,load metal casing into wheelbarrow,Bulk material transport,factory_006,worker_004,factory006_worker004_00001.csv,factory_006_worker_004,793,842,49
+2000-01-01 00:34:47,2000-01-01 00:34:59,arrange metal casings into table grids,Component staging and arrangement,factory_006,worker_004,factory006_worker004_00001.csv,factory_006_worker_004,888,900,12
+2000-01-01 00:35:23,2000-01-01 00:36:02,load metal casing into wheelbarrow,Bulk material transport,factory_006,worker_004,factory006_worker004_00001.csv,factory_006_worker_004,924,963,39
+2000-01-01 00:36:27,2000-01-01 00:37:32,load metal casing into wheelbarrow,Bulk material transport,factory_006,worker_004,factory006_worker004_00001.csv,factory_006_worker_004,988,1053,65
+2000-01-01 00:37:39,2000-01-01 00:38:23,load metal casing into wheelbarrow,Bulk material transport,factory_006,worker_004,factory006_worker004_00001.csv,factory_006_worker_004,1060,1104,44
+2000-01-01 00:39:04,2000-01-01 00:39:39,load metal casing into wheelbarrow,Bulk material transport,factory_006,worker_004,factory006_worker004_00001.csv,factory_006_worker_004,1145,1180,35
+2000-01-01 00:39:39,2000-01-01 00:40:09,sift through mixed small parts on floor,Floor-based part sorting,factory_006,worker_004,factory006_worker004_00002.csv,factory_006_worker_004,0,30,30
+2000-01-01 00:40:09,2000-01-01 00:41:13,scoop sorted metal brackets into bowl,Floor-based part sorting,factory_006,worker_004,factory006_worker004_00002.csv,factory_006_worker_004,30,94,64
+2000-01-01 00:41:13,2000-01-01 00:41:44,interlock finned motor casings into horizontal rows,Component staging and arrangement,factory_006,worker_004,factory006_worker004_00002.csv,factory_006_worker_004,94,125,31
+2000-01-01 00:42:28,2000-01-01 00:43:19,arrange metal casings into table grids,Component staging and arrangement,factory_006,worker_004,factory006_worker004_00002.csv,factory_006_worker_004,169,220,51
+2000-01-01 00:43:19,2000-01-01 00:45:38,interlock finned motor casings into horizontal rows,Component staging and arrangement,factory_006,worker_004,factory006_worker004_00002.csv,factory_006_worker_004,220,359,139
+2000-01-01 00:45:56,2000-01-01 00:49:54,interlock finned motor casings into horizontal rows,Component staging and arrangement,factory_006,worker_004,factory006_worker004_00002.csv,factory_006_worker_004,377,615,238
+2000-01-01 00:49:54,2000-01-01 00:52:52,load metal casing into wheelbarrow,Bulk material transport,factory_006,worker_004,factory006_worker004_00002.csv,factory_006_worker_004,615,793,178
+2000-01-01 00:52:52,2000-01-01 00:53:54,push loaded wheelbarrow across factory floor,Bulk material transport,factory_006,worker_004,factory006_worker004_00002.csv,factory_006_worker_004,793,855,62
+2000-01-01 00:53:54,2000-01-01 00:55:02,scoop sorted metal brackets into bowl,Floor-based part sorting,factory_006,worker_004,factory006_worker004_00002.csv,factory_006_worker_004,855,923,68
+2000-01-01 00:55:02,2000-01-01 00:55:35,push loaded wheelbarrow across factory floor,Bulk material transport,factory_006,worker_004,factory006_worker004_00002.csv,factory_006_worker_004,923,956,33
+2000-01-01 00:55:35,2000-01-01 00:55:50,dump metal casings onto floor pile,Bulk material transport,factory_006,worker_004,factory006_worker004_00002.csv,factory_006_worker_004,956,971,15
+2000-01-01 00:56:14,2000-01-01 00:59:39,hammer metal bracket on hexagonal floor anvil,Part mechanical modification,factory_006,worker_004,factory006_worker004_00002.csv,factory_006_worker_004,995,1200,205
+2000-01-01 00:59:39,2000-01-01 01:00:44,push loaded wheelbarrow across factory floor,Bulk material transport,factory_006,worker_004,factory006_worker004_00003.csv,factory_006_worker_004,0,65,65
+2000-01-01 01:00:44,2000-01-01 01:02:35,interlock finned motor casings into horizontal rows,Component staging and arrangement,factory_006,worker_004,factory006_worker004_00003.csv,factory_006_worker_004,65,176,111
+2000-01-01 01:04:44,2000-01-01 01:05:38,load metal casing into wheelbarrow,Bulk material transport,factory_006,worker_004,factory006_worker004_00003.csv,factory_006_worker_004,305,359,54
+2000-01-01 01:05:38,2000-01-01 01:05:54,push loaded wheelbarrow across factory floor,Bulk material transport,factory_006,worker_004,factory006_worker004_00003.csv,factory_006_worker_004,359,375,16
+2000-01-01 01:05:54,2000-01-01 01:06:52,dump metal casings onto floor pile,Bulk material transport,factory_006,worker_004,factory006_worker004_00003.csv,factory_006_worker_004,375,433,58
+2000-01-01 01:07:47,2000-01-01 01:08:05,push loaded wheelbarrow across factory floor,Bulk material transport,factory_006,worker_004,factory006_worker004_00003.csv,factory_006_worker_004,488,506,18
+2000-01-01 01:08:05,2000-01-01 01:09:52,interlock finned motor casings into horizontal rows,Component staging and arrangement,factory_006,worker_004,factory006_worker004_00003.csv,factory_006_worker_004,506,613,107
+2000-01-01 01:11:04,2000-01-01 01:11:30,push loaded wheelbarrow across factory floor,Bulk material transport,factory_006,worker_004,factory006_worker004_00003.csv,factory_006_worker_004,685,711,26
+2000-01-01 01:11:30,2000-01-01 01:12:28,dump metal casings onto floor pile,Bulk material transport,factory_006,worker_004,factory006_worker004_00003.csv,factory_006_worker_004,711,769,58
+2000-01-01 01:12:55,2000-01-01 01:14:27,load metal casing into wheelbarrow,Bulk material transport,factory_006,worker_004,factory006_worker004_00003.csv,factory_006_worker_004,796,888,92
+2000-01-01 01:14:27,2000-01-01 01:14:57,push loaded wheelbarrow across factory floor,Bulk material transport,factory_006,worker_004,factory006_worker004_00003.csv,factory_006_worker_004,888,918,30
+2000-01-01 01:14:57,2000-01-01 01:17:29,sift through mixed small parts on floor,Floor-based part sorting,factory_006,worker_004,factory006_worker004_00003.csv,factory_006_worker_004,918,1070,152
+2000-01-01 01:17:29,2000-01-01 01:18:01,scoop sorted metal brackets into bowl,Floor-based part sorting,factory_006,worker_004,factory006_worker004_00003.csv,factory_006_worker_004,1070,1102,32

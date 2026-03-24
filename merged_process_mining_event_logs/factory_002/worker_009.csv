@@ -1,0 +1,47 @@
+start_timestamp,end_timestamp,activity,process,factory,worker,source_file,case_id,start_seconds_from_video_start,end_seconds_from_video_start,duration_seconds
+2000-01-01 00:00:00,2000-01-01 00:00:45,align printed fabric patterns,Pattern matching,factory_002,worker_009,factory002_worker009_00000.csv,factory_002_worker_009,0,45,45
+2000-01-01 00:00:45,2000-01-01 00:00:54,pin small fabric pieces together,Fabric pinning,factory_002,worker_009,factory002_worker009_00000.csv,factory_002_worker_009,45,54,9
+2000-01-01 00:01:07,2000-01-01 00:01:40,align printed fabric patterns,Pattern matching,factory_002,worker_009,factory002_worker009_00000.csv,factory_002_worker_009,67,100,33
+2000-01-01 00:01:48,2000-01-01 00:03:13,align printed fabric patterns,Pattern matching,factory_002,worker_009,factory002_worker009_00000.csv,factory_002_worker_009,108,193,85
+2000-01-01 00:03:13,2000-01-01 00:04:20,align printed fabric patterns,Pattern matching,factory_002,worker_009,factory002_worker009_00000.csv,factory_002_worker_009,193,260,67
+2000-01-01 00:04:20,2000-01-01 00:04:30,pin small fabric pieces together,Fabric pinning,factory_002,worker_009,factory002_worker009_00000.csv,factory_002_worker_009,260,270,10
+2000-01-01 00:04:30,2000-01-01 00:05:03,align printed fabric patterns,Pattern matching,factory_002,worker_009,factory002_worker009_00000.csv,factory_002_worker_009,270,303,33
+2000-01-01 00:05:03,2000-01-01 00:05:19,pin small fabric pieces together,Fabric pinning,factory_002,worker_009,factory002_worker009_00000.csv,factory_002_worker_009,303,319,16
+2000-01-01 00:05:19,2000-01-01 00:06:20,align printed fabric patterns,Pattern matching,factory_002,worker_009,factory002_worker009_00000.csv,factory_002_worker_009,319,380,61
+2000-01-01 00:06:27,2000-01-01 00:06:38,smooth fabric flat on table,Fabric edge alignment,factory_002,worker_009,factory002_worker009_00000.csv,factory_002_worker_009,387,398,11
+2000-01-01 00:06:47,2000-01-01 00:07:09,align printed fabric patterns,Pattern matching,factory_002,worker_009,factory002_worker009_00000.csv,factory_002_worker_009,407,429,22
+2000-01-01 00:07:16,2000-01-01 00:07:36,align printed fabric patterns,Pattern matching,factory_002,worker_009,factory002_worker009_00000.csv,factory_002_worker_009,436,456,20
+2000-01-01 00:07:46,2000-01-01 00:08:24,align printed fabric patterns,Pattern matching,factory_002,worker_009,factory002_worker009_00000.csv,factory_002_worker_009,466,504,38
+2000-01-01 00:09:02,2000-01-01 00:10:16,align printed fabric patterns,Pattern matching,factory_002,worker_009,factory002_worker009_00000.csv,factory_002_worker_009,542,616,74
+2000-01-01 00:10:24,2000-01-01 00:11:18,align printed fabric patterns,Pattern matching,factory_002,worker_009,factory002_worker009_00000.csv,factory_002_worker_009,624,678,54
+2000-01-01 00:11:18,2000-01-01 00:12:35,pin small fabric pieces together,Fabric pinning,factory_002,worker_009,factory002_worker009_00000.csv,factory_002_worker_009,678,755,77
+2000-01-01 00:12:35,2000-01-01 00:13:00,align printed fabric patterns,Pattern matching,factory_002,worker_009,factory002_worker009_00000.csv,factory_002_worker_009,755,780,25
+2000-01-01 00:13:08,2000-01-01 00:15:55,align printed fabric patterns,Pattern matching,factory_002,worker_009,factory002_worker009_00000.csv,factory_002_worker_009,788,955,167
+2000-01-01 00:16:08,2000-01-01 00:18:02,align printed fabric patterns,Pattern matching,factory_002,worker_009,factory002_worker009_00000.csv,factory_002_worker_009,968,1082,114
+2000-01-01 00:18:02,2000-01-01 00:18:56,align printed fabric patterns,Pattern matching,factory_002,worker_009,factory002_worker009_00000.csv,factory_002_worker_009,1082,1136,54
+2000-01-01 00:19:07,2000-01-01 00:20:00,align printed fabric patterns,Pattern matching,factory_002,worker_009,factory002_worker009_00000.csv,factory_002_worker_009,1147,1200,53
+2000-01-01 00:20:00,2000-01-01 00:24:32,fold sides of fabric inward,Fabric folding,factory_002,worker_009,factory002_worker009_00001.csv,factory_002_worker_009,0,272,272
+2000-01-01 00:24:32,2000-01-01 00:24:38,shake out fabric piece,Fabric untangling,factory_002,worker_009,factory002_worker009_00001.csv,factory_002_worker_009,272,278,6
+2000-01-01 00:24:38,2000-01-01 00:26:09,fold sides of fabric inward,Fabric folding,factory_002,worker_009,factory002_worker009_00001.csv,factory_002_worker_009,278,369,91
+2000-01-01 00:26:09,2000-01-01 00:26:16,pull fabric edges taut,Fabric untangling,factory_002,worker_009,factory002_worker009_00001.csv,factory_002_worker_009,369,376,7
+2000-01-01 00:26:16,2000-01-01 00:27:11,fold sides of fabric inward,Fabric folding,factory_002,worker_009,factory002_worker009_00001.csv,factory_002_worker_009,376,431,55
+2000-01-01 00:27:15,2000-01-01 00:30:44,fold sides of fabric inward,Fabric folding,factory_002,worker_009,factory002_worker009_00001.csv,factory_002_worker_009,435,644,209
+2000-01-01 00:30:44,2000-01-01 00:30:50,shake out fabric piece,Fabric untangling,factory_002,worker_009,factory002_worker009_00001.csv,factory_002_worker_009,644,650,6
+2000-01-01 00:30:50,2000-01-01 00:37:12,fold sides of fabric inward,Fabric folding,factory_002,worker_009,factory002_worker009_00001.csv,factory_002_worker_009,650,1032,382
+2000-01-01 00:37:12,2000-01-01 00:37:18,shake out fabric piece,Fabric untangling,factory_002,worker_009,factory002_worker009_00001.csv,factory_002_worker_009,1032,1038,6
+2000-01-01 00:37:18,2000-01-01 00:40:00,fold sides of fabric inward,Fabric folding,factory_002,worker_009,factory002_worker009_00001.csv,factory_002_worker_009,1038,1200,162
+2000-01-01 00:40:00,2000-01-01 00:42:19,align printed fabric patterns,Pattern matching,factory_002,worker_009,factory002_worker009_00002.csv,factory_002_worker_009,0,139,139
+2000-01-01 00:42:30,2000-01-01 00:43:48,align printed fabric patterns,Pattern matching,factory_002,worker_009,factory002_worker009_00002.csv,factory_002_worker_009,150,228,78
+2000-01-01 00:43:48,2000-01-01 00:44:00,fold sides of fabric inward,Fabric folding,factory_002,worker_009,factory002_worker009_00002.csv,factory_002_worker_009,228,240,12
+2000-01-01 00:44:38,2000-01-01 00:50:07,align printed fabric patterns,Pattern matching,factory_002,worker_009,factory002_worker009_00002.csv,factory_002_worker_009,278,607,329
+2000-01-01 00:50:07,2000-01-01 00:50:24,fold sides of fabric inward,Fabric folding,factory_002,worker_009,factory002_worker009_00002.csv,factory_002_worker_009,607,624,17
+2000-01-01 00:50:24,2000-01-01 00:50:36,fold bottom section of fabric,Fabric folding,factory_002,worker_009,factory002_worker009_00002.csv,factory_002_worker_009,624,636,12
+2000-01-01 00:50:36,2000-01-01 00:50:54,wrap fabric bundle with string,Fabric bundling,factory_002,worker_009,factory002_worker009_00002.csv,factory_002_worker_009,636,654,18
+2000-01-01 00:50:54,2000-01-01 00:51:13,tie string around fabric stack,Fabric bundling,factory_002,worker_009,factory002_worker009_00002.csv,factory_002_worker_009,654,673,19
+2000-01-01 00:51:13,2000-01-01 00:51:22,attach printed tag to bundle,Fabric bundling,factory_002,worker_009,factory002_worker009_00002.csv,factory_002_worker_009,673,682,9
+2000-01-01 00:52:09,2000-01-01 00:52:20,cut tying string with scissors,Fabric bundling,factory_002,worker_009,factory002_worker009_00002.csv,factory_002_worker_009,729,740,11
+2000-01-01 00:52:20,2000-01-01 00:59:54,align printed fabric patterns,Pattern matching,factory_002,worker_009,factory002_worker009_00002.csv,factory_002_worker_009,740,1194,454
+2000-01-01 00:59:54,2000-01-01 01:11:52,align small fabric piece to base piece cutout,Fabric pairing,factory_002,worker_009,factory002_worker009_00003.csv,factory_002_worker_009,0,718,718
+2000-01-01 01:11:59,2000-01-01 01:17:52,align small fabric piece to base piece cutout,Fabric pairing,factory_002,worker_009,factory002_worker009_00003.csv,factory_002_worker_009,725,1078,353
+2000-01-01 01:17:52,2000-01-01 01:17:59,shake out fabric piece,Fabric untangling,factory_002,worker_009,factory002_worker009_00003.csv,factory_002_worker_009,1078,1085,7
+2000-01-01 01:17:59,2000-01-01 01:19:47,align small fabric piece to base piece cutout,Fabric pairing,factory_002,worker_009,factory002_worker009_00003.csv,factory_002_worker_009,1085,1193,108

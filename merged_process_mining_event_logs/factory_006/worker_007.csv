@@ -1,0 +1,59 @@
+start_timestamp,end_timestamp,activity,process,factory,worker,source_file,case_id,start_seconds_from_video_start,end_seconds_from_video_start,duration_seconds
+2000-01-01 00:00:00,2000-01-01 00:00:25,strike raw casting with hammer to separate scrap,Metal casting separation,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,0,25,25
+2000-01-01 00:00:25,2000-01-01 00:00:46,sweep dirt floor to clear workspace,Workspace clearing,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,25,46,21
+2000-01-01 00:01:14,2000-01-01 00:01:58,strike raw casting with hammer to separate scrap,Metal casting separation,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,74,118,44
+2000-01-01 00:01:58,2000-01-01 00:02:04,sweep dirt floor to clear workspace,Workspace clearing,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,118,124,6
+2000-01-01 00:02:04,2000-01-01 00:02:30,strike raw casting with hammer to separate scrap,Metal casting separation,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,124,150,26
+2000-01-01 00:02:30,2000-01-01 00:02:35,sweep dirt floor to clear workspace,Workspace clearing,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,150,155,5
+2000-01-01 00:02:42,2000-01-01 00:02:49,sweep dirt floor to clear workspace,Workspace clearing,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,162,169,7
+2000-01-01 00:02:49,2000-01-01 00:03:22,strike raw casting with hammer to separate scrap,Metal casting separation,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,169,202,33
+2000-01-01 00:03:41,2000-01-01 00:04:32,strike raw casting with hammer to separate scrap,Metal casting separation,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,221,272,51
+2000-01-01 00:04:47,2000-01-01 00:05:04,strike raw casting with hammer to separate scrap,Metal casting separation,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,287,304,17
+2000-01-01 00:05:12,2000-01-01 00:05:25,strike raw casting with hammer to separate scrap,Metal casting separation,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,312,325,13
+2000-01-01 00:05:39,2000-01-01 00:05:53,strike raw casting with hammer to separate scrap,Metal casting separation,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,339,353,14
+2000-01-01 00:05:53,2000-01-01 00:05:58,sweep dirt floor to clear workspace,Workspace clearing,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,353,358,5
+2000-01-01 00:05:58,2000-01-01 00:06:10,strike raw casting with hammer to separate scrap,Metal casting separation,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,358,370,12
+2000-01-01 00:06:10,2000-01-01 00:06:14,sweep dirt floor to clear workspace,Workspace clearing,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,370,374,4
+2000-01-01 00:06:21,2000-01-01 00:06:36,strike raw casting with hammer to separate scrap,Metal casting separation,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,381,396,15
+2000-01-01 00:06:55,2000-01-01 00:07:10,strike raw casting with hammer to separate scrap,Metal casting separation,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,415,430,15
+2000-01-01 00:07:10,2000-01-01 00:07:14,sweep dirt floor to clear workspace,Workspace clearing,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,430,434,4
+2000-01-01 00:07:26,2000-01-01 00:07:45,apply grip salve to hands,Metal casting separation,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,446,465,19
+2000-01-01 00:08:30,2000-01-01 00:09:32,strike raw casting with hammer to separate scrap,Metal casting separation,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,510,572,62
+2000-01-01 00:09:39,2000-01-01 00:09:49,strike raw casting with hammer to separate scrap,Metal casting separation,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,579,589,10
+2000-01-01 00:09:49,2000-01-01 00:09:53,sweep dirt floor to clear workspace,Workspace clearing,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,589,593,4
+2000-01-01 00:09:53,2000-01-01 00:10:08,strike raw casting with hammer to separate scrap,Metal casting separation,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,593,608,15
+2000-01-01 00:10:14,2000-01-01 00:10:22,strike raw casting with hammer to separate scrap,Metal casting separation,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,614,622,8
+2000-01-01 00:10:22,2000-01-01 00:10:25,sweep dirt floor to clear workspace,Workspace clearing,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,622,625,3
+2000-01-01 00:10:25,2000-01-01 00:10:33,strike raw casting with hammer to separate scrap,Metal casting separation,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,625,633,8
+2000-01-01 00:10:33,2000-01-01 00:10:36,sweep dirt floor to clear workspace,Workspace clearing,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,633,636,3
+2000-01-01 00:10:36,2000-01-01 00:10:43,strike raw casting with hammer to separate scrap,Metal casting separation,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,636,643,7
+2000-01-01 00:10:49,2000-01-01 00:11:08,strike raw casting with hammer to separate scrap,Metal casting separation,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,649,668,19
+2000-01-01 00:11:22,2000-01-01 00:11:51,strike raw casting with hammer to separate scrap,Metal casting separation,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,682,711,29
+2000-01-01 00:12:12,2000-01-01 00:12:20,strike raw casting with hammer to separate scrap,Metal casting separation,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,732,740,8
+2000-01-01 00:12:20,2000-01-01 00:12:28,sweep dirt floor to clear workspace,Workspace clearing,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,740,748,8
+2000-01-01 00:12:38,2000-01-01 00:12:56,strike raw casting with hammer to separate scrap,Metal casting separation,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,758,776,18
+2000-01-01 00:13:03,2000-01-01 00:13:14,sweep dirt floor to clear workspace,Workspace clearing,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,783,794,11
+2000-01-01 00:13:58,2000-01-01 00:14:09,strike raw casting with hammer to separate scrap,Metal casting separation,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,838,849,11
+2000-01-01 00:14:21,2000-01-01 00:14:32,apply grip salve to hands,Metal casting separation,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,861,872,11
+2000-01-01 00:14:32,2000-01-01 00:14:41,strike raw casting with hammer to separate scrap,Metal casting separation,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,872,881,9
+2000-01-01 00:14:53,2000-01-01 00:15:04,strike raw casting with hammer to separate scrap,Metal casting separation,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,893,904,11
+2000-01-01 00:15:10,2000-01-01 00:15:20,strike raw casting with hammer to separate scrap,Metal casting separation,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,910,920,10
+2000-01-01 00:15:20,2000-01-01 00:15:23,sweep dirt floor to clear workspace,Workspace clearing,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,920,923,3
+2000-01-01 00:15:32,2000-01-01 00:15:43,strike raw casting with hammer to separate scrap,Metal casting separation,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,932,943,11
+2000-01-01 00:15:43,2000-01-01 00:15:46,sweep dirt floor to clear workspace,Workspace clearing,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,943,946,3
+2000-01-01 00:15:46,2000-01-01 00:15:56,strike raw casting with hammer to separate scrap,Metal casting separation,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,946,956,10
+2000-01-01 00:16:07,2000-01-01 00:16:15,strike raw casting with hammer to separate scrap,Metal casting separation,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,967,975,8
+2000-01-01 00:16:21,2000-01-01 00:16:47,strike raw casting with hammer to separate scrap,Metal casting separation,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,981,1007,26
+2000-01-01 00:16:54,2000-01-01 00:17:01,strike raw casting with hammer to separate scrap,Metal casting separation,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,1014,1021,7
+2000-01-01 00:17:18,2000-01-01 00:17:30,strike raw casting with hammer to separate scrap,Metal casting separation,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,1038,1050,12
+2000-01-01 00:17:30,2000-01-01 00:17:35,sweep dirt floor to clear workspace,Workspace clearing,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,1050,1055,5
+2000-01-01 00:17:41,2000-01-01 00:17:58,strike raw casting with hammer to separate scrap,Metal casting separation,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,1061,1078,17
+2000-01-01 00:18:04,2000-01-01 00:18:22,strike raw casting with hammer to separate scrap,Metal casting separation,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,1084,1102,18
+2000-01-01 00:18:22,2000-01-01 00:18:25,sweep dirt floor to clear workspace,Workspace clearing,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,1102,1105,3
+2000-01-01 00:18:25,2000-01-01 00:18:31,strike raw casting with hammer to separate scrap,Metal casting separation,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,1105,1111,6
+2000-01-01 00:18:37,2000-01-01 00:18:45,strike raw casting with hammer to separate scrap,Metal casting separation,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,1117,1125,8
+2000-01-01 00:18:45,2000-01-01 00:18:48,sweep dirt floor to clear workspace,Workspace clearing,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,1125,1128,3
+2000-01-01 00:18:48,2000-01-01 00:18:56,strike raw casting with hammer to separate scrap,Metal casting separation,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,1128,1136,8
+2000-01-01 00:19:02,2000-01-01 00:19:26,strike raw casting with hammer to separate scrap,Metal casting separation,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,1142,1166,24
+2000-01-01 00:19:35,2000-01-01 00:19:48,strike raw casting with hammer to separate scrap,Metal casting separation,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,1175,1188,13
+2000-01-01 00:19:54,2000-01-01 00:20:01,strike raw casting with hammer to separate scrap,Metal casting separation,factory_006,worker_007,factory006_worker007_00000.csv,factory_006_worker_007,1194,1201,7

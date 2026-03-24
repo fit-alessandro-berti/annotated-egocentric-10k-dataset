@@ -1,0 +1,512 @@
+start_timestamp,end_timestamp,activity,process,factory,worker,source_file,case_id,start_seconds_from_video_start,end_seconds_from_video_start,duration_seconds
+2000-01-01 00:00:00,2000-01-01 00:00:07,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,0,7,7
+2000-01-01 00:00:16,2000-01-01 00:00:41,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,16,41,25
+2000-01-01 00:00:41,2000-01-01 00:00:52,adjust machine bolt with wrench,Machine cleaning and maintenance,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,41,52,11
+2000-01-01 00:00:52,2000-01-01 00:00:58,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,52,58,6
+2000-01-01 00:01:05,2000-01-01 00:01:17,shovel sand into mold box from floor pile,Sand mold creation,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,65,77,12
+2000-01-01 00:01:21,2000-01-01 00:01:33,pack casting sand into mold frame,Sand mold creation,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,81,93,12
+2000-01-01 00:01:33,2000-01-01 00:01:38,compress sand with automated machine press,Sand mold creation,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,93,98,5
+2000-01-01 00:01:38,2000-01-01 00:02:41,adjust machine bolt with wrench,Machine cleaning and maintenance,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,98,161,63
+2000-01-01 00:02:59,2000-01-01 00:03:06,compress sand with automated machine press,Sand mold creation,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,179,186,7
+2000-01-01 00:03:06,2000-01-01 00:03:19,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,186,199,13
+2000-01-01 00:03:19,2000-01-01 00:03:43,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,199,223,24
+2000-01-01 00:03:43,2000-01-01 00:05:00,pack casting sand into mold frame,Sand mold creation,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,223,300,77
+2000-01-01 00:05:00,2000-01-01 00:05:13,compress sand with automated machine press,Sand mold creation,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,300,313,13
+2000-01-01 00:05:13,2000-01-01 00:05:18,scrape excess sand with strike-off bar,Sand mold creation,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,313,318,5
+2000-01-01 00:05:25,2000-01-01 00:05:39,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,325,339,14
+2000-01-01 00:05:46,2000-01-01 00:06:01,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,346,361,15
+2000-01-01 00:06:12,2000-01-01 00:06:36,shovel sand into mold box from floor pile,Sand mold creation,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,372,396,24
+2000-01-01 00:06:44,2000-01-01 00:07:02,pack casting sand into mold frame,Sand mold creation,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,404,422,18
+2000-01-01 00:07:02,2000-01-01 00:07:08,compress sand with automated machine press,Sand mold creation,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,422,428,6
+2000-01-01 00:07:27,2000-01-01 00:07:44,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,447,464,17
+2000-01-01 00:08:03,2000-01-01 00:08:09,pack casting sand into mold frame,Sand mold creation,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,483,489,6
+2000-01-01 00:08:09,2000-01-01 00:08:16,compress sand with automated machine press,Sand mold creation,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,489,496,7
+2000-01-01 00:08:16,2000-01-01 00:08:52,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,496,532,36
+2000-01-01 00:08:52,2000-01-01 00:09:09,pack casting sand into mold frame,Sand mold creation,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,532,549,17
+2000-01-01 00:09:09,2000-01-01 00:09:16,compress sand with automated machine press,Sand mold creation,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,549,556,7
+2000-01-01 00:09:34,2000-01-01 00:09:55,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,574,595,21
+2000-01-01 00:09:55,2000-01-01 00:10:08,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,595,608,13
+2000-01-01 00:10:08,2000-01-01 00:10:14,compress sand with automated machine press,Sand mold creation,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,608,614,6
+2000-01-01 00:10:14,2000-01-01 00:10:39,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,614,639,25
+2000-01-01 00:10:48,2000-01-01 00:10:55,pack casting sand into mold frame,Sand mold creation,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,648,655,7
+2000-01-01 00:11:00,2000-01-01 00:11:15,pack casting sand into mold frame,Sand mold creation,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,660,675,15
+2000-01-01 00:11:15,2000-01-01 00:11:23,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,675,683,8
+2000-01-01 00:11:28,2000-01-01 00:11:33,scrape excess sand with strike-off bar,Sand mold creation,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,688,693,5
+2000-01-01 00:11:33,2000-01-01 00:11:38,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,693,698,5
+2000-01-01 00:12:00,2000-01-01 00:12:06,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,720,726,6
+2000-01-01 00:12:06,2000-01-01 00:12:44,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,726,764,38
+2000-01-01 00:12:44,2000-01-01 00:12:58,pack casting sand into mold frame,Sand mold creation,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,764,778,14
+2000-01-01 00:12:58,2000-01-01 00:13:06,compress sand with automated machine press,Sand mold creation,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,778,786,8
+2000-01-01 00:13:16,2000-01-01 00:13:25,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,796,805,9
+2000-01-01 00:13:30,2000-01-01 00:13:42,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,810,822,12
+2000-01-01 00:13:49,2000-01-01 00:13:59,pack casting sand into mold frame,Sand mold creation,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,829,839,10
+2000-01-01 00:14:03,2000-01-01 00:14:26,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,843,866,23
+2000-01-01 00:14:31,2000-01-01 00:14:44,pack casting sand into mold frame,Sand mold creation,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,871,884,13
+2000-01-01 00:14:44,2000-01-01 00:14:48,compress sand with automated machine press,Sand mold creation,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,884,888,4
+2000-01-01 00:15:00,2000-01-01 00:15:20,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,900,920,20
+2000-01-01 00:15:26,2000-01-01 00:15:38,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,926,938,12
+2000-01-01 00:15:38,2000-01-01 00:16:11,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,938,971,33
+2000-01-01 00:16:11,2000-01-01 00:16:21,pack casting sand into mold frame,Sand mold creation,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,971,981,10
+2000-01-01 00:16:21,2000-01-01 00:16:30,compress sand with automated machine press,Sand mold creation,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,981,990,9
+2000-01-01 00:17:10,2000-01-01 00:17:18,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,1030,1038,8
+2000-01-01 00:17:18,2000-01-01 00:17:28,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,1038,1048,10
+2000-01-01 00:17:28,2000-01-01 00:17:33,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,1048,1053,5
+2000-01-01 00:17:42,2000-01-01 00:18:02,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,1062,1082,20
+2000-01-01 00:18:09,2000-01-01 00:18:18,pack casting sand into mold frame,Sand mold creation,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,1089,1098,9
+2000-01-01 00:18:28,2000-01-01 00:18:38,pack casting sand into mold frame,Sand mold creation,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,1108,1118,10
+2000-01-01 00:18:38,2000-01-01 00:18:43,compress sand with automated machine press,Sand mold creation,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,1118,1123,5
+2000-01-01 00:18:49,2000-01-01 00:19:10,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,1129,1150,21
+2000-01-01 00:19:10,2000-01-01 00:19:20,pack casting sand into mold frame,Sand mold creation,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,1150,1160,10
+2000-01-01 00:19:20,2000-01-01 00:19:28,compress sand with automated machine press,Sand mold creation,factory_006,worker_001,factory006_worker001_00000.csv,factory_006_worker_001,1160,1168,8
+2000-01-01 00:19:28,2000-01-01 00:19:44,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,0,16,16
+2000-01-01 00:19:44,2000-01-01 00:20:00,retrieve sand cores from storage crate,Core and insert placement,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,16,32,16
+2000-01-01 00:20:00,2000-01-01 00:20:12,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,32,44,12
+2000-01-01 00:20:12,2000-01-01 00:20:32,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,44,64,20
+2000-01-01 00:20:32,2000-01-01 00:20:44,push assembled molds along rail track,Mold track advancement,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,64,76,12
+2000-01-01 00:20:44,2000-01-01 00:20:50,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,76,82,6
+2000-01-01 00:20:50,2000-01-01 00:21:10,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,82,102,20
+2000-01-01 00:21:10,2000-01-01 00:21:23,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,102,115,13
+2000-01-01 00:21:23,2000-01-01 00:21:33,push assembled molds along rail track,Mold track advancement,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,115,125,10
+2000-01-01 00:21:33,2000-01-01 00:21:39,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,125,131,6
+2000-01-01 00:21:39,2000-01-01 00:21:59,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,131,151,20
+2000-01-01 00:21:59,2000-01-01 00:22:12,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,151,164,13
+2000-01-01 00:22:12,2000-01-01 00:22:22,push assembled molds along rail track,Mold track advancement,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,164,174,10
+2000-01-01 00:22:22,2000-01-01 00:22:28,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,174,180,6
+2000-01-01 00:22:28,2000-01-01 00:22:48,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,180,200,20
+2000-01-01 00:22:48,2000-01-01 00:23:01,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,200,213,13
+2000-01-01 00:23:01,2000-01-01 00:23:10,push assembled molds along rail track,Mold track advancement,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,213,222,9
+2000-01-01 00:23:10,2000-01-01 00:23:24,retrieve sand cores from storage crate,Core and insert placement,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,222,236,14
+2000-01-01 00:23:24,2000-01-01 00:23:34,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,236,246,10
+2000-01-01 00:23:34,2000-01-01 00:23:40,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,246,252,6
+2000-01-01 00:23:40,2000-01-01 00:23:58,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,252,270,18
+2000-01-01 00:23:58,2000-01-01 00:24:12,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,270,284,14
+2000-01-01 00:24:12,2000-01-01 00:24:21,push assembled molds along rail track,Mold track advancement,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,284,293,9
+2000-01-01 00:24:21,2000-01-01 00:24:35,retrieve sand cores from storage crate,Core and insert placement,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,293,307,14
+2000-01-01 00:24:35,2000-01-01 00:24:45,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,307,317,10
+2000-01-01 00:24:45,2000-01-01 00:24:51,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,317,323,6
+2000-01-01 00:24:51,2000-01-01 00:25:09,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,323,341,18
+2000-01-01 00:25:09,2000-01-01 00:25:23,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,341,355,14
+2000-01-01 00:25:23,2000-01-01 00:25:32,push assembled molds along rail track,Mold track advancement,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,355,364,9
+2000-01-01 00:25:32,2000-01-01 00:25:46,retrieve sand cores from storage crate,Core and insert placement,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,364,378,14
+2000-01-01 00:25:46,2000-01-01 00:25:56,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,378,388,10
+2000-01-01 00:25:56,2000-01-01 00:26:02,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,388,394,6
+2000-01-01 00:26:02,2000-01-01 00:26:20,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,394,412,18
+2000-01-01 00:26:20,2000-01-01 00:26:34,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,412,426,14
+2000-01-01 00:26:34,2000-01-01 00:26:43,push assembled molds along rail track,Mold track advancement,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,426,435,9
+2000-01-01 00:26:43,2000-01-01 00:26:57,retrieve sand cores from storage crate,Core and insert placement,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,435,449,14
+2000-01-01 00:26:57,2000-01-01 00:27:07,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,449,459,10
+2000-01-01 00:27:07,2000-01-01 00:27:13,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,459,465,6
+2000-01-01 00:27:13,2000-01-01 00:27:31,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,465,483,18
+2000-01-01 00:27:31,2000-01-01 00:27:45,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,483,497,14
+2000-01-01 00:27:45,2000-01-01 00:27:54,push assembled molds along rail track,Mold track advancement,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,497,506,9
+2000-01-01 00:27:54,2000-01-01 00:28:08,retrieve sand cores from storage crate,Core and insert placement,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,506,520,14
+2000-01-01 00:28:08,2000-01-01 00:28:18,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,520,530,10
+2000-01-01 00:28:18,2000-01-01 00:28:24,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,530,536,6
+2000-01-01 00:28:24,2000-01-01 00:28:42,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,536,554,18
+2000-01-01 00:28:42,2000-01-01 00:28:56,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,554,568,14
+2000-01-01 00:28:56,2000-01-01 00:29:04,push assembled molds along rail track,Mold track advancement,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,568,576,8
+2000-01-01 00:29:04,2000-01-01 00:29:18,retrieve sand cores from storage crate,Core and insert placement,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,576,590,14
+2000-01-01 00:29:18,2000-01-01 00:29:28,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,590,600,10
+2000-01-01 00:29:28,2000-01-01 00:29:34,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,600,606,6
+2000-01-01 00:29:34,2000-01-01 00:29:52,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,606,624,18
+2000-01-01 00:29:52,2000-01-01 00:30:06,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,624,638,14
+2000-01-01 00:30:06,2000-01-01 00:30:14,push assembled molds along rail track,Mold track advancement,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,638,646,8
+2000-01-01 00:30:14,2000-01-01 00:30:28,retrieve sand cores from storage crate,Core and insert placement,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,646,660,14
+2000-01-01 00:30:28,2000-01-01 00:30:38,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,660,670,10
+2000-01-01 00:30:38,2000-01-01 00:30:44,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,670,676,6
+2000-01-01 00:30:44,2000-01-01 00:31:02,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,676,694,18
+2000-01-01 00:31:02,2000-01-01 00:31:16,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,694,708,14
+2000-01-01 00:31:16,2000-01-01 00:31:24,push assembled molds along rail track,Mold track advancement,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,708,716,8
+2000-01-01 00:31:24,2000-01-01 00:31:38,retrieve sand cores from storage crate,Core and insert placement,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,716,730,14
+2000-01-01 00:31:38,2000-01-01 00:31:48,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,730,740,10
+2000-01-01 00:31:48,2000-01-01 00:31:54,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,740,746,6
+2000-01-01 00:31:54,2000-01-01 00:32:12,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,746,764,18
+2000-01-01 00:32:12,2000-01-01 00:32:26,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,764,778,14
+2000-01-01 00:32:26,2000-01-01 00:32:34,push assembled molds along rail track,Mold track advancement,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,778,786,8
+2000-01-01 00:32:34,2000-01-01 00:32:48,retrieve sand cores from storage crate,Core and insert placement,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,786,800,14
+2000-01-01 00:32:48,2000-01-01 00:32:58,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,800,810,10
+2000-01-01 00:32:58,2000-01-01 00:33:04,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,810,816,6
+2000-01-01 00:33:04,2000-01-01 00:33:22,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,816,834,18
+2000-01-01 00:33:22,2000-01-01 00:33:36,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,834,848,14
+2000-01-01 00:33:36,2000-01-01 00:33:44,push assembled molds along rail track,Mold track advancement,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,848,856,8
+2000-01-01 00:33:44,2000-01-01 00:33:58,retrieve sand cores from storage crate,Core and insert placement,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,856,870,14
+2000-01-01 00:33:58,2000-01-01 00:34:08,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,870,880,10
+2000-01-01 00:34:08,2000-01-01 00:34:14,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,880,886,6
+2000-01-01 00:34:14,2000-01-01 00:34:32,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,886,904,18
+2000-01-01 00:34:32,2000-01-01 00:34:46,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,904,918,14
+2000-01-01 00:34:46,2000-01-01 00:34:54,push assembled molds along rail track,Mold track advancement,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,918,926,8
+2000-01-01 00:34:54,2000-01-01 00:35:08,retrieve sand cores from storage crate,Core and insert placement,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,926,940,14
+2000-01-01 00:35:08,2000-01-01 00:35:18,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,940,950,10
+2000-01-01 00:35:18,2000-01-01 00:35:24,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,950,956,6
+2000-01-01 00:35:24,2000-01-01 00:35:42,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,956,974,18
+2000-01-01 00:35:42,2000-01-01 00:35:56,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,974,988,14
+2000-01-01 00:35:56,2000-01-01 00:36:04,push assembled molds along rail track,Mold track advancement,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,988,996,8
+2000-01-01 00:36:04,2000-01-01 00:36:18,retrieve sand cores from storage crate,Core and insert placement,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,996,1010,14
+2000-01-01 00:36:18,2000-01-01 00:36:28,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,1010,1020,10
+2000-01-01 00:36:28,2000-01-01 00:36:34,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,1020,1026,6
+2000-01-01 00:36:34,2000-01-01 00:36:52,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,1026,1044,18
+2000-01-01 00:36:52,2000-01-01 00:37:06,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,1044,1058,14
+2000-01-01 00:37:06,2000-01-01 00:37:14,push assembled molds along rail track,Mold track advancement,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,1058,1066,8
+2000-01-01 00:37:14,2000-01-01 00:37:28,retrieve sand cores from storage crate,Core and insert placement,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,1066,1080,14
+2000-01-01 00:37:28,2000-01-01 00:37:38,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,1080,1090,10
+2000-01-01 00:37:38,2000-01-01 00:37:44,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,1090,1096,6
+2000-01-01 00:37:44,2000-01-01 00:38:02,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,1096,1114,18
+2000-01-01 00:38:02,2000-01-01 00:38:16,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,1114,1128,14
+2000-01-01 00:38:16,2000-01-01 00:38:24,push assembled molds along rail track,Mold track advancement,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,1128,1136,8
+2000-01-01 00:38:24,2000-01-01 00:38:38,retrieve sand cores from storage crate,Core and insert placement,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,1136,1150,14
+2000-01-01 00:38:38,2000-01-01 00:38:48,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,1150,1160,10
+2000-01-01 00:38:48,2000-01-01 00:38:54,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,1160,1166,6
+2000-01-01 00:38:54,2000-01-01 00:39:12,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,1166,1184,18
+2000-01-01 00:39:12,2000-01-01 00:39:26,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,1184,1198,14
+2000-01-01 00:39:26,2000-01-01 00:39:34,push assembled molds along rail track,Mold track advancement,factory_006,worker_001,factory006_worker001_00001.csv,factory_006_worker_001,1198,1206,8
+2000-01-01 00:39:48,2000-01-01 00:39:53,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00002.csv,factory_006_worker_001,14,19,5
+2000-01-01 00:39:53,2000-01-01 00:40:04,spray liquid coating into mold interior,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00002.csv,factory_006_worker_001,19,30,11
+2000-01-01 00:40:10,2000-01-01 00:40:17,spray liquid coating into mold interior,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00002.csv,factory_006_worker_001,36,43,7
+2000-01-01 00:40:17,2000-01-01 00:40:31,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00002.csv,factory_006_worker_001,43,57,14
+2000-01-01 00:40:31,2000-01-01 00:40:59,spray liquid coating into mold interior,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00002.csv,factory_006_worker_001,57,85,28
+2000-01-01 00:40:59,2000-01-01 00:41:20,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00002.csv,factory_006_worker_001,85,106,21
+2000-01-01 00:41:20,2000-01-01 00:41:48,spray liquid coating into mold interior,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00002.csv,factory_006_worker_001,106,134,28
+2000-01-01 00:41:48,2000-01-01 00:42:09,push assembled molds along rail track,Mold track advancement,factory_006,worker_001,factory006_worker001_00002.csv,factory_006_worker_001,134,155,21
+2000-01-01 00:42:09,2000-01-01 00:42:37,spray liquid coating into mold interior,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00002.csv,factory_006_worker_001,155,183,28
+2000-01-01 00:42:37,2000-01-01 00:42:48,push assembled molds along rail track,Mold track advancement,factory_006,worker_001,factory006_worker001_00002.csv,factory_006_worker_001,183,194,11
+2000-01-01 00:42:54,2000-01-01 00:43:17,log production tally on tracking board,Manual production logging,factory_006,worker_001,factory006_worker001_00002.csv,factory_006_worker_001,200,223,23
+2000-01-01 00:43:25,2000-01-01 00:43:48,spray liquid coating into mold interior,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00002.csv,factory_006_worker_001,231,254,23
+2000-01-01 00:43:48,2000-01-01 00:44:04,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00002.csv,factory_006_worker_001,254,270,16
+2000-01-01 00:44:04,2000-01-01 00:44:15,spray liquid coating into mold interior,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00002.csv,factory_006_worker_001,270,281,11
+2000-01-01 00:44:19,2000-01-01 00:44:27,spray liquid coating into mold interior,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00002.csv,factory_006_worker_001,285,293,8
+2000-01-01 00:44:27,2000-01-01 00:44:42,push assembled molds along rail track,Mold track advancement,factory_006,worker_001,factory006_worker001_00002.csv,factory_006_worker_001,293,308,15
+2000-01-01 00:44:42,2000-01-01 00:45:12,spray liquid coating into mold interior,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00002.csv,factory_006_worker_001,308,338,30
+2000-01-01 00:45:12,2000-01-01 00:45:20,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00002.csv,factory_006_worker_001,338,346,8
+2000-01-01 00:45:27,2000-01-01 00:45:34,spray liquid coating into mold interior,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00002.csv,factory_006_worker_001,353,360,7
+2000-01-01 00:45:34,2000-01-01 00:45:41,push assembled molds along rail track,Mold track advancement,factory_006,worker_001,factory006_worker001_00002.csv,factory_006_worker_001,360,367,7
+2000-01-01 00:45:41,2000-01-01 00:45:57,spray liquid coating into mold interior,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00002.csv,factory_006_worker_001,367,383,16
+2000-01-01 00:45:57,2000-01-01 00:46:13,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00002.csv,factory_006_worker_001,383,399,16
+2000-01-01 00:46:22,2000-01-01 00:46:28,spray liquid coating into mold interior,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00002.csv,factory_006_worker_001,408,414,6
+2000-01-01 00:46:28,2000-01-01 00:46:37,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00002.csv,factory_006_worker_001,414,423,9
+2000-01-01 00:46:45,2000-01-01 00:47:03,spray liquid coating into mold interior,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00002.csv,factory_006_worker_001,431,449,18
+2000-01-01 00:47:03,2000-01-01 00:47:14,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00002.csv,factory_006_worker_001,449,460,11
+2000-01-01 00:47:28,2000-01-01 00:47:52,spray liquid coating into mold interior,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00002.csv,factory_006_worker_001,474,498,24
+2000-01-01 00:47:52,2000-01-01 00:47:58,push assembled molds along rail track,Mold track advancement,factory_006,worker_001,factory006_worker001_00002.csv,factory_006_worker_001,498,504,6
+2000-01-01 00:47:58,2000-01-01 00:48:16,spray liquid coating into mold interior,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00002.csv,factory_006_worker_001,504,522,18
+2000-01-01 00:48:16,2000-01-01 00:48:32,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00002.csv,factory_006_worker_001,522,538,16
+2000-01-01 00:48:40,2000-01-01 00:48:46,spray liquid coating into mold interior,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00002.csv,factory_006_worker_001,546,552,6
+2000-01-01 00:48:46,2000-01-01 00:48:58,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00002.csv,factory_006_worker_001,552,564,12
+2000-01-01 00:49:05,2000-01-01 00:49:22,spray liquid coating into mold interior,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00002.csv,factory_006_worker_001,571,588,17
+2000-01-01 00:49:22,2000-01-01 00:49:30,push assembled molds along rail track,Mold track advancement,factory_006,worker_001,factory006_worker001_00002.csv,factory_006_worker_001,588,596,8
+2000-01-01 00:49:30,2000-01-01 00:49:40,spray liquid coating into mold interior,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00002.csv,factory_006_worker_001,596,606,10
+2000-01-01 00:49:40,2000-01-01 00:49:48,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00002.csv,factory_006_worker_001,606,614,8
+2000-01-01 00:49:54,2000-01-01 00:49:59,spray liquid coating into mold interior,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00002.csv,factory_006_worker_001,620,625,5
+2000-01-01 00:49:59,2000-01-01 00:50:16,push assembled molds along rail track,Mold track advancement,factory_006,worker_001,factory006_worker001_00002.csv,factory_006_worker_001,625,642,17
+2000-01-01 00:50:34,2000-01-01 00:50:41,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00002.csv,factory_006_worker_001,660,667,7
+2000-01-01 00:50:41,2000-01-01 00:50:49,spray liquid coating into mold interior,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00002.csv,factory_006_worker_001,667,675,8
+2000-01-01 00:50:49,2000-01-01 00:50:57,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00002.csv,factory_006_worker_001,675,683,8
+2000-01-01 00:50:57,2000-01-01 00:51:17,spray liquid coating into mold interior,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00002.csv,factory_006_worker_001,683,703,20
+2000-01-01 00:51:17,2000-01-01 00:51:27,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00002.csv,factory_006_worker_001,703,713,10
+2000-01-01 00:52:32,2000-01-01 01:01:14,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00003.csv,factory_006_worker_001,65,587,522
+2000-01-01 01:02:27,2000-01-01 01:10:47,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00003.csv,factory_006_worker_001,660,1160,500
+2000-01-01 01:11:16,2000-01-01 01:11:27,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00003.csv,factory_006_worker_001,1189,1200,11
+2000-01-01 01:11:27,2000-01-01 01:12:36,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00004.csv,factory_006_worker_001,0,69,69
+2000-01-01 01:14:04,2000-01-01 01:14:27,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00004.csv,factory_006_worker_001,157,180,23
+2000-01-01 01:14:27,2000-01-01 01:15:17,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00004.csv,factory_006_worker_001,180,230,50
+2000-01-01 01:16:35,2000-01-01 01:17:28,sift through mixed small parts on floor,Floor-based part sorting,factory_006,worker_001,factory006_worker001_00004.csv,factory_006_worker_001,308,361,53
+2000-01-01 01:18:25,2000-01-01 01:19:04,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00004.csv,factory_006_worker_001,418,457,39
+2000-01-01 01:19:04,2000-01-01 01:19:39,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00004.csv,factory_006_worker_001,457,492,35
+2000-01-01 01:19:39,2000-01-01 01:20:17,poke vent hole in assembled mold,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00004.csv,factory_006_worker_001,492,530,38
+2000-01-01 01:20:17,2000-01-01 01:20:52,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00004.csv,factory_006_worker_001,530,565,35
+2000-01-01 01:20:52,2000-01-01 01:21:13,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00004.csv,factory_006_worker_001,565,586,21
+2000-01-01 01:21:13,2000-01-01 01:21:31,poke vent hole in assembled mold,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00004.csv,factory_006_worker_001,586,604,18
+2000-01-01 01:21:31,2000-01-01 01:22:04,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00004.csv,factory_006_worker_001,604,637,33
+2000-01-01 01:22:04,2000-01-01 01:22:24,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00004.csv,factory_006_worker_001,637,657,20
+2000-01-01 01:22:24,2000-01-01 01:22:40,poke vent hole in assembled mold,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00004.csv,factory_006_worker_001,657,673,16
+2000-01-01 01:22:40,2000-01-01 01:23:14,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00004.csv,factory_006_worker_001,673,707,34
+2000-01-01 01:23:14,2000-01-01 01:23:27,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00004.csv,factory_006_worker_001,707,720,13
+2000-01-01 01:23:27,2000-01-01 01:23:39,poke vent hole in assembled mold,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00004.csv,factory_006_worker_001,720,732,12
+2000-01-01 01:23:39,2000-01-01 01:24:17,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00004.csv,factory_006_worker_001,732,770,38
+2000-01-01 01:24:17,2000-01-01 01:24:37,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00004.csv,factory_006_worker_001,770,790,20
+2000-01-01 01:24:37,2000-01-01 01:24:57,poke vent hole in assembled mold,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00004.csv,factory_006_worker_001,790,810,20
+2000-01-01 01:24:57,2000-01-01 01:25:31,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00004.csv,factory_006_worker_001,810,844,34
+2000-01-01 01:25:31,2000-01-01 01:25:51,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00004.csv,factory_006_worker_001,844,864,20
+2000-01-01 01:25:51,2000-01-01 01:26:07,poke vent hole in assembled mold,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00004.csv,factory_006_worker_001,864,880,16
+2000-01-01 01:26:07,2000-01-01 01:26:46,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00004.csv,factory_006_worker_001,880,919,39
+2000-01-01 01:26:46,2000-01-01 01:27:04,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00004.csv,factory_006_worker_001,919,937,18
+2000-01-01 01:27:04,2000-01-01 01:27:19,poke vent hole in assembled mold,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00004.csv,factory_006_worker_001,937,952,15
+2000-01-01 01:27:19,2000-01-01 01:27:56,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00004.csv,factory_006_worker_001,952,989,37
+2000-01-01 01:27:56,2000-01-01 01:28:16,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00004.csv,factory_006_worker_001,989,1009,20
+2000-01-01 01:28:16,2000-01-01 01:28:32,poke vent hole in assembled mold,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00004.csv,factory_006_worker_001,1009,1025,16
+2000-01-01 01:28:32,2000-01-01 01:29:08,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00004.csv,factory_006_worker_001,1025,1061,36
+2000-01-01 01:29:08,2000-01-01 01:29:28,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00004.csv,factory_006_worker_001,1061,1081,20
+2000-01-01 01:29:28,2000-01-01 01:29:45,poke vent hole in assembled mold,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00004.csv,factory_006_worker_001,1081,1098,17
+2000-01-01 01:29:45,2000-01-01 01:30:23,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00004.csv,factory_006_worker_001,1098,1136,38
+2000-01-01 01:30:23,2000-01-01 01:30:42,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00004.csv,factory_006_worker_001,1136,1155,19
+2000-01-01 01:30:42,2000-01-01 01:31:00,poke vent hole in assembled mold,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00004.csv,factory_006_worker_001,1155,1173,18
+2000-01-01 01:31:00,2000-01-01 01:31:13,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00004.csv,factory_006_worker_001,1173,1186,13
+2000-01-01 01:31:13,2000-01-01 01:31:27,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00004.csv,factory_006_worker_001,1186,1200,14
+2000-01-01 01:31:27,2000-01-01 01:31:50,shovel sand into mold box from floor pile,Sand mold creation,factory_006,worker_001,factory006_worker001_00005.csv,factory_006_worker_001,0,23,23
+2000-01-01 01:31:50,2000-01-01 01:32:48,pack casting sand into mold frame,Sand mold creation,factory_006,worker_001,factory006_worker001_00005.csv,factory_006_worker_001,23,81,58
+2000-01-01 01:32:48,2000-01-01 01:33:00,compress sand with automated machine press,Sand mold creation,factory_006,worker_001,factory006_worker001_00005.csv,factory_006_worker_001,81,93,12
+2000-01-01 01:33:00,2000-01-01 01:33:43,blow debris from mold cavities with air gun,Machine cleaning and maintenance,factory_006,worker_001,factory006_worker001_00005.csv,factory_006_worker_001,93,136,43
+2000-01-01 01:34:04,2000-01-01 01:36:03,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00005.csv,factory_006_worker_001,157,276,119
+2000-01-01 01:36:03,2000-01-01 01:36:28,blow debris from mold cavities with air gun,Machine cleaning and maintenance,factory_006,worker_001,factory006_worker001_00005.csv,factory_006_worker_001,276,301,25
+2000-01-01 01:36:28,2000-01-01 01:36:37,lift empty mold box onto pattern plate,Sand mold creation,factory_006,worker_001,factory006_worker001_00005.csv,factory_006_worker_001,301,310,9
+2000-01-01 01:36:37,2000-01-01 01:37:33,pack casting sand into mold frame,Sand mold creation,factory_006,worker_001,factory006_worker001_00005.csv,factory_006_worker_001,310,366,56
+2000-01-01 01:37:33,2000-01-01 01:37:44,scrape excess sand with strike-off bar,Sand mold creation,factory_006,worker_001,factory006_worker001_00005.csv,factory_006_worker_001,366,377,11
+2000-01-01 01:38:13,2000-01-01 01:38:49,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00005.csv,factory_006_worker_001,406,442,36
+2000-01-01 01:38:49,2000-01-01 01:39:16,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00005.csv,factory_006_worker_001,442,469,27
+2000-01-01 01:39:16,2000-01-01 01:39:21,lift empty mold box onto pattern plate,Sand mold creation,factory_006,worker_001,factory006_worker001_00005.csv,factory_006_worker_001,469,474,5
+2000-01-01 01:39:21,2000-01-01 01:39:47,pack casting sand into mold frame,Sand mold creation,factory_006,worker_001,factory006_worker001_00005.csv,factory_006_worker_001,474,500,26
+2000-01-01 01:39:47,2000-01-01 01:39:55,compress sand with automated machine press,Sand mold creation,factory_006,worker_001,factory006_worker001_00005.csv,factory_006_worker_001,500,508,8
+2000-01-01 01:39:55,2000-01-01 01:40:02,scrape excess sand with strike-off bar,Sand mold creation,factory_006,worker_001,factory006_worker001_00005.csv,factory_006_worker_001,508,515,7
+2000-01-01 01:40:48,2000-01-01 01:41:02,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00005.csv,factory_006_worker_001,561,575,14
+2000-01-01 01:41:02,2000-01-01 01:41:07,lift empty mold box onto pattern plate,Sand mold creation,factory_006,worker_001,factory006_worker001_00005.csv,factory_006_worker_001,575,580,5
+2000-01-01 01:41:07,2000-01-01 01:41:26,pack casting sand into mold frame,Sand mold creation,factory_006,worker_001,factory006_worker001_00005.csv,factory_006_worker_001,580,599,19
+2000-01-01 01:41:26,2000-01-01 01:41:43,compress sand with automated machine press,Sand mold creation,factory_006,worker_001,factory006_worker001_00005.csv,factory_006_worker_001,599,616,17
+2000-01-01 01:41:43,2000-01-01 01:41:56,scrape excess sand with strike-off bar,Sand mold creation,factory_006,worker_001,factory006_worker001_00005.csv,factory_006_worker_001,616,629,13
+2000-01-01 01:41:56,2000-01-01 01:42:23,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00005.csv,factory_006_worker_001,629,656,27
+2000-01-01 01:42:23,2000-01-01 01:42:37,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00005.csv,factory_006_worker_001,656,670,14
+2000-01-01 01:42:37,2000-01-01 01:42:42,lift empty mold box onto pattern plate,Sand mold creation,factory_006,worker_001,factory006_worker001_00005.csv,factory_006_worker_001,670,675,5
+2000-01-01 01:42:42,2000-01-01 01:42:58,pack casting sand into mold frame,Sand mold creation,factory_006,worker_001,factory006_worker001_00005.csv,factory_006_worker_001,675,691,16
+2000-01-01 01:42:58,2000-01-01 01:43:13,compress sand with automated machine press,Sand mold creation,factory_006,worker_001,factory006_worker001_00005.csv,factory_006_worker_001,691,706,15
+2000-01-01 01:43:13,2000-01-01 01:43:26,scrape excess sand with strike-off bar,Sand mold creation,factory_006,worker_001,factory006_worker001_00005.csv,factory_006_worker_001,706,719,13
+2000-01-01 01:43:53,2000-01-01 01:44:07,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00005.csv,factory_006_worker_001,746,760,14
+2000-01-01 01:44:07,2000-01-01 01:44:12,lift empty mold box onto pattern plate,Sand mold creation,factory_006,worker_001,factory006_worker001_00005.csv,factory_006_worker_001,760,765,5
+2000-01-01 01:44:12,2000-01-01 01:44:27,pack casting sand into mold frame,Sand mold creation,factory_006,worker_001,factory006_worker001_00005.csv,factory_006_worker_001,765,780,15
+2000-01-01 01:44:27,2000-01-01 01:44:59,log production tally on tracking board,Manual production logging,factory_006,worker_001,factory006_worker001_00005.csv,factory_006_worker_001,780,812,32
+2000-01-01 01:44:59,2000-01-01 01:45:04,lift empty mold box onto pattern plate,Sand mold creation,factory_006,worker_001,factory006_worker001_00005.csv,factory_006_worker_001,812,817,5
+2000-01-01 01:45:04,2000-01-01 01:45:42,pack casting sand into mold frame,Sand mold creation,factory_006,worker_001,factory006_worker001_00005.csv,factory_006_worker_001,817,855,38
+2000-01-01 01:45:42,2000-01-01 01:45:59,compress sand with automated machine press,Sand mold creation,factory_006,worker_001,factory006_worker001_00005.csv,factory_006_worker_001,855,872,17
+2000-01-01 01:45:59,2000-01-01 01:46:14,scrape excess sand with strike-off bar,Sand mold creation,factory_006,worker_001,factory006_worker001_00005.csv,factory_006_worker_001,872,887,15
+2000-01-01 01:46:42,2000-01-01 01:46:57,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00005.csv,factory_006_worker_001,915,930,15
+2000-01-01 01:46:57,2000-01-01 01:47:02,lift empty mold box onto pattern plate,Sand mold creation,factory_006,worker_001,factory006_worker001_00005.csv,factory_006_worker_001,930,935,5
+2000-01-01 01:47:02,2000-01-01 01:47:17,pack casting sand into mold frame,Sand mold creation,factory_006,worker_001,factory006_worker001_00005.csv,factory_006_worker_001,935,950,15
+2000-01-01 01:47:17,2000-01-01 01:47:25,compress sand with automated machine press,Sand mold creation,factory_006,worker_001,factory006_worker001_00005.csv,factory_006_worker_001,950,958,8
+2000-01-01 01:47:25,2000-01-01 01:47:32,scrape excess sand with strike-off bar,Sand mold creation,factory_006,worker_001,factory006_worker001_00005.csv,factory_006_worker_001,958,965,7
+2000-01-01 01:47:32,2000-01-01 01:47:59,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00005.csv,factory_006_worker_001,965,992,27
+2000-01-01 01:47:59,2000-01-01 01:48:22,pack casting sand into mold frame,Sand mold creation,factory_006,worker_001,factory006_worker001_00006.csv,factory_006_worker_001,0,23,23
+2000-01-01 01:48:22,2000-01-01 01:48:35,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00006.csv,factory_006_worker_001,23,36,13
+2000-01-01 01:48:35,2000-01-01 01:48:48,spray liquid coating into mold interior,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00006.csv,factory_006_worker_001,36,49,13
+2000-01-01 01:49:53,2000-01-01 01:50:05,spray liquid coating into mold interior,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00006.csv,factory_006_worker_001,114,126,12
+2000-01-01 01:50:05,2000-01-01 01:50:26,pack casting sand into mold frame,Sand mold creation,factory_006,worker_001,factory006_worker001_00006.csv,factory_006_worker_001,126,147,21
+2000-01-01 01:50:26,2000-01-01 01:50:39,compress sand with automated machine press,Sand mold creation,factory_006,worker_001,factory006_worker001_00006.csv,factory_006_worker_001,147,160,13
+2000-01-01 01:50:39,2000-01-01 01:50:52,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00006.csv,factory_006_worker_001,160,173,13
+2000-01-01 01:51:06,2000-01-01 01:51:30,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00006.csv,factory_006_worker_001,187,211,24
+2000-01-01 01:51:30,2000-01-01 01:51:47,pack casting sand into mold frame,Sand mold creation,factory_006,worker_001,factory006_worker001_00006.csv,factory_006_worker_001,211,228,17
+2000-01-01 01:51:47,2000-01-01 01:51:57,compress sand with automated machine press,Sand mold creation,factory_006,worker_001,factory006_worker001_00006.csv,factory_006_worker_001,228,238,10
+2000-01-01 01:52:11,2000-01-01 01:52:27,lift empty mold box onto pattern plate,Sand mold creation,factory_006,worker_001,factory006_worker001_00006.csv,factory_006_worker_001,252,268,16
+2000-01-01 01:52:27,2000-01-01 01:53:07,retrieve sand cores from storage crate,Core and insert placement,factory_006,worker_001,factory006_worker001_00006.csv,factory_006_worker_001,268,308,40
+2000-01-01 01:53:07,2000-01-01 01:53:23,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00006.csv,factory_006_worker_001,308,324,16
+2000-01-01 01:53:38,2000-01-01 01:53:55,retrieve sand cores from storage crate,Core and insert placement,factory_006,worker_001,factory006_worker001_00006.csv,factory_006_worker_001,339,356,17
+2000-01-01 01:53:55,2000-01-01 01:54:16,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00006.csv,factory_006_worker_001,356,377,21
+2000-01-01 01:54:30,2000-01-01 01:54:45,retrieve sand cores from storage crate,Core and insert placement,factory_006,worker_001,factory006_worker001_00006.csv,factory_006_worker_001,391,406,15
+2000-01-01 01:54:45,2000-01-01 01:54:57,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00006.csv,factory_006_worker_001,406,418,12
+2000-01-01 01:54:57,2000-01-01 01:55:09,spray liquid coating into mold interior,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00006.csv,factory_006_worker_001,418,430,12
+2000-01-01 01:55:09,2000-01-01 01:55:15,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00006.csv,factory_006_worker_001,430,436,6
+2000-01-01 01:55:21,2000-01-01 01:55:36,retrieve sand cores from storage crate,Core and insert placement,factory_006,worker_001,factory006_worker001_00006.csv,factory_006_worker_001,442,457,15
+2000-01-01 01:55:36,2000-01-01 01:55:55,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00006.csv,factory_006_worker_001,457,476,19
+2000-01-01 01:56:43,2000-01-01 01:57:47,scrape hardened sand from pressing plate,Machine cleaning and maintenance,factory_006,worker_001,factory006_worker001_00006.csv,factory_006_worker_001,524,588,64
+2000-01-01 01:58:18,2000-01-01 01:58:41,retrieve sand cores from storage crate,Core and insert placement,factory_006,worker_001,factory006_worker001_00006.csv,factory_006_worker_001,619,642,23
+2000-01-01 01:58:59,2000-01-01 01:59:14,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00006.csv,factory_006_worker_001,660,675,15
+2000-01-01 01:59:14,2000-01-01 01:59:45,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00006.csv,factory_006_worker_001,675,706,31
+2000-01-01 02:00:07,2000-01-01 02:00:34,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00006.csv,factory_006_worker_001,728,755,27
+2000-01-01 02:00:42,2000-01-01 02:00:57,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00006.csv,factory_006_worker_001,763,778,15
+2000-01-01 02:00:57,2000-01-01 02:01:12,retrieve sand cores from storage crate,Core and insert placement,factory_006,worker_001,factory006_worker001_00006.csv,factory_006_worker_001,778,793,15
+2000-01-01 02:01:12,2000-01-01 02:01:37,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00006.csv,factory_006_worker_001,793,818,25
+2000-01-01 02:01:37,2000-01-01 02:01:47,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00006.csv,factory_006_worker_001,818,828,10
+2000-01-01 02:02:11,2000-01-01 02:02:27,retrieve sand cores from storage crate,Core and insert placement,factory_006,worker_001,factory006_worker001_00006.csv,factory_006_worker_001,852,868,16
+2000-01-01 02:02:27,2000-01-01 02:02:42,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00006.csv,factory_006_worker_001,868,883,15
+2000-01-01 02:02:42,2000-01-01 02:02:54,spray liquid coating into mold interior,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00006.csv,factory_006_worker_001,883,895,12
+2000-01-01 02:03:17,2000-01-01 02:03:45,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00006.csv,factory_006_worker_001,918,946,28
+2000-01-01 02:03:45,2000-01-01 02:03:57,lift empty mold box onto pattern plate,Sand mold creation,factory_006,worker_001,factory006_worker001_00006.csv,factory_006_worker_001,946,958,12
+2000-01-01 02:03:57,2000-01-01 02:04:12,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00006.csv,factory_006_worker_001,958,973,15
+2000-01-01 02:04:12,2000-01-01 02:04:33,retrieve sand cores from storage crate,Core and insert placement,factory_006,worker_001,factory006_worker001_00006.csv,factory_006_worker_001,973,994,21
+2000-01-01 02:04:33,2000-01-01 02:04:57,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00006.csv,factory_006_worker_001,994,1018,24
+2000-01-01 02:04:57,2000-01-01 02:05:07,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00006.csv,factory_006_worker_001,1018,1028,10
+2000-01-01 02:05:23,2000-01-01 02:05:37,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00006.csv,factory_006_worker_001,1044,1058,14
+2000-01-01 02:05:37,2000-01-01 02:05:53,spray liquid coating into mold interior,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00006.csv,factory_006_worker_001,1058,1074,16
+2000-01-01 02:05:53,2000-01-01 02:06:07,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00006.csv,factory_006_worker_001,1074,1088,14
+2000-01-01 02:06:23,2000-01-01 02:06:41,retrieve sand cores from storage crate,Core and insert placement,factory_006,worker_001,factory006_worker001_00006.csv,factory_006_worker_001,1104,1122,18
+2000-01-01 02:06:41,2000-01-01 02:07:01,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00006.csv,factory_006_worker_001,1122,1142,20
+2000-01-01 02:07:01,2000-01-01 02:07:14,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00006.csv,factory_006_worker_001,1142,1155,13
+2000-01-01 02:07:14,2000-01-01 02:07:29,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00006.csv,factory_006_worker_001,1155,1170,15
+2000-01-01 02:07:29,2000-01-01 02:07:39,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,0,10,10
+2000-01-01 02:07:58,2000-01-01 02:08:15,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,29,46,17
+2000-01-01 02:08:21,2000-01-01 02:08:27,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,52,58,6
+2000-01-01 02:08:39,2000-01-01 02:08:45,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,70,76,6
+2000-01-01 02:08:50,2000-01-01 02:09:00,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,81,91,10
+2000-01-01 02:09:11,2000-01-01 02:09:17,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,102,108,6
+2000-01-01 02:09:33,2000-01-01 02:09:43,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,124,134,10
+2000-01-01 02:09:53,2000-01-01 02:10:01,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,144,152,8
+2000-01-01 02:10:17,2000-01-01 02:10:28,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,168,179,11
+2000-01-01 02:10:28,2000-01-01 02:10:36,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,179,187,8
+2000-01-01 02:10:36,2000-01-01 02:10:44,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,187,195,8
+2000-01-01 02:10:51,2000-01-01 02:10:55,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,202,206,4
+2000-01-01 02:11:00,2000-01-01 02:11:10,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,211,221,10
+2000-01-01 02:11:13,2000-01-01 02:11:28,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,224,239,15
+2000-01-01 02:11:28,2000-01-01 02:11:32,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,239,243,4
+2000-01-01 02:11:32,2000-01-01 02:11:49,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,243,260,17
+2000-01-01 02:11:49,2000-01-01 02:11:55,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,260,266,6
+2000-01-01 02:11:55,2000-01-01 02:12:03,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,266,274,8
+2000-01-01 02:12:03,2000-01-01 02:12:18,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,274,289,15
+2000-01-01 02:12:18,2000-01-01 02:12:24,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,289,295,6
+2000-01-01 02:12:34,2000-01-01 02:12:41,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,305,312,7
+2000-01-01 02:12:41,2000-01-01 02:12:56,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,312,327,15
+2000-01-01 02:12:56,2000-01-01 02:13:03,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,327,334,7
+2000-01-01 02:13:03,2000-01-01 02:13:10,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,334,341,7
+2000-01-01 02:13:32,2000-01-01 02:13:37,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,363,368,5
+2000-01-01 02:13:37,2000-01-01 02:13:55,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,368,386,18
+2000-01-01 02:13:55,2000-01-01 02:14:02,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,386,393,7
+2000-01-01 02:14:02,2000-01-01 02:14:09,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,393,400,7
+2000-01-01 02:14:09,2000-01-01 02:14:17,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,400,408,8
+2000-01-01 02:14:25,2000-01-01 02:14:34,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,416,425,9
+2000-01-01 02:14:34,2000-01-01 02:14:38,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,425,429,4
+2000-01-01 02:14:38,2000-01-01 02:14:44,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,429,435,6
+2000-01-01 02:14:51,2000-01-01 02:15:06,log production tally on tracking board,Manual production logging,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,442,457,15
+2000-01-01 02:15:13,2000-01-01 02:15:20,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,464,471,7
+2000-01-01 02:15:20,2000-01-01 02:15:35,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,471,486,15
+2000-01-01 02:15:35,2000-01-01 02:15:40,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,486,491,5
+2000-01-01 02:15:40,2000-01-01 02:15:46,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,491,497,6
+2000-01-01 02:15:46,2000-01-01 02:15:55,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,497,506,9
+2000-01-01 02:16:00,2000-01-01 02:16:10,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,511,521,10
+2000-01-01 02:16:10,2000-01-01 02:16:17,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,521,528,7
+2000-01-01 02:16:27,2000-01-01 02:16:45,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,538,556,18
+2000-01-01 02:16:45,2000-01-01 02:16:49,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,556,560,4
+2000-01-01 02:16:49,2000-01-01 02:16:53,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,560,564,4
+2000-01-01 02:16:53,2000-01-01 02:17:04,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,564,575,11
+2000-01-01 02:17:11,2000-01-01 02:17:20,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,582,591,9
+2000-01-01 02:17:20,2000-01-01 02:17:26,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,591,597,6
+2000-01-01 02:17:26,2000-01-01 02:17:33,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,597,604,7
+2000-01-01 02:17:33,2000-01-01 02:17:43,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,604,614,10
+2000-01-01 02:17:43,2000-01-01 02:17:49,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,614,620,6
+2000-01-01 02:17:49,2000-01-01 02:18:02,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,620,633,13
+2000-01-01 02:18:06,2000-01-01 02:18:17,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,637,648,11
+2000-01-01 02:18:17,2000-01-01 02:18:31,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,648,662,14
+2000-01-01 02:18:31,2000-01-01 02:18:37,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,662,668,6
+2000-01-01 02:18:37,2000-01-01 02:18:41,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,668,672,4
+2000-01-01 02:18:41,2000-01-01 02:18:50,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,672,681,9
+2000-01-01 02:18:50,2000-01-01 02:18:58,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,681,689,8
+2000-01-01 02:18:58,2000-01-01 02:19:10,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,689,701,12
+2000-01-01 02:19:19,2000-01-01 02:19:26,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,710,717,7
+2000-01-01 02:19:26,2000-01-01 02:19:32,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,717,723,6
+2000-01-01 02:19:32,2000-01-01 02:19:44,retrieve sand cores from storage crate,Core and insert placement,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,723,735,12
+2000-01-01 02:19:44,2000-01-01 02:19:55,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,735,746,11
+2000-01-01 02:19:55,2000-01-01 02:20:01,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,746,752,6
+2000-01-01 02:20:01,2000-01-01 02:20:07,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,752,758,6
+2000-01-01 02:20:07,2000-01-01 02:20:15,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,758,766,8
+2000-01-01 02:20:32,2000-01-01 02:20:37,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,783,788,5
+2000-01-01 02:20:37,2000-01-01 02:20:43,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,788,794,6
+2000-01-01 02:20:43,2000-01-01 02:20:51,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,794,802,8
+2000-01-01 02:20:51,2000-01-01 02:21:00,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,802,811,9
+2000-01-01 02:21:00,2000-01-01 02:21:07,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,811,818,7
+2000-01-01 02:21:07,2000-01-01 02:21:15,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,818,826,8
+2000-01-01 02:21:15,2000-01-01 02:21:21,retrieve sand cores from storage crate,Core and insert placement,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,826,832,6
+2000-01-01 02:21:21,2000-01-01 02:21:33,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,832,844,12
+2000-01-01 02:21:33,2000-01-01 02:21:43,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,844,854,10
+2000-01-01 02:21:47,2000-01-01 02:21:55,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,858,866,8
+2000-01-01 02:21:55,2000-01-01 02:22:07,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,866,878,12
+2000-01-01 02:22:07,2000-01-01 02:22:15,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,878,886,8
+2000-01-01 02:22:15,2000-01-01 02:22:21,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,886,892,6
+2000-01-01 02:22:21,2000-01-01 02:22:31,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,892,902,10
+2000-01-01 02:22:36,2000-01-01 02:22:44,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,907,915,8
+2000-01-01 02:22:44,2000-01-01 02:22:53,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,915,924,9
+2000-01-01 02:22:53,2000-01-01 02:23:02,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,924,933,9
+2000-01-01 02:23:02,2000-01-01 02:23:08,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,933,939,6
+2000-01-01 02:23:08,2000-01-01 02:23:19,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,939,950,11
+2000-01-01 02:23:19,2000-01-01 02:23:25,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,950,956,6
+2000-01-01 02:23:25,2000-01-01 02:23:37,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,956,968,12
+2000-01-01 02:23:39,2000-01-01 02:23:45,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,970,976,6
+2000-01-01 02:23:45,2000-01-01 02:23:58,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,976,989,13
+2000-01-01 02:23:58,2000-01-01 02:24:09,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,989,1000,11
+2000-01-01 02:24:09,2000-01-01 02:24:20,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,1000,1011,11
+2000-01-01 02:24:20,2000-01-01 02:24:27,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,1011,1018,7
+2000-01-01 02:24:27,2000-01-01 02:24:44,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,1018,1035,17
+2000-01-01 02:24:44,2000-01-01 02:24:52,retrieve sand cores from storage crate,Core and insert placement,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,1035,1043,8
+2000-01-01 02:24:52,2000-01-01 02:25:03,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,1043,1054,11
+2000-01-01 02:25:03,2000-01-01 02:25:16,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,1054,1067,13
+2000-01-01 02:25:16,2000-01-01 02:25:22,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,1067,1073,6
+2000-01-01 02:25:22,2000-01-01 02:25:34,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,1073,1085,12
+2000-01-01 02:25:34,2000-01-01 02:25:42,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,1085,1093,8
+2000-01-01 02:25:42,2000-01-01 02:25:53,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,1093,1104,11
+2000-01-01 02:25:53,2000-01-01 02:25:58,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,1104,1109,5
+2000-01-01 02:25:58,2000-01-01 02:26:07,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,1109,1118,9
+2000-01-01 02:26:11,2000-01-01 02:26:19,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,1122,1130,8
+2000-01-01 02:26:19,2000-01-01 02:26:29,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,1130,1140,10
+2000-01-01 02:26:29,2000-01-01 02:26:36,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,1140,1147,7
+2000-01-01 02:26:36,2000-01-01 02:26:47,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,1147,1158,11
+2000-01-01 02:26:47,2000-01-01 02:26:57,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,1158,1168,10
+2000-01-01 02:26:57,2000-01-01 02:27:11,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,1168,1182,14
+2000-01-01 02:27:11,2000-01-01 02:27:29,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00007.csv,factory_006_worker_001,1182,1200,18
+2000-01-01 02:27:29,2000-01-01 02:27:40,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,0,11,11
+2000-01-01 02:27:40,2000-01-01 02:27:55,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,11,26,15
+2000-01-01 02:27:55,2000-01-01 02:28:01,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,26,32,6
+2000-01-01 02:28:01,2000-01-01 02:28:26,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,32,57,25
+2000-01-01 02:28:26,2000-01-01 02:28:32,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,57,63,6
+2000-01-01 02:28:32,2000-01-01 02:28:48,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,63,79,16
+2000-01-01 02:28:48,2000-01-01 02:29:03,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,79,94,15
+2000-01-01 02:29:03,2000-01-01 02:29:12,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,94,103,9
+2000-01-01 02:29:12,2000-01-01 02:29:26,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,103,117,14
+2000-01-01 02:29:33,2000-01-01 02:29:47,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,124,138,14
+2000-01-01 02:29:47,2000-01-01 02:29:53,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,138,144,6
+2000-01-01 02:30:06,2000-01-01 02:30:18,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,157,169,12
+2000-01-01 02:30:24,2000-01-01 02:30:29,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,175,180,5
+2000-01-01 02:30:29,2000-01-01 02:30:40,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,180,191,11
+2000-01-01 02:30:40,2000-01-01 02:30:45,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,191,196,5
+2000-01-01 02:30:45,2000-01-01 02:30:51,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,196,202,6
+2000-01-01 02:30:57,2000-01-01 02:31:10,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,208,221,13
+2000-01-01 02:31:10,2000-01-01 02:31:16,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,221,227,6
+2000-01-01 02:31:16,2000-01-01 02:31:26,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,227,237,10
+2000-01-01 02:31:41,2000-01-01 02:31:51,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,252,262,10
+2000-01-01 02:31:51,2000-01-01 02:32:08,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,262,279,17
+2000-01-01 02:32:08,2000-01-01 02:32:16,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,279,287,8
+2000-01-01 02:32:23,2000-01-01 02:32:39,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,294,310,16
+2000-01-01 02:32:47,2000-01-01 02:33:02,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,318,333,15
+2000-01-01 02:33:02,2000-01-01 02:33:07,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,333,338,5
+2000-01-01 02:33:22,2000-01-01 02:33:34,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,353,365,12
+2000-01-01 02:33:48,2000-01-01 02:34:02,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,379,393,14
+2000-01-01 02:34:02,2000-01-01 02:34:19,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,393,410,17
+2000-01-01 02:34:34,2000-01-01 02:34:44,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,425,435,10
+2000-01-01 02:34:44,2000-01-01 02:34:56,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,435,447,12
+2000-01-01 02:34:56,2000-01-01 02:35:13,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,447,464,17
+2000-01-01 02:35:13,2000-01-01 02:35:29,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,464,480,16
+2000-01-01 02:35:29,2000-01-01 02:35:43,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,480,494,14
+2000-01-01 02:35:57,2000-01-01 02:36:13,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,508,524,16
+2000-01-01 02:36:13,2000-01-01 02:36:21,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,524,532,8
+2000-01-01 02:36:21,2000-01-01 02:36:32,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,532,543,11
+2000-01-01 02:36:57,2000-01-01 02:37:11,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,568,582,14
+2000-01-01 02:37:11,2000-01-01 02:37:18,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,582,589,7
+2000-01-01 02:37:29,2000-01-01 02:37:43,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,600,614,14
+2000-01-01 02:37:43,2000-01-01 02:37:57,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,614,628,14
+2000-01-01 02:37:57,2000-01-01 02:38:09,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,628,640,12
+2000-01-01 02:38:09,2000-01-01 02:38:21,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,640,652,12
+2000-01-01 02:38:32,2000-01-01 02:38:44,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,663,675,12
+2000-01-01 02:38:44,2000-01-01 02:38:54,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,675,685,10
+2000-01-01 02:38:54,2000-01-01 02:39:07,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,685,698,13
+2000-01-01 02:39:16,2000-01-01 02:39:29,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,707,720,13
+2000-01-01 02:39:29,2000-01-01 02:39:41,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,720,732,12
+2000-01-01 02:39:41,2000-01-01 02:39:53,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,732,744,12
+2000-01-01 02:40:04,2000-01-01 02:40:17,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,755,768,13
+2000-01-01 02:40:17,2000-01-01 02:40:29,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,768,780,12
+2000-01-01 02:40:42,2000-01-01 02:40:54,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,793,805,12
+2000-01-01 02:40:54,2000-01-01 02:41:07,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,805,818,13
+2000-01-01 02:41:07,2000-01-01 02:41:17,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,818,828,10
+2000-01-01 02:41:17,2000-01-01 02:41:31,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,828,842,14
+2000-01-01 02:41:31,2000-01-01 02:41:43,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,842,854,12
+2000-01-01 02:41:43,2000-01-01 02:41:55,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,854,866,12
+2000-01-01 02:41:55,2000-01-01 02:42:07,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,866,878,12
+2000-01-01 02:42:18,2000-01-01 02:42:31,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,889,902,13
+2000-01-01 02:42:31,2000-01-01 02:42:44,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,902,915,13
+2000-01-01 02:42:55,2000-01-01 02:43:08,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,926,939,13
+2000-01-01 02:43:08,2000-01-01 02:43:19,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,939,950,11
+2000-01-01 02:43:19,2000-01-01 02:43:30,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,950,961,11
+2000-01-01 02:43:42,2000-01-01 02:43:55,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,973,986,13
+2000-01-01 02:43:55,2000-01-01 02:44:07,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,986,998,12
+2000-01-01 02:44:07,2000-01-01 02:44:20,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,998,1011,13
+2000-01-01 02:44:31,2000-01-01 02:44:44,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,1022,1035,13
+2000-01-01 02:44:44,2000-01-01 02:44:56,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,1035,1047,12
+2000-01-01 02:44:56,2000-01-01 02:45:09,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,1047,1060,13
+2000-01-01 02:45:20,2000-01-01 02:45:34,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,1071,1085,14
+2000-01-01 02:45:34,2000-01-01 02:45:47,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,1085,1098,13
+2000-01-01 02:45:59,2000-01-01 02:46:12,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,1110,1123,13
+2000-01-01 02:46:12,2000-01-01 02:46:24,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,1123,1135,12
+2000-01-01 02:46:24,2000-01-01 02:46:36,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,1135,1147,12
+2000-01-01 02:46:48,2000-01-01 02:47:01,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,1159,1172,13
+2000-01-01 02:47:01,2000-01-01 02:47:13,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,1172,1184,12
+2000-01-01 02:47:13,2000-01-01 02:47:29,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001,factory006_worker001_00008.csv,factory_006_worker_001,1184,1200,16

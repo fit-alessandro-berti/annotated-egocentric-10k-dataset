@@ -1,0 +1,17 @@
+start_timestamp,end_timestamp,activity,process,factory,worker,source_file,case_id,start_seconds_from_video_start,end_seconds_from_video_start,duration_seconds
+2000-01-01 00:00:00,2000-01-01 00:02:59,Iron folded garment with steam iron,Garment ironing,factory_004,worker_009,factory004_worker009_00000.csv,factory_004_worker_009,0,179,179
+2000-01-01 00:03:15,2000-01-01 00:03:49,Iron folded garment with steam iron,Garment ironing,factory_004,worker_009,factory004_worker009_00000.csv,factory_004_worker_009,195,229,34
+2000-01-01 00:03:49,2000-01-01 00:03:56,Fetch loose garments from floor mat,Material transport,factory_004,worker_009,factory004_worker009_00000.csv,factory_004_worker_009,229,236,7
+2000-01-01 00:03:56,2000-01-01 00:04:51,Iron folded garment with steam iron,Garment ironing,factory_004,worker_009,factory004_worker009_00000.csv,factory_004_worker_009,236,291,55
+2000-01-01 00:04:51,2000-01-01 00:05:04,Fetch loose garments from floor mat,Material transport,factory_004,worker_009,factory004_worker009_00000.csv,factory_004_worker_009,291,304,13
+2000-01-01 00:05:39,2000-01-01 00:13:50,Iron folded garment with steam iron,Garment ironing,factory_004,worker_009,factory004_worker009_00000.csv,factory_004_worker_009,339,830,491
+2000-01-01 00:16:20,2000-01-01 00:19:01,Iron folded garment with steam iron,Garment ironing,factory_004,worker_009,factory004_worker009_00000.csv,factory_004_worker_009,980,1141,161
+2000-01-01 00:19:26,2000-01-01 00:20:00,Iron folded garment with steam iron,Garment ironing,factory_004,worker_009,factory004_worker009_00000.csv,factory_004_worker_009,1166,1200,34
+2000-01-01 00:20:00,2000-01-01 00:25:58,Transfer polybagged garments into bulk box,Pick-and-pack sorting,factory_004,worker_009,factory004_worker009_00001.csv,factory_004_worker_009,0,358,358
+2000-01-01 00:27:15,2000-01-01 00:28:31,Transfer polybagged garments into bulk box,Pick-and-pack sorting,factory_004,worker_009,factory004_worker009_00001.csv,factory_004_worker_009,435,511,76
+2000-01-01 00:28:31,2000-01-01 00:28:42,Assemble empty cardboard box,Bulk box assembly,factory_004,worker_009,factory004_worker009_00001.csv,factory_004_worker_009,511,522,11
+2000-01-01 00:28:50,2000-01-01 00:30:48,Transfer polybagged garments into bulk box,Pick-and-pack sorting,factory_004,worker_009,factory004_worker009_00001.csv,factory_004_worker_009,530,648,118
+2000-01-01 00:31:46,2000-01-01 00:34:15,Transfer polybagged garments into bulk box,Pick-and-pack sorting,factory_004,worker_009,factory004_worker009_00001.csv,factory_004_worker_009,706,855,149
+2000-01-01 00:34:15,2000-01-01 00:35:53,Snip loose threads with small clippers,Thread trimming,factory_004,worker_009,factory004_worker009_00001.csv,factory_004_worker_009,855,953,98
+2000-01-01 00:35:53,2000-01-01 00:36:45,Pick lint off garment by hand,Quality inspection,factory_004,worker_009,factory004_worker009_00001.csv,factory_004_worker_009,953,1005,52
+2000-01-01 00:37:02,2000-01-01 00:39:59,Transfer polybagged garments into bulk box,Pick-and-pack sorting,factory_004,worker_009,factory004_worker009_00001.csv,factory_004_worker_009,1022,1199,177

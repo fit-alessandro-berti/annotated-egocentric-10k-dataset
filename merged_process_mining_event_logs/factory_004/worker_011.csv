@@ -1,0 +1,228 @@
+start_timestamp,end_timestamp,activity,process,factory,worker,source_file,case_id,start_seconds_from_video_start,end_seconds_from_video_start,duration_seconds
+2000-01-01 00:00:00,2000-01-01 00:00:43,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00000.csv,factory_004_worker_011,0,43,43
+2000-01-01 00:02:20,2000-01-01 00:02:52,Gather fabric offcuts from floor tarp,Scrap material management,factory_004,worker_011,factory004_worker011_00000.csv,factory_004_worker_011,140,172,32
+2000-01-01 00:02:52,2000-01-01 00:03:00,Deposit fabric offcuts into blue bin,Scrap material management,factory_004,worker_011,factory004_worker011_00000.csv,factory_004_worker_011,172,180,8
+2000-01-01 00:03:34,2000-01-01 00:04:00,Fold fabric into compact bundle,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00000.csv,factory_004_worker_011,214,240,26
+2000-01-01 00:04:00,2000-01-01 00:05:24,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00000.csv,factory_004_worker_011,240,324,84
+2000-01-01 00:05:40,2000-01-01 00:06:00,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00000.csv,factory_004_worker_011,340,360,20
+2000-01-01 00:06:00,2000-01-01 00:07:22,Fold fabric into compact bundle,Fabric spreading,factory_004,worker_011,factory004_worker011_00000.csv,factory_004_worker_011,360,442,82
+2000-01-01 00:08:44,2000-01-01 00:08:58,Mark fabric piece with blue pen,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00000.csv,factory_004_worker_011,524,538,14
+2000-01-01 00:09:23,2000-01-01 00:09:58,Mark fabric piece with blue pen,Fabric measuring,factory_004,worker_011,factory004_worker011_00000.csv,factory_004_worker_011,563,598,35
+2000-01-01 00:10:55,2000-01-01 00:12:28,Fold fabric into compact bundle,Fabric spreading,factory_004,worker_011,factory004_worker011_00000.csv,factory_004_worker_011,655,748,93
+2000-01-01 00:12:28,2000-01-01 00:12:38,Transport heavy fabric stack across factory floor,Material transport,factory_004,worker_011,factory004_worker011_00000.csv,factory_004_worker_011,748,758,10
+2000-01-01 00:14:02,2000-01-01 00:14:13,Fold fabric into compact bundle,Fabric spreading,factory_004,worker_011,factory004_worker011_00000.csv,factory_004_worker_011,842,853,11
+2000-01-01 00:14:13,2000-01-01 00:14:26,Transport heavy fabric stack across factory floor,Material transport,factory_004,worker_011,factory004_worker011_00000.csv,factory_004_worker_011,853,866,13
+2000-01-01 00:14:26,2000-01-01 00:15:10,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00000.csv,factory_004_worker_011,866,910,44
+2000-01-01 00:15:10,2000-01-01 00:15:52,Fold fabric into compact bundle,Fabric spreading,factory_004,worker_011,factory004_worker011_00000.csv,factory_004_worker_011,910,952,42
+2000-01-01 00:15:52,2000-01-01 00:16:05,Gather fabric offcuts from floor tarp,Scrap material management,factory_004,worker_011,factory004_worker011_00000.csv,factory_004_worker_011,952,965,13
+2000-01-01 00:16:22,2000-01-01 00:17:10,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00000.csv,factory_004_worker_011,982,1030,48
+2000-01-01 00:17:10,2000-01-01 00:17:51,Fold fabric into compact bundle,Fabric spreading,factory_004,worker_011,factory004_worker011_00000.csv,factory_004_worker_011,1030,1071,41
+2000-01-01 00:17:51,2000-01-01 00:18:59,Mark fabric piece with blue pen,Fabric measuring,factory_004,worker_011,factory004_worker011_00000.csv,factory_004_worker_011,1071,1139,68
+2000-01-01 00:19:10,2000-01-01 00:19:42,Smooth fabric layer by hand,Fabric spreading,factory_004,worker_011,factory004_worker011_00000.csv,factory_004_worker_011,1150,1182,32
+2000-01-01 00:19:42,2000-01-01 00:19:50,Mark fabric piece with blue pen,Fabric measuring,factory_004,worker_011,factory004_worker011_00000.csv,factory_004_worker_011,1182,1190,8
+2000-01-01 00:19:50,2000-01-01 00:20:05,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00001.csv,factory_004_worker_011,0,15,15
+2000-01-01 00:20:05,2000-01-01 00:20:12,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00001.csv,factory_004_worker_011,15,22,7
+2000-01-01 00:20:12,2000-01-01 00:20:28,Fold fabric into compact bundle,Fabric measuring,factory_004,worker_011,factory004_worker011_00001.csv,factory_004_worker_011,22,38,16
+2000-01-01 00:20:28,2000-01-01 00:20:38,Roll fabric around straight-edge tool,Fabric measuring,factory_004,worker_011,factory004_worker011_00001.csv,factory_004_worker_011,38,48,10
+2000-01-01 00:20:38,2000-01-01 00:20:51,Transport heavy fabric stack across factory floor,Material transport,factory_004,worker_011,factory004_worker011_00001.csv,factory_004_worker_011,48,61,13
+2000-01-01 00:20:51,2000-01-01 00:21:04,Weigh fabric bundle on digital scale,Fabric measuring,factory_004,worker_011,factory004_worker011_00001.csv,factory_004_worker_011,61,74,13
+2000-01-01 00:21:04,2000-01-01 00:21:33,Transport heavy fabric stack across factory floor,Material transport,factory_004,worker_011,factory004_worker011_00001.csv,factory_004_worker_011,74,103,29
+2000-01-01 00:21:33,2000-01-01 00:22:17,Transcribe scale weight into notebook,Production data logging,factory_004,worker_011,factory004_worker011_00001.csv,factory_004_worker_011,103,147,44
+2000-01-01 00:22:17,2000-01-01 00:22:35,Transport heavy fabric stack across factory floor,Material transport,factory_004,worker_011,factory004_worker011_00001.csv,factory_004_worker_011,147,165,18
+2000-01-01 00:22:35,2000-01-01 00:23:52,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00001.csv,factory_004_worker_011,165,242,77
+2000-01-01 00:23:52,2000-01-01 00:24:00,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00001.csv,factory_004_worker_011,242,250,8
+2000-01-01 00:24:00,2000-01-01 00:24:16,Smooth fabric layer by hand,Fabric spreading,factory_004,worker_011,factory004_worker011_00001.csv,factory_004_worker_011,250,266,16
+2000-01-01 00:24:16,2000-01-01 00:24:21,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00001.csv,factory_004_worker_011,266,271,5
+2000-01-01 00:24:21,2000-01-01 00:24:26,Smooth fabric layer by hand,Fabric spreading,factory_004,worker_011,factory004_worker011_00001.csv,factory_004_worker_011,271,276,5
+2000-01-01 00:24:26,2000-01-01 00:25:23,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00001.csv,factory_004_worker_011,276,333,57
+2000-01-01 00:25:23,2000-01-01 00:25:30,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00001.csv,factory_004_worker_011,333,340,7
+2000-01-01 00:25:30,2000-01-01 00:25:50,Smooth fabric layer by hand,Fabric spreading,factory_004,worker_011,factory004_worker011_00001.csv,factory_004_worker_011,340,360,20
+2000-01-01 00:26:00,2000-01-01 00:26:11,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00001.csv,factory_004_worker_011,370,381,11
+2000-01-01 00:26:11,2000-01-01 00:27:37,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00001.csv,factory_004_worker_011,381,467,86
+2000-01-01 00:27:37,2000-01-01 00:27:50,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00001.csv,factory_004_worker_011,467,480,13
+2000-01-01 00:27:50,2000-01-01 00:28:02,Fold fabric into compact bundle,Fabric spreading,factory_004,worker_011,factory004_worker011_00001.csv,factory_004_worker_011,480,492,12
+2000-01-01 00:28:02,2000-01-01 00:28:11,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00001.csv,factory_004_worker_011,492,501,9
+2000-01-01 00:28:11,2000-01-01 00:28:19,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00001.csv,factory_004_worker_011,501,509,8
+2000-01-01 00:28:19,2000-01-01 00:28:26,Gather fabric offcuts from floor tarp,Scrap material management,factory_004,worker_011,factory004_worker011_00001.csv,factory_004_worker_011,509,516,7
+2000-01-01 00:28:26,2000-01-01 00:28:34,Deposit fabric offcuts into blue bin,Scrap material management,factory_004,worker_011,factory004_worker011_00001.csv,factory_004_worker_011,516,524,8
+2000-01-01 00:28:34,2000-01-01 00:29:30,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00001.csv,factory_004_worker_011,524,580,56
+2000-01-01 00:29:30,2000-01-01 00:29:40,Transport heavy fabric stack across factory floor,Material transport,factory_004,worker_011,factory004_worker011_00001.csv,factory_004_worker_011,580,590,10
+2000-01-01 00:29:40,2000-01-01 00:29:54,Smooth fabric layer by hand,Fabric spreading,factory_004,worker_011,factory004_worker011_00001.csv,factory_004_worker_011,590,604,14
+2000-01-01 00:29:54,2000-01-01 00:30:04,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00001.csv,factory_004_worker_011,604,614,10
+2000-01-01 00:30:04,2000-01-01 00:30:34,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00001.csv,factory_004_worker_011,614,644,30
+2000-01-01 00:30:40,2000-01-01 00:32:00,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00001.csv,factory_004_worker_011,650,730,80
+2000-01-01 00:32:00,2000-01-01 00:32:08,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00001.csv,factory_004_worker_011,730,738,8
+2000-01-01 00:32:08,2000-01-01 00:32:46,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00001.csv,factory_004_worker_011,738,776,38
+2000-01-01 00:32:50,2000-01-01 00:33:19,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00001.csv,factory_004_worker_011,780,809,29
+2000-01-01 00:33:19,2000-01-01 00:33:28,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00001.csv,factory_004_worker_011,809,818,9
+2000-01-01 00:33:28,2000-01-01 00:34:24,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00001.csv,factory_004_worker_011,818,874,56
+2000-01-01 00:34:24,2000-01-01 00:34:31,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00001.csv,factory_004_worker_011,874,881,7
+2000-01-01 00:34:31,2000-01-01 00:35:48,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00001.csv,factory_004_worker_011,881,958,77
+2000-01-01 00:35:48,2000-01-01 00:35:54,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00001.csv,factory_004_worker_011,958,964,6
+2000-01-01 00:35:54,2000-01-01 00:36:57,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00001.csv,factory_004_worker_011,964,1027,63
+2000-01-01 00:37:00,2000-01-01 00:37:12,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00001.csv,factory_004_worker_011,1030,1042,12
+2000-01-01 00:37:12,2000-01-01 00:37:20,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00001.csv,factory_004_worker_011,1042,1050,8
+2000-01-01 00:37:20,2000-01-01 00:37:47,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00001.csv,factory_004_worker_011,1050,1077,27
+2000-01-01 00:37:47,2000-01-01 00:37:54,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00001.csv,factory_004_worker_011,1077,1084,7
+2000-01-01 00:37:54,2000-01-01 00:39:27,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00001.csv,factory_004_worker_011,1084,1177,93
+2000-01-01 00:39:27,2000-01-01 00:39:33,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00001.csv,factory_004_worker_011,1177,1183,6
+2000-01-01 00:39:33,2000-01-01 00:39:50,Smooth fabric layer by hand,Fabric spreading,factory_004,worker_011,factory004_worker011_00001.csv,factory_004_worker_011,1183,1200,17
+2000-01-01 00:39:50,2000-01-01 00:39:53,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,0,3,3
+2000-01-01 00:39:53,2000-01-01 00:39:58,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,3,8,5
+2000-01-01 00:39:58,2000-01-01 00:40:20,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,8,30,22
+2000-01-01 00:40:23,2000-01-01 00:40:54,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,33,64,31
+2000-01-01 00:41:00,2000-01-01 00:41:17,Smooth fabric layer by hand,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,70,87,17
+2000-01-01 00:41:17,2000-01-01 00:41:25,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,87,95,8
+2000-01-01 00:41:25,2000-01-01 00:41:30,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,95,100,5
+2000-01-01 00:41:32,2000-01-01 00:41:45,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,102,115,13
+2000-01-01 00:41:48,2000-01-01 00:42:12,Smooth fabric layer by hand,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,118,142,24
+2000-01-01 00:42:16,2000-01-01 00:42:30,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,146,160,14
+2000-01-01 00:42:30,2000-01-01 00:42:40,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,160,170,10
+2000-01-01 00:42:40,2000-01-01 00:42:55,Smooth fabric layer by hand,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,170,185,15
+2000-01-01 00:42:57,2000-01-01 00:43:09,Smooth fabric layer by hand,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,187,199,12
+2000-01-01 00:43:15,2000-01-01 00:43:25,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,205,215,10
+2000-01-01 00:43:25,2000-01-01 00:43:35,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,215,225,10
+2000-01-01 00:43:38,2000-01-01 00:43:50,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,228,240,12
+2000-01-01 00:43:53,2000-01-01 00:44:08,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,243,258,15
+2000-01-01 00:44:12,2000-01-01 00:44:18,Smooth fabric layer by hand,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,262,268,6
+2000-01-01 00:44:22,2000-01-01 00:44:31,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,272,281,9
+2000-01-01 00:44:31,2000-01-01 00:44:51,Smooth fabric layer by hand,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,281,301,20
+2000-01-01 00:44:57,2000-01-01 00:45:03,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,307,313,6
+2000-01-01 00:45:03,2000-01-01 00:45:15,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,313,325,12
+2000-01-01 00:45:20,2000-01-01 00:45:33,Smooth fabric layer by hand,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,330,343,13
+2000-01-01 00:45:36,2000-01-01 00:45:44,Smooth fabric layer by hand,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,346,354,8
+2000-01-01 00:45:47,2000-01-01 00:45:51,Smooth fabric layer by hand,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,357,361,4
+2000-01-01 00:45:53,2000-01-01 00:46:06,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,363,376,13
+2000-01-01 00:46:09,2000-01-01 00:46:23,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,379,393,14
+2000-01-01 00:46:27,2000-01-01 00:46:36,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,397,406,9
+2000-01-01 00:46:36,2000-01-01 00:46:51,Smooth fabric layer by hand,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,406,421,15
+2000-01-01 00:46:53,2000-01-01 00:47:00,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,423,430,7
+2000-01-01 00:47:00,2000-01-01 00:47:10,Smooth fabric layer by hand,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,430,440,10
+2000-01-01 00:47:12,2000-01-01 00:47:29,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,442,459,17
+2000-01-01 00:47:32,2000-01-01 00:47:44,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,462,474,12
+2000-01-01 00:47:47,2000-01-01 00:48:01,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,477,491,14
+2000-01-01 00:48:04,2000-01-01 00:48:14,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,494,504,10
+2000-01-01 00:48:14,2000-01-01 00:48:22,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,504,512,8
+2000-01-01 00:48:22,2000-01-01 00:48:34,Smooth fabric layer by hand,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,512,524,12
+2000-01-01 00:48:37,2000-01-01 00:48:48,Smooth fabric layer by hand,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,527,538,11
+2000-01-01 00:48:50,2000-01-01 00:48:56,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,540,546,6
+2000-01-01 00:48:56,2000-01-01 00:49:02,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,546,552,6
+2000-01-01 00:49:05,2000-01-01 00:49:17,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,555,567,12
+2000-01-01 00:49:19,2000-01-01 00:49:40,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,569,590,21
+2000-01-01 00:49:43,2000-01-01 00:49:50,Smooth fabric layer by hand,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,593,600,7
+2000-01-01 00:49:52,2000-01-01 00:49:58,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,602,608,6
+2000-01-01 00:50:08,2000-01-01 00:50:28,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,618,638,20
+2000-01-01 00:50:31,2000-01-01 00:50:39,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,641,649,8
+2000-01-01 00:50:41,2000-01-01 00:50:53,Smooth fabric layer by hand,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,651,663,12
+2000-01-01 00:50:53,2000-01-01 00:50:58,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,663,668,5
+2000-01-01 00:50:58,2000-01-01 00:51:04,Smooth fabric layer by hand,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,668,674,6
+2000-01-01 00:51:08,2000-01-01 00:51:18,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,678,688,10
+2000-01-01 00:51:20,2000-01-01 00:51:31,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,690,701,11
+2000-01-01 00:51:34,2000-01-01 00:51:41,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,704,711,7
+2000-01-01 00:51:43,2000-01-01 00:51:54,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,713,724,11
+2000-01-01 00:51:57,2000-01-01 00:52:11,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,727,741,14
+2000-01-01 00:52:14,2000-01-01 00:52:21,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,744,751,7
+2000-01-01 00:52:21,2000-01-01 00:52:30,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,751,760,9
+2000-01-01 00:52:32,2000-01-01 00:52:40,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,762,770,8
+2000-01-01 00:52:40,2000-01-01 00:52:49,Smooth fabric layer by hand,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,770,779,9
+2000-01-01 00:52:49,2000-01-01 00:53:06,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,779,796,17
+2000-01-01 00:53:08,2000-01-01 00:53:25,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,798,815,17
+2000-01-01 00:53:28,2000-01-01 00:53:31,Smooth fabric layer by hand,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,818,821,3
+2000-01-01 00:53:33,2000-01-01 00:53:49,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,823,839,16
+2000-01-01 00:53:52,2000-01-01 00:54:04,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,842,854,12
+2000-01-01 00:54:07,2000-01-01 00:54:13,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,857,863,6
+2000-01-01 00:54:13,2000-01-01 00:54:20,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,863,870,7
+2000-01-01 00:54:20,2000-01-01 00:54:26,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,870,876,6
+2000-01-01 00:54:26,2000-01-01 00:54:30,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,876,880,4
+2000-01-01 00:54:30,2000-01-01 00:54:36,Smooth fabric layer by hand,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,880,886,6
+2000-01-01 00:54:42,2000-01-01 00:54:55,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,892,905,13
+2000-01-01 00:54:57,2000-01-01 00:55:09,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,907,919,12
+2000-01-01 00:55:12,2000-01-01 00:55:30,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,922,940,18
+2000-01-01 00:55:32,2000-01-01 00:55:36,Smooth fabric layer by hand,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,942,946,4
+2000-01-01 00:55:36,2000-01-01 00:55:50,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,946,960,14
+2000-01-01 00:55:52,2000-01-01 00:56:00,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,962,970,8
+2000-01-01 00:56:00,2000-01-01 00:56:05,Smooth fabric layer by hand,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,970,975,5
+2000-01-01 00:56:09,2000-01-01 00:56:25,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,979,995,16
+2000-01-01 00:56:27,2000-01-01 00:56:34,Smooth fabric layer by hand,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,997,1004,7
+2000-01-01 00:56:37,2000-01-01 00:56:50,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,1007,1020,13
+2000-01-01 00:56:52,2000-01-01 00:57:06,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,1022,1036,14
+2000-01-01 00:57:08,2000-01-01 00:57:24,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,1038,1054,16
+2000-01-01 00:57:24,2000-01-01 00:57:30,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,1054,1060,6
+2000-01-01 00:57:34,2000-01-01 00:57:42,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,1064,1072,8
+2000-01-01 00:57:42,2000-01-01 00:57:52,Smooth fabric layer by hand,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,1072,1082,10
+2000-01-01 00:57:54,2000-01-01 00:58:05,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,1084,1095,11
+2000-01-01 00:58:07,2000-01-01 00:58:22,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,1097,1112,15
+2000-01-01 00:58:25,2000-01-01 00:58:36,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,1115,1126,11
+2000-01-01 00:58:39,2000-01-01 00:58:46,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,1129,1136,7
+2000-01-01 00:58:46,2000-01-01 00:58:57,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,1136,1147,11
+2000-01-01 00:58:59,2000-01-01 00:59:04,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,1149,1154,5
+2000-01-01 00:59:04,2000-01-01 00:59:09,Smooth fabric layer by hand,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,1154,1159,5
+2000-01-01 00:59:12,2000-01-01 00:59:23,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,1162,1173,11
+2000-01-01 00:59:25,2000-01-01 00:59:35,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,1175,1185,10
+2000-01-01 00:59:35,2000-01-01 00:59:50,Smooth fabric layer by hand,Fabric spreading,factory_004,worker_011,factory004_worker011_00002.csv,factory_004_worker_011,1185,1200,15
+2000-01-01 00:59:50,2000-01-01 01:00:08,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00003.csv,factory_004_worker_011,0,18,18
+2000-01-01 01:00:08,2000-01-01 01:00:31,Smooth fabric layer by hand,Fabric spreading,factory_004,worker_011,factory004_worker011_00003.csv,factory_004_worker_011,18,41,23
+2000-01-01 01:00:31,2000-01-01 01:01:03,Fold fabric into compact bundle,Fabric spreading,factory_004,worker_011,factory004_worker011_00003.csv,factory_004_worker_011,41,73,32
+2000-01-01 01:01:03,2000-01-01 01:01:11,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00003.csv,factory_004_worker_011,73,81,8
+2000-01-01 01:01:19,2000-01-01 01:02:11,Smooth fabric layer by hand,Fabric spreading,factory_004,worker_011,factory004_worker011_00003.csv,factory_004_worker_011,89,141,52
+2000-01-01 01:02:11,2000-01-01 01:02:36,Fold fabric into compact bundle,Fabric spreading,factory_004,worker_011,factory004_worker011_00003.csv,factory_004_worker_011,141,166,25
+2000-01-01 01:02:36,2000-01-01 01:02:56,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00003.csv,factory_004_worker_011,166,186,20
+2000-01-01 01:02:56,2000-01-01 01:04:02,Smooth fabric layer by hand,Fabric spreading,factory_004,worker_011,factory004_worker011_00003.csv,factory_004_worker_011,186,252,66
+2000-01-01 01:04:02,2000-01-01 01:04:18,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00003.csv,factory_004_worker_011,252,268,16
+2000-01-01 01:04:18,2000-01-01 01:04:21,Smooth fabric layer by hand,Fabric spreading,factory_004,worker_011,factory004_worker011_00003.csv,factory_004_worker_011,268,271,3
+2000-01-01 01:04:21,2000-01-01 01:04:35,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00003.csv,factory_004_worker_011,271,285,14
+2000-01-01 01:04:35,2000-01-01 01:04:56,Fold fabric into compact bundle,Fabric spreading,factory_004,worker_011,factory004_worker011_00003.csv,factory_004_worker_011,285,306,21
+2000-01-01 01:04:56,2000-01-01 01:05:12,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00003.csv,factory_004_worker_011,306,322,16
+2000-01-01 01:05:17,2000-01-01 01:05:52,Smooth fabric layer by hand,Fabric spreading,factory_004,worker_011,factory004_worker011_00003.csv,factory_004_worker_011,327,362,35
+2000-01-01 01:05:52,2000-01-01 01:06:02,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00003.csv,factory_004_worker_011,362,372,10
+2000-01-01 01:06:16,2000-01-01 01:06:23,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00003.csv,factory_004_worker_011,386,393,7
+2000-01-01 01:06:33,2000-01-01 01:07:08,Smooth fabric layer by hand,Fabric spreading,factory_004,worker_011,factory004_worker011_00003.csv,factory_004_worker_011,403,438,35
+2000-01-01 01:07:12,2000-01-01 01:07:36,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00003.csv,factory_004_worker_011,442,466,24
+2000-01-01 01:07:46,2000-01-01 01:08:01,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00003.csv,factory_004_worker_011,476,491,15
+2000-01-01 01:08:05,2000-01-01 01:08:13,Smooth fabric layer by hand,Fabric spreading,factory_004,worker_011,factory004_worker011_00003.csv,factory_004_worker_011,495,503,8
+2000-01-01 01:08:17,2000-01-01 01:08:22,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00003.csv,factory_004_worker_011,507,512,5
+2000-01-01 01:08:40,2000-01-01 01:08:55,Smooth fabric layer by hand,Fabric spreading,factory_004,worker_011,factory004_worker011_00003.csv,factory_004_worker_011,530,545,15
+2000-01-01 01:09:17,2000-01-01 01:10:10,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00003.csv,factory_004_worker_011,567,620,53
+2000-01-01 01:10:21,2000-01-01 01:10:40,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00003.csv,factory_004_worker_011,631,650,19
+2000-01-01 01:10:45,2000-01-01 01:11:05,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00003.csv,factory_004_worker_011,655,675,20
+2000-01-01 01:11:05,2000-01-01 01:11:15,Smooth fabric layer by hand,Fabric spreading,factory_004,worker_011,factory004_worker011_00003.csv,factory_004_worker_011,675,685,10
+2000-01-01 01:11:22,2000-01-01 01:11:36,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00003.csv,factory_004_worker_011,692,706,14
+2000-01-01 01:11:41,2000-01-01 01:13:11,Smooth fabric layer by hand,Fabric spreading,factory_004,worker_011,factory004_worker011_00003.csv,factory_004_worker_011,711,801,90
+2000-01-01 01:13:11,2000-01-01 01:13:27,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00003.csv,factory_004_worker_011,801,817,16
+2000-01-01 01:13:27,2000-01-01 01:13:54,Smooth fabric layer by hand,Fabric spreading,factory_004,worker_011,factory004_worker011_00003.csv,factory_004_worker_011,817,844,27
+2000-01-01 01:14:15,2000-01-01 01:14:26,Smooth fabric layer by hand,Fabric spreading,factory_004,worker_011,factory004_worker011_00003.csv,factory_004_worker_011,865,876,11
+2000-01-01 01:14:30,2000-01-01 01:14:55,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00003.csv,factory_004_worker_011,880,905,25
+2000-01-01 01:15:22,2000-01-01 01:15:45,Smooth fabric layer by hand,Fabric spreading,factory_004,worker_011,factory004_worker011_00003.csv,factory_004_worker_011,932,955,23
+2000-01-01 01:15:50,2000-01-01 01:16:02,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00003.csv,factory_004_worker_011,960,972,12
+2000-01-01 01:16:02,2000-01-01 01:16:14,Smooth fabric layer by hand,Fabric spreading,factory_004,worker_011,factory004_worker011_00003.csv,factory_004_worker_011,972,984,12
+2000-01-01 01:16:18,2000-01-01 01:16:52,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00003.csv,factory_004_worker_011,988,1022,34
+2000-01-01 01:16:56,2000-01-01 01:17:29,Smooth fabric layer by hand,Fabric spreading,factory_004,worker_011,factory004_worker011_00003.csv,factory_004_worker_011,1026,1059,33
+2000-01-01 01:17:34,2000-01-01 01:18:25,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00003.csv,factory_004_worker_011,1064,1115,51
+2000-01-01 01:18:30,2000-01-01 01:18:42,Smooth fabric layer by hand,Fabric spreading,factory_004,worker_011,factory004_worker011_00003.csv,factory_004_worker_011,1120,1132,12
+2000-01-01 01:18:50,2000-01-01 01:19:12,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00003.csv,factory_004_worker_011,1140,1162,22
+2000-01-01 01:19:17,2000-01-01 01:19:50,Smooth fabric layer by hand,Fabric spreading,factory_004,worker_011,factory004_worker011_00003.csv,factory_004_worker_011,1167,1200,33
+2000-01-01 01:19:50,2000-01-01 01:20:12,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00004.csv,factory_004_worker_011,0,22,22
+2000-01-01 01:20:12,2000-01-01 01:20:21,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00004.csv,factory_004_worker_011,22,31,9
+2000-01-01 01:20:21,2000-01-01 01:22:16,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00004.csv,factory_004_worker_011,31,146,115
+2000-01-01 01:22:16,2000-01-01 01:22:26,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00004.csv,factory_004_worker_011,146,156,10
+2000-01-01 01:22:26,2000-01-01 01:25:28,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00004.csv,factory_004_worker_011,156,338,182
+2000-01-01 01:25:28,2000-01-01 01:25:35,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00004.csv,factory_004_worker_011,338,345,7
+2000-01-01 01:25:35,2000-01-01 01:26:41,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00004.csv,factory_004_worker_011,345,411,66
+2000-01-01 01:26:41,2000-01-01 01:27:01,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00004.csv,factory_004_worker_011,411,431,20
+2000-01-01 01:27:01,2000-01-01 01:27:24,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00004.csv,factory_004_worker_011,431,454,23
+2000-01-01 01:27:24,2000-01-01 01:27:34,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00004.csv,factory_004_worker_011,454,464,10
+2000-01-01 01:27:34,2000-01-01 01:28:27,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00004.csv,factory_004_worker_011,464,517,53
+2000-01-01 01:28:27,2000-01-01 01:28:41,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00004.csv,factory_004_worker_011,517,531,14
+2000-01-01 01:28:41,2000-01-01 01:29:55,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00004.csv,factory_004_worker_011,531,605,74
+2000-01-01 01:29:55,2000-01-01 01:30:21,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00004.csv,factory_004_worker_011,605,631,26
+2000-01-01 01:30:21,2000-01-01 01:31:11,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00004.csv,factory_004_worker_011,631,681,50
+2000-01-01 01:31:11,2000-01-01 01:31:19,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00004.csv,factory_004_worker_011,681,689,8
+2000-01-01 01:31:19,2000-01-01 01:31:32,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00004.csv,factory_004_worker_011,689,702,13
+2000-01-01 01:31:32,2000-01-01 01:31:55,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00004.csv,factory_004_worker_011,702,725,23
+2000-01-01 01:31:55,2000-01-01 01:33:36,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00004.csv,factory_004_worker_011,725,826,101
+2000-01-01 01:33:36,2000-01-01 01:33:45,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00004.csv,factory_004_worker_011,826,835,9
+2000-01-01 01:33:45,2000-01-01 01:35:27,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00004.csv,factory_004_worker_011,835,937,102
+2000-01-01 01:35:27,2000-01-01 01:35:41,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00004.csv,factory_004_worker_011,937,951,14
+2000-01-01 01:35:41,2000-01-01 01:36:51,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00004.csv,factory_004_worker_011,951,1021,70
+2000-01-01 01:36:51,2000-01-01 01:36:59,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011,factory004_worker011_00004.csv,factory_004_worker_011,1021,1029,8
+2000-01-01 01:36:59,2000-01-01 01:39:41,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011,factory004_worker011_00004.csv,factory_004_worker_011,1029,1191,162

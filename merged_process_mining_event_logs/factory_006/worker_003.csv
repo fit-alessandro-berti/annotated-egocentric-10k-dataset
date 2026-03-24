@@ -1,0 +1,343 @@
+start_timestamp,end_timestamp,activity,process,factory,worker,source_file,case_id,start_seconds_from_video_start,end_seconds_from_video_start,duration_seconds
+2000-01-01 00:00:00,2000-01-01 00:00:26,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00000.csv,factory_006_worker_003,0,26,26
+2000-01-01 00:03:34,2000-01-01 00:04:08,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00000.csv,factory_006_worker_003,214,248,34
+2000-01-01 00:05:03,2000-01-01 00:05:27,lift empty mold box onto pattern plate,Sand mold creation,factory_006,worker_003,factory006_worker003_00000.csv,factory_006_worker_003,303,327,24
+2000-01-01 00:05:27,2000-01-01 00:05:43,shovel sand into mold box from floor pile,Sand mold creation,factory_006,worker_003,factory006_worker003_00000.csv,factory_006_worker_003,327,343,16
+2000-01-01 00:05:43,2000-01-01 00:05:58,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00000.csv,factory_006_worker_003,343,358,15
+2000-01-01 00:05:58,2000-01-01 00:06:10,compress sand with automated machine press,Sand mold creation,factory_006,worker_003,factory006_worker003_00000.csv,factory_006_worker_003,358,370,12
+2000-01-01 00:06:20,2000-01-01 00:06:48,shovel sand into mold box from floor pile,Sand mold creation,factory_006,worker_003,factory006_worker003_00000.csv,factory_006_worker_003,380,408,28
+2000-01-01 00:06:48,2000-01-01 00:07:23,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00000.csv,factory_006_worker_003,408,443,35
+2000-01-01 00:07:23,2000-01-01 00:07:32,shovel sand into mold box from floor pile,Sand mold creation,factory_006,worker_003,factory006_worker003_00000.csv,factory_006_worker_003,443,452,9
+2000-01-01 00:07:32,2000-01-01 00:07:44,compress sand with automated machine press,Sand mold creation,factory_006,worker_003,factory006_worker003_00000.csv,factory_006_worker_003,452,464,12
+2000-01-01 00:07:58,2000-01-01 00:08:15,lift empty mold box onto pattern plate,Sand mold creation,factory_006,worker_003,factory006_worker003_00000.csv,factory_006_worker_003,478,495,17
+2000-01-01 00:08:15,2000-01-01 00:08:55,shovel sand into mold box from floor pile,Sand mold creation,factory_006,worker_003,factory006_worker003_00000.csv,factory_006_worker_003,495,535,40
+2000-01-01 00:08:55,2000-01-01 00:09:42,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00000.csv,factory_006_worker_003,535,582,47
+2000-01-01 00:09:59,2000-01-01 00:10:14,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00000.csv,factory_006_worker_003,599,614,15
+2000-01-01 00:10:14,2000-01-01 00:10:35,compress sand with automated machine press,Sand mold creation,factory_006,worker_003,factory006_worker003_00000.csv,factory_006_worker_003,614,635,21
+2000-01-01 00:10:35,2000-01-01 00:11:00,stack molded assemblies into interlocking floor towers,Component staging and arrangement,factory_006,worker_003,factory006_worker003_00000.csv,factory_006_worker_003,635,660,25
+2000-01-01 00:11:00,2000-01-01 00:11:15,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_003,factory006_worker003_00000.csv,factory_006_worker_003,660,675,15
+2000-01-01 00:11:15,2000-01-01 00:11:25,lift empty mold box onto pattern plate,Sand mold creation,factory_006,worker_003,factory006_worker003_00000.csv,factory_006_worker_003,675,685,10
+2000-01-01 00:11:25,2000-01-01 00:11:58,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00000.csv,factory_006_worker_003,685,718,33
+2000-01-01 00:11:58,2000-01-01 00:12:13,scrape hardened sand from pressing plate,Machine cleaning and maintenance,factory_006,worker_003,factory006_worker003_00000.csv,factory_006_worker_003,718,733,15
+2000-01-01 00:12:13,2000-01-01 00:12:40,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00000.csv,factory_006_worker_003,733,760,27
+2000-01-01 00:13:00,2000-01-01 00:13:16,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_003,factory006_worker003_00000.csv,factory_006_worker_003,780,796,16
+2000-01-01 00:13:16,2000-01-01 00:13:30,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00000.csv,factory_006_worker_003,796,810,14
+2000-01-01 00:13:30,2000-01-01 00:13:58,scrape hardened sand from pressing plate,Machine cleaning and maintenance,factory_006,worker_003,factory006_worker003_00000.csv,factory_006_worker_003,810,838,28
+2000-01-01 00:13:58,2000-01-01 00:14:15,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00000.csv,factory_006_worker_003,838,855,17
+2000-01-01 00:14:15,2000-01-01 00:14:50,compress sand with automated machine press,Sand mold creation,factory_006,worker_003,factory006_worker003_00000.csv,factory_006_worker_003,855,890,35
+2000-01-01 00:14:50,2000-01-01 00:15:02,stack molded assemblies into interlocking floor towers,Component staging and arrangement,factory_006,worker_003,factory006_worker003_00000.csv,factory_006_worker_003,890,902,12
+2000-01-01 00:15:02,2000-01-01 00:15:43,scrape hardened sand from pressing plate,Machine cleaning and maintenance,factory_006,worker_003,factory006_worker003_00000.csv,factory_006_worker_003,902,943,41
+2000-01-01 00:15:43,2000-01-01 00:15:54,shovel sand into mold box from floor pile,Sand mold creation,factory_006,worker_003,factory006_worker003_00000.csv,factory_006_worker_003,943,954,11
+2000-01-01 00:15:54,2000-01-01 00:16:11,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00000.csv,factory_006_worker_003,954,971,17
+2000-01-01 00:16:11,2000-01-01 00:16:38,compress sand with automated machine press,Sand mold creation,factory_006,worker_003,factory006_worker003_00000.csv,factory_006_worker_003,971,998,27
+2000-01-01 00:16:38,2000-01-01 00:16:53,stack molded assemblies into interlocking floor towers,Component staging and arrangement,factory_006,worker_003,factory006_worker003_00000.csv,factory_006_worker_003,998,1013,15
+2000-01-01 00:16:53,2000-01-01 00:17:10,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_003,factory006_worker003_00000.csv,factory_006_worker_003,1013,1030,17
+2000-01-01 00:17:10,2000-01-01 00:17:18,lift empty mold box onto pattern plate,Sand mold creation,factory_006,worker_003,factory006_worker003_00000.csv,factory_006_worker_003,1030,1038,8
+2000-01-01 00:17:18,2000-01-01 00:17:39,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00000.csv,factory_006_worker_003,1038,1059,21
+2000-01-01 00:17:39,2000-01-01 00:17:59,scrape hardened sand from pressing plate,Machine cleaning and maintenance,factory_006,worker_003,factory006_worker003_00000.csv,factory_006_worker_003,1059,1079,20
+2000-01-01 00:17:59,2000-01-01 00:18:11,shovel sand into mold box from floor pile,Sand mold creation,factory_006,worker_003,factory006_worker003_00000.csv,factory_006_worker_003,1079,1091,12
+2000-01-01 00:18:11,2000-01-01 00:18:22,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00000.csv,factory_006_worker_003,1091,1102,11
+2000-01-01 00:18:22,2000-01-01 00:18:43,compress sand with automated machine press,Sand mold creation,factory_006,worker_003,factory006_worker003_00000.csv,factory_006_worker_003,1102,1123,21
+2000-01-01 00:18:43,2000-01-01 00:19:04,stack molded assemblies into interlocking floor towers,Component staging and arrangement,factory_006,worker_003,factory006_worker003_00000.csv,factory_006_worker_003,1123,1144,21
+2000-01-01 00:19:04,2000-01-01 00:19:24,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_003,factory006_worker003_00000.csv,factory_006_worker_003,1144,1164,20
+2000-01-01 00:19:24,2000-01-01 00:19:40,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00000.csv,factory_006_worker_003,1164,1180,16
+2000-01-01 00:19:40,2000-01-01 00:20:00,scrape hardened sand from pressing plate,Machine cleaning and maintenance,factory_006,worker_003,factory006_worker003_00000.csv,factory_006_worker_003,1180,1200,20
+2000-01-01 00:20:25,2000-01-01 00:20:48,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_003,factory006_worker003_00001.csv,factory_006_worker_003,25,48,23
+2000-01-01 00:21:00,2000-01-01 00:22:11,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00001.csv,factory_006_worker_003,60,131,71
+2000-01-01 00:22:11,2000-01-01 00:22:26,compress sand with automated machine press,Sand mold creation,factory_006,worker_003,factory006_worker003_00001.csv,factory_006_worker_003,131,146,15
+2000-01-01 00:22:26,2000-01-01 00:22:46,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_003,factory006_worker003_00001.csv,factory_006_worker_003,146,166,20
+2000-01-01 00:22:46,2000-01-01 00:23:07,shovel spilled sand from floor,Workspace clearing,factory_006,worker_003,factory006_worker003_00001.csv,factory_006_worker_003,166,187,21
+2000-01-01 00:23:22,2000-01-01 00:24:00,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_003,factory006_worker003_00001.csv,factory_006_worker_003,202,240,38
+2000-01-01 00:25:31,2000-01-01 00:26:20,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00001.csv,factory_006_worker_003,331,380,49
+2000-01-01 00:26:20,2000-01-01 00:26:40,compress sand with automated machine press,Sand mold creation,factory_006,worker_003,factory006_worker003_00001.csv,factory_006_worker_003,380,400,20
+2000-01-01 00:27:05,2000-01-01 00:27:18,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_003,factory006_worker003_00001.csv,factory_006_worker_003,425,438,13
+2000-01-01 00:27:33,2000-01-01 00:28:16,shovel sand into mold box from floor pile,Sand mold creation,factory_006,worker_003,factory006_worker003_00001.csv,factory_006_worker_003,453,496,43
+2000-01-01 00:28:16,2000-01-01 00:29:00,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00001.csv,factory_006_worker_003,496,540,44
+2000-01-01 00:29:00,2000-01-01 00:29:22,compress sand with automated machine press,Sand mold creation,factory_006,worker_003,factory006_worker003_00001.csv,factory_006_worker_003,540,562,22
+2000-01-01 00:29:22,2000-01-01 00:29:36,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_003,factory006_worker003_00001.csv,factory_006_worker_003,562,576,14
+2000-01-01 00:29:36,2000-01-01 00:30:04,shovel sand into mold box from floor pile,Sand mold creation,factory_006,worker_003,factory006_worker003_00001.csv,factory_006_worker_003,576,604,28
+2000-01-01 00:30:04,2000-01-01 00:30:50,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00001.csv,factory_006_worker_003,604,650,46
+2000-01-01 00:30:50,2000-01-01 00:31:15,compress sand with automated machine press,Sand mold creation,factory_006,worker_003,factory006_worker003_00001.csv,factory_006_worker_003,650,675,25
+2000-01-01 00:31:15,2000-01-01 00:31:28,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_003,factory006_worker003_00001.csv,factory_006_worker_003,675,688,13
+2000-01-01 00:31:28,2000-01-01 00:31:50,shovel sand into mold box from floor pile,Sand mold creation,factory_006,worker_003,factory006_worker003_00001.csv,factory_006_worker_003,688,710,22
+2000-01-01 00:31:50,2000-01-01 00:32:15,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00001.csv,factory_006_worker_003,710,735,25
+2000-01-01 00:32:15,2000-01-01 00:32:45,compress sand with automated machine press,Sand mold creation,factory_006,worker_003,factory006_worker003_00001.csv,factory_006_worker_003,735,765,30
+2000-01-01 00:32:45,2000-01-01 00:32:56,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_003,factory006_worker003_00001.csv,factory_006_worker_003,765,776,11
+2000-01-01 00:32:56,2000-01-01 00:33:10,shovel sand into mold box from floor pile,Sand mold creation,factory_006,worker_003,factory006_worker003_00001.csv,factory_006_worker_003,776,790,14
+2000-01-01 00:33:10,2000-01-01 00:33:30,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00001.csv,factory_006_worker_003,790,810,20
+2000-01-01 00:33:30,2000-01-01 00:33:44,compress sand with automated machine press,Sand mold creation,factory_006,worker_003,factory006_worker003_00001.csv,factory_006_worker_003,810,824,14
+2000-01-01 00:33:44,2000-01-01 00:34:00,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_003,factory006_worker003_00001.csv,factory_006_worker_003,824,840,16
+2000-01-01 00:34:00,2000-01-01 00:34:12,shovel sand into mold box from floor pile,Sand mold creation,factory_006,worker_003,factory006_worker003_00001.csv,factory_006_worker_003,840,852,12
+2000-01-01 00:34:12,2000-01-01 00:34:30,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00001.csv,factory_006_worker_003,852,870,18
+2000-01-01 00:34:30,2000-01-01 00:34:55,compress sand with automated machine press,Sand mold creation,factory_006,worker_003,factory006_worker003_00001.csv,factory_006_worker_003,870,895,25
+2000-01-01 00:34:55,2000-01-01 00:35:06,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_003,factory006_worker003_00001.csv,factory_006_worker_003,895,906,11
+2000-01-01 00:35:06,2000-01-01 00:35:20,shovel sand into mold box from floor pile,Sand mold creation,factory_006,worker_003,factory006_worker003_00001.csv,factory_006_worker_003,906,920,14
+2000-01-01 00:35:20,2000-01-01 00:35:45,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00001.csv,factory_006_worker_003,920,945,25
+2000-01-01 00:35:45,2000-01-01 00:36:10,compress sand with automated machine press,Sand mold creation,factory_006,worker_003,factory006_worker003_00001.csv,factory_006_worker_003,945,970,25
+2000-01-01 00:36:10,2000-01-01 00:36:20,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_003,factory006_worker003_00001.csv,factory_006_worker_003,970,980,10
+2000-01-01 00:36:20,2000-01-01 00:36:35,shovel sand into mold box from floor pile,Sand mold creation,factory_006,worker_003,factory006_worker003_00001.csv,factory_006_worker_003,980,995,15
+2000-01-01 00:36:35,2000-01-01 00:37:00,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00001.csv,factory_006_worker_003,995,1020,25
+2000-01-01 00:37:00,2000-01-01 00:37:25,compress sand with automated machine press,Sand mold creation,factory_006,worker_003,factory006_worker003_00001.csv,factory_006_worker_003,1020,1045,25
+2000-01-01 00:37:25,2000-01-01 00:37:35,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_003,factory006_worker003_00001.csv,factory_006_worker_003,1045,1055,10
+2000-01-01 00:37:35,2000-01-01 00:37:50,shovel sand into mold box from floor pile,Sand mold creation,factory_006,worker_003,factory006_worker003_00001.csv,factory_006_worker_003,1055,1070,15
+2000-01-01 00:37:50,2000-01-01 00:38:15,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00001.csv,factory_006_worker_003,1070,1095,25
+2000-01-01 00:38:15,2000-01-01 00:38:40,compress sand with automated machine press,Sand mold creation,factory_006,worker_003,factory006_worker003_00001.csv,factory_006_worker_003,1095,1120,25
+2000-01-01 00:38:40,2000-01-01 00:38:50,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_003,factory006_worker003_00001.csv,factory_006_worker_003,1120,1130,10
+2000-01-01 00:38:50,2000-01-01 00:39:05,shovel sand into mold box from floor pile,Sand mold creation,factory_006,worker_003,factory006_worker003_00001.csv,factory_006_worker_003,1130,1145,15
+2000-01-01 00:39:05,2000-01-01 00:39:30,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00001.csv,factory_006_worker_003,1145,1170,25
+2000-01-01 00:39:30,2000-01-01 00:39:59,compress sand with automated machine press,Sand mold creation,factory_006,worker_003,factory006_worker003_00001.csv,factory_006_worker_003,1170,1199,29
+2000-01-01 00:39:59,2000-01-01 00:40:13,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,0,14,14
+2000-01-01 00:40:13,2000-01-01 00:40:33,shovel spilled sand from floor,Workspace clearing,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,14,34,20
+2000-01-01 00:40:33,2000-01-01 00:40:53,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,34,54,20
+2000-01-01 00:40:53,2000-01-01 00:41:20,shovel spilled sand from floor,Workspace clearing,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,54,81,27
+2000-01-01 00:41:20,2000-01-01 00:42:13,adjust machine bolt with wrench,Machine cleaning and maintenance,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,81,134,53
+2000-01-01 00:42:13,2000-01-01 00:42:21,activate hydraulic press via control panel,Machine cleaning and maintenance,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,134,142,8
+2000-01-01 00:42:21,2000-01-01 00:42:50,drag empty mold box along floor track using crane hook,Component staging and arrangement,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,142,171,29
+2000-01-01 00:42:50,2000-01-01 00:43:12,shovel spilled sand from floor,Workspace clearing,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,171,193,22
+2000-01-01 00:43:12,2000-01-01 00:43:20,drag empty mold box along floor track using crane hook,Component staging and arrangement,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,193,201,8
+2000-01-01 00:43:20,2000-01-01 00:43:28,activate hydraulic press via control panel,Machine cleaning and maintenance,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,201,209,8
+2000-01-01 00:43:28,2000-01-01 00:43:43,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,209,224,15
+2000-01-01 00:43:43,2000-01-01 00:43:56,activate hydraulic press via control panel,Machine cleaning and maintenance,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,224,237,13
+2000-01-01 00:43:56,2000-01-01 00:44:08,lift empty mold box onto pattern plate,Sand mold creation,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,237,249,12
+2000-01-01 00:44:08,2000-01-01 00:44:18,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,249,259,10
+2000-01-01 00:44:18,2000-01-01 00:44:23,scrape excess sand with strike-off bar,Sand mold creation,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,259,264,5
+2000-01-01 00:44:37,2000-01-01 00:44:53,compress sand with automated machine press,Sand mold creation,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,278,294,16
+2000-01-01 00:44:59,2000-01-01 00:45:06,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,300,307,7
+2000-01-01 00:45:06,2000-01-01 00:46:13,adjust machine bolt with wrench,Machine cleaning and maintenance,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,307,374,67
+2000-01-01 00:46:13,2000-01-01 00:46:18,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,374,379,5
+2000-01-01 00:46:18,2000-01-01 00:46:29,activate hydraulic press via control panel,Sand mold creation,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,379,390,11
+2000-01-01 00:46:29,2000-01-01 00:46:37,drag empty mold box along floor track using crane hook,Component staging and arrangement,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,390,398,8
+2000-01-01 00:46:37,2000-01-01 00:46:49,lift empty mold box onto pattern plate,Sand mold creation,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,398,410,12
+2000-01-01 00:46:49,2000-01-01 00:46:55,adjust machine bolt with wrench,Machine cleaning and maintenance,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,410,416,6
+2000-01-01 00:46:55,2000-01-01 00:47:04,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,416,425,9
+2000-01-01 00:47:04,2000-01-01 00:47:14,compress sand with automated machine press,Sand mold creation,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,425,435,10
+2000-01-01 00:47:14,2000-01-01 00:47:33,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,435,454,19
+2000-01-01 00:47:33,2000-01-01 00:47:43,lift empty mold box onto pattern plate,Sand mold creation,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,454,464,10
+2000-01-01 00:47:43,2000-01-01 00:48:07,place small inserts into sand pattern,Core and insert placement,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,464,488,24
+2000-01-01 00:48:07,2000-01-01 00:48:23,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,488,504,16
+2000-01-01 00:48:23,2000-01-01 00:48:37,drag empty mold box along floor track using crane hook,Component staging and arrangement,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,504,518,14
+2000-01-01 00:48:37,2000-01-01 00:48:51,lift empty mold box onto pattern plate,Sand mold creation,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,518,532,14
+2000-01-01 00:48:51,2000-01-01 00:49:04,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,532,545,13
+2000-01-01 00:49:04,2000-01-01 00:49:11,compress sand with automated machine press,Sand mold creation,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,545,552,7
+2000-01-01 00:49:11,2000-01-01 00:49:21,shovel spilled sand from floor,Workspace clearing,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,552,562,10
+2000-01-01 00:49:21,2000-01-01 00:49:46,lift empty mold box onto pattern plate,Sand mold creation,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,562,587,25
+2000-01-01 00:50:06,2000-01-01 00:50:17,activate hydraulic press via control panel,Sand mold creation,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,607,618,11
+2000-01-01 00:50:17,2000-01-01 00:50:24,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,618,625,7
+2000-01-01 00:50:24,2000-01-01 00:50:35,scrape excess sand with strike-off bar,Sand mold creation,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,625,636,11
+2000-01-01 00:50:42,2000-01-01 00:50:49,compress sand with automated machine press,Sand mold creation,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,643,650,7
+2000-01-01 00:51:13,2000-01-01 00:51:23,scrape hardened sand from pressing plate,Machine cleaning and maintenance,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,674,684,10
+2000-01-01 00:51:23,2000-01-01 00:51:33,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,684,694,10
+2000-01-01 00:51:33,2000-01-01 00:51:41,compress sand with automated machine press,Sand mold creation,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,694,702,8
+2000-01-01 00:51:41,2000-01-01 00:51:52,lift empty mold box onto pattern plate,Sand mold creation,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,702,713,11
+2000-01-01 00:51:52,2000-01-01 00:51:59,scrape hardened sand from pressing plate,Machine cleaning and maintenance,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,713,720,7
+2000-01-01 00:52:09,2000-01-01 00:52:27,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,730,748,18
+2000-01-01 00:52:27,2000-01-01 00:52:37,lift empty mold box onto pattern plate,Sand mold creation,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,748,758,10
+2000-01-01 00:52:37,2000-01-01 00:52:47,scrape hardened sand from pressing plate,Machine cleaning and maintenance,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,758,768,10
+2000-01-01 00:52:47,2000-01-01 00:52:58,lift empty mold box onto pattern plate,Sand mold creation,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,768,779,11
+2000-01-01 00:52:58,2000-01-01 00:53:18,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,779,799,20
+2000-01-01 00:53:18,2000-01-01 00:53:29,compress sand with automated machine press,Sand mold creation,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,799,810,11
+2000-01-01 00:53:39,2000-01-01 00:53:47,activate hydraulic press via control panel,Sand mold creation,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,820,828,8
+2000-01-01 00:53:47,2000-01-01 00:53:57,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,828,838,10
+2000-01-01 00:53:57,2000-01-01 00:54:33,lift empty mold box onto pattern plate,Sand mold creation,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,838,874,36
+2000-01-01 00:54:33,2000-01-01 00:54:48,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,874,889,15
+2000-01-01 00:54:48,2000-01-01 00:54:57,scrape excess sand with strike-off bar,Sand mold creation,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,889,898,9
+2000-01-01 00:55:05,2000-01-01 00:55:14,compress sand with automated machine press,Sand mold creation,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,906,915,9
+2000-01-01 00:55:22,2000-01-01 00:55:32,scrape hardened sand from pressing plate,Machine cleaning and maintenance,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,923,933,10
+2000-01-01 00:55:32,2000-01-01 00:55:45,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,933,946,13
+2000-01-01 00:55:45,2000-01-01 00:55:57,activate hydraulic press via control panel,Sand mold creation,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,946,958,12
+2000-01-01 00:56:03,2000-01-01 00:56:14,lift empty mold box onto pattern plate,Sand mold creation,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,964,975,11
+2000-01-01 00:56:14,2000-01-01 00:56:29,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,975,990,15
+2000-01-01 00:56:29,2000-01-01 00:56:40,compress sand with automated machine press,Sand mold creation,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,990,1001,11
+2000-01-01 00:56:49,2000-01-01 00:56:57,activate hydraulic press via control panel,Sand mold creation,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,1010,1018,8
+2000-01-01 00:57:09,2000-01-01 00:57:15,activate hydraulic press via control panel,Sand mold creation,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,1030,1036,6
+2000-01-01 00:57:15,2000-01-01 00:57:30,lift empty mold box onto pattern plate,Sand mold creation,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,1036,1051,15
+2000-01-01 00:57:40,2000-01-01 00:57:53,lift empty mold box onto pattern plate,Sand mold creation,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,1061,1074,13
+2000-01-01 00:57:53,2000-01-01 00:58:10,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,1074,1091,17
+2000-01-01 00:58:10,2000-01-01 00:58:18,compress sand with automated machine press,Sand mold creation,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,1091,1099,8
+2000-01-01 00:58:18,2000-01-01 00:58:58,adjust machine bolt with wrench,Machine cleaning and maintenance,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,1099,1139,40
+2000-01-01 00:58:58,2000-01-01 00:59:09,activate hydraulic press via control panel,Machine cleaning and maintenance,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,1139,1150,11
+2000-01-01 00:59:09,2000-01-01 00:59:21,adjust machine bolt with wrench,Machine cleaning and maintenance,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,1150,1162,12
+2000-01-01 00:59:21,2000-01-01 00:59:28,activate hydraulic press via control panel,Machine cleaning and maintenance,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,1162,1169,7
+2000-01-01 00:59:28,2000-01-01 00:59:48,lift empty mold box onto pattern plate,Sand mold creation,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,1169,1189,20
+2000-01-01 00:59:48,2000-01-01 00:59:59,activate hydraulic press via control panel,Sand mold creation,factory_006,worker_003,factory006_worker003_00002.csv,factory_006_worker_003,1189,1200,11
+2000-01-01 00:59:59,2000-01-01 01:00:25,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,0,26,26
+2000-01-01 01:00:25,2000-01-01 01:00:53,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,26,54,28
+2000-01-01 01:00:53,2000-01-01 01:01:02,wipe pattern plate with cloth rag,Pattern cleaning and coating,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,54,63,9
+2000-01-01 01:01:02,2000-01-01 01:01:12,lift empty mold box onto pattern plate,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,63,73,10
+2000-01-01 01:01:12,2000-01-01 01:01:24,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,73,85,12
+2000-01-01 01:01:24,2000-01-01 01:01:37,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,85,98,13
+2000-01-01 01:01:37,2000-01-01 01:01:51,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,98,112,14
+2000-01-01 01:01:51,2000-01-01 01:02:21,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,112,142,30
+2000-01-01 01:02:21,2000-01-01 01:02:36,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,142,157,15
+2000-01-01 01:02:36,2000-01-01 01:02:51,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,157,172,15
+2000-01-01 01:02:51,2000-01-01 01:03:12,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,172,193,21
+2000-01-01 01:03:12,2000-01-01 01:03:22,strike powder surface with heavy wooden mallet,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,193,203,10
+2000-01-01 01:03:22,2000-01-01 01:03:33,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,203,214,11
+2000-01-01 01:03:33,2000-01-01 01:03:43,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,214,224,10
+2000-01-01 01:03:43,2000-01-01 01:03:57,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,224,238,14
+2000-01-01 01:03:57,2000-01-01 01:04:04,wipe pattern plate with cloth rag,Pattern cleaning and coating,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,238,245,7
+2000-01-01 01:04:04,2000-01-01 01:04:23,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,245,264,19
+2000-01-01 01:04:23,2000-01-01 01:04:35,level powder surface with wooden scraper,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,264,276,12
+2000-01-01 01:04:35,2000-01-01 01:04:41,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,276,282,6
+2000-01-01 01:04:41,2000-01-01 01:04:48,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,282,289,7
+2000-01-01 01:04:48,2000-01-01 01:05:01,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,289,302,13
+2000-01-01 01:05:01,2000-01-01 01:05:09,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,302,310,8
+2000-01-01 01:05:09,2000-01-01 01:05:13,level powder surface with wooden scraper,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,310,314,4
+2000-01-01 01:05:13,2000-01-01 01:05:25,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,314,326,12
+2000-01-01 01:05:25,2000-01-01 01:05:31,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,326,332,6
+2000-01-01 01:05:31,2000-01-01 01:05:44,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,332,345,13
+2000-01-01 01:05:44,2000-01-01 01:05:53,wipe pattern plate with cloth rag,Pattern cleaning and coating,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,345,354,9
+2000-01-01 01:05:53,2000-01-01 01:06:06,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,354,367,13
+2000-01-01 01:06:06,2000-01-01 01:06:13,level powder surface with wooden scraper,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,367,374,7
+2000-01-01 01:06:13,2000-01-01 01:06:20,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,374,381,7
+2000-01-01 01:06:20,2000-01-01 01:06:32,compress sand with automated machine press,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,381,393,12
+2000-01-01 01:06:32,2000-01-01 01:06:41,level powder surface with wooden scraper,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,393,402,9
+2000-01-01 01:06:41,2000-01-01 01:06:50,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,402,411,9
+2000-01-01 01:06:50,2000-01-01 01:07:10,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,411,431,20
+2000-01-01 01:07:10,2000-01-01 01:07:18,wipe pattern plate with cloth rag,Pattern cleaning and coating,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,431,439,8
+2000-01-01 01:07:18,2000-01-01 01:07:33,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,439,454,15
+2000-01-01 01:07:33,2000-01-01 01:07:43,level powder surface with wooden scraper,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,454,464,10
+2000-01-01 01:07:43,2000-01-01 01:07:52,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,464,473,9
+2000-01-01 01:07:52,2000-01-01 01:08:06,level powder surface with wooden scraper,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,473,487,14
+2000-01-01 01:08:06,2000-01-01 01:08:14,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,487,495,8
+2000-01-01 01:08:14,2000-01-01 01:08:23,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,495,504,9
+2000-01-01 01:08:23,2000-01-01 01:08:36,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,504,517,13
+2000-01-01 01:08:36,2000-01-01 01:08:41,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,517,522,5
+2000-01-01 01:08:41,2000-01-01 01:08:48,level powder surface with wooden scraper,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,522,529,7
+2000-01-01 01:08:48,2000-01-01 01:08:55,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,529,536,7
+2000-01-01 01:08:55,2000-01-01 01:09:09,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,536,550,14
+2000-01-01 01:09:09,2000-01-01 01:09:16,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,550,557,7
+2000-01-01 01:09:16,2000-01-01 01:09:23,level powder surface with wooden scraper,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,557,564,7
+2000-01-01 01:09:23,2000-01-01 01:09:31,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,564,572,8
+2000-01-01 01:09:31,2000-01-01 01:09:46,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,572,587,15
+2000-01-01 01:09:46,2000-01-01 01:09:54,level powder surface with wooden scraper,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,587,595,8
+2000-01-01 01:09:54,2000-01-01 01:10:03,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,595,604,9
+2000-01-01 01:10:15,2000-01-01 01:10:30,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,616,631,15
+2000-01-01 01:10:30,2000-01-01 01:10:38,level powder surface with wooden scraper,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,631,639,8
+2000-01-01 01:10:38,2000-01-01 01:10:47,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,639,648,9
+2000-01-01 01:10:47,2000-01-01 01:10:57,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,648,658,10
+2000-01-01 01:10:57,2000-01-01 01:11:13,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,658,674,16
+2000-01-01 01:11:13,2000-01-01 01:11:21,level powder surface with wooden scraper,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,674,682,8
+2000-01-01 01:11:21,2000-01-01 01:11:30,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,682,691,9
+2000-01-01 01:11:30,2000-01-01 01:11:38,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,691,699,8
+2000-01-01 01:11:38,2000-01-01 01:11:54,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,699,715,16
+2000-01-01 01:11:54,2000-01-01 01:12:01,level powder surface with wooden scraper,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,715,722,7
+2000-01-01 01:12:01,2000-01-01 01:12:07,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,722,728,6
+2000-01-01 01:12:07,2000-01-01 01:12:15,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,728,736,8
+2000-01-01 01:12:15,2000-01-01 01:12:29,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,736,750,14
+2000-01-01 01:12:29,2000-01-01 01:12:35,level powder surface with wooden scraper,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,750,756,6
+2000-01-01 01:12:35,2000-01-01 01:12:41,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,756,762,6
+2000-01-01 01:12:41,2000-01-01 01:12:51,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,762,772,10
+2000-01-01 01:12:51,2000-01-01 01:12:59,wipe pattern plate with cloth rag,Pattern cleaning and coating,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,772,780,8
+2000-01-01 01:12:59,2000-01-01 01:13:19,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,780,800,20
+2000-01-01 01:13:19,2000-01-01 01:13:26,level powder surface with wooden scraper,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,800,807,7
+2000-01-01 01:13:26,2000-01-01 01:13:31,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,807,812,5
+2000-01-01 01:13:31,2000-01-01 01:13:43,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,812,824,12
+2000-01-01 01:13:43,2000-01-01 01:13:47,level powder surface with wooden scraper,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,824,828,4
+2000-01-01 01:13:47,2000-01-01 01:13:51,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,828,832,4
+2000-01-01 01:13:51,2000-01-01 01:13:59,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,832,840,8
+2000-01-01 01:13:59,2000-01-01 01:14:14,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,840,855,15
+2000-01-01 01:14:14,2000-01-01 01:14:23,level powder surface with wooden scraper,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,855,864,9
+2000-01-01 01:14:23,2000-01-01 01:14:31,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,864,872,8
+2000-01-01 01:14:31,2000-01-01 01:14:49,shovel spilled sand from floor,Workspace clearing,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,872,890,18
+2000-01-01 01:14:49,2000-01-01 01:14:55,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,890,896,6
+2000-01-01 01:14:55,2000-01-01 01:15:02,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,896,903,7
+2000-01-01 01:15:02,2000-01-01 01:15:07,wipe pattern plate with cloth rag,Pattern cleaning and coating,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,903,908,5
+2000-01-01 01:15:07,2000-01-01 01:15:17,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,908,918,10
+2000-01-01 01:15:17,2000-01-01 01:15:21,level powder surface with wooden scraper,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,918,922,4
+2000-01-01 01:15:21,2000-01-01 01:15:25,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,922,926,4
+2000-01-01 01:15:25,2000-01-01 01:15:42,shovel spilled sand from floor,Workspace clearing,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,926,943,17
+2000-01-01 01:15:42,2000-01-01 01:15:49,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,943,950,7
+2000-01-01 01:15:49,2000-01-01 01:16:03,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,950,964,14
+2000-01-01 01:16:03,2000-01-01 01:16:10,level powder surface with wooden scraper,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,964,971,7
+2000-01-01 01:16:10,2000-01-01 01:16:17,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,971,978,7
+2000-01-01 01:16:17,2000-01-01 01:16:24,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,978,985,7
+2000-01-01 01:16:24,2000-01-01 01:16:35,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,985,996,11
+2000-01-01 01:16:35,2000-01-01 01:16:41,level powder surface with wooden scraper,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,996,1002,6
+2000-01-01 01:16:41,2000-01-01 01:16:50,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,1002,1011,9
+2000-01-01 01:16:50,2000-01-01 01:16:59,shovel spilled sand from floor,Workspace clearing,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,1011,1020,9
+2000-01-01 01:16:59,2000-01-01 01:17:14,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,1020,1035,15
+2000-01-01 01:17:14,2000-01-01 01:17:21,level powder surface with wooden scraper,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,1035,1042,7
+2000-01-01 01:17:21,2000-01-01 01:17:30,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,1042,1051,9
+2000-01-01 01:17:30,2000-01-01 01:17:40,shovel spilled sand from floor,Workspace clearing,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,1051,1061,10
+2000-01-01 01:17:40,2000-01-01 01:17:47,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,1061,1068,7
+2000-01-01 01:17:47,2000-01-01 01:18:02,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,1068,1083,15
+2000-01-01 01:18:02,2000-01-01 01:18:09,level powder surface with wooden scraper,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,1083,1090,7
+2000-01-01 01:18:09,2000-01-01 01:18:15,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,1090,1096,6
+2000-01-01 01:18:15,2000-01-01 01:18:23,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,1096,1104,8
+2000-01-01 01:18:23,2000-01-01 01:18:38,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,1104,1119,15
+2000-01-01 01:18:38,2000-01-01 01:18:46,level powder surface with wooden scraper,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,1119,1127,8
+2000-01-01 01:18:46,2000-01-01 01:18:55,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,1127,1136,9
+2000-01-01 01:18:55,2000-01-01 01:19:06,shovel spilled sand from floor,Workspace clearing,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,1136,1147,11
+2000-01-01 01:19:06,2000-01-01 01:19:13,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,1147,1154,7
+2000-01-01 01:19:13,2000-01-01 01:19:30,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,1154,1171,17
+2000-01-01 01:19:30,2000-01-01 01:19:38,level powder surface with wooden scraper,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,1171,1179,8
+2000-01-01 01:19:38,2000-01-01 01:19:48,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,1179,1189,10
+2000-01-01 01:19:48,2000-01-01 01:19:58,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003,factory006_worker003_00003.csv,factory_006_worker_003,1189,1199,10
+2000-01-01 01:19:58,2000-01-01 01:20:16,compress sand with automated machine press,Sand mold creation,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,0,18,18
+2000-01-01 01:20:16,2000-01-01 01:20:39,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,18,41,23
+2000-01-01 01:20:39,2000-01-01 01:20:52,compress sand with automated machine press,Sand mold creation,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,41,54,13
+2000-01-01 01:20:52,2000-01-01 01:21:11,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,54,73,19
+2000-01-01 01:21:17,2000-01-01 01:21:23,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,79,85,6
+2000-01-01 01:21:41,2000-01-01 01:21:52,compress sand with automated machine press,Sand mold creation,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,103,114,11
+2000-01-01 01:21:52,2000-01-01 01:22:02,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,114,124,10
+2000-01-01 01:22:02,2000-01-01 01:22:16,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,124,138,14
+2000-01-01 01:22:16,2000-01-01 01:22:28,compress sand with automated machine press,Sand mold creation,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,138,150,12
+2000-01-01 01:22:28,2000-01-01 01:22:42,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,150,164,14
+2000-01-01 01:22:42,2000-01-01 01:22:57,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,164,179,15
+2000-01-01 01:23:11,2000-01-01 01:23:24,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,193,206,13
+2000-01-01 01:23:24,2000-01-01 01:23:38,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,206,220,14
+2000-01-01 01:23:55,2000-01-01 01:24:06,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,237,248,11
+2000-01-01 01:24:06,2000-01-01 01:24:20,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,248,262,14
+2000-01-01 01:24:34,2000-01-01 01:24:52,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,276,294,18
+2000-01-01 01:24:52,2000-01-01 01:25:03,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,294,305,11
+2000-01-01 01:25:12,2000-01-01 01:25:23,compress sand with automated machine press,Sand mold creation,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,314,325,11
+2000-01-01 01:25:23,2000-01-01 01:25:49,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,325,351,26
+2000-01-01 01:25:49,2000-01-01 01:26:03,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,351,365,14
+2000-01-01 01:26:03,2000-01-01 01:26:18,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,365,380,15
+2000-01-01 01:26:18,2000-01-01 01:26:31,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,380,393,13
+2000-01-01 01:26:31,2000-01-01 01:26:46,compress sand with automated machine press,Sand mold creation,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,393,408,15
+2000-01-01 01:26:46,2000-01-01 01:27:03,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,408,425,17
+2000-01-01 01:27:03,2000-01-01 01:27:20,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,425,442,17
+2000-01-01 01:27:20,2000-01-01 01:27:35,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,442,457,15
+2000-01-01 01:27:35,2000-01-01 01:27:47,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,457,469,12
+2000-01-01 01:28:03,2000-01-01 01:28:16,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,485,498,13
+2000-01-01 01:28:16,2000-01-01 01:28:29,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,498,511,13
+2000-01-01 01:28:29,2000-01-01 01:28:42,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,511,524,13
+2000-01-01 01:28:56,2000-01-01 01:29:10,shovel spilled sand from floor,Workspace clearing,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,538,552,14
+2000-01-01 01:29:10,2000-01-01 01:29:26,compress sand with automated machine press,Sand mold creation,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,552,568,16
+2000-01-01 01:29:26,2000-01-01 01:29:39,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,568,581,13
+2000-01-01 01:29:53,2000-01-01 01:30:12,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,595,614,19
+2000-01-01 01:30:12,2000-01-01 01:30:26,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,614,628,14
+2000-01-01 01:30:26,2000-01-01 01:30:40,shovel spilled sand from floor,Workspace clearing,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,628,642,14
+2000-01-01 01:30:40,2000-01-01 01:30:53,compress sand with automated machine press,Sand mold creation,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,642,655,13
+2000-01-01 01:30:53,2000-01-01 01:31:08,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,655,670,15
+2000-01-01 01:31:08,2000-01-01 01:31:22,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,670,684,14
+2000-01-01 01:31:36,2000-01-01 01:31:51,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,698,713,15
+2000-01-01 01:31:51,2000-01-01 01:32:05,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,713,727,14
+2000-01-01 01:32:05,2000-01-01 01:32:19,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,727,741,14
+2000-01-01 01:32:19,2000-01-01 01:32:33,compress sand with automated machine press,Sand mold creation,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,741,755,14
+2000-01-01 01:32:33,2000-01-01 01:32:49,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,755,771,16
+2000-01-01 01:33:04,2000-01-01 01:33:32,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,786,814,28
+2000-01-01 01:33:32,2000-01-01 01:33:46,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,814,828,14
+2000-01-01 01:34:00,2000-01-01 01:34:15,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,842,857,15
+2000-01-01 01:34:15,2000-01-01 01:34:29,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,857,871,14
+2000-01-01 01:34:29,2000-01-01 01:34:43,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,871,885,14
+2000-01-01 01:34:43,2000-01-01 01:34:56,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,885,898,13
+2000-01-01 01:34:56,2000-01-01 01:35:11,compress sand with automated machine press,Sand mold creation,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,898,913,15
+2000-01-01 01:35:11,2000-01-01 01:35:26,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,913,928,15
+2000-01-01 01:35:26,2000-01-01 01:35:40,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,928,942,14
+2000-01-01 01:35:40,2000-01-01 01:35:54,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,942,956,14
+2000-01-01 01:35:54,2000-01-01 01:36:08,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,956,970,14
+2000-01-01 01:36:08,2000-01-01 01:36:24,compress sand with automated machine press,Sand mold creation,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,970,986,16
+2000-01-01 01:36:24,2000-01-01 01:36:40,shovel spilled sand from floor,Workspace clearing,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,986,1002,16
+2000-01-01 01:36:54,2000-01-01 01:37:09,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,1016,1031,15
+2000-01-01 01:37:09,2000-01-01 01:37:23,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,1031,1045,14
+2000-01-01 01:37:37,2000-01-01 01:37:51,shovel spilled sand from floor,Workspace clearing,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,1059,1073,14
+2000-01-01 01:37:51,2000-01-01 01:38:06,compress sand with automated machine press,Sand mold creation,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,1073,1088,15
+2000-01-01 01:38:06,2000-01-01 01:38:20,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,1088,1102,14
+2000-01-01 01:38:20,2000-01-01 01:38:34,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,1102,1116,14
+2000-01-01 01:38:49,2000-01-01 01:39:04,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,1131,1146,15
+2000-01-01 01:39:04,2000-01-01 01:39:18,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,1146,1160,14
+2000-01-01 01:39:18,2000-01-01 01:39:32,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,1160,1174,14
+2000-01-01 01:39:46,2000-01-01 01:39:58,compress sand with automated machine press,Sand mold creation,factory_006,worker_003,factory006_worker003_00004.csv,factory_006_worker_003,1188,1200,12

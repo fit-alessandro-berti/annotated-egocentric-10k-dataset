@@ -1,0 +1,196 @@
+start_timestamp,end_timestamp,activity,process,factory,worker,source_file,case_id,start_seconds_from_video_start,end_seconds_from_video_start,duration_seconds
+2000-01-01 00:00:00,2000-01-01 00:00:10,review handwritten instruction slips,Floor auditing,factory_002,worker_007,factory002_worker007_00000.csv,factory_002_worker_007,0,10,10
+2000-01-01 00:00:10,2000-01-01 00:02:51,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_007,factory002_worker007_00000.csv,factory_002_worker_007,10,171,161
+2000-01-01 00:02:51,2000-01-01 00:03:13,review handwritten instruction slips,Floor auditing,factory_002,worker_007,factory002_worker007_00000.csv,factory_002_worker_007,171,193,22
+2000-01-01 00:03:13,2000-01-01 00:10:25,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_007,factory002_worker007_00000.csv,factory_002_worker_007,193,625,432
+2000-01-01 00:10:25,2000-01-01 00:10:48,push loaded cage cart through factory aisle,Material transport,factory_002,worker_007,factory002_worker007_00000.csv,factory_002_worker_007,625,648,23
+2000-01-01 00:11:05,2000-01-01 00:11:23,tick checkbox on package label with pen,Package labeling,factory_002,worker_007,factory002_worker007_00000.csv,factory_002_worker_007,665,683,18
+2000-01-01 00:11:51,2000-01-01 00:12:35,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_007,factory002_worker007_00000.csv,factory_002_worker_007,711,755,44
+2000-01-01 00:12:35,2000-01-01 00:13:48,drop packaged garments into bulk box,Box packing,factory_002,worker_007,factory002_worker007_00000.csv,factory_002_worker_007,755,828,73
+2000-01-01 00:13:48,2000-01-01 00:14:14,tape bottom box flaps with handheld dispenser,Box sealing,factory_002,worker_007,factory002_worker007_00000.csv,factory_002_worker_007,828,854,26
+2000-01-01 00:14:14,2000-01-01 00:14:25,fold bottom flaps of empty cardboard box,Box assembly,factory_002,worker_007,factory002_worker007_00000.csv,factory_002_worker_007,854,865,11
+2000-01-01 00:14:25,2000-01-01 00:14:50,drop packaged garments into bulk box,Box packing,factory_002,worker_007,factory002_worker007_00000.csv,factory_002_worker_007,865,890,25
+2000-01-01 00:14:50,2000-01-01 00:14:59,tape bottom box flaps with handheld dispenser,Box sealing,factory_002,worker_007,factory002_worker007_00000.csv,factory_002_worker_007,890,899,9
+2000-01-01 00:14:59,2000-01-01 00:15:10,tick checkbox on package label with pen,Package labeling,factory_002,worker_007,factory002_worker007_00000.csv,factory_002_worker_007,899,910,11
+2000-01-01 00:15:20,2000-01-01 00:15:43,push loaded cage cart through factory aisle,Material transport,factory_002,worker_007,factory002_worker007_00000.csv,factory_002_worker_007,920,943,23
+2000-01-01 00:15:43,2000-01-01 00:16:05,fold bottom flaps of empty cardboard box,Box assembly,factory_002,worker_007,factory002_worker007_00000.csv,factory_002_worker_007,943,965,22
+2000-01-01 00:16:05,2000-01-01 00:17:24,drop packaged garments into bulk box,Box packing,factory_002,worker_007,factory002_worker007_00000.csv,factory_002_worker_007,965,1044,79
+2000-01-01 00:17:24,2000-01-01 00:17:59,tape bottom box flaps with handheld dispenser,Box sealing,factory_002,worker_007,factory002_worker007_00000.csv,factory_002_worker_007,1044,1079,35
+2000-01-01 00:17:59,2000-01-01 00:18:22,push loaded cage cart through factory aisle,Material transport,factory_002,worker_007,factory002_worker007_00000.csv,factory_002_worker_007,1079,1102,23
+2000-01-01 00:18:22,2000-01-01 00:19:31,drop packaged garments into bulk box,Box packing,factory_002,worker_007,factory002_worker007_00000.csv,factory_002_worker_007,1102,1171,69
+2000-01-01 00:19:31,2000-01-01 00:20:00,tape bottom box flaps with handheld dispenser,Box sealing,factory_002,worker_007,factory002_worker007_00000.csv,factory_002_worker_007,1171,1200,29
+2000-01-01 00:20:18,2000-01-01 00:21:12,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_007,factory002_worker007_00001.csv,factory_002_worker_007,18,72,54
+2000-01-01 00:22:24,2000-01-01 00:23:07,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_007,factory002_worker007_00001.csv,factory_002_worker_007,144,187,43
+2000-01-01 00:23:22,2000-01-01 00:24:00,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_007,factory002_worker007_00001.csv,factory_002_worker_007,202,240,38
+2000-01-01 00:24:07,2000-01-01 00:25:01,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_007,factory002_worker007_00001.csv,factory_002_worker_007,247,301,54
+2000-01-01 00:25:15,2000-01-01 00:25:46,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_007,factory002_worker007_00001.csv,factory_002_worker_007,315,346,31
+2000-01-01 00:26:01,2000-01-01 00:26:16,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_007,factory002_worker007_00001.csv,factory_002_worker_007,361,376,15
+2000-01-01 00:26:21,2000-01-01 00:27:00,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_007,factory002_worker007_00001.csv,factory_002_worker_007,381,420,39
+2000-01-01 00:27:11,2000-01-01 00:28:00,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_007,factory002_worker007_00001.csv,factory_002_worker_007,431,480,49
+2000-01-01 00:28:00,2000-01-01 00:28:14,transfer packaged stacks into wire-mesh cage cart,Material transport,factory_002,worker_007,factory002_worker007_00001.csv,factory_002_worker_007,480,494,14
+2000-01-01 00:28:14,2000-01-01 00:28:41,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_007,factory002_worker007_00001.csv,factory_002_worker_007,494,521,27
+2000-01-01 00:28:48,2000-01-01 00:29:07,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_007,factory002_worker007_00001.csv,factory_002_worker_007,528,547,19
+2000-01-01 00:29:07,2000-01-01 00:29:15,transfer packaged stacks into wire-mesh cage cart,Material transport,factory_002,worker_007,factory002_worker007_00001.csv,factory_002_worker_007,547,555,8
+2000-01-01 00:29:15,2000-01-01 00:29:27,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_007,factory002_worker007_00001.csv,factory_002_worker_007,555,567,12
+2000-01-01 00:29:27,2000-01-01 00:29:44,transfer packaged stacks into wire-mesh cage cart,Material transport,factory_002,worker_007,factory002_worker007_00001.csv,factory_002_worker_007,567,584,17
+2000-01-01 00:29:44,2000-01-01 00:30:09,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_007,factory002_worker007_00001.csv,factory_002_worker_007,584,609,25
+2000-01-01 00:30:09,2000-01-01 00:30:21,transfer packaged stacks into wire-mesh cage cart,Material transport,factory_002,worker_007,factory002_worker007_00001.csv,factory_002_worker_007,609,621,12
+2000-01-01 00:30:21,2000-01-01 00:30:53,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_007,factory002_worker007_00001.csv,factory_002_worker_007,621,653,32
+2000-01-01 00:30:53,2000-01-01 00:31:15,transfer packaged stacks into wire-mesh cage cart,Material transport,factory_002,worker_007,factory002_worker007_00001.csv,factory_002_worker_007,653,675,22
+2000-01-01 00:31:50,2000-01-01 00:32:43,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_007,factory002_worker007_00001.csv,factory_002_worker_007,710,763,53
+2000-01-01 00:32:43,2000-01-01 00:32:56,transfer packaged stacks into wire-mesh cage cart,Material transport,factory_002,worker_007,factory002_worker007_00001.csv,factory_002_worker_007,763,776,13
+2000-01-01 00:32:56,2000-01-01 00:33:33,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_007,factory002_worker007_00001.csv,factory_002_worker_007,776,813,37
+2000-01-01 00:33:33,2000-01-01 00:33:45,transfer packaged stacks into wire-mesh cage cart,Material transport,factory_002,worker_007,factory002_worker007_00001.csv,factory_002_worker_007,813,825,12
+2000-01-01 00:33:45,2000-01-01 00:35:03,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_007,factory002_worker007_00001.csv,factory_002_worker_007,825,903,78
+2000-01-01 00:35:03,2000-01-01 00:35:23,transfer packaged stacks into wire-mesh cage cart,Material transport,factory_002,worker_007,factory002_worker007_00001.csv,factory_002_worker_007,903,923,20
+2000-01-01 00:35:23,2000-01-01 00:35:43,distribute white cardboard sheets to adjacent stations,Material transport,factory_002,worker_007,factory002_worker007_00001.csv,factory_002_worker_007,923,943,20
+2000-01-01 00:35:43,2000-01-01 00:36:08,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_007,factory002_worker007_00001.csv,factory_002_worker_007,943,968,25
+2000-01-01 00:36:15,2000-01-01 00:37:00,transfer packaged stacks into wire-mesh cage cart,Material transport,factory_002,worker_007,factory002_worker007_00001.csv,factory_002_worker_007,975,1020,45
+2000-01-01 00:37:00,2000-01-01 00:38:00,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_007,factory002_worker007_00001.csv,factory_002_worker_007,1020,1080,60
+2000-01-01 00:38:18,2000-01-01 00:39:00,distribute white cardboard sheets to adjacent stations,Material transport,factory_002,worker_007,factory002_worker007_00001.csv,factory_002_worker_007,1098,1140,42
+2000-01-01 00:39:06,2000-01-01 00:39:35,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,6,35,29
+2000-01-01 00:39:40,2000-01-01 00:39:58,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,40,58,18
+2000-01-01 00:40:03,2000-01-01 00:40:18,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,63,78,15
+2000-01-01 00:40:21,2000-01-01 00:40:36,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,81,96,15
+2000-01-01 00:41:22,2000-01-01 00:41:46,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,142,166,24
+2000-01-01 00:41:50,2000-01-01 00:42:04,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,170,184,14
+2000-01-01 00:42:08,2000-01-01 00:42:23,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,188,203,15
+2000-01-01 00:42:39,2000-01-01 00:42:59,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,219,239,20
+2000-01-01 00:43:03,2000-01-01 00:43:17,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,243,257,14
+2000-01-01 00:43:22,2000-01-01 00:43:36,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,262,276,14
+2000-01-01 00:43:40,2000-01-01 00:43:54,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,280,294,14
+2000-01-01 00:43:58,2000-01-01 00:44:10,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,298,310,12
+2000-01-01 00:44:14,2000-01-01 00:44:29,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,314,329,15
+2000-01-01 00:44:33,2000-01-01 00:44:53,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,333,353,20
+2000-01-01 00:44:58,2000-01-01 00:45:17,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,358,377,19
+2000-01-01 00:45:21,2000-01-01 00:45:36,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,381,396,15
+2000-01-01 00:45:40,2000-01-01 00:45:55,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,400,415,15
+2000-01-01 00:45:59,2000-01-01 00:46:13,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,419,433,14
+2000-01-01 00:46:18,2000-01-01 00:46:33,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,438,453,15
+2000-01-01 00:46:37,2000-01-01 00:46:52,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,457,472,15
+2000-01-01 00:46:56,2000-01-01 00:47:11,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,476,491,15
+2000-01-01 00:47:16,2000-01-01 00:47:31,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,496,511,15
+2000-01-01 00:47:35,2000-01-01 00:47:50,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,515,530,15
+2000-01-01 00:47:54,2000-01-01 00:48:09,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,534,549,15
+2000-01-01 00:48:14,2000-01-01 00:48:28,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,554,568,14
+2000-01-01 00:48:32,2000-01-01 00:48:47,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,572,587,15
+2000-01-01 00:48:52,2000-01-01 00:49:07,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,592,607,15
+2000-01-01 00:49:12,2000-01-01 00:49:27,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,612,627,15
+2000-01-01 00:49:31,2000-01-01 00:49:46,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,631,646,15
+2000-01-01 00:49:50,2000-01-01 00:50:05,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,650,665,15
+2000-01-01 00:50:10,2000-01-01 00:50:24,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,670,684,14
+2000-01-01 00:50:28,2000-01-01 00:50:43,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,688,703,15
+2000-01-01 00:50:47,2000-01-01 00:51:02,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,707,722,15
+2000-01-01 00:51:06,2000-01-01 00:51:21,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,726,741,15
+2000-01-01 00:51:21,2000-01-01 00:52:04,distribute white cardboard sheets to adjacent stations,Material transport,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,741,784,43
+2000-01-01 00:52:04,2000-01-01 00:52:14,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,784,794,10
+2000-01-01 00:52:17,2000-01-01 00:52:32,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,797,812,15
+2000-01-01 00:52:36,2000-01-01 00:52:51,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,816,831,15
+2000-01-01 00:52:55,2000-01-01 00:53:10,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,835,850,15
+2000-01-01 00:53:14,2000-01-01 00:53:28,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,854,868,14
+2000-01-01 00:53:32,2000-01-01 00:53:47,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,872,887,15
+2000-01-01 00:53:51,2000-01-01 00:54:06,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,891,906,15
+2000-01-01 00:54:10,2000-01-01 00:54:24,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,910,924,14
+2000-01-01 00:54:28,2000-01-01 00:54:43,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,928,943,15
+2000-01-01 00:54:47,2000-01-01 00:55:02,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,947,962,15
+2000-01-01 00:55:06,2000-01-01 00:55:20,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,966,980,14
+2000-01-01 00:55:24,2000-01-01 00:55:39,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,984,999,15
+2000-01-01 00:55:43,2000-01-01 00:55:58,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,1003,1018,15
+2000-01-01 00:56:02,2000-01-01 00:56:17,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,1022,1037,15
+2000-01-01 00:56:21,2000-01-01 00:56:36,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,1041,1056,15
+2000-01-01 00:56:40,2000-01-01 00:56:54,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,1060,1074,14
+2000-01-01 00:56:58,2000-01-01 00:57:13,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,1078,1093,15
+2000-01-01 00:57:24,2000-01-01 00:57:36,write production numbers in lined notebook,Floor auditing,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,1104,1116,12
+2000-01-01 00:57:36,2000-01-01 00:57:54,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,1116,1134,18
+2000-01-01 00:57:58,2000-01-01 00:58:13,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,1138,1153,15
+2000-01-01 00:58:17,2000-01-01 00:58:32,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,1157,1172,15
+2000-01-01 00:58:36,2000-01-01 00:58:51,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00002.csv,factory_002_worker_007,1176,1191,15
+2000-01-01 00:58:51,2000-01-01 01:00:51,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00003.csv,factory_002_worker_007,0,120,120
+2000-01-01 01:00:59,2000-01-01 01:01:58,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00003.csv,factory_002_worker_007,128,187,59
+2000-01-01 01:02:05,2000-01-01 01:03:04,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00003.csv,factory_002_worker_007,194,253,59
+2000-01-01 01:03:09,2000-01-01 01:03:50,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00003.csv,factory_002_worker_007,258,299,41
+2000-01-01 01:03:56,2000-01-01 01:04:30,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00003.csv,factory_002_worker_007,305,339,34
+2000-01-01 01:04:34,2000-01-01 01:05:11,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00003.csv,factory_002_worker_007,343,380,37
+2000-01-01 01:05:16,2000-01-01 01:05:51,wrap white cardboard band around folded shirt,Cardboard wrapping,factory_002,worker_007,factory002_worker007_00003.csv,factory_002_worker_007,385,420,35
+2000-01-01 01:05:56,2000-01-01 01:07:37,slide grouped packages into clear master bag,Master bagging,factory_002,worker_007,factory002_worker007_00003.csv,factory_002_worker_007,425,526,101
+2000-01-01 01:07:43,2000-01-01 01:08:03,fold bottom flaps of empty cardboard box,Box assembly,factory_002,worker_007,factory002_worker007_00003.csv,factory_002_worker_007,532,552,20
+2000-01-01 01:08:03,2000-01-01 01:08:19,drop packaged garments into bulk box,Box packing,factory_002,worker_007,factory002_worker007_00003.csv,factory_002_worker_007,552,568,16
+2000-01-01 01:08:19,2000-01-01 01:08:31,tape bottom box flaps with handheld dispenser,Box sealing,factory_002,worker_007,factory002_worker007_00003.csv,factory_002_worker_007,568,580,12
+2000-01-01 01:08:43,2000-01-01 01:08:57,fold bottom flaps of empty cardboard box,Box assembly,factory_002,worker_007,factory002_worker007_00003.csv,factory_002_worker_007,592,606,14
+2000-01-01 01:08:57,2000-01-01 01:09:19,drop packaged garments into bulk box,Box packing,factory_002,worker_007,factory002_worker007_00003.csv,factory_002_worker_007,606,628,22
+2000-01-01 01:09:19,2000-01-01 01:09:29,tape bottom box flaps with handheld dispenser,Box sealing,factory_002,worker_007,factory002_worker007_00003.csv,factory_002_worker_007,628,638,10
+2000-01-01 01:09:39,2000-01-01 01:09:53,fold bottom flaps of empty cardboard box,Box assembly,factory_002,worker_007,factory002_worker007_00003.csv,factory_002_worker_007,648,662,14
+2000-01-01 01:09:53,2000-01-01 01:10:31,drop packaged garments into bulk box,Box packing,factory_002,worker_007,factory002_worker007_00003.csv,factory_002_worker_007,662,700,38
+2000-01-01 01:10:31,2000-01-01 01:10:42,tape bottom box flaps with handheld dispenser,Box sealing,factory_002,worker_007,factory002_worker007_00003.csv,factory_002_worker_007,700,711,11
+2000-01-01 01:10:53,2000-01-01 01:11:11,fold bottom flaps of empty cardboard box,Box assembly,factory_002,worker_007,factory002_worker007_00003.csv,factory_002_worker_007,722,740,18
+2000-01-01 01:11:11,2000-01-01 01:11:33,drop packaged garments into bulk box,Box packing,factory_002,worker_007,factory002_worker007_00003.csv,factory_002_worker_007,740,762,22
+2000-01-01 01:11:33,2000-01-01 01:11:46,tape bottom box flaps with handheld dispenser,Box sealing,factory_002,worker_007,factory002_worker007_00003.csv,factory_002_worker_007,762,775,13
+2000-01-01 01:11:56,2000-01-01 01:12:11,fold bottom flaps of empty cardboard box,Box assembly,factory_002,worker_007,factory002_worker007_00003.csv,factory_002_worker_007,785,800,15
+2000-01-01 01:12:11,2000-01-01 01:12:29,drop packaged garments into bulk box,Box packing,factory_002,worker_007,factory002_worker007_00003.csv,factory_002_worker_007,800,818,18
+2000-01-01 01:12:29,2000-01-01 01:12:41,tape bottom box flaps with handheld dispenser,Box sealing,factory_002,worker_007,factory002_worker007_00003.csv,factory_002_worker_007,818,830,12
+2000-01-01 01:12:53,2000-01-01 01:13:06,fold bottom flaps of empty cardboard box,Box assembly,factory_002,worker_007,factory002_worker007_00003.csv,factory_002_worker_007,842,855,13
+2000-01-01 01:13:06,2000-01-01 01:13:26,drop packaged garments into bulk box,Box packing,factory_002,worker_007,factory002_worker007_00003.csv,factory_002_worker_007,855,875,20
+2000-01-01 01:13:26,2000-01-01 01:13:37,tape bottom box flaps with handheld dispenser,Box sealing,factory_002,worker_007,factory002_worker007_00003.csv,factory_002_worker_007,875,886,11
+2000-01-01 01:13:49,2000-01-01 01:14:06,fold bottom flaps of empty cardboard box,Box assembly,factory_002,worker_007,factory002_worker007_00003.csv,factory_002_worker_007,898,915,17
+2000-01-01 01:14:06,2000-01-01 01:14:26,drop packaged garments into bulk box,Box packing,factory_002,worker_007,factory002_worker007_00003.csv,factory_002_worker_007,915,935,20
+2000-01-01 01:14:26,2000-01-01 01:14:39,tape bottom box flaps with handheld dispenser,Box sealing,factory_002,worker_007,factory002_worker007_00003.csv,factory_002_worker_007,935,948,13
+2000-01-01 01:14:51,2000-01-01 01:15:06,fold bottom flaps of empty cardboard box,Box assembly,factory_002,worker_007,factory002_worker007_00003.csv,factory_002_worker_007,960,975,15
+2000-01-01 01:15:06,2000-01-01 01:15:26,drop packaged garments into bulk box,Box packing,factory_002,worker_007,factory002_worker007_00003.csv,factory_002_worker_007,975,995,20
+2000-01-01 01:15:26,2000-01-01 01:15:39,tape bottom box flaps with handheld dispenser,Box sealing,factory_002,worker_007,factory002_worker007_00003.csv,factory_002_worker_007,995,1008,13
+2000-01-01 01:15:49,2000-01-01 01:16:06,fold bottom flaps of empty cardboard box,Box assembly,factory_002,worker_007,factory002_worker007_00003.csv,factory_002_worker_007,1018,1035,17
+2000-01-01 01:16:06,2000-01-01 01:16:26,drop packaged garments into bulk box,Box packing,factory_002,worker_007,factory002_worker007_00003.csv,factory_002_worker_007,1035,1055,20
+2000-01-01 01:16:26,2000-01-01 01:16:39,tape bottom box flaps with handheld dispenser,Box sealing,factory_002,worker_007,factory002_worker007_00003.csv,factory_002_worker_007,1055,1068,13
+2000-01-01 01:16:49,2000-01-01 01:17:06,fold bottom flaps of empty cardboard box,Box assembly,factory_002,worker_007,factory002_worker007_00003.csv,factory_002_worker_007,1078,1095,17
+2000-01-01 01:17:06,2000-01-01 01:17:26,drop packaged garments into bulk box,Box packing,factory_002,worker_007,factory002_worker007_00003.csv,factory_002_worker_007,1095,1115,20
+2000-01-01 01:17:26,2000-01-01 01:17:39,tape bottom box flaps with handheld dispenser,Box sealing,factory_002,worker_007,factory002_worker007_00003.csv,factory_002_worker_007,1115,1128,13
+2000-01-01 01:17:44,2000-01-01 01:17:59,fold bottom flaps of empty cardboard box,Box assembly,factory_002,worker_007,factory002_worker007_00003.csv,factory_002_worker_007,1133,1148,15
+2000-01-01 01:17:59,2000-01-01 01:18:19,drop packaged garments into bulk box,Box packing,factory_002,worker_007,factory002_worker007_00003.csv,factory_002_worker_007,1148,1168,20
+2000-01-01 01:18:19,2000-01-01 01:18:34,tape bottom box flaps with handheld dispenser,Box sealing,factory_002,worker_007,factory002_worker007_00003.csv,factory_002_worker_007,1168,1183,15
+2000-01-01 01:18:43,2000-01-01 01:18:52,fold bottom flaps of empty cardboard box,Box assembly,factory_002,worker_007,factory002_worker007_00003.csv,factory_002_worker_007,1192,1201,9
+2000-01-01 01:18:52,2000-01-01 01:19:15,tape bottom box flaps with handheld dispenser,Box sealing,factory_002,worker_007,factory002_worker007_00004.csv,factory_002_worker_007,0,23,23
+2000-01-01 01:19:26,2000-01-01 01:20:20,drop packaged garments into bulk box,Box packing,factory_002,worker_007,factory002_worker007_00004.csv,factory_002_worker_007,34,88,54
+2000-01-01 01:20:20,2000-01-01 01:21:09,tape bottom box flaps with handheld dispenser,Box sealing,factory_002,worker_007,factory002_worker007_00004.csv,factory_002_worker_007,88,137,49
+2000-01-01 01:21:14,2000-01-01 01:21:32,drop packaged garments into bulk box,Box packing,factory_002,worker_007,factory002_worker007_00004.csv,factory_002_worker_007,142,160,18
+2000-01-01 01:21:32,2000-01-01 01:22:24,tape bottom box flaps with handheld dispenser,Box sealing,factory_002,worker_007,factory002_worker007_00004.csv,factory_002_worker_007,160,212,52
+2000-01-01 01:22:28,2000-01-01 01:22:47,drop packaged garments into bulk box,Box packing,factory_002,worker_007,factory002_worker007_00004.csv,factory_002_worker_007,216,235,19
+2000-01-01 01:22:47,2000-01-01 01:23:31,tape bottom box flaps with handheld dispenser,Box sealing,factory_002,worker_007,factory002_worker007_00004.csv,factory_002_worker_007,235,279,44
+2000-01-01 01:23:35,2000-01-01 01:23:53,drop packaged garments into bulk box,Box packing,factory_002,worker_007,factory002_worker007_00004.csv,factory_002_worker_007,283,301,18
+2000-01-01 01:23:53,2000-01-01 01:24:38,tape bottom box flaps with handheld dispenser,Box sealing,factory_002,worker_007,factory002_worker007_00004.csv,factory_002_worker_007,301,346,45
+2000-01-01 01:24:42,2000-01-01 01:24:57,drop packaged garments into bulk box,Box packing,factory_002,worker_007,factory002_worker007_00004.csv,factory_002_worker_007,350,365,15
+2000-01-01 01:24:57,2000-01-01 01:25:41,tape bottom box flaps with handheld dispenser,Box sealing,factory_002,worker_007,factory002_worker007_00004.csv,factory_002_worker_007,365,409,44
+2000-01-01 01:25:46,2000-01-01 01:26:02,drop packaged garments into bulk box,Box packing,factory_002,worker_007,factory002_worker007_00004.csv,factory_002_worker_007,414,430,16
+2000-01-01 01:26:02,2000-01-01 01:26:08,tape bottom box flaps with handheld dispenser,Box sealing,factory_002,worker_007,factory002_worker007_00004.csv,factory_002_worker_007,430,436,6
+2000-01-01 01:26:43,2000-01-01 01:29:17,apply adhesive label with handheld dispenser,Package labeling,factory_002,worker_007,factory002_worker007_00004.csv,factory_002_worker_007,471,625,154
+2000-01-01 01:29:29,2000-01-01 01:30:13,drop packaged garments into bulk box,Box packing,factory_002,worker_007,factory002_worker007_00004.csv,factory_002_worker_007,637,681,44
+2000-01-01 01:30:13,2000-01-01 01:31:07,tape bottom box flaps with handheld dispenser,Box sealing,factory_002,worker_007,factory002_worker007_00004.csv,factory_002_worker_007,681,735,54
+2000-01-01 01:31:12,2000-01-01 01:32:06,apply adhesive label with handheld dispenser,Package labeling,factory_002,worker_007,factory002_worker007_00004.csv,factory_002_worker_007,740,794,54
+2000-01-01 01:32:13,2000-01-01 01:32:40,drop packaged garments into bulk box,Box packing,factory_002,worker_007,factory002_worker007_00004.csv,factory_002_worker_007,801,828,27
+2000-01-01 01:32:40,2000-01-01 01:33:30,tape bottom box flaps with handheld dispenser,Box sealing,factory_002,worker_007,factory002_worker007_00004.csv,factory_002_worker_007,828,878,50
+2000-01-01 01:33:36,2000-01-01 01:35:54,apply adhesive label with handheld dispenser,Package labeling,factory_002,worker_007,factory002_worker007_00004.csv,factory_002_worker_007,884,1022,138
+2000-01-01 01:35:54,2000-01-01 01:36:26,drop packaged garments into bulk box,Box packing,factory_002,worker_007,factory002_worker007_00004.csv,factory_002_worker_007,1022,1054,32
+2000-01-01 01:36:26,2000-01-01 01:37:09,tape bottom box flaps with handheld dispenser,Box sealing,factory_002,worker_007,factory002_worker007_00004.csv,factory_002_worker_007,1054,1097,43
+2000-01-01 01:37:15,2000-01-01 01:37:56,apply adhesive label with handheld dispenser,Package labeling,factory_002,worker_007,factory002_worker007_00004.csv,factory_002_worker_007,1103,1144,41
+2000-01-01 01:37:56,2000-01-01 01:38:16,drop packaged garments into bulk box,Box packing,factory_002,worker_007,factory002_worker007_00004.csv,factory_002_worker_007,1144,1164,20
+2000-01-01 01:38:16,2000-01-01 01:38:53,tape bottom box flaps with handheld dispenser,Box sealing,factory_002,worker_007,factory002_worker007_00004.csv,factory_002_worker_007,1164,1201,37
+2000-01-01 01:38:53,2000-01-01 01:39:29,tape bottom box flaps with handheld dispenser,Box sealing,factory_002,worker_007,factory002_worker007_00005.csv,factory_002_worker_007,0,36,36
+2000-01-01 01:39:39,2000-01-01 01:40:50,drop packaged garments into bulk box,Box packing,factory_002,worker_007,factory002_worker007_00005.csv,factory_002_worker_007,46,117,71
+2000-01-01 01:40:50,2000-01-01 01:41:27,tape bottom box flaps with handheld dispenser,Box sealing,factory_002,worker_007,factory002_worker007_00005.csv,factory_002_worker_007,117,154,37
+2000-01-01 01:42:27,2000-01-01 01:43:53,drop packaged garments into bulk box,Box packing,factory_002,worker_007,factory002_worker007_00005.csv,factory_002_worker_007,214,300,86
+2000-01-01 01:44:37,2000-01-01 01:45:29,fold over adhesive bag flap,Garment bagging,factory_002,worker_007,factory002_worker007_00005.csv,factory_002_worker_007,344,396,52
+2000-01-01 01:45:49,2000-01-01 01:46:15,fold over adhesive bag flap,Garment bagging,factory_002,worker_007,factory002_worker007_00005.csv,factory_002_worker_007,416,442,26
+2000-01-01 01:46:39,2000-01-01 01:47:22,fold over adhesive bag flap,Garment bagging,factory_002,worker_007,factory002_worker007_00005.csv,factory_002_worker_007,466,509,43
+2000-01-01 01:47:48,2000-01-01 01:48:09,push loaded cage cart through factory aisle,Material transport,factory_002,worker_007,factory002_worker007_00005.csv,factory_002_worker_007,535,556,21
+2000-01-01 01:48:09,2000-01-01 01:48:37,drop packaged garments into bulk box,Box packing,factory_002,worker_007,factory002_worker007_00005.csv,factory_002_worker_007,556,584,28
+2000-01-01 01:48:37,2000-01-01 01:49:22,tape bottom box flaps with handheld dispenser,Box sealing,factory_002,worker_007,factory002_worker007_00005.csv,factory_002_worker_007,584,629,45
+2000-01-01 01:49:32,2000-01-01 01:50:25,drop packaged garments into bulk box,Box packing,factory_002,worker_007,factory002_worker007_00005.csv,factory_002_worker_007,639,692,53
+2000-01-01 01:50:44,2000-01-01 01:51:28,fold over adhesive bag flap,Garment bagging,factory_002,worker_007,factory002_worker007_00005.csv,factory_002_worker_007,711,755,44
+2000-01-01 01:52:09,2000-01-01 01:52:39,fold over adhesive bag flap,Garment bagging,factory_002,worker_007,factory002_worker007_00005.csv,factory_002_worker_007,796,826,30
+2000-01-01 01:52:53,2000-01-01 01:53:31,drop packaged garments into bulk box,Box packing,factory_002,worker_007,factory002_worker007_00005.csv,factory_002_worker_007,840,878,38
+2000-01-01 01:53:53,2000-01-01 01:54:21,fold over adhesive bag flap,Garment bagging,factory_002,worker_007,factory002_worker007_00005.csv,factory_002_worker_007,900,928,28
+2000-01-01 01:54:40,2000-01-01 01:55:08,review handwritten instruction slips,Floor auditing,factory_002,worker_007,factory002_worker007_00005.csv,factory_002_worker_007,947,975,28
+2000-01-01 01:55:08,2000-01-01 01:55:52,drop packaged garments into bulk box,Box packing,factory_002,worker_007,factory002_worker007_00005.csv,factory_002_worker_007,975,1019,44
+2000-01-01 01:56:27,2000-01-01 01:56:48,review handwritten instruction slips,Floor auditing,factory_002,worker_007,factory002_worker007_00005.csv,factory_002_worker_007,1054,1075,21
+2000-01-01 01:56:48,2000-01-01 01:57:16,tick checkbox on package label with pen,Package labeling,factory_002,worker_007,factory002_worker007_00005.csv,factory_002_worker_007,1075,1103,28
+2000-01-01 01:57:34,2000-01-01 01:58:00,fold over adhesive bag flap,Garment bagging,factory_002,worker_007,factory002_worker007_00005.csv,factory_002_worker_007,1121,1147,26
+2000-01-01 01:58:15,2000-01-01 01:58:47,drop packaged garments into bulk box,Box packing,factory_002,worker_007,factory002_worker007_00005.csv,factory_002_worker_007,1162,1194,32
+2000-01-01 01:58:47,2000-01-01 01:58:53,tape bottom box flaps with handheld dispenser,Box sealing,factory_002,worker_007,factory002_worker007_00005.csv,factory_002_worker_007,1194,1200,6

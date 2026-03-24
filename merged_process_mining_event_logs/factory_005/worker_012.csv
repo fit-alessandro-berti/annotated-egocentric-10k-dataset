@@ -1,0 +1,80 @@
+start_timestamp,end_timestamp,activity,process,factory,worker,source_file,case_id,start_seconds_from_video_start,end_seconds_from_video_start,duration_seconds
+2000-01-01 00:00:00,2000-01-01 00:00:23,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,0,23,23
+2000-01-01 00:00:36,2000-01-01 00:00:44,adjust lathe toolpost with hand wrench mid-cut,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,36,44,8
+2000-01-01 00:00:44,2000-01-01 00:00:54,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,44,54,10
+2000-01-01 00:01:03,2000-01-01 00:01:10,press unmachined part onto live spinning lathe fixture,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,63,70,7
+2000-01-01 00:01:10,2000-01-01 00:01:34,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,70,94,24
+2000-01-01 00:01:34,2000-01-01 00:01:40,adjust lathe toolpost with hand wrench mid-cut,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,94,100,6
+2000-01-01 00:01:40,2000-01-01 00:01:52,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,100,112,12
+2000-01-01 00:01:52,2000-01-01 00:01:57,pull finished part off live spinning lathe fixture,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,112,117,5
+2000-01-01 00:01:57,2000-01-01 00:02:04,press unmachined part onto live spinning lathe fixture,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,117,124,7
+2000-01-01 00:02:04,2000-01-01 00:02:28,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,124,148,24
+2000-01-01 00:02:28,2000-01-01 00:02:33,adjust lathe toolpost with hand wrench mid-cut,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,148,153,5
+2000-01-01 00:02:33,2000-01-01 00:02:46,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,153,166,13
+2000-01-01 00:02:46,2000-01-01 00:02:51,pull finished part off live spinning lathe fixture,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,166,171,5
+2000-01-01 00:02:51,2000-01-01 00:02:58,press unmachined part onto live spinning lathe fixture,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,171,178,7
+2000-01-01 00:02:58,2000-01-01 00:03:18,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,178,198,20
+2000-01-01 00:03:18,2000-01-01 00:03:24,adjust lathe toolpost with hand wrench mid-cut,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,198,204,6
+2000-01-01 00:03:24,2000-01-01 00:03:35,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,204,215,11
+2000-01-01 00:03:35,2000-01-01 00:03:40,pull finished part off live spinning lathe fixture,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,215,220,5
+2000-01-01 00:03:49,2000-01-01 00:04:12,hold finishing tool against neighboring spinning workpiece,component deburring and polishing,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,229,252,23
+2000-01-01 00:04:12,2000-01-01 00:04:20,press unmachined part onto live spinning lathe fixture,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,252,260,8
+2000-01-01 00:04:20,2000-01-01 00:04:57,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,260,297,37
+2000-01-01 00:04:57,2000-01-01 00:05:04,adjust lathe toolpost with hand wrench mid-cut,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,297,304,7
+2000-01-01 00:05:04,2000-01-01 00:05:37,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,304,337,33
+2000-01-01 00:05:37,2000-01-01 00:05:43,pull finished part off live spinning lathe fixture,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,337,343,6
+2000-01-01 00:05:56,2000-01-01 00:06:02,press unmachined part onto live spinning lathe fixture,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,356,362,6
+2000-01-01 00:06:02,2000-01-01 00:06:16,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,362,376,14
+2000-01-01 00:06:16,2000-01-01 00:06:21,pull finished part off live spinning lathe fixture,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,376,381,5
+2000-01-01 00:06:50,2000-01-01 00:06:56,press unmachined part onto live spinning lathe fixture,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,410,416,6
+2000-01-01 00:06:56,2000-01-01 00:07:32,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,416,452,36
+2000-01-01 00:07:32,2000-01-01 00:07:38,pull finished part off live spinning lathe fixture,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,452,458,6
+2000-01-01 00:07:38,2000-01-01 00:07:45,press unmachined part onto live spinning lathe fixture,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,458,465,7
+2000-01-01 00:07:45,2000-01-01 00:08:11,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,465,491,26
+2000-01-01 00:08:11,2000-01-01 00:08:17,adjust lathe toolpost with hand wrench mid-cut,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,491,497,6
+2000-01-01 00:08:17,2000-01-01 00:08:40,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,497,520,23
+2000-01-01 00:08:40,2000-01-01 00:08:46,pull finished part off live spinning lathe fixture,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,520,526,6
+2000-01-01 00:08:46,2000-01-01 00:09:14,hold finishing tool against neighboring spinning workpiece,component deburring and polishing,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,526,554,28
+2000-01-01 00:09:14,2000-01-01 00:09:20,press unmachined part onto live spinning lathe fixture,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,554,560,6
+2000-01-01 00:09:20,2000-01-01 00:09:42,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,560,582,22
+2000-01-01 00:09:42,2000-01-01 00:09:48,pull finished part off live spinning lathe fixture,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,582,588,6
+2000-01-01 00:09:56,2000-01-01 00:10:02,press unmachined part onto live spinning lathe fixture,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,596,602,6
+2000-01-01 00:10:02,2000-01-01 00:10:33,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,602,633,31
+2000-01-01 00:10:33,2000-01-01 00:10:39,pull finished part off live spinning lathe fixture,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,633,639,6
+2000-01-01 00:10:39,2000-01-01 00:10:55,measure part dimensions with manual caliper,dimensional quality inspection,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,639,655,16
+2000-01-01 00:10:55,2000-01-01 00:11:01,press unmachined part onto live spinning lathe fixture,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,655,661,6
+2000-01-01 00:11:01,2000-01-01 00:11:19,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,661,679,18
+2000-01-01 00:11:19,2000-01-01 00:11:24,adjust lathe toolpost with hand wrench mid-cut,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,679,684,5
+2000-01-01 00:11:24,2000-01-01 00:11:36,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,684,696,12
+2000-01-01 00:11:36,2000-01-01 00:11:41,pull finished part off live spinning lathe fixture,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,696,701,5
+2000-01-01 00:11:41,2000-01-01 00:11:47,press unmachined part onto live spinning lathe fixture,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,701,707,6
+2000-01-01 00:11:47,2000-01-01 00:12:20,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,707,740,33
+2000-01-01 00:12:20,2000-01-01 00:12:25,pull finished part off live spinning lathe fixture,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,740,745,5
+2000-01-01 00:12:25,2000-01-01 00:12:31,press unmachined part onto live spinning lathe fixture,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,745,751,6
+2000-01-01 00:12:31,2000-01-01 00:13:08,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,751,788,37
+2000-01-01 00:13:08,2000-01-01 00:13:14,pull finished part off live spinning lathe fixture,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,788,794,6
+2000-01-01 00:13:25,2000-01-01 00:13:31,press unmachined part onto live spinning lathe fixture,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,805,811,6
+2000-01-01 00:13:31,2000-01-01 00:14:03,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,811,843,32
+2000-01-01 00:14:03,2000-01-01 00:14:10,pull finished part off live spinning lathe fixture,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,843,850,7
+2000-01-01 00:14:10,2000-01-01 00:14:23,hold finishing tool against neighboring spinning workpiece,component deburring and polishing,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,850,863,13
+2000-01-01 00:14:23,2000-01-01 00:14:29,press unmachined part onto live spinning lathe fixture,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,863,869,6
+2000-01-01 00:14:29,2000-01-01 00:14:56,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,869,896,27
+2000-01-01 00:14:56,2000-01-01 00:15:02,pull finished part off live spinning lathe fixture,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,896,902,6
+2000-01-01 00:15:02,2000-01-01 00:15:08,press unmachined part onto live spinning lathe fixture,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,902,908,6
+2000-01-01 00:15:08,2000-01-01 00:15:35,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,908,935,27
+2000-01-01 00:15:35,2000-01-01 00:15:41,pull finished part off live spinning lathe fixture,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,935,941,6
+2000-01-01 00:15:41,2000-01-01 00:15:47,press unmachined part onto live spinning lathe fixture,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,941,947,6
+2000-01-01 00:15:47,2000-01-01 00:16:14,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,947,974,27
+2000-01-01 00:16:14,2000-01-01 00:16:20,pull finished part off live spinning lathe fixture,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,974,980,6
+2000-01-01 00:16:20,2000-01-01 00:16:26,press unmachined part onto live spinning lathe fixture,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,980,986,6
+2000-01-01 00:16:26,2000-01-01 00:16:53,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,986,1013,27
+2000-01-01 00:16:53,2000-01-01 00:16:59,pull finished part off live spinning lathe fixture,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,1013,1019,6
+2000-01-01 00:16:59,2000-01-01 00:17:05,press unmachined part onto live spinning lathe fixture,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,1019,1025,6
+2000-01-01 00:17:05,2000-01-01 00:17:32,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,1025,1052,27
+2000-01-01 00:17:32,2000-01-01 00:17:38,pull finished part off live spinning lathe fixture,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,1052,1058,6
+2000-01-01 00:17:38,2000-01-01 00:17:44,press unmachined part onto live spinning lathe fixture,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,1058,1064,6
+2000-01-01 00:17:44,2000-01-01 00:18:11,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,1064,1091,27
+2000-01-01 00:18:11,2000-01-01 00:18:18,pull finished part off live spinning lathe fixture,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,1091,1098,7
+2000-01-01 00:18:18,2000-01-01 00:18:24,press unmachined part onto live spinning lathe fixture,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,1098,1104,6
+2000-01-01 00:18:24,2000-01-01 00:18:49,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,1104,1129,25
+2000-01-01 00:18:49,2000-01-01 00:18:55,pull finished part off live spinning lathe fixture,manual lathe machining,factory_005,worker_012,factory005_worker012_00000.csv,factory_005_worker_012,1129,1135,6

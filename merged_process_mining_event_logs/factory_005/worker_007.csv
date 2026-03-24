@@ -1,0 +1,8 @@
+start_timestamp,end_timestamp,activity,process,factory,worker,source_file,case_id,start_seconds_from_video_start,end_seconds_from_video_start,duration_seconds
+2000-01-01 00:00:00,2000-01-01 00:00:55,pull drill press side lever,drill press machining,factory_005,worker_007,factory005_worker007_00000.csv,factory_005_worker_007,0,55,55
+2000-01-01 00:00:55,2000-01-01 00:01:06,disassemble guide plate and alignment pin,drill press machining,factory_005,worker_007,factory005_worker007_00000.csv,factory_005_worker_007,55,66,11
+2000-01-01 00:01:06,2000-01-01 00:02:57,pull drill press side lever,drill press machining,factory_005,worker_007,factory005_worker007_00000.csv,factory_005_worker_007,66,177,111
+2000-01-01 00:03:26,2000-01-01 00:09:51,pull drill press side lever,drill press machining,factory_005,worker_007,factory005_worker007_00000.csv,factory_005_worker_007,206,591,385
+2000-01-01 00:09:51,2000-01-01 00:10:00,place silver guide plate onto unmachined part,drill press machining,factory_005,worker_007,factory005_worker007_00000.csv,factory_005_worker_007,591,600,9
+2000-01-01 00:10:00,2000-01-01 00:10:13,secure guide plate with alignment pin,drill press machining,factory_005,worker_007,factory005_worker007_00000.csv,factory_005_worker_007,600,613,13
+2000-01-01 00:10:13,2000-01-01 00:19:42,pull drill press side lever,drill press machining,factory_005,worker_007,factory005_worker007_00000.csv,factory_005_worker_007,613,1182,569

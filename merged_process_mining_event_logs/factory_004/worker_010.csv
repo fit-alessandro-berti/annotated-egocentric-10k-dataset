@@ -1,0 +1,128 @@
+start_timestamp,end_timestamp,activity,process,factory,worker,source_file,case_id,start_seconds_from_video_start,end_seconds_from_video_start,duration_seconds
+2000-01-01 00:00:00,2000-01-01 00:00:23,Stack folded garment on table,Garment bagging,factory_004,worker_010,factory004_worker010_00000.csv,factory_004_worker_010,0,23,23
+2000-01-01 00:00:23,2000-01-01 00:01:10,Wrap printed cardboard sleeve around garment,Garment bagging,factory_004,worker_010,factory004_worker010_00000.csv,factory_004_worker_010,23,70,47
+2000-01-01 00:01:21,2000-01-01 00:04:10,Wrap printed cardboard sleeve around garment,Garment bagging,factory_004,worker_010,factory004_worker010_00000.csv,factory_004_worker_010,81,250,169
+2000-01-01 00:04:17,2000-01-01 00:04:24,Wrap printed cardboard sleeve around garment,Garment bagging,factory_004,worker_010,factory004_worker010_00000.csv,factory_004_worker_010,257,264,7
+2000-01-01 00:04:31,2000-01-01 00:05:05,Wrap printed cardboard sleeve around garment,Garment bagging,factory_004,worker_010,factory004_worker010_00000.csv,factory_004_worker_010,271,305,34
+2000-01-01 00:05:05,2000-01-01 00:05:10,Stack folded garment on table,Garment bagging,factory_004,worker_010,factory004_worker010_00000.csv,factory_004_worker_010,305,310,5
+2000-01-01 00:05:14,2000-01-01 00:06:48,Wrap printed cardboard sleeve around garment,Garment bagging,factory_004,worker_010,factory004_worker010_00000.csv,factory_004_worker_010,314,408,94
+2000-01-01 00:06:48,2000-01-01 00:07:09,Calculate production batch on smartphone,Production data logging,factory_004,worker_010,factory004_worker010_00000.csv,factory_004_worker_010,408,429,21
+2000-01-01 00:07:09,2000-01-01 00:07:44,Wrap printed cardboard sleeve around garment,Garment bagging,factory_004,worker_010,factory004_worker010_00000.csv,factory_004_worker_010,429,464,35
+2000-01-01 00:07:44,2000-01-01 00:07:54,Calculate production batch on smartphone,Production data logging,factory_004,worker_010,factory004_worker010_00000.csv,factory_004_worker_010,464,474,10
+2000-01-01 00:07:54,2000-01-01 00:08:14,Wrap printed cardboard sleeve around garment,Garment bagging,factory_004,worker_010,factory004_worker010_00000.csv,factory_004_worker_010,474,494,20
+2000-01-01 00:08:14,2000-01-01 00:08:28,Calculate production batch on smartphone,Production data logging,factory_004,worker_010,factory004_worker010_00000.csv,factory_004_worker_010,494,508,14
+2000-01-01 00:08:28,2000-01-01 00:08:49,Wrap printed cardboard sleeve around garment,Garment bagging,factory_004,worker_010,factory004_worker010_00000.csv,factory_004_worker_010,508,529,21
+2000-01-01 00:08:58,2000-01-01 00:09:26,Wrap printed cardboard sleeve around garment,Garment bagging,factory_004,worker_010,factory004_worker010_00000.csv,factory_004_worker_010,538,566,28
+2000-01-01 00:09:33,2000-01-01 00:10:17,Wrap printed cardboard sleeve around garment,Garment bagging,factory_004,worker_010,factory004_worker010_00000.csv,factory_004_worker_010,573,617,44
+2000-01-01 00:10:22,2000-01-01 00:10:53,Wrap printed cardboard sleeve around garment,Garment bagging,factory_004,worker_010,factory004_worker010_00000.csv,factory_004_worker_010,622,653,31
+2000-01-01 00:11:00,2000-01-01 00:12:47,Wrap printed cardboard sleeve around garment,Garment bagging,factory_004,worker_010,factory004_worker010_00000.csv,factory_004_worker_010,660,767,107
+2000-01-01 00:12:47,2000-01-01 00:12:56,Stack folded garment on table,Garment bagging,factory_004,worker_010,factory004_worker010_00000.csv,factory_004_worker_010,767,776,9
+2000-01-01 00:12:56,2000-01-01 00:14:26,Wrap printed cardboard sleeve around garment,Garment bagging,factory_004,worker_010,factory004_worker010_00000.csv,factory_004_worker_010,776,866,90
+2000-01-01 00:14:38,2000-01-01 00:16:11,Wrap printed cardboard sleeve around garment,Garment bagging,factory_004,worker_010,factory004_worker010_00000.csv,factory_004_worker_010,878,971,93
+2000-01-01 00:16:35,2000-01-01 00:16:42,Wrap printed cardboard sleeve around garment,Garment bagging,factory_004,worker_010,factory004_worker010_00000.csv,factory_004_worker_010,995,1002,7
+2000-01-01 00:16:55,2000-01-01 00:17:23,Wrap printed cardboard sleeve around garment,Garment bagging,factory_004,worker_010,factory004_worker010_00000.csv,factory_004_worker_010,1015,1043,28
+2000-01-01 00:17:28,2000-01-01 00:18:08,Wrap printed cardboard sleeve around garment,Garment bagging,factory_004,worker_010,factory004_worker010_00000.csv,factory_004_worker_010,1048,1088,40
+2000-01-01 00:18:13,2000-01-01 00:18:29,Wrap printed cardboard sleeve around garment,Garment bagging,factory_004,worker_010,factory004_worker010_00000.csv,factory_004_worker_010,1093,1109,16
+2000-01-01 00:18:32,2000-01-01 00:18:55,Wrap printed cardboard sleeve around garment,Garment bagging,factory_004,worker_010,factory004_worker010_00000.csv,factory_004_worker_010,1112,1135,23
+2000-01-01 00:19:02,2000-01-01 00:19:30,Wrap printed cardboard sleeve around garment,Garment bagging,factory_004,worker_010,factory004_worker010_00000.csv,factory_004_worker_010,1142,1170,28
+2000-01-01 00:19:36,2000-01-01 00:20:00,Wrap printed cardboard sleeve around garment,Garment bagging,factory_004,worker_010,factory004_worker010_00000.csv,factory_004_worker_010,1176,1200,24
+2000-01-01 00:20:00,2000-01-01 00:20:15,Wrap printed cardboard sleeve around garment,Garment folding,factory_004,worker_010,factory004_worker010_00001.csv,factory_004_worker_010,0,15,15
+2000-01-01 00:20:15,2000-01-01 00:20:46,Transport heavy fabric stack across factory floor,Material transport,factory_004,worker_010,factory004_worker010_00001.csv,factory_004_worker_010,15,46,31
+2000-01-01 00:20:46,2000-01-01 00:21:03,Transport heavy fabric stack across factory floor,Material transport,factory_004,worker_010,factory004_worker010_00001.csv,factory_004_worker_010,46,63,17
+2000-01-01 00:21:03,2000-01-01 00:22:08,Wrap printed cardboard sleeve around garment,Garment folding,factory_004,worker_010,factory004_worker010_00001.csv,factory_004_worker_010,63,128,65
+2000-01-01 00:22:08,2000-01-01 00:22:28,Transport heavy fabric stack across factory floor,Material transport,factory_004,worker_010,factory004_worker010_00001.csv,factory_004_worker_010,128,148,20
+2000-01-01 00:22:28,2000-01-01 00:22:55,Wrap printed cardboard sleeve around garment,Garment folding,factory_004,worker_010,factory004_worker010_00001.csv,factory_004_worker_010,148,175,27
+2000-01-01 00:22:55,2000-01-01 00:23:22,Transport heavy fabric stack across factory floor,Material transport,factory_004,worker_010,factory004_worker010_00001.csv,factory_004_worker_010,175,202,27
+2000-01-01 00:23:22,2000-01-01 00:24:00,Wrap printed cardboard sleeve around garment,Garment folding,factory_004,worker_010,factory004_worker010_00001.csv,factory_004_worker_010,202,240,38
+2000-01-01 00:24:25,2000-01-01 00:24:44,Transport heavy fabric stack across factory floor,Material transport,factory_004,worker_010,factory004_worker010_00001.csv,factory_004_worker_010,265,284,19
+2000-01-01 00:24:44,2000-01-01 00:25:22,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010,factory004_worker010_00001.csv,factory_004_worker_010,284,322,38
+2000-01-01 00:25:22,2000-01-01 00:26:48,Wrap printed cardboard sleeve around garment,Garment folding,factory_004,worker_010,factory004_worker010_00001.csv,factory_004_worker_010,322,408,86
+2000-01-01 00:26:48,2000-01-01 00:28:15,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010,factory004_worker010_00001.csv,factory_004_worker_010,408,495,87
+2000-01-01 00:28:15,2000-01-01 00:29:41,Wrap printed cardboard sleeve around garment,Garment folding,factory_004,worker_010,factory004_worker010_00001.csv,factory_004_worker_010,495,581,86
+2000-01-01 00:29:41,2000-01-01 00:31:08,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010,factory004_worker010_00001.csv,factory_004_worker_010,581,668,87
+2000-01-01 00:31:25,2000-01-01 00:31:45,Wrap printed cardboard sleeve around garment,Garment folding,factory_004,worker_010,factory004_worker010_00001.csv,factory_004_worker_010,685,705,20
+2000-01-01 00:31:45,2000-01-01 00:32:05,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010,factory004_worker010_00001.csv,factory_004_worker_010,705,725,20
+2000-01-01 00:32:13,2000-01-01 00:32:46,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010,factory004_worker010_00001.csv,factory_004_worker_010,733,766,33
+2000-01-01 00:33:02,2000-01-01 00:33:34,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010,factory004_worker010_00001.csv,factory_004_worker_010,782,814,32
+2000-01-01 00:34:00,2000-01-01 00:34:10,Transport heavy fabric stack across factory floor,Material transport,factory_004,worker_010,factory004_worker010_00001.csv,factory_004_worker_010,840,850,10
+2000-01-01 00:34:59,2000-01-01 00:35:09,Calculate production batch on smartphone,Production data logging,factory_004,worker_010,factory004_worker010_00001.csv,factory_004_worker_010,899,909,10
+2000-01-01 00:37:02,2000-01-01 00:39:27,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010,factory004_worker010_00001.csv,factory_004_worker_010,1022,1167,145
+2000-01-01 00:39:46,2000-01-01 00:40:00,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010,factory004_worker010_00001.csv,factory_004_worker_010,1186,1200,14
+2000-01-01 00:40:00,2000-01-01 00:40:28,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010,factory004_worker010_00002.csv,factory_004_worker_010,0,28,28
+2000-01-01 00:40:46,2000-01-01 00:42:18,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010,factory004_worker010_00002.csv,factory_004_worker_010,46,138,92
+2000-01-01 00:42:18,2000-01-01 00:42:27,Drag thick fabric bundle across table,Material transport,factory_004,worker_010,factory004_worker010_00002.csv,factory_004_worker_010,138,147,9
+2000-01-01 00:42:27,2000-01-01 00:42:34,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010,factory004_worker010_00002.csv,factory_004_worker_010,147,154,7
+2000-01-01 00:42:49,2000-01-01 00:44:47,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010,factory004_worker010_00002.csv,factory_004_worker_010,169,287,118
+2000-01-01 00:44:58,2000-01-01 00:46:33,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010,factory004_worker010_00002.csv,factory_004_worker_010,298,393,95
+2000-01-01 00:46:45,2000-01-01 00:47:35,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010,factory004_worker010_00002.csv,factory_004_worker_010,405,455,50
+2000-01-01 00:47:44,2000-01-01 00:48:50,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010,factory004_worker010_00002.csv,factory_004_worker_010,464,530,66
+2000-01-01 00:49:00,2000-01-01 00:50:08,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010,factory004_worker010_00002.csv,factory_004_worker_010,540,608,68
+2000-01-01 00:50:18,2000-01-01 00:51:09,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010,factory004_worker010_00002.csv,factory_004_worker_010,618,669,51
+2000-01-01 00:51:09,2000-01-01 00:51:22,Drag thick fabric bundle across table,Material transport,factory_004,worker_010,factory004_worker010_00002.csv,factory_004_worker_010,669,682,13
+2000-01-01 00:51:22,2000-01-01 00:52:25,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010,factory004_worker010_00002.csv,factory_004_worker_010,682,745,63
+2000-01-01 00:52:35,2000-01-01 00:53:23,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010,factory004_worker010_00002.csv,factory_004_worker_010,755,803,48
+2000-01-01 00:53:30,2000-01-01 00:54:17,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010,factory004_worker010_00002.csv,factory_004_worker_010,810,857,47
+2000-01-01 00:54:26,2000-01-01 00:54:48,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010,factory004_worker010_00002.csv,factory_004_worker_010,866,888,22
+2000-01-01 00:54:48,2000-01-01 00:55:00,Drag thick fabric bundle across table,Material transport,factory_004,worker_010,factory004_worker010_00002.csv,factory_004_worker_010,888,900,12
+2000-01-01 00:55:00,2000-01-01 00:57:10,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010,factory004_worker010_00002.csv,factory_004_worker_010,900,1030,130
+2000-01-01 00:57:21,2000-01-01 00:57:48,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010,factory004_worker010_00002.csv,factory_004_worker_010,1041,1068,27
+2000-01-01 00:57:55,2000-01-01 00:58:18,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010,factory004_worker010_00002.csv,factory_004_worker_010,1075,1098,23
+2000-01-01 00:58:18,2000-01-01 00:58:25,Drag thick fabric bundle across table,Material transport,factory_004,worker_010,factory004_worker010_00002.csv,factory_004_worker_010,1098,1105,7
+2000-01-01 00:58:25,2000-01-01 00:58:49,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010,factory004_worker010_00002.csv,factory_004_worker_010,1105,1129,24
+2000-01-01 00:58:58,2000-01-01 01:00:00,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010,factory004_worker010_00002.csv,factory_004_worker_010,1138,1200,62
+2000-01-01 01:00:07,2000-01-01 01:00:10,Pull unmarked garment from pile,Garment folding,factory_004,worker_010,factory004_worker010_00003.csv,factory_004_worker_010,7,10,3
+2000-01-01 01:00:10,2000-01-01 01:03:07,Wrap printed cardboard sleeve around garment,Garment folding,factory_004,worker_010,factory004_worker010_00003.csv,factory_004_worker_010,10,187,177
+2000-01-01 01:03:20,2000-01-01 01:04:42,Wrap printed cardboard sleeve around garment,Garment folding,factory_004,worker_010,factory004_worker010_00003.csv,factory_004_worker_010,200,282,82
+2000-01-01 01:04:42,2000-01-01 01:05:27,Fetch loose garments from floor mat,Material transport,factory_004,worker_010,factory004_worker010_00003.csv,factory_004_worker_010,282,327,45
+2000-01-01 01:05:27,2000-01-01 01:08:30,Wrap printed cardboard sleeve around garment,Garment folding,factory_004,worker_010,factory004_worker010_00003.csv,factory_004_worker_010,327,510,183
+2000-01-01 01:08:30,2000-01-01 01:08:48,Calculate production batch on smartphone,Production data logging,factory_004,worker_010,factory004_worker010_00003.csv,factory_004_worker_010,510,528,18
+2000-01-01 01:08:48,2000-01-01 01:15:42,Wrap printed cardboard sleeve around garment,Garment folding,factory_004,worker_010,factory004_worker010_00003.csv,factory_004_worker_010,528,942,414
+2000-01-01 01:15:42,2000-01-01 01:16:11,Transport heavy fabric stack across factory floor,Material transport,factory_004,worker_010,factory004_worker010_00003.csv,factory_004_worker_010,942,971,29
+2000-01-01 01:16:40,2000-01-01 01:17:28,Wrap printed cardboard sleeve around garment,Garment folding,factory_004,worker_010,factory004_worker010_00003.csv,factory_004_worker_010,1000,1048,48
+2000-01-01 01:17:39,2000-01-01 01:19:02,Wrap printed cardboard sleeve around garment,Garment folding,factory_004,worker_010,factory004_worker010_00003.csv,factory_004_worker_010,1059,1142,83
+2000-01-01 01:19:32,2000-01-01 01:20:05,Wrap printed cardboard sleeve around garment,Garment folding,factory_004,worker_010,factory004_worker010_00004.csv,factory_004_worker_010,30,63,33
+2000-01-01 01:20:05,2000-01-01 01:22:01,Wrap printed cardboard sleeve around garment,Garment folding,factory_004,worker_010,factory004_worker010_00004.csv,factory_004_worker_010,63,179,116
+2000-01-01 01:22:01,2000-01-01 01:22:11,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010,factory004_worker010_00004.csv,factory_004_worker_010,179,189,10
+2000-01-01 01:22:11,2000-01-01 01:22:16,Calculate production batch on smartphone,Production data logging,factory_004,worker_010,factory004_worker010_00004.csv,factory_004_worker_010,189,194,5
+2000-01-01 01:22:16,2000-01-01 01:23:04,Wrap printed cardboard sleeve around garment,Garment folding,factory_004,worker_010,factory004_worker010_00004.csv,factory_004_worker_010,194,242,48
+2000-01-01 01:23:04,2000-01-01 01:23:11,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010,factory004_worker010_00004.csv,factory_004_worker_010,242,249,7
+2000-01-01 01:23:11,2000-01-01 01:23:46,Wrap printed cardboard sleeve around garment,Garment folding,factory_004,worker_010,factory004_worker010_00004.csv,factory_004_worker_010,249,284,35
+2000-01-01 01:23:46,2000-01-01 01:23:54,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010,factory004_worker010_00004.csv,factory_004_worker_010,284,292,8
+2000-01-01 01:23:54,2000-01-01 01:25:07,Wrap printed cardboard sleeve around garment,Garment folding,factory_004,worker_010,factory004_worker010_00004.csv,factory_004_worker_010,292,365,73
+2000-01-01 01:25:07,2000-01-01 01:25:14,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010,factory004_worker010_00004.csv,factory_004_worker_010,365,372,7
+2000-01-01 01:25:14,2000-01-01 01:25:28,Wrap printed cardboard sleeve around garment,Garment folding,factory_004,worker_010,factory004_worker010_00004.csv,factory_004_worker_010,372,386,14
+2000-01-01 01:25:28,2000-01-01 01:25:35,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010,factory004_worker010_00004.csv,factory_004_worker_010,386,393,7
+2000-01-01 01:25:35,2000-01-01 01:26:06,Wrap printed cardboard sleeve around garment,Garment folding,factory_004,worker_010,factory004_worker010_00004.csv,factory_004_worker_010,393,424,31
+2000-01-01 01:26:06,2000-01-01 01:26:13,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010,factory004_worker010_00004.csv,factory_004_worker_010,424,431,7
+2000-01-01 01:26:13,2000-01-01 01:26:49,Wrap printed cardboard sleeve around garment,Garment folding,factory_004,worker_010,factory004_worker010_00004.csv,factory_004_worker_010,431,467,36
+2000-01-01 01:26:49,2000-01-01 01:26:56,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010,factory004_worker010_00004.csv,factory_004_worker_010,467,474,7
+2000-01-01 01:26:56,2000-01-01 01:27:20,Wrap printed cardboard sleeve around garment,Garment folding,factory_004,worker_010,factory004_worker010_00004.csv,factory_004_worker_010,474,498,24
+2000-01-01 01:27:20,2000-01-01 01:27:28,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010,factory004_worker010_00004.csv,factory_004_worker_010,498,506,8
+2000-01-01 01:27:28,2000-01-01 01:27:37,Calculate production batch on smartphone,Production data logging,factory_004,worker_010,factory004_worker010_00004.csv,factory_004_worker_010,506,515,9
+2000-01-01 01:27:54,2000-01-01 01:28:46,Wrap printed cardboard sleeve around garment,Garment folding,factory_004,worker_010,factory004_worker010_00004.csv,factory_004_worker_010,532,584,52
+2000-01-01 01:28:46,2000-01-01 01:28:53,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010,factory004_worker010_00004.csv,factory_004_worker_010,584,591,7
+2000-01-01 01:28:53,2000-01-01 01:29:46,Wrap printed cardboard sleeve around garment,Garment folding,factory_004,worker_010,factory004_worker010_00004.csv,factory_004_worker_010,591,644,53
+2000-01-01 01:29:46,2000-01-01 01:29:54,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010,factory004_worker010_00004.csv,factory_004_worker_010,644,652,8
+2000-01-01 01:29:54,2000-01-01 01:30:26,Wrap printed cardboard sleeve around garment,Garment folding,factory_004,worker_010,factory004_worker010_00004.csv,factory_004_worker_010,652,684,32
+2000-01-01 01:30:26,2000-01-01 01:30:33,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010,factory004_worker010_00004.csv,factory_004_worker_010,684,691,7
+2000-01-01 01:30:33,2000-01-01 01:31:04,Wrap printed cardboard sleeve around garment,Garment folding,factory_004,worker_010,factory004_worker010_00004.csv,factory_004_worker_010,691,722,31
+2000-01-01 01:31:04,2000-01-01 01:31:12,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010,factory004_worker010_00004.csv,factory_004_worker_010,722,730,8
+2000-01-01 01:31:12,2000-01-01 01:31:45,Wrap printed cardboard sleeve around garment,Garment folding,factory_004,worker_010,factory004_worker010_00004.csv,factory_004_worker_010,730,763,33
+2000-01-01 01:31:45,2000-01-01 01:31:52,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010,factory004_worker010_00004.csv,factory_004_worker_010,763,770,7
+2000-01-01 01:31:52,2000-01-01 01:32:48,Wrap printed cardboard sleeve around garment,Garment folding,factory_004,worker_010,factory004_worker010_00004.csv,factory_004_worker_010,770,826,56
+2000-01-01 01:32:48,2000-01-01 01:32:54,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010,factory004_worker010_00004.csv,factory_004_worker_010,826,832,6
+2000-01-01 01:32:54,2000-01-01 01:33:25,Wrap printed cardboard sleeve around garment,Garment folding,factory_004,worker_010,factory004_worker010_00004.csv,factory_004_worker_010,832,863,31
+2000-01-01 01:33:25,2000-01-01 01:33:31,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010,factory004_worker010_00004.csv,factory_004_worker_010,863,869,6
+2000-01-01 01:33:31,2000-01-01 01:34:09,Wrap printed cardboard sleeve around garment,Garment folding,factory_004,worker_010,factory004_worker010_00004.csv,factory_004_worker_010,869,907,38
+2000-01-01 01:34:09,2000-01-01 01:34:15,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010,factory004_worker010_00004.csv,factory_004_worker_010,907,913,6
+2000-01-01 01:34:15,2000-01-01 01:35:28,Wrap printed cardboard sleeve around garment,Garment folding,factory_004,worker_010,factory004_worker010_00004.csv,factory_004_worker_010,913,986,73
+2000-01-01 01:35:28,2000-01-01 01:35:34,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010,factory004_worker010_00004.csv,factory_004_worker_010,986,992,6
+2000-01-01 01:35:34,2000-01-01 01:36:25,Wrap printed cardboard sleeve around garment,Garment folding,factory_004,worker_010,factory004_worker010_00004.csv,factory_004_worker_010,992,1043,51
+2000-01-01 01:36:25,2000-01-01 01:36:32,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010,factory004_worker010_00004.csv,factory_004_worker_010,1043,1050,7
+2000-01-01 01:36:51,2000-01-01 01:37:12,Wrap printed cardboard sleeve around garment,Garment folding,factory_004,worker_010,factory004_worker010_00004.csv,factory_004_worker_010,1069,1090,21
+2000-01-01 01:37:12,2000-01-01 01:37:18,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010,factory004_worker010_00004.csv,factory_004_worker_010,1090,1096,6
+2000-01-01 01:37:18,2000-01-01 01:38:10,Wrap printed cardboard sleeve around garment,Garment folding,factory_004,worker_010,factory004_worker010_00004.csv,factory_004_worker_010,1096,1148,52
+2000-01-01 01:38:10,2000-01-01 01:38:18,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010,factory004_worker010_00004.csv,factory_004_worker_010,1148,1156,8
+2000-01-01 01:38:18,2000-01-01 01:38:37,Wrap printed cardboard sleeve around garment,Garment folding,factory_004,worker_010,factory004_worker010_00004.csv,factory_004_worker_010,1156,1175,19
+2000-01-01 01:38:37,2000-01-01 01:38:44,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010,factory004_worker010_00004.csv,factory_004_worker_010,1175,1182,7
+2000-01-01 01:38:44,2000-01-01 01:39:02,Wrap printed cardboard sleeve around garment,Garment folding,factory_004,worker_010,factory004_worker010_00004.csv,factory_004_worker_010,1182,1200,18

@@ -1,0 +1,50 @@
+start_timestamp,end_timestamp,activity,process,factory,worker,source_file,case_id,start_seconds_from_video_start,end_seconds_from_video_start,duration_seconds
+2000-01-01 00:00:00,2000-01-01 00:00:16,freehand fold t-shirt,Fabric folding,factory_002,worker_003,factory002_worker003_00000.csv,factory_002_worker_003,0,16,16
+2000-01-01 00:00:16,2000-01-01 00:00:33,tie white string to hanger,Hanger assembly,factory_002,worker_003,factory002_worker003_00000.csv,factory_002_worker_003,16,33,17
+2000-01-01 00:00:33,2000-01-01 00:01:40,tie white string to hanger,Hanger assembly,factory_002,worker_003,factory002_worker003_00000.csv,factory_002_worker_003,33,100,67
+2000-01-01 00:01:40,2000-01-01 00:02:12,transfer fabric stack to floor board,Material transport,factory_002,worker_003,factory002_worker003_00000.csv,factory_002_worker_003,100,132,32
+2000-01-01 00:02:12,2000-01-01 00:03:59,tie white string to hanger,Hanger assembly,factory_002,worker_003,factory002_worker003_00000.csv,factory_002_worker_003,132,239,107
+2000-01-01 00:03:59,2000-01-01 00:04:12,transfer fabric stack to floor board,Material transport,factory_002,worker_003,factory002_worker003_00000.csv,factory_002_worker_003,239,252,13
+2000-01-01 00:04:12,2000-01-01 00:04:18,sweep loose threads off work table,Floor auditing,factory_002,worker_003,factory002_worker003_00000.csv,factory_002_worker_003,252,258,6
+2000-01-01 00:04:18,2000-01-01 00:04:31,transfer fabric stack to floor board,Material transport,factory_002,worker_003,factory002_worker003_00000.csv,factory_002_worker_003,258,271,13
+2000-01-01 00:04:31,2000-01-01 00:09:16,tie white string to hanger,Hanger assembly,factory_002,worker_003,factory002_worker003_00000.csv,factory_002_worker_003,271,556,285
+2000-01-01 00:09:16,2000-01-01 00:09:44,transfer fabric stack to floor board,Material transport,factory_002,worker_003,factory002_worker003_00000.csv,factory_002_worker_003,556,584,28
+2000-01-01 00:09:44,2000-01-01 00:10:55,tie white string to hanger,Hanger assembly,factory_002,worker_003,factory002_worker003_00000.csv,factory_002_worker_003,584,655,71
+2000-01-01 00:10:55,2000-01-01 00:11:15,transfer fabric stack to floor board,Material transport,factory_002,worker_003,factory002_worker003_00000.csv,factory_002_worker_003,655,675,20
+2000-01-01 00:11:15,2000-01-01 00:11:34,transfer fabric stack to floor board,Material transport,factory_002,worker_003,factory002_worker003_00000.csv,factory_002_worker_003,675,694,19
+2000-01-01 00:11:34,2000-01-01 00:13:40,tie white string to hanger,Hanger assembly,factory_002,worker_003,factory002_worker003_00000.csv,factory_002_worker_003,694,820,126
+2000-01-01 00:13:40,2000-01-01 00:14:00,transfer fabric stack to floor board,Material transport,factory_002,worker_003,factory002_worker003_00000.csv,factory_002_worker_003,820,840,20
+2000-01-01 00:14:00,2000-01-01 00:15:13,tie white string to hanger,Hanger assembly,factory_002,worker_003,factory002_worker003_00000.csv,factory_002_worker_003,840,913,73
+2000-01-01 00:15:13,2000-01-01 00:15:35,transfer fabric stack to floor board,Material transport,factory_002,worker_003,factory002_worker003_00000.csv,factory_002_worker_003,913,935,22
+2000-01-01 00:15:35,2000-01-01 00:18:07,tie white string to hanger,Hanger assembly,factory_002,worker_003,factory002_worker003_00000.csv,factory_002_worker_003,935,1087,152
+2000-01-01 00:18:07,2000-01-01 00:18:29,transfer fabric stack to floor board,Material transport,factory_002,worker_003,factory002_worker003_00000.csv,factory_002_worker_003,1087,1109,22
+2000-01-01 00:18:29,2000-01-01 00:20:00,tie white string to hanger,Hanger assembly,factory_002,worker_003,factory002_worker003_00000.csv,factory_002_worker_003,1109,1200,91
+2000-01-01 00:20:36,2000-01-01 00:20:38,distribute white cardboard sheets to adjacent stations,Material transport,factory_002,worker_003,factory002_worker003_00001.csv,factory_002_worker_003,36,38,2
+2000-01-01 00:20:41,2000-01-01 00:20:56,transfer packaged stacks into wire-mesh cage cart,Material transport,factory_002,worker_003,factory002_worker003_00001.csv,factory_002_worker_003,41,56,15
+2000-01-01 00:21:15,2000-01-01 00:40:00,cut clear tape with standard desktop dispenser,Garment bagging,factory_002,worker_003,factory002_worker003_00001.csv,factory_002_worker_003,75,1200,1125
+2000-01-01 00:40:00,2000-01-01 00:48:13,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_003,factory002_worker003_00002.csv,factory_002_worker_003,0,493,493
+2000-01-01 00:51:23,2000-01-01 00:51:40,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_003,factory002_worker003_00002.csv,factory_002_worker_003,683,700,17
+2000-01-01 00:51:40,2000-01-01 00:56:01,tape cardboard band closed,Cardboard wrapping,factory_002,worker_003,factory002_worker003_00002.csv,factory_002_worker_003,700,961,261
+2000-01-01 00:56:34,2000-01-01 00:58:05,tape cardboard band closed,Cardboard wrapping,factory_002,worker_003,factory002_worker003_00002.csv,factory_002_worker_003,994,1085,91
+2000-01-01 00:58:05,2000-01-01 00:58:13,drop packaged garments into bulk box,Box packing,factory_002,worker_003,factory002_worker003_00002.csv,factory_002_worker_003,1085,1093,8
+2000-01-01 00:58:29,2000-01-01 00:59:40,tape cardboard band closed,Cardboard wrapping,factory_002,worker_003,factory002_worker003_00002.csv,factory_002_worker_003,1109,1180,71
+2000-01-01 00:59:40,2000-01-01 01:00:00,fold bottom flaps of empty cardboard box,Box assembly,factory_002,worker_003,factory002_worker003_00002.csv,factory_002_worker_003,1180,1200,20
+2000-01-01 01:00:00,2000-01-01 01:02:02,attach green tag to garment collar with tagging gun,Garment tagging,factory_002,worker_003,factory002_worker003_00003.csv,factory_002_worker_003,0,122,122
+2000-01-01 01:02:10,2000-01-01 01:05:21,attach green tag to garment collar with tagging gun,Garment tagging,factory_002,worker_003,factory002_worker003_00003.csv,factory_002_worker_003,130,321,191
+2000-01-01 01:05:40,2000-01-01 01:06:14,attach green tag to garment collar with tagging gun,Garment tagging,factory_002,worker_003,factory002_worker003_00003.csv,factory_002_worker_003,340,374,34
+2000-01-01 01:06:26,2000-01-01 01:07:31,tie loose hangers into bundles with string,Hanger assembly,factory_002,worker_003,factory002_worker003_00003.csv,factory_002_worker_003,386,451,65
+2000-01-01 01:07:44,2000-01-01 01:09:54,tie loose hangers into bundles with string,Hanger assembly,factory_002,worker_003,factory002_worker003_00003.csv,factory_002_worker_003,464,594,130
+2000-01-01 01:10:07,2000-01-01 01:11:27,untie string from hanger bundle,Hanger assembly,factory_002,worker_003,factory002_worker003_00003.csv,factory_002_worker_003,607,687,80
+2000-01-01 01:11:51,2000-01-01 01:16:53,attach green tag to garment collar with tagging gun,Garment tagging,factory_002,worker_003,factory002_worker003_00003.csv,factory_002_worker_003,711,1013,302
+2000-01-01 01:16:58,2000-01-01 01:20:00,attach green tag to garment collar with tagging gun,Garment tagging,factory_002,worker_003,factory002_worker003_00003.csv,factory_002_worker_003,1018,1200,182
+2000-01-01 01:20:00,2000-01-01 01:25:22,loop red rubber band onto hanger hook,Hanger assembly,factory_002,worker_003,factory002_worker003_00004.csv,factory_002_worker_003,0,322,322
+2000-01-01 01:20:00,2000-01-01 01:25:22,snap plastic hanger pieces together,Hanger assembly,factory_002,worker_003,factory002_worker003_00004.csv,factory_002_worker_003,0,322,322
+2000-01-01 01:25:23,2000-01-01 01:28:49,attach clip hanger to folded pants,Hanger assembly,factory_002,worker_003,factory002_worker003_00004.csv,factory_002_worker_003,323,529,206
+2000-01-01 01:25:23,2000-01-01 01:28:49,fold bottom section of fabric,Fabric folding,factory_002,worker_003,factory002_worker003_00004.csv,factory_002_worker_003,323,529,206
+2000-01-01 01:25:23,2000-01-01 01:28:49,fold sides of fabric inward,Fabric folding,factory_002,worker_003,factory002_worker003_00004.csv,factory_002_worker_003,323,529,206
+2000-01-01 01:28:56,2000-01-01 01:34:50,attach clip hanger to folded pants,Hanger assembly,factory_002,worker_003,factory002_worker003_00004.csv,factory_002_worker_003,536,890,354
+2000-01-01 01:28:56,2000-01-01 01:34:50,fold bottom section of fabric,Fabric folding,factory_002,worker_003,factory002_worker003_00004.csv,factory_002_worker_003,536,890,354
+2000-01-01 01:28:56,2000-01-01 01:34:50,fold sides of fabric inward,Fabric folding,factory_002,worker_003,factory002_worker003_00004.csv,factory_002_worker_003,536,890,354
+2000-01-01 01:35:05,2000-01-01 01:40:00,attach clip hanger to folded pants,Hanger assembly,factory_002,worker_003,factory002_worker003_00004.csv,factory_002_worker_003,905,1200,295
+2000-01-01 01:35:05,2000-01-01 01:40:00,fold bottom section of fabric,Fabric folding,factory_002,worker_003,factory002_worker003_00004.csv,factory_002_worker_003,905,1200,295
+2000-01-01 01:35:05,2000-01-01 01:40:00,fold sides of fabric inward,Fabric folding,factory_002,worker_003,factory002_worker003_00004.csv,factory_002_worker_003,905,1200,295

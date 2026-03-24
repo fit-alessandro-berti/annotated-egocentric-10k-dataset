@@ -1,0 +1,115 @@
+start_timestamp,end_timestamp,activity,process,factory,worker,source_file,case_id,start_seconds_from_video_start,end_seconds_from_video_start,duration_seconds
+2000-01-01 00:00:00,2000-01-01 00:00:15,Iron folded garment with steam iron,Garment ironing,factory_004,worker_007,factory004_worker007_00000.csv,factory_004_worker_007,0,15,15
+2000-01-01 00:00:15,2000-01-01 00:00:23,Snap large cardboard sheet in half,Garment folding,factory_004,worker_007,factory004_worker007_00000.csv,factory_004_worker_007,15,23,8
+2000-01-01 00:00:23,2000-01-01 00:04:22,Fold garment sleeves inward,Garment folding,factory_004,worker_007,factory004_worker007_00000.csv,factory_004_worker_007,23,262,239
+2000-01-01 00:04:30,2000-01-01 00:04:59,Calculate production batch on smartphone,Production data logging,factory_004,worker_007,factory004_worker007_00000.csv,factory_004_worker_007,270,299,29
+2000-01-01 00:05:25,2000-01-01 00:11:46,Fold garment sleeves inward,Garment folding,factory_004,worker_007,factory004_worker007_00000.csv,factory_004_worker_007,325,706,381
+2000-01-01 00:11:46,2000-01-01 00:12:40,Calculate production batch on smartphone,Production data logging,factory_004,worker_007,factory004_worker007_00000.csv,factory_004_worker_007,706,760,54
+2000-01-01 00:12:40,2000-01-01 00:14:14,Fold garment sleeves inward,Garment folding,factory_004,worker_007,factory004_worker007_00000.csv,factory_004_worker_007,760,854,94
+2000-01-01 00:14:14,2000-01-01 00:14:46,Transport heavy fabric stack across factory floor,Material transport,factory_004,worker_007,factory004_worker007_00000.csv,factory_004_worker_007,854,886,32
+2000-01-01 00:14:46,2000-01-01 00:16:28,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_007,factory004_worker007_00000.csv,factory_004_worker_007,886,988,102
+2000-01-01 00:16:28,2000-01-01 00:17:52,Fold garment sleeves inward,Garment folding,factory_004,worker_007,factory004_worker007_00000.csv,factory_004_worker_007,988,1072,84
+2000-01-01 00:17:52,2000-01-01 00:18:24,Calculate production batch on smartphone,Production data logging,factory_004,worker_007,factory004_worker007_00000.csv,factory_004_worker_007,1072,1104,32
+2000-01-01 00:18:24,2000-01-01 00:19:04,Fold garment sleeves inward,Garment folding,factory_004,worker_007,factory004_worker007_00000.csv,factory_004_worker_007,1104,1144,40
+2000-01-01 00:19:22,2000-01-01 00:20:00,Fold garment sleeves inward,Garment folding,factory_004,worker_007,factory004_worker007_00000.csv,factory_004_worker_007,1162,1200,38
+2000-01-01 00:20:00,2000-01-01 00:21:28,Iron folded garment with steam iron,Garment ironing,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,0,88,88
+2000-01-01 00:21:44,2000-01-01 00:22:11,Iron folded garment with steam iron,Garment ironing,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,104,131,27
+2000-01-01 00:22:44,2000-01-01 00:23:00,Mark fabric piece with blue pen,Production data logging,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,164,180,16
+2000-01-01 00:23:22,2000-01-01 00:24:10,Iron folded garment with steam iron,Garment ironing,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,202,250,48
+2000-01-01 00:24:10,2000-01-01 00:24:13,Snap large cardboard sheet in half,Garment folding,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,250,253,3
+2000-01-01 00:24:13,2000-01-01 00:25:00,Iron folded garment with steam iron,Garment ironing,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,253,300,47
+2000-01-01 00:25:00,2000-01-01 00:25:03,Snap large cardboard sheet in half,Garment folding,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,300,303,3
+2000-01-01 00:25:03,2000-01-01 00:26:06,Iron folded garment with steam iron,Garment ironing,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,303,366,63
+2000-01-01 00:26:06,2000-01-01 00:26:09,Snap large cardboard sheet in half,Garment folding,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,366,369,3
+2000-01-01 00:26:09,2000-01-01 00:26:33,Iron folded garment with steam iron,Garment ironing,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,369,393,24
+2000-01-01 00:26:33,2000-01-01 00:26:36,Snap large cardboard sheet in half,Garment folding,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,393,396,3
+2000-01-01 00:26:36,2000-01-01 00:26:55,Iron folded garment with steam iron,Garment ironing,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,396,415,19
+2000-01-01 00:26:55,2000-01-01 00:26:57,Snap large cardboard sheet in half,Garment folding,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,415,417,2
+2000-01-01 00:26:57,2000-01-01 00:27:22,Iron folded garment with steam iron,Garment ironing,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,417,442,25
+2000-01-01 00:27:22,2000-01-01 00:27:24,Snap large cardboard sheet in half,Garment folding,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,442,444,2
+2000-01-01 00:27:24,2000-01-01 00:28:29,Iron folded garment with steam iron,Garment ironing,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,444,509,65
+2000-01-01 00:28:29,2000-01-01 00:28:32,Snap large cardboard sheet in half,Garment folding,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,509,512,3
+2000-01-01 00:28:32,2000-01-01 00:28:55,Iron folded garment with steam iron,Garment ironing,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,512,535,23
+2000-01-01 00:28:55,2000-01-01 00:28:58,Snap large cardboard sheet in half,Garment folding,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,535,538,3
+2000-01-01 00:28:58,2000-01-01 00:29:18,Iron folded garment with steam iron,Garment ironing,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,538,558,20
+2000-01-01 00:29:18,2000-01-01 00:29:21,Snap large cardboard sheet in half,Garment folding,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,558,561,3
+2000-01-01 00:29:21,2000-01-01 00:29:44,Iron folded garment with steam iron,Garment ironing,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,561,584,23
+2000-01-01 00:29:44,2000-01-01 00:29:46,Snap large cardboard sheet in half,Garment folding,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,584,586,2
+2000-01-01 00:29:46,2000-01-01 00:30:07,Iron folded garment with steam iron,Garment ironing,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,586,607,21
+2000-01-01 00:30:07,2000-01-01 00:30:09,Snap large cardboard sheet in half,Garment folding,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,607,609,2
+2000-01-01 00:30:09,2000-01-01 00:30:34,Iron folded garment with steam iron,Garment ironing,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,609,634,25
+2000-01-01 00:30:34,2000-01-01 00:30:36,Snap large cardboard sheet in half,Garment folding,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,634,636,2
+2000-01-01 00:30:36,2000-01-01 00:31:01,Iron folded garment with steam iron,Garment ironing,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,636,661,25
+2000-01-01 00:31:01,2000-01-01 00:31:03,Snap large cardboard sheet in half,Garment folding,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,661,663,2
+2000-01-01 00:31:03,2000-01-01 00:31:28,Iron folded garment with steam iron,Garment ironing,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,663,688,25
+2000-01-01 00:31:28,2000-01-01 00:31:31,Snap large cardboard sheet in half,Garment folding,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,688,691,3
+2000-01-01 00:31:31,2000-01-01 00:31:49,Iron folded garment with steam iron,Garment ironing,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,691,709,18
+2000-01-01 00:31:49,2000-01-01 00:31:52,Snap large cardboard sheet in half,Garment folding,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,709,712,3
+2000-01-01 00:31:52,2000-01-01 00:32:19,Iron folded garment with steam iron,Garment ironing,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,712,739,27
+2000-01-01 00:32:19,2000-01-01 00:32:21,Snap large cardboard sheet in half,Garment folding,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,739,741,2
+2000-01-01 00:32:21,2000-01-01 00:32:24,Stack folded garment on table,Garment folding,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,741,744,3
+2000-01-01 00:32:24,2000-01-01 00:32:41,Iron folded garment with steam iron,Garment ironing,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,744,761,17
+2000-01-01 00:32:41,2000-01-01 00:32:44,Snap large cardboard sheet in half,Garment folding,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,761,764,3
+2000-01-01 00:32:44,2000-01-01 00:33:08,Iron folded garment with steam iron,Garment ironing,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,764,788,24
+2000-01-01 00:33:08,2000-01-01 00:33:10,Snap large cardboard sheet in half,Garment folding,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,788,790,2
+2000-01-01 00:33:10,2000-01-01 00:33:33,Iron folded garment with steam iron,Garment ironing,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,790,813,23
+2000-01-01 00:33:33,2000-01-01 00:33:35,Snap large cardboard sheet in half,Garment folding,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,813,815,2
+2000-01-01 00:33:35,2000-01-01 00:34:04,Iron folded garment with steam iron,Garment ironing,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,815,844,29
+2000-01-01 00:34:04,2000-01-01 00:34:07,Snap large cardboard sheet in half,Garment folding,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,844,847,3
+2000-01-01 00:34:07,2000-01-01 00:34:36,Iron folded garment with steam iron,Garment ironing,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,847,876,29
+2000-01-01 00:34:36,2000-01-01 00:34:39,Snap large cardboard sheet in half,Garment folding,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,876,879,3
+2000-01-01 00:34:39,2000-01-01 00:35:06,Iron folded garment with steam iron,Garment ironing,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,879,906,27
+2000-01-01 00:35:06,2000-01-01 00:35:09,Snap large cardboard sheet in half,Garment folding,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,906,909,3
+2000-01-01 00:35:09,2000-01-01 00:35:47,Iron folded garment with steam iron,Garment ironing,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,909,947,38
+2000-01-01 00:35:47,2000-01-01 00:35:50,Snap large cardboard sheet in half,Garment folding,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,947,950,3
+2000-01-01 00:35:50,2000-01-01 00:36:26,Iron folded garment with steam iron,Garment ironing,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,950,986,36
+2000-01-01 00:36:26,2000-01-01 00:36:29,Snap large cardboard sheet in half,Garment folding,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,986,989,3
+2000-01-01 00:36:29,2000-01-01 00:36:59,Iron folded garment with steam iron,Garment ironing,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,989,1019,30
+2000-01-01 00:36:59,2000-01-01 00:37:02,Snap large cardboard sheet in half,Garment folding,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,1019,1022,3
+2000-01-01 00:37:02,2000-01-01 00:37:36,Iron folded garment with steam iron,Garment ironing,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,1022,1056,34
+2000-01-01 00:37:36,2000-01-01 00:37:39,Snap large cardboard sheet in half,Garment folding,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,1056,1059,3
+2000-01-01 00:37:39,2000-01-01 00:38:01,Iron folded garment with steam iron,Garment ironing,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,1059,1081,22
+2000-01-01 00:38:01,2000-01-01 00:38:04,Snap large cardboard sheet in half,Garment folding,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,1081,1084,3
+2000-01-01 00:38:04,2000-01-01 00:38:33,Iron folded garment with steam iron,Garment ironing,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,1084,1113,29
+2000-01-01 00:38:33,2000-01-01 00:38:36,Snap large cardboard sheet in half,Garment folding,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,1113,1116,3
+2000-01-01 00:38:36,2000-01-01 00:38:59,Iron folded garment with steam iron,Garment ironing,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,1116,1139,23
+2000-01-01 00:38:59,2000-01-01 00:39:02,Snap large cardboard sheet in half,Garment folding,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,1139,1142,3
+2000-01-01 00:39:02,2000-01-01 00:39:44,Iron folded garment with steam iron,Garment ironing,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,1142,1184,42
+2000-01-01 00:39:44,2000-01-01 00:39:46,Snap large cardboard sheet in half,Garment folding,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,1184,1186,2
+2000-01-01 00:39:46,2000-01-01 00:40:00,Iron folded garment with steam iron,Garment ironing,factory_004,worker_007,factory004_worker007_00001.csv,factory_004_worker_007,1186,1200,14
+2000-01-01 00:40:00,2000-01-01 00:41:12,Iron folded garment with steam iron,Garment ironing,factory_004,worker_007,factory004_worker007_00002.csv,factory_004_worker_007,0,72,72
+2000-01-01 00:43:37,2000-01-01 00:44:09,Transport heavy fabric stack across factory floor,Material transport,factory_004,worker_007,factory004_worker007_00002.csv,factory_004_worker_007,217,249,32
+2000-01-01 00:44:20,2000-01-01 00:44:31,Transport heavy fabric stack across factory floor,Material transport,factory_004,worker_007,factory004_worker007_00002.csv,factory_004_worker_007,260,271,11
+2000-01-01 00:44:39,2000-01-01 00:45:00,Transport heavy fabric stack across factory floor,Material transport,factory_004,worker_007,factory004_worker007_00002.csv,factory_004_worker_007,279,300,21
+2000-01-01 00:45:00,2000-01-01 00:45:10,Transfer polybagged garments into bulk box,Pick-and-pack sorting,factory_004,worker_007,factory004_worker007_00002.csv,factory_004_worker_007,300,310,10
+2000-01-01 00:46:33,2000-01-01 00:46:51,Assemble empty cardboard box,Bulk box assembly,factory_004,worker_007,factory004_worker007_00002.csv,factory_004_worker_007,393,411,18
+2000-01-01 00:46:51,2000-01-01 00:47:27,Tape cardboard box bottom seam,Bulk box assembly,factory_004,worker_007,factory004_worker007_00002.csv,factory_004_worker_007,411,447,36
+2000-01-01 00:47:34,2000-01-01 00:47:46,Assemble empty cardboard box,Bulk box assembly,factory_004,worker_007,factory004_worker007_00002.csv,factory_004_worker_007,454,466,12
+2000-01-01 00:47:46,2000-01-01 00:47:55,Tape cardboard box bottom seam,Bulk box assembly,factory_004,worker_007,factory004_worker007_00002.csv,factory_004_worker_007,466,475,9
+2000-01-01 00:48:02,2000-01-01 00:48:14,Assemble empty cardboard box,Bulk box assembly,factory_004,worker_007,factory004_worker007_00002.csv,factory_004_worker_007,482,494,12
+2000-01-01 00:48:14,2000-01-01 00:48:34,Tape cardboard box bottom seam,Bulk box assembly,factory_004,worker_007,factory004_worker007_00002.csv,factory_004_worker_007,494,514,20
+2000-01-01 00:48:44,2000-01-01 00:48:53,Assemble empty cardboard box,Bulk box assembly,factory_004,worker_007,factory004_worker007_00002.csv,factory_004_worker_007,524,533,9
+2000-01-01 00:48:53,2000-01-01 00:49:01,Tape cardboard box bottom seam,Bulk box assembly,factory_004,worker_007,factory004_worker007_00002.csv,factory_004_worker_007,533,541,8
+2000-01-01 00:49:01,2000-01-01 00:49:11,Assemble empty cardboard box,Bulk box assembly,factory_004,worker_007,factory004_worker007_00002.csv,factory_004_worker_007,541,551,10
+2000-01-01 00:49:11,2000-01-01 00:49:27,Tape cardboard box bottom seam,Bulk box assembly,factory_004,worker_007,factory004_worker007_00002.csv,factory_004_worker_007,551,567,16
+2000-01-01 00:49:33,2000-01-01 00:49:59,Transfer polybagged garments into bulk box,Pick-and-pack sorting,factory_004,worker_007,factory004_worker007_00002.csv,factory_004_worker_007,573,599,26
+2000-01-01 00:50:14,2000-01-01 00:50:25,Transfer polybagged garments into bulk box,Pick-and-pack sorting,factory_004,worker_007,factory004_worker007_00002.csv,factory_004_worker_007,614,625,11
+2000-01-01 00:50:25,2000-01-01 00:52:00,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_007,factory004_worker007_00002.csv,factory_004_worker_007,625,720,95
+2000-01-01 00:52:08,2000-01-01 00:53:20,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_007,factory004_worker007_00002.csv,factory_004_worker_007,728,800,72
+2000-01-01 00:53:31,2000-01-01 00:53:58,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_007,factory004_worker007_00002.csv,factory_004_worker_007,811,838,27
+2000-01-01 00:53:58,2000-01-01 00:54:10,Transport heavy fabric stack across factory floor,Material transport,factory_004,worker_007,factory004_worker007_00002.csv,factory_004_worker_007,838,850,12
+2000-01-01 00:54:10,2000-01-01 00:54:26,Transfer polybagged garments into bulk box,Pick-and-pack sorting,factory_004,worker_007,factory004_worker007_00002.csv,factory_004_worker_007,850,866,16
+2000-01-01 00:54:26,2000-01-01 00:54:38,Transport heavy fabric stack across factory floor,Material transport,factory_004,worker_007,factory004_worker007_00002.csv,factory_004_worker_007,866,878,12
+2000-01-01 00:54:38,2000-01-01 00:54:48,Transfer polybagged garments into bulk box,Pick-and-pack sorting,factory_004,worker_007,factory004_worker007_00002.csv,factory_004_worker_007,878,888,10
+2000-01-01 00:54:48,2000-01-01 00:55:15,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_007,factory004_worker007_00002.csv,factory_004_worker_007,888,915,27
+2000-01-01 00:55:37,2000-01-01 00:56:13,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_007,factory004_worker007_00002.csv,factory_004_worker_007,937,973,36
+2000-01-01 00:57:35,2000-01-01 00:58:08,Transport heavy fabric stack across factory floor,Material transport,factory_004,worker_007,factory004_worker007_00002.csv,factory_004_worker_007,1055,1088,33
+2000-01-01 00:58:08,2000-01-01 00:59:15,Transfer polybagged garments into bulk box,Bulk box assembly,factory_004,worker_007,factory004_worker007_00003.csv,factory_004_worker_007,0,67,67
+2000-01-01 01:00:37,2000-01-01 01:01:05,Assemble empty cardboard box,Bulk box assembly,factory_004,worker_007,factory004_worker007_00003.csv,factory_004_worker_007,149,177,28
+2000-01-01 01:01:05,2000-01-01 01:01:30,Tape cardboard box bottom seam,Bulk box assembly,factory_004,worker_007,factory004_worker007_00003.csv,factory_004_worker_007,177,202,25
+2000-01-01 01:02:54,2000-01-01 01:05:19,Transfer polybagged garments into bulk box,Bulk box assembly,factory_004,worker_007,factory004_worker007_00003.csv,factory_004_worker_007,286,431,145
+2000-01-01 01:05:45,2000-01-01 01:06:47,Transfer polybagged garments into bulk box,Bulk box assembly,factory_004,worker_007,factory004_worker007_00003.csv,factory_004_worker_007,457,519,62
+2000-01-01 01:09:35,2000-01-01 01:11:38,Distribute single garments into floor boxes,Pick-and-pack sorting,factory_004,worker_007,factory004_worker007_00003.csv,factory_004_worker_007,687,810,123
+2000-01-01 01:11:39,2000-01-01 01:12:07,Distribute single garments into floor boxes,Pick-and-pack sorting,factory_004,worker_007,factory004_worker007_00003.csv,factory_004_worker_007,811,839,28
+2000-01-01 01:12:07,2000-01-01 01:12:53,Distribute single garments into floor boxes,Pick-and-pack sorting,factory_004,worker_007,factory004_worker007_00003.csv,factory_004_worker_007,839,885,46
+2000-01-01 01:12:53,2000-01-01 01:18:08,Distribute single garments into floor boxes,Pick-and-pack sorting,factory_004,worker_007,factory004_worker007_00003.csv,factory_004_worker_007,885,1200,315

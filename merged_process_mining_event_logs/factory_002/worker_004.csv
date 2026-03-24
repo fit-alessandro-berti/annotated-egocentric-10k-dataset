@@ -1,0 +1,175 @@
+start_timestamp,end_timestamp,activity,process,factory,worker,source_file,case_id,start_seconds_from_video_start,end_seconds_from_video_start,duration_seconds
+2000-01-01 00:00:00,2000-01-01 00:00:23,pull fabric edges taut,Fabric edge alignment,factory_002,worker_004,factory002_worker004_00000.csv,factory_002_worker_004,0,23,23
+2000-01-01 00:00:23,2000-01-01 00:00:27,transfer fabric stack to floor board,Material transport,factory_002,worker_004,factory002_worker004_00000.csv,factory_002_worker_004,23,27,4
+2000-01-01 00:00:27,2000-01-01 00:01:45,pull fabric edges taut,Fabric edge alignment,factory_002,worker_004,factory002_worker004_00000.csv,factory_002_worker_004,27,105,78
+2000-01-01 00:01:45,2000-01-01 00:01:48,transfer fabric stack to floor board,Material transport,factory_002,worker_004,factory002_worker004_00000.csv,factory_002_worker_004,105,108,3
+2000-01-01 00:01:48,2000-01-01 00:03:32,pull fabric edges taut,Fabric edge alignment,factory_002,worker_004,factory002_worker004_00000.csv,factory_002_worker_004,108,212,104
+2000-01-01 00:03:38,2000-01-01 00:04:44,pull fabric edges taut,Fabric edge alignment,factory_002,worker_004,factory002_worker004_00000.csv,factory_002_worker_004,218,284,66
+2000-01-01 00:04:44,2000-01-01 00:04:50,transfer fabric stack to floor board,Material transport,factory_002,worker_004,factory002_worker004_00000.csv,factory_002_worker_004,284,290,6
+2000-01-01 00:04:50,2000-01-01 00:05:47,pull fabric edges taut,Fabric edge alignment,factory_002,worker_004,factory002_worker004_00000.csv,factory_002_worker_004,290,347,57
+2000-01-01 00:05:47,2000-01-01 00:05:50,transfer fabric stack to floor board,Material transport,factory_002,worker_004,factory002_worker004_00000.csv,factory_002_worker_004,347,350,3
+2000-01-01 00:05:50,2000-01-01 00:06:40,pull fabric edges taut,Fabric edge alignment,factory_002,worker_004,factory002_worker004_00000.csv,factory_002_worker_004,350,400,50
+2000-01-01 00:06:40,2000-01-01 00:06:44,transfer fabric stack to floor board,Material transport,factory_002,worker_004,factory002_worker004_00000.csv,factory_002_worker_004,400,404,4
+2000-01-01 00:06:44,2000-01-01 00:07:44,pull fabric edges taut,Fabric edge alignment,factory_002,worker_004,factory002_worker004_00000.csv,factory_002_worker_004,404,464,60
+2000-01-01 00:07:44,2000-01-01 00:07:47,transfer fabric stack to floor board,Material transport,factory_002,worker_004,factory002_worker004_00000.csv,factory_002_worker_004,464,467,3
+2000-01-01 00:07:47,2000-01-01 00:08:24,pull fabric edges taut,Fabric edge alignment,factory_002,worker_004,factory002_worker004_00000.csv,factory_002_worker_004,467,504,37
+2000-01-01 00:08:24,2000-01-01 00:08:26,transfer fabric stack to floor board,Material transport,factory_002,worker_004,factory002_worker004_00000.csv,factory_002_worker_004,504,506,2
+2000-01-01 00:08:26,2000-01-01 00:09:00,pull fabric edges taut,Fabric edge alignment,factory_002,worker_004,factory002_worker004_00000.csv,factory_002_worker_004,506,540,34
+2000-01-01 00:09:00,2000-01-01 00:09:03,transfer fabric stack to floor board,Material transport,factory_002,worker_004,factory002_worker004_00000.csv,factory_002_worker_004,540,543,3
+2000-01-01 00:09:03,2000-01-01 00:10:03,pull fabric edges taut,Fabric edge alignment,factory_002,worker_004,factory002_worker004_00000.csv,factory_002_worker_004,543,603,60
+2000-01-01 00:10:03,2000-01-01 00:10:07,transfer fabric stack to floor board,Material transport,factory_002,worker_004,factory002_worker004_00000.csv,factory_002_worker_004,603,607,4
+2000-01-01 00:10:07,2000-01-01 00:11:04,pull fabric edges taut,Fabric edge alignment,factory_002,worker_004,factory002_worker004_00000.csv,factory_002_worker_004,607,664,57
+2000-01-01 00:11:04,2000-01-01 00:11:06,transfer fabric stack to floor board,Material transport,factory_002,worker_004,factory002_worker004_00000.csv,factory_002_worker_004,664,666,2
+2000-01-01 00:11:06,2000-01-01 00:11:25,pull fabric edges taut,Fabric edge alignment,factory_002,worker_004,factory002_worker004_00000.csv,factory_002_worker_004,666,685,19
+2000-01-01 00:11:25,2000-01-01 00:11:28,transfer fabric stack to floor board,Material transport,factory_002,worker_004,factory002_worker004_00000.csv,factory_002_worker_004,685,688,3
+2000-01-01 00:11:28,2000-01-01 00:12:02,pull fabric edges taut,Fabric edge alignment,factory_002,worker_004,factory002_worker004_00000.csv,factory_002_worker_004,688,722,34
+2000-01-01 00:12:02,2000-01-01 00:12:06,transfer fabric stack to floor board,Material transport,factory_002,worker_004,factory002_worker004_00000.csv,factory_002_worker_004,722,726,4
+2000-01-01 00:12:06,2000-01-01 00:12:30,pull fabric edges taut,Fabric edge alignment,factory_002,worker_004,factory002_worker004_00000.csv,factory_002_worker_004,726,750,24
+2000-01-01 00:12:30,2000-01-01 00:12:33,transfer fabric stack to floor board,Material transport,factory_002,worker_004,factory002_worker004_00000.csv,factory_002_worker_004,750,753,3
+2000-01-01 00:12:33,2000-01-01 00:12:58,pull fabric edges taut,Fabric edge alignment,factory_002,worker_004,factory002_worker004_00000.csv,factory_002_worker_004,753,778,25
+2000-01-01 00:12:58,2000-01-01 00:13:00,transfer fabric stack to floor board,Material transport,factory_002,worker_004,factory002_worker004_00000.csv,factory_002_worker_004,778,780,2
+2000-01-01 00:13:00,2000-01-01 00:14:07,pull fabric edges taut,Fabric edge alignment,factory_002,worker_004,factory002_worker004_00000.csv,factory_002_worker_004,780,847,67
+2000-01-01 00:14:07,2000-01-01 00:14:10,transfer fabric stack to floor board,Material transport,factory_002,worker_004,factory002_worker004_00000.csv,factory_002_worker_004,847,850,3
+2000-01-01 00:14:10,2000-01-01 00:14:30,pull fabric edges taut,Fabric edge alignment,factory_002,worker_004,factory002_worker004_00000.csv,factory_002_worker_004,850,870,20
+2000-01-01 00:14:30,2000-01-01 00:14:32,transfer fabric stack to floor board,Material transport,factory_002,worker_004,factory002_worker004_00000.csv,factory_002_worker_004,870,872,2
+2000-01-01 00:14:32,2000-01-01 00:15:24,pull fabric edges taut,Fabric edge alignment,factory_002,worker_004,factory002_worker004_00000.csv,factory_002_worker_004,872,924,52
+2000-01-01 00:15:24,2000-01-01 00:15:26,transfer fabric stack to floor board,Material transport,factory_002,worker_004,factory002_worker004_00000.csv,factory_002_worker_004,924,926,2
+2000-01-01 00:15:26,2000-01-01 00:16:26,pull fabric edges taut,Fabric edge alignment,factory_002,worker_004,factory002_worker004_00000.csv,factory_002_worker_004,926,986,60
+2000-01-01 00:16:26,2000-01-01 00:16:29,transfer fabric stack to floor board,Material transport,factory_002,worker_004,factory002_worker004_00000.csv,factory_002_worker_004,986,989,3
+2000-01-01 00:16:29,2000-01-01 00:16:55,pull fabric edges taut,Fabric edge alignment,factory_002,worker_004,factory002_worker004_00000.csv,factory_002_worker_004,989,1015,26
+2000-01-01 00:16:55,2000-01-01 00:16:59,transfer fabric stack to floor board,Material transport,factory_002,worker_004,factory002_worker004_00000.csv,factory_002_worker_004,1015,1019,4
+2000-01-01 00:16:59,2000-01-01 00:17:45,pull fabric edges taut,Fabric edge alignment,factory_002,worker_004,factory002_worker004_00000.csv,factory_002_worker_004,1019,1065,46
+2000-01-01 00:17:45,2000-01-01 00:17:48,transfer fabric stack to floor board,Material transport,factory_002,worker_004,factory002_worker004_00000.csv,factory_002_worker_004,1065,1068,3
+2000-01-01 00:17:48,2000-01-01 00:18:25,pull fabric edges taut,Fabric edge alignment,factory_002,worker_004,factory002_worker004_00000.csv,factory_002_worker_004,1068,1105,37
+2000-01-01 00:18:25,2000-01-01 00:18:29,transfer fabric stack to floor board,Material transport,factory_002,worker_004,factory002_worker004_00000.csv,factory_002_worker_004,1105,1109,4
+2000-01-01 00:18:29,2000-01-01 00:18:41,pull fabric edges taut,Fabric edge alignment,factory_002,worker_004,factory002_worker004_00000.csv,factory_002_worker_004,1109,1121,12
+2000-01-01 00:18:41,2000-01-01 00:18:43,transfer fabric stack to floor board,Material transport,factory_002,worker_004,factory002_worker004_00000.csv,factory_002_worker_004,1121,1123,2
+2000-01-01 00:18:43,2000-01-01 00:18:57,pull fabric edges taut,Fabric edge alignment,factory_002,worker_004,factory002_worker004_00000.csv,factory_002_worker_004,1123,1137,14
+2000-01-01 00:18:57,2000-01-01 00:18:59,transfer fabric stack to floor board,Material transport,factory_002,worker_004,factory002_worker004_00000.csv,factory_002_worker_004,1137,1139,2
+2000-01-01 00:18:59,2000-01-01 00:19:35,pull fabric edges taut,Fabric edge alignment,factory_002,worker_004,factory002_worker004_00000.csv,factory_002_worker_004,1139,1175,36
+2000-01-01 00:19:35,2000-01-01 00:19:38,transfer fabric stack to floor board,Material transport,factory_002,worker_004,factory002_worker004_00000.csv,factory_002_worker_004,1175,1178,3
+2000-01-01 00:19:38,2000-01-01 00:20:00,pull fabric edges taut,Fabric edge alignment,factory_002,worker_004,factory002_worker004_00000.csv,factory_002_worker_004,1178,1200,22
+2000-01-01 00:20:00,2000-01-01 00:40:01,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00001.csv,factory_002_worker_004,0,1201,1201
+2000-01-01 00:40:01,2000-01-01 01:00:00,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00002.csv,factory_002_worker_004,0,1199,1199
+2000-01-01 01:00:00,2000-01-01 01:00:16,fold bottom section of fabric,Fabric folding,factory_002,worker_004,factory002_worker004_00003.csv,factory_002_worker_004,0,16,16
+2000-01-01 01:00:16,2000-01-01 01:01:21,fold bottom section of fabric,Fabric folding,factory_002,worker_004,factory002_worker004_00003.csv,factory_002_worker_004,16,81,65
+2000-01-01 01:01:21,2000-01-01 01:01:52,fold bottom section of fabric,Fabric folding,factory_002,worker_004,factory002_worker004_00003.csv,factory_002_worker_004,81,112,31
+2000-01-01 01:01:52,2000-01-01 01:03:04,fold bottom section of fabric,Fabric folding,factory_002,worker_004,factory002_worker004_00003.csv,factory_002_worker_004,112,184,72
+2000-01-01 01:03:04,2000-01-01 01:03:15,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00003.csv,factory_002_worker_004,184,195,11
+2000-01-01 01:03:15,2000-01-01 01:05:00,fold bottom section of fabric,Fabric folding,factory_002,worker_004,factory002_worker004_00003.csv,factory_002_worker_004,195,300,105
+2000-01-01 01:05:00,2000-01-01 01:05:06,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00003.csv,factory_002_worker_004,300,306,6
+2000-01-01 01:05:06,2000-01-01 01:06:08,fold bottom section of fabric,Fabric folding,factory_002,worker_004,factory002_worker004_00003.csv,factory_002_worker_004,306,368,62
+2000-01-01 01:06:08,2000-01-01 01:06:14,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00003.csv,factory_002_worker_004,368,374,6
+2000-01-01 01:06:14,2000-01-01 01:07:11,fold bottom section of fabric,Fabric folding,factory_002,worker_004,factory002_worker004_00003.csv,factory_002_worker_004,374,431,57
+2000-01-01 01:07:11,2000-01-01 01:07:16,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00003.csv,factory_002_worker_004,431,436,5
+2000-01-01 01:07:16,2000-01-01 01:09:02,fold bottom section of fabric,Fabric folding,factory_002,worker_004,factory002_worker004_00003.csv,factory_002_worker_004,436,542,106
+2000-01-01 01:09:02,2000-01-01 01:09:08,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00003.csv,factory_002_worker_004,542,548,6
+2000-01-01 01:09:08,2000-01-01 01:10:00,fold bottom section of fabric,Fabric folding,factory_002,worker_004,factory002_worker004_00003.csv,factory_002_worker_004,548,600,52
+2000-01-01 01:10:00,2000-01-01 01:10:08,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00003.csv,factory_002_worker_004,600,608,8
+2000-01-01 01:10:08,2000-01-01 01:10:59,fold bottom section of fabric,Fabric folding,factory_002,worker_004,factory002_worker004_00003.csv,factory_002_worker_004,608,659,51
+2000-01-01 01:10:59,2000-01-01 01:11:05,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00003.csv,factory_002_worker_004,659,665,6
+2000-01-01 01:11:05,2000-01-01 01:11:57,fold bottom section of fabric,Fabric folding,factory_002,worker_004,factory002_worker004_00003.csv,factory_002_worker_004,665,717,52
+2000-01-01 01:11:57,2000-01-01 01:12:12,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00003.csv,factory_002_worker_004,717,732,15
+2000-01-01 01:12:12,2000-01-01 01:13:25,fold bottom section of fabric,Fabric folding,factory_002,worker_004,factory002_worker004_00003.csv,factory_002_worker_004,732,805,73
+2000-01-01 01:13:25,2000-01-01 01:13:33,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00003.csv,factory_002_worker_004,805,813,8
+2000-01-01 01:13:33,2000-01-01 01:14:15,fold bottom section of fabric,Fabric folding,factory_002,worker_004,factory002_worker004_00003.csv,factory_002_worker_004,813,855,42
+2000-01-01 01:14:15,2000-01-01 01:14:23,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00003.csv,factory_002_worker_004,855,863,8
+2000-01-01 01:14:23,2000-01-01 01:15:10,fold bottom section of fabric,Fabric folding,factory_002,worker_004,factory002_worker004_00003.csv,factory_002_worker_004,863,910,47
+2000-01-01 01:15:10,2000-01-01 01:15:17,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00003.csv,factory_002_worker_004,910,917,7
+2000-01-01 01:15:17,2000-01-01 01:16:24,fold bottom section of fabric,Fabric folding,factory_002,worker_004,factory002_worker004_00003.csv,factory_002_worker_004,917,984,67
+2000-01-01 01:16:24,2000-01-01 01:16:32,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00003.csv,factory_002_worker_004,984,992,8
+2000-01-01 01:16:32,2000-01-01 01:17:23,fold bottom section of fabric,Fabric folding,factory_002,worker_004,factory002_worker004_00003.csv,factory_002_worker_004,992,1043,51
+2000-01-01 01:17:23,2000-01-01 01:17:31,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00003.csv,factory_002_worker_004,1043,1051,8
+2000-01-01 01:17:31,2000-01-01 01:18:29,fold bottom section of fabric,Fabric folding,factory_002,worker_004,factory002_worker004_00003.csv,factory_002_worker_004,1051,1109,58
+2000-01-01 01:18:29,2000-01-01 01:18:36,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00003.csv,factory_002_worker_004,1109,1116,7
+2000-01-01 01:18:36,2000-01-01 01:19:29,fold bottom section of fabric,Fabric folding,factory_002,worker_004,factory002_worker004_00003.csv,factory_002_worker_004,1116,1169,53
+2000-01-01 01:19:29,2000-01-01 01:19:35,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00003.csv,factory_002_worker_004,1169,1175,6
+2000-01-01 01:19:50,2000-01-01 01:20:00,fold bottom section of fabric,Fabric folding,factory_002,worker_004,factory002_worker004_00003.csv,factory_002_worker_004,1190,1200,10
+2000-01-01 01:20:00,2000-01-01 01:28:04,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00004.csv,factory_002_worker_004,0,484,484
+2000-01-01 01:28:08,2000-01-01 01:31:58,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00004.csv,factory_002_worker_004,488,718,230
+2000-01-01 01:32:12,2000-01-01 01:34:23,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00004.csv,factory_002_worker_004,732,863,131
+2000-01-01 01:34:23,2000-01-01 01:34:32,compress fabric bundles inside soft collection bag,Fabric bundling,factory_002,worker_004,factory002_worker004_00004.csv,factory_002_worker_004,863,872,9
+2000-01-01 01:34:32,2000-01-01 01:40:00,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00004.csv,factory_002_worker_004,872,1200,328
+2000-01-01 01:40:00,2000-01-01 01:40:13,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00005.csv,factory_002_worker_004,0,13,13
+2000-01-01 01:40:13,2000-01-01 01:40:28,pick up loose fabric piece,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00005.csv,factory_002_worker_004,13,28,15
+2000-01-01 01:40:28,2000-01-01 01:41:58,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00005.csv,factory_002_worker_004,28,118,90
+2000-01-01 01:41:58,2000-01-01 01:42:12,pick up loose fabric piece,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00005.csv,factory_002_worker_004,118,132,14
+2000-01-01 01:42:27,2000-01-01 01:44:42,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00005.csv,factory_002_worker_004,147,282,135
+2000-01-01 01:44:42,2000-01-01 01:44:54,pick up loose fabric piece,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00005.csv,factory_002_worker_004,282,294,12
+2000-01-01 01:44:54,2000-01-01 01:46:33,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00005.csv,factory_002_worker_004,294,393,99
+2000-01-01 01:46:33,2000-01-01 01:46:39,pick up loose fabric piece,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00005.csv,factory_002_worker_004,393,399,6
+2000-01-01 01:46:39,2000-01-01 01:47:05,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00005.csv,factory_002_worker_004,399,425,26
+2000-01-01 01:47:05,2000-01-01 01:47:11,pick up loose fabric piece,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00005.csv,factory_002_worker_004,425,431,6
+2000-01-01 01:47:11,2000-01-01 01:48:08,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00005.csv,factory_002_worker_004,431,488,57
+2000-01-01 01:48:08,2000-01-01 01:50:07,compress fabric bundles inside soft collection bag,Material transport,factory_002,worker_004,factory002_worker004_00005.csv,factory_002_worker_004,488,607,119
+2000-01-01 01:52:15,2000-01-01 01:53:34,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00005.csv,factory_002_worker_004,735,814,79
+2000-01-01 01:53:34,2000-01-01 01:53:42,pick up loose fabric piece,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00005.csv,factory_002_worker_004,814,822,8
+2000-01-01 01:53:42,2000-01-01 01:54:38,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00005.csv,factory_002_worker_004,822,878,56
+2000-01-01 01:54:38,2000-01-01 01:54:46,pick up loose fabric piece,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00005.csv,factory_002_worker_004,878,886,8
+2000-01-01 01:54:46,2000-01-01 01:56:44,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00005.csv,factory_002_worker_004,886,1004,118
+2000-01-01 01:56:44,2000-01-01 01:56:51,pick up loose fabric piece,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00005.csv,factory_002_worker_004,1004,1011,7
+2000-01-01 01:56:51,2000-01-01 01:58:39,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00005.csv,factory_002_worker_004,1011,1119,108
+2000-01-01 01:58:39,2000-01-01 01:58:48,pick up loose fabric piece,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00005.csv,factory_002_worker_004,1119,1128,9
+2000-01-01 01:58:48,2000-01-01 01:59:27,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00005.csv,factory_002_worker_004,1128,1167,39
+2000-01-01 01:59:27,2000-01-01 01:59:35,pick up loose fabric piece,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00005.csv,factory_002_worker_004,1167,1175,8
+2000-01-01 01:59:35,2000-01-01 02:00:01,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00005.csv,factory_002_worker_004,1175,1201,26
+2000-01-01 02:00:01,2000-01-01 02:00:17,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,0,16,16
+2000-01-01 02:00:20,2000-01-01 02:00:40,fold sides of fabric inward,Fabric folding,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,19,39,20
+2000-01-01 02:00:40,2000-01-01 02:01:06,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,39,65,26
+2000-01-01 02:01:14,2000-01-01 02:01:35,fold sides of fabric inward,Fabric folding,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,73,94,21
+2000-01-01 02:01:35,2000-01-01 02:01:50,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,94,109,15
+2000-01-01 02:01:53,2000-01-01 02:02:06,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,112,125,13
+2000-01-01 02:02:06,2000-01-01 02:02:11,fold sides of fabric inward,Fabric folding,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,125,130,5
+2000-01-01 02:02:15,2000-01-01 02:02:34,fold sides of fabric inward,Fabric folding,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,134,153,19
+2000-01-01 02:02:39,2000-01-01 02:02:51,fold sides of fabric inward,Fabric folding,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,158,170,12
+2000-01-01 02:02:51,2000-01-01 02:03:02,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,170,181,11
+2000-01-01 02:03:19,2000-01-01 02:03:32,fold sides of fabric inward,Fabric folding,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,198,211,13
+2000-01-01 02:03:32,2000-01-01 02:04:01,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,211,240,29
+2000-01-01 02:04:16,2000-01-01 02:04:23,fold sides of fabric inward,Fabric folding,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,255,262,7
+2000-01-01 02:04:26,2000-01-01 02:04:52,fold sides of fabric inward,Fabric folding,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,265,291,26
+2000-01-01 02:04:56,2000-01-01 02:05:09,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,295,308,13
+2000-01-01 02:05:17,2000-01-01 02:05:36,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,316,335,19
+2000-01-01 02:05:40,2000-01-01 02:05:42,fold sides of fabric inward,Fabric folding,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,339,341,2
+2000-01-01 02:05:45,2000-01-01 02:06:04,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,344,363,19
+2000-01-01 02:06:06,2000-01-01 02:06:13,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,365,372,7
+2000-01-01 02:06:22,2000-01-01 02:06:26,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,381,385,4
+2000-01-01 02:06:37,2000-01-01 02:06:44,fold sides of fabric inward,Fabric folding,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,396,403,7
+2000-01-01 02:06:44,2000-01-01 02:06:55,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,403,414,11
+2000-01-01 02:07:08,2000-01-01 02:07:23,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,427,442,15
+2000-01-01 02:07:38,2000-01-01 02:07:53,fold sides of fabric inward,Fabric folding,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,457,472,15
+2000-01-01 02:07:53,2000-01-01 02:08:07,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,472,486,14
+2000-01-01 02:08:19,2000-01-01 02:08:24,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,498,503,5
+2000-01-01 02:08:43,2000-01-01 02:08:50,fold sides of fabric inward,Fabric folding,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,522,529,7
+2000-01-01 02:08:50,2000-01-01 02:08:57,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,529,536,7
+2000-01-01 02:09:10,2000-01-01 02:09:23,fold sides of fabric inward,Fabric folding,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,549,562,13
+2000-01-01 02:09:23,2000-01-01 02:09:48,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,562,587,25
+2000-01-01 02:09:52,2000-01-01 02:10:10,fold sides of fabric inward,Fabric folding,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,591,609,18
+2000-01-01 02:10:15,2000-01-01 02:10:27,fold sides of fabric inward,Fabric folding,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,614,626,12
+2000-01-01 02:10:27,2000-01-01 02:10:46,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,626,645,19
+2000-01-01 02:10:49,2000-01-01 02:10:57,fold sides of fabric inward,Fabric folding,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,648,656,8
+2000-01-01 02:10:57,2000-01-01 02:11:09,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,656,668,12
+2000-01-01 02:11:16,2000-01-01 02:11:22,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,675,681,6
+2000-01-01 02:11:33,2000-01-01 02:11:46,fold sides of fabric inward,Fabric folding,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,692,705,13
+2000-01-01 02:11:46,2000-01-01 02:12:13,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,705,732,27
+2000-01-01 02:12:20,2000-01-01 02:12:32,fold sides of fabric inward,Fabric folding,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,739,751,12
+2000-01-01 02:12:32,2000-01-01 02:12:56,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,751,775,24
+2000-01-01 02:13:01,2000-01-01 02:13:18,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,780,797,17
+2000-01-01 02:13:24,2000-01-01 02:13:30,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,803,809,6
+2000-01-01 02:13:36,2000-01-01 02:13:50,fold sides of fabric inward,Fabric folding,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,815,829,14
+2000-01-01 02:13:50,2000-01-01 02:14:06,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,829,845,16
+2000-01-01 02:14:16,2000-01-01 02:14:23,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,855,862,7
+2000-01-01 02:14:35,2000-01-01 02:14:46,fold sides of fabric inward,Fabric folding,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,874,885,11
+2000-01-01 02:14:46,2000-01-01 02:14:54,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,885,893,8
+2000-01-01 02:15:03,2000-01-01 02:15:26,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,902,925,23
+2000-01-01 02:15:41,2000-01-01 02:15:54,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,940,953,13
+2000-01-01 02:15:59,2000-01-01 02:16:19,fold sides of fabric inward,Fabric folding,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,958,978,20
+2000-01-01 02:16:19,2000-01-01 02:16:43,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,978,1002,24
+2000-01-01 02:16:51,2000-01-01 02:16:56,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,1010,1015,5
+2000-01-01 02:17:01,2000-01-01 02:17:11,fold sides of fabric inward,Fabric folding,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,1020,1030,10
+2000-01-01 02:17:11,2000-01-01 02:17:29,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,1030,1048,18
+2000-01-01 02:17:46,2000-01-01 02:18:03,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,1065,1082,17
+2000-01-01 02:18:46,2000-01-01 02:19:03,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,1125,1142,17
+2000-01-01 02:19:09,2000-01-01 02:19:21,fold sides of fabric inward,Fabric folding,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,1148,1160,12
+2000-01-01 02:19:21,2000-01-01 02:19:37,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,1160,1176,16
+2000-01-01 02:19:43,2000-01-01 02:19:55,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,1182,1194,12
+2000-01-01 02:20:00,2000-01-01 02:20:02,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004,factory002_worker004_00006.csv,factory_002_worker_004,1199,1201,2
