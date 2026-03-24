@@ -1,0 +1,220 @@
+start_timestamp,end_timestamp,activity,process,factory,worker,source_file,case_id,start_seconds_from_video_start,end_seconds_from_video_start,duration_seconds
+2000-01-01 00:00:00,2000-01-01 00:02:58,insert small pin into base components,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00000.csv,factory_001_worker_003,0,178,178
+2000-01-01 00:03:05,2000-01-01 00:05:00,insert small pin into base components,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00000.csv,factory_001_worker_003,185,300,115
+2000-01-01 00:05:00,2000-01-01 00:05:04,retrieve base and clip components from bins,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00000.csv,factory_001_worker_003,300,304,4
+2000-01-01 00:05:04,2000-01-01 00:07:48,insert small pin into base components,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00000.csv,factory_001_worker_003,304,468,164
+2000-01-01 00:07:54,2000-01-01 00:10:12,insert small pin into base components,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00000.csv,factory_001_worker_003,474,612,138
+2000-01-01 00:10:17,2000-01-01 00:12:07,insert small pin into base components,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00000.csv,factory_001_worker_003,617,727,110
+2000-01-01 00:12:12,2000-01-01 00:13:00,insert small pin into base components,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00000.csv,factory_001_worker_003,732,780,48
+2000-01-01 00:13:04,2000-01-01 00:15:08,insert small pin into base components,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00000.csv,factory_001_worker_003,784,908,124
+2000-01-01 00:15:12,2000-01-01 00:17:15,insert small pin into base components,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00000.csv,factory_001_worker_003,912,1035,123
+2000-01-01 00:17:18,2000-01-01 00:17:39,insert small pin into base components,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00000.csv,factory_001_worker_003,1038,1059,21
+2000-01-01 00:17:39,2000-01-01 00:17:46,place finished assembly into pre-punched cardboard hole,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00000.csv,factory_001_worker_003,1059,1066,7
+2000-01-01 00:17:46,2000-01-01 00:17:58,insert small pin into base components,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00000.csv,factory_001_worker_003,1066,1078,12
+2000-01-01 00:18:02,2000-01-01 00:18:10,insert small pin into base components,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00000.csv,factory_001_worker_003,1082,1090,8
+2000-01-01 00:18:14,2000-01-01 00:18:46,insert small pin into base components,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00000.csv,factory_001_worker_003,1094,1126,32
+2000-01-01 00:18:50,2000-01-01 00:19:09,insert small pin into base components,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00000.csv,factory_001_worker_003,1130,1149,19
+2000-01-01 00:19:13,2000-01-01 00:19:33,insert small pin into base components,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00000.csv,factory_001_worker_003,1153,1173,20
+2000-01-01 00:19:37,2000-01-01 00:19:53,insert small pin into base components,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00000.csv,factory_001_worker_003,1177,1193,16
+2000-01-01 00:19:58,2000-01-01 00:20:01,insert small pin into base components,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00000.csv,factory_001_worker_003,1198,1201,3
+2000-01-01 00:20:01,2000-01-01 00:20:07,place finished assembly into pre-punched cardboard hole,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00001.csv,factory_001_worker_003,0,6,6
+2000-01-01 00:20:07,2000-01-01 00:21:22,manually join metal components,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00001.csv,factory_001_worker_003,6,81,75
+2000-01-01 00:21:25,2000-01-01 00:21:43,manually join metal components,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00001.csv,factory_001_worker_003,84,102,18
+2000-01-01 00:21:46,2000-01-01 00:22:17,manually join metal components,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00001.csv,factory_001_worker_003,105,136,31
+2000-01-01 00:22:20,2000-01-01 00:22:37,manually join metal components,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00001.csv,factory_001_worker_003,139,156,17
+2000-01-01 00:22:41,2000-01-01 00:24:55,manually join metal components,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00001.csv,factory_001_worker_003,160,294,134
+2000-01-01 00:25:00,2000-01-01 00:25:30,manually join metal components,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00001.csv,factory_001_worker_003,299,329,30
+2000-01-01 00:25:38,2000-01-01 00:26:31,manually join metal components,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00001.csv,factory_001_worker_003,337,390,53
+2000-01-01 00:26:34,2000-01-01 00:27:18,manually join metal components,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00001.csv,factory_001_worker_003,393,437,44
+2000-01-01 00:27:22,2000-01-01 00:28:56,manually join metal components,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00001.csv,factory_001_worker_003,441,535,94
+2000-01-01 00:28:59,2000-01-01 00:29:33,manually join metal components,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00001.csv,factory_001_worker_003,538,572,34
+2000-01-01 00:29:37,2000-01-01 00:30:07,manually join metal components,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00001.csv,factory_001_worker_003,576,606,30
+2000-01-01 00:30:12,2000-01-01 00:30:51,manually join metal components,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00001.csv,factory_001_worker_003,611,650,39
+2000-01-01 00:30:55,2000-01-01 00:31:08,manually join metal components,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00001.csv,factory_001_worker_003,654,667,13
+2000-01-01 00:31:11,2000-01-01 00:32:09,manually join metal components,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00001.csv,factory_001_worker_003,670,728,58
+2000-01-01 00:32:11,2000-01-01 00:36:08,manually join metal components,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00001.csv,factory_001_worker_003,730,967,237
+2000-01-01 00:36:12,2000-01-01 00:36:16,tear open bulk bag of parts,Material replenishment,factory_001,worker_003,factory001_worker003_00001.csv,factory_001_worker_003,971,975,4
+2000-01-01 00:36:20,2000-01-01 00:36:23,pour large bag of small components into desktop bin,Material replenishment,factory_001,worker_003,factory001_worker003_00001.csv,factory_001_worker_003,979,982,3
+2000-01-01 00:36:23,2000-01-01 00:36:29,wipe central jig block with cloth,Workstation cleaning,factory_001,worker_003,factory001_worker003_00001.csv,factory_001_worker_003,982,988,6
+2000-01-01 00:36:33,2000-01-01 00:37:18,manually join metal components,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00001.csv,factory_001_worker_003,992,1037,45
+2000-01-01 00:37:21,2000-01-01 00:37:57,manually join metal components,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00001.csv,factory_001_worker_003,1040,1076,36
+2000-01-01 00:38:01,2000-01-01 00:38:22,manually join metal components,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00001.csv,factory_001_worker_003,1080,1101,21
+2000-01-01 00:38:26,2000-01-01 00:40:02,manually join metal components,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00001.csv,factory_001_worker_003,1105,1201,96
+2000-01-01 00:40:02,2000-01-01 00:45:02,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00002.csv,factory_001_worker_003,0,300,300
+2000-01-01 00:45:17,2000-01-01 00:45:34,hand off part to adjacent coworker,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00002.csv,factory_001_worker_003,315,332,17
+2000-01-01 00:45:34,2000-01-01 00:46:48,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00002.csv,factory_001_worker_003,332,406,74
+2000-01-01 00:46:48,2000-01-01 00:46:56,sprinkle loose parts over pre-punched holes,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00002.csv,factory_001_worker_003,406,414,8
+2000-01-01 00:46:56,2000-01-01 00:47:17,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00002.csv,factory_001_worker_003,414,435,21
+2000-01-01 00:47:17,2000-01-01 00:47:43,hand off part to adjacent coworker,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00002.csv,factory_001_worker_003,435,461,26
+2000-01-01 00:47:43,2000-01-01 00:48:28,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00002.csv,factory_001_worker_003,461,506,45
+2000-01-01 00:48:28,2000-01-01 00:48:42,sprinkle loose parts over pre-punched holes,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00002.csv,factory_001_worker_003,506,520,14
+2000-01-01 00:48:42,2000-01-01 00:50:12,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00002.csv,factory_001_worker_003,520,610,90
+2000-01-01 00:50:12,2000-01-01 00:50:18,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_003,factory001_worker003_00002.csv,factory_001_worker_003,610,616,6
+2000-01-01 00:50:18,2000-01-01 00:51:12,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00002.csv,factory_001_worker_003,616,670,54
+2000-01-01 00:51:12,2000-01-01 00:51:25,sprinkle loose parts over pre-punched holes,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00002.csv,factory_001_worker_003,670,683,13
+2000-01-01 00:51:25,2000-01-01 00:52:24,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00002.csv,factory_001_worker_003,683,742,59
+2000-01-01 00:52:24,2000-01-01 00:52:29,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_003,factory001_worker003_00002.csv,factory_001_worker_003,742,747,5
+2000-01-01 00:52:29,2000-01-01 00:54:12,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00002.csv,factory_001_worker_003,747,850,103
+2000-01-01 00:54:12,2000-01-01 00:54:16,sprinkle loose parts over pre-punched holes,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00002.csv,factory_001_worker_003,850,854,4
+2000-01-01 00:54:16,2000-01-01 00:55:49,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00002.csv,factory_001_worker_003,854,947,93
+2000-01-01 00:55:49,2000-01-01 00:56:42,sprinkle loose parts over pre-punched holes,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00002.csv,factory_001_worker_003,947,1000,53
+2000-01-01 00:57:52,2000-01-01 00:58:24,unfold cardboard box,Component kitting,factory_001,worker_003,factory001_worker003_00002.csv,factory_001_worker_003,1070,1102,32
+2000-01-01 00:59:03,2000-01-01 00:59:48,scoop raw parts into bin,Material replenishment,factory_001,worker_003,factory001_worker003_00002.csv,factory_001_worker_003,1141,1186,45
+2000-01-01 00:59:48,2000-01-01 00:59:59,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_003,factory001_worker003_00003.csv,factory_001_worker_003,0,11,11
+2000-01-01 00:59:59,2000-01-01 01:00:11,wipe central jig block with cloth,Workstation cleaning,factory_001,worker_003,factory001_worker003_00003.csv,factory_001_worker_003,11,23,12
+2000-01-01 01:00:11,2000-01-01 01:00:48,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00003.csv,factory_001_worker_003,23,60,37
+2000-01-01 01:00:48,2000-01-01 01:01:01,snap finished assembly onto metal chain track,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00003.csv,factory_001_worker_003,60,73,13
+2000-01-01 01:01:01,2000-01-01 01:01:46,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00003.csv,factory_001_worker_003,73,118,45
+2000-01-01 01:01:46,2000-01-01 01:02:02,snap finished assembly onto metal chain track,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00003.csv,factory_001_worker_003,118,134,16
+2000-01-01 01:02:52,2000-01-01 01:03:07,wipe central jig block with cloth,Workstation cleaning,factory_001,worker_003,factory001_worker003_00003.csv,factory_001_worker_003,184,199,15
+2000-01-01 01:03:07,2000-01-01 01:03:47,rub fingers inside grip pouch,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00003.csv,factory_001_worker_003,199,239,40
+2000-01-01 01:03:47,2000-01-01 01:04:18,snap finished assembly onto metal chain track,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00003.csv,factory_001_worker_003,239,270,31
+2000-01-01 01:04:18,2000-01-01 01:04:51,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00003.csv,factory_001_worker_003,270,303,33
+2000-01-01 01:04:51,2000-01-01 01:05:08,snap finished assembly onto metal chain track,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00003.csv,factory_001_worker_003,303,320,17
+2000-01-01 01:05:08,2000-01-01 01:05:46,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00003.csv,factory_001_worker_003,320,358,38
+2000-01-01 01:05:49,2000-01-01 01:06:03,snap finished assembly onto metal chain track,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00003.csv,factory_001_worker_003,361,375,14
+2000-01-01 01:06:03,2000-01-01 01:06:56,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00003.csv,factory_001_worker_003,375,428,53
+2000-01-01 01:06:56,2000-01-01 01:07:37,snap finished assembly onto metal chain track,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00003.csv,factory_001_worker_003,428,469,41
+2000-01-01 01:07:37,2000-01-01 01:08:09,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00003.csv,factory_001_worker_003,469,501,32
+2000-01-01 01:08:09,2000-01-01 01:08:37,snap finished assembly onto metal chain track,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00003.csv,factory_001_worker_003,501,529,28
+2000-01-01 01:08:37,2000-01-01 01:09:36,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00003.csv,factory_001_worker_003,529,588,59
+2000-01-01 01:09:39,2000-01-01 01:10:13,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00003.csv,factory_001_worker_003,591,625,34
+2000-01-01 01:10:13,2000-01-01 01:10:30,snap finished assembly onto metal chain track,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00003.csv,factory_001_worker_003,625,642,17
+2000-01-01 01:10:30,2000-01-01 01:11:15,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00003.csv,factory_001_worker_003,642,687,45
+2000-01-01 01:11:15,2000-01-01 01:11:34,snap finished assembly onto metal chain track,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00003.csv,factory_001_worker_003,687,706,19
+2000-01-01 01:11:34,2000-01-01 01:12:44,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00003.csv,factory_001_worker_003,706,776,70
+2000-01-01 01:12:44,2000-01-01 01:13:04,snap finished assembly onto metal chain track,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00003.csv,factory_001_worker_003,776,796,20
+2000-01-01 01:13:04,2000-01-01 01:14:05,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00003.csv,factory_001_worker_003,796,857,61
+2000-01-01 01:14:05,2000-01-01 01:14:20,snap finished assembly onto metal chain track,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00003.csv,factory_001_worker_003,857,872,15
+2000-01-01 01:14:20,2000-01-01 01:16:26,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00003.csv,factory_001_worker_003,872,998,126
+2000-01-01 01:16:37,2000-01-01 01:16:56,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00003.csv,factory_001_worker_003,1009,1028,19
+2000-01-01 01:17:15,2000-01-01 01:17:29,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00003.csv,factory_001_worker_003,1047,1061,14
+2000-01-01 01:17:29,2000-01-01 01:17:51,snap finished assembly onto metal chain track,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00003.csv,factory_001_worker_003,1061,1083,22
+2000-01-01 01:17:51,2000-01-01 01:19:29,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00003.csv,factory_001_worker_003,1083,1181,98
+2000-01-01 01:19:29,2000-01-01 01:19:38,snap finished assembly onto metal chain track,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00003.csv,factory_001_worker_003,1181,1190,9
+2000-01-01 01:19:38,2000-01-01 01:19:46,place finished assembly into pre-punched cardboard hole,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00004.csv,factory_001_worker_003,0,8,8
+2000-01-01 01:19:46,2000-01-01 01:22:53,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00004.csv,factory_001_worker_003,8,195,187
+2000-01-01 01:22:58,2000-01-01 01:25:44,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00004.csv,factory_001_worker_003,200,366,166
+2000-01-01 01:25:50,2000-01-01 01:25:55,retrieve base and clip components from bins,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00004.csv,factory_001_worker_003,372,377,5
+2000-01-01 01:25:59,2000-01-01 01:26:38,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00004.csv,factory_001_worker_003,381,420,39
+2000-01-01 01:26:42,2000-01-01 01:26:52,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00004.csv,factory_001_worker_003,424,434,10
+2000-01-01 01:26:55,2000-01-01 01:29:48,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00004.csv,factory_001_worker_003,437,610,173
+2000-01-01 01:29:52,2000-01-01 01:33:28,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00004.csv,factory_001_worker_003,614,830,216
+2000-01-01 01:33:31,2000-01-01 01:36:38,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00004.csv,factory_001_worker_003,833,1020,187
+2000-01-01 01:36:59,2000-01-01 01:39:39,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00004.csv,factory_001_worker_003,1041,1201,160
+2000-01-01 01:39:39,2000-01-01 01:45:47,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00005.csv,factory_001_worker_003,0,368,368
+2000-01-01 01:45:47,2000-01-01 01:45:56,wipe central jig block with cloth,Workstation cleaning,factory_001,worker_003,factory001_worker003_00005.csv,factory_001_worker_003,368,377,9
+2000-01-01 01:45:56,2000-01-01 01:51:53,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00005.csv,factory_001_worker_003,377,734,357
+2000-01-01 01:51:53,2000-01-01 01:51:58,wipe central jig block with cloth,Workstation cleaning,factory_001,worker_003,factory001_worker003_00005.csv,factory_001_worker_003,734,739,5
+2000-01-01 01:51:58,2000-01-01 01:59:38,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00005.csv,factory_001_worker_003,739,1199,460
+2000-01-01 01:59:38,2000-01-01 02:01:45,retrieve base and clip components from bins,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00006.csv,factory_001_worker_003,0,127,127
+2000-01-01 02:01:45,2000-01-01 02:03:53,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00006.csv,factory_001_worker_003,127,255,128
+2000-01-01 02:03:53,2000-01-01 02:06:00,insert small pin into base components,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00006.csv,factory_001_worker_003,255,382,127
+2000-01-01 02:06:00,2000-01-01 02:08:08,snap finished assembly onto metal chain track,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00006.csv,factory_001_worker_003,382,510,128
+2000-01-01 02:08:50,2000-01-01 02:09:10,retrieve base and clip components from bins,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00006.csv,factory_001_worker_003,552,572,20
+2000-01-01 02:09:10,2000-01-01 02:09:30,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00006.csv,factory_001_worker_003,572,592,20
+2000-01-01 02:09:30,2000-01-01 02:09:49,insert small pin into base components,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00006.csv,factory_001_worker_003,592,611,19
+2000-01-01 02:09:49,2000-01-01 02:10:09,snap finished assembly onto metal chain track,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00006.csv,factory_001_worker_003,611,631,20
+2000-01-01 02:10:13,2000-01-01 02:10:19,retrieve base and clip components from bins,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00006.csv,factory_001_worker_003,635,641,6
+2000-01-01 02:10:19,2000-01-01 02:10:25,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00006.csv,factory_001_worker_003,641,647,6
+2000-01-01 02:10:25,2000-01-01 02:10:32,insert small pin into base components,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00006.csv,factory_001_worker_003,647,654,7
+2000-01-01 02:10:32,2000-01-01 02:10:38,snap finished assembly onto metal chain track,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00006.csv,factory_001_worker_003,654,660,6
+2000-01-01 02:10:59,2000-01-01 02:13:09,retrieve base and clip components from bins,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00006.csv,factory_001_worker_003,681,811,130
+2000-01-01 02:13:09,2000-01-01 02:15:19,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00006.csv,factory_001_worker_003,811,941,130
+2000-01-01 02:15:19,2000-01-01 02:17:28,insert small pin into base components,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00006.csv,factory_001_worker_003,941,1070,129
+2000-01-01 02:17:28,2000-01-01 02:19:38,snap finished assembly onto metal chain track,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00006.csv,factory_001_worker_003,1070,1200,130
+2000-01-01 02:19:38,2000-01-01 02:20:42,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00007.csv,factory_001_worker_003,0,64,64
+2000-01-01 02:20:59,2000-01-01 02:21:54,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00007.csv,factory_001_worker_003,81,136,55
+2000-01-01 02:22:00,2000-01-01 02:25:37,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00007.csv,factory_001_worker_003,142,359,217
+2000-01-01 02:25:38,2000-01-01 02:25:42,wipe central jig block with cloth,Workstation cleaning,factory_001,worker_003,factory001_worker003_00007.csv,factory_001_worker_003,360,364,4
+2000-01-01 02:25:42,2000-01-01 02:36:23,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00007.csv,factory_001_worker_003,364,1005,641
+2000-01-01 02:36:56,2000-01-01 02:39:38,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00007.csv,factory_001_worker_003,1038,1200,162
+2000-01-01 02:39:38,2000-01-01 02:44:46,press assembly against central block,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00008.csv,factory_001_worker_003,0,308,308
+2000-01-01 02:44:46,2000-01-01 02:44:53,place finished assembly into pre-punched cardboard hole,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00008.csv,factory_001_worker_003,308,315,7
+2000-01-01 02:44:53,2000-01-01 02:46:24,press assembly against central block,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00008.csv,factory_001_worker_003,315,406,91
+2000-01-01 02:46:24,2000-01-01 02:46:45,press assembly against central block,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00008.csv,factory_001_worker_003,406,427,21
+2000-01-01 02:46:47,2000-01-01 02:46:51,place finished assembly into pre-punched cardboard hole,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00008.csv,factory_001_worker_003,429,433,4
+2000-01-01 02:46:51,2000-01-01 02:49:41,press assembly against central block,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00008.csv,factory_001_worker_003,433,603,170
+2000-01-01 02:49:41,2000-01-01 02:49:43,place finished assembly into pre-punched cardboard hole,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00008.csv,factory_001_worker_003,603,605,2
+2000-01-01 02:49:43,2000-01-01 02:52:37,press assembly against central block,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00008.csv,factory_001_worker_003,605,779,174
+2000-01-01 02:52:44,2000-01-01 02:57:07,press assembly against central block,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00008.csv,factory_001_worker_003,786,1049,263
+2000-01-01 02:57:12,2000-01-01 02:57:19,drag small parts to front of bin,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00008.csv,factory_001_worker_003,1054,1061,7
+2000-01-01 02:57:19,2000-01-01 02:59:38,press assembly against central block,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00008.csv,factory_001_worker_003,1061,1200,139
+2000-01-01 02:59:38,2000-01-01 03:00:19,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00009.csv,factory_001_worker_003,0,41,41
+2000-01-01 03:00:19,2000-01-01 03:00:24,count rows of completed parts,Production tracking,factory_001,worker_003,factory001_worker003_00009.csv,factory_001_worker_003,41,46,5
+2000-01-01 03:00:24,2000-01-01 03:00:33,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00009.csv,factory_001_worker_003,46,55,9
+2000-01-01 03:00:33,2000-01-01 03:00:36,count rows of completed parts,Production tracking,factory_001,worker_003,factory001_worker003_00009.csv,factory_001_worker_003,55,58,3
+2000-01-01 03:00:36,2000-01-01 03:01:06,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00009.csv,factory_001_worker_003,58,88,30
+2000-01-01 03:01:06,2000-01-01 03:01:16,count rows of completed parts,Production tracking,factory_001,worker_003,factory001_worker003_00009.csv,factory_001_worker_003,88,98,10
+2000-01-01 03:01:16,2000-01-01 03:01:50,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00009.csv,factory_001_worker_003,98,132,34
+2000-01-01 03:01:50,2000-01-01 03:01:58,count rows of completed parts,Production tracking,factory_001,worker_003,factory001_worker003_00009.csv,factory_001_worker_003,132,140,8
+2000-01-01 03:01:58,2000-01-01 03:04:58,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00009.csv,factory_001_worker_003,140,320,180
+2000-01-01 03:04:58,2000-01-01 03:07:56,count rows of completed parts,Production tracking,factory_001,worker_003,factory001_worker003_00009.csv,factory_001_worker_003,320,498,178
+2000-01-01 03:07:56,2000-01-01 03:09:23,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00009.csv,factory_001_worker_003,498,585,87
+2000-01-01 03:09:23,2000-01-01 03:09:33,write entry onto clipboard log,Production tracking,factory_001,worker_003,factory001_worker003_00009.csv,factory_001_worker_003,585,595,10
+2000-01-01 03:09:33,2000-01-01 03:09:57,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00009.csv,factory_001_worker_003,595,619,24
+2000-01-01 03:09:57,2000-01-01 03:10:25,consult coworker regarding part counts,Production tracking,factory_001,worker_003,factory001_worker003_00009.csv,factory_001_worker_003,619,647,28
+2000-01-01 03:10:25,2000-01-01 03:13:59,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00009.csv,factory_001_worker_003,647,861,214
+2000-01-01 03:13:59,2000-01-01 03:14:05,count rows of completed parts,Production tracking,factory_001,worker_003,factory001_worker003_00009.csv,factory_001_worker_003,861,867,6
+2000-01-01 03:14:05,2000-01-01 03:14:39,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00009.csv,factory_001_worker_003,867,901,34
+2000-01-01 03:14:39,2000-01-01 03:15:06,write entry onto clipboard log,Production tracking,factory_001,worker_003,factory001_worker003_00009.csv,factory_001_worker_003,901,928,27
+2000-01-01 03:15:06,2000-01-01 03:19:39,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00009.csv,factory_001_worker_003,928,1201,273
+2000-01-01 03:19:39,2000-01-01 03:20:01,insert small pin into base components,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00010.csv,factory_001_worker_003,0,22,22
+2000-01-01 03:20:01,2000-01-01 03:20:03,place finished assembly into pre-punched cardboard hole,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00010.csv,factory_001_worker_003,22,24,2
+2000-01-01 03:20:03,2000-01-01 03:23:37,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00010.csv,factory_001_worker_003,24,238,214
+2000-01-01 03:24:00,2000-01-01 03:25:00,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00010.csv,factory_001_worker_003,261,321,60
+2000-01-01 03:25:19,2000-01-01 03:25:46,scoop raw parts into bin,Material replenishment,factory_001,worker_003,factory001_worker003_00010.csv,factory_001_worker_003,340,367,27
+2000-01-01 03:26:00,2000-01-01 03:27:59,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00010.csv,factory_001_worker_003,381,500,119
+2000-01-01 03:27:59,2000-01-01 03:28:13,write entry onto clipboard log,Production tracking,factory_001,worker_003,factory001_worker003_00010.csv,factory_001_worker_003,500,514,14
+2000-01-01 03:28:13,2000-01-01 03:32:39,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00010.csv,factory_001_worker_003,514,780,266
+2000-01-01 03:32:47,2000-01-01 03:37:17,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00010.csv,factory_001_worker_003,788,1058,270
+2000-01-01 03:37:17,2000-01-01 03:37:21,consult coworker regarding part counts,Production tracking,factory_001,worker_003,factory001_worker003_00010.csv,factory_001_worker_003,1058,1062,4
+2000-01-01 03:37:21,2000-01-01 03:37:57,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00010.csv,factory_001_worker_003,1062,1098,36
+2000-01-01 03:38:29,2000-01-01 03:38:48,scoop raw parts into bin,Material replenishment,factory_001,worker_003,factory001_worker003_00010.csv,factory_001_worker_003,1130,1149,19
+2000-01-01 03:38:48,2000-01-01 03:39:41,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00010.csv,factory_001_worker_003,1149,1202,53
+2000-01-01 03:39:41,2000-01-01 03:39:48,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00011.csv,factory_001_worker_003,0,7,7
+2000-01-01 03:39:49,2000-01-01 03:40:56,mount finished assembly onto wooden board pin,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00011.csv,factory_001_worker_003,8,75,67
+2000-01-01 03:40:57,2000-01-01 03:41:41,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00011.csv,factory_001_worker_003,76,120,44
+2000-01-01 03:41:41,2000-01-01 03:42:41,mount finished assembly onto wooden board pin,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00011.csv,factory_001_worker_003,120,180,60
+2000-01-01 03:42:41,2000-01-01 03:43:03,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00011.csv,factory_001_worker_003,180,202,22
+2000-01-01 03:43:04,2000-01-01 03:43:17,mount finished assembly onto wooden board pin,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00011.csv,factory_001_worker_003,203,216,13
+2000-01-01 03:43:18,2000-01-01 03:43:27,pour large bag of small components into desktop bin,Material replenishment,factory_001,worker_003,factory001_worker003_00011.csv,factory_001_worker_003,217,226,9
+2000-01-01 03:43:28,2000-01-01 03:43:46,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00011.csv,factory_001_worker_003,227,245,18
+2000-01-01 03:43:47,2000-01-01 03:44:28,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00011.csv,factory_001_worker_003,246,287,41
+2000-01-01 03:44:29,2000-01-01 03:45:10,mount finished assembly onto wooden board pin,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00011.csv,factory_001_worker_003,288,329,41
+2000-01-01 03:45:11,2000-01-01 03:45:41,consult coworker regarding part counts,Production tracking,factory_001,worker_003,factory001_worker003_00011.csv,factory_001_worker_003,330,360,30
+2000-01-01 03:45:42,2000-01-01 03:46:26,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00011.csv,factory_001_worker_003,361,405,44
+2000-01-01 03:46:27,2000-01-01 03:46:43,drop loose parts into plastic bag,Component bagging,factory_001,worker_003,factory001_worker003_00011.csv,factory_001_worker_003,406,422,16
+2000-01-01 03:46:44,2000-01-01 03:47:04,write entry onto clipboard log,Production tracking,factory_001,worker_003,factory001_worker003_00011.csv,factory_001_worker_003,423,443,20
+2000-01-01 03:47:04,2000-01-01 03:47:18,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00011.csv,factory_001_worker_003,443,457,14
+2000-01-01 03:47:19,2000-01-01 03:47:32,mount finished assembly onto wooden board pin,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00011.csv,factory_001_worker_003,458,471,13
+2000-01-01 03:47:33,2000-01-01 03:47:36,place wooden board into machinery,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00011.csv,factory_001_worker_003,472,475,3
+2000-01-01 03:47:37,2000-01-01 03:49:18,consult coworker regarding part counts,Production tracking,factory_001,worker_003,factory001_worker003_00011.csv,factory_001_worker_003,476,577,101
+2000-01-01 03:49:19,2000-01-01 03:50:21,write entry onto clipboard log,Production tracking,factory_001,worker_003,factory001_worker003_00011.csv,factory_001_worker_003,578,640,62
+2000-01-01 03:50:22,2000-01-01 03:50:28,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00011.csv,factory_001_worker_003,641,647,6
+2000-01-01 03:50:29,2000-01-01 03:50:51,write entry onto clipboard log,Production tracking,factory_001,worker_003,factory001_worker003_00011.csv,factory_001_worker_003,648,670,22
+2000-01-01 03:50:52,2000-01-01 03:50:56,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00011.csv,factory_001_worker_003,671,675,4
+2000-01-01 03:50:57,2000-01-01 03:51:03,carry finished batch to consolidation point,Finished goods transport,factory_001,worker_003,factory001_worker003_00011.csv,factory_001_worker_003,676,682,6
+2000-01-01 03:51:04,2000-01-01 03:51:22,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00011.csv,factory_001_worker_003,683,701,18
+2000-01-01 03:51:23,2000-01-01 03:51:33,mount finished assembly onto wooden board pin,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00011.csv,factory_001_worker_003,702,712,10
+2000-01-01 03:51:34,2000-01-01 03:51:41,write entry onto clipboard log,Production tracking,factory_001,worker_003,factory001_worker003_00011.csv,factory_001_worker_003,713,720,7
+2000-01-01 03:51:42,2000-01-01 03:51:47,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00011.csv,factory_001_worker_003,721,726,5
+2000-01-01 03:51:48,2000-01-01 03:52:01,write entry onto clipboard log,Production tracking,factory_001,worker_003,factory001_worker003_00011.csv,factory_001_worker_003,727,740,13
+2000-01-01 03:52:02,2000-01-01 03:52:11,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00011.csv,factory_001_worker_003,741,750,9
+2000-01-01 03:52:12,2000-01-01 03:52:16,mount finished assembly onto wooden board pin,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00011.csv,factory_001_worker_003,751,755,4
+2000-01-01 03:52:17,2000-01-01 03:53:31,consult coworker regarding part counts,Production tracking,factory_001,worker_003,factory001_worker003_00011.csv,factory_001_worker_003,756,830,74
+2000-01-01 03:53:32,2000-01-01 03:53:41,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00011.csv,factory_001_worker_003,831,840,9
+2000-01-01 03:53:42,2000-01-01 03:53:51,mount finished assembly onto wooden board pin,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00011.csv,factory_001_worker_003,841,850,9
+2000-01-01 03:53:52,2000-01-01 03:53:58,write entry onto clipboard log,Production tracking,factory_001,worker_003,factory001_worker003_00011.csv,factory_001_worker_003,851,857,6
+2000-01-01 03:53:59,2000-01-01 03:54:12,mount finished assembly onto wooden board pin,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00011.csv,factory_001_worker_003,858,871,13
+2000-01-01 03:54:13,2000-01-01 03:54:26,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00011.csv,factory_001_worker_003,872,885,13
+2000-01-01 03:54:27,2000-01-01 03:54:51,write entry onto clipboard log,Production tracking,factory_001,worker_003,factory001_worker003_00011.csv,factory_001_worker_003,886,910,24
+2000-01-01 03:54:52,2000-01-01 03:55:06,mount finished assembly onto wooden board pin,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00011.csv,factory_001_worker_003,911,925,14
+2000-01-01 03:55:07,2000-01-01 03:55:51,consult coworker regarding part counts,Production tracking,factory_001,worker_003,factory001_worker003_00011.csv,factory_001_worker_003,926,970,44
+2000-01-01 03:55:52,2000-01-01 03:56:28,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00011.csv,factory_001_worker_003,971,1007,36
+2000-01-01 03:56:29,2000-01-01 03:56:58,consult coworker regarding part counts,Production tracking,factory_001,worker_003,factory001_worker003_00011.csv,factory_001_worker_003,1008,1037,29
+2000-01-01 03:56:59,2000-01-01 03:58:04,mount finished assembly onto wooden board pin,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00011.csv,factory_001_worker_003,1038,1103,65
+2000-01-01 03:58:05,2000-01-01 03:58:26,consult coworker regarding part counts,Production tracking,factory_001,worker_003,factory001_worker003_00011.csv,factory_001_worker_003,1104,1125,21
+2000-01-01 03:58:27,2000-01-01 03:58:50,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00011.csv,factory_001_worker_003,1126,1149,23
+2000-01-01 03:58:51,2000-01-01 03:59:25,mate components over central jig,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00011.csv,factory_001_worker_003,1150,1184,34
+2000-01-01 03:59:26,2000-01-01 03:59:41,mount finished assembly onto wooden board pin,Manual mechanical assembly,factory_001,worker_003,factory001_worker003_00011.csv,factory_001_worker_003,1185,1200,15

@@ -1,0 +1,122 @@
+start_timestamp,end_timestamp,activity,process,factory,worker,source_file,case_id,start_seconds_from_video_start,end_seconds_from_video_start,duration_seconds
+2000-01-01 00:00:00,2000-01-01 00:03:41,rivet pin with suspended pneumatic tool,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00000.csv,factory_001_worker_010,0,221,221
+2000-01-01 00:03:41,2000-01-01 00:07:18,push pins through aligned holes to create loose batch,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00000.csv,factory_001_worker_010,221,438,217
+2000-01-01 00:07:18,2000-01-01 00:09:41,apply drop of liquid adhesive to joints,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00000.csv,factory_001_worker_010,438,581,143
+2000-01-01 00:09:41,2000-01-01 00:10:17,manually join metal components,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00000.csv,factory_001_worker_010,581,617,36
+2000-01-01 00:10:17,2000-01-01 00:12:00,tighten set screw with hand tool,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00000.csv,factory_001_worker_010,617,720,103
+2000-01-01 00:12:00,2000-01-01 00:15:53,rivet pin with suspended pneumatic tool,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00000.csv,factory_001_worker_010,720,953,233
+2000-01-01 00:12:00,2000-01-01 00:15:53,tighten set screw with hand tool,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00000.csv,factory_001_worker_010,720,953,233
+2000-01-01 00:15:53,2000-01-01 00:16:03,toss completed sub-assembly into side bin,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00000.csv,factory_001_worker_010,953,963,10
+2000-01-01 00:16:03,2000-01-01 00:17:48,push pins through aligned holes to create loose batch,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00000.csv,factory_001_worker_010,963,1068,105
+2000-01-01 00:17:48,2000-01-01 00:18:45,apply drop of liquid adhesive to joints,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00000.csv,factory_001_worker_010,1068,1125,57
+2000-01-01 00:18:45,2000-01-01 00:19:30,manually join metal components,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00000.csv,factory_001_worker_010,1125,1170,45
+2000-01-01 00:19:30,2000-01-01 00:20:00,tighten set screw with hand tool,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00000.csv,factory_001_worker_010,1170,1200,30
+2000-01-01 00:20:00,2000-01-01 00:20:08,tighten bracket with Allen key,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00001.csv,factory_001_worker_010,0,8,8
+2000-01-01 00:20:08,2000-01-01 00:20:15,manually join metal components,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00001.csv,factory_001_worker_010,8,15,7
+2000-01-01 00:20:15,2000-01-01 00:20:44,tighten bracket with Allen key,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00001.csv,factory_001_worker_010,15,44,29
+2000-01-01 00:20:44,2000-01-01 00:21:00,tighten set screw with hand tool,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00001.csv,factory_001_worker_010,44,60,16
+2000-01-01 01:21:00,2000-01-01 01:21:21,tighten set screw with hand tool,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00001.csv,factory_001_worker_010,3660,3681,21
+2000-01-01 01:21:21,2000-01-01 01:21:35,manually join metal components,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00001.csv,factory_001_worker_010,3681,3695,14
+2000-01-01 01:21:35,2000-01-01 01:21:46,drag unassembled metal parts closer to fixture,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00001.csv,factory_001_worker_010,3695,3706,11
+2000-01-01 01:21:46,2000-01-01 01:22:00,thread small screw into metal channel,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00001.csv,factory_001_worker_010,3706,3720,14
+2000-01-01 01:22:00,2000-01-01 01:22:20,slide thin metal rod into channel,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00001.csv,factory_001_worker_010,3720,3740,20
+2000-01-01 01:22:20,2000-01-01 01:22:32,drive screw into metal channel with power drill,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00001.csv,factory_001_worker_010,3740,3752,12
+2000-01-01 01:22:32,2000-01-01 01:23:17,tighten bracket with Allen key,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00001.csv,factory_001_worker_010,3752,3797,45
+2000-01-01 01:23:17,2000-01-01 01:23:28,manually join metal components,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00001.csv,factory_001_worker_010,3797,3808,11
+2000-01-01 01:23:28,2000-01-01 01:23:40,tighten bracket with Allen key,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00001.csv,factory_001_worker_010,3808,3820,12
+2000-01-01 01:23:40,2000-01-01 01:23:53,drive screw into metal channel with power drill,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00001.csv,factory_001_worker_010,3820,3833,13
+2000-01-01 01:23:53,2000-01-01 01:24:05,make micro-adjustment to part with specialized tool,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00001.csv,factory_001_worker_010,3833,3845,12
+2000-01-01 01:24:05,2000-01-01 01:24:39,tighten set screw with hand tool,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00001.csv,factory_001_worker_010,3845,3879,34
+2000-01-01 01:24:39,2000-01-01 01:24:45,drive screw into metal channel with power drill,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00001.csv,factory_001_worker_010,3879,3885,6
+2000-01-01 01:24:45,2000-01-01 01:25:01,make micro-adjustment to part with specialized tool,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00001.csv,factory_001_worker_010,3885,3901,16
+2000-01-01 01:25:01,2000-01-01 01:25:09,thread small screw into metal channel,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00001.csv,factory_001_worker_010,3901,3909,8
+2000-01-01 01:25:09,2000-01-01 01:25:20,slide thin metal rod into channel,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00001.csv,factory_001_worker_010,3909,3920,11
+2000-01-01 01:25:20,2000-01-01 01:25:31,drive screw into metal channel with power drill,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00001.csv,factory_001_worker_010,3920,3931,11
+2000-01-01 01:25:31,2000-01-01 01:25:38,manually join metal components,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00001.csv,factory_001_worker_010,3931,3938,7
+2000-01-01 01:25:38,2000-01-01 01:26:40,sift unformed parts in bulk bin,Component kitting,factory_001,worker_010,factory001_worker010_00001.csv,factory_001_worker_010,3938,4000,62
+2000-01-01 01:29:08,2000-01-01 01:29:15,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_010,factory001_worker010_00001.csv,factory_001_worker_010,4148,4155,7
+2000-01-01 01:30:02,2000-01-01 01:30:24,place metal bracket onto central fixture,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00001.csv,factory_001_worker_010,4202,4224,22
+2000-01-01 01:31:27,2000-01-01 01:31:38,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_010,factory001_worker010_00001.csv,factory_001_worker_010,4287,4298,11
+2000-01-01 01:31:43,2000-01-01 01:31:53,manually join metal components,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00001.csv,factory_001_worker_010,4303,4313,10
+2000-01-01 01:32:15,2000-01-01 01:32:28,manually join metal components,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00001.csv,factory_001_worker_010,4335,4348,13
+2000-01-01 01:32:28,2000-01-01 01:32:35,blow compressed air over unit,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00001.csv,factory_001_worker_010,4348,4355,7
+2000-01-01 01:32:35,2000-01-01 01:32:44,manually join metal components,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00001.csv,factory_001_worker_010,4355,4364,9
+2000-01-01 01:32:48,2000-01-01 01:32:59,manually join metal components,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00001.csv,factory_001_worker_010,4368,4379,11
+2000-01-01 01:32:59,2000-01-01 01:33:46,weave flexible white strap through metal slots,Structural frame assembly,factory_001,worker_010,factory001_worker010_00001.csv,factory_001_worker_010,4379,4426,47
+2000-01-01 01:33:46,2000-01-01 01:33:58,make micro-adjustment to part with specialized tool,Structural frame assembly,factory_001,worker_010,factory001_worker010_00001.csv,factory_001_worker_010,4426,4438,12
+2000-01-01 01:34:12,2000-01-01 01:34:25,blow compressed air over unit,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00001.csv,factory_001_worker_010,4452,4465,13
+2000-01-01 01:34:25,2000-01-01 01:34:43,manually join metal components,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00001.csv,factory_001_worker_010,4465,4483,18
+2000-01-01 01:34:43,2000-01-01 01:34:49,blow compressed air over unit,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00001.csv,factory_001_worker_010,4483,4489,6
+2000-01-01 01:35:02,2000-01-01 01:35:52,make micro-adjustment to part with specialized tool,Structural frame assembly,factory_001,worker_010,factory001_worker010_00001.csv,factory_001_worker_010,4502,4552,50
+2000-01-01 01:35:52,2000-01-01 01:36:41,weave flexible white strap through metal slots,Structural frame assembly,factory_001,worker_010,factory001_worker010_00001.csv,factory_001_worker_010,4552,4601,49
+2000-01-01 01:36:41,2000-01-01 01:37:12,secure strap with silver hand crimper,Structural frame assembly,factory_001,worker_010,factory001_worker010_00001.csv,factory_001_worker_010,4601,4632,31
+2000-01-01 01:37:12,2000-01-01 01:37:35,fit curved plastic shell over strapped metal frame,Structural frame assembly,factory_001,worker_010,factory001_worker010_00001.csv,factory_001_worker_010,4632,4655,23
+2000-01-01 01:37:35,2000-01-01 01:38:00,blow compressed air over unit,Structural frame assembly,factory_001,worker_010,factory001_worker010_00001.csv,factory_001_worker_010,4655,4680,25
+2000-01-01 01:38:00,2000-01-01 01:38:22,carry unit to seating fixture,Structural frame assembly,factory_001,worker_010,factory001_worker010_00001.csv,factory_001_worker_010,4680,4702,22
+2000-01-01 01:38:22,2000-01-01 01:40:00,press unit into blue seating fixture,Structural frame assembly,factory_001,worker_010,factory001_worker010_00001.csv,factory_001_worker_010,4702,4800,98
+2000-01-01 01:40:00,2000-01-01 01:40:24,fold and tuck flexible white strap,Structural frame assembly,factory_001,worker_010,factory001_worker010_00002.csv,factory_001_worker_010,0,24,24
+2000-01-01 01:40:24,2000-01-01 01:40:33,drag unassembled metal parts closer to fixture,Structural frame assembly,factory_001,worker_010,factory001_worker010_00002.csv,factory_001_worker_010,24,33,9
+2000-01-01 01:40:33,2000-01-01 01:41:06,weave flexible white strap through metal slots,Structural frame assembly,factory_001,worker_010,factory001_worker010_00002.csv,factory_001_worker_010,33,66,33
+2000-01-01 01:41:06,2000-01-01 01:41:21,fit curved plastic shell over strapped metal frame,Structural frame assembly,factory_001,worker_010,factory001_worker010_00002.csv,factory_001_worker_010,66,81,15
+2000-01-01 01:41:21,2000-01-01 01:42:00,fold and tuck flexible white strap,Structural frame assembly,factory_001,worker_010,factory001_worker010_00002.csv,factory_001_worker_010,81,120,39
+2000-01-01 01:42:00,2000-01-01 01:42:18,drive fastener into metal parts,Structural frame assembly,factory_001,worker_010,factory001_worker010_00002.csv,factory_001_worker_010,120,138,18
+2000-01-01 01:42:18,2000-01-01 01:43:54,fold and tuck flexible white strap,Structural frame assembly,factory_001,worker_010,factory001_worker010_00002.csv,factory_001_worker_010,138,234,96
+2000-01-01 01:43:54,2000-01-01 01:44:05,carry finished batch to consolidation point,Finished goods transport,factory_001,worker_010,factory001_worker010_00002.csv,factory_001_worker_010,234,245,11
+2000-01-01 01:44:05,2000-01-01 01:44:18,manually join metal components,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00002.csv,factory_001_worker_010,245,258,13
+2000-01-01 01:44:18,2000-01-01 01:44:59,insert small fastener into pre-drilled hole,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00002.csv,factory_001_worker_010,258,299,41
+2000-01-01 01:44:59,2000-01-01 01:45:14,mate components over central jig,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00002.csv,factory_001_worker_010,299,314,15
+2000-01-01 01:45:14,2000-01-01 01:45:32,manually join metal components,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00002.csv,factory_001_worker_010,314,332,18
+2000-01-01 01:45:32,2000-01-01 01:46:09,insert small fastener into pre-drilled hole,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00002.csv,factory_001_worker_010,332,369,37
+2000-01-01 01:46:09,2000-01-01 01:46:47,manually join metal components,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00002.csv,factory_001_worker_010,369,407,38
+2000-01-01 01:46:47,2000-01-01 01:47:37,tighten set screw with hand tool,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00002.csv,factory_001_worker_010,407,457,50
+2000-01-01 01:47:37,2000-01-01 01:48:14,insert small pin into base components,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00002.csv,factory_001_worker_010,457,494,37
+2000-01-01 01:48:14,2000-01-01 01:48:26,carry finished batch to consolidation point,Finished goods transport,factory_001,worker_010,factory001_worker010_00002.csv,factory_001_worker_010,494,506,12
+2000-01-01 01:48:26,2000-01-01 01:49:07,manually join metal components,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00002.csv,factory_001_worker_010,506,547,41
+2000-01-01 01:49:07,2000-01-01 01:49:25,apply drop of liquid adhesive to joints,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00002.csv,factory_001_worker_010,547,565,18
+2000-01-01 01:49:25,2000-01-01 01:49:47,manually join metal components,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00002.csv,factory_001_worker_010,565,587,22
+2000-01-01 01:49:47,2000-01-01 01:50:39,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00002.csv,factory_001_worker_010,587,639,52
+2000-01-01 01:50:44,2000-01-01 01:51:22,place metal bracket onto central fixture,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00002.csv,factory_001_worker_010,644,682,38
+2000-01-01 01:51:22,2000-01-01 01:52:05,align metal bracket and pin on jig,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00002.csv,factory_001_worker_010,682,725,43
+2000-01-01 01:52:05,2000-01-01 01:52:47,tighten set screw with hand tool,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00002.csv,factory_001_worker_010,725,767,42
+2000-01-01 01:52:47,2000-01-01 01:53:34,toss completed sub-assembly into side bin,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00002.csv,factory_001_worker_010,767,814,47
+2000-01-01 01:53:34,2000-01-01 01:54:18,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00002.csv,factory_001_worker_010,814,858,44
+2000-01-01 01:54:18,2000-01-01 01:54:35,carry finished batch to consolidation point,Finished goods transport,factory_001,worker_010,factory001_worker010_00002.csv,factory_001_worker_010,858,875,17
+2000-01-01 01:54:35,2000-01-01 01:55:42,insert small pin into base components,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00002.csv,factory_001_worker_010,875,942,67
+2000-01-01 01:55:42,2000-01-01 01:56:03,tighten set screw with hand tool,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00002.csv,factory_001_worker_010,942,963,21
+2000-01-01 01:56:03,2000-01-01 01:56:50,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00002.csv,factory_001_worker_010,963,1010,47
+2000-01-01 01:56:50,2000-01-01 01:57:10,manually join metal components,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00002.csv,factory_001_worker_010,1010,1030,20
+2000-01-01 01:57:10,2000-01-01 01:58:10,insert small fastener into pre-drilled hole,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00002.csv,factory_001_worker_010,1030,1090,60
+2000-01-01 01:58:10,2000-01-01 01:58:24,carry finished batch to consolidation point,Finished goods transport,factory_001,worker_010,factory001_worker010_00002.csv,factory_001_worker_010,1090,1104,14
+2000-01-01 01:58:24,2000-01-01 01:58:54,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00002.csv,factory_001_worker_010,1104,1134,30
+2000-01-01 01:58:54,2000-01-01 01:59:44,drive fastener into metal parts,Structural frame assembly,factory_001,worker_010,factory001_worker010_00002.csv,factory_001_worker_010,1134,1184,50
+2000-01-01 01:59:44,2000-01-01 02:00:19,finger-thread metal washer and nut onto pre-drilled hole,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00003.csv,factory_001_worker_010,0,35,35
+2000-01-01 02:00:19,2000-01-01 02:00:30,retrieve wrapped red plastic enclosure from pallet,Material replenishment,factory_001,worker_010,factory001_worker010_00003.csv,factory_001_worker_010,35,46,11
+2000-01-01 02:00:30,2000-01-01 02:00:54,tear open clear plastic wrapping,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00003.csv,factory_001_worker_010,46,70,24
+2000-01-01 02:00:54,2000-01-01 02:01:05,discard plastic wrapper on desk,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00003.csv,factory_001_worker_010,70,81,11
+2000-01-01 02:01:05,2000-01-01 02:02:27,finger-thread metal washer and nut onto pre-drilled hole,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00003.csv,factory_001_worker_010,81,163,82
+2000-01-01 02:02:27,2000-01-01 02:03:50,tighten nut from inside enclosure using pliers,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00003.csv,factory_001_worker_010,163,246,83
+2000-01-01 02:03:50,2000-01-01 02:04:04,brush clear liquid onto switch threads,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00003.csv,factory_001_worker_010,246,260,14
+2000-01-01 02:04:04,2000-01-01 02:04:19,insert switch into enclosure hole,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00003.csv,factory_001_worker_010,260,275,15
+2000-01-01 02:04:19,2000-01-01 02:04:43,tighten nut from inside enclosure using pliers,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00003.csv,factory_001_worker_010,275,299,24
+2000-01-01 02:04:45,2000-01-01 02:06:05,finger-thread metal washer and nut onto pre-drilled hole,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00003.csv,factory_001_worker_010,301,381,80
+2000-01-01 02:06:05,2000-01-01 02:07:25,tighten nut from inside enclosure using pliers,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00003.csv,factory_001_worker_010,381,461,80
+2000-01-01 02:07:25,2000-01-01 02:07:44,brush clear liquid onto switch threads,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00003.csv,factory_001_worker_010,461,480,19
+2000-01-01 02:07:44,2000-01-01 02:08:04,insert switch into enclosure hole,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00003.csv,factory_001_worker_010,480,500,20
+2000-01-01 02:08:04,2000-01-01 02:08:52,tighten nut from inside enclosure using pliers,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00003.csv,factory_001_worker_010,500,548,48
+2000-01-01 02:08:52,2000-01-01 02:09:02,retrieve wrapped red plastic enclosure from pallet,Material replenishment,factory_001,worker_010,factory001_worker010_00003.csv,factory_001_worker_010,548,558,10
+2000-01-01 02:09:02,2000-01-01 02:09:24,tear open clear plastic wrapping,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00003.csv,factory_001_worker_010,558,580,22
+2000-01-01 02:09:24,2000-01-01 02:09:31,discard plastic wrapper on desk,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00003.csv,factory_001_worker_010,580,587,7
+2000-01-01 02:09:31,2000-01-01 02:10:59,finger-thread metal washer and nut onto pre-drilled hole,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00003.csv,factory_001_worker_010,587,675,88
+2000-01-01 02:10:59,2000-01-01 02:12:27,tighten nut from inside enclosure using pliers,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00003.csv,factory_001_worker_010,675,763,88
+2000-01-01 02:12:27,2000-01-01 02:12:44,brush clear liquid onto switch threads,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00003.csv,factory_001_worker_010,763,780,17
+2000-01-01 02:12:44,2000-01-01 02:12:59,insert switch into enclosure hole,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00003.csv,factory_001_worker_010,780,795,15
+2000-01-01 02:12:59,2000-01-01 02:13:32,tighten nut from inside enclosure using pliers,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00003.csv,factory_001_worker_010,795,828,33
+2000-01-01 02:13:44,2000-01-01 02:15:04,finger-thread metal washer and nut onto pre-drilled hole,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00003.csv,factory_001_worker_010,840,920,80
+2000-01-01 02:15:04,2000-01-01 02:16:23,tighten nut from inside enclosure using pliers,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00003.csv,factory_001_worker_010,920,999,79
+2000-01-01 02:16:23,2000-01-01 02:16:39,brush clear liquid onto switch threads,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00003.csv,factory_001_worker_010,999,1015,16
+2000-01-01 02:16:39,2000-01-01 02:16:54,insert switch into enclosure hole,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00003.csv,factory_001_worker_010,1015,1030,15
+2000-01-01 02:16:54,2000-01-01 02:17:30,tighten nut from inside enclosure using pliers,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00003.csv,factory_001_worker_010,1030,1066,36
+2000-01-01 02:17:30,2000-01-01 02:17:38,retrieve wrapped red plastic enclosure from pallet,Material replenishment,factory_001,worker_010,factory001_worker010_00003.csv,factory_001_worker_010,1066,1074,8
+2000-01-01 02:17:38,2000-01-01 02:17:47,tear open clear plastic wrapping,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00003.csv,factory_001_worker_010,1074,1083,9
+2000-01-01 02:17:47,2000-01-01 02:18:44,finger-thread metal washer and nut onto pre-drilled hole,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00003.csv,factory_001_worker_010,1083,1140,57
+2000-01-01 02:18:44,2000-01-01 02:19:44,tighten nut from inside enclosure using pliers,Manual mechanical assembly,factory_001,worker_010,factory001_worker010_00003.csv,factory_001_worker_010,1140,1200,60

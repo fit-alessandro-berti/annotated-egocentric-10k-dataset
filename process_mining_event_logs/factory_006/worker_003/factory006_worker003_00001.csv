@@ -1,0 +1,45 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:25,2000-01-01 00:00:48,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_003
+2000-01-01 00:01:00,2000-01-01 00:02:11,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003
+2000-01-01 00:02:11,2000-01-01 00:02:26,compress sand with automated machine press,Sand mold creation,factory_006,worker_003
+2000-01-01 00:02:26,2000-01-01 00:02:46,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_003
+2000-01-01 00:02:46,2000-01-01 00:03:07,shovel spilled sand from floor,Workspace clearing,factory_006,worker_003
+2000-01-01 00:03:22,2000-01-01 00:04:00,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_003
+2000-01-01 00:05:31,2000-01-01 00:06:20,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003
+2000-01-01 00:06:20,2000-01-01 00:06:40,compress sand with automated machine press,Sand mold creation,factory_006,worker_003
+2000-01-01 00:07:05,2000-01-01 00:07:18,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_003
+2000-01-01 00:07:33,2000-01-01 00:08:16,shovel sand into mold box from floor pile,Sand mold creation,factory_006,worker_003
+2000-01-01 00:08:16,2000-01-01 00:09:00,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003
+2000-01-01 00:09:00,2000-01-01 00:09:22,compress sand with automated machine press,Sand mold creation,factory_006,worker_003
+2000-01-01 00:09:22,2000-01-01 00:09:36,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_003
+2000-01-01 00:09:36,2000-01-01 00:10:04,shovel sand into mold box from floor pile,Sand mold creation,factory_006,worker_003
+2000-01-01 00:10:04,2000-01-01 00:10:50,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003
+2000-01-01 00:10:50,2000-01-01 00:11:15,compress sand with automated machine press,Sand mold creation,factory_006,worker_003
+2000-01-01 00:11:15,2000-01-01 00:11:28,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_003
+2000-01-01 00:11:28,2000-01-01 00:11:50,shovel sand into mold box from floor pile,Sand mold creation,factory_006,worker_003
+2000-01-01 00:11:50,2000-01-01 00:12:15,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003
+2000-01-01 00:12:15,2000-01-01 00:12:45,compress sand with automated machine press,Sand mold creation,factory_006,worker_003
+2000-01-01 00:12:45,2000-01-01 00:12:56,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_003
+2000-01-01 00:12:56,2000-01-01 00:13:10,shovel sand into mold box from floor pile,Sand mold creation,factory_006,worker_003
+2000-01-01 00:13:10,2000-01-01 00:13:30,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003
+2000-01-01 00:13:30,2000-01-01 00:13:44,compress sand with automated machine press,Sand mold creation,factory_006,worker_003
+2000-01-01 00:13:44,2000-01-01 00:14:00,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_003
+2000-01-01 00:14:00,2000-01-01 00:14:12,shovel sand into mold box from floor pile,Sand mold creation,factory_006,worker_003
+2000-01-01 00:14:12,2000-01-01 00:14:30,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003
+2000-01-01 00:14:30,2000-01-01 00:14:55,compress sand with automated machine press,Sand mold creation,factory_006,worker_003
+2000-01-01 00:14:55,2000-01-01 00:15:06,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_003
+2000-01-01 00:15:06,2000-01-01 00:15:20,shovel sand into mold box from floor pile,Sand mold creation,factory_006,worker_003
+2000-01-01 00:15:20,2000-01-01 00:15:45,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003
+2000-01-01 00:15:45,2000-01-01 00:16:10,compress sand with automated machine press,Sand mold creation,factory_006,worker_003
+2000-01-01 00:16:10,2000-01-01 00:16:20,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_003
+2000-01-01 00:16:20,2000-01-01 00:16:35,shovel sand into mold box from floor pile,Sand mold creation,factory_006,worker_003
+2000-01-01 00:16:35,2000-01-01 00:17:00,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003
+2000-01-01 00:17:00,2000-01-01 00:17:25,compress sand with automated machine press,Sand mold creation,factory_006,worker_003
+2000-01-01 00:17:25,2000-01-01 00:17:35,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_003
+2000-01-01 00:17:35,2000-01-01 00:17:50,shovel sand into mold box from floor pile,Sand mold creation,factory_006,worker_003
+2000-01-01 00:17:50,2000-01-01 00:18:15,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003
+2000-01-01 00:18:15,2000-01-01 00:18:40,compress sand with automated machine press,Sand mold creation,factory_006,worker_003
+2000-01-01 00:18:40,2000-01-01 00:18:50,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_003
+2000-01-01 00:18:50,2000-01-01 00:19:05,shovel sand into mold box from floor pile,Sand mold creation,factory_006,worker_003
+2000-01-01 00:19:05,2000-01-01 00:19:30,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003
+2000-01-01 00:19:30,2000-01-01 00:19:59,compress sand with automated machine press,Sand mold creation,factory_006,worker_003

@@ -1,0 +1,289 @@
+start_timestamp,end_timestamp,activity,process,factory,worker,source_file,case_id,start_seconds_from_video_start,end_seconds_from_video_start,duration_seconds
+2000-01-01 00:00:00,2000-01-01 00:00:23,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,0,23,23
+2000-01-01 00:00:23,2000-01-01 00:00:25,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,23,25,2
+2000-01-01 00:00:25,2000-01-01 00:00:46,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,25,46,21
+2000-01-01 00:00:46,2000-01-01 00:00:48,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,46,48,2
+2000-01-01 00:00:48,2000-01-01 00:01:22,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,48,82,34
+2000-01-01 00:01:22,2000-01-01 00:01:24,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,82,84,2
+2000-01-01 00:01:24,2000-01-01 00:01:28,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,84,88,4
+2000-01-01 00:01:28,2000-01-01 00:01:31,open clear plastic bag of fasteners,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,88,91,3
+2000-01-01 00:01:31,2000-01-01 00:01:40,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,91,100,9
+2000-01-01 00:01:40,2000-01-01 00:01:42,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,100,102,2
+2000-01-01 00:01:42,2000-01-01 00:02:10,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,102,130,28
+2000-01-01 00:02:10,2000-01-01 00:02:12,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,130,132,2
+2000-01-01 00:02:12,2000-01-01 00:02:25,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,132,145,13
+2000-01-01 00:02:25,2000-01-01 00:02:27,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,145,147,2
+2000-01-01 00:02:27,2000-01-01 00:02:44,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,147,164,17
+2000-01-01 00:02:44,2000-01-01 00:02:46,open clear plastic bag of fasteners,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,164,166,2
+2000-01-01 00:02:46,2000-01-01 00:02:59,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,166,179,13
+2000-01-01 00:02:59,2000-01-01 00:03:01,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,179,181,2
+2000-01-01 00:03:01,2000-01-01 00:03:19,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,181,199,18
+2000-01-01 00:03:19,2000-01-01 00:03:21,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,199,201,2
+2000-01-01 00:03:21,2000-01-01 00:03:33,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,201,213,12
+2000-01-01 00:03:33,2000-01-01 00:03:35,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,213,215,2
+2000-01-01 00:03:35,2000-01-01 00:03:51,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,215,231,16
+2000-01-01 00:03:51,2000-01-01 00:03:53,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,231,233,2
+2000-01-01 00:03:53,2000-01-01 00:04:04,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,233,244,11
+2000-01-01 00:04:04,2000-01-01 00:04:06,open clear plastic bag of fasteners,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,244,246,2
+2000-01-01 00:04:06,2000-01-01 00:04:28,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,246,268,22
+2000-01-01 00:04:28,2000-01-01 00:04:30,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,268,270,2
+2000-01-01 00:04:30,2000-01-01 00:04:40,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,270,280,10
+2000-01-01 00:04:40,2000-01-01 00:04:42,open clear plastic bag of fasteners,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,280,282,2
+2000-01-01 00:04:42,2000-01-01 00:04:53,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,282,293,11
+2000-01-01 00:04:53,2000-01-01 00:04:55,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,293,295,2
+2000-01-01 00:04:55,2000-01-01 00:05:06,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,295,306,11
+2000-01-01 00:05:06,2000-01-01 00:05:08,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,306,308,2
+2000-01-01 00:05:08,2000-01-01 00:05:21,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,308,321,13
+2000-01-01 00:05:21,2000-01-01 00:05:26,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,321,326,5
+2000-01-01 00:05:26,2000-01-01 00:05:32,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,326,332,6
+2000-01-01 00:05:32,2000-01-01 00:05:34,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,332,334,2
+2000-01-01 00:05:34,2000-01-01 00:05:46,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,334,346,12
+2000-01-01 00:05:49,2000-01-01 00:06:00,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,349,360,11
+2000-01-01 00:06:00,2000-01-01 00:06:04,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,360,364,4
+2000-01-01 00:06:04,2000-01-01 00:06:32,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,364,392,28
+2000-01-01 00:06:32,2000-01-01 00:06:34,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,392,394,2
+2000-01-01 00:06:34,2000-01-01 00:06:43,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,394,403,9
+2000-01-01 00:06:43,2000-01-01 00:06:51,sift unformed parts in bulk bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,403,411,8
+2000-01-01 00:06:51,2000-01-01 00:07:00,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,411,420,9
+2000-01-01 00:07:00,2000-01-01 00:07:02,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,420,422,2
+2000-01-01 00:07:02,2000-01-01 00:07:26,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,422,446,24
+2000-01-01 00:07:26,2000-01-01 00:07:28,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,446,448,2
+2000-01-01 00:07:28,2000-01-01 00:07:43,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,448,463,15
+2000-01-01 00:07:43,2000-01-01 00:07:56,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,463,476,13
+2000-01-01 00:07:56,2000-01-01 00:08:14,tear open bulk bag of parts,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,476,494,18
+2000-01-01 00:08:14,2000-01-01 00:08:19,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,494,499,5
+2000-01-01 00:08:19,2000-01-01 00:08:22,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,499,502,3
+2000-01-01 00:08:22,2000-01-01 00:08:24,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,502,504,2
+2000-01-01 00:08:24,2000-01-01 00:08:30,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,504,510,6
+2000-01-01 00:08:30,2000-01-01 00:08:32,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,510,512,2
+2000-01-01 00:08:32,2000-01-01 00:08:39,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,512,519,7
+2000-01-01 00:08:39,2000-01-01 00:08:41,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,519,521,2
+2000-01-01 00:08:41,2000-01-01 00:08:45,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,521,525,4
+2000-01-01 00:08:45,2000-01-01 00:08:47,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,525,527,2
+2000-01-01 00:08:47,2000-01-01 00:09:01,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,527,541,14
+2000-01-01 00:09:01,2000-01-01 00:09:03,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,541,543,2
+2000-01-01 00:09:03,2000-01-01 00:09:29,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,543,569,26
+2000-01-01 00:09:29,2000-01-01 00:09:31,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,569,571,2
+2000-01-01 00:09:31,2000-01-01 00:09:40,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,571,580,9
+2000-01-01 00:09:40,2000-01-01 00:09:42,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,580,582,2
+2000-01-01 00:09:42,2000-01-01 00:09:58,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,582,598,16
+2000-01-01 00:09:58,2000-01-01 00:10:00,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,598,600,2
+2000-01-01 00:10:00,2000-01-01 00:10:16,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,600,616,16
+2000-01-01 00:10:16,2000-01-01 00:10:18,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,616,618,2
+2000-01-01 00:10:18,2000-01-01 00:10:36,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,618,636,18
+2000-01-01 00:10:36,2000-01-01 00:10:38,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,636,638,2
+2000-01-01 00:10:38,2000-01-01 00:10:52,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,638,652,14
+2000-01-01 00:10:52,2000-01-01 00:10:54,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,652,654,2
+2000-01-01 00:10:54,2000-01-01 00:11:12,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,654,672,18
+2000-01-01 00:11:12,2000-01-01 00:11:14,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,672,674,2
+2000-01-01 00:11:14,2000-01-01 00:11:17,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,674,677,3
+2000-01-01 00:11:17,2000-01-01 00:11:19,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,677,679,2
+2000-01-01 00:11:19,2000-01-01 00:11:31,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,679,691,12
+2000-01-01 00:11:31,2000-01-01 00:11:33,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,691,693,2
+2000-01-01 00:11:33,2000-01-01 00:11:37,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,693,697,4
+2000-01-01 00:11:37,2000-01-01 00:11:39,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,697,699,2
+2000-01-01 00:11:39,2000-01-01 00:11:46,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,699,706,7
+2000-01-01 00:11:46,2000-01-01 00:11:48,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,706,708,2
+2000-01-01 00:11:48,2000-01-01 00:12:04,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,708,724,16
+2000-01-01 00:12:04,2000-01-01 00:12:06,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,724,726,2
+2000-01-01 00:12:06,2000-01-01 00:12:10,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,726,730,4
+2000-01-01 00:12:10,2000-01-01 00:12:12,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,730,732,2
+2000-01-01 00:12:12,2000-01-01 00:12:21,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,732,741,9
+2000-01-01 00:12:21,2000-01-01 00:12:23,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,741,743,2
+2000-01-01 00:12:23,2000-01-01 00:12:38,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,743,758,15
+2000-01-01 00:12:38,2000-01-01 00:12:40,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,758,760,2
+2000-01-01 00:12:40,2000-01-01 00:12:56,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,760,776,16
+2000-01-01 00:12:56,2000-01-01 00:12:58,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,776,778,2
+2000-01-01 00:12:58,2000-01-01 00:13:08,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,778,788,10
+2000-01-01 00:13:08,2000-01-01 00:13:10,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,788,790,2
+2000-01-01 00:13:10,2000-01-01 00:13:49,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,790,829,39
+2000-01-01 00:13:49,2000-01-01 00:13:51,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,829,831,2
+2000-01-01 00:13:51,2000-01-01 00:14:01,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,831,841,10
+2000-01-01 00:14:01,2000-01-01 00:14:03,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,841,843,2
+2000-01-01 00:14:03,2000-01-01 00:14:16,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,843,856,13
+2000-01-01 00:14:16,2000-01-01 00:14:18,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,856,858,2
+2000-01-01 00:14:18,2000-01-01 00:14:29,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,858,869,11
+2000-01-01 00:14:29,2000-01-01 00:14:31,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,869,871,2
+2000-01-01 00:14:31,2000-01-01 00:14:55,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,871,895,24
+2000-01-01 00:14:55,2000-01-01 00:14:57,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,895,897,2
+2000-01-01 00:14:57,2000-01-01 00:15:09,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,897,909,12
+2000-01-01 00:15:09,2000-01-01 00:15:11,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,909,911,2
+2000-01-01 00:15:11,2000-01-01 00:15:17,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,911,917,6
+2000-01-01 00:15:17,2000-01-01 00:15:19,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,917,919,2
+2000-01-01 00:15:19,2000-01-01 00:15:25,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,919,925,6
+2000-01-01 00:15:25,2000-01-01 00:15:27,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,925,927,2
+2000-01-01 00:15:27,2000-01-01 00:15:29,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,927,929,2
+2000-01-01 00:15:29,2000-01-01 00:15:40,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,929,940,11
+2000-01-01 00:15:40,2000-01-01 00:15:42,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,940,942,2
+2000-01-01 00:15:42,2000-01-01 00:16:00,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,942,960,18
+2000-01-01 00:16:00,2000-01-01 00:16:05,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,960,965,5
+2000-01-01 00:16:05,2000-01-01 00:16:15,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,965,975,10
+2000-01-01 00:16:15,2000-01-01 00:16:17,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,975,977,2
+2000-01-01 00:16:17,2000-01-01 00:16:26,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,977,986,9
+2000-01-01 00:16:26,2000-01-01 00:16:28,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,986,988,2
+2000-01-01 00:16:28,2000-01-01 00:16:37,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,988,997,9
+2000-01-01 00:16:37,2000-01-01 00:16:39,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,997,999,2
+2000-01-01 00:16:39,2000-01-01 00:16:43,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,999,1003,4
+2000-01-01 00:16:43,2000-01-01 00:16:45,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,1003,1005,2
+2000-01-01 00:16:45,2000-01-01 00:17:05,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,1005,1025,20
+2000-01-01 00:17:05,2000-01-01 00:17:07,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,1025,1027,2
+2000-01-01 00:17:07,2000-01-01 00:17:31,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,1027,1051,24
+2000-01-01 00:17:31,2000-01-01 00:17:33,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,1051,1053,2
+2000-01-01 00:17:33,2000-01-01 00:17:46,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,1053,1066,13
+2000-01-01 00:17:46,2000-01-01 00:17:48,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,1066,1068,2
+2000-01-01 00:17:48,2000-01-01 00:17:50,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,1068,1070,2
+2000-01-01 00:17:50,2000-01-01 00:17:58,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,1070,1078,8
+2000-01-01 00:17:58,2000-01-01 00:18:00,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,1078,1080,2
+2000-01-01 00:18:00,2000-01-01 00:18:04,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,1080,1084,4
+2000-01-01 00:18:04,2000-01-01 00:18:06,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,1084,1086,2
+2000-01-01 00:18:06,2000-01-01 00:18:11,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,1086,1091,5
+2000-01-01 00:18:11,2000-01-01 00:18:13,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,1091,1093,2
+2000-01-01 00:18:13,2000-01-01 00:18:23,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,1093,1103,10
+2000-01-01 00:18:23,2000-01-01 00:18:25,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,1103,1105,2
+2000-01-01 00:18:25,2000-01-01 00:18:36,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,1105,1116,11
+2000-01-01 00:18:36,2000-01-01 00:18:38,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,1116,1118,2
+2000-01-01 00:18:38,2000-01-01 00:18:46,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,1118,1126,8
+2000-01-01 00:18:46,2000-01-01 00:18:48,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,1126,1128,2
+2000-01-01 00:18:48,2000-01-01 00:18:55,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,1128,1135,7
+2000-01-01 00:18:55,2000-01-01 00:18:57,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,1135,1137,2
+2000-01-01 00:18:57,2000-01-01 00:19:00,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,1137,1140,3
+2000-01-01 00:19:00,2000-01-01 00:19:02,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,1140,1142,2
+2000-01-01 00:19:02,2000-01-01 00:19:08,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,1142,1148,6
+2000-01-01 00:19:08,2000-01-01 00:19:10,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,1148,1150,2
+2000-01-01 00:19:10,2000-01-01 00:19:13,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,1150,1153,3
+2000-01-01 00:19:13,2000-01-01 00:19:15,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,1153,1155,2
+2000-01-01 00:19:15,2000-01-01 00:19:22,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,1155,1162,7
+2000-01-01 00:19:22,2000-01-01 00:19:24,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,1162,1164,2
+2000-01-01 00:19:24,2000-01-01 00:19:32,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,1164,1172,8
+2000-01-01 00:19:32,2000-01-01 00:19:34,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,1172,1174,2
+2000-01-01 00:19:34,2000-01-01 00:19:47,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,1174,1187,13
+2000-01-01 00:19:47,2000-01-01 00:19:49,scoop raw parts into bin,Material replenishment,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,1187,1189,2
+2000-01-01 00:19:49,2000-01-01 00:20:00,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00000.csv,factory_001_worker_004,1189,1200,11
+2000-01-01 00:20:00,2000-01-01 00:20:15,toss completed sub-assembly into side bin,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00001.csv,factory_001_worker_004,0,15,15
+2000-01-01 00:20:15,2000-01-01 00:25:35,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00001.csv,factory_001_worker_004,15,335,320
+2000-01-01 00:25:38,2000-01-01 00:28:33,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00001.csv,factory_001_worker_004,338,513,175
+2000-01-01 00:28:36,2000-01-01 00:30:47,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00001.csv,factory_001_worker_004,516,647,131
+2000-01-01 00:30:47,2000-01-01 00:30:53,drag unassembled metal parts closer to fixture,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00001.csv,factory_001_worker_004,647,653,6
+2000-01-01 00:30:53,2000-01-01 00:32:37,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00001.csv,factory_001_worker_004,653,757,104
+2000-01-01 00:32:41,2000-01-01 00:34:07,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00001.csv,factory_001_worker_004,761,847,86
+2000-01-01 00:34:10,2000-01-01 00:35:02,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00001.csv,factory_001_worker_004,850,902,52
+2000-01-01 00:35:05,2000-01-01 00:37:28,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00001.csv,factory_001_worker_004,905,1048,143
+2000-01-01 00:37:31,2000-01-01 00:38:17,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00001.csv,factory_001_worker_004,1051,1097,46
+2000-01-01 00:38:22,2000-01-01 00:38:57,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00001.csv,factory_001_worker_004,1102,1137,35
+2000-01-01 00:39:01,2000-01-01 00:39:46,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00001.csv,factory_001_worker_004,1141,1186,45
+2000-01-01 00:39:54,2000-01-01 00:40:00,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00001.csv,factory_001_worker_004,1194,1200,6
+2000-01-01 00:40:00,2000-01-01 00:40:58,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00002.csv,factory_001_worker_004,0,58,58
+2000-01-01 00:41:03,2000-01-01 00:41:21,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00002.csv,factory_001_worker_004,63,81,18
+2000-01-01 00:41:28,2000-01-01 00:41:58,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00002.csv,factory_001_worker_004,88,118,30
+2000-01-01 00:42:02,2000-01-01 00:42:26,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00002.csv,factory_001_worker_004,122,146,24
+2000-01-01 00:42:29,2000-01-01 00:43:02,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00002.csv,factory_001_worker_004,149,182,33
+2000-01-01 00:43:05,2000-01-01 00:43:48,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00002.csv,factory_001_worker_004,185,228,43
+2000-01-01 00:44:02,2000-01-01 00:44:12,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00002.csv,factory_001_worker_004,242,252,10
+2000-01-01 00:44:14,2000-01-01 00:45:04,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00002.csv,factory_001_worker_004,254,304,50
+2000-01-01 00:45:13,2000-01-01 00:45:43,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00002.csv,factory_001_worker_004,313,343,30
+2000-01-01 00:45:54,2000-01-01 00:46:28,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00002.csv,factory_001_worker_004,354,388,34
+2000-01-01 00:46:33,2000-01-01 00:47:43,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00002.csv,factory_001_worker_004,393,463,70
+2000-01-01 00:47:47,2000-01-01 00:48:09,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00002.csv,factory_001_worker_004,467,489,22
+2000-01-01 00:48:12,2000-01-01 00:48:17,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00002.csv,factory_001_worker_004,492,497,5
+2000-01-01 00:48:22,2000-01-01 00:48:43,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00002.csv,factory_001_worker_004,502,523,21
+2000-01-01 00:48:47,2000-01-01 00:48:55,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00002.csv,factory_001_worker_004,527,535,8
+2000-01-01 00:49:00,2000-01-01 00:49:17,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00002.csv,factory_001_worker_004,540,557,17
+2000-01-01 00:49:23,2000-01-01 00:58:08,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00002.csv,factory_001_worker_004,563,1088,525
+2000-01-01 00:58:08,2000-01-01 00:58:10,receive part from adjacent coworker,Material replenishment,factory_001,worker_004,factory001_worker004_00002.csv,factory_001_worker_004,1088,1090,2
+2000-01-01 00:58:10,2000-01-01 00:58:25,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00002.csv,factory_001_worker_004,1090,1105,15
+2000-01-01 00:58:25,2000-01-01 01:00:00,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00002.csv,factory_001_worker_004,1105,1200,95
+2000-01-01 01:00:10,2000-01-01 01:00:16,place metal bracket onto central fixture,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00003.csv,factory_001_worker_004,10,16,6
+2000-01-01 01:00:16,2000-01-01 01:00:22,insert small fastener into pre-drilled hole,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00003.csv,factory_001_worker_004,16,22,6
+2000-01-01 01:00:22,2000-01-01 01:00:28,pull down suspended power screwdriver,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00003.csv,factory_001_worker_004,22,28,6
+2000-01-01 01:00:28,2000-01-01 01:00:34,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00003.csv,factory_001_worker_004,28,34,6
+2000-01-01 01:00:34,2000-01-01 01:00:43,toss completed sub-assembly into side bin,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00003.csv,factory_001_worker_004,34,43,9
+2000-01-01 01:00:43,2000-01-01 01:00:54,drag unassembled metal parts closer to fixture,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00003.csv,factory_001_worker_004,43,54,11
+2000-01-01 01:00:54,2000-01-01 01:02:24,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00003.csv,factory_001_worker_004,54,144,90
+2000-01-01 01:02:24,2000-01-01 01:02:34,place metal bracket onto central fixture,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00003.csv,factory_001_worker_004,144,154,10
+2000-01-01 01:02:34,2000-01-01 01:03:05,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00003.csv,factory_001_worker_004,154,185,31
+2000-01-01 01:03:05,2000-01-01 01:03:13,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00003.csv,factory_001_worker_004,185,193,8
+2000-01-01 01:03:13,2000-01-01 01:03:39,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00003.csv,factory_001_worker_004,193,219,26
+2000-01-01 01:03:39,2000-01-01 01:03:45,place metal bracket onto central fixture,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00003.csv,factory_001_worker_004,219,225,6
+2000-01-01 01:03:45,2000-01-01 01:03:55,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00003.csv,factory_001_worker_004,225,235,10
+2000-01-01 01:03:55,2000-01-01 01:04:03,place metal bracket onto central fixture,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00003.csv,factory_001_worker_004,235,243,8
+2000-01-01 01:04:03,2000-01-01 01:05:03,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00003.csv,factory_001_worker_004,243,303,60
+2000-01-01 01:05:03,2000-01-01 01:05:13,hand off part to adjacent coworker,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00003.csv,factory_001_worker_004,303,313,10
+2000-01-01 01:05:13,2000-01-01 01:05:24,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00003.csv,factory_001_worker_004,313,324,11
+2000-01-01 01:05:24,2000-01-01 01:05:32,show finished part to coworker,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00003.csv,factory_001_worker_004,324,332,8
+2000-01-01 01:05:32,2000-01-01 01:05:42,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00003.csv,factory_001_worker_004,332,342,10
+2000-01-01 01:05:50,2000-01-01 01:05:58,drag unassembled metal parts closer to fixture,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00003.csv,factory_001_worker_004,350,358,8
+2000-01-01 01:05:58,2000-01-01 01:06:23,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00003.csv,factory_001_worker_004,358,383,25
+2000-01-01 01:06:23,2000-01-01 01:06:28,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00003.csv,factory_001_worker_004,383,388,5
+2000-01-01 01:06:28,2000-01-01 01:06:55,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00003.csv,factory_001_worker_004,388,415,27
+2000-01-01 01:06:55,2000-01-01 01:07:05,insert small fastener into pre-drilled hole,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00003.csv,factory_001_worker_004,415,425,10
+2000-01-01 01:07:05,2000-01-01 01:07:47,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00003.csv,factory_001_worker_004,425,467,42
+2000-01-01 01:07:47,2000-01-01 01:07:53,place metal bracket onto central fixture,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00003.csv,factory_001_worker_004,467,473,6
+2000-01-01 01:07:53,2000-01-01 01:08:00,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00003.csv,factory_001_worker_004,473,480,7
+2000-01-01 01:08:06,2000-01-01 01:08:35,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00003.csv,factory_001_worker_004,486,515,29
+2000-01-01 01:08:35,2000-01-01 01:08:44,toss completed sub-assembly into side bin,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00003.csv,factory_001_worker_004,515,524,9
+2000-01-01 01:08:44,2000-01-01 01:09:14,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00003.csv,factory_001_worker_004,524,554,30
+2000-01-01 01:09:14,2000-01-01 01:09:20,toss completed sub-assembly into side bin,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00003.csv,factory_001_worker_004,554,560,6
+2000-01-01 01:09:20,2000-01-01 01:09:28,place metal bracket onto central fixture,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00003.csv,factory_001_worker_004,560,568,8
+2000-01-01 01:09:28,2000-01-01 01:10:26,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00003.csv,factory_001_worker_004,568,626,58
+2000-01-01 01:10:35,2000-01-01 01:10:44,drag unassembled metal parts closer to fixture,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00003.csv,factory_001_worker_004,635,644,9
+2000-01-01 01:10:44,2000-01-01 01:10:56,drag unassembled metal parts closer to fixture,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00003.csv,factory_001_worker_004,644,656,12
+2000-01-01 01:10:56,2000-01-01 01:11:05,place metal bracket onto central fixture,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00003.csv,factory_001_worker_004,656,665,9
+2000-01-01 01:11:05,2000-01-01 01:11:15,place metal bracket onto central fixture,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00003.csv,factory_001_worker_004,665,675,10
+2000-01-01 01:11:15,2000-01-01 01:17:25,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00003.csv,factory_001_worker_004,675,1045,370
+2000-01-01 01:17:25,2000-01-01 01:17:34,receive part from adjacent coworker,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00003.csv,factory_001_worker_004,1045,1054,9
+2000-01-01 01:17:34,2000-01-01 01:19:53,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00003.csv,factory_001_worker_004,1054,1193,139
+2000-01-01 01:19:53,2000-01-01 01:21:27,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00004.csv,factory_001_worker_004,0,94,94
+2000-01-01 01:21:27,2000-01-01 01:21:36,drag unassembled metal parts closer to fixture,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00004.csv,factory_001_worker_004,94,103,9
+2000-01-01 01:21:36,2000-01-01 01:23:21,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00004.csv,factory_001_worker_004,103,208,105
+2000-01-01 01:23:26,2000-01-01 01:25:42,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00004.csv,factory_001_worker_004,213,349,136
+2000-01-01 01:25:47,2000-01-01 01:27:00,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00004.csv,factory_001_worker_004,354,427,73
+2000-01-01 01:27:00,2000-01-01 01:27:55,carry finished batch to consolidation point,Finished goods transport,factory_001,worker_004,factory001_worker004_00004.csv,factory_001_worker_004,427,482,55
+2000-01-01 01:28:07,2000-01-01 01:28:19,carry finished batch to consolidation point,Finished goods transport,factory_001,worker_004,factory001_worker004_00004.csv,factory_001_worker_004,494,506,12
+2000-01-01 01:28:19,2000-01-01 01:28:34,dump finished pieces into bulk container,Finished goods transport,factory_001,worker_004,factory001_worker004_00004.csv,factory_001_worker_004,506,521,15
+2000-01-01 01:28:41,2000-01-01 01:29:00,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00004.csv,factory_001_worker_004,528,547,19
+2000-01-01 01:29:00,2000-01-01 01:29:38,carry finished batch to consolidation point,Finished goods transport,factory_001,worker_004,factory001_worker004_00004.csv,factory_001_worker_004,547,585,38
+2000-01-01 01:29:38,2000-01-01 01:32:18,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00004.csv,factory_001_worker_004,585,745,160
+2000-01-01 01:32:18,2000-01-01 01:32:28,drag unassembled metal parts closer to fixture,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00004.csv,factory_001_worker_004,745,755,10
+2000-01-01 01:32:28,2000-01-01 01:34:01,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00004.csv,factory_001_worker_004,755,848,93
+2000-01-01 01:34:01,2000-01-01 01:34:07,drag unassembled metal parts closer to fixture,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00004.csv,factory_001_worker_004,848,854,6
+2000-01-01 01:34:07,2000-01-01 01:35:23,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00004.csv,factory_001_worker_004,854,930,76
+2000-01-01 01:35:23,2000-01-01 01:35:28,drag unassembled metal parts closer to fixture,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00004.csv,factory_001_worker_004,930,935,5
+2000-01-01 01:35:28,2000-01-01 01:35:53,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00004.csv,factory_001_worker_004,935,960,25
+2000-01-01 01:35:59,2000-01-01 01:36:14,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_004,factory001_worker004_00004.csv,factory_001_worker_004,966,981,15
+2000-01-01 01:36:14,2000-01-01 01:37:56,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00004.csv,factory_001_worker_004,981,1083,102
+2000-01-01 01:37:56,2000-01-01 01:38:01,drag unassembled metal parts closer to fixture,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00004.csv,factory_001_worker_004,1083,1088,5
+2000-01-01 01:38:01,2000-01-01 01:39:53,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00004.csv,factory_001_worker_004,1088,1200,112
+2000-01-01 01:39:53,2000-01-01 01:44:05,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00005.csv,factory_001_worker_004,0,252,252
+2000-01-01 01:44:05,2000-01-01 01:44:40,swap out central fixture block,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00005.csv,factory_001_worker_004,252,287,35
+2000-01-01 01:44:40,2000-01-01 01:44:52,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_004,factory001_worker004_00005.csv,factory_001_worker_004,287,299,12
+2000-01-01 01:44:52,2000-01-01 01:51:22,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00005.csv,factory_001_worker_004,299,689,390
+2000-01-01 01:51:22,2000-01-01 01:51:36,push heavy metal cart across floor,Finished goods transport,factory_001,worker_004,factory001_worker004_00005.csv,factory_001_worker_004,689,703,14
+2000-01-01 01:51:36,2000-01-01 01:52:53,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00005.csv,factory_001_worker_004,703,780,77
+2000-01-01 01:53:15,2000-01-01 01:54:17,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00005.csv,factory_001_worker_004,802,864,62
+2000-01-01 01:54:17,2000-01-01 01:54:30,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_004,factory001_worker004_00005.csv,factory_001_worker_004,864,877,13
+2000-01-01 01:54:46,2000-01-01 01:55:46,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00005.csv,factory_001_worker_004,893,953,60
+2000-01-01 01:55:46,2000-01-01 01:56:26,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_004,factory001_worker004_00005.csv,factory_001_worker_004,953,993,40
+2000-01-01 01:56:26,2000-01-01 01:59:54,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00005.csv,factory_001_worker_004,993,1201,208
+2000-01-01 01:59:54,2000-01-01 02:01:15,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00006.csv,factory_001_worker_004,0,81,81
+2000-01-01 02:01:15,2000-01-01 02:03:53,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00006.csv,factory_001_worker_004,81,239,158
+2000-01-01 02:03:53,2000-01-01 02:05:40,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00006.csv,factory_001_worker_004,239,346,107
+2000-01-01 02:05:40,2000-01-01 02:07:34,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00006.csv,factory_001_worker_004,346,460,114
+2000-01-01 02:07:34,2000-01-01 02:10:58,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00006.csv,factory_001_worker_004,460,664,204
+2000-01-01 02:10:58,2000-01-01 02:14:21,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00006.csv,factory_001_worker_004,664,867,203
+2000-01-01 02:14:21,2000-01-01 02:15:17,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00006.csv,factory_001_worker_004,867,923,56
+2000-01-01 02:15:17,2000-01-01 02:16:24,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00006.csv,factory_001_worker_004,923,990,67
+2000-01-01 02:16:45,2000-01-01 02:19:53,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00006.csv,factory_001_worker_004,1011,1199,188
+2000-01-01 02:19:53,2000-01-01 02:20:03,discard plastic wrapper on desk,Workstation cleaning,factory_001,worker_004,factory001_worker004_00007.csv,factory_001_worker_004,0,10,10
+2000-01-01 02:20:03,2000-01-01 02:25:08,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00007.csv,factory_001_worker_004,10,315,305
+2000-01-01 02:25:15,2000-01-01 02:25:32,tear open clear plastic wrapping,Material replenishment,factory_001,worker_004,factory001_worker004_00007.csv,factory_001_worker_004,322,339,17
+2000-01-01 02:25:32,2000-01-01 02:25:58,pour large bag of small components into desktop bin,Material replenishment,factory_001,worker_004,factory001_worker004_00007.csv,factory_001_worker_004,339,365,26
+2000-01-01 02:25:58,2000-01-01 02:39:53,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00007.csv,factory_001_worker_004,365,1200,835
+2000-01-01 02:39:53,2000-01-01 02:40:34,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00008.csv,factory_001_worker_004,0,41,41
+2000-01-01 02:40:34,2000-01-01 02:40:59,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_004,factory001_worker004_00008.csv,factory_001_worker_004,41,66,25
+2000-01-01 02:40:59,2000-01-01 02:41:12,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00008.csv,factory_001_worker_004,66,79,13
+2000-01-01 02:41:12,2000-01-01 02:41:49,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_004,factory001_worker004_00008.csv,factory_001_worker_004,79,116,37
+2000-01-01 02:41:49,2000-01-01 02:47:37,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00008.csv,factory_001_worker_004,116,464,348
+2000-01-01 02:47:37,2000-01-01 02:48:01,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_004,factory001_worker004_00008.csv,factory_001_worker_004,464,488,24
+2000-01-01 02:48:01,2000-01-01 02:48:49,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00008.csv,factory_001_worker_004,488,536,48
+2000-01-01 02:48:49,2000-01-01 02:49:05,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_004,factory001_worker004_00008.csv,factory_001_worker_004,536,552,16
+2000-01-01 02:49:05,2000-01-01 02:59:53,drive fastener into metal parts,Manual mechanical assembly,factory_001,worker_004,factory001_worker004_00008.csv,factory_001_worker_004,552,1200,648

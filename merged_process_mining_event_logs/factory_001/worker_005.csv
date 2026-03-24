@@ -1,0 +1,302 @@
+start_timestamp,end_timestamp,activity,process,factory,worker,source_file,case_id,start_seconds_from_video_start,end_seconds_from_video_start,duration_seconds
+2000-01-01 00:00:00,2000-01-01 00:01:36,manually join metal components,Manual mechanical assembly,factory_001,worker_005,factory001_worker005_00000.csv,factory_001_worker_005,0,96,96
+2000-01-01 00:01:36,2000-01-01 00:03:20,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_005,factory001_worker005_00000.csv,factory_001_worker_005,96,200,104
+2000-01-01 00:03:20,2000-01-01 00:05:10,manually join metal components,Manual mechanical assembly,factory_001,worker_005,factory001_worker005_00000.csv,factory_001_worker_005,200,310,110
+2000-01-01 00:05:10,2000-01-01 00:05:20,carry finished batch to consolidation point,Finished goods transport,factory_001,worker_005,factory001_worker005_00000.csv,factory_001_worker_005,310,320,10
+2000-01-01 00:05:20,2000-01-01 00:06:10,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_005,factory001_worker005_00000.csv,factory_001_worker_005,320,370,50
+2000-01-01 00:06:10,2000-01-01 00:06:23,carry finished batch to consolidation point,Finished goods transport,factory_001,worker_005,factory001_worker005_00000.csv,factory_001_worker_005,370,383,13
+2000-01-01 00:06:23,2000-01-01 00:10:52,manually join metal components,Manual mechanical assembly,factory_001,worker_005,factory001_worker005_00000.csv,factory_001_worker_005,383,652,269
+2000-01-01 00:10:52,2000-01-01 00:11:28,unfold cardboard box,Component bagging,factory_001,worker_005,factory001_worker005_00000.csv,factory_001_worker_005,652,688,36
+2000-01-01 00:11:28,2000-01-01 00:11:51,manually join metal components,Manual mechanical assembly,factory_001,worker_005,factory001_worker005_00000.csv,factory_001_worker_005,688,711,23
+2000-01-01 00:12:00,2000-01-01 00:15:05,manually join metal components,Manual mechanical assembly,factory_001,worker_005,factory001_worker005_00000.csv,factory_001_worker_005,720,905,185
+2000-01-01 00:15:05,2000-01-01 00:15:26,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_005,factory001_worker005_00000.csv,factory_001_worker_005,905,926,21
+2000-01-01 00:15:26,2000-01-01 00:15:35,carry finished batch to consolidation point,Finished goods transport,factory_001,worker_005,factory001_worker005_00000.csv,factory_001_worker_005,926,935,9
+2000-01-01 00:15:35,2000-01-01 00:16:34,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_005,factory001_worker005_00000.csv,factory_001_worker_005,935,994,59
+2000-01-01 00:16:34,2000-01-01 00:16:42,carry finished batch to consolidation point,Finished goods transport,factory_001,worker_005,factory001_worker005_00000.csv,factory_001_worker_005,994,1002,8
+2000-01-01 00:16:42,2000-01-01 00:19:28,manually join metal components,Manual mechanical assembly,factory_001,worker_005,factory001_worker005_00000.csv,factory_001_worker_005,1002,1168,166
+2000-01-01 00:19:28,2000-01-01 00:20:00,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_005,factory001_worker005_00000.csv,factory_001_worker_005,1168,1200,32
+2000-01-01 00:20:00,2000-01-01 00:21:21,make micro-adjustment to part with specialized tool,Manual mechanical assembly,factory_001,worker_005,factory001_worker005_00001.csv,factory_001_worker_005,0,81,81
+2000-01-01 00:21:21,2000-01-01 00:23:08,manually join metal components,Manual mechanical assembly,factory_001,worker_005,factory001_worker005_00001.csv,factory_001_worker_005,81,188,107
+2000-01-01 00:23:08,2000-01-01 00:23:38,retrieve base and clip components from bins,Material replenishment,factory_001,worker_005,factory001_worker005_00001.csv,factory_001_worker_005,188,218,30
+2000-01-01 00:23:38,2000-01-01 00:27:20,drop loose parts into plastic bag,Component bagging,factory_001,worker_005,factory001_worker005_00001.csv,factory_001_worker_005,218,440,222
+2000-01-01 00:27:20,2000-01-01 00:27:54,retrieve base and clip components from bins,Material replenishment,factory_001,worker_005,factory001_worker005_00001.csv,factory_001_worker_005,440,474,34
+2000-01-01 00:27:54,2000-01-01 00:28:58,drop loose parts into plastic bag,Component bagging,factory_001,worker_005,factory001_worker005_00001.csv,factory_001_worker_005,474,538,64
+2000-01-01 00:28:58,2000-01-01 00:29:47,manually join metal components,Manual mechanical assembly,factory_001,worker_005,factory001_worker005_00001.csv,factory_001_worker_005,538,587,49
+2000-01-01 00:29:47,2000-01-01 00:30:45,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00001.csv,factory_001_worker_005,587,645,58
+2000-01-01 00:30:45,2000-01-01 00:31:13,scoop raw parts into bin,Material replenishment,factory_001,worker_005,factory001_worker005_00001.csv,factory_001_worker_005,645,673,28
+2000-01-01 00:31:13,2000-01-01 00:33:58,drop loose parts into plastic bag,Component bagging,factory_001,worker_005,factory001_worker005_00001.csv,factory_001_worker_005,673,838,165
+2000-01-01 00:33:58,2000-01-01 00:34:38,manually join metal components,Manual mechanical assembly,factory_001,worker_005,factory001_worker005_00001.csv,factory_001_worker_005,838,878,40
+2000-01-01 00:34:38,2000-01-01 00:35:06,retrieve base and clip components from bins,Material replenishment,factory_001,worker_005,factory001_worker005_00001.csv,factory_001_worker_005,878,906,28
+2000-01-01 00:35:06,2000-01-01 00:36:05,drop loose parts into plastic bag,Component bagging,factory_001,worker_005,factory001_worker005_00001.csv,factory_001_worker_005,906,965,59
+2000-01-01 00:36:05,2000-01-01 00:37:36,manually join metal components,Manual mechanical assembly,factory_001,worker_005,factory001_worker005_00001.csv,factory_001_worker_005,965,1056,91
+2000-01-01 00:37:36,2000-01-01 00:39:04,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00001.csv,factory_001_worker_005,1056,1144,88
+2000-01-01 00:39:04,2000-01-01 00:39:10,retrieve base and clip components from bins,Material replenishment,factory_001,worker_005,factory001_worker005_00001.csv,factory_001_worker_005,1144,1150,6
+2000-01-01 00:39:10,2000-01-01 00:40:00,drop loose parts into plastic bag,Component bagging,factory_001,worker_005,factory001_worker005_00001.csv,factory_001_worker_005,1150,1200,50
+2000-01-01 00:40:00,2000-01-01 00:41:33,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00002.csv,factory_001_worker_005,0,93,93
+2000-01-01 00:41:33,2000-01-01 00:41:56,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_005,factory001_worker005_00002.csv,factory_001_worker_005,93,116,23
+2000-01-01 00:41:56,2000-01-01 00:42:00,carry finished batch to consolidation point,Component bagging,factory_001,worker_005,factory001_worker005_00002.csv,factory_001_worker_005,116,120,4
+2000-01-01 00:42:00,2000-01-01 00:42:27,tape floor box shut,Component bagging,factory_001,worker_005,factory001_worker005_00002.csv,factory_001_worker_005,120,147,27
+2000-01-01 00:42:27,2000-01-01 00:42:53,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_005,factory001_worker005_00002.csv,factory_001_worker_005,147,173,26
+2000-01-01 00:42:53,2000-01-01 00:42:58,carry finished batch to consolidation point,Component bagging,factory_001,worker_005,factory001_worker005_00002.csv,factory_001_worker_005,173,178,5
+2000-01-01 00:42:58,2000-01-01 00:43:59,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00002.csv,factory_001_worker_005,178,239,61
+2000-01-01 00:43:59,2000-01-01 00:44:07,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_005,factory001_worker005_00002.csv,factory_001_worker_005,239,247,8
+2000-01-01 00:44:07,2000-01-01 00:47:53,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00002.csv,factory_001_worker_005,247,473,226
+2000-01-01 00:47:53,2000-01-01 00:48:11,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_005,factory001_worker005_00002.csv,factory_001_worker_005,473,491,18
+2000-01-01 00:48:11,2000-01-01 00:48:16,carry finished batch to consolidation point,Component bagging,factory_001,worker_005,factory001_worker005_00002.csv,factory_001_worker_005,491,496,5
+2000-01-01 00:48:16,2000-01-01 00:50:53,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00002.csv,factory_001_worker_005,496,653,157
+2000-01-01 00:50:53,2000-01-01 00:51:24,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_005,factory001_worker005_00002.csv,factory_001_worker_005,653,684,31
+2000-01-01 00:51:24,2000-01-01 00:51:36,carry finished batch to consolidation point,Component bagging,factory_001,worker_005,factory001_worker005_00002.csv,factory_001_worker_005,684,696,12
+2000-01-01 00:51:36,2000-01-01 00:51:57,flatten and organize completed bags in bin,Component bagging,factory_001,worker_005,factory001_worker005_00002.csv,factory_001_worker_005,696,717,21
+2000-01-01 00:51:57,2000-01-01 00:52:13,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_005,factory001_worker005_00002.csv,factory_001_worker_005,717,733,16
+2000-01-01 00:52:13,2000-01-01 00:52:19,carry finished batch to consolidation point,Component bagging,factory_001,worker_005,factory001_worker005_00002.csv,factory_001_worker_005,733,739,6
+2000-01-01 00:52:19,2000-01-01 00:55:39,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00002.csv,factory_001_worker_005,739,939,200
+2000-01-01 00:55:39,2000-01-01 00:56:03,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_005,factory001_worker005_00002.csv,factory_001_worker_005,939,963,24
+2000-01-01 00:56:03,2000-01-01 00:56:07,carry finished batch to consolidation point,Component bagging,factory_001,worker_005,factory001_worker005_00002.csv,factory_001_worker_005,963,967,4
+2000-01-01 00:56:07,2000-01-01 00:59:35,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00002.csv,factory_001_worker_005,967,1175,208
+2000-01-01 00:59:35,2000-01-01 00:59:53,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_005,factory001_worker005_00002.csv,factory_001_worker_005,1175,1193,18
+2000-01-01 00:59:53,2000-01-01 00:59:57,carry finished batch to consolidation point,Component bagging,factory_001,worker_005,factory001_worker005_00002.csv,factory_001_worker_005,1193,1197,4
+2000-01-01 00:59:57,2000-01-01 01:00:00,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00002.csv,factory_001_worker_005,1197,1200,3
+2000-01-01 01:00:00,2000-01-01 01:03:07,manually join metal components,Manual mechanical assembly,factory_001,worker_005,factory001_worker005_00003.csv,factory_001_worker_005,0,187,187
+2000-01-01 01:03:07,2000-01-01 01:03:17,dump bin of loose parts onto cardboard,Material replenishment,factory_001,worker_005,factory001_worker005_00003.csv,factory_001_worker_005,187,197,10
+2000-01-01 01:03:17,2000-01-01 01:03:25,manually join metal components,Manual mechanical assembly,factory_001,worker_005,factory001_worker005_00003.csv,factory_001_worker_005,197,205,8
+2000-01-01 01:03:25,2000-01-01 01:03:47,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_005,factory001_worker005_00003.csv,factory_001_worker_005,205,227,22
+2000-01-01 01:03:47,2000-01-01 01:05:05,manually join metal components,Manual mechanical assembly,factory_001,worker_005,factory001_worker005_00003.csv,factory_001_worker_005,227,305,78
+2000-01-01 01:05:05,2000-01-01 01:05:28,inspect newly stamped part,Manual mechanical assembly,factory_001,worker_005,factory001_worker005_00003.csv,factory_001_worker_005,305,328,23
+2000-01-01 01:05:28,2000-01-01 01:07:07,manually join metal components,Manual mechanical assembly,factory_001,worker_005,factory001_worker005_00003.csv,factory_001_worker_005,328,427,99
+2000-01-01 01:07:07,2000-01-01 01:07:11,consult coworker regarding part counts,Manual mechanical assembly,factory_001,worker_005,factory001_worker005_00003.csv,factory_001_worker_005,427,431,4
+2000-01-01 01:07:11,2000-01-01 01:07:42,manually join metal components,Manual mechanical assembly,factory_001,worker_005,factory001_worker005_00003.csv,factory_001_worker_005,431,462,31
+2000-01-01 01:07:42,2000-01-01 01:08:00,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_005,factory001_worker005_00003.csv,factory_001_worker_005,462,480,18
+2000-01-01 01:08:00,2000-01-01 01:11:21,manually join metal components,Manual mechanical assembly,factory_001,worker_005,factory001_worker005_00003.csv,factory_001_worker_005,480,681,201
+2000-01-01 01:11:21,2000-01-01 01:11:31,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_005,factory001_worker005_00003.csv,factory_001_worker_005,681,691,10
+2000-01-01 01:11:31,2000-01-01 01:11:41,tear open clear plastic wrapping,Material replenishment,factory_001,worker_005,factory001_worker005_00003.csv,factory_001_worker_005,691,701,10
+2000-01-01 01:11:41,2000-01-01 01:14:04,manually join metal components,Manual mechanical assembly,factory_001,worker_005,factory001_worker005_00003.csv,factory_001_worker_005,701,844,143
+2000-01-01 01:14:04,2000-01-01 01:14:10,sift unformed parts in bulk bin,Material replenishment,factory_001,worker_005,factory001_worker005_00003.csv,factory_001_worker_005,844,850,6
+2000-01-01 01:14:10,2000-01-01 01:15:30,manually join metal components,Manual mechanical assembly,factory_001,worker_005,factory001_worker005_00003.csv,factory_001_worker_005,850,930,80
+2000-01-01 01:15:30,2000-01-01 01:15:33,consult coworker regarding part counts,Manual mechanical assembly,factory_001,worker_005,factory001_worker005_00003.csv,factory_001_worker_005,930,933,3
+2000-01-01 01:15:33,2000-01-01 01:15:59,manually join metal components,Manual mechanical assembly,factory_001,worker_005,factory001_worker005_00003.csv,factory_001_worker_005,933,959,26
+2000-01-01 01:15:59,2000-01-01 01:16:08,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_005,factory001_worker005_00003.csv,factory_001_worker_005,959,968,9
+2000-01-01 01:16:08,2000-01-01 01:16:29,tear open clear plastic wrapping,Material replenishment,factory_001,worker_005,factory001_worker005_00003.csv,factory_001_worker_005,968,989,21
+2000-01-01 01:16:32,2000-01-01 01:17:10,manually join metal components,Manual mechanical assembly,factory_001,worker_005,factory001_worker005_00003.csv,factory_001_worker_005,992,1030,38
+2000-01-01 01:17:10,2000-01-01 01:17:21,hold unbent pieces in non-dominant hand,Manual mechanical assembly,factory_001,worker_005,factory001_worker005_00003.csv,factory_001_worker_005,1030,1041,11
+2000-01-01 01:17:21,2000-01-01 01:18:04,manually join metal components,Manual mechanical assembly,factory_001,worker_005,factory001_worker005_00003.csv,factory_001_worker_005,1041,1084,43
+2000-01-01 01:18:04,2000-01-01 01:18:13,sift unformed parts in bulk bin,Material replenishment,factory_001,worker_005,factory001_worker005_00003.csv,factory_001_worker_005,1084,1093,9
+2000-01-01 01:18:13,2000-01-01 01:18:31,manually join metal components,Manual mechanical assembly,factory_001,worker_005,factory001_worker005_00003.csv,factory_001_worker_005,1093,1111,18
+2000-01-01 01:18:31,2000-01-01 01:18:41,discard plastic wrapper on desk,Workstation cleaning,factory_001,worker_005,factory001_worker005_00003.csv,factory_001_worker_005,1111,1121,10
+2000-01-01 01:18:41,2000-01-01 01:19:59,manually join metal components,Manual mechanical assembly,factory_001,worker_005,factory001_worker005_00003.csv,factory_001_worker_005,1121,1199,78
+2000-01-01 01:19:59,2000-01-01 01:24:35,place main component into larger bag,Component kitting,factory_001,worker_005,factory001_worker005_00004.csv,factory_001_worker_005,0,276,276
+2000-01-01 01:24:35,2000-01-01 01:24:49,unfold cardboard box,Material replenishment,factory_001,worker_005,factory001_worker005_00004.csv,factory_001_worker_005,276,290,14
+2000-01-01 01:24:49,2000-01-01 01:26:41,place main component into larger bag,Component kitting,factory_001,worker_005,factory001_worker005_00004.csv,factory_001_worker_005,290,402,112
+2000-01-01 01:26:41,2000-01-01 01:26:49,consult coworker regarding part counts,Production tracking,factory_001,worker_005,factory001_worker005_00004.csv,factory_001_worker_005,402,410,8
+2000-01-01 01:26:49,2000-01-01 01:27:33,place main component into larger bag,Component kitting,factory_001,worker_005,factory001_worker005_00004.csv,factory_001_worker_005,410,454,44
+2000-01-01 01:27:33,2000-01-01 01:27:41,adjust plastic collection bag,Material replenishment,factory_001,worker_005,factory001_worker005_00004.csv,factory_001_worker_005,454,462,8
+2000-01-01 01:27:41,2000-01-01 01:29:43,place main component into larger bag,Component kitting,factory_001,worker_005,factory001_worker005_00004.csv,factory_001_worker_005,462,584,122
+2000-01-01 01:29:43,2000-01-01 01:29:50,adjust plastic collection bag,Material replenishment,factory_001,worker_005,factory001_worker005_00004.csv,factory_001_worker_005,584,591,7
+2000-01-01 01:29:50,2000-01-01 01:30:37,place main component into larger bag,Component kitting,factory_001,worker_005,factory001_worker005_00004.csv,factory_001_worker_005,591,638,47
+2000-01-01 01:30:37,2000-01-01 01:30:43,adjust plastic collection bag,Material replenishment,factory_001,worker_005,factory001_worker005_00004.csv,factory_001_worker_005,638,644,6
+2000-01-01 01:30:43,2000-01-01 01:31:14,place main component into larger bag,Component kitting,factory_001,worker_005,factory001_worker005_00004.csv,factory_001_worker_005,644,675,31
+2000-01-01 01:31:14,2000-01-01 01:31:22,adjust plastic collection bag,Material replenishment,factory_001,worker_005,factory001_worker005_00004.csv,factory_001_worker_005,675,683,8
+2000-01-01 01:31:22,2000-01-01 01:33:50,place main component into larger bag,Component kitting,factory_001,worker_005,factory001_worker005_00004.csv,factory_001_worker_005,683,831,148
+2000-01-01 01:33:50,2000-01-01 01:33:59,adjust plastic collection bag,Material replenishment,factory_001,worker_005,factory001_worker005_00004.csv,factory_001_worker_005,831,840,9
+2000-01-01 01:33:59,2000-01-01 01:34:54,place main component into larger bag,Component kitting,factory_001,worker_005,factory001_worker005_00004.csv,factory_001_worker_005,840,895,55
+2000-01-01 01:34:54,2000-01-01 01:34:59,adjust plastic collection bag,Material replenishment,factory_001,worker_005,factory001_worker005_00004.csv,factory_001_worker_005,895,900,5
+2000-01-01 01:34:59,2000-01-01 01:35:49,place main component into larger bag,Component kitting,factory_001,worker_005,factory001_worker005_00004.csv,factory_001_worker_005,900,950,50
+2000-01-01 01:35:49,2000-01-01 01:36:04,adjust plastic collection bag,Material replenishment,factory_001,worker_005,factory001_worker005_00004.csv,factory_001_worker_005,950,965,15
+2000-01-01 01:36:04,2000-01-01 01:37:34,place main component into larger bag,Component kitting,factory_001,worker_005,factory001_worker005_00004.csv,factory_001_worker_005,965,1055,90
+2000-01-01 01:37:34,2000-01-01 01:37:40,adjust plastic collection bag,Material replenishment,factory_001,worker_005,factory001_worker005_00004.csv,factory_001_worker_005,1055,1061,6
+2000-01-01 01:37:40,2000-01-01 01:38:12,place main component into larger bag,Component kitting,factory_001,worker_005,factory001_worker005_00004.csv,factory_001_worker_005,1061,1093,32
+2000-01-01 01:38:12,2000-01-01 01:38:17,adjust plastic collection bag,Material replenishment,factory_001,worker_005,factory001_worker005_00004.csv,factory_001_worker_005,1093,1098,5
+2000-01-01 01:38:17,2000-01-01 01:39:42,place main component into larger bag,Component kitting,factory_001,worker_005,factory001_worker005_00004.csv,factory_001_worker_005,1098,1183,85
+2000-01-01 01:39:42,2000-01-01 01:39:49,adjust plastic collection bag,Material replenishment,factory_001,worker_005,factory001_worker005_00004.csv,factory_001_worker_005,1183,1190,7
+2000-01-01 01:39:49,2000-01-01 01:39:59,place main component into larger bag,Component kitting,factory_001,worker_005,factory001_worker005_00004.csv,factory_001_worker_005,1190,1200,10
+2000-01-01 01:39:59,2000-01-01 01:40:14,drop loose parts into plastic bag,Component bagging,factory_001,worker_005,factory001_worker005_00005.csv,factory_001_worker_005,0,15,15
+2000-01-01 01:40:14,2000-01-01 01:42:11,sweep loose parts into receiving mechanism,Material replenishment,factory_001,worker_005,factory001_worker005_00005.csv,factory_001_worker_005,15,132,117
+2000-01-01 01:42:11,2000-01-01 01:42:17,stack empty bins behind workstation,Material replenishment,factory_001,worker_005,factory001_worker005_00005.csv,factory_001_worker_005,132,138,6
+2000-01-01 01:42:17,2000-01-01 01:42:52,sweep loose parts into receiving mechanism,Material replenishment,factory_001,worker_005,factory001_worker005_00005.csv,factory_001_worker_005,138,173,35
+2000-01-01 01:42:52,2000-01-01 01:43:08,unfold cardboard box,Material replenishment,factory_001,worker_005,factory001_worker005_00005.csv,factory_001_worker_005,173,189,16
+2000-01-01 01:43:08,2000-01-01 01:43:21,assist coworker with bagging parts,Component bagging,factory_001,worker_005,factory001_worker005_00005.csv,factory_001_worker_005,189,202,13
+2000-01-01 01:43:21,2000-01-01 01:43:31,assist coworker with bagging parts,Component bagging,factory_001,worker_005,factory001_worker005_00005.csv,factory_001_worker_005,202,212,10
+2000-01-01 01:43:31,2000-01-01 01:43:45,dump bin of loose parts onto cardboard,Material replenishment,factory_001,worker_005,factory001_worker005_00005.csv,factory_001_worker_005,212,226,14
+2000-01-01 01:43:45,2000-01-01 01:45:37,sweep loose parts into receiving mechanism,Material replenishment,factory_001,worker_005,factory001_worker005_00005.csv,factory_001_worker_005,226,338,112
+2000-01-01 01:45:37,2000-01-01 01:45:43,stack empty bins behind workstation,Material replenishment,factory_001,worker_005,factory001_worker005_00005.csv,factory_001_worker_005,338,344,6
+2000-01-01 01:45:43,2000-01-01 01:46:27,sweep loose parts into receiving mechanism,Material replenishment,factory_001,worker_005,factory001_worker005_00005.csv,factory_001_worker_005,344,388,44
+2000-01-01 01:46:27,2000-01-01 01:46:52,scoop raw parts into bin,Material replenishment,factory_001,worker_005,factory001_worker005_00005.csv,factory_001_worker_005,388,413,25
+2000-01-01 01:46:52,2000-01-01 01:47:21,sweep loose parts into receiving mechanism,Material replenishment,factory_001,worker_005,factory001_worker005_00005.csv,factory_001_worker_005,413,442,29
+2000-01-01 01:47:21,2000-01-01 01:47:25,stack empty bins behind workstation,Material replenishment,factory_001,worker_005,factory001_worker005_00005.csv,factory_001_worker_005,442,446,4
+2000-01-01 01:47:25,2000-01-01 01:47:37,flatten and organize completed bags in bin,Component bagging,factory_001,worker_005,factory001_worker005_00005.csv,factory_001_worker_005,446,458,12
+2000-01-01 01:47:37,2000-01-01 01:47:50,adjust plastic collection bag,Component bagging,factory_001,worker_005,factory001_worker005_00005.csv,factory_001_worker_005,458,471,13
+2000-01-01 01:47:50,2000-01-01 01:48:41,sweep loose parts into receiving mechanism,Material replenishment,factory_001,worker_005,factory001_worker005_00005.csv,factory_001_worker_005,471,522,51
+2000-01-01 01:48:41,2000-01-01 01:48:46,stack empty bins behind workstation,Material replenishment,factory_001,worker_005,factory001_worker005_00005.csv,factory_001_worker_005,522,527,5
+2000-01-01 01:48:46,2000-01-01 01:48:57,drop loose parts into plastic bag,Component bagging,factory_001,worker_005,factory001_worker005_00005.csv,factory_001_worker_005,527,538,11
+2000-01-01 01:48:57,2000-01-01 01:49:06,sweep loose parts into receiving mechanism,Material replenishment,factory_001,worker_005,factory001_worker005_00005.csv,factory_001_worker_005,538,547,9
+2000-01-01 01:49:06,2000-01-01 01:49:29,assist coworker with bagging parts,Component bagging,factory_001,worker_005,factory001_worker005_00005.csv,factory_001_worker_005,547,570,23
+2000-01-01 01:49:29,2000-01-01 01:49:46,drop sealed bags into bulk container,Component bagging,factory_001,worker_005,factory001_worker005_00005.csv,factory_001_worker_005,570,587,17
+2000-01-01 01:49:46,2000-01-01 01:50:15,sweep loose parts into receiving mechanism,Material replenishment,factory_001,worker_005,factory001_worker005_00005.csv,factory_001_worker_005,587,616,29
+2000-01-01 01:50:15,2000-01-01 01:50:27,assist coworker with bagging parts,Component bagging,factory_001,worker_005,factory001_worker005_00005.csv,factory_001_worker_005,616,628,12
+2000-01-01 01:50:27,2000-01-01 01:50:55,sweep loose parts into receiving mechanism,Material replenishment,factory_001,worker_005,factory001_worker005_00005.csv,factory_001_worker_005,628,656,28
+2000-01-01 01:50:55,2000-01-01 01:51:06,assist coworker with bagging parts,Component bagging,factory_001,worker_005,factory001_worker005_00005.csv,factory_001_worker_005,656,667,11
+2000-01-01 01:51:06,2000-01-01 01:51:14,drop sealed bags into bulk container,Component bagging,factory_001,worker_005,factory001_worker005_00005.csv,factory_001_worker_005,667,675,8
+2000-01-01 01:51:14,2000-01-01 01:51:23,assist coworker with bagging parts,Component bagging,factory_001,worker_005,factory001_worker005_00005.csv,factory_001_worker_005,675,684,9
+2000-01-01 01:51:23,2000-01-01 01:51:33,drop sealed bags into bulk container,Component bagging,factory_001,worker_005,factory001_worker005_00005.csv,factory_001_worker_005,684,694,10
+2000-01-01 01:51:33,2000-01-01 01:55:04,sweep loose parts into receiving mechanism,Material replenishment,factory_001,worker_005,factory001_worker005_00005.csv,factory_001_worker_005,694,905,211
+2000-01-01 01:55:04,2000-01-01 01:55:14,drop sealed bags into bulk container,Component bagging,factory_001,worker_005,factory001_worker005_00005.csv,factory_001_worker_005,905,915,10
+2000-01-01 01:55:14,2000-01-01 01:56:12,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_005,factory001_worker005_00005.csv,factory_001_worker_005,915,973,58
+2000-01-01 01:56:12,2000-01-01 01:56:17,carry finished batch to consolidation point,Finished goods transport,factory_001,worker_005,factory001_worker005_00005.csv,factory_001_worker_005,973,978,5
+2000-01-01 01:56:17,2000-01-01 01:56:44,sweep loose parts into receiving mechanism,Material replenishment,factory_001,worker_005,factory001_worker005_00005.csv,factory_001_worker_005,978,1005,27
+2000-01-01 01:56:44,2000-01-01 01:56:50,scoop raw parts into bin,Material replenishment,factory_001,worker_005,factory001_worker005_00005.csv,factory_001_worker_005,1005,1011,6
+2000-01-01 01:56:50,2000-01-01 01:56:59,sweep loose parts into receiving mechanism,Material replenishment,factory_001,worker_005,factory001_worker005_00005.csv,factory_001_worker_005,1011,1020,9
+2000-01-01 01:56:59,2000-01-01 01:57:14,assist coworker with bagging parts,Component bagging,factory_001,worker_005,factory001_worker005_00005.csv,factory_001_worker_005,1020,1035,15
+2000-01-01 01:57:14,2000-01-01 01:58:42,sweep loose parts into receiving mechanism,Material replenishment,factory_001,worker_005,factory001_worker005_00005.csv,factory_001_worker_005,1035,1123,88
+2000-01-01 01:58:42,2000-01-01 01:58:47,stack empty bins behind workstation,Material replenishment,factory_001,worker_005,factory001_worker005_00005.csv,factory_001_worker_005,1123,1128,5
+2000-01-01 01:58:47,2000-01-01 01:58:59,drop loose parts into plastic bag,Component bagging,factory_001,worker_005,factory001_worker005_00005.csv,factory_001_worker_005,1128,1140,12
+2000-01-01 01:58:59,2000-01-01 01:59:04,adjust plastic collection bag,Component bagging,factory_001,worker_005,factory001_worker005_00005.csv,factory_001_worker_005,1140,1145,5
+2000-01-01 01:59:04,2000-01-01 01:59:59,sweep loose parts into receiving mechanism,Material replenishment,factory_001,worker_005,factory001_worker005_00005.csv,factory_001_worker_005,1145,1200,55
+2000-01-01 01:59:59,2000-01-01 02:01:15,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00006.csv,factory_001_worker_005,0,76,76
+2000-01-01 02:01:25,2000-01-01 02:02:04,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00006.csv,factory_001_worker_005,86,125,39
+2000-01-01 02:02:12,2000-01-01 02:03:08,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00006.csv,factory_001_worker_005,133,189,56
+2000-01-01 02:03:08,2000-01-01 02:03:19,dump finished pieces into bulk container,Finished goods transport,factory_001,worker_005,factory001_worker005_00006.csv,factory_001_worker_005,189,200,11
+2000-01-01 02:03:26,2000-01-01 02:05:03,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00006.csv,factory_001_worker_005,207,304,97
+2000-01-01 02:05:08,2000-01-01 02:05:45,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00006.csv,factory_001_worker_005,309,346,37
+2000-01-01 02:05:50,2000-01-01 02:06:02,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00006.csv,factory_001_worker_005,351,363,12
+2000-01-01 02:06:07,2000-01-01 02:06:43,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00006.csv,factory_001_worker_005,368,404,36
+2000-01-01 02:06:49,2000-01-01 02:07:21,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00006.csv,factory_001_worker_005,410,442,32
+2000-01-01 02:07:21,2000-01-01 02:07:30,dump finished pieces into bulk container,Finished goods transport,factory_001,worker_005,factory001_worker005_00006.csv,factory_001_worker_005,442,451,9
+2000-01-01 02:07:34,2000-01-01 02:07:41,pour large bag of small components into desktop bin,Material replenishment,factory_001,worker_005,factory001_worker005_00006.csv,factory_001_worker_005,455,462,7
+2000-01-01 02:07:45,2000-01-01 02:07:49,pour large bag of small components into desktop bin,Material replenishment,factory_001,worker_005,factory001_worker005_00006.csv,factory_001_worker_005,466,470,4
+2000-01-01 02:07:57,2000-01-01 02:08:20,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00006.csv,factory_001_worker_005,478,501,23
+2000-01-01 02:08:25,2000-01-01 02:09:15,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00006.csv,factory_001_worker_005,506,556,50
+2000-01-01 02:09:20,2000-01-01 02:09:22,drag small parts to front of bin,Material replenishment,factory_001,worker_005,factory001_worker005_00006.csv,factory_001_worker_005,561,563,2
+2000-01-01 02:09:27,2000-01-01 02:09:59,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00006.csv,factory_001_worker_005,568,600,32
+2000-01-01 02:09:59,2000-01-01 02:10:04,adjust plastic collection bag,Component bagging,factory_001,worker_005,factory001_worker005_00006.csv,factory_001_worker_005,600,605,5
+2000-01-01 02:10:12,2000-01-01 02:10:47,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00006.csv,factory_001_worker_005,613,648,35
+2000-01-01 02:10:52,2000-01-01 02:11:52,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00006.csv,factory_001_worker_005,653,713,60
+2000-01-01 02:11:57,2000-01-01 02:12:10,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00006.csv,factory_001_worker_005,718,731,13
+2000-01-01 02:12:14,2000-01-01 02:12:20,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00006.csv,factory_001_worker_005,735,741,6
+2000-01-01 02:12:20,2000-01-01 02:12:40,carry finished batch to consolidation point,Finished goods transport,factory_001,worker_005,factory001_worker005_00006.csv,factory_001_worker_005,741,761,20
+2000-01-01 02:12:43,2000-01-01 02:12:56,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00006.csv,factory_001_worker_005,764,777,13
+2000-01-01 02:12:59,2000-01-01 02:14:08,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00006.csv,factory_001_worker_005,780,849,69
+2000-01-01 02:14:13,2000-01-01 02:14:54,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00006.csv,factory_001_worker_005,854,895,41
+2000-01-01 02:14:54,2000-01-01 02:15:01,dump finished pieces into bulk container,Finished goods transport,factory_001,worker_005,factory001_worker005_00006.csv,factory_001_worker_005,895,902,7
+2000-01-01 02:15:10,2000-01-01 02:15:16,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00006.csv,factory_001_worker_005,911,917,6
+2000-01-01 02:15:16,2000-01-01 02:15:22,dump finished pieces into bulk container,Finished goods transport,factory_001,worker_005,factory001_worker005_00006.csv,factory_001_worker_005,917,923,6
+2000-01-01 02:15:27,2000-01-01 02:15:30,pour large bag of small components into desktop bin,Material replenishment,factory_001,worker_005,factory001_worker005_00006.csv,factory_001_worker_005,928,931,3
+2000-01-01 02:15:30,2000-01-01 02:15:42,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00006.csv,factory_001_worker_005,931,943,12
+2000-01-01 02:15:46,2000-01-01 02:16:17,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00006.csv,factory_001_worker_005,947,978,31
+2000-01-01 02:16:17,2000-01-01 02:16:23,carry finished batch to consolidation point,Finished goods transport,factory_001,worker_005,factory001_worker005_00006.csv,factory_001_worker_005,978,984,6
+2000-01-01 02:16:28,2000-01-01 02:16:46,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00006.csv,factory_001_worker_005,989,1007,18
+2000-01-01 02:16:52,2000-01-01 02:16:55,carry finished batch to consolidation point,Finished goods transport,factory_001,worker_005,factory001_worker005_00006.csv,factory_001_worker_005,1013,1016,3
+2000-01-01 02:16:55,2000-01-01 02:17:01,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00006.csv,factory_001_worker_005,1016,1022,6
+2000-01-01 02:17:01,2000-01-01 02:17:04,pour large bag of small components into desktop bin,Material replenishment,factory_001,worker_005,factory001_worker005_00006.csv,factory_001_worker_005,1022,1025,3
+2000-01-01 02:17:08,2000-01-01 02:17:14,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00006.csv,factory_001_worker_005,1029,1035,6
+2000-01-01 02:17:20,2000-01-01 02:17:47,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00006.csv,factory_001_worker_005,1041,1068,27
+2000-01-01 02:17:53,2000-01-01 02:18:30,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00006.csv,factory_001_worker_005,1074,1111,37
+2000-01-01 02:18:34,2000-01-01 02:18:45,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00006.csv,factory_001_worker_005,1115,1126,11
+2000-01-01 02:18:45,2000-01-01 02:18:51,pour large bag of small components into desktop bin,Material replenishment,factory_001,worker_005,factory001_worker005_00006.csv,factory_001_worker_005,1126,1132,6
+2000-01-01 02:18:51,2000-01-01 02:18:55,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00006.csv,factory_001_worker_005,1132,1136,4
+2000-01-01 02:19:00,2000-01-01 02:19:48,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00006.csv,factory_001_worker_005,1141,1189,48
+2000-01-01 02:19:53,2000-01-01 02:19:59,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00006.csv,factory_001_worker_005,1194,1200,6
+2000-01-01 02:19:59,2000-01-01 02:20:33,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,0,34,34
+2000-01-01 02:20:33,2000-01-01 02:20:45,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,34,46,12
+2000-01-01 02:20:45,2000-01-01 02:21:02,drop sealed bags into bulk container,Component bagging,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,46,63,17
+2000-01-01 02:21:02,2000-01-01 02:21:35,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,63,96,33
+2000-01-01 02:21:35,2000-01-01 02:22:55,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,96,176,80
+2000-01-01 02:22:55,2000-01-01 02:23:11,drop sealed bags into bulk container,Component bagging,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,176,192,16
+2000-01-01 02:23:11,2000-01-01 02:24:17,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,192,258,66
+2000-01-01 02:24:17,2000-01-01 02:24:42,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,258,283,25
+2000-01-01 02:24:42,2000-01-01 02:24:50,drop sealed bags into bulk container,Component bagging,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,283,291,8
+2000-01-01 02:24:50,2000-01-01 02:25:06,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,291,307,16
+2000-01-01 02:25:06,2000-01-01 02:25:14,drop sealed bags into bulk container,Component bagging,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,307,315,8
+2000-01-01 02:25:14,2000-01-01 02:26:16,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,315,377,62
+2000-01-01 02:26:16,2000-01-01 02:26:27,drop sealed bags into bulk container,Component bagging,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,377,388,11
+2000-01-01 02:26:27,2000-01-01 02:26:59,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,388,420,32
+2000-01-01 02:26:59,2000-01-01 02:27:10,drop sealed bags into bulk container,Component bagging,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,420,431,11
+2000-01-01 02:27:10,2000-01-01 02:27:21,stack empty bins behind workstation,Material replenishment,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,431,442,11
+2000-01-01 02:27:21,2000-01-01 02:27:47,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,442,468,26
+2000-01-01 02:27:47,2000-01-01 02:27:58,drop sealed bags into bulk container,Component bagging,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,468,479,11
+2000-01-01 02:27:58,2000-01-01 02:28:19,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,479,500,21
+2000-01-01 02:28:19,2000-01-01 02:28:43,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,500,524,24
+2000-01-01 02:28:43,2000-01-01 02:29:18,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,524,559,35
+2000-01-01 02:29:18,2000-01-01 02:29:25,drop sealed bags into bulk container,Component bagging,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,559,566,7
+2000-01-01 02:29:25,2000-01-01 02:29:55,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,566,596,30
+2000-01-01 02:29:55,2000-01-01 02:30:03,drop sealed bags into bulk container,Component bagging,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,596,604,8
+2000-01-01 02:30:03,2000-01-01 02:30:44,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,604,645,41
+2000-01-01 02:30:44,2000-01-01 02:30:54,drop sealed bags into bulk container,Component bagging,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,645,655,10
+2000-01-01 02:30:54,2000-01-01 02:31:10,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,655,671,16
+2000-01-01 02:31:10,2000-01-01 02:31:20,drop sealed bags into bulk container,Component bagging,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,671,681,10
+2000-01-01 02:31:20,2000-01-01 02:31:41,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,681,702,21
+2000-01-01 02:31:41,2000-01-01 02:31:50,drop sealed bags into bulk container,Component bagging,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,702,711,9
+2000-01-01 02:31:50,2000-01-01 02:31:59,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,711,720,9
+2000-01-01 02:31:59,2000-01-01 02:32:11,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,720,732,12
+2000-01-01 02:32:11,2000-01-01 02:32:55,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,732,776,44
+2000-01-01 02:32:55,2000-01-01 02:33:07,drop sealed bags into bulk container,Component bagging,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,776,788,12
+2000-01-01 02:33:07,2000-01-01 02:33:21,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,788,802,14
+2000-01-01 02:33:21,2000-01-01 02:33:30,drop sealed bags into bulk container,Component bagging,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,802,811,9
+2000-01-01 02:33:30,2000-01-01 02:33:51,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,811,832,21
+2000-01-01 02:33:51,2000-01-01 02:34:03,drop sealed bags into bulk container,Component bagging,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,832,844,12
+2000-01-01 02:34:03,2000-01-01 02:34:13,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,844,854,10
+2000-01-01 02:34:13,2000-01-01 02:34:23,drop sealed bags into bulk container,Component bagging,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,854,864,10
+2000-01-01 02:34:23,2000-01-01 02:34:47,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,864,888,24
+2000-01-01 02:34:47,2000-01-01 02:34:56,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,888,897,9
+2000-01-01 02:34:56,2000-01-01 02:35:30,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,897,931,34
+2000-01-01 02:35:30,2000-01-01 02:35:42,drop sealed bags into bulk container,Component bagging,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,931,943,12
+2000-01-01 02:35:42,2000-01-01 02:36:28,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,943,989,46
+2000-01-01 02:36:28,2000-01-01 02:36:41,drop sealed bags into bulk container,Component bagging,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,989,1002,13
+2000-01-01 02:36:41,2000-01-01 02:36:59,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,1002,1020,18
+2000-01-01 02:36:59,2000-01-01 02:37:10,drop sealed bags into bulk container,Component bagging,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,1020,1031,11
+2000-01-01 02:37:10,2000-01-01 02:37:43,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,1031,1064,33
+2000-01-01 02:37:43,2000-01-01 02:37:57,drop sealed bags into bulk container,Component bagging,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,1064,1078,14
+2000-01-01 02:37:57,2000-01-01 02:38:15,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,1078,1096,18
+2000-01-01 02:38:15,2000-01-01 02:38:26,drop sealed bags into bulk container,Component bagging,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,1096,1107,11
+2000-01-01 02:38:26,2000-01-01 02:38:47,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,1107,1128,21
+2000-01-01 02:38:47,2000-01-01 02:38:58,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,1128,1139,11
+2000-01-01 02:38:58,2000-01-01 02:39:34,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,1139,1175,36
+2000-01-01 02:39:34,2000-01-01 02:39:48,drop sealed bags into bulk container,Component bagging,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,1175,1189,14
+2000-01-01 02:39:48,2000-01-01 02:40:00,drop finished part into bag on lap,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00007.csv,factory_001_worker_005,1189,1201,12
+2000-01-01 02:40:00,2000-01-01 02:40:23,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00008.csv,factory_001_worker_005,0,23,23
+2000-01-01 02:40:23,2000-01-01 02:40:30,pour raw parts onto feed tray,Material replenishment,factory_001,worker_005,factory001_worker005_00008.csv,factory_001_worker_005,23,30,7
+2000-01-01 02:40:30,2000-01-01 02:40:50,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00008.csv,factory_001_worker_005,30,50,20
+2000-01-01 02:40:50,2000-01-01 02:40:54,inspect newly stamped part,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00008.csv,factory_001_worker_005,50,54,4
+2000-01-01 02:40:54,2000-01-01 02:41:25,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00008.csv,factory_001_worker_005,54,85,31
+2000-01-01 02:41:25,2000-01-01 02:41:36,stack empty bins behind workstation,Workstation cleaning,factory_001,worker_005,factory001_worker005_00008.csv,factory_001_worker_005,85,96,11
+2000-01-01 02:41:36,2000-01-01 02:42:00,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00008.csv,factory_001_worker_005,96,120,24
+2000-01-01 02:42:00,2000-01-01 02:42:08,push sliding mechanism on press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00008.csv,factory_001_worker_005,120,128,8
+2000-01-01 02:42:08,2000-01-01 02:42:26,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00008.csv,factory_001_worker_005,128,146,18
+2000-01-01 02:42:26,2000-01-01 02:42:35,drag small parts to front of bin,Material replenishment,factory_001,worker_005,factory001_worker005_00008.csv,factory_001_worker_005,146,155,9
+2000-01-01 02:42:35,2000-01-01 02:42:44,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_005,factory001_worker005_00008.csv,factory_001_worker_005,155,164,9
+2000-01-01 02:42:44,2000-01-01 02:43:00,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00008.csv,factory_001_worker_005,164,180,16
+2000-01-01 02:43:00,2000-01-01 02:43:08,drag small parts to front of bin,Material replenishment,factory_001,worker_005,factory001_worker005_00008.csv,factory_001_worker_005,180,188,8
+2000-01-01 02:43:08,2000-01-01 02:43:30,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00008.csv,factory_001_worker_005,188,210,22
+2000-01-01 02:43:30,2000-01-01 02:43:38,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_005,factory001_worker005_00008.csv,factory_001_worker_005,210,218,8
+2000-01-01 02:43:38,2000-01-01 02:44:14,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00008.csv,factory_001_worker_005,218,254,36
+2000-01-01 02:44:14,2000-01-01 02:44:36,drop sealed bags into bulk container,Finished goods transport,factory_001,worker_005,factory001_worker005_00008.csv,factory_001_worker_005,254,276,22
+2000-01-01 02:44:36,2000-01-01 02:44:51,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_005,factory001_worker005_00008.csv,factory_001_worker_005,276,291,15
+2000-01-01 02:44:51,2000-01-01 02:44:59,drop sealed bags into bulk container,Component bagging,factory_001,worker_005,factory001_worker005_00008.csv,factory_001_worker_005,291,299,8
+2000-01-01 02:44:59,2000-01-01 02:45:18,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00008.csv,factory_001_worker_005,299,318,19
+2000-01-01 02:45:18,2000-01-01 02:45:32,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_005,factory001_worker005_00008.csv,factory_001_worker_005,318,332,14
+2000-01-01 02:45:32,2000-01-01 02:46:48,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00008.csv,factory_001_worker_005,332,408,76
+2000-01-01 02:46:48,2000-01-01 02:46:51,pour raw parts onto feed tray,Material replenishment,factory_001,worker_005,factory001_worker005_00008.csv,factory_001_worker_005,408,411,3
+2000-01-01 02:46:51,2000-01-01 02:48:15,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00008.csv,factory_001_worker_005,411,495,84
+2000-01-01 02:48:15,2000-01-01 02:48:31,drop sealed bags into bulk container,Component bagging,factory_001,worker_005,factory001_worker005_00008.csv,factory_001_worker_005,495,511,16
+2000-01-01 02:48:31,2000-01-01 02:48:39,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_005,factory001_worker005_00008.csv,factory_001_worker_005,511,519,8
+2000-01-01 02:48:39,2000-01-01 02:48:48,drop sealed bags into bulk container,Component bagging,factory_001,worker_005,factory001_worker005_00008.csv,factory_001_worker_005,519,528,9
+2000-01-01 02:48:48,2000-01-01 02:49:29,unfold cardboard box,Finished goods transport,factory_001,worker_005,factory001_worker005_00008.csv,factory_001_worker_005,528,569,41
+2000-01-01 02:49:29,2000-01-01 02:50:20,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00008.csv,factory_001_worker_005,569,620,51
+2000-01-01 02:50:20,2000-01-01 02:50:24,drag small parts to front of bin,Material replenishment,factory_001,worker_005,factory001_worker005_00008.csv,factory_001_worker_005,620,624,4
+2000-01-01 02:50:24,2000-01-01 02:51:06,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00008.csv,factory_001_worker_005,624,666,42
+2000-01-01 02:51:06,2000-01-01 02:51:13,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_005,factory001_worker005_00008.csv,factory_001_worker_005,666,673,7
+2000-01-01 02:51:13,2000-01-01 02:51:20,drop sealed bags into bulk container,Component bagging,factory_001,worker_005,factory001_worker005_00008.csv,factory_001_worker_005,673,680,7
+2000-01-01 02:51:20,2000-01-01 02:52:44,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00008.csv,factory_001_worker_005,680,764,84
+2000-01-01 02:52:44,2000-01-01 02:52:51,unfold cardboard box,Finished goods transport,factory_001,worker_005,factory001_worker005_00008.csv,factory_001_worker_005,764,771,7
+2000-01-01 02:52:51,2000-01-01 02:52:59,drop sealed bags into bulk container,Finished goods transport,factory_001,worker_005,factory001_worker005_00008.csv,factory_001_worker_005,771,779,8
+2000-01-01 02:52:59,2000-01-01 02:53:08,scoop handfuls of completed parts into bag,Component bagging,factory_001,worker_005,factory001_worker005_00008.csv,factory_001_worker_005,779,788,9
+2000-01-01 02:53:08,2000-01-01 02:54:14,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00008.csv,factory_001_worker_005,788,854,66
+2000-01-01 02:54:14,2000-01-01 02:54:21,push sliding mechanism on press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00008.csv,factory_001_worker_005,854,861,7
+2000-01-01 02:54:21,2000-01-01 02:55:52,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00008.csv,factory_001_worker_005,861,952,91
+2000-01-01 02:55:52,2000-01-01 02:55:55,pour raw parts onto feed tray,Material replenishment,factory_001,worker_005,factory001_worker005_00008.csv,factory_001_worker_005,952,955,3
+2000-01-01 02:55:55,2000-01-01 02:56:18,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00008.csv,factory_001_worker_005,955,978,23
+2000-01-01 02:56:25,2000-01-01 02:57:13,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00008.csv,factory_001_worker_005,985,1033,48
+2000-01-01 02:57:13,2000-01-01 02:57:18,pour raw parts onto feed tray,Material replenishment,factory_001,worker_005,factory001_worker005_00008.csv,factory_001_worker_005,1033,1038,5
+2000-01-01 02:57:18,2000-01-01 02:58:37,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00008.csv,factory_001_worker_005,1038,1117,79
+2000-01-01 02:58:37,2000-01-01 02:58:40,pour raw parts onto feed tray,Material replenishment,factory_001,worker_005,factory001_worker005_00008.csv,factory_001_worker_005,1117,1120,3
+2000-01-01 02:58:40,2000-01-01 02:59:10,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00008.csv,factory_001_worker_005,1120,1150,30
+2000-01-01 02:59:10,2000-01-01 02:59:15,pour raw parts onto feed tray,Material replenishment,factory_001,worker_005,factory001_worker005_00008.csv,factory_001_worker_005,1150,1155,5
+2000-01-01 02:59:15,2000-01-01 02:59:51,actuate machine press,Semi-automated press assembly,factory_001,worker_005,factory001_worker005_00008.csv,factory_001_worker_005,1155,1191,36

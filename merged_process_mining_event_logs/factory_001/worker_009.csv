@@ -1,0 +1,312 @@
+start_timestamp,end_timestamp,activity,process,factory,worker,source_file,case_id,start_seconds_from_video_start,end_seconds_from_video_start,duration_seconds
+2000-01-01 00:00:00,2000-01-01 00:00:46,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,0,46,46
+2000-01-01 00:00:46,2000-01-01 00:00:52,drag small parts to front of bin,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,46,52,6
+2000-01-01 00:00:52,2000-01-01 00:01:22,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,52,82,30
+2000-01-01 00:01:22,2000-01-01 00:01:28,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,82,88,6
+2000-01-01 00:01:28,2000-01-01 00:02:18,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,88,138,50
+2000-01-01 00:02:18,2000-01-01 00:02:22,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,138,142,4
+2000-01-01 00:02:22,2000-01-01 00:03:08,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,142,188,46
+2000-01-01 00:03:09,2000-01-01 00:03:13,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,189,193,4
+2000-01-01 00:03:14,2000-01-01 00:03:44,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,194,224,30
+2000-01-01 00:03:45,2000-01-01 00:03:48,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,225,228,3
+2000-01-01 00:03:49,2000-01-01 00:04:29,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,229,269,40
+2000-01-01 00:04:30,2000-01-01 00:04:34,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,270,274,4
+2000-01-01 00:04:35,2000-01-01 00:04:58,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,275,298,23
+2000-01-01 00:04:59,2000-01-01 00:05:07,drag small parts to front of bin,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,299,307,8
+2000-01-01 00:05:08,2000-01-01 00:05:25,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,308,325,17
+2000-01-01 00:05:25,2000-01-01 00:05:29,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,325,329,4
+2000-01-01 00:05:30,2000-01-01 00:05:46,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,330,346,16
+2000-01-01 00:05:46,2000-01-01 00:05:53,drag small parts to front of bin,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,346,353,7
+2000-01-01 00:05:54,2000-01-01 00:06:17,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,354,377,23
+2000-01-01 00:06:17,2000-01-01 00:06:22,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,377,382,5
+2000-01-01 00:06:23,2000-01-01 00:07:07,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,383,427,44
+2000-01-01 00:07:08,2000-01-01 00:07:12,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,428,432,4
+2000-01-01 00:07:13,2000-01-01 00:07:31,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,433,451,18
+2000-01-01 00:07:32,2000-01-01 00:07:38,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,452,458,6
+2000-01-01 00:07:39,2000-01-01 00:08:14,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,459,494,35
+2000-01-01 00:08:15,2000-01-01 00:08:23,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,495,503,8
+2000-01-01 00:08:24,2000-01-01 00:08:49,drag small parts to front of bin,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,504,529,25
+2000-01-01 00:08:49,2000-01-01 00:09:00,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,529,540,11
+2000-01-01 00:09:01,2000-01-01 00:09:05,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,541,545,4
+2000-01-01 00:09:06,2000-01-01 00:09:44,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,546,584,38
+2000-01-01 00:09:44,2000-01-01 00:09:49,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,584,589,5
+2000-01-01 00:09:49,2000-01-01 00:10:13,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,589,613,24
+2000-01-01 00:10:13,2000-01-01 00:10:18,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,613,618,5
+2000-01-01 00:10:19,2000-01-01 00:10:56,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,619,656,37
+2000-01-01 00:10:57,2000-01-01 00:11:02,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,657,662,5
+2000-01-01 00:11:02,2000-01-01 00:11:24,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,662,684,22
+2000-01-01 00:11:25,2000-01-01 00:11:34,drag small parts to front of bin,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,685,694,9
+2000-01-01 00:11:34,2000-01-01 00:11:51,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,694,711,17
+2000-01-01 00:11:51,2000-01-01 00:11:59,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,711,719,8
+2000-01-01 00:11:59,2000-01-01 00:12:10,drag small parts to front of bin,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,719,730,11
+2000-01-01 00:12:11,2000-01-01 00:12:32,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,731,752,21
+2000-01-01 00:12:33,2000-01-01 00:12:44,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,753,764,11
+2000-01-01 00:12:45,2000-01-01 00:13:08,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,765,788,23
+2000-01-01 00:13:08,2000-01-01 00:13:12,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,788,792,4
+2000-01-01 00:13:13,2000-01-01 00:13:30,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,793,810,17
+2000-01-01 00:13:31,2000-01-01 00:13:38,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,811,818,7
+2000-01-01 00:13:39,2000-01-01 00:14:03,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,819,843,24
+2000-01-01 00:14:03,2000-01-01 00:14:09,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,843,849,6
+2000-01-01 00:14:10,2000-01-01 00:14:28,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,850,868,18
+2000-01-01 00:14:29,2000-01-01 00:14:34,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,869,874,5
+2000-01-01 00:14:35,2000-01-01 00:14:55,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,875,895,20
+2000-01-01 00:14:55,2000-01-01 00:15:06,drag small parts to front of bin,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,895,906,11
+2000-01-01 00:15:06,2000-01-01 00:15:23,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,906,923,17
+2000-01-01 00:15:24,2000-01-01 00:15:30,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,924,930,6
+2000-01-01 00:15:30,2000-01-01 00:15:47,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,930,947,17
+2000-01-01 00:15:48,2000-01-01 00:15:52,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,948,952,4
+2000-01-01 00:15:53,2000-01-01 00:16:15,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,953,975,22
+2000-01-01 00:16:16,2000-01-01 00:16:21,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,976,981,5
+2000-01-01 00:16:22,2000-01-01 00:16:40,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,982,1000,18
+2000-01-01 00:16:41,2000-01-01 00:16:47,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,1001,1007,6
+2000-01-01 00:16:47,2000-01-01 00:17:08,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,1007,1028,21
+2000-01-01 00:17:09,2000-01-01 00:17:15,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,1029,1035,6
+2000-01-01 00:17:16,2000-01-01 00:17:51,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,1036,1071,35
+2000-01-01 00:17:52,2000-01-01 00:17:58,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,1072,1078,6
+2000-01-01 00:17:59,2000-01-01 00:18:18,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,1079,1098,19
+2000-01-01 00:18:19,2000-01-01 00:18:24,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,1099,1104,5
+2000-01-01 00:18:25,2000-01-01 00:18:35,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,1105,1115,10
+2000-01-01 00:18:36,2000-01-01 00:18:41,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,1116,1121,5
+2000-01-01 00:18:41,2000-01-01 00:18:59,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,1121,1139,18
+2000-01-01 00:19:00,2000-01-01 00:19:08,drag small parts to front of bin,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,1140,1148,8
+2000-01-01 00:19:08,2000-01-01 00:19:28,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,1148,1168,20
+2000-01-01 00:19:29,2000-01-01 00:19:35,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,1169,1175,6
+2000-01-01 00:19:36,2000-01-01 00:19:55,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,1176,1195,19
+2000-01-01 00:19:55,2000-01-01 00:20:01,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00000.csv,factory_001_worker_009,1195,1201,6
+2000-01-01 00:20:01,2000-01-01 00:30:32,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00001.csv,factory_001_worker_009,0,631,631
+2000-01-01 00:30:32,2000-01-01 00:30:43,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_009,factory001_worker009_00001.csv,factory_001_worker_009,631,642,11
+2000-01-01 00:30:43,2000-01-01 00:31:24,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00001.csv,factory_001_worker_009,642,683,41
+2000-01-01 00:31:24,2000-01-01 00:31:41,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_009,factory001_worker009_00001.csv,factory_001_worker_009,683,700,17
+2000-01-01 00:31:41,2000-01-01 00:32:29,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00001.csv,factory_001_worker_009,700,748,48
+2000-01-01 00:32:29,2000-01-01 00:32:39,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_009,factory001_worker009_00001.csv,factory_001_worker_009,748,758,10
+2000-01-01 00:32:39,2000-01-01 00:32:50,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00001.csv,factory_001_worker_009,758,769,11
+2000-01-01 00:32:50,2000-01-01 00:32:55,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_009,factory001_worker009_00001.csv,factory_001_worker_009,769,774,5
+2000-01-01 00:32:55,2000-01-01 00:33:13,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00001.csv,factory_001_worker_009,774,792,18
+2000-01-01 00:33:13,2000-01-01 00:33:15,toss defective bare bracket aside,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00001.csv,factory_001_worker_009,792,794,2
+2000-01-01 00:33:15,2000-01-01 00:35:20,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00001.csv,factory_001_worker_009,794,919,125
+2000-01-01 00:35:20,2000-01-01 00:35:22,toss defective bare bracket aside,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00001.csv,factory_001_worker_009,919,921,2
+2000-01-01 00:35:22,2000-01-01 00:35:54,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00001.csv,factory_001_worker_009,921,953,32
+2000-01-01 00:35:54,2000-01-01 00:35:58,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_009,factory001_worker009_00001.csv,factory_001_worker_009,953,957,4
+2000-01-01 00:35:58,2000-01-01 00:36:13,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00001.csv,factory_001_worker_009,957,972,15
+2000-01-01 00:36:13,2000-01-01 00:36:15,toss defective bare bracket aside,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00001.csv,factory_001_worker_009,972,974,2
+2000-01-01 00:36:15,2000-01-01 00:37:49,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00001.csv,factory_001_worker_009,974,1068,94
+2000-01-01 00:37:49,2000-01-01 00:37:51,toss defective bare bracket aside,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00001.csv,factory_001_worker_009,1068,1070,2
+2000-01-01 00:37:51,2000-01-01 00:38:25,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00001.csv,factory_001_worker_009,1070,1104,34
+2000-01-01 00:38:25,2000-01-01 00:38:27,toss defective bare bracket aside,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00001.csv,factory_001_worker_009,1104,1106,2
+2000-01-01 00:38:27,2000-01-01 00:38:49,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00001.csv,factory_001_worker_009,1106,1128,22
+2000-01-01 00:38:49,2000-01-01 00:38:51,toss defective bare bracket aside,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00001.csv,factory_001_worker_009,1128,1130,2
+2000-01-01 00:38:51,2000-01-01 00:39:03,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00001.csv,factory_001_worker_009,1130,1142,12
+2000-01-01 00:39:03,2000-01-01 00:39:05,toss defective bare bracket aside,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00001.csv,factory_001_worker_009,1142,1144,2
+2000-01-01 00:39:05,2000-01-01 00:39:16,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00001.csv,factory_001_worker_009,1144,1155,11
+2000-01-01 00:39:16,2000-01-01 00:39:18,toss defective bare bracket aside,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00001.csv,factory_001_worker_009,1155,1157,2
+2000-01-01 00:39:18,2000-01-01 00:39:29,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00001.csv,factory_001_worker_009,1157,1168,11
+2000-01-01 00:39:29,2000-01-01 00:39:33,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_009,factory001_worker009_00001.csv,factory_001_worker_009,1168,1172,4
+2000-01-01 00:39:33,2000-01-01 00:39:47,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00001.csv,factory_001_worker_009,1172,1186,14
+2000-01-01 00:39:47,2000-01-01 00:39:49,toss defective bare bracket aside,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00001.csv,factory_001_worker_009,1186,1188,2
+2000-01-01 00:39:49,2000-01-01 00:39:57,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00001.csv,factory_001_worker_009,1188,1196,8
+2000-01-01 00:39:57,2000-01-01 00:39:59,toss defective bare bracket aside,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00001.csv,factory_001_worker_009,1196,1198,2
+2000-01-01 00:39:59,2000-01-01 00:40:01,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00001.csv,factory_001_worker_009,1198,1200,2
+2000-01-01 00:40:01,2000-01-01 00:40:26,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00002.csv,factory_001_worker_009,0,25,25
+2000-01-01 00:40:27,2000-01-01 00:40:32,drag small parts to front of bin,Material replenishment,factory_001,worker_009,factory001_worker009_00002.csv,factory_001_worker_009,26,31,5
+2000-01-01 00:40:32,2000-01-01 00:41:22,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00002.csv,factory_001_worker_009,31,81,50
+2000-01-01 00:41:22,2000-01-01 00:41:26,toss completed sub-assembly into side bin,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00002.csv,factory_001_worker_009,81,85,4
+2000-01-01 00:41:26,2000-01-01 00:42:48,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00002.csv,factory_001_worker_009,85,167,82
+2000-01-01 00:42:49,2000-01-01 00:43:12,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00002.csv,factory_001_worker_009,168,191,23
+2000-01-01 00:43:12,2000-01-01 00:43:13,manually adjust metal block in central machine area,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00002.csv,factory_001_worker_009,191,192,1
+2000-01-01 00:43:13,2000-01-01 00:44:52,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00002.csv,factory_001_worker_009,192,291,99
+2000-01-01 00:44:52,2000-01-01 00:44:54,drag small parts to front of bin,Material replenishment,factory_001,worker_009,factory001_worker009_00002.csv,factory_001_worker_009,291,293,2
+2000-01-01 00:44:54,2000-01-01 00:46:04,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00002.csv,factory_001_worker_009,293,363,70
+2000-01-01 00:46:05,2000-01-01 00:46:38,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00002.csv,factory_001_worker_009,364,397,33
+2000-01-01 00:46:39,2000-01-01 00:47:30,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00002.csv,factory_001_worker_009,398,449,51
+2000-01-01 00:47:30,2000-01-01 00:47:34,drag small parts to front of bin,Material replenishment,factory_001,worker_009,factory001_worker009_00002.csv,factory_001_worker_009,449,453,4
+2000-01-01 00:47:34,2000-01-01 00:49:23,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00002.csv,factory_001_worker_009,453,562,109
+2000-01-01 00:49:23,2000-01-01 00:49:29,drag small parts to front of bin,Material replenishment,factory_001,worker_009,factory001_worker009_00002.csv,factory_001_worker_009,562,568,6
+2000-01-01 00:49:29,2000-01-01 00:49:39,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00002.csv,factory_001_worker_009,568,578,10
+2000-01-01 00:49:45,2000-01-01 00:50:05,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00002.csv,factory_001_worker_009,584,604,20
+2000-01-01 00:50:07,2000-01-01 00:51:11,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00002.csv,factory_001_worker_009,606,670,64
+2000-01-01 00:51:11,2000-01-01 00:51:14,drag small parts to front of bin,Material replenishment,factory_001,worker_009,factory001_worker009_00002.csv,factory_001_worker_009,670,673,3
+2000-01-01 00:51:14,2000-01-01 00:52:01,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00002.csv,factory_001_worker_009,673,720,47
+2000-01-01 00:52:01,2000-01-01 00:52:05,drag small parts to front of bin,Material replenishment,factory_001,worker_009,factory001_worker009_00002.csv,factory_001_worker_009,720,724,4
+2000-01-01 00:52:05,2000-01-01 00:53:01,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00002.csv,factory_001_worker_009,724,780,56
+2000-01-01 00:53:01,2000-01-01 00:53:06,manually adjust metal block in central machine area,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00002.csv,factory_001_worker_009,780,785,5
+2000-01-01 00:53:06,2000-01-01 00:53:18,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00002.csv,factory_001_worker_009,785,797,12
+2000-01-01 00:53:18,2000-01-01 00:53:20,drag small parts to front of bin,Material replenishment,factory_001,worker_009,factory001_worker009_00002.csv,factory_001_worker_009,797,799,2
+2000-01-01 00:53:20,2000-01-01 00:53:39,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00002.csv,factory_001_worker_009,799,818,19
+2000-01-01 00:53:43,2000-01-01 00:56:26,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00002.csv,factory_001_worker_009,822,985,163
+2000-01-01 00:56:38,2000-01-01 00:58:50,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00002.csv,factory_001_worker_009,997,1129,132
+2000-01-01 00:59:00,2000-01-01 00:59:26,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00002.csv,factory_001_worker_009,1139,1165,26
+2000-01-01 00:59:26,2000-01-01 00:59:29,drag small parts to front of bin,Material replenishment,factory_001,worker_009,factory001_worker009_00002.csv,factory_001_worker_009,1165,1168,3
+2000-01-01 00:59:29,2000-01-01 01:00:02,snap components together using jig press lever,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00002.csv,factory_001_worker_009,1168,1201,33
+2000-01-01 01:00:02,2000-01-01 01:00:25,mate components over central jig,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00003.csv,factory_001_worker_009,0,23,23
+2000-01-01 01:00:25,2000-01-01 01:00:46,mate components over central jig,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00003.csv,factory_001_worker_009,23,44,21
+2000-01-01 01:00:46,2000-01-01 01:00:56,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_009,factory001_worker009_00003.csv,factory_001_worker_009,44,54,10
+2000-01-01 01:00:56,2000-01-01 01:02:13,mate components over central jig,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00003.csv,factory_001_worker_009,54,131,77
+2000-01-01 01:02:13,2000-01-01 01:02:18,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_009,factory001_worker009_00003.csv,factory_001_worker_009,131,136,5
+2000-01-01 01:02:18,2000-01-01 01:02:54,mate components over central jig,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00003.csv,factory_001_worker_009,136,172,36
+2000-01-01 01:02:54,2000-01-01 01:02:56,receive part from adjacent coworker,Material replenishment,factory_001,worker_009,factory001_worker009_00003.csv,factory_001_worker_009,172,174,2
+2000-01-01 01:02:56,2000-01-01 01:03:52,mate components over central jig,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00003.csv,factory_001_worker_009,174,230,56
+2000-01-01 01:03:52,2000-01-01 01:04:19,mate components over central jig,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00003.csv,factory_001_worker_009,230,257,27
+2000-01-01 01:04:19,2000-01-01 01:05:05,mate components over central jig,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00003.csv,factory_001_worker_009,257,303,46
+2000-01-01 01:05:12,2000-01-01 01:07:37,mate components over central jig,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00003.csv,factory_001_worker_009,310,455,145
+2000-01-01 01:07:37,2000-01-01 01:07:45,mate components over central jig,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00003.csv,factory_001_worker_009,455,463,8
+2000-01-01 01:07:45,2000-01-01 01:08:45,mate components over central jig,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00003.csv,factory_001_worker_009,463,523,60
+2000-01-01 01:08:45,2000-01-01 01:09:10,mate components over central jig,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00003.csv,factory_001_worker_009,523,548,25
+2000-01-01 01:09:10,2000-01-01 01:12:37,mate components over central jig,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00003.csv,factory_001_worker_009,548,755,207
+2000-01-01 01:12:37,2000-01-01 01:12:57,receive part from adjacent coworker,Material replenishment,factory_001,worker_009,factory001_worker009_00003.csv,factory_001_worker_009,755,775,20
+2000-01-01 01:12:57,2000-01-01 01:17:25,mate components over central jig,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00003.csv,factory_001_worker_009,775,1043,268
+2000-01-01 01:17:25,2000-01-01 01:17:31,mate components over central jig,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00003.csv,factory_001_worker_009,1043,1049,6
+2000-01-01 01:17:31,2000-01-01 01:20:02,mate components over central jig,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00003.csv,factory_001_worker_009,1049,1200,151
+2000-01-01 01:20:02,2000-01-01 01:21:06,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00004.csv,factory_001_worker_009,0,64,64
+2000-01-01 01:21:06,2000-01-01 01:21:17,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_009,factory001_worker009_00004.csv,factory_001_worker_009,64,75,11
+2000-01-01 01:21:17,2000-01-01 01:21:48,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00004.csv,factory_001_worker_009,75,106,31
+2000-01-01 01:21:48,2000-01-01 01:22:04,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_009,factory001_worker009_00004.csv,factory_001_worker_009,106,122,16
+2000-01-01 01:22:04,2000-01-01 01:23:28,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00004.csv,factory_001_worker_009,122,206,84
+2000-01-01 01:23:56,2000-01-01 01:24:24,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00004.csv,factory_001_worker_009,234,262,28
+2000-01-01 01:24:24,2000-01-01 01:24:37,check finished part with metallic measuring tool,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00004.csv,factory_001_worker_009,262,275,13
+2000-01-01 01:24:37,2000-01-01 01:25:17,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00004.csv,factory_001_worker_009,275,315,40
+2000-01-01 01:25:42,2000-01-01 01:26:15,open clear plastic bag of fasteners,Material replenishment,factory_001,worker_009,factory001_worker009_00004.csv,factory_001_worker_009,340,373,33
+2000-01-01 01:26:15,2000-01-01 01:26:33,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00004.csv,factory_001_worker_009,373,391,18
+2000-01-01 01:26:33,2000-01-01 01:26:57,pour large bag of small components into desktop bin,Material replenishment,factory_001,worker_009,factory001_worker009_00004.csv,factory_001_worker_009,391,415,24
+2000-01-01 01:26:57,2000-01-01 01:27:12,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00004.csv,factory_001_worker_009,415,430,15
+2000-01-01 01:27:34,2000-01-01 01:28:52,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00004.csv,factory_001_worker_009,452,530,78
+2000-01-01 01:29:05,2000-01-01 01:30:06,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00004.csv,factory_001_worker_009,543,604,61
+2000-01-01 01:30:18,2000-01-01 01:30:31,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00004.csv,factory_001_worker_009,616,629,13
+2000-01-01 01:30:51,2000-01-01 01:31:03,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00004.csv,factory_001_worker_009,649,661,12
+2000-01-01 01:31:15,2000-01-01 01:31:48,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00004.csv,factory_001_worker_009,673,706,33
+2000-01-01 01:32:24,2000-01-01 01:32:35,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00004.csv,factory_001_worker_009,742,753,11
+2000-01-01 01:32:46,2000-01-01 01:33:11,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00004.csv,factory_001_worker_009,764,789,25
+2000-01-01 01:33:37,2000-01-01 01:33:59,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00004.csv,factory_001_worker_009,815,837,22
+2000-01-01 01:34:11,2000-01-01 01:34:21,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00004.csv,factory_001_worker_009,849,859,10
+2000-01-01 01:34:36,2000-01-01 01:34:47,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00004.csv,factory_001_worker_009,874,885,11
+2000-01-01 01:34:57,2000-01-01 01:35:16,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00004.csv,factory_001_worker_009,895,914,19
+2000-01-01 01:35:42,2000-01-01 01:35:52,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00004.csv,factory_001_worker_009,940,950,10
+2000-01-01 01:36:02,2000-01-01 01:36:09,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00004.csv,factory_001_worker_009,960,967,7
+2000-01-01 01:36:24,2000-01-01 01:36:35,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00004.csv,factory_001_worker_009,982,993,11
+2000-01-01 01:36:51,2000-01-01 01:37:01,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00004.csv,factory_001_worker_009,1009,1019,10
+2000-01-01 01:37:11,2000-01-01 01:37:22,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00004.csv,factory_001_worker_009,1029,1040,11
+2000-01-01 01:37:33,2000-01-01 01:37:44,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00004.csv,factory_001_worker_009,1051,1062,11
+2000-01-01 01:37:57,2000-01-01 01:38:11,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00004.csv,factory_001_worker_009,1075,1089,14
+2000-01-01 01:38:24,2000-01-01 01:38:34,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00004.csv,factory_001_worker_009,1102,1112,10
+2000-01-01 01:38:47,2000-01-01 01:39:01,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00004.csv,factory_001_worker_009,1125,1139,14
+2000-01-01 01:39:09,2000-01-01 01:39:19,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00004.csv,factory_001_worker_009,1147,1157,10
+2000-01-01 01:39:28,2000-01-01 01:39:39,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00004.csv,factory_001_worker_009,1166,1177,11
+2000-01-01 01:39:44,2000-01-01 01:39:56,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00004.csv,factory_001_worker_009,1182,1194,12
+2000-01-01 01:39:56,2000-01-01 01:40:22,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00005.csv,factory_001_worker_009,0,26,26
+2000-01-01 01:40:22,2000-01-01 01:40:28,drag small parts to front of bin,Material replenishment,factory_001,worker_009,factory001_worker009_00005.csv,factory_001_worker_009,26,32,6
+2000-01-01 01:40:28,2000-01-01 01:41:11,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00005.csv,factory_001_worker_009,32,75,43
+2000-01-01 01:41:11,2000-01-01 01:41:17,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_009,factory001_worker009_00005.csv,factory_001_worker_009,75,81,6
+2000-01-01 01:41:17,2000-01-01 01:42:00,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00005.csv,factory_001_worker_009,81,124,43
+2000-01-01 01:42:00,2000-01-01 01:42:07,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_009,factory001_worker009_00005.csv,factory_001_worker_009,124,131,7
+2000-01-01 01:42:07,2000-01-01 01:44:11,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00005.csv,factory_001_worker_009,131,255,124
+2000-01-01 01:44:22,2000-01-01 01:44:38,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00005.csv,factory_001_worker_009,266,282,16
+2000-01-01 01:44:38,2000-01-01 01:44:43,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_009,factory001_worker009_00005.csv,factory_001_worker_009,282,287,5
+2000-01-01 01:44:43,2000-01-01 01:45:09,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00005.csv,factory_001_worker_009,287,313,26
+2000-01-01 01:45:09,2000-01-01 01:45:18,drag small parts to front of bin,Material replenishment,factory_001,worker_009,factory001_worker009_00005.csv,factory_001_worker_009,313,322,9
+2000-01-01 01:45:18,2000-01-01 01:46:51,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00005.csv,factory_001_worker_009,322,415,93
+2000-01-01 01:46:51,2000-01-01 01:46:59,drag small parts to front of bin,Material replenishment,factory_001,worker_009,factory001_worker009_00005.csv,factory_001_worker_009,415,423,8
+2000-01-01 01:46:59,2000-01-01 01:49:16,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00005.csv,factory_001_worker_009,423,560,137
+2000-01-01 01:49:24,2000-01-01 01:49:43,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00005.csv,factory_001_worker_009,568,587,19
+2000-01-01 01:49:43,2000-01-01 01:49:52,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_009,factory001_worker009_00005.csv,factory_001_worker_009,587,596,9
+2000-01-01 01:49:52,2000-01-01 01:50:03,drag small parts to front of bin,Material replenishment,factory_001,worker_009,factory001_worker009_00005.csv,factory_001_worker_009,596,607,11
+2000-01-01 01:50:03,2000-01-01 01:50:56,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00005.csv,factory_001_worker_009,607,660,53
+2000-01-01 01:50:56,2000-01-01 01:51:05,drag small parts to front of bin,Material replenishment,factory_001,worker_009,factory001_worker009_00005.csv,factory_001_worker_009,660,669,9
+2000-01-01 01:51:05,2000-01-01 01:51:58,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00005.csv,factory_001_worker_009,669,722,53
+2000-01-01 01:51:58,2000-01-01 01:52:03,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_009,factory001_worker009_00005.csv,factory_001_worker_009,722,727,5
+2000-01-01 01:52:03,2000-01-01 01:54:37,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00005.csv,factory_001_worker_009,727,881,154
+2000-01-01 01:54:37,2000-01-01 01:54:47,drag small parts to front of bin,Material replenishment,factory_001,worker_009,factory001_worker009_00005.csv,factory_001_worker_009,881,891,10
+2000-01-01 01:54:47,2000-01-01 01:55:04,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00005.csv,factory_001_worker_009,891,908,17
+2000-01-01 01:55:04,2000-01-01 01:55:14,pour large bag of small components into desktop bin,Material replenishment,factory_001,worker_009,factory001_worker009_00005.csv,factory_001_worker_009,908,918,10
+2000-01-01 01:55:14,2000-01-01 01:57:30,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00005.csv,factory_001_worker_009,918,1054,136
+2000-01-01 01:57:30,2000-01-01 01:57:42,drag small parts to front of bin,Material replenishment,factory_001,worker_009,factory001_worker009_00005.csv,factory_001_worker_009,1054,1066,12
+2000-01-01 01:57:42,2000-01-01 01:59:50,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00005.csv,factory_001_worker_009,1066,1194,128
+2000-01-01 01:59:50,2000-01-01 01:59:57,drag small parts to front of bin,Material replenishment,factory_001,worker_009,factory001_worker009_00005.csv,factory_001_worker_009,1194,1201,7
+2000-01-01 01:59:57,2000-01-01 02:01:38,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00006.csv,factory_001_worker_009,0,101,101
+2000-01-01 02:01:38,2000-01-01 02:01:54,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_009,factory001_worker009_00006.csv,factory_001_worker_009,101,117,16
+2000-01-01 02:01:54,2000-01-01 02:02:08,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00006.csv,factory_001_worker_009,117,131,14
+2000-01-01 02:02:08,2000-01-01 02:02:19,hand off part to adjacent coworker,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00006.csv,factory_001_worker_009,131,142,11
+2000-01-01 02:02:19,2000-01-01 02:04:07,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00006.csv,factory_001_worker_009,142,250,108
+2000-01-01 02:04:07,2000-01-01 02:04:22,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_009,factory001_worker009_00006.csv,factory_001_worker_009,250,265,15
+2000-01-01 02:04:22,2000-01-01 02:04:56,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00006.csv,factory_001_worker_009,265,299,34
+2000-01-01 02:04:56,2000-01-01 02:05:02,show finished part to coworker,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00006.csv,factory_001_worker_009,299,305,6
+2000-01-01 02:05:02,2000-01-01 02:06:20,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00006.csv,factory_001_worker_009,305,383,78
+2000-01-01 02:06:20,2000-01-01 02:06:30,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_009,factory001_worker009_00006.csv,factory_001_worker_009,383,393,10
+2000-01-01 02:06:30,2000-01-01 02:07:38,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00006.csv,factory_001_worker_009,393,461,68
+2000-01-01 02:07:38,2000-01-01 02:07:48,drag small parts to front of bin,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00006.csv,factory_001_worker_009,461,471,10
+2000-01-01 02:07:48,2000-01-01 02:08:26,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00006.csv,factory_001_worker_009,471,509,38
+2000-01-01 02:08:26,2000-01-01 02:08:30,inspect newly stamped part,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00006.csv,factory_001_worker_009,509,513,4
+2000-01-01 02:08:30,2000-01-01 02:09:09,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00006.csv,factory_001_worker_009,513,552,39
+2000-01-01 02:09:09,2000-01-01 02:09:17,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_009,factory001_worker009_00006.csv,factory_001_worker_009,552,560,8
+2000-01-01 02:09:17,2000-01-01 02:10:07,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00006.csv,factory_001_worker_009,560,610,50
+2000-01-01 02:10:07,2000-01-01 02:10:19,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_009,factory001_worker009_00006.csv,factory_001_worker_009,610,622,12
+2000-01-01 02:10:19,2000-01-01 02:11:05,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00006.csv,factory_001_worker_009,622,668,46
+2000-01-01 02:11:05,2000-01-01 02:11:19,scoop raw parts into bin,Material replenishment,factory_001,worker_009,factory001_worker009_00006.csv,factory_001_worker_009,668,682,14
+2000-01-01 02:11:19,2000-01-01 02:11:55,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00006.csv,factory_001_worker_009,682,718,36
+2000-01-01 02:11:55,2000-01-01 02:12:09,consult coworker regarding part counts,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00006.csv,factory_001_worker_009,718,732,14
+2000-01-01 02:12:09,2000-01-01 02:12:23,drag small parts to front of bin,Material replenishment,factory_001,worker_009,factory001_worker009_00006.csv,factory_001_worker_009,732,746,14
+2000-01-01 02:12:32,2000-01-01 02:12:45,drag small parts to front of bin,Material replenishment,factory_001,worker_009,factory001_worker009_00006.csv,factory_001_worker_009,755,768,13
+2000-01-01 02:12:45,2000-01-01 02:13:55,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00006.csv,factory_001_worker_009,768,838,70
+2000-01-01 02:13:55,2000-01-01 02:14:03,drag small parts to front of bin,Material replenishment,factory_001,worker_009,factory001_worker009_00006.csv,factory_001_worker_009,838,846,8
+2000-01-01 02:14:03,2000-01-01 02:14:57,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00006.csv,factory_001_worker_009,846,900,54
+2000-01-01 02:15:36,2000-01-01 02:16:05,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00006.csv,factory_001_worker_009,939,968,29
+2000-01-01 02:16:05,2000-01-01 02:16:13,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_009,factory001_worker009_00006.csv,factory_001_worker_009,968,976,8
+2000-01-01 02:16:13,2000-01-01 02:16:31,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00006.csv,factory_001_worker_009,976,994,18
+2000-01-01 02:16:31,2000-01-01 02:16:39,drag unassembled metal parts closer to fixture,Material replenishment,factory_001,worker_009,factory001_worker009_00006.csv,factory_001_worker_009,994,1002,8
+2000-01-01 02:16:39,2000-01-01 02:17:13,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00006.csv,factory_001_worker_009,1002,1036,34
+2000-01-01 02:17:13,2000-01-01 02:17:32,drag small parts to front of bin,Material replenishment,factory_001,worker_009,factory001_worker009_00006.csv,factory_001_worker_009,1036,1055,19
+2000-01-01 02:17:32,2000-01-01 02:18:08,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00006.csv,factory_001_worker_009,1055,1091,36
+2000-01-01 02:18:08,2000-01-01 02:18:18,drag small parts to front of bin,Material replenishment,factory_001,worker_009,factory001_worker009_00006.csv,factory_001_worker_009,1091,1101,10
+2000-01-01 02:18:18,2000-01-01 02:19:15,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00006.csv,factory_001_worker_009,1101,1158,57
+2000-01-01 02:19:15,2000-01-01 02:19:45,scoop raw parts into bin,Material replenishment,factory_001,worker_009,factory001_worker009_00006.csv,factory_001_worker_009,1158,1188,30
+2000-01-01 02:19:45,2000-01-01 02:19:57,install latch sub-assembly into flat metal bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00006.csv,factory_001_worker_009,1188,1200,12
+2000-01-01 02:20:00,2000-01-01 02:20:18,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00007.csv,factory_001_worker_009,3,21,18
+2000-01-01 02:20:22,2000-01-01 02:20:57,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00007.csv,factory_001_worker_009,25,60,35
+2000-01-01 02:21:01,2000-01-01 02:21:33,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00007.csv,factory_001_worker_009,64,96,32
+2000-01-01 02:21:38,2000-01-01 02:21:55,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00007.csv,factory_001_worker_009,101,118,17
+2000-01-01 02:22:01,2000-01-01 02:22:09,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00007.csv,factory_001_worker_009,124,132,8
+2000-01-01 02:22:16,2000-01-01 02:22:48,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00007.csv,factory_001_worker_009,139,171,32
+2000-01-01 02:22:53,2000-01-01 02:23:06,drag small parts to front of bin,Material replenishment,factory_001,worker_009,factory001_worker009_00007.csv,factory_001_worker_009,176,189,13
+2000-01-01 02:23:06,2000-01-01 02:23:19,pour large bag of small components into desktop bin,Material replenishment,factory_001,worker_009,factory001_worker009_00007.csv,factory_001_worker_009,189,202,13
+2000-01-01 02:23:25,2000-01-01 02:23:37,pour large bag of small components into desktop bin,Material replenishment,factory_001,worker_009,factory001_worker009_00007.csv,factory_001_worker_009,208,220,12
+2000-01-01 02:23:37,2000-01-01 02:23:40,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00007.csv,factory_001_worker_009,220,223,3
+2000-01-01 02:23:43,2000-01-01 02:23:49,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00007.csv,factory_001_worker_009,226,232,6
+2000-01-01 02:24:03,2000-01-01 02:24:07,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00007.csv,factory_001_worker_009,246,250,4
+2000-01-01 02:24:13,2000-01-01 02:24:17,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00007.csv,factory_001_worker_009,256,260,4
+2000-01-01 02:24:19,2000-01-01 02:24:23,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00007.csv,factory_001_worker_009,262,266,4
+2000-01-01 02:24:26,2000-01-01 02:24:38,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00007.csv,factory_001_worker_009,269,281,12
+2000-01-01 02:24:42,2000-01-01 02:24:53,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00007.csv,factory_001_worker_009,285,296,11
+2000-01-01 02:24:55,2000-01-01 02:25:00,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00007.csv,factory_001_worker_009,298,303,5
+2000-01-01 02:25:02,2000-01-01 02:25:09,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00007.csv,factory_001_worker_009,305,312,7
+2000-01-01 02:25:09,2000-01-01 02:25:22,receive part from adjacent coworker,Material replenishment,factory_001,worker_009,factory001_worker009_00007.csv,factory_001_worker_009,312,325,13
+2000-01-01 02:25:22,2000-01-01 02:25:46,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00007.csv,factory_001_worker_009,325,349,24
+2000-01-01 02:25:46,2000-01-01 02:30:43,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00007.csv,factory_001_worker_009,349,646,297
+2000-01-01 02:30:43,2000-01-01 02:30:45,hand off part to adjacent coworker,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00007.csv,factory_001_worker_009,646,648,2
+2000-01-01 02:30:49,2000-01-01 02:36:54,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00007.csv,factory_001_worker_009,652,1017,365
+2000-01-01 02:37:08,2000-01-01 02:39:57,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00007.csv,factory_001_worker_009,1031,1200,169
+2000-01-01 02:39:57,2000-01-01 02:40:49,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00008.csv,factory_001_worker_009,0,52,52
+2000-01-01 02:40:52,2000-01-01 02:41:07,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00008.csv,factory_001_worker_009,55,70,15
+2000-01-01 02:41:10,2000-01-01 02:43:10,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00008.csv,factory_001_worker_009,73,193,120
+2000-01-01 02:43:12,2000-01-01 02:43:25,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00008.csv,factory_001_worker_009,195,208,13
+2000-01-01 02:43:28,2000-01-01 02:43:56,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00008.csv,factory_001_worker_009,211,239,28
+2000-01-01 02:44:02,2000-01-01 02:44:25,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00008.csv,factory_001_worker_009,245,268,23
+2000-01-01 02:44:25,2000-01-01 02:44:33,drag small parts to front of bin,Material replenishment,factory_001,worker_009,factory001_worker009_00008.csv,factory_001_worker_009,268,276,8
+2000-01-01 02:44:33,2000-01-01 02:46:50,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00008.csv,factory_001_worker_009,276,413,137
+2000-01-01 02:46:50,2000-01-01 02:46:55,drag small parts to front of bin,Material replenishment,factory_001,worker_009,factory001_worker009_00008.csv,factory_001_worker_009,413,418,5
+2000-01-01 02:46:55,2000-01-01 02:47:05,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00008.csv,factory_001_worker_009,418,428,10
+2000-01-01 02:47:11,2000-01-01 02:49:01,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00008.csv,factory_001_worker_009,434,544,110
+2000-01-01 02:49:01,2000-01-01 02:49:09,drag small parts to front of bin,Material replenishment,factory_001,worker_009,factory001_worker009_00008.csv,factory_001_worker_009,544,552,8
+2000-01-01 02:49:09,2000-01-01 02:49:34,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00008.csv,factory_001_worker_009,552,577,25
+2000-01-01 02:49:37,2000-01-01 02:49:49,drag small parts to front of bin,Material replenishment,factory_001,worker_009,factory001_worker009_00008.csv,factory_001_worker_009,580,592,12
+2000-01-01 02:50:23,2000-01-01 02:50:47,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00008.csv,factory_001_worker_009,626,650,24
+2000-01-01 02:50:50,2000-01-01 02:51:38,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00008.csv,factory_001_worker_009,653,701,48
+2000-01-01 02:51:42,2000-01-01 02:55:20,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00008.csv,factory_001_worker_009,705,923,218
+2000-01-01 02:55:27,2000-01-01 02:58:50,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00008.csv,factory_001_worker_009,930,1133,203
+2000-01-01 02:58:50,2000-01-01 02:58:54,drag small parts to front of bin,Material replenishment,factory_001,worker_009,factory001_worker009_00008.csv,factory_001_worker_009,1133,1137,4
+2000-01-01 02:58:54,2000-01-01 02:59:23,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00008.csv,factory_001_worker_009,1137,1166,29
+2000-01-01 02:59:27,2000-01-01 02:59:45,press small spring and metal pin into bracket,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00008.csv,factory_001_worker_009,1170,1188,18
+2000-01-01 02:59:45,2000-01-01 03:03:17,push pin through spring with specialized hand tool,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00009.csv,factory_001_worker_009,0,212,212
+2000-01-01 03:03:25,2000-01-01 03:04:01,push pin through spring with specialized hand tool,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00009.csv,factory_001_worker_009,220,256,36
+2000-01-01 03:04:01,2000-01-01 03:04:11,tear open clear plastic wrapping,Material replenishment,factory_001,worker_009,factory001_worker009_00009.csv,factory_001_worker_009,256,266,10
+2000-01-01 03:04:11,2000-01-01 03:04:21,pour large bag of small components into desktop bin,Material replenishment,factory_001,worker_009,factory001_worker009_00009.csv,factory_001_worker_009,266,276,10
+2000-01-01 03:04:21,2000-01-01 03:04:31,discard plastic wrapper on desk,Material replenishment,factory_001,worker_009,factory001_worker009_00009.csv,factory_001_worker_009,276,286,10
+2000-01-01 03:04:31,2000-01-01 03:06:55,push pin through spring with specialized hand tool,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00009.csv,factory_001_worker_009,286,430,144
+2000-01-01 03:07:08,2000-01-01 03:19:45,push pin through spring with specialized hand tool,Manual mechanical assembly,factory_001,worker_009,factory001_worker009_00009.csv,factory_001_worker_009,443,1200,757
