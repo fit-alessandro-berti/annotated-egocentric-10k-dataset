@@ -1,0 +1,34 @@
+Process Summary
+
+The observed operations involve a multi-stage garment finishing and packaging workflow. The worker performs several distinct processes: preparing and ironing folded garments, individually bagging the garments, assembling cardboard boxes for bulk packaging, and performing a floor-based pick-and-pack operation to distribute products into individual order boxes. The workflow is characterized by frequent physical task-switching, manual transport of garment stacks between disconnected workstations, and routine interruptions that pause the primary tasks.
+
+Detailed Process Breakdown
+
+Process 1: Garment Folding and Ironing
+The worker stands at an ironing table to fold and press white t-shirts. The repetitive loop begins with the worker placing a rectangular cardboard insert flat on the table. In many instances, the worker must manually snap a larger perforated piece of cardboard in half to create the correctly sized insert before proceeding. The worker lays a white t-shirt over the cardboard, folds the sleeves and sides inward around the insert, and uses a hose-attached steam iron to press the garment flat. The shirt is then folded in half and stacked on the left side of the table. Occasionally, the worker uses a blue pen to write numbers directly onto a piece of cardboard on the worktable, appearing to tally or log production counts. Finished stacks are either handed to a coworker or accumulated on the table.
+
+Process 2: Individual Garment Bagging
+Once a sufficiently large stack of ironed shirts has accumulated, the worker manually carries the stack across the room to a separate packaging table. Here, the worker slides the folded shirts into clear plastic packaging bags printed with a brand logo. A black cardboard brand tag is inserted into each package. The packaged shirts are then tossed or stacked onto a growing pile. This process is occasionally done in tandem with or adjacent to another assisting worker.
+
+Process 3: Box Assembly and Bulk Packing
+The worker retrieves packaging materials, including clear packing tape, a blue tape dispenser, and strapping wire, which are sometimes found scattered on the floor or resting on large material bags. The worker folds the bottom flaps of large, flat cardboard boxes and seals the bottom seams with tape, staging the empty boxes upright near a pallet. The worker then transports stacks of the individually bagged shirts from the packaging table and carefully arranges them inside these large bulk boxes. 
+
+Process 4: Order Sorting and Distribution (Pick-and-Pack)
+The worker executes a distribution task involving rows of smaller, partially filled cardboard boxes arranged directly on the factory floor. Taking large stacks of packaged white shirts from a central pile or source box, the worker walks up and down the aisles between the small boxes, systematically placing a few shirts into each box. They also distribute stacks of a different, black-and-white packaged item into these boxes. In a separate but related sub-task, the worker packages small, shiny metallic items (such as eyelets or rings) from a clear bag into a small, flat cardboard box at a workbench, working with a coworker to fold the flaps before taping it shut and carrying it away.
+
+Throughout all processes, the operational flow is frequently paused. The worker repeatedly stops to interact with a smartphone (scrolling, taking calls, showing the screen to others), traverses the factory floor to observe other stations, and converses with coworkers.
+
+Possible Process Optimizations
+
+- Material Presentation (Cardboard Inserts): The worker frequently interrupts the ironing cycle to manually snap large pieces of cardboard in half. Providing pre-cut cardboard inserts sized perfectly for the garments would eliminate this repetitive micro-interruption and smooth the folding rhythm. 
+- Workstation Organization (5S): Packaging materials like tape dispensers and strapping wire are retrieved from the floor or off the tops of random material bags. Creating a dedicated, organized packing station where tools are kept at an ergonomic working height would reduce scavenger hunts and unnecessary bending.
+- Layout and Transport (Inference): The worker manually carries tall stacks of shirts across the room multiple times (from ironing to bagging, and bagging to boxing). Inference: Implementing rolling carts or a simple roller-conveyor between the ironing, bagging, and boxing stations would eliminate manual transport time and reduce the risk of dropping folded products.
+- Floor-Based Sorting Ergonomics (Inference): The current pick-and-pack process requires the worker to walk extensively and bend down repeatedly to place items into small boxes arranged on the floor. Inference: Elevating this process to a waist-height sorting table, or using a mobile picking cart to bring the shirts to the boxes, would significantly improve ergonomics and distribution speed.
+- Batching and Workflow Sequencing (Inference): The worker switches arbitrarily between ironing, bagging, box making, and sorting. Inference: Reorganizing the workflow into a continuous flow line where specific workers are dedicated to specific stations—or strictly enforcing larger batch sizes before switching tasks—could reduce the time lost to physical context switching and walking between stations.
+
+Evidence Limits
+
+- The egocentric camera angle and frequent rapid movements obscure the full layout of the facility, making it difficult to judge exact distances between the ironing, bagging, and packing stations.
+- It is unclear if the frequent task-switching and wandering are part of the standard operating procedure (e.g., the worker is a "floater" expected to help everywhere) or a result of poor production scheduling and lack of assigned roles.
+- The exact purpose of the numeric tallying on the cardboard piece is not fully visible, limiting recommendations on how to digitize or optimize the tracking process.
+- Due to visual blurring and distance, the exact nature of the black-and-white garments and the small metallic items packed during the distribution phase cannot be definitively identified.

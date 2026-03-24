@@ -1,0 +1,35 @@
+Process Summary
+The observed workflow consists of two distinct primary manufacturing processes performed at different workstations: Heat Press Labeling and Garment Sewing. The Garment Sewing process is further divided into three distinct sub-tasks involving different materials and seam types (short seams, long seams, and hemming), as well as routine machine maintenance. 
+
+Detailed Process Breakdown
+
+Process 1: Heat Press Labeling
+The operator stations themselves at a table equipped with a heat press machine to apply printed logos (e.g., "Hello Kitty") to baby onesies.
+*   Setup: Unmarked onesies are stacked on the left, a cardboard box of labels is on the right, and the heat press is located to the left. 
+*   Action Loop: The operator pulls an unmarked onesie from the left pile, lays it flat, and folds the bottom half up. They then reach to the right to grab a label from the box, position it on the upper chest, and fold the top half of the onesie down to cover the label. The folded bundle is placed into the heat press on the left, clamped shut, and timed.
+*   Inspection & Stacking: When the machine beeps, the operator removes the garment, brings it back to the table, unfolds it entirely to visually inspect the transferred logo, refolds the garment, and places it onto a finished stack on the left.
+*   Material Handling Variations: Initially, labels are picked one by one from the box. Later, a bundle of labels wrapped in a rubber band is pulled out; the operator holds the bundle in both hands to manually slide out single labels. Most garments are plain white, though occasionally textured knit onesies are processed using the exact same steps.
+
+Process 2: Garment Sewing
+This process involves operating an industrial sewing machine to assemble and hem various fabric pieces. It includes three distinct sewing tasks and a maintenance cycle:
+*   Task A (Short Seams on Pink Fabric): The operator grabs an unsewn piece of pink fabric from a pile on the left. They unfold it, align two edges flush (where a dark internal label is visible), and feed it under the presser foot. They sew a short seam, using their fingers to make micro-adjustments. Once finished, they break the thread by pulling it and toss the sewn piece to a finished pile on the right. 
+*   Machine Maintenance & Setup: Between tasks, the operator performs mechanical maintenance. They wipe the flat bed and underside oil pan with a cloth. Using the closed tip of a pair of scissors as a makeshift screwdriver, they remove the needle plate to clean lint from the feed dogs and bobbin area, then screw the plate back on securely. They also re-thread the machine using a new cone of thread fetched from a stand behind them, running a test stitch on scrap fabric before resuming production.
+*   Task B (Long Seams on Pink/Grey Fabric): The operator sews long straight seams on large pieces of pink fabric, occasionally joining pink pieces with smaller grey pieces. Due to the bulk of the fabric, the operator frequently pauses the machine to reposition the material in their lap and untangle it to ensure a straight feed. After these seams, scissors are used to trim the connecting threads.
+*   Task C (Hemming Blue Fabric): The operator processes a large volume of blue fabric. They aggressively pull fabric pieces from a central/left supply pile, unfold them, and fold the edge over to prepare a hem. They sew in short bursts, stopping repeatedly to readjust the fold and hold the fabric taut. The thread is either broken by hand or cut with small snips. Finished pieces are tossed back to a pile on the left.
+*   Transport & Handoffs: As the blue fabric accumulates into a massive pile on the table, the operator stops sewing, manually scoops the heavy bundle into their arms, and walks across the factory floor to toss the entire batch into a designated collection area. 
+
+Possible Process Optimizations
+
+*   Workstation Layout (Labeling): The current labeling setup requires crossing hand paths. Unmarked garments are on the left, labels on the right, and the press/finished pile on the left. Relocating the supply of unpressed garments to the right or center would create a smoother, linear flow (Right to Left) and reduce unnecessary reaching.
+*   Tool & Material Presentation (Labeling): Reaching into a box for single labels or manually wrestling individual labels out of a tight rubber-banded bundle introduces handling friction. Providing a weighted label dispenser or organizing labels in an unbanded, easily accessible staging tray would streamline the fetching step.
+*   Process Design (Labeling Inspection) - Inference: The operator currently unfolds and refolds every single garment after pressing to inspect the logo. If the heat press settings (time/temp/pressure) are verified and stable, 100% unfolding inspection might be unnecessary. Batching the inspections or shifting to a random sampling model would eliminate the double-folding labor currently spent on every single item.
+*   Tool Presentation (Sewing Maintenance): The operator uses the sharp tip of sewing scissors to unscrew the needle plate. Providing a dedicated small screwdriver at the machine would be safer, prevent damage to the scissors, and likely speed up the maintenance step.
+*   Material Staging & Transport (Sewing): During the blue fabric task, the operator exhibits physical strain pulling heavy fabric from a distant pile, and later manually carries massive bundles across the floor. Staging the unfinished fabric in gravity-fed rolling bins or elevated carts next to the operator would reduce the aggressive pulling. Similarly, placing a collection bin immediately adjacent to the finished side would eliminate the need for the operator to gather and carry bulk batches across the room.
+*   Workstation Layout (Blue Fabric Flow): The blue fabric is both sourced from the left and tossed to the left after sewing, creating a cluttered workspace and repetitive twisting to one side. Shifting to a left-to-right flow (as seen during the pink fabric short-seam task) would isolate unfinished and finished goods and improve ergonomics.
+*   Thread Cutting Standardization: The operator switches between breaking threads by pulling, using large scissors, and using small hand snips. Equipping the machine with an automatic thread cutter, or standardizing tool placement (e.g., hanging snips on a retractable lanyard), could harmonize cycle times.
+
+Evidence Limits
+*   The overall layout of the factory floor is not visible, so the exact distance and optimal pathing for the blue fabric transport step cannot be precisely measured.
+*   The exact parameters on the heat press (temperature, pressure, duration) are not clearly readable, limiting insights into whether the cycle time of the machine itself could be reduced.
+*   It is unclear if the aggressive pulling during the blue fabric task is caused by the fabric being tangled, the pieces being exceedingly heavy, or simply the pile being positioned too far away.
+*   It is not known whether the 100% inspection rate for the pressed logos is a strict facility quality control mandate or an operator habit.

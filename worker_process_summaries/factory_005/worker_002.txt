@@ -1,0 +1,33 @@
+Process Summary
+
+The observed workflow consists of two distinct manufacturing processes performed by the same worker. The first process involves the preparation, labeling, and installation of metal components and nameplates onto large electric motors. This is a batch-oriented bench assembly task involving small parts handling and several interactions with coworkers. The second process involves the binding and sealing of stator coils. This process is divided into two operational loops: machine-assisted coil binding and manual heat-shrinking of wire connections, requiring the worker to frequently transport materials between different work tables and the binding machine.
+
+Detailed Process Breakdown
+
+Process 1: Motor Component Labeling and Nameplate Attachment
+- Component Sorting and Labeling: The worker begins by retrieving and inspecting small materials, including flexible rubber/wire seals and small metal components, from cardboard boxes located on a yellow shelf at the workbench. The worker receives various label sheets (yellow stickers, white labels, and holographic stickers) through multiple separate handoffs from coworkers. The worker peels and applies yellow stickers to the small metal components.
+- Nameplate Preparation: The worker inspects small silver metal nameplates, carefully inserts a silver rivet or pin into pre-drilled holes on each plate, and then precisely aligns and applies a holographic sticker to complete the sub-assembly.
+- Assembly Loop: Moving along the workbench, the worker performs a repetitive batch operation. They place, align, and secure the prepared silver nameplates onto a series of large blue electric motors staged on the bench.
+- Cleanup: Following the completion of the motor batch, the worker spends an extended period vigorously rubbing their bare hands together to remove grease or dirt, eventually using a crumpled dark rag from the workbench to wipe their hands clean.
+
+Process 2: Stator Coil Binding and Wire Sealing
+- Binding Machine Operation: The worker retrieves unbound stator coils from a pile near another worker and brings them to a lacing/binding machine. They place a coil into the central fixture, manually adjust the loose red, blue, and black wires to keep them clear of the mechanism, and press a two-hand safety control (two green buttons) to activate the machine. A metal plate lowers to bind the coil. 
+- Material Transport and Staging: Once bound, the worker unloads the coil and walks to an adjacent bare metal table to stage the part. The worker continually moves back and forth between the machine, the unbound coil pile, and the metal staging table.
+- Wire Sealing (Heat-Shrinking): The worker moves to a white table edged with red tape where multiple stator coils are staged. Holding the wire bundles steady with their left hand, they use a handheld heating tool attached to a thick cable in their right hand to heat-shrink or seal the wire connections. The worker moves methodically down the row of coils. 
+- Equipment Adjustment and Tool Retrieval: Mid-task, the worker pauses to adjust a dial on a control unit located under the white table. They also periodically walk to the bare metal table to transfer finished bound coils to the white table for heating. At one point, the worker leaves the station entirely to walk to a separate metal shelving unit, retrieving blue-handled wire cutters from a red bin before returning to the coils.
+
+Possible Process Optimizations
+
+- Workstation Layout and Transport (Inference): During the stator coil process, the worker frequently walks between the unbound coil supply, the binding machine, the metal staging table, and the white heating table. Relocating the supply of unbound coils directly adjacent to the machine, and positioning the staging table between the machine and the heating table, could significantly reduce travel time and transport waste. 
+- Tool Presentation: The worker had to walk to a separate metal shelving unit to retrieve wire cutters during the sealing task. Standard hand tools required for the task should be staged directly at the point of use on the white table.
+- Material Kitting and Handoffs (Inference): During the nameplate preparation process, the worker relies on coworkers to hand them various stickers and labels individually throughout the task. Providing a pre-kitted supply of all necessary labels, pins, and nameplates at the workstation before the batch begins would eliminate waiting and reduce interruptions.
+- Batch Transfer Mechanism (Inference): The worker manually transfers individual coils between the metal staging table and the white heating table mid-task. Implementing a gravity slide, a mobile cart, or integrating the staging and sealing tables into one continuous surface could streamline the flow of materials between the binding and sealing steps.
+- Personal Protective Equipment/Sanitation: The worker spends a notable amount of time attempting to clean their bare hands with a crumpled rag after handling the motors. Providing disposable work gloves or installing a proper hand-cleaning station (with heavy-duty wipes or soap) directly at the bench could reduce this non-value-added cleanup time.
+- Machine Control Accessibility: The control unit for the heating tool is located under the work table, requiring the worker to bend down to adjust the dial. Moving this control unit to the top of the bench would improve ergonomics and reduce adjustment time.
+
+Evidence Limits
+
+- It is unclear if the motor nameplate attachment and the stator coil binding are sequential steps in the same production line or completely independent tasks done on different shifts.
+- The content and context of the interactions with coworkers are not audible, meaning it is impossible to determine if the piecemeal delivery of labels was due to a material shortage, standard operating procedure, or ad-hoc assistance.
+- The destination of the finished electric motors and the sealed stator coils is not visible on camera, limiting the ability to suggest downstream transport optimizations.
+- The precise nature of the heating tool (e.g., whether it functions as a localized heat gun, a soldering iron, or a sonic welder) is inferred based on its application to wire connections.

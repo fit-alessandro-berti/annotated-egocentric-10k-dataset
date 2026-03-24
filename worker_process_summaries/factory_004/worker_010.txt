@@ -1,0 +1,37 @@
+Process Summary
+
+The worker is responsible for the manual folding, labeling, and packaging of white t-shirts. The work involves gathering raw materials, assembling packaging inserts and branded cardboard sleeves or bands, bagging the garments into clear plastic self-sealing bags, and transporting finished products. The worker performs several variations of this core packaging process, transitioning between single-item bagging, multi-item bagging, and bulk stacking based on the specific product specifications. 
+
+Detailed Process Breakdown
+
+The worker’s activities can be divided into material handling and three distinct packaging processes.
+
+Material Staging and Replenishment
+The worker frequently leaves the primary workstation to gather materials. This includes walking to other tables to retrieve stacks of folded shirts, or walking to floor-level mats to gather large, bulky armfuls of loose, unfolded white t-shirts to bring back to the table. The worker also occasionally retrieves large sacks or rolls of clear plastic bags from the floor, pulling and tearing off sections as needed. 
+
+Packaging Process 1: Individual Bagging
+The worker takes a single folded white t-shirt and places a white cardboard insert on top of or inside it. The sides of the shirt are folded inward over the cardboard. A printed black cardboard tag or sleeve is then wrapped around or attached to the shirt. The folded unit is slid into a clear plastic bag. The worker peels a protective strip off the bag's adhesive flap, folds the flap over to seal it, and tosses the completed package into a cardboard box located on the floor. This cycle is often repeated continuously in a single-piece flow. 
+
+Packaging Process 2: Multi-Shirt and Bulk Bagging
+Instead of individual bagging, the worker sometimes processes sets of shirts. The worker places a set of three folded shirts onto a cardboard backing, folds the ends of the cardboard, and slides a printed cardboard sleeve over the bundle. In another variation, the worker continuously sleeves individual shirts, builds a tall stack of these completed units, and then slides the entire stack into a single large master plastic bag before setting it aside on the table.
+
+Packaging Process 3: Banding and Staging (No Bagging)
+For certain batches, the worker folds the t-shirt around a cardboard insert and tightly wraps a black printed cardboard band around the center of the garment. Instead of bagging these shirts, the worker builds tall stacks of the banded garments on the work table. Once the stacks are large enough, the worker manually lifts the heavy stacks and carries them across the facility to hand them off to another workstation, such as a sewing station.
+
+Intermittent Tasks
+Throughout the observed workflow, the worker occasionally pauses to interact with a smartphone—specifically using a calculator application—which appears to be related to counting batches or tracking inventory. The worker also periodically hands off materials, such as packaging cardboard or sheets of stickers, to nearby workers.
+
+Possible Process Optimizations
+
+*   Material Presentation: The worker repeatedly bends down to gather raw materials, such as loose shirts from a blue mat on the floor and plastic bags from sacks. As an inference, staging these unworked textiles and bagging supplies in elevated bins, on rolling carts, or on adjacent tables would reduce excessive bending, minimize the risk of dropping garments, and eliminate chaotic material transport.
+*   Bag Dispensing: The worker pulls and prepares plastic bags from a loose roll or sack. Installing a tabletop roll dispenser for the polybags would allow for smoother, one-handed operation and faster changeovers between units.
+*   Finished Goods Disposition: The worker currently tosses individually bagged shirts into a cardboard box sitting directly on the floor. Elevating this box onto a tilted stand or cart directly adjacent to the worker's hands would reduce the throwing motion and keep the worker's focus on the table.
+*   Transport Upgrades: Tall, heavy stacks of banded shirts are currently carried by hand across the factory floor. Implementing flatbed push carts or rolling racks for inter-station transport would improve transfer stability, allow for larger batch movements, and reduce the physical strain of carrying bulk items.
+*   Workstation Layout / Batching: The worker frequently switches between sub-tasks (e.g., folding a few shirts, then bagging them, then gathering more). Creating defined inbound and outbound staging zones on the table could support a more standardized batch-processing flow, reducing the start-and-stop nature of the assembly loop. 
+
+Evidence Limits
+
+*   The camera's field of view is mostly restricted to the work table and immediate surroundings, making it impossible to map the full factory layout or identify broader routing inefficiencies.
+*   It is unclear if the different packaging variations (single polybags vs. bundled sets vs. unbagged stacks) are dictated by distinct client orders, different shift requirements, or ad-hoc supervisor instructions.
+*   Because audio is not transcribed, the nature of the worker's conversations and material handoffs with surrounding personnel cannot be fully assessed for coordination inefficiencies.
+*   While the smartphone use (calculator app) seems related to inventory or batch counting, it cannot be definitively confirmed without seeing the production tracking requirements.

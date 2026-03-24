@@ -1,0 +1,8 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:02:41,actuate machine press,Semi-automated press assembly,factory_001,worker_001
+2000-01-01 00:02:41,2000-01-01 00:02:44,inspect newly stamped part,Semi-automated press assembly,factory_001,worker_001
+2000-01-01 00:02:44,2000-01-01 00:10:20,actuate machine press,Semi-automated press assembly,factory_001,worker_001
+2000-01-01 00:10:22,2000-01-01 00:12:35,actuate machine press,Semi-automated press assembly,factory_001,worker_001
+2000-01-01 00:13:28,2000-01-01 00:13:45,retrieve base and clip components from bins,Material replenishment,factory_001,worker_001
+2000-01-01 00:13:45,2000-01-01 00:13:48,pour raw parts onto feed tray,Material replenishment,factory_001,worker_001
+2000-01-01 00:14:19,2000-01-01 00:19:59,actuate machine press,Semi-automated press assembly,factory_001,worker_001

@@ -1,0 +1,27 @@
+Process Summary
+The worker engages in two distinct but alternating processes: manual machining using a drill press and material handling/logistics across the facility. The machining process entails repetitive hole-drilling operations on pre-coated metal parts. The material handling process involves using manual transport equipment to reposition raw materials, work-in-progress inventory, and empty racks between machining stations, storage zones, and packaging areas, supporting both their own workstation and a secondary lathe station. 
+
+Detailed Process Breakdown
+Machining Cycle (Drill Press)
+- Staging: Unmachined red metal parts are staged nearby in yellow metal racks, on flatbed trolleys, or on small stands adjacent to a large drill press.
+- Operation: The worker picks up a single part, places it onto the drill press's circular working table, and holds it steady with one hand. Using the other hand, the worker lowers the spinning cutting tool and turns handles to adjust the table position. The part is repositioned multiple times to drill various sections of the surface.
+- Unloading: Once drilling is complete, the worker carries the finished part back to the rack or trolley, sets it down, and immediately retrieves the next unmachined part to repeat the cycle. During offloading, the worker frequently pauses to adjust and stabilize the stacks of finished parts on the trolley.
+
+Material Handling and Transport
+- Pallet Jack Operations: The worker actively operates a manual pallet jack to execute several material movements. This includes moving full racks of machined parts into storage areas, towing heavy bins of raw silver parts to secondary machining areas, and staging empty orange racks at other active workstations.
+- Lathe Coordination: The worker delivers an empty rack to a lathe operator and waits idly alongside the machine while the operator finishes parts and tosses them into the rack. Once a batch is collected, the worker transports the partially filled rack back toward the primary drill press area.
+- Trolley Operations: The worker uses a long T-shaped metal pulling hook to tow heavy flatbed trolleys loaded with finished parts. During transit, the worker occasionally interacts with colleagues (e.g., receiving a bag of rubber rings) or picks up fallen parts from the factory floor.
+- Packaging and Storage: After transporting loaded trolleys to a staging zone, the worker manually transfers the finished parts into yellow metal storage cages. The parts are arranged into neat stacks, with the worker periodically placing sheets of white paper between the layers of metal parts. 
+
+Possible Process Optimizations
+- Micro-Staging at the Drill Press: The worker currently walks between the machine bed and the trolley/rack for every single part. Placing a small presentation table immediately next to the drill press could eliminate this walking time per cycle.
+- Workholding/Fixturing: The worker manually holds the parts steady during drilling. Inference: Designing a mechanical jig or quick-release clamp for the drill press table could eliminate the need to hold the part by hand, potentially increasing process speed and safety.
+- Stacking Stability: The worker frequently interrupts the machining cycle to tidy and stabilize the stacks of completed parts on the flatbed trolley. Implementing custom slotted dunnage or partitioned bins on the trolleys would keep parts secure and eliminate the need for manual restacking.
+- Decoupling Handoffs: The worker experiences idle time waiting for the lathe operator to fill the staged rack. Inference: Implementing a two-bin system or a designated drop-zone buffer at the lathe would allow the transporter to swap an empty rack for a full one immediately, decoupling the two workers' timelines and eliminating wait time.
+- Upgrading Transport Equipment: The heavy physical load of manually pulling loaded flatbed trolleys and pumping pallet jacks could be mitigated. Upgrading to motorized tuggers or electric pallet jacks could reduce transit time and physical strain during cross-factory transport.
+
+Evidence Limits
+- Blurriness and poor camera angles obscure the exact details of how parts are seated on the drill press and what specifically happens during interactions near some of the storage cages.
+- It is unclear if the bag of rubber rings handed to the worker is utilized in these specific processes, as it is never shown being applied.
+- The overall facility layout and travel distances are not fully visible, making it difficult to evaluate the full efficiency of the routing paths chosen by the worker.
+- The purpose of the worker's visual inspection of larger parts in another cage is not apparent from the footage.

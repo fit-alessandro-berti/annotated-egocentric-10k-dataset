@@ -1,0 +1,31 @@
+Process Summary
+The observed operations consist of two distinct processes. The first is a manual assembly and material handling process where the worker applies adhesive labels to electric motors and transports pallets using a manual pallet jack. The second process involves manual lathe machining, where the worker turns, deburring, and polishes small metal components (including gray metal rings and orange-painted parts) through a repetitive sequence of loading, cutting, hand-finishing, and sweeping metal shavings.
+
+Detailed Process Breakdown
+
+Motor Labeling and Material Handling
+- Setup and Staging: The worker begins at a metal workbench holding multiple blue electric motors. They retrieve a stack of paper labels and a dark cloth. Stacks of blue plastic pallets are located in an adjacent area.
+- Labeling Loop: The worker processes the motors in batches. The action loop consists of vigorously wiping the side of a motor with the cloth, using both hands to peel a single label from the stack, aligning the label on the motor's curved surface, and pressing it firmly into place with their thumb.
+- Coordination: The worker operates closely with another individual at the same workbench. The process includes shared tasks, where the worker sometimes applies the labels themselves and at other times holds the stack and hands labels to the coworker to apply.
+- Material Transport: After completing a batch of labeling, the worker walks to a different area to retrieve an empty manual pallet jack. They pull the jack across the floor, align the forks under a heavy stack of blue plastic pallets, and pump the handle to lift the stack for transport. 
+
+Manual Lathe Machining
+- Setup and Loading: The worker manually loads individual metal parts (unpainted gray rings, thin metal rings, and orange-painted parts) into the lathe chuck. A chuck key or a wrench is used to tighten the jaws. 
+- Machining Cycle: Once the part is secured, the lathe is turned on. The worker controls the cutting tool by manipulating the large carriage handwheel with their left hand and the smaller cross-slide handwheel with their right hand. During some sequences, a wrench is used to adjust a bolt on the tool post. 
+- Manual Finishing and Deburring: While the parts are spinning in the lathe, the worker frequently performs manual surface finishing. This is done by holding a metal file, a piece of sandpaper, or, notably, large clumps of raw metal shavings (swarf) directly against the spinning metal parts to clean, smooth, or polish them. 
+- Cleaning and Chip Management: Between almost every machining and finishing step, the worker uses a small brush (sometimes noted with a red handle) to sweep accumulated metal shavings off the tool post, cross-slide, and lathe bed. Clumps of swarf are also used to wipe the inside of the chuck jaws. 
+- Unloading and Inspection: The machine is stopped, the chuck is loosened with the key or wrench, and the completed part is set aside. A caliper is occasionally used to check measurements either before or after adjustments.
+
+Possible Process Optimizations
+
+- Tooling for Polishing and Cleaning: The worker repeatedly uses handfuls of raw metal swarf to wipe and polish spinning metal parts. Providing dedicated abrasive pads (such as Scotch-Brite) or industrial wiping cloths at the workstation would eliminate reliance on scrap material for surface finishing, likely improving both process consistency and safety.
+- Chip Management and Sweeping: The worker spends a significant portion of the machining cycle manually brushing shavings off the cross-slide and tool post. This idle time could be reduced by installing a localized chip guard, a coolant flush system, or an air blast to continuously clear chips from the immediate work area. 
+- Integrated Deburring: The manual use of a file against spinning parts adds cycle time and variability. An inference is that adding a dedicated chamfering or deburring tool to the lathe's tool post would allow the worker to deburr parts using the handwheels, standardizing the finish and eliminating manual filing.
+- Label Presentation: During the labeling process, both hands are required to peel the labels from a loose stack, and the worker constantly carries the stack around the workspace. Implementing a stationary or wearable label dispenser would allow for one-handed peeling, freeing the other hand to hold the cleaning cloth and reducing motion waste.
+- Workstation Layout for Labeling: The worker walks back and forth frequently between the workbench, the pallet staging area, and coworkers. Reorganizing the layout so that unlabelled motors, labeling supplies, and outbound pallets are staged in a continuous flow (rather than a batch-and-wait configuration) could reduce unnecessary transit time.
+
+Evidence Limits
+- The exact measurements being checked with the calipers cannot be read from the video, making it impossible to determine the required tolerances of the machined parts.
+- The context of the communication between the worker and their coworker during the labeling task is not audible, limiting the understanding of how they divide the work or if there are specific quality handoffs occurring.
+- The broader factory layout is not fully visible, meaning suggestions regarding the staging of the blue pallets are based only on the immediate walking paths observed.
+- It is unclear if the use of metal swarf as a polishing abrasive is a standard factory procedure or an improvised workaround due to a lack of proper supplies.

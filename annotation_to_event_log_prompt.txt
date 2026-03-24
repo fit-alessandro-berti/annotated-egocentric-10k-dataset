@@ -1,0 +1,43 @@
+You are converting one timestamped raw factory annotation into a structured event list for process mining.
+
+Context:
+- Factory identifier: {factory}
+- Worker identifier: {worker}
+
+You will be given:
+- the allowed process labels for the factory
+- the allowed activity labels for the factory
+- an optional worker summary for additional context
+- one raw annotation transcript with timestamp ranges measured from the start of the video
+
+Your job:
+- Convert the raw annotation into a JSON list of event objects.
+- Each event must correspond to one operationally meaningful event segment.
+- Use the transcript timestamps as the main basis for the event boundaries.
+- If a transcript interval contains one repeated stable activity, keep it as one longer event.
+- If a transcript interval clearly contains multiple different events, you may split it into multiple estimated events.
+- Keep the events in chronological order.
+
+Strict label constraints:
+- The value of `activity` must be exactly one label from the allowed factory activity list.
+- The value of `process` must be exactly one label from the allowed factory process list.
+- Do not invent new activity labels.
+- Do not invent new process labels.
+- If multiple labels are plausible, choose the closest allowed label.
+- Be especially careful to respect these two controlled vocabularies exactly.
+
+Output schema:
+- Return JSON only.
+- Return a top-level JSON array.
+- Each array item must be an object with exactly these keys:
+  - `estimated_start_time`
+  - `estimated_end_time`
+  - `activity`
+  - `process`
+- `estimated_start_time` and `estimated_end_time` must be strings in `HH:MM:SS` format, measured from the start of the video.
+
+Additional rules:
+- Include only process-relevant operational events. Ignore purely accidental camera motion or camera removal unless it directly reflects a process-relevant activity.
+- Do not output markdown fences.
+- Do not output explanations, notes, comments, or any text before or after the JSON array.
+- If no valid operational events can be extracted, return `[]`.

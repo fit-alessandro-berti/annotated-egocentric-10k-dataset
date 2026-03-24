@@ -1,0 +1,41 @@
+Process Summary
+
+The primary process observed is CNC machine tending combined with quality inspection. The worker is responsible for continuously feeding raw metal parts into a CNC machine, initiating the machining cycle, extracting the finished parts, and performing dimensional quality checks using a dial indicator at an adjacent worktable. Secondary activities include material handling—specifically fetching raw parts from nearby wire bins—and periodic cleaning and organizing of the finished parts.
+
+Detailed Process Breakdown
+
+The operational flow consists of a highly repetitive loop involving material transport, machine interaction, and part inspection. 
+
+Material Setup and Staging:
+The work cell consists of three main areas: a CNC machine, an adjacent worktable equipped with a dial indicator and a cleaning cloth, and wire bins located a short walking distance away that hold both raw and finished parts. The worker typically wears a blue glove on the right hand while handling parts.
+
+Machine Tending Loop:
+1. The worker walks to the wire bins, retrieves a single raw metal part, and carries it back to the worktable.
+2. The worker waits in front of the CNC machine for the current machining cycle to conclude.
+3. Once the machine stops, the worker opens the door, reaches into the machine, and removes the finished part.
+4. The raw part is then loaded into the machine's chuck.
+5. The worker closes the door, presses a button on the control panel to initiate the next cycle, and carries the newly finished part to the adjacent table.
+
+Inspection and Organization:
+At the table, the worker places the newly machined part under a dial indicator to measure it. After inspection, the part is added to a growing stack of finished parts on the table. While the machine runs its next cycle, the worker frequently uses a cloth to wipe down the parts on the table and neatly organizes the stacks.
+
+Material Transport and Handoffs:
+Raw material replenishment is handled one piece at a time, requiring a walk to the bins for every cycle. Transporting finished parts away from the table appears less standardized; at one point, the worker picks up a stack of finished parts to carry them toward the bins, but halts, turns around, and places the stack back on the worktable. 
+
+Interactions and Downtime:
+The process involves significant waiting time while the CNC machine cycles. During these idle periods, the worker occasionally inspects paperwork attached to the side of the machine, interacts with the control panel, or converses with nearby staff (including a woman stationed at the same table and a man operating a different machine nearby). 
+
+Possible Process Optimizations
+
+- Material Batching and Staging (Inference): The worker currently walks to the bins to retrieve a single raw part for every machine cycle. Staging a batch of raw parts directly on the worktable or placing a smaller bin immediately next to the CNC machine would eliminate repetitive walking and reduce cycle-time overhead.
+- Finished Part Transport (Inference): The worker aborted an attempt to move a stack of finished parts away from the table. Providing a dedicated outgoing finished-parts tote, tray, or rolling cart directly at the workstation would streamline the bulk transport of finished items and prevent clutter on the inspection table.
+- Workspace Layout Adjustment: Moving the primary wire bins closer to the CNC machine and inspection table would significantly reduce transit time for both raw material retrieval and finished part disposition.
+- Utilization of Machine Idle Time (Inference): Because there is visible waiting time while the CNC machine is running, this idle period could be reallocated. If staging and transport are optimized, the worker might have sufficient capacity to tend an adjacent machine, prep secondary materials, or perform off-machine deburring rather than just wiping parts and waiting.
+
+Evidence Limits
+
+- The precise length of the CNC machining cycle is not measurable without timestamps, making it difficult to calculate the exact amount of idle time available for parallel tasks.
+- It is unclear why the worker aborted the transport of the finished parts stack; it could be due to a full receiving bin, missing transport equipment, or a specific staging rule not visible on camera.
+- The exact specifications being verified with the dial indicator, as well as the pass/fail defect rate, cannot be determined from the visual evidence.
+- The content of the paperwork attached to the machine and the nature of the conversations with colleagues are unknown, meaning it is unclear if these interactions are process-critical (e.g., troubleshooting, asking for supervisors) or casual.
+- Interactions with the control panel outside of the standard start-cycle button press cannot be definitively identified (e.g., clearing faults, adjusting offsets, or just checking status).

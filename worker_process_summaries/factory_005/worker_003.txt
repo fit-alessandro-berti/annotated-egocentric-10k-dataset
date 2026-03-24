@@ -1,0 +1,27 @@
+Process Summary
+The worker is engaged in a highly repetitive metal machining process using a stationary metal lathe. The primary task involves facing or turning two sides of a red metal part. The cycle consists of manual material handling, cleaning the machine fixture, mounting and securing the part, performing a machining pass, manual deburring, flipping the part to machine the opposite side, and returning the finished piece to a floor-level staging area. The workflow is entirely manual, with the worker controlling tool feed via handwheels and using hand tools for setup and finishing. 
+
+Detailed Process Breakdown
+The standard operational flow follows a strict sequence:
+- **Material Handling:** The worker walks away from the lathe to a pile of parts on the floor, drops off the completed part, retrieves an unmachined red metal part, and returns to the machine.
+- **Machine Preparation:** Before mounting the new part, the worker sweeps metal shavings off the lathe fixture using a brush.
+- **First-Side Machining:** The part is mounted onto the fixture using both hands and secured by tightening it with a wrench. The worker turns handwheels to advance the cutting tool to the part, then engages the lathe. Sparks and shavings are generated as the tool cuts the spinning part. The cutting tool is then backed away using the handwheels.
+- **First-Side Deburring:** While the part continues to spin, the worker applies a metal scraping tool to the edges to remove burrs. During the first few observed cycles, the worker also pressed a piece of cardboard against the spinning part to wipe off debris, though this step was dropped in later cycles. The lathe is then stopped.
+- **Flipping and Second-Side Machining:** The worker uses the wrench to loosen the fixture, removes the part, flips it 180 degrees, and remounts it. The fixture is tightened again, the handwheels are adjusted to position the tool, and the lathe is engaged to machine the second side.
+- **Second-Side Deburring and Unloading:** The tool is retracted, the spinning part is deburred again with the scraping tool, and the machine is stopped. The worker loosens the fixture, removes the finished part, and walks back to the floor pile to repeat the cycle.
+
+**Variations and Exceptions:**
+- **Corrective Adjustment:** During one cycle, after completing the second side, the worker walked to a nearby workbench covered in scattered parts and tools. They sifted through the items to find a small metal washer, returned to the lathe, loosened the fixture, and placed the washer onto the center stud directly behind the part. They then retightened the fixture and performed a third machining pass before finishing the cycle. 
+- **Omitted Steps:** In another cycle, the final deburring step on the second side was skipped. The worker removed the part immediately after machining and tossed it onto the pile, where a second person was standing.
+
+Possible Process Optimizations
+- **Workstation Layout and Material Presentation:** The most significant bottleneck is the material staging. Storing parts in a pile on the floor forces the worker to walk, bend, and transport a single part for every cycle. Placing bins or rolling carts for raw materials and finished goods at waist height, immediately adjacent to the lathe, would completely eliminate this transit and bending time.
+- **Batch Processing (Inference):** Currently, the worker machines side one, flips the part, and machines side two in a single continuous flow. As an inference, if dimensional tolerances allow, the worker could process an entire batch of parts on side one, then adjust the machine setup to process side two for the whole batch. This would cut the number of tool-positioning and fixture-flipping steps in half.
+- **Tool and Component Organization:** When the worker needed a small washer to adjust the part's seating, they had to sift through a cluttered workbench. Implementing a 5S system on the workbench and storing frequently used shims, washers, or spacers in labeled bins directly at the lathe would reduce search time.
+- **Upgraded Fixturing (Inference):** The worker manually tightens and loosens the fixture with a wrench three times per part (initial mount, flip, unmount). As an inference, replacing the manual nut-and-wrench system with a quick-release mechanical clamp or a pneumatic chuck would drastically reduce the time spent on loading, flipping, and unloading parts.
+
+Evidence Limits
+- The camera perspective limits the view of the broader factory floor, making it impossible to determine why parts are piled on the floor (e.g., whether they were dumped there by a forklift or are waiting to cool).
+- The exact reason for inserting the metal washer behind the part during one cycle is unconfirmed; it is unclear if this was to correct a specific part defect, compensate for tool wear, or fix a loading error.
+- The reason for abandoning the cardboard wiping step after the first few parts is not visible. 
+- It is unknown why the final deburring step was skipped on the part handed off to the second person, as the context of their interaction is not captured audibly or visually beyond the handoff.

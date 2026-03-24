@@ -1,0 +1,38 @@
+Process Summary
+
+The worker performs three distinct primary processes within a garment manufacturing or packaging environment: ironing and folding loose shirts, quality inspection and thread trimming, and sorting packaged garments between shipping boxes. Additionally, the worker engages in brief clerical and coordination tasks, such as interacting with nearby sewing machine operators and reviewing paperwork with other staff. The operations involve a mix of single-piece flow (folding/inspection) and batch material handling (box transfers).
+
+Detailed Process Breakdown
+
+Ironing and Folding Process
+The worker operates at a workstation dedicated to finishing loose white t-shirts. They pull individual shirts from an unorganized pile, sometimes retrieving them from piles located on the floor near adjacent sewing machines. The worker lays the shirt flat on the table and smooths it using a steam iron connected to a blue hose. They place a stiff rectangular piece of cardboard in the center of the shirt as a folding guide. The worker folds the left and right sides over the cardboard, folds the bottom edge up, and then folds the entire shirt in half. The cardboard guide is slid out and retained, and the finished shirt is placed onto a neat stack on the table. Once a stack reaches a certain size, it is moved to the side to make room for more. This cycle repeats continuously. 
+
+Quality Inspection and Trimming Process
+At a separate table covered with loose white t-shirts, the worker performs a quality check. They pick up individual shirts and visually inspect them. Using a small pair of blue scissors, they snip off loose threads and tags. After setting the scissors down, they transition to manual inspection, using their thumb and index finger to pick off remaining threads, lint, or debris, frequently rubbing their fingers together to discard the waste before moving to the next garment.
+
+Sorting and Box Transfer Process
+In a separate area filled with large cardboard boxes on the floor, the worker handles finished, packaged garments. The worker repeatedly reaches deep into boxes to grab stacks of garments packed in clear plastic bags (primarily white t-shirts, with occasional dark or pink apparel items) and transfers them into empty or partially full adjacent boxes. The worker walks short distances up and down the aisles of boxes to consolidate or sort these packaged stacks. During this process, the worker occasionally handles large pieces of cardboard, manipulating folds to prepare box lids or assemble new boxes.
+
+Clerical and Coordination Tasks
+Between the main processes, the worker occasionally handles administrative or coordination duties. This includes walking to a workstation containing dark purple garments, a receipt book, a pen, and red circular stickers. The worker points out details in the notebook to another staff member and hands over a pen to facilitate a record-keeping step. The worker also frequently navigates the factory floor to observe stacks of inventory and retrieve unorganized shirts from sewing stations to bring back to the folding table.
+
+Possible Process Optimizations
+
+Workstation Layout and Material Presentation
+The worker currently pulls loose shirts from an unorganized pile on the folding table and occasionally retrieves shirts from piles on the floor near sewing machines. Presenting incoming garments in raised, organized carts or gravity-fed bins at waist height would eliminate bending, reduce material handling time, and standardize the staging process. 
+
+Material Handling and Transport 
+During the sorting process, the worker transfers stacks of packaged garments between cardboard boxes resting directly on the floor. This requires repetitive deep reaching and bending. Elevating the boxes on pallets, lift tables, or waist-high sorting racks would significantly reduce ergonomic strain. 
+
+Process Sequencing and Double Handling (Inference)
+It is inferred that transferring packaged garments from one box to another represents a redundant sorting or consolidation step. If the packaging line could sort and pack garments directly into their final shipping boxes based on color or order destination, this secondary box-to-box transfer process could be eliminated entirely. 
+
+Process Consolidation (Inference)
+The worker currently performs quality inspection/thread trimming at one table and ironing/folding at another. It is inferred that these loose garments must be moved between these stations. Integrating the thread snipping and lint removal into the start of the ironing/folding cycle—or placing the inspection station directly adjacent to the folding station via a slide or conveyor—could reduce the transport and staging of loose inventory between the two tasks.
+
+Evidence Limits
+
+- The underlying logic for sorting the packaged garments is not visible; it is unclear if the worker is sorting by size, order destination, or simply consolidating partially full boxes to save space.
+- A sudden camera perspective shift and physical obstruction during the clerical interaction with the receipt book obscure the exact details being recorded or verified.
+- At one point, the camera points directly downward at the worker's lap and the floor, obscuring their specific actions for a brief period.
+- The overarching workflow is unclear; it is not evident if this worker is a floater filling in at bottlenecks or if moving between folding, inspecting, and box-sorting is their standard daily sequence.
