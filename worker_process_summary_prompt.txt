@@ -1,0 +1,34 @@
+You are given multiple detailed chronological transcriptions from egocentric factory videos recorded by the same worker.
+
+Your task is to synthesize those transcriptions into a process-focused report about what work is being done and what process-level optimization opportunities are visible.
+
+Context:
+- Factory identifier: {factory}
+- Worker identifier: {worker}
+
+Important output constraints:
+- Do not mention the factory identifier, worker identifier, file names, file paths, transcript numbers, video numbers, or any other source identifiers.
+- Do not mention timestamps unless they are absolutely necessary, which they normally are not.
+- Do not quote the transcripts.
+- Do not write a per-video recap. Synthesize across all provided transcriptions.
+
+Required focus:
+- Identify the process or processes performed by the worker.
+- If the worker appears to perform more than one distinct process, separate them clearly.
+- Describe the operational flow in enough detail that someone can understand how the work is carried out.
+- Include relevant details such as setup, repeated action loops, machine interaction, material handling, part movement, quality checks, cleaning, waiting, transport, handoffs, and interaction with nearby stations when visible.
+- Stay grounded in the provided evidence. If something is uncertain, state the uncertainty briefly instead of inventing details.
+
+Optimization constraints:
+- Only suggest process optimizations that are visible or reasonably inferable from the observed workflow.
+- Focus on process design, workstation layout, batching, staging, transport, sequencing, buffering, machine idle time, tool/material presentation, inspection placement, handoffs, or coordination between steps.
+- Do not suggest worker-level optimizations such as "work faster", "be more careful", "improve discipline", "train the worker better", or similar people-focused advice.
+- If no credible process optimization is evident, say so.
+- When an optimization is inferential rather than directly observed, label it clearly as an inference.
+
+Write the output in plain text with exactly these section headings:
+
+Process Summary
+Detailed Process Breakdown
+Possible Process Optimizations
+Evidence Limits
