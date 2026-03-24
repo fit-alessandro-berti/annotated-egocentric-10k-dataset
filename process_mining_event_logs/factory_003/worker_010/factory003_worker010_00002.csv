@@ -1,0 +1,74 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:15,blow debris with compressed air gun,Mold preparation and cleaning,factory_003,worker_010
+2000-01-01 00:00:15,2000-01-01 00:00:23,assemble components in metal fixture,Machine pressing,factory_003,worker_010
+2000-01-01 00:00:23,2000-01-01 00:00:32,extract pressed part from mold,Machine pressing,factory_003,worker_010
+2000-01-01 00:00:32,2000-01-01 00:00:47,close two-part mold assembly,Machine pressing,factory_003,worker_010
+2000-01-01 00:00:47,2000-01-01 00:00:52,actuate pressing machine,Machine pressing,factory_003,worker_010
+2000-01-01 00:00:52,2000-01-01 00:01:10,blow debris with compressed air gun,Mold preparation and cleaning,factory_003,worker_010
+2000-01-01 00:01:10,2000-01-01 00:01:23,wipe excess paste with cloth,Mold preparation and cleaning,factory_003,worker_010
+2000-01-01 00:01:40,2000-01-01 00:01:58,blow debris with compressed air gun,Mold preparation and cleaning,factory_003,worker_010
+2000-01-01 00:01:58,2000-01-01 00:02:22,scrape component surface with metal tool,Mold preparation and cleaning,factory_003,worker_010
+2000-01-01 00:02:22,2000-01-01 00:02:29,blow debris with compressed air gun,Mold preparation and cleaning,factory_003,worker_010
+2000-01-01 00:02:29,2000-01-01 00:02:35,assemble components in metal fixture,Machine pressing,factory_003,worker_010
+2000-01-01 00:02:35,2000-01-01 00:02:43,extract pressed part from mold,Machine pressing,factory_003,worker_010
+2000-01-01 00:02:43,2000-01-01 00:02:59,load pre-manufactured insert into mold,Machine pressing,factory_003,worker_010
+2000-01-01 00:02:59,2000-01-01 00:03:05,blow debris with compressed air gun,Mold preparation and cleaning,factory_003,worker_010
+2000-01-01 00:03:05,2000-01-01 00:03:18,squeeze binding paste from piping bag,Machine pressing,factory_003,worker_010
+2000-01-01 00:03:18,2000-01-01 00:03:30,close two-part mold assembly,Machine pressing,factory_003,worker_010
+2000-01-01 00:03:30,2000-01-01 00:04:00,wait for machine press cycle completion,Machine pressing,factory_003,worker_010
+2000-01-01 00:04:00,2000-01-01 00:04:09,blow debris with compressed air gun,Mold preparation and cleaning,factory_003,worker_010
+2000-01-01 00:04:09,2000-01-01 00:04:32,scrape component surface with metal tool,Mold preparation and cleaning,factory_003,worker_010
+2000-01-01 00:04:32,2000-01-01 00:04:42,blow debris with compressed air gun,Mold preparation and cleaning,factory_003,worker_010
+2000-01-01 00:04:42,2000-01-01 00:04:49,assemble components in metal fixture,Machine pressing,factory_003,worker_010
+2000-01-01 00:04:49,2000-01-01 00:05:00,extract pressed part from mold,Machine pressing,factory_003,worker_010
+2000-01-01 00:05:00,2000-01-01 00:05:15,load pre-manufactured insert into mold,Machine pressing,factory_003,worker_010
+2000-01-01 00:05:15,2000-01-01 00:05:28,blow debris with compressed air gun,Mold preparation and cleaning,factory_003,worker_010
+2000-01-01 00:05:28,2000-01-01 00:05:40,squeeze binding paste from piping bag,Machine pressing,factory_003,worker_010
+2000-01-01 00:05:40,2000-01-01 00:05:51,close two-part mold assembly,Machine pressing,factory_003,worker_010
+2000-01-01 00:05:51,2000-01-01 00:06:12,wait for machine press cycle completion,Machine pressing,factory_003,worker_010
+2000-01-01 00:06:12,2000-01-01 00:06:56,scrape component surface with metal tool,Mold preparation and cleaning,factory_003,worker_010
+2000-01-01 00:06:56,2000-01-01 00:07:05,blow debris with compressed air gun,Mold preparation and cleaning,factory_003,worker_010
+2000-01-01 00:07:05,2000-01-01 00:07:11,assemble components in metal fixture,Machine pressing,factory_003,worker_010
+2000-01-01 00:07:11,2000-01-01 00:07:25,extract pressed part from mold,Machine pressing,factory_003,worker_010
+2000-01-01 00:07:25,2000-01-01 00:07:33,blow debris with compressed air gun,Mold preparation and cleaning,factory_003,worker_010
+2000-01-01 00:07:33,2000-01-01 00:07:44,squeeze binding paste from piping bag,Machine pressing,factory_003,worker_010
+2000-01-01 00:07:44,2000-01-01 00:07:56,close two-part mold assembly,Machine pressing,factory_003,worker_010
+2000-01-01 00:07:56,2000-01-01 00:08:26,wait for machine press cycle completion,Machine pressing,factory_003,worker_010
+2000-01-01 00:08:26,2000-01-01 00:08:58,scrape component surface with metal tool,Mold preparation and cleaning,factory_003,worker_010
+2000-01-01 00:08:58,2000-01-01 00:09:16,blow debris with compressed air gun,Mold preparation and cleaning,factory_003,worker_010
+2000-01-01 00:09:16,2000-01-01 00:09:23,assemble components in metal fixture,Machine pressing,factory_003,worker_010
+2000-01-01 00:09:23,2000-01-01 00:09:34,extract pressed part from mold,Machine pressing,factory_003,worker_010
+2000-01-01 00:09:34,2000-01-01 00:09:59,blow debris with compressed air gun,Mold preparation and cleaning,factory_003,worker_010
+2000-01-01 00:09:59,2000-01-01 00:10:10,close two-part mold assembly,Machine pressing,factory_003,worker_010
+2000-01-01 00:10:35,2000-01-01 00:11:03,scrape component surface with metal tool,Mold preparation and cleaning,factory_003,worker_010
+2000-01-01 00:11:03,2000-01-01 00:11:21,blow debris with compressed air gun,Mold preparation and cleaning,factory_003,worker_010
+2000-01-01 00:11:21,2000-01-01 00:11:28,assemble components in metal fixture,Machine pressing,factory_003,worker_010
+2000-01-01 00:11:28,2000-01-01 00:11:42,extract pressed part from mold,Machine pressing,factory_003,worker_010
+2000-01-01 00:11:42,2000-01-01 00:11:51,blow debris with compressed air gun,Mold preparation and cleaning,factory_003,worker_010
+2000-01-01 00:11:51,2000-01-01 00:12:08,squeeze binding paste from piping bag,Machine pressing,factory_003,worker_010
+2000-01-01 00:12:08,2000-01-01 00:12:18,close two-part mold assembly,Machine pressing,factory_003,worker_010
+2000-01-01 00:12:18,2000-01-01 00:12:43,blow debris with compressed air gun,Surface finishing and polishing,factory_003,worker_010
+2000-01-01 00:12:56,2000-01-01 00:13:03,extract pressed part from mold,Machine pressing,factory_003,worker_010
+2000-01-01 00:13:03,2000-01-01 00:13:48,scrape component surface with metal tool,Mold preparation and cleaning,factory_003,worker_010
+2000-01-01 00:13:48,2000-01-01 00:14:02,blow debris with compressed air gun,Mold preparation and cleaning,factory_003,worker_010
+2000-01-01 00:14:02,2000-01-01 00:14:09,assemble components in metal fixture,Machine pressing,factory_003,worker_010
+2000-01-01 00:14:09,2000-01-01 00:14:18,extract pressed part from mold,Machine pressing,factory_003,worker_010
+2000-01-01 00:14:18,2000-01-01 00:14:50,blow debris with compressed air gun,Mold preparation and cleaning,factory_003,worker_010
+2000-01-01 00:14:50,2000-01-01 00:15:00,close two-part mold assembly,Machine pressing,factory_003,worker_010
+2000-01-01 00:15:00,2000-01-01 00:15:13,wait for machine press cycle completion,Machine pressing,factory_003,worker_010
+2000-01-01 00:15:13,2000-01-01 00:15:46,scrape component surface with metal tool,Mold preparation and cleaning,factory_003,worker_010
+2000-01-01 00:15:46,2000-01-01 00:16:01,blow debris with compressed air gun,Mold preparation and cleaning,factory_003,worker_010
+2000-01-01 00:16:01,2000-01-01 00:16:11,assemble components in metal fixture,Machine pressing,factory_003,worker_010
+2000-01-01 00:16:11,2000-01-01 00:16:26,extract pressed part from mold,Machine pressing,factory_003,worker_010
+2000-01-01 00:16:26,2000-01-01 00:16:38,blow debris with compressed air gun,Mold preparation and cleaning,factory_003,worker_010
+2000-01-01 00:16:38,2000-01-01 00:16:53,squeeze binding paste from piping bag,Machine pressing,factory_003,worker_010
+2000-01-01 00:16:53,2000-01-01 00:17:02,close two-part mold assembly,Machine pressing,factory_003,worker_010
+2000-01-01 00:17:02,2000-01-01 00:17:18,monitor moving track system,Machine pressing,factory_003,worker_010
+2000-01-01 00:17:18,2000-01-01 00:17:52,scrape component surface with metal tool,Mold preparation and cleaning,factory_003,worker_010
+2000-01-01 00:17:52,2000-01-01 00:18:09,blow debris with compressed air gun,Mold preparation and cleaning,factory_003,worker_010
+2000-01-01 00:18:09,2000-01-01 00:18:18,assemble components in metal fixture,Machine pressing,factory_003,worker_010
+2000-01-01 00:18:18,2000-01-01 00:18:28,extract pressed part from mold,Machine pressing,factory_003,worker_010
+2000-01-01 00:18:28,2000-01-01 00:18:58,blow debris with compressed air gun,Mold preparation and cleaning,factory_003,worker_010
+2000-01-01 00:18:58,2000-01-01 00:19:10,close two-part mold assembly,Machine pressing,factory_003,worker_010
+2000-01-01 00:19:10,2000-01-01 00:19:35,wait for machine press cycle completion,Machine pressing,factory_003,worker_010
+2000-01-01 00:19:50,2000-01-01 00:20:00,scrape component surface with metal tool,Mold preparation and cleaning,factory_003,worker_010
