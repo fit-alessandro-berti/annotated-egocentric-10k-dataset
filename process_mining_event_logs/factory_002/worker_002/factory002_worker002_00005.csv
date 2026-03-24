@@ -1,0 +1,20 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:36,hold unconstructed box steady for coworker,Box assembly,factory_002,worker_002
+2000-01-01 00:00:36,2000-01-01 00:01:28,hold unconstructed box steady for coworker,Box assembly,factory_002,worker_002
+2000-01-01 00:01:28,2000-01-01 00:01:53,hold unconstructed box steady for coworker,Box assembly,factory_002,worker_002
+2000-01-01 00:01:53,2000-01-01 00:02:22,hold unconstructed box steady for coworker,Box assembly,factory_002,worker_002
+2000-01-01 00:02:22,2000-01-01 00:02:59,hold unconstructed box steady for coworker,Box assembly,factory_002,worker_002
+2000-01-01 00:02:59,2000-01-01 00:03:36,hold unconstructed box steady for coworker,Box assembly,factory_002,worker_002
+2000-01-01 00:03:36,2000-01-01 00:04:54,hold unconstructed box steady for coworker,Box assembly,factory_002,worker_002
+2000-01-01 00:05:22,2000-01-01 00:07:44,fold raw garment around cardboard stiffener,Fabric folding,factory_002,worker_002
+2000-01-01 00:05:22,2000-01-01 00:07:44,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:08:16,2000-01-01 00:10:52,fold raw garment around cardboard stiffener,Fabric folding,factory_002,worker_002
+2000-01-01 00:08:16,2000-01-01 00:10:52,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:10:52,2000-01-01 00:14:06,fold over adhesive bag flap,Garment bagging,factory_002,worker_002
+2000-01-01 00:10:52,2000-01-01 00:14:06,fold raw garment around cardboard stiffener,Fabric folding,factory_002,worker_002
+2000-01-01 00:10:52,2000-01-01 00:14:06,peel adhesive backing off plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:10:52,2000-01-01 00:14:06,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:14:06,2000-01-01 00:20:00,fold over adhesive bag flap,Garment bagging,factory_002,worker_002
+2000-01-01 00:14:06,2000-01-01 00:20:00,fold raw garment around cardboard stiffener,Fabric folding,factory_002,worker_002
+2000-01-01 00:14:06,2000-01-01 00:20:00,peel adhesive backing off plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:14:06,2000-01-01 00:20:00,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_002

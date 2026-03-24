@@ -1,0 +1,17 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:12,enclose garment in pre-printed cardboard folder,Cardboard sleeve packaging,factory_002,worker_002
+2000-01-01 00:00:12,2000-01-01 00:00:24,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:00:24,2000-01-01 00:00:48,enclose garment in pre-printed cardboard folder,Cardboard sleeve packaging,factory_002,worker_002
+2000-01-01 00:00:48,2000-01-01 00:01:12,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:01:12,2000-01-01 00:01:36,peel adhesive backing off plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:01:36,2000-01-01 00:01:59,fold over adhesive bag flap,Garment bagging,factory_002,worker_002
+2000-01-01 00:01:59,2000-01-01 00:02:18,inspect garment for loose threads,Garment quality inspection,factory_002,worker_002
+2000-01-01 00:02:18,2000-01-01 00:03:03,enclose garment in pre-printed cardboard folder,Cardboard sleeve packaging,factory_002,worker_002
+2000-01-01 00:03:03,2000-01-01 00:03:48,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:03:48,2000-01-01 00:04:33,peel adhesive backing off plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:04:33,2000-01-01 00:05:18,fold over adhesive bag flap,Garment bagging,factory_002,worker_002
+2000-01-01 00:05:18,2000-01-01 00:06:09,inspect garment for loose threads,Garment quality inspection,factory_002,worker_002
+2000-01-01 00:06:09,2000-01-01 00:09:37,enclose garment in pre-printed cardboard folder,Cardboard sleeve packaging,factory_002,worker_002
+2000-01-01 00:09:37,2000-01-01 00:13:05,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:13:05,2000-01-01 00:16:33,peel adhesive backing off plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:16:33,2000-01-01 00:20:01,fold over adhesive bag flap,Garment bagging,factory_002,worker_002
