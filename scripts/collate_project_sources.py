@@ -30,11 +30,23 @@ def iter_python_files(project_root: Path) -> list[Path]:
     return python_files
 
 
+def iter_root_txt_files(project_root: Path) -> list[Path]:
+    return sorted(
+        path
+        for path in project_root.glob("*.txt")
+        if path.is_file()
+    )
+
+
 def build_collated_text(project_root: Path) -> str:
     paths: list[Path] = []
     readme_path = project_root / "README.md"
     if readme_path.is_file():
         paths.append(readme_path)
+
+    for path in iter_root_txt_files(project_root):
+        if path not in paths:
+            paths.append(path)
 
     for path in iter_python_files(project_root):
         if path not in paths:
