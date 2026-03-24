@@ -1,0 +1,5 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:07:07,actuate machine press,Metal stamping,factory_001,worker_001
+2000-01-01 00:07:23,2000-01-01 00:07:40,inspect newly stamped part,Metal stamping,factory_001,worker_001
+2000-01-01 00:13:03,2000-01-01 00:13:34,carry finished batch to consolidation point,Finished goods transport,factory_001,worker_001
+2000-01-01 00:13:34,2000-01-01 00:19:59,actuate machine press,Metal stamping,factory_001,worker_001

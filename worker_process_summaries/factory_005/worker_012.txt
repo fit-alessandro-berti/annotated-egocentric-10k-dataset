@@ -1,0 +1,31 @@
+Process Summary
+The worker is primarily engaged in a continuous machining operation using a metal lathe to cut the faces and inside edges of small metal parts. A secondary, intermittent process involves the worker leaving their primary workstation to assist a neighboring operator by holding a tool against a spinning workpiece on a larger lathe. 
+
+Detailed Process Breakdown
+The worker’s operations are split between their primary machining tasks and occasional assistance at a secondary station.
+
+Primary Machining Cycle:
+- Material Retrieval: The worker reaches down to a metal bin located on the floor to pick up an unmachined metal part.
+- Loading: The worker presses the unmachined part directly onto the lathe's fixture/chuck while it is actively spinning.
+- Machining: The worker operates the carriage and cross-slide handwheels to guide the cutting tool into the metal, machining the face and inside edge. 
+- Tool Adjustment: Frequently, the worker pauses mid-cut to adjust the machine's toolpost using a hand wrench before resuming the cut with the handwheels.
+- Unloading: Once the cut is complete, the tool is retracted, and the worker pulls the finished part off the continuously spinning fixture.
+- Staging: The worker walks over to place the finished part onto a stack located on the shop floor.
+- Quality Check: On one occasion, the worker uses manual calipers to measure the dimensions of a completed part.
+
+Secondary Assisting Process:
+- Several times during the observed period, the worker halts their primary machining cycle and steps over to a nearby large lathe operated by a second worker.
+- The worker reaches into the secondary machine's workspace to manually hold a tool or object against a heavy, spinning metal part to clean or finish it.
+- After completing this assist, the worker returns to their own lathe to resume their primary cycle.
+
+Possible Process Optimizations
+- Material Staging and Layout: Raw materials are stored in a bin on the floor, and finished parts are stacked on the floor. Moving both incoming and outgoing parts to waist-height staging tables or carts situated immediately next to the lathe would reduce walking, bending, and the overall time required for loading and unloading.
+- Tooling Setup: The worker repeatedly stops mid-cycle to adjust the toolpost with a wrench. Upgrading to a more rigid tooling setup, utilizing a quick-change toolpost, or standardizing the tool position during the initial setup phase could eliminate these in-cycle interruptions and create a smoother, continuous cut.
+- Decoupling Operations (Inference): The periodic requirement for the worker to assist a neighboring machine operator creates cross-station dependency and forces idle time at the primary lathe. It is inferred that designing a fixed tool holder or jig for the secondary machine would allow the second operator to independently finish their parts, thus decoupling the two workstations and improving throughput for both.
+- Inspection Station Layout (Inference): Because the caliper check is performed while simply holding the part in hand, creating a dedicated, small inspection shelf with a designated space for the calipers could standardize the inspection process and prevent tools from being misplaced among the metal chips.
+
+Evidence Limits
+- It is unclear whether loading and unloading parts onto a continuously spinning chuck is the intended facility procedure or a worker adaptation.
+- The precise function of the object held against the secondary machine's workpiece (whether it is an abrasive for finishing, a cleaning cloth, or a shaping tool) cannot be definitively confirmed from the video.
+- The required frequency of quality control checks is unknown, as the caliper measurement is only observed once.
+- Disorienting and rapid camera movements limit a comprehensive understanding of the broader workshop layout, meaning other potential upstream or downstream workflow connections cannot be fully assessed.

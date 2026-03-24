@@ -1,0 +1,42 @@
+Process Summary
+
+The observed operations center on the production of sand molds for metal casting. The worker performs tasks across at least two distinct molding processes: a machine-assisted sand molding process utilizing pneumatic or hydraulic presses, and a manual lever-press molding process. The core workflow involves preparing a pattern, securing a metal frame (flask), filling the frame with molding sand or powder, packing and leveling the material, compacting it with a press, and transporting the finished mold block to a staging area on the floor. Additional responsibilities include machine setup, workspace cleaning, and material handling, which involves dragging heavy empty mold boxes along floor tracks using a crane hook.
+
+Detailed Process Breakdown
+
+The worker’s activities are divided into two main molding techniques, along with supporting material handling and setup duties.
+
+Machine-Assisted Sand Molding
+This process uses automated pressing machines (operated via control panels or heavy levers) and frequently involves teamwork.
+*   **Setup and Maintenance:** The worker occasionally uses wrenches to adjust bolts on the machine’s horizontal arms, lower components, and pattern plates. Small tools and air hoses are used to clear intricate details in the patterns. 
+*   **Preparation:** The pattern plate is cleaned using compressed air. The worker, often with a coworker, lifts an empty heavy metal mold box from the floor or track and sets it securely over the pattern plate. Occasionally, multiple boxes are stacked.
+*   **Filling and Packing:** Black sand is introduced into the mold box. This is done via manual shoveling from a floor pile, by a coworker dumping sand, or from an overhead hopper. The worker aggressively packs and spreads the sand by hand, ensuring it fills corners and covers the pattern.
+*   **Leveling:** The worker levels the top surface of the sand, either by hand-smoothing it or by scraping a metal strike-off bar across the top of the frame. A flat metal squeeze board is sometimes placed over the leveled sand.
+*   **Compaction:** The worker actuates the press using an attached control box or lever. The machine's heavy press head swings or lowers into position, firmly compressing the sand. 
+*   **Extraction and Staging:** The press head retracts. The squeeze board (if used) is removed. The worker and a coworker grasp the heavy, completed mold box, lift it off the machine, and carry it to a designated floor storage area. 
+
+Manual Lever-Press Molding
+This process utilizes a smaller press mechanism operated by physical downward force rather than automated controls, and it handles a dark gray powdery material.
+*   **Preparation:** The pattern plate is wiped clean with a cloth rag rather than an air hose. An empty frame is placed over the pattern.
+*   **Filling and Leveling:** A coworker pours the powder into the frame. The worker packs it tightly by hand. A flat wooden tool is used to vigorously scrape and level the surface. Occasionally, a heavy wooden block or mallet is used to strike and flatten the powder. 
+*   **Compaction:** A flat rectangular metal plate is placed horizontally over the powder. The worker grabs a large handle and physically pulls the press mechanism down to compact the mold, holding it briefly before releasing it.
+*   **Extraction:** The metal plate is removed, and the worker manually lifts the completed mold block and carries it away to a floor storage area.
+
+Material Handling and Workspace Maintenance
+*   **Track Staging:** In some variations of the workflow, empty mold boxes are staged on a track system on the floor. The worker repeatedly steps away from the machine, uses a yellow pendant to control an overhead crane, grabs a crane hook, and manually drags the next empty metal mold box along the tracks toward the workstation.
+*   **Spill Recovery:** A significant amount of sand and powder spills onto the floor during the rapid filling and hand-packing phases. The worker frequently pauses production to use a shovel to gather the spilled material and toss it back into the main supply pile or directly into a waiting mold box.
+
+Possible Process Optimizations
+
+*   **Automated Mold Box Indexing:** The worker currently interrupts the machine molding cycle repeatedly to grab a crane hook and drag empty mold boxes down floor tracks. *Inference:* Installing a gravity roller conveyor, a spring-loaded pusher system, or an automated indexing track could feed empty flasks directly to the operator's station, eliminating the manual dragging and reducing machine idle time.
+*   **Sand Delivery Systems:** While one station utilizes an overhead hopper, other setups rely on manual shoveling from floor piles or coworkers dumping material in batches. Standardizing overhead gravity-fed sand hoppers or automated dosing chutes at all molding stations would reduce the physical strain of shoveling and speed up the filling process.
+*   **Sand Spill Reclamation:** The worker frequently stops to shovel loose sand and powder from the floor. *Inference:* Installing grated floor drops or wider catch basins immediately around the molding machines, connected to an under-floor sand reclamation conveyor, would capture spillage automatically. This would eliminate manual sweeping/shoveling and keep the workspace safer.
+*   **Mold Egress Conveyor:** Finished molds are currently carried away by hand (often requiring a two-person lift) and placed directly on the floor. Implementing an outgoing roller conveyor directly adjacent to the machine press would allow workers to slide heavy finished molds away for staging or pouring, reducing physical lifting and floor clutter.
+*   **Standardized Strike-off and Press Setup:** The process alternates between hand-smoothing, metal strike-off bars, and wooden scrapers. Equipping each station with a dedicated, attached strike-off blade on a pivot could standardize the leveling process, saving the time spent picking up and putting down separate hand tools.
+
+Evidence Limits
+
+*   The precise nature of the metal components being cast or the exact specifications of the patterns hidden in the sand cannot be determined from the footage.
+*   It is unclear if the "black sand" and the "dark gray powder" are structurally different casting materials or simply the same material under different lighting and moisture conditions.
+*   The subsequent process steps—specifically the pouring of molten metal into these finished molds—are not visible, limiting recommendations on how molds should be optimally spaced or oriented on the floor.
+*   The overall cycle time impact of waiting for coworkers to pour sand or assist with lifting cannot be fully quantified without continuous, unedited timing data.

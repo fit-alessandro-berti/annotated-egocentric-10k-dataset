@@ -1,0 +1,46 @@
+Process Summary
+
+The worker is engaged in the manufacturing of compressed blocks, bricks, and cylindrical objects using powdered and granular raw materials. The overall workflow consists of four distinct processes: material preparation and mixing, manual-fill compression molding for blocks/bricks, machine-fill compression molding for cylindrical objects, and post-processing/material transport. The core loop for most observed tasks involves prepping a metal mold, filling it with a raw material mixture, compressing it in a hydraulic or vertical press, and manually extracting the finished piece. The worker transitions between operating the presses, actively mixing raw materials, and transporting finished goods across the factory floor.
+
+Detailed Process Breakdown
+
+Process 1: Manual-Fill Compression Molding (Blocks and Bricks)
+The most frequently repeated process is the manual creation of molded blocks. 
+- Setup and Cleaning: The worker routinely cleans the open metal molds on a workbench using a compressed air hose, trowels, and brushes. Occasionally, a liquid release agent or polish is brushed onto the interior surfaces.
+- Filling and Tamping: The worker uses a small container to scoop raw material (a sawdust-like mixture or brown powder) into the bottom half of the mold. The worker then uses a hammer to forcefully tamp and pack the material down. For certain shapes, a curved insert piece is added and hammered into place. 
+- Pressing: The top half of the mold is fitted over the filled bottom half. The worker manually carries the heavy, assembled mold to a hydraulic or vertical press, aligns it on the press bed, and activates the machine via a nearby control panel. The worker occasionally uses this idle pressing time to blow dust off the machine with an air hose. 
+- Extraction and Stacking: Once the press releases, the worker moves the mold back to the workbench, separates the top half, and strikes the inverted bottom half with a hammer to eject the compressed block. The finished pieces are neatly stacked on the workbench. 
+
+Process 2: Machine-Fill Compression Molding (Cylindrical Objects)
+In a different workflow, the filling step is automated by the press.
+- Mold Placement: The worker places an empty mold containing a circular base piece directly into the pressing machine. 
+- Automated Fill and Press: The machine automatically fills the mold from a rear hopper and compresses it. The worker operates the cycle via the control panel.
+- Extraction: The worker retrieves the mold, takes it to the workbench, taps it with a hammer to separate the halves, and extracts the newly formed cylindrical object. The empty mold is immediately reassembled and placed back into the machine.
+- Hopper Refilling: Periodically, the worker walks to the rear of the machine and manually scoops granular raw material into the machine's hopper to ensure continuous operation.
+
+Process 3: Material Preparation and Mixing
+The worker is responsible for preparing the raw materials used in the presses.
+- Dry and Wet Mixing: The worker transfers dry brown powder from large sacks into buckets, which are then emptied into large cylindrical hoppers. Liquid is occasionally added.
+- Manual Agitation: The worker vigorously mixes the wet and dry materials using bare hands (reaching deep into the hoppers), a shovel, or thick wooden sticks in large barrels. 
+- Transfer: Mixed materials are shoveled into white woven sacks or smaller green buckets, and then manually carried back to the main pressing workstations to restock the supply.
+
+Process 4: Post-Processing and Transport
+Finished products require finishing and movement away from the pressing station.
+- Edge Finishing: The worker picks up finished blocks and manually rubs their edges against a vertical metal bar to sand and smooth them down.
+- Transport: The worker manually picks up short and exceptionally tall stacks of finished blocks, carrying them by hand across the factory floor to designated staging areas or blue plastic storage crates. Coworkers sometimes assist by removing complete stacks directly from the workbench.
+
+Possible Process Optimizations
+
+- Mold Duplication / Parallel Processing: The worker frequently waits idle or cleans the machine exterior while the press cycle runs. Inference: Providing two identical molds for each press would allow the worker to clean, fill, and tamp one mold at the workbench while the second mold is actively being compressed. This could significantly reduce machine idle time and increase throughput.
+- Material Transport: Finished blocks are currently carried across the floor by hand in tall stacks. Inference: Introducing wheeled carts, roller conveyors, or a pallet jack system would eliminate manual carrying, reduce the risk of dropping products, and allow for much larger batches to be moved at once.
+- Automated Material Mixing: Mixing heavy wet and dry powders by hand or with a stick is slow, physically demanding, and prone to inconsistent material ratios. Inference: Installing a motorized mechanical mixer (such as an auger or paddle mixer) would standardize the material consistency, speed up preparation, and free the worker to focus entirely on the primary pressing processes.
+- Material Dispensing at the Workbench: In the manual-fill process, the worker scoops powder from a tabletop or container. Inference: Installing an overhead gravity-fed hopper or chute equipped with a volumetric dispenser at the workbench could provide pre-measured amounts of material directly into the molds. This would eliminate manual scooping, reduce raw material spillage, and ensure consistent block density.
+- Post-Processing Station: Sanding block edges manually against a stationary metal bar is a bottleneck. Inference: A dedicated deburring jig or an automated brush pass on a conveyor could standardize the edge-finishing process and eliminate this manual step.
+- Workstation Layout: The worker frequently takes steps between the workbench, the press, and the control panel. Inference: Repositioning the control panel to be reachable directly from the loading point of the press, or bringing the workbench closer to the press bed, would eliminate repeated micro-movements during the high-frequency production loops.
+
+Evidence Limits
+
+- The chemical composition and potential hazards of the raw materials are unknown, making it unclear if bare-handed mixing violates safety protocols.
+- The reason for occasional double-pressing in early cycles (compressing the mold, releasing it, blowing it with air, and immediately compressing it a second time) versus the standard single-press cycle is not visibly explained.
+- Camera movements and angles occasionally obscure the readouts on the control panels, making it impossible to determine the exact compression times, pressure settings, or what specific adjustments the worker makes between cycles.
+- While coworkers are seen taking finished stacks and dropping off individual blocks, the broader factory workflow—specifically where the components go after being placed in the blue crates—is off-camera.
