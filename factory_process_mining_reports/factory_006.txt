@@ -1,0 +1,116 @@
+Factory Process Overview
+The factory encompasses diverse manufacturing and material processing operations, primarily focusing on metal sand-casting, compression molding of powdered materials, chemical dough extrusion, wooden component assembly, and metal part finishing. Across the facility, production is highly manual and relies heavily on batch processing, manual part transport, and floor-based staging. Core operations include the preparation and pressing of sand molds (both manual and machine-assisted), the hand-placement of intricate pattern inserts, chemical mixing and kneading, punch pressing, and the manual separation of metal casting scrap. Operational flow is frequently punctuated by manual material handling tasks, such as shoveling raw materials, transporting heavy components via wheelbarrows or hoists, and organizing finished goods into extensive floor arrangements. 
+
+Worker Process Summaries
+worker_001: Operates a green sand molding line, performing pattern preparation, manual core and insert placement, automated sand compression, heavy mold assembly using overhead hoists, track-based mold advancement, and manual production logging.
+worker_002: Alternates between floor-seated wooden component scraping and assembly, machine sanding, manual sifting and kneading of chemical dough, loading extrusion machinery, and operating a manual lever punch press.
+worker_003: Executes machine-assisted and manual lever-press sand molding processes, managing flask placement, manual sand shoveling and packing, automated and manual compression, spilled sand recovery, and crane-assisted indexing of empty flasks.
+worker_004: Performs heavy bulk transport and intricate floor-based arrangement of metal motor casings using wheelbarrows and carts, alongside manual floor-sorting of small metal brackets and mechanical modification of parts on a makeshift anvil.
+worker_005: Conducts raw material mixing alongside manual-fill and machine-fill compression molding of blocks and cylinders, utilizing hydraulic presses, manual mold tamping, hand-sanding of finished block edges, and manual transport of tall product stacks.
+worker_007: Executes floor-based manual separation of metal castings by hammering off sprues and flash, continuously sweeping the dirt workspace, and sorting broken components into loose piles amidst frequent workflow interruptions.
+
+Factory Process Labels
+- Sand mold creation
+- Pattern cleaning and coating
+- Core and insert placement
+- Mold assembly and closing
+- Mold track advancement
+- Machine cleaning and maintenance
+- Manual production logging
+- Wooden component scraping
+- Wooden component assembly
+- Machine sanding
+- Powder sifting
+- Chemical dough mixing
+- Dough kneading
+- Machine extrusion
+- Punch press operation
+- Bulk material transport
+- Component staging and arrangement
+- Floor-based part sorting
+- Part mechanical modification
+- Compression molding
+- Raw material mixing
+- Post-processing edge finishing
+- Metal casting separation
+- Workspace clearing
+
+Factory Activity Catalogue
+- pack casting sand into mold frame
+- scrape excess sand with strike-off bar
+- blow debris from mold cavities with air gun
+- spray liquid coating into mold interior
+- retrieve sand cores from storage crate
+- place small inserts into sand pattern
+- attach hoist to upper mold half
+- guide upper mold half onto lower mold half
+- poke vent hole in assembled mold
+- push assembled molds along rail track
+- scrape hardened sand from pressing plate
+- log production tally on tracking board
+- scrape wooden cylinder with hand tool
+- insert wooden cylinder into carved wooden piece
+- press wooden piece against spinning sanding disc
+- toss sanded wooden piece into crate
+- sift dry powder mixture through wire mesh
+- pour liquid into mixing vat
+- knead heavy dough with wooden paddle
+- carry bucket of dough up metal steps
+- dump dough into extrusion machine hopper
+- extrude cylindrical dough shape
+- grind molded edge against spinning wheel
+- stack molded assemblies into interlocking floor towers
+- load flat circular object into manual punch press
+- pull punch press lever
+- adjust machine bolt with wrench
+- lift empty mold box onto pattern plate
+- shovel sand into mold box from floor pile
+- compress sand with automated machine press
+- wipe pattern plate with cloth rag
+- level powder surface with wooden scraper
+- strike powder surface with heavy wooden mallet
+- compress mold with manual pull lever
+- drag empty mold box along floor track using crane hook
+- shovel spilled sand from floor
+- load metal casing into wheelbarrow
+- push loaded wheelbarrow across factory floor
+- dump metal casings onto floor pile
+- hook and drag metal casings into straight floor rows
+- interlock finned motor casings into horizontal rows
+- arrange metal casings into table grids
+- sift through mixed small parts on floor
+- scoop sorted metal brackets into bowl
+- hammer metal bracket on hexagonal floor anvil
+- brush liquid release agent onto open metal mold
+- scoop raw powder into bottom mold half
+- tamp filled mold with manual hammer
+- assemble top and bottom mold halves
+- load assembled mold into hydraulic press
+- activate hydraulic press via control panel
+- strike inverted mold to eject compressed block
+- place empty mold into automated filling press
+- refill rear press hopper with granular material
+- mix wet and dry powders in large barrel
+- rub compressed block edge against stationary metal bar
+- carry stack of finished blocks to storage crate
+- sweep dirt floor to clear workspace
+- strike raw casting with hammer to separate scrap
+- toss separated casting component into floor pile
+- apply grip salve to hands
+
+Optimization-Relevant Process Observations
+- Floor-based operations (part sorting, wooden part assembly, hammering metal scrap, casting separation) force workers into constant bending, sitting, and standing cycles, introducing poor ergonomics and extending batch transfer times.
+- Excessive manual material handling acts as a facility-wide bottleneck; heavy reliance on loading wheelbarrows, bulk-dumping onto floors, and manual transport of block stacks introduces significant non-value-added motion and risk of product damage.
+- Loose materials handled via hand-scooping and manual shoveling (sand, dough, powders) result in high spillage rates, forcing workers to interrupt primary machine cycles to sweep, reclaim, or restock materials.
+- Significant cycle time is consumed by meticulously arranging components (such as aligning metal casings into grids or dragging them into perfectly straight floor rows), which is often followed by bulk dumping, indicating potential rework or highly inefficient staging protocols.
+- Machine idle time is visible across multiple pressing operations where workers wait for automated compression or filling cycles to complete, suggesting a need for dual-mold parallel processing or parallel workstation loading.
+- High physical friction exists at handoff and tooling points, such as workers constantly donning and doffing gloves to handle tiny mold inserts, or utilizing hand hammers rather than pneumatic tools to break metal casting scrap.
+- Track indexing for molds often requires workers to leave their stations to manually pull heavy chains, hooks, or drag molds via metal bars, halting value-adding assembly processes.
+
+Evidence Limits
+- Camera angles frequently obscure internal machine mechanisms, exact control panel readouts, specific part details, and the full extent of overhead crane operations.
+- The chemical compositions, temperatures, curing times, and safety requirements of the liquids, sprays, chemical doughs, and casting sands cannot be visually verified.
+- The downstream routing of finished and semi-finished materials—such as where the perfectly aligned floor rows of casings are moved next, or the destination of finished sand molds—is off-camera.
+- Certain counter-intuitive activities (e.g., painstakingly building a grid of parts on a table only to sweep them back onto the floor, or double-pressing a mold without apparent material changes) lack visible context.
+- It is unclear if the documented tasks represent a single continuous shift, a specific batch run, or operations captured across different production days.
+- The specific quality inspection criteria for the sorting of small metal brackets and plates cannot be determined.

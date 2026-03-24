@@ -1,0 +1,136 @@
+Factory Process Overview
+
+The factory executes a highly manual, multi-stage garment and textile manufacturing workflow. Operations are broadly categorized into three main phases: raw fabric preparation and sub-assembly, garment finishing, and final packaging and shipping. Fabric preparation involves untangling, flattening, pattern matching, pinning, and batch-marking pre-cut fabric panels. The finishing phase requires workers to iron, fold, and tag individual garments, often utilizing varying manual techniques, temporary templates, or cardboard inserts. The packaging and shipping phase encompasses a complex mix of individual garment bagging, cardboard sleeving, master bagging, and bulk box assembly. Throughout the facility, there is a heavy reliance on worker-led material transport, localized floor staging, and dynamic adjustments to batching, with operators frequently pausing primary value-added tasks to manage their own raw material replenishment, tool maintenance, and finished goods conveyance. 
+
+Worker Process Summaries
+
+worker_001: Manually folds and stages patterned fabric pieces, pairs and edge-aligns patterned fabric with solid-colored fabric, and manages local material staging using floor boards.
+worker_002: Executes garment quality control, inserts folded garments into individual plastic bags or cardboard sleeves, collaborates on box assembly, and performs factory floor auditing and bulk material handling.
+worker_003: Assembles and bundles plastic hangers, folds garments, attaches hangers using string or tag guns, wraps garments in cardboard, and manually seals packages with tape.
+worker_004: Flattens and stacks crumpled blue fabric panels, folds and marks white fabric strips using varying batching methods, and transports bulk material from distant storage racks.
+worker_005: Fetches and unbands cardboard supplies, utilizes a steam iron to press and fold t-shirts using multiple methods, and creates nested bundles of wrapped shirts.
+worker_006: Folds and tags garments, wraps shirts in cardboard or pre-printed folders, pairs different colored shirts into plastic sleeves, and consolidates master bags into wire-mesh carts for floor-level boxing.
+worker_007: Packages individual blue shirts with hangers or cardboard bands, applies labels with a handheld dispenser, consolidates items into master bags, and builds, packs, and seals cardboard shipping boxes.
+worker_008: Attaches green tags to the collars of folded white t-shirts using a tagging gun, continuously manages table capacity by pushing stacks, and performs tool maintenance including needle replacement.
+worker_009: Aligns printed patterns on loose striped and dotted fabric panels, builds and ties thick bulk stacks with string, folds individual pieces, and kits small curved pieces together with large rectangular base pieces.
+worker_010: Pins small pink fabric pairs together, aligns and marks sub-assemblies, secures folded fabric inside dotted paper by poking holes with a pen, and ties bulk fabric bundles before sacking them.
+
+Factory Process Labels
+
+* Fabric untangling
+* Fabric edge alignment
+* Pattern matching
+* Fabric folding
+* Fabric pairing
+* Fabric pinning
+* Sub-assembly marking
+* Fabric bundling
+* Garment ironing
+* Garment quality inspection
+* Thread snipping
+* Garment tagging
+* Hanger assembly
+* Garment bagging
+* Cardboard sleeve packaging
+* Cardboard wrapping
+* Package labeling
+* Master bagging
+* Box assembly
+* Box packing
+* Box sealing
+* Cart loading
+* Material transport
+* Floor auditing
+
+Factory Activity Catalogue
+
+* pick up loose fabric piece
+* shake out fabric piece
+* pull fabric edges taut
+* smooth fabric flat on table
+* align printed fabric patterns
+* fold bottom section of fabric
+* fold sides of fabric inward
+* mark fabric edge with chalk
+* mark fabric edge with pen
+* pin small fabric pieces together
+* align small fabric piece to base piece cutout
+* wrap fabric bundle with string
+* tie string around fabric stack
+* cut tying string with scissors
+* attach printed tag to bundle
+* wrap fabric in dotted paper
+* poke holes in paper wrap with pen
+* place empty floor board near table
+* transfer fabric stack to floor board
+* inspect garment for loose threads
+* snip loose threads with scissors
+* snap plastic hanger pieces together
+* loop red rubber band onto hanger hook
+* tie loose hangers into bundles with string
+* untie string from hanger bundle
+* iron flat t-shirt with steam iron
+* fold t-shirt over removable white template
+* slide template out from folded t-shirt
+* fold t-shirt around permanent cardboard insert
+* freehand fold t-shirt
+* press folded garment creases with iron
+* wrap flat t-shirt around stack of folded t-shirts
+* attach green tag to garment collar with tagging gun
+* replace metal needle in tagging gun
+* load plastic fastener strip into tagging gun
+* slide tag off handheld loose bundle
+* thread white string through garment loop
+* tie white string to hanger
+* pinch open plastic hanger clips
+* attach clip hanger to folded pants
+* fold raw garment around cardboard stiffener
+* slide folded garment into clear plastic bag
+* attach black plastic hanger hook to bag
+* peel adhesive backing off plastic bag
+* fold over adhesive bag flap
+* slide folded garment into outer cardboard sleeve
+* enclose garment in pre-printed cardboard folder
+* wrap white cardboard band around folded shirt
+* tape cardboard band closed
+* pair light shirt onto dark garment
+* slide garment pair into branded plastic sleeve
+* tick checkbox on package label with pen
+* apply adhesive label with handheld dispenser
+* pull clear tape from desktop dispenser
+* cut clear tape with standard desktop dispenser
+* slide grouped packages into clear master bag
+* seal master bag with tape
+* pull master bag over tall stack of sleeved pairs
+* fold bottom flaps of empty cardboard box
+* hold unconstructed box steady for coworker
+* tape bottom box flaps with handheld dispenser
+* smooth clear packing tape with pen body
+* cut clear packing tape with pen tip
+* drop packaged garments into bulk box
+* stack finished bags inside woven sack
+* tie top of filled plastic sack
+* transfer packaged stacks into wire-mesh cage cart
+* push loaded cage cart through factory aisle
+* write production numbers in lined notebook
+* review handwritten instruction slips
+* distribute white cardboard sheets to adjacent stations
+* slice plastic banding on cardboard stacks with orange cutter
+* sweep loose threads off work table
+* retrieve spilled fabric pieces from floor
+* compress fabric bundles inside soft collection bag
+
+Optimization-Relevant Process Observations
+
+* Material Handling and Operator Travel: There is a severe lack of decoupled material handling. Operators consistently stop primary value-adding operations (folding, tagging, bagging) to walk across the factory floor to retrieve raw materials, fetch unbanded cardboard, gather bulk pens, or transport finished sacks and boxes. Introducing dedicated water spiders or point-of-use gravity flow racks would drastically increase machine and operator utilization.
+* Makeshift Tool Usage and Deficiencies: Workers deploy inefficient workarounds due to missing or inadequate tooling. Examples include using a pen tip to cut shipping tape, using a pen to poke holes in paper wraps to secure them, holding loose tagging pins in the palm rather than using a dispenser, and sharing standard desktop tape dispensers across workstations. Standardizing ergonomic point-of-use tools (tape guns, staplers, dedicated scissors) would eliminate these micro-delays.
+* Ergonomics and Floor-Level Staging: Vertical motion waste is highly prevalent. Workers repeatedly assemble boxes on the floor, stage fabric on floor boards, drop finished bags into floor-level bins, and bend down to retrieve spilled inventory. Elevating staging areas, using spring-loaded pallet positioners, or implementing tilted presentation carts would eliminate repetitive bending and accelerate cycle times.
+* Standardization and Method Variations: High process variation exists both within and between workstations. Operators frequently toggle between single-piece flow and batch-accumulation flow (e.g., edge-marking fabric). Similarly, garment finishing lacks standard operating procedures, with workers randomly alternating between template folding, insert folding, freehand folding, and redundant ironing sequences. Standardizing these methods to the single most efficient technique would stabilize output and reduce rework.
+* Two-Person Dependencies and Handoffs: Box assembly acts as a bottleneck because it frequently requires two operators—one to physically hold the box flaps shut and another to apply tape. Providing simple weighted jigs or mechanical case-erectors would decouple these resources, allowing single-piece box assembly and freeing up the second worker for active packing tasks.
+
+Evidence Limits
+
+* The egocentric and tightly framed camera angles frequently obscure the broader factory layout, making it impossible to map the complete end-to-end routing of intermediate sub-assemblies, bulk carts, or finished boxes.
+* The explicit purpose of various manual markings (chalk lines, pen ticks on labels, hole pokes in paper) and the contents of the physical administrative paperwork (notebooks, delivery slips, signed documents) are illegible or out of frame.
+* Process variations—such as switching between plastic sleeving and cardboard folders, tying hangers versus clipping them, or using permanent inserts versus removable templates—cannot be definitively attributed to specific client SKUs, varying product standards, or mere operator preference based on the visual evidence alone.
+* The exact causes for erratic pacing, brief walks away from the station, and short undocumented interactions with coworkers cannot be confidently assessed without audio context or a wider view of the surrounding operations.

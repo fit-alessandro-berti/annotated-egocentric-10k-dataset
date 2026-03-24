@@ -1,0 +1,125 @@
+Factory Process Overview
+The facility operates as a highly manual garment manufacturing and packaging plant. The production flow encompasses initial bulk fabric preparation (spreading, layering, and cutting), multi-stage industrial sewing (overlock seaming, binding, hemming, and complex curvilinear joining), garment customization via heat press labeling, and end-of-line manual finishing operations. Finishing includes thread trimming, spot cleaning, steam ironing with folding guides, individual polybagging, bulk box assembly, and pick-and-pack order sorting. Across the factory, the workflow is characterized by disconnected workstations, heavy reliance on manual material transport between stations, unstandardized point-of-use material presentation, and operator-led machine maintenance and quality inspection. 
+
+Worker Process Summaries
+worker_001: Performs high-volume overlock seaming and chaining of white fabric pieces, along with manual folding and tag insertion for micro-batches, frequently pausing to restock material from disorganized piles and manage bulky finished chains.
+worker_002: Executes manual quality control and packaging for t-shirts and onesies by inspecting seams, snipping loose threads, folding garments, bundling items with scrap fabric, and transporting finished stacks to nearby sewing stations.
+worker_003: Operates multiple sewing machines to perform standard seaming, high-speed overlock edging, and pink/black trim attachment, handling their own machine setup, threading, and material retrieval within a cluttered workspace.
+worker_004: Acts as a multi-role overlock operator executing single-piece and continuous chain assembly, tape feeding, manual template cutting, manual chain separation with scissors, and extensive material transport between workstations.
+worker_005: Alternates between a heat press labeling operation requiring full manual unfold/refold inspection and industrial garment sewing of short seams, long seams, and hemming, punctuated by manual machine cleaning and heavy batch transport.
+worker_006: Assembles fabric components by sewing continuous edge binding, joining complex curvilinear scalloped edges, and performing manual fabric folding and scissor trimming in a fragmented workflow frequently interrupted by device usage.
+worker_007: Conducts a multi-stage finishing and packaging workflow that includes ironing folded garments with cardboard inserts, individual bagging, bulk box assembly, and floor-based pick-and-pack order sorting across disconnected stations.
+worker_009: Prepares garments for shipping by ironing loose shirts with cardboard guides, executing a standalone manual thread-trimming and lint-removal quality check, and physically sorting packaged garments between large floor-level boxes.
+worker_010: Folds, labels, and packages t-shirts into single polybags, multi-shirt bundles, and unbagged banded stacks, frequently leaving the station to gather raw materials from floor mats and using a smartphone calculator for batch tracking.
+worker_011: Prepares materials for bulk production through manual fabric spreading, layering, and cutting, accompanied by manual fabric bundling, weight-based data logging at a separate desk, and physical transport of scrap offcuts from floor tarps.
+
+Factory Process Labels
+- Fabric spreading
+- Bulk fabric cutting
+- Fabric measuring
+- Overlock seaming
+- Continuous fabric chaining
+- Edge binding attachment
+- Piping attachment
+- Curvilinear seam joining
+- Tape feeding
+- Heat press labeling
+- Garment hemming
+- Thread trimming
+- Quality inspection
+- Garment folding
+- Garment ironing
+- Garment bagging
+- Bulk box assembly
+- Pick-and-pack sorting
+- Production data logging
+- Scrap material management
+- Machine maintenance
+- Material transport
+
+Factory Activity Catalogue
+- Pull white fabric across spreading table
+- Smooth fabric layer by hand
+- Cut fabric layer with shears
+- Roll fabric around straight-edge tool
+- Fold fabric into compact bundle
+- Weigh fabric bundle on digital scale
+- Transcribe scale weight into notebook
+- Mark fabric piece with blue pen
+- Trace curved template onto fabric
+- Cut curved fabric piece with scissors
+- Gather fabric offcuts from floor tarp
+- Deposit fabric offcuts into blue bin
+- Thread overlock machine using tweezers
+- Replace depleted thread cone
+- Wipe sewing machine flat bed
+- Remove needle plate with scissors tip
+- Clean lint from feed dogs
+- Adjust machine thread tensioner
+- Grab unsewn fabric from disorganized pile
+- Unfold raw fabric edges
+- Align raw fabric edges by hand
+- Feed aligned edges into overlock machine
+- Sew short straight seam
+- Sew long straight seam
+- Join scalloped edge to flat panel
+- Feed continuous fabric chain without breaking thread
+- Pull sewn piece out of machine
+- Snap thread chain by hand
+- Cut continuous thread chain with scissors
+- Route seam tape through machine guide
+- Sew continuous edge binding
+- Sew piping onto fabric edge
+- Hem large fabric piece in short bursts
+- Stage bulky fabric chain on lap
+- Push finished fabric chain to table edge
+- Trim raw fabric edge manually
+- Snip loose threads with small clippers
+- Pick lint off garment by hand
+- Rub fabric to remove spot
+- Unfold sewn piece to inspect seam tension
+- Cut scrap fabric strip
+- Tie scrap fabric strip around garment stack
+- Pull unmarked garment from pile
+- Fold garment for heat press
+- Retrieve single heat transfer label
+- Position label on garment chest
+- Clamp heat press shut
+- Remove hot garment from press
+- Unfold garment to inspect transferred logo
+- Snap large cardboard sheet in half
+- Place cardboard insert onto flat garment
+- Fold garment sleeves inward
+- Iron folded garment with steam iron
+- Remove cardboard folding guide
+- Stack folded garment on table
+- Insert tag into garment fold
+- Slide folded garment into clear polybag
+- Peel adhesive strip off polybag
+- Seal polybag flap
+- Wrap printed cardboard sleeve around garment
+- Band folded garment with cardboard strip
+- Assemble empty cardboard box
+- Tape cardboard box bottom seam
+- Transfer polybagged garments into bulk box
+- Distribute single garments into floor boxes
+- Drag thick fabric bundle across table
+- Transport heavy fabric stack across factory floor
+- Retrieve thread from central supply table
+- Fetch loose garments from floor mat
+- Calculate production batch on smartphone
+- Show folded fabric sample to coworker
+
+Optimization-Relevant Process Observations
+- Machine Idle Time and Tool Switching: Operators frequently interrupt high-speed machine sewing to manually cut continuous fabric chains, snip connecting threads, and perform intermediate fabric trimming. The lack of automatic under-bed thread trimmers or machine-mounted guillotines severely limits equipment utilization.
+- Material Handling Burden: Point-of-use staging is highly disorganized across the facility. Operators constantly bend down to floor mats, untangle raw materials from unstructured piles, or pull unorganized fabric from distant table edges, creating continuous micro-delays before any value-adding work begins.
+- Decoupled Workstations and Transport Waste: The factory relies extensively on operators physically walking heavy fabric bundles, finished shirt stacks, and full bins across the floor to the next station. The absence of localized material handlers (water spiders), conveyor systems, or rolling carts forces skilled machine operators into transport roles.
+- Batching Behavior and Workspace Clutter: Operations involving continuous chaining quickly cause massive material accumulation. Because output catchment (bins or chutes) is absent, heavy chains and WIP overflow onto workstations and directly onto operators' laps, requiring them to halt production to push inventory out of the way.
+- Redundant Handling and Inspection: Quality routines involve significant double-handling, notably the 100% manual unfolding and refolding of garments solely to verify heat press transfers, and the secondary transferring of already-packaged garments from one floor box to another during sorting. 
+- Ergonomic Strain: Pick-and-pack order distribution and scrap material collection are performed directly on the floor, necessitating repetitive bending and deep reaching.
+
+Evidence Limits
+- The egocentric and occasionally erratic camera angles obscure the broader factory layout, making it impossible to map precise distances between workstations, evaluate total material travel time, or fully assess global layout inefficiencies.
+- The overarching production control logic (e.g., push vs. pull systems, batch scheduling) is entirely unseen. It is uncertain whether the frequent task-switching and movement of workers across different stations are driven by cross-training mandates, ad-hoc supervisor instructions, or floating bottleneck mitigation.
+- Specific quality thresholds and defect criteria are unstated, leaving uncertainty regarding exactly when a garment requires manual thread trimming versus when it is acceptable to pass downstream.
+- Due to the lack of audio context and clear screen visibility, the exact nature of worker coordination, numeric calculations on smartphones, and handwritten production logbook data cannot be definitively evaluated.

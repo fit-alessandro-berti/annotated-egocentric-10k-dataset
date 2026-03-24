@@ -1,0 +1,108 @@
+Factory Process Overview
+
+The factory executes a diverse mix of highly manual surface preparation, intricate sub-assembly, and semi-automated molding operations across multiple material types, including plastics, metals, wax casting patterns, ceramics, and wooden mechanisms. The prevailing manufacturing strategy relies heavily on manual defect patching, flash removal, and the hand-application of various pastes, adhesives, and coatings. Workflows are characterized by frequent transitions between single-piece and batched flows, high tool-switching frequency, and significant localized material handling. While core shaping processes utilize injection molding and machine pressing, the bulk of the factory's labor hours are dedicated to detailed pre-processing (mold cleaning, insert staging) and post-processing (deburring, surface sealing, component joining) before finished parts are transported to centralized storage racks. 
+
+Worker Process Summaries
+
+worker_001: Manually scrapes, patches defects, and inserts ring components into molded yellow parts, frequently alternating between applying sealing pastes and using compressed air for debris removal before transporting batched trays to storage racks.
+worker_002: Alternates between assembling and rubber-banding complex yellow frame structures, preparing two-part molds with threaded core inserts, and scraping large batches of molded components to remove flash.
+worker_003: Performs flash removal, defect filling with putty, and spot-painting on yellow parts, while also monitoring an adjacent moving track system and transporting finished trays to multi-tiered racks.
+worker_004: Polishes and fills defects on dark metal cast components using white pastes and dark clay, toggling between batched and single-piece flows before physically carrying heavy loaded racks to designated storage aisles.
+worker_005: Uses a hammer to separate raw metal castings from sprues along a moving conveyor belt and at a stationary sloped table, periodically manually transporting bulk bins and wheelbarrows across the floor.
+worker_006: Prepares and assembles intricate wax casting patterns by deburring components, joining them via chemical adhesives, mechanical binding, and thermal welding, then stages the finished assemblies in boxes.
+worker_007: Breaks apart clumps of raw wax-like components, meticulously fettles individual pieces, and uses a metal fixture and bonding liquid to assemble them into six-piece clusters for staging on large flat trays.
+worker_008: Deburrs, coats, and assembles intricate wooden puzzle mechanisms, batch-applying paste to joint slots, testing sliding parts, inserting trimmed pegs into bases, and verifying inventory against paper documentation.
+worker_009: Operates an injection molding press to produce yellow plastic parts, manually extracting sprues, separating usable pieces from runners, performing edge-scraping, and continuously consolidating small batches into larger bulk containers.
+worker_010: Operates a semi-automated pressing machine by continuously cycling between aggressively cleaning two-part molds at an adjacent table, loading pre-made inserts and binding agents into the molds, and extracting finished composite grids.
+worker_011: Prepares and trims ceramic core components, loads them alongside break-away inserts into a large two-part mold, applies core paste, and operates a machine press, performing offline prep tasks during the machine's closed cycle.
+
+Factory Process Labels
+
+* Metal casting separation
+* Wax pattern assembly
+* Surface finishing and polishing
+* Defect patching
+* Component sub-assembly
+* Injection molding
+* Mold preparation and cleaning
+* Machine pressing
+* Spot painting
+* Thermal welding
+* Material sorting and sifting
+* Inventory verification
+
+Factory Activity Catalogue
+
+* scrape component surface with metal tool
+* blow debris with compressed air gun
+* patch surface defect with putty
+* insert secondary ring into component
+* apply paste with brush
+* wipe excess paste with cloth
+* transport loaded tray to storage rack
+* handoff finished part to secondary worker
+* file component edges
+* apply hot glue to frame joints
+* bind assembled components with rubber bands
+* coat mold cavity with liquid release agent
+* thread core insert onto stick
+* close two-part mold assembly
+* sweep accumulated debris into waste box
+* press component halves together
+* apply spot touch-up paint with fine brush
+* monitor moving track system
+* inspect large metal bin
+* rub white powder into metal component
+* fill metal gap with dark clay
+* view digital instruction on smartphone
+* strike metal casting with hammer
+* scoop loose parts from bulk bin
+* sweep separated parts with metal guide bar
+* transport bulk material via wheelbarrow
+* retrieve raw material from floor-level box
+* sift debris through perforated metal screen
+* rub metal tool against lubricating stick
+* weld wax components with heated pen tool
+* break molded clumps apart by hand
+* assemble components in metal fixture
+* coat central stem with detailing liquid
+* dip wooden block into liquid coating
+* test sliding mechanism on wooden part
+* compare finished trays against paper document
+* trim seams from wooden peg
+* insert wooden peg into base slot
+* extract hot plastic sprue from mold
+* pry stuck plastic part from mold
+* snap plastic part off runner by hand
+* cut plastic sprue with hand tool
+* empty small parts box into bulk tray
+* inspect wall-mounted electrical cabinet
+* adjust secondary machine control panel
+* pick debris from mold cavity
+* sand mold face with abrasive block
+* load pre-manufactured insert into mold
+* sift granular material through mesh sieve
+* squeeze binding paste from piping bag
+* actuate pressing machine
+* extract pressed part from mold
+* break apart breakaway inserts by hand
+* wipe internal surface of bell-shaped object
+* wait for machine press cycle completion
+
+Optimization-Relevant Process Observations
+
+* Material Handling and Transport Waste: Workers across multiple stations frequently halt value-adding operations to carry heavy metal trays, push wheelbarrows, or drag bins across the factory floor to storage aisles. Implementing localized gravity flow racks, roller conveyors, or assigning dedicated material handlers would significantly reduce non-value-added motion and transport times.
+* Ergonomics and Material Presentation: Raw materials and unworked parts are consistently dumped into disorganized desktop piles or kept in deep cardboard boxes on the floor. This forces repetitive bending, reaching, and visual searching. Elevating material storage to workbench height and installing gravity-fed hoppers or point-of-use bins would streamline the grasping phase and reduce ergonomic strain.
+* Tool Clutter and Changeover Friction: High-frequency manual finishing tasks require workers to constantly switch between scrapers, brushes, files, cloths, and air guns. The lack of standardized tool holsters or shadow boards leads to cluttered workbenches, increasing the micro-delays associated with locating, picking up, and setting down implements.
+* Air-Blowing Cross-Contamination: The ubiquitous use of compressed air guns to clear metal shavings, wood dust, and wax debris directly adjacent to open containers of wet adhesives, paints, and putties introduces a severe risk of particulate cross-contamination. Transitioning to localized vacuum extraction or downdraft tables would capture waste at the source without dispersing it into neighboring workspaces.
+* Batching Variability and Machine Idle Time: Workers operating injection and pressing machines often leave the equipment idle while they manually scrape or trim large batches of extracted parts. Conversely, during closed-mold cycles, workers sometimes wait idly. Synchronizing manual deflashing, core prepping, or cleaning tasks to occur strictly within the automated machine cycle time would optimize overall throughput.
+* Manual Dispensing Inefficiencies: The manual application of putties and pastes using bare fingers, loose brushes, or plastic squeeze bags results in inconsistent application volumes and frequently necessitates secondary hand-cleaning pauses. Introducing foot-pedal-operated pneumatic dispensers or standardized dosing syringes would improve application precision and reduce process mess.
+
+Evidence Limits
+
+* The precise chemical compositions and structural purposes of the various pastes, putties, liquids, powders, and adhesives applied across the workstations cannot be visually determined.
+* The underlying material composition of several objects (e.g., whether yellow parts are ceramic, plastic, cast metal, or compacted sand) is occasionally ambiguous, relying on inferences drawn from worker handling and debris generation.
+* Quality control criteria, specifically the visual or dimensional tolerances required to determine when a manual scraping, filing, or defect-patching task is complete, are not explicitly visible.
+* Technical parameters such as cycle times, temperature settings, and pressure variables for the injection molding and pressing equipment are unknown.
+* The broader factory layout, including the origin points of raw materials and the final downstream destinations of the loaded storage racks, is largely out of frame, limiting end-to-end line balancing analysis.
+* The specific contents of paper documents checked by workers, digital smartphone screens viewed, and electrical cabinets inspected cannot be verified.

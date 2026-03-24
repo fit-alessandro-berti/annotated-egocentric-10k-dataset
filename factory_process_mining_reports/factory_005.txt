@@ -1,0 +1,160 @@
+Factory Process Overview
+
+The factory is a multi-process manufacturing facility heavily focused on the production, machining, and assembly of electric motors, stators, and metallic sub-components. Operations span from automated and manual machining (lathes, drill presses, CNC equipment, and milling) to intricate electrical assembly (stator winding, wire insertion, soldering, and lacing) and final product packaging. The production environment is characterized by distinct, heavily batched workstations that rely on extensive manual material handling. Workers frequently transport raw materials, work-in-progress inventory, and finished goods across the floor using manual pallet jacks, flatbed trolleys, or by hand-carrying stacked parts. Operational bottlenecks are present in the form of manual fixturing mechanisms, localized floor-level staging that requires continuous bending, and tightly coupled dependencies between adjacent workstations that cause cascading idle times.
+
+Worker Process Summaries
+
+worker_001: Executes motor assembly packaging, automated and semi-automated stator coil winding, manual wire insertion, soldering, and lathe machining of metal components with floor-level material staging.
+worker_002: Performs small-part kitting, applies labels and nameplates to electric motors, operates a stator coil binding machine, and manually heat-shrinks wire connections.
+worker_003: Operates a manual lathe to face and deburr two sides of red metal parts in a highly repetitive cycle featuring manual fixturing and floor-level staging.
+worker_004: Alternates between applying adhesive labels to electric motors, transporting pallets with a manual jack, and operating a lathe to turn and manually polish metal rings using scrap swarf.
+worker_006: Conducts manual pre-assembly and milling machine operations for red metal components, alongside a bulk hardware assembly process involving plug insertion, bolt dropping, and pneumatic tightening.
+worker_007: Operates a manual drill press using loose guide plates and alignment pins to machine cast-metal parts, transporting finished pieces one-by-one to a floor pile.
+worker_008: Machines center holes on flanged parts using a drill press, conducts manual gauging and deburring, and executes a collaborative material-handling loop with a neighboring grinder station.
+worker_009: Alternates between manual drill press operations on pre-coated parts and extensive facility logistics, including towing flatbed trolleys, staging racks, and packaging finished parts.
+worker_010: Operates a lathe with manual threaded-rod fixturing and coordinates a large-scale batch assembly process, arraying red pump parts and driving bolts with a pneumatic impact wrench.
+worker_011: Tends a CNC machine by continuously loading raw parts and extracting finished pieces, followed by performing manual dimensional checks with a dial indicator at an adjacent inspection table.
+worker_012: Performs continuous lathe machining with live-spindle loading and unloading, while periodically leaving the workstation to manually assist a neighboring operator with workpiece finishing.
+
+Factory Process Labels
+
+* motor assembly finishing
+* motor labeling and nameplate attachment
+* motor packaging and strapping
+* automated stator winding
+* semi-automatic stator wire insertion
+* stator coil binding
+* stator lead wire finishing and soldering
+* manual lathe machining
+* CNC machine tending
+* drill press machining
+* milling machine operation
+* component deburring and polishing
+* dimensional quality inspection
+* manual hardware pre-assembly
+* batch pneumatic fastening
+* material transport and logistics
+* part sorting and staging
+* finished goods packaging
+
+Factory Activity Catalogue
+
+* gather flat cardboard sheets
+* fold cardboard box inserts
+* transport blue plastic pallets
+* retrieve plastic film roll
+* apply adhesive label to motor housing
+* rub label to ensure adhesion
+* position metallic nameplate on motor housing
+* insert holding pins through nameplate
+* tap pins into place with hammer
+* load boxed motor onto strapping machine
+* feed plastic strap around box
+* trigger strapping machine cycle
+* thread white string through copper coils
+* tie securing knots on copper coils
+* mount coil onto winding machine tooling
+* slide stator core onto winding machine shaft
+* unload wound stator from machine
+* route colored lead wires through stator core
+* trim excess wire with scissors
+* burn off enamel wire coating with lighter
+* slide insulating sleeves over wires
+* twist exposed copper wire ends
+* seal wire joints with soldering iron
+* lace copper end turns with string
+* push insulating wedges into stator slots
+* trim excess insulating paper
+* connect stator lead wires to testing panel
+* verify electrical connection via indicator lights
+* press copper windings into tight pack
+* thread copper wire into stator fixture
+* pull large loops of copper wire with metal tool
+* pack twisted wire loops into stator slots
+* rotate stator fixture by hand
+* mount unmachined part into lathe chuck
+* tighten lathe chuck bolts with spanner
+* spin lathe chuck manually for alignment
+* engage lathe spindle rotation
+* advance cutting tool via carriage handwheels
+* deburr spinning part edge with metal scraper
+* brush metal shavings off lathe tool post
+* loosen lathe chuck bolts
+* remove machined part from lathe
+* sort flexible rubber seals
+* apply holographic sticker to nameplate
+* wipe dirty hands with cloth rag
+* place stator coil into binding machine fixture
+* activate two-hand safety control for binding
+* heat-shrink wire connections with handheld tool
+* adjust control unit dial
+* retrieve wire cutters from storage bin
+* sweep metal shavings off machine fixture
+* wipe spinning part with cardboard piece
+* flip machined part 180 degrees in fixture
+* insert metal washer behind part on fixture
+* wipe motor surface with dark cloth
+* peel single label from stack
+* hand adhesive labels to coworker
+* pump manual pallet jack handle
+* pull loaded pallet jack across floor
+* polish spinning metal part with raw swarf
+* smooth spinning metal part with file
+* wipe inside of chuck jaws with swarf
+* measure part dimensions with manual caliper
+* fasten metal ring to red part with manual wrench
+* brush cutting fluid onto machine holding fixture
+* initiate milling machine cycle via control panel
+* pull rusty metal staging tray across workspace
+* apply lubricating paste to white circular plugs
+* insert lubricated plugs into red components
+* stack plugged components into wire basket
+* drop silver bolts into component flange holes
+* tighten bolts with pneumatic impact wrench
+* insert silver pins into component holes
+* place silver guide plate onto unmachined part
+* secure guide plate with alignment pin
+* pull drill press side lever
+* disassemble guide plate and alignment pin
+* verify internal hole diameter with plug gauge
+* verify top surface flatness with block gauge
+* thread metal bar through raw casting center holes
+* carry heavy stack of castings by hand
+* sweep metal shavings off adjacent grinder table
+* dip metal cup into dark liquid bulk tank
+* arrange parts manually inside deep wire mesh bin
+* operate small stamping machine handle
+* reposition part on drill press circular table
+* tow loaded flatbed trolley with metal pulling hook
+* transfer finished parts into yellow metal storage cages
+* interleave sheets of white paper between stacked parts
+* thread loose washer and nut onto lathe rod
+* blow compressed air over machined part
+* arrange array of red pump parts on assembly table
+* open CNC machine door
+* extract finished part from CNC machine chuck
+* load raw part into CNC machine chuck
+* press button to initiate CNC cycle
+* measure machined part with dial indicator
+* wipe machined parts with cleaning cloth
+* press unmachined part onto live spinning lathe fixture
+* adjust lathe toolpost with hand wrench mid-cut
+* pull finished part off live spinning lathe fixture
+* hold finishing tool against neighboring spinning workpiece
+
+Optimization-Relevant Process Observations
+
+* Material Staging and Transport: Floor-level staging is highly prevalent across the facility, forcing machine operators to constantly walk, bend, and lift individual parts for every cycle. Providing waist-height presentation tables, gravity-fed flow racks, or wheeled carts immediately adjacent to machines would drastically reduce material handling overhead and ergonomic strain.
+* Workholding and Fixturing Inefficiencies: Operators lose significant cycle time to manual fixturing, heavily relying on manual wrenches, loose nuts, spanners, and unattached alignment pins. Upgrading to quick-release mechanical clamps, toggle clamps, or pneumatic chucks would eliminate large portions of non-value-added setup time.
+* Machine and Worker Idle Time: CNC and automated lathe cycles create extended waiting periods for operators. Redesigning work cells to allow these operators to utilize machine run-time for secondary tasks—such as deburring, manual inspection, or tending adjacent machines—would significantly improve labor utilization.
+* Coupled Workstation Handoffs: Several processes suffer from tight coupling without adequate buffers, such as a drill press operator waiting idly for a grinder operator to finish a single part, or a lathe operator leaving their machine to manually hold a finishing tool for a neighbor. Implementing buffer drop-zones or localized fixed tooling would decouple these tasks and allow continuous independent flow.
+* Tool and Supply Organization (5S): Workers frequently leave their immediate stations to fetch standard tools, hardware, and processing fluids, or resort to using raw scrap swarf for polishing due to missing abrasives. Establishing point-of-use shadow boards, suspended tool balancers for pneumatic tools, and dedicated fluid dispensers would standardize the work and eliminate search/transit time.
+* Batch Sizing: Large batch assembly operations and bulk part movements frequently result in double-handling, as parts are moved from tables to floors, to racks, and into bins. Reconfiguring the workflow into smaller, continuous-flow batches could reduce work-in-progress inventory and eliminate the need for operators to continuously reorganize deep bins or push massive arrays of parts across tables.
+
+Evidence Limits
+
+* The facility layout, routing paths, and total travel distances are not mapped, making precise floor-plan reorganization recommendations impossible.
+* Quality standards, exact dimensional tolerances, and torque specifications are unknown, which limits the ability to evaluate if certain manual inspections, gauging methods, or finishing steps are strictly required or can be safely omitted.
+* Specific operational takt times, machine feed rates, and total cycle durations are not provided, preventing exact calculations of idle time or capacity limits.
+* The content of coworker conversations, the details on printed paperwork, and the requirements of off-camera assembly dependencies cannot be verified from the footage.
+* It is difficult to ascertain whether certain non-standard actions—such as loading parts onto live spinning chucks or wiping metal with raw swarf—are authorized standard operating procedures or improvised worker behaviors.
