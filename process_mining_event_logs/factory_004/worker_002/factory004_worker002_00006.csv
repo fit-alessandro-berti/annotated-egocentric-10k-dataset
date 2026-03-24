@@ -1,0 +1,121 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:37,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:00:37,2000-01-01 00:00:41,Stack folded garment on table,Garment folding,factory_004,worker_002
+2000-01-01 00:00:41,2000-01-01 00:00:45,Pull unmarked garment from pile,Quality inspection,factory_004,worker_002
+2000-01-01 00:00:45,2000-01-01 00:01:06,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:01:06,2000-01-01 00:01:12,Stack folded garment on table,Garment folding,factory_004,worker_002
+2000-01-01 00:01:12,2000-01-01 00:01:16,Pull unmarked garment from pile,Quality inspection,factory_004,worker_002
+2000-01-01 00:01:16,2000-01-01 00:01:18,Drag thick fabric bundle across table,Material transport,factory_004,worker_002
+2000-01-01 00:01:18,2000-01-01 00:02:10,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:02:10,2000-01-01 00:02:13,Stack folded garment on table,Garment folding,factory_004,worker_002
+2000-01-01 00:02:13,2000-01-01 00:02:15,Pull unmarked garment from pile,Quality inspection,factory_004,worker_002
+2000-01-01 00:02:15,2000-01-01 00:02:41,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:02:41,2000-01-01 00:02:46,Stack folded garment on table,Garment folding,factory_004,worker_002
+2000-01-01 00:02:46,2000-01-01 00:02:49,Pull unmarked garment from pile,Quality inspection,factory_004,worker_002
+2000-01-01 00:02:49,2000-01-01 00:02:57,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:02:57,2000-01-01 00:03:00,Stack folded garment on table,Garment folding,factory_004,worker_002
+2000-01-01 00:03:00,2000-01-01 00:03:02,Pull unmarked garment from pile,Quality inspection,factory_004,worker_002
+2000-01-01 00:03:02,2000-01-01 00:03:40,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:03:40,2000-01-01 00:03:44,Stack folded garment on table,Garment folding,factory_004,worker_002
+2000-01-01 00:03:44,2000-01-01 00:03:46,Pull unmarked garment from pile,Quality inspection,factory_004,worker_002
+2000-01-01 00:03:46,2000-01-01 00:04:14,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:04:14,2000-01-01 00:04:18,Stack folded garment on table,Garment folding,factory_004,worker_002
+2000-01-01 00:04:18,2000-01-01 00:04:22,Pull unmarked garment from pile,Quality inspection,factory_004,worker_002
+2000-01-01 00:04:22,2000-01-01 00:04:52,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:04:52,2000-01-01 00:04:57,Stack folded garment on table,Garment folding,factory_004,worker_002
+2000-01-01 00:04:57,2000-01-01 00:04:59,Pull unmarked garment from pile,Quality inspection,factory_004,worker_002
+2000-01-01 00:04:59,2000-01-01 00:05:15,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:05:15,2000-01-01 00:05:19,Stack folded garment on table,Garment folding,factory_004,worker_002
+2000-01-01 00:05:19,2000-01-01 00:05:25,Pull unmarked garment from pile,Quality inspection,factory_004,worker_002
+2000-01-01 00:05:25,2000-01-01 00:05:49,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:05:49,2000-01-01 00:05:54,Stack folded garment on table,Garment folding,factory_004,worker_002
+2000-01-01 00:05:57,2000-01-01 00:06:01,Pull unmarked garment from pile,Quality inspection,factory_004,worker_002
+2000-01-01 00:06:01,2000-01-01 00:06:23,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:06:23,2000-01-01 00:06:26,Stack folded garment on table,Garment folding,factory_004,worker_002
+2000-01-01 00:06:26,2000-01-01 00:06:28,Pull unmarked garment from pile,Quality inspection,factory_004,worker_002
+2000-01-01 00:06:28,2000-01-01 00:06:33,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:06:33,2000-01-01 00:06:36,Stack folded garment on table,Garment folding,factory_004,worker_002
+2000-01-01 00:06:36,2000-01-01 00:06:38,Pull unmarked garment from pile,Quality inspection,factory_004,worker_002
+2000-01-01 00:06:38,2000-01-01 00:07:08,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:07:08,2000-01-01 00:07:11,Stack folded garment on table,Garment folding,factory_004,worker_002
+2000-01-01 00:07:11,2000-01-01 00:07:15,Pull unmarked garment from pile,Quality inspection,factory_004,worker_002
+2000-01-01 00:07:15,2000-01-01 00:07:42,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:07:42,2000-01-01 00:07:45,Stack folded garment on table,Garment folding,factory_004,worker_002
+2000-01-01 00:07:45,2000-01-01 00:07:48,Pull unmarked garment from pile,Quality inspection,factory_004,worker_002
+2000-01-01 00:07:48,2000-01-01 00:08:10,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:08:10,2000-01-01 00:08:13,Stack folded garment on table,Garment folding,factory_004,worker_002
+2000-01-01 00:08:13,2000-01-01 00:08:18,Pull unmarked garment from pile,Quality inspection,factory_004,worker_002
+2000-01-01 00:08:18,2000-01-01 00:08:39,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:08:39,2000-01-01 00:08:42,Stack folded garment on table,Garment folding,factory_004,worker_002
+2000-01-01 00:08:42,2000-01-01 00:08:46,Pull unmarked garment from pile,Quality inspection,factory_004,worker_002
+2000-01-01 00:08:46,2000-01-01 00:08:55,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:08:55,2000-01-01 00:09:05,Cut scrap fabric strip,Scrap material management,factory_004,worker_002
+2000-01-01 00:09:05,2000-01-01 00:09:21,Tie scrap fabric strip around garment stack,Scrap material management,factory_004,worker_002
+2000-01-01 00:09:21,2000-01-01 00:09:37,Drag thick fabric bundle across table,Material transport,factory_004,worker_002
+2000-01-01 00:09:37,2000-01-01 00:09:50,Drag thick fabric bundle across table,Material transport,factory_004,worker_002
+2000-01-01 00:09:50,2000-01-01 00:09:53,Pull unmarked garment from pile,Quality inspection,factory_004,worker_002
+2000-01-01 00:09:53,2000-01-01 00:10:11,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:10:11,2000-01-01 00:10:15,Stack folded garment on table,Garment folding,factory_004,worker_002
+2000-01-01 00:10:15,2000-01-01 00:10:18,Pull unmarked garment from pile,Quality inspection,factory_004,worker_002
+2000-01-01 00:10:18,2000-01-01 00:10:45,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:10:45,2000-01-01 00:10:50,Stack folded garment on table,Garment folding,factory_004,worker_002
+2000-01-01 00:10:50,2000-01-01 00:10:53,Pull unmarked garment from pile,Quality inspection,factory_004,worker_002
+2000-01-01 00:10:53,2000-01-01 00:11:22,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:11:22,2000-01-01 00:11:26,Stack folded garment on table,Garment folding,factory_004,worker_002
+2000-01-01 00:11:26,2000-01-01 00:11:29,Pull unmarked garment from pile,Quality inspection,factory_004,worker_002
+2000-01-01 00:11:29,2000-01-01 00:11:43,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:11:43,2000-01-01 00:11:46,Stack folded garment on table,Garment folding,factory_004,worker_002
+2000-01-01 00:11:46,2000-01-01 00:11:50,Pull unmarked garment from pile,Quality inspection,factory_004,worker_002
+2000-01-01 00:11:50,2000-01-01 00:12:09,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:12:09,2000-01-01 00:12:12,Stack folded garment on table,Garment folding,factory_004,worker_002
+2000-01-01 00:12:12,2000-01-01 00:12:15,Pull unmarked garment from pile,Quality inspection,factory_004,worker_002
+2000-01-01 00:12:15,2000-01-01 00:12:28,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:12:28,2000-01-01 00:12:31,Stack folded garment on table,Garment folding,factory_004,worker_002
+2000-01-01 00:12:31,2000-01-01 00:12:34,Pull unmarked garment from pile,Quality inspection,factory_004,worker_002
+2000-01-01 00:12:34,2000-01-01 00:12:54,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:12:54,2000-01-01 00:12:59,Stack folded garment on table,Garment folding,factory_004,worker_002
+2000-01-01 00:12:59,2000-01-01 00:13:01,Pull unmarked garment from pile,Quality inspection,factory_004,worker_002
+2000-01-01 00:13:01,2000-01-01 00:13:25,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:13:25,2000-01-01 00:13:28,Stack folded garment on table,Garment folding,factory_004,worker_002
+2000-01-01 00:13:28,2000-01-01 00:13:31,Pull unmarked garment from pile,Quality inspection,factory_004,worker_002
+2000-01-01 00:13:31,2000-01-01 00:13:58,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:13:58,2000-01-01 00:14:02,Stack folded garment on table,Garment folding,factory_004,worker_002
+2000-01-01 00:14:02,2000-01-01 00:14:05,Pull unmarked garment from pile,Quality inspection,factory_004,worker_002
+2000-01-01 00:14:05,2000-01-01 00:14:32,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:14:32,2000-01-01 00:14:36,Stack folded garment on table,Garment folding,factory_004,worker_002
+2000-01-01 00:14:36,2000-01-01 00:14:39,Pull unmarked garment from pile,Quality inspection,factory_004,worker_002
+2000-01-01 00:14:39,2000-01-01 00:14:56,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:14:56,2000-01-01 00:15:00,Stack folded garment on table,Garment folding,factory_004,worker_002
+2000-01-01 00:15:00,2000-01-01 00:15:04,Pull unmarked garment from pile,Quality inspection,factory_004,worker_002
+2000-01-01 00:15:04,2000-01-01 00:15:46,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:15:46,2000-01-01 00:15:49,Stack folded garment on table,Garment folding,factory_004,worker_002
+2000-01-01 00:15:49,2000-01-01 00:15:52,Pull unmarked garment from pile,Quality inspection,factory_004,worker_002
+2000-01-01 00:15:52,2000-01-01 00:16:05,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:16:05,2000-01-01 00:16:09,Stack folded garment on table,Garment folding,factory_004,worker_002
+2000-01-01 00:16:09,2000-01-01 00:16:11,Pull unmarked garment from pile,Quality inspection,factory_004,worker_002
+2000-01-01 00:16:11,2000-01-01 00:16:25,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:16:25,2000-01-01 00:16:29,Stack folded garment on table,Garment folding,factory_004,worker_002
+2000-01-01 00:16:29,2000-01-01 00:16:32,Pull unmarked garment from pile,Quality inspection,factory_004,worker_002
+2000-01-01 00:16:32,2000-01-01 00:16:58,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:16:58,2000-01-01 00:17:02,Stack folded garment on table,Garment folding,factory_004,worker_002
+2000-01-01 00:17:02,2000-01-01 00:17:05,Pull unmarked garment from pile,Quality inspection,factory_004,worker_002
+2000-01-01 00:17:05,2000-01-01 00:17:35,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:17:35,2000-01-01 00:17:39,Stack folded garment on table,Garment folding,factory_004,worker_002
+2000-01-01 00:17:39,2000-01-01 00:17:42,Pull unmarked garment from pile,Quality inspection,factory_004,worker_002
+2000-01-01 00:17:42,2000-01-01 00:17:55,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:17:55,2000-01-01 00:17:59,Stack folded garment on table,Garment folding,factory_004,worker_002
+2000-01-01 00:17:59,2000-01-01 00:18:03,Pull unmarked garment from pile,Quality inspection,factory_004,worker_002
+2000-01-01 00:18:03,2000-01-01 00:18:15,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:18:15,2000-01-01 00:18:18,Stack folded garment on table,Garment folding,factory_004,worker_002
+2000-01-01 00:18:18,2000-01-01 00:18:22,Pull unmarked garment from pile,Quality inspection,factory_004,worker_002
+2000-01-01 00:18:22,2000-01-01 00:18:39,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:18:39,2000-01-01 00:18:43,Stack folded garment on table,Garment folding,factory_004,worker_002
+2000-01-01 00:18:43,2000-01-01 00:18:46,Pull unmarked garment from pile,Quality inspection,factory_004,worker_002
+2000-01-01 00:18:46,2000-01-01 00:18:56,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:18:56,2000-01-01 00:19:00,Stack folded garment on table,Garment folding,factory_004,worker_002
+2000-01-01 00:19:00,2000-01-01 00:19:04,Pull unmarked garment from pile,Quality inspection,factory_004,worker_002
+2000-01-01 00:19:04,2000-01-01 00:19:25,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:19:25,2000-01-01 00:19:28,Stack folded garment on table,Garment folding,factory_004,worker_002
+2000-01-01 00:19:28,2000-01-01 00:19:32,Pull unmarked garment from pile,Quality inspection,factory_004,worker_002
+2000-01-01 00:19:32,2000-01-01 00:19:54,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:19:54,2000-01-01 00:20:00,Stack folded garment on table,Garment folding,factory_004,worker_002

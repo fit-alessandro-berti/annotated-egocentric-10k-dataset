@@ -1,0 +1,32 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:34,scrape component surface with metal tool,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:00:34,2000-01-01 00:00:50,blow debris with compressed air gun,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:00:50,2000-01-01 00:00:54,scoop loose parts from bulk bin,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:00:54,2000-01-01 00:05:20,scrape component surface with metal tool,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:05:32,2000-01-01 00:05:36,blow debris with compressed air gun,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:05:36,2000-01-01 00:06:47,apply paste with brush,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:06:47,2000-01-01 00:07:36,wipe excess paste with cloth,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:07:36,2000-01-01 00:08:32,bind assembled components with rubber bands,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:08:32,2000-01-01 00:08:48,blow debris with compressed air gun,Material sorting and sifting,factory_003,worker_006
+2000-01-01 00:08:48,2000-01-01 00:09:09,wipe excess paste with cloth,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:09:09,2000-01-01 00:09:15,sift debris through perforated metal screen,Material sorting and sifting,factory_003,worker_006
+2000-01-01 00:09:15,2000-01-01 00:10:03,apply paste with brush,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:10:03,2000-01-01 00:11:10,wipe excess paste with cloth,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:11:10,2000-01-01 00:11:34,sift debris through perforated metal screen,Material sorting and sifting,factory_003,worker_006
+2000-01-01 00:11:34,2000-01-01 00:12:11,bind assembled components with rubber bands,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:12:11,2000-01-01 00:12:21,blow debris with compressed air gun,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:12:21,2000-01-01 00:12:49,bind assembled components with rubber bands,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:12:49,2000-01-01 00:13:00,sift debris through perforated metal screen,Material sorting and sifting,factory_003,worker_006
+2000-01-01 00:13:00,2000-01-01 00:13:42,wipe excess paste with cloth,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:13:42,2000-01-01 00:13:46,sift debris through perforated metal screen,Material sorting and sifting,factory_003,worker_006
+2000-01-01 00:13:46,2000-01-01 00:14:17,apply paste with brush,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:14:17,2000-01-01 00:14:47,wipe excess paste with cloth,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:14:47,2000-01-01 00:15:17,apply paste with brush,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:15:17,2000-01-01 00:15:47,wipe excess paste with cloth,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:15:47,2000-01-01 00:15:52,sift debris through perforated metal screen,Material sorting and sifting,factory_003,worker_006
+2000-01-01 00:15:52,2000-01-01 00:16:16,bind assembled components with rubber bands,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:16:16,2000-01-01 00:16:21,sift debris through perforated metal screen,Material sorting and sifting,factory_003,worker_006
+2000-01-01 00:16:21,2000-01-01 00:16:44,apply paste with brush,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:16:44,2000-01-01 00:17:07,wipe excess paste with cloth,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:17:07,2000-01-01 00:17:10,blow debris with compressed air gun,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:17:10,2000-01-01 00:20:00,scrape component surface with metal tool,Wax pattern assembly,factory_003,worker_006

@@ -1,0 +1,107 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:15,activate hydraulic press via control panel,Compression molding,factory_006,worker_005
+2000-01-01 00:00:30,2000-01-01 00:00:42,scoop raw powder into bottom mold half,Compression molding,factory_006,worker_005
+2000-01-01 00:00:42,2000-01-01 00:00:54,assemble top and bottom mold halves,Compression molding,factory_006,worker_005
+2000-01-01 00:00:54,2000-01-01 00:01:03,load assembled mold into hydraulic press,Compression molding,factory_006,worker_005
+2000-01-01 00:01:03,2000-01-01 00:01:16,activate hydraulic press via control panel,Compression molding,factory_006,worker_005
+2000-01-01 00:01:16,2000-01-01 00:01:23,blow debris from mold cavities with air gun,Machine cleaning and maintenance,factory_006,worker_005
+2000-01-01 00:01:23,2000-01-01 00:01:48,strike inverted mold to eject compressed block,Compression molding,factory_006,worker_005
+2000-01-01 00:01:48,2000-01-01 00:01:57,activate hydraulic press via control panel,Compression molding,factory_006,worker_005
+2000-01-01 00:01:57,2000-01-01 00:02:04,scoop raw powder into bottom mold half,Compression molding,factory_006,worker_005
+2000-01-01 00:02:04,2000-01-01 00:02:08,assemble top and bottom mold halves,Compression molding,factory_006,worker_005
+2000-01-01 00:02:08,2000-01-01 00:02:11,load assembled mold into hydraulic press,Compression molding,factory_006,worker_005
+2000-01-01 00:02:11,2000-01-01 00:02:14,strike inverted mold to eject compressed block,Compression molding,factory_006,worker_005
+2000-01-01 00:02:14,2000-01-01 00:02:19,blow debris from mold cavities with air gun,Machine cleaning and maintenance,factory_006,worker_005
+2000-01-01 00:02:19,2000-01-01 00:02:28,scoop raw powder into bottom mold half,Compression molding,factory_006,worker_005
+2000-01-01 00:02:28,2000-01-01 00:02:34,assemble top and bottom mold halves,Compression molding,factory_006,worker_005
+2000-01-01 00:02:34,2000-01-01 00:02:39,load assembled mold into hydraulic press,Compression molding,factory_006,worker_005
+2000-01-01 00:02:39,2000-01-01 00:02:44,activate hydraulic press via control panel,Compression molding,factory_006,worker_005
+2000-01-01 00:02:47,2000-01-01 00:02:55,activate hydraulic press via control panel,Compression molding,factory_006,worker_005
+2000-01-01 00:02:55,2000-01-01 00:03:02,blow debris from mold cavities with air gun,Machine cleaning and maintenance,factory_006,worker_005
+2000-01-01 00:03:02,2000-01-01 00:03:09,load assembled mold into hydraulic press,Compression molding,factory_006,worker_005
+2000-01-01 00:03:09,2000-01-01 00:03:16,blow debris from mold cavities with air gun,Machine cleaning and maintenance,factory_006,worker_005
+2000-01-01 00:03:16,2000-01-01 00:03:22,activate hydraulic press via control panel,Compression molding,factory_006,worker_005
+2000-01-01 00:03:22,2000-01-01 00:03:33,strike inverted mold to eject compressed block,Compression molding,factory_006,worker_005
+2000-01-01 00:03:33,2000-01-01 00:03:46,scoop raw powder into bottom mold half,Compression molding,factory_006,worker_005
+2000-01-01 00:03:46,2000-01-01 00:03:54,assemble top and bottom mold halves,Compression molding,factory_006,worker_005
+2000-01-01 00:03:54,2000-01-01 00:04:01,load assembled mold into hydraulic press,Compression molding,factory_006,worker_005
+2000-01-01 00:04:01,2000-01-01 00:04:08,activate hydraulic press via control panel,Compression molding,factory_006,worker_005
+2000-01-01 00:04:08,2000-01-01 00:04:18,activate hydraulic press via control panel,Compression molding,factory_006,worker_005
+2000-01-01 00:04:18,2000-01-01 00:04:25,blow debris from mold cavities with air gun,Machine cleaning and maintenance,factory_006,worker_005
+2000-01-01 00:04:25,2000-01-01 00:04:28,load assembled mold into hydraulic press,Compression molding,factory_006,worker_005
+2000-01-01 00:04:28,2000-01-01 00:04:32,activate hydraulic press via control panel,Compression molding,factory_006,worker_005
+2000-01-01 00:04:32,2000-01-01 00:04:40,blow debris from mold cavities with air gun,Machine cleaning and maintenance,factory_006,worker_005
+2000-01-01 00:04:40,2000-01-01 00:04:45,activate hydraulic press via control panel,Compression molding,factory_006,worker_005
+2000-01-01 00:04:45,2000-01-01 00:04:57,strike inverted mold to eject compressed block,Compression molding,factory_006,worker_005
+2000-01-01 00:04:57,2000-01-01 00:05:12,scoop raw powder into bottom mold half,Compression molding,factory_006,worker_005
+2000-01-01 00:05:12,2000-01-01 00:05:20,assemble top and bottom mold halves,Compression molding,factory_006,worker_005
+2000-01-01 00:05:20,2000-01-01 00:05:32,load assembled mold into hydraulic press,Compression molding,factory_006,worker_005
+2000-01-01 00:05:32,2000-01-01 00:05:50,activate hydraulic press via control panel,Compression molding,factory_006,worker_005
+2000-01-01 00:05:58,2000-01-01 00:06:06,blow debris from mold cavities with air gun,Machine cleaning and maintenance,factory_006,worker_005
+2000-01-01 00:06:06,2000-01-01 00:06:14,load assembled mold into hydraulic press,Compression molding,factory_006,worker_005
+2000-01-01 00:06:14,2000-01-01 00:06:26,activate hydraulic press via control panel,Compression molding,factory_006,worker_005
+2000-01-01 00:06:26,2000-01-01 00:06:38,strike inverted mold to eject compressed block,Compression molding,factory_006,worker_005
+2000-01-01 00:06:38,2000-01-01 00:06:52,scoop raw powder into bottom mold half,Compression molding,factory_006,worker_005
+2000-01-01 00:06:52,2000-01-01 00:07:00,assemble top and bottom mold halves,Compression molding,factory_006,worker_005
+2000-01-01 00:07:00,2000-01-01 00:07:12,load assembled mold into hydraulic press,Compression molding,factory_006,worker_005
+2000-01-01 00:07:12,2000-01-01 00:07:23,activate hydraulic press via control panel,Compression molding,factory_006,worker_005
+2000-01-01 00:07:23,2000-01-01 00:07:34,activate hydraulic press via control panel,Compression molding,factory_006,worker_005
+2000-01-01 00:07:34,2000-01-01 00:07:44,blow debris from mold cavities with air gun,Machine cleaning and maintenance,factory_006,worker_005
+2000-01-01 00:07:44,2000-01-01 00:07:51,load assembled mold into hydraulic press,Compression molding,factory_006,worker_005
+2000-01-01 00:07:51,2000-01-01 00:08:04,strike inverted mold to eject compressed block,Compression molding,factory_006,worker_005
+2000-01-01 00:08:04,2000-01-01 00:08:11,activate hydraulic press via control panel,Compression molding,factory_006,worker_005
+2000-01-01 00:08:11,2000-01-01 00:08:18,blow debris from mold cavities with air gun,Machine cleaning and maintenance,factory_006,worker_005
+2000-01-01 00:08:18,2000-01-01 00:08:30,scoop raw powder into bottom mold half,Compression molding,factory_006,worker_005
+2000-01-01 00:08:30,2000-01-01 00:08:35,assemble top and bottom mold halves,Compression molding,factory_006,worker_005
+2000-01-01 00:08:35,2000-01-01 00:08:40,load assembled mold into hydraulic press,Compression molding,factory_006,worker_005
+2000-01-01 00:08:40,2000-01-01 00:08:49,strike inverted mold to eject compressed block,Compression molding,factory_006,worker_005
+2000-01-01 00:08:49,2000-01-01 00:08:54,scoop raw powder into bottom mold half,Compression molding,factory_006,worker_005
+2000-01-01 00:08:54,2000-01-01 00:08:57,assemble top and bottom mold halves,Compression molding,factory_006,worker_005
+2000-01-01 00:08:57,2000-01-01 00:09:00,load assembled mold into hydraulic press,Compression molding,factory_006,worker_005
+2000-01-01 00:09:07,2000-01-01 00:09:15,blow debris from mold cavities with air gun,Machine cleaning and maintenance,factory_006,worker_005
+2000-01-01 00:09:15,2000-01-01 00:09:20,load assembled mold into hydraulic press,Compression molding,factory_006,worker_005
+2000-01-01 00:09:20,2000-01-01 00:09:28,strike inverted mold to eject compressed block,Compression molding,factory_006,worker_005
+2000-01-01 00:09:35,2000-01-01 00:09:47,scoop raw powder into bottom mold half,Compression molding,factory_006,worker_005
+2000-01-01 00:09:47,2000-01-01 00:09:55,assemble top and bottom mold halves,Compression molding,factory_006,worker_005
+2000-01-01 00:09:55,2000-01-01 00:10:05,load assembled mold into hydraulic press,Compression molding,factory_006,worker_005
+2000-01-01 00:10:05,2000-01-01 00:10:13,strike inverted mold to eject compressed block,Compression molding,factory_006,worker_005
+2000-01-01 00:10:13,2000-01-01 00:10:25,activate hydraulic press via control panel,Compression molding,factory_006,worker_005
+2000-01-01 00:10:33,2000-01-01 00:10:43,blow debris from mold cavities with air gun,Machine cleaning and maintenance,factory_006,worker_005
+2000-01-01 00:10:43,2000-01-01 00:10:50,load assembled mold into hydraulic press,Compression molding,factory_006,worker_005
+2000-01-01 00:10:55,2000-01-01 00:11:07,scoop raw powder into bottom mold half,Compression molding,factory_006,worker_005
+2000-01-01 00:11:07,2000-01-01 00:11:14,assemble top and bottom mold halves,Compression molding,factory_006,worker_005
+2000-01-01 00:11:14,2000-01-01 00:11:20,activate hydraulic press via control panel,Compression molding,factory_006,worker_005
+2000-01-01 00:11:20,2000-01-01 00:11:30,strike inverted mold to eject compressed block,Compression molding,factory_006,worker_005
+2000-01-01 00:11:30,2000-01-01 00:11:39,scoop raw powder into bottom mold half,Compression molding,factory_006,worker_005
+2000-01-01 00:11:39,2000-01-01 00:11:45,assemble top and bottom mold halves,Compression molding,factory_006,worker_005
+2000-01-01 00:11:45,2000-01-01 00:11:50,load assembled mold into hydraulic press,Compression molding,factory_006,worker_005
+2000-01-01 00:11:50,2000-01-01 00:11:58,activate hydraulic press via control panel,Compression molding,factory_006,worker_005
+2000-01-01 00:11:58,2000-01-01 00:12:08,blow debris from mold cavities with air gun,Machine cleaning and maintenance,factory_006,worker_005
+2000-01-01 00:12:08,2000-01-01 00:12:16,load assembled mold into hydraulic press,Compression molding,factory_006,worker_005
+2000-01-01 00:12:16,2000-01-01 00:12:30,activate hydraulic press via control panel,Compression molding,factory_006,worker_005
+2000-01-01 00:12:30,2000-01-01 00:12:37,activate hydraulic press via control panel,Compression molding,factory_006,worker_005
+2000-01-01 00:12:37,2000-01-01 00:12:40,blow debris from mold cavities with air gun,Machine cleaning and maintenance,factory_006,worker_005
+2000-01-01 00:12:40,2000-01-01 00:12:44,load assembled mold into hydraulic press,Compression molding,factory_006,worker_005
+2000-01-01 00:12:44,2000-01-01 00:12:51,strike inverted mold to eject compressed block,Compression molding,factory_006,worker_005
+2000-01-01 00:12:51,2000-01-01 00:12:58,scoop raw powder into bottom mold half,Compression molding,factory_006,worker_005
+2000-01-01 00:12:58,2000-01-01 00:13:02,assemble top and bottom mold halves,Compression molding,factory_006,worker_005
+2000-01-01 00:13:02,2000-01-01 00:13:05,blow debris from mold cavities with air gun,Machine cleaning and maintenance,factory_006,worker_005
+2000-01-01 00:13:05,2000-01-01 00:13:08,load assembled mold into hydraulic press,Compression molding,factory_006,worker_005
+2000-01-01 00:13:21,2000-01-01 00:13:34,blow debris from mold cavities with air gun,Machine cleaning and maintenance,factory_006,worker_005
+2000-01-01 00:13:34,2000-01-01 00:13:39,load assembled mold into hydraulic press,Compression molding,factory_006,worker_005
+2000-01-01 00:13:39,2000-01-01 00:13:46,strike inverted mold to eject compressed block,Compression molding,factory_006,worker_005
+2000-01-01 00:13:46,2000-01-01 00:13:51,blow debris from mold cavities with air gun,Machine cleaning and maintenance,factory_006,worker_005
+2000-01-01 00:13:51,2000-01-01 00:13:56,load assembled mold into hydraulic press,Compression molding,factory_006,worker_005
+2000-01-01 00:14:26,2000-01-01 00:14:43,adjust machine bolt with wrench,Machine cleaning and maintenance,factory_006,worker_005
+2000-01-01 00:14:50,2000-01-01 00:15:23,mix wet and dry powders in large barrel,Raw material mixing,factory_006,worker_005
+2000-01-01 00:15:23,2000-01-01 00:15:33,grind molded edge against spinning wheel,Part mechanical modification,factory_006,worker_005
+2000-01-01 00:15:33,2000-01-01 00:15:53,adjust machine bolt with wrench,Machine cleaning and maintenance,factory_006,worker_005
+2000-01-01 00:15:53,2000-01-01 00:16:03,load assembled mold into hydraulic press,Compression molding,factory_006,worker_005
+2000-01-01 00:16:03,2000-01-01 00:16:13,activate hydraulic press via control panel,Compression molding,factory_006,worker_005
+2000-01-01 00:16:13,2000-01-01 00:16:24,mix wet and dry powders in large barrel,Raw material mixing,factory_006,worker_005
+2000-01-01 00:16:24,2000-01-01 00:16:28,pour liquid into mixing vat,Raw material mixing,factory_006,worker_005
+2000-01-01 00:16:28,2000-01-01 00:17:05,mix wet and dry powders in large barrel,Raw material mixing,factory_006,worker_005
+2000-01-01 00:17:21,2000-01-01 00:18:55,mix wet and dry powders in large barrel,Raw material mixing,factory_006,worker_005
+2000-01-01 00:18:55,2000-01-01 00:19:12,shovel spilled sand from floor,Workspace clearing,factory_006,worker_005
+2000-01-01 00:19:12,2000-01-01 00:19:35,mix wet and dry powders in large barrel,Raw material mixing,factory_006,worker_005
+2000-01-01 00:19:35,2000-01-01 00:20:01,refill rear press hopper with granular material,Compression molding,factory_006,worker_005

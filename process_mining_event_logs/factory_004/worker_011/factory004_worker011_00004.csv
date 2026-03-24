@@ -1,0 +1,26 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:22,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011
+2000-01-01 00:00:22,2000-01-01 00:00:31,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011
+2000-01-01 00:00:31,2000-01-01 00:02:26,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011
+2000-01-01 00:02:26,2000-01-01 00:02:36,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011
+2000-01-01 00:02:36,2000-01-01 00:05:38,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011
+2000-01-01 00:05:38,2000-01-01 00:05:45,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011
+2000-01-01 00:05:45,2000-01-01 00:06:51,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011
+2000-01-01 00:06:51,2000-01-01 00:07:11,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011
+2000-01-01 00:07:11,2000-01-01 00:07:34,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011
+2000-01-01 00:07:34,2000-01-01 00:07:44,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011
+2000-01-01 00:07:44,2000-01-01 00:08:37,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011
+2000-01-01 00:08:37,2000-01-01 00:08:51,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011
+2000-01-01 00:08:51,2000-01-01 00:10:05,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011
+2000-01-01 00:10:05,2000-01-01 00:10:31,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011
+2000-01-01 00:10:31,2000-01-01 00:11:21,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011
+2000-01-01 00:11:21,2000-01-01 00:11:29,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011
+2000-01-01 00:11:29,2000-01-01 00:11:42,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011
+2000-01-01 00:11:42,2000-01-01 00:12:05,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011
+2000-01-01 00:12:05,2000-01-01 00:13:46,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011
+2000-01-01 00:13:46,2000-01-01 00:13:55,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011
+2000-01-01 00:13:55,2000-01-01 00:15:37,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011
+2000-01-01 00:15:37,2000-01-01 00:15:51,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011
+2000-01-01 00:15:51,2000-01-01 00:17:01,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011
+2000-01-01 00:17:01,2000-01-01 00:17:09,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011
+2000-01-01 00:17:09,2000-01-01 00:19:51,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011

@@ -1,0 +1,30 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:10,transfer fabric stack to floor board,Material transport,factory_002,worker_006
+2000-01-01 00:00:10,2000-01-01 00:00:43,enclose garment in pre-printed cardboard folder,Cardboard wrapping,factory_002,worker_006
+2000-01-01 00:00:58,2000-01-01 00:01:21,transfer fabric stack to floor board,Material transport,factory_002,worker_006
+2000-01-01 00:01:21,2000-01-01 00:04:00,enclose garment in pre-printed cardboard folder,Cardboard wrapping,factory_002,worker_006
+2000-01-01 00:04:13,2000-01-01 00:05:25,enclose garment in pre-printed cardboard folder,Cardboard wrapping,factory_002,worker_006
+2000-01-01 00:05:25,2000-01-01 00:05:39,transfer packaged stacks into wire-mesh cage cart,Cart loading,factory_002,worker_006
+2000-01-01 00:05:39,2000-01-01 00:06:11,enclose garment in pre-printed cardboard folder,Cardboard wrapping,factory_002,worker_006
+2000-01-01 00:06:16,2000-01-01 00:06:48,transfer packaged stacks into wire-mesh cage cart,Cart loading,factory_002,worker_006
+2000-01-01 00:06:48,2000-01-01 00:07:08,push loaded cage cart through factory aisle,Material transport,factory_002,worker_006
+2000-01-01 00:07:34,2000-01-01 00:07:54,transfer fabric stack to floor board,Material transport,factory_002,worker_006
+2000-01-01 00:07:54,2000-01-01 00:08:31,enclose garment in pre-printed cardboard folder,Cardboard wrapping,factory_002,worker_006
+2000-01-01 00:08:31,2000-01-01 00:08:42,transfer packaged stacks into wire-mesh cage cart,Cart loading,factory_002,worker_006
+2000-01-01 00:08:42,2000-01-01 00:09:20,enclose garment in pre-printed cardboard folder,Cardboard wrapping,factory_002,worker_006
+2000-01-01 00:09:20,2000-01-01 00:11:28,transfer packaged stacks into wire-mesh cage cart,Cart loading,factory_002,worker_006
+2000-01-01 00:11:28,2000-01-01 00:11:51,push loaded cage cart through factory aisle,Material transport,factory_002,worker_006
+2000-01-01 00:13:02,2000-01-01 00:13:30,drop packaged garments into bulk box,Box packing,factory_002,worker_006
+2000-01-01 00:13:30,2000-01-01 00:13:43,tape bottom box flaps with handheld dispenser,Box sealing,factory_002,worker_006
+2000-01-01 00:13:43,2000-01-01 00:13:58,fold bottom flaps of empty cardboard box,Box assembly,factory_002,worker_006
+2000-01-01 00:13:58,2000-01-01 00:14:14,tape bottom box flaps with handheld dispenser,Box assembly,factory_002,worker_006
+2000-01-01 00:14:14,2000-01-01 00:15:44,drop packaged garments into bulk box,Box packing,factory_002,worker_006
+2000-01-01 00:15:44,2000-01-01 00:16:21,tape bottom box flaps with handheld dispenser,Box sealing,factory_002,worker_006
+2000-01-01 00:16:21,2000-01-01 00:16:34,fold bottom flaps of empty cardboard box,Box assembly,factory_002,worker_006
+2000-01-01 00:16:34,2000-01-01 00:16:47,tape bottom box flaps with handheld dispenser,Box assembly,factory_002,worker_006
+2000-01-01 00:16:47,2000-01-01 00:17:50,drop packaged garments into bulk box,Box packing,factory_002,worker_006
+2000-01-01 00:17:50,2000-01-01 00:18:22,tape bottom box flaps with handheld dispenser,Box sealing,factory_002,worker_006
+2000-01-01 00:18:22,2000-01-01 00:18:39,fold bottom flaps of empty cardboard box,Box assembly,factory_002,worker_006
+2000-01-01 00:18:39,2000-01-01 00:18:56,tape bottom box flaps with handheld dispenser,Box assembly,factory_002,worker_006
+2000-01-01 00:18:56,2000-01-01 00:19:40,drop packaged garments into bulk box,Box packing,factory_002,worker_006
+2000-01-01 00:19:40,2000-01-01 00:20:00,tape bottom box flaps with handheld dispenser,Box sealing,factory_002,worker_006

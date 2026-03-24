@@ -1,0 +1,11 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:10,press copper windings into tight pack,semi-automatic stator wire insertion,factory_005,worker_001
+2000-01-01 00:00:10,2000-01-01 00:00:14,unload wound stator from machine,semi-automatic stator wire insertion,factory_005,worker_001
+2000-01-01 00:00:17,2000-01-01 00:00:22,slide stator core onto winding machine shaft,automated stator winding,factory_005,worker_001
+2000-01-01 00:00:22,2000-01-01 00:00:32,thread copper wire into stator fixture,automated stator winding,factory_005,worker_001
+2000-01-01 00:00:32,2000-01-01 00:00:35,unload wound stator from machine,automated stator winding,factory_005,worker_001
+2000-01-01 00:00:38,2000-01-01 00:00:41,slide stator core onto winding machine shaft,semi-automatic stator wire insertion,factory_005,worker_001
+2000-01-01 00:00:41,2000-01-01 00:00:43,thread copper wire into stator fixture,semi-automatic stator wire insertion,factory_005,worker_001
+2000-01-01 00:00:43,2000-01-01 00:01:06,pack twisted wire loops into stator slots,semi-automatic stator wire insertion,factory_005,worker_001
+2000-01-01 00:01:06,2000-01-01 00:01:09,unload wound stator from machine,semi-automatic stator wire insertion,factory_005,worker_001
+2000-01-01 00:01:10,2000-01-01 00:01:12,trim excess wire with scissors,semi-automatic stator wire insertion,factory_005,worker_001

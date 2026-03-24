@@ -1,0 +1,16 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:30,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_006
+2000-01-01 00:00:30,2000-01-01 00:01:17,apply paste with brush,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:01:46,2000-01-01 00:02:59,apply paste with brush,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:02:59,2000-01-01 00:03:08,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_006
+2000-01-01 00:03:18,2000-01-01 00:03:32,retrieve raw material from floor-level box,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:03:32,2000-01-01 00:03:40,blow debris with compressed air gun,Surface finishing and polishing,factory_003,worker_006
+2000-01-01 00:03:40,2000-01-01 00:04:31,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_006
+2000-01-01 00:04:31,2000-01-01 00:05:21,file component edges,Surface finishing and polishing,factory_003,worker_006
+2000-01-01 00:05:26,2000-01-01 00:07:22,file component edges,Surface finishing and polishing,factory_003,worker_006
+2000-01-01 00:07:22,2000-01-01 00:08:29,insert wooden peg into base slot,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:08:38,2000-01-01 00:13:14,insert wooden peg into base slot,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:13:21,2000-01-01 00:13:29,blow debris with compressed air gun,Surface finishing and polishing,factory_003,worker_006
+2000-01-01 00:13:29,2000-01-01 00:16:33,insert wooden peg into base slot,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:16:47,2000-01-01 00:18:18,insert wooden peg into base slot,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:18:39,2000-01-01 00:20:00,insert wooden peg into base slot,Wax pattern assembly,factory_003,worker_006

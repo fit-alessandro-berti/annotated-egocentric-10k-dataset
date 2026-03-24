@@ -1,0 +1,25 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:01:28,Sew long straight seam,Curvilinear seam joining,factory_004,worker_003
+2000-01-01 00:01:34,2000-01-01 00:02:51,Sew long straight seam,Curvilinear seam joining,factory_004,worker_003
+2000-01-01 00:02:51,2000-01-01 00:03:00,Drag thick fabric bundle across table,Material transport,factory_004,worker_003
+2000-01-01 00:03:00,2000-01-01 00:04:38,Sew long straight seam,Curvilinear seam joining,factory_004,worker_003
+2000-01-01 00:05:01,2000-01-01 00:07:21,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:07:21,2000-01-01 00:07:29,Adjust machine thread tensioner,Machine maintenance,factory_004,worker_003
+2000-01-01 00:07:29,2000-01-01 00:07:35,Drag thick fabric bundle across table,Material transport,factory_004,worker_003
+2000-01-01 00:07:35,2000-01-01 00:08:39,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:08:39,2000-01-01 00:08:46,Drag thick fabric bundle across table,Material transport,factory_004,worker_003
+2000-01-01 00:08:46,2000-01-01 00:09:37,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:09:37,2000-01-01 00:09:44,Drag thick fabric bundle across table,Material transport,factory_004,worker_003
+2000-01-01 00:09:44,2000-01-01 00:11:47,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:11:47,2000-01-01 00:12:00,Adjust machine thread tensioner,Machine maintenance,factory_004,worker_003
+2000-01-01 00:12:00,2000-01-01 00:12:47,Retrieve thread from central supply table,Material transport,factory_004,worker_003
+2000-01-01 00:12:47,2000-01-01 00:12:53,Replace depleted thread cone,Machine maintenance,factory_004,worker_003
+2000-01-01 00:12:53,2000-01-01 00:13:25,Thread overlock machine using tweezers,Machine maintenance,factory_004,worker_003
+2000-01-01 00:13:25,2000-01-01 00:16:48,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:16:53,2000-01-01 00:18:13,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:18:13,2000-01-01 00:18:18,Drag thick fabric bundle across table,Material transport,factory_004,worker_003
+2000-01-01 00:18:18,2000-01-01 00:18:22,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:18:22,2000-01-01 00:18:56,Retrieve thread from central supply table,Material transport,factory_004,worker_003
+2000-01-01 00:18:56,2000-01-01 00:19:02,Replace depleted thread cone,Machine maintenance,factory_004,worker_003
+2000-01-01 00:19:02,2000-01-01 00:19:30,Thread overlock machine using tweezers,Machine maintenance,factory_004,worker_003
+2000-01-01 00:19:30,2000-01-01 00:20:00,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_003

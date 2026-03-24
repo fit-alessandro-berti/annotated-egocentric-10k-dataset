@@ -1,0 +1,72 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:19,pull drill press side lever,drill press machining,factory_005,worker_008
+2000-01-01 00:00:19,2000-01-01 00:00:30,arrange parts manually inside deep wire mesh bin,part sorting and staging,factory_005,worker_008
+2000-01-01 00:00:30,2000-01-01 00:00:54,pull drill press side lever,drill press machining,factory_005,worker_008
+2000-01-01 00:00:54,2000-01-01 00:01:03,arrange parts manually inside deep wire mesh bin,part sorting and staging,factory_005,worker_008
+2000-01-01 00:01:03,2000-01-01 00:01:28,pull drill press side lever,drill press machining,factory_005,worker_008
+2000-01-01 00:01:28,2000-01-01 00:01:47,arrange parts manually inside deep wire mesh bin,part sorting and staging,factory_005,worker_008
+2000-01-01 00:01:47,2000-01-01 00:02:14,pull drill press side lever,drill press machining,factory_005,worker_008
+2000-01-01 00:02:14,2000-01-01 00:02:29,arrange parts manually inside deep wire mesh bin,part sorting and staging,factory_005,worker_008
+2000-01-01 00:02:29,2000-01-01 00:02:52,pull drill press side lever,drill press machining,factory_005,worker_008
+2000-01-01 00:02:52,2000-01-01 00:03:05,thread metal bar through raw casting center holes,material transport and logistics,factory_005,worker_008
+2000-01-01 00:03:05,2000-01-01 00:03:31,carry heavy stack of castings by hand,material transport and logistics,factory_005,worker_008
+2000-01-01 00:03:31,2000-01-01 00:03:38,thread metal bar through raw casting center holes,material transport and logistics,factory_005,worker_008
+2000-01-01 00:03:38,2000-01-01 00:03:55,carry heavy stack of castings by hand,material transport and logistics,factory_005,worker_008
+2000-01-01 00:03:55,2000-01-01 00:04:49,pull drill press side lever,drill press machining,factory_005,worker_008
+2000-01-01 00:04:49,2000-01-01 00:05:02,arrange parts manually inside deep wire mesh bin,part sorting and staging,factory_005,worker_008
+2000-01-01 00:05:27,2000-01-01 00:05:57,pull drill press side lever,drill press machining,factory_005,worker_008
+2000-01-01 00:05:57,2000-01-01 00:06:08,arrange parts manually inside deep wire mesh bin,part sorting and staging,factory_005,worker_008
+2000-01-01 00:06:47,2000-01-01 00:07:13,pull drill press side lever,drill press machining,factory_005,worker_008
+2000-01-01 00:07:13,2000-01-01 00:07:20,arrange parts manually inside deep wire mesh bin,part sorting and staging,factory_005,worker_008
+2000-01-01 00:07:20,2000-01-01 00:07:52,pull drill press side lever,drill press machining,factory_005,worker_008
+2000-01-01 00:07:52,2000-01-01 00:08:00,arrange parts manually inside deep wire mesh bin,part sorting and staging,factory_005,worker_008
+2000-01-01 00:08:10,2000-01-01 00:08:26,pull drill press side lever,drill press machining,factory_005,worker_008
+2000-01-01 00:08:26,2000-01-01 00:08:35,arrange parts manually inside deep wire mesh bin,part sorting and staging,factory_005,worker_008
+2000-01-01 00:08:40,2000-01-01 00:08:50,thread metal bar through raw casting center holes,material transport and logistics,factory_005,worker_008
+2000-01-01 00:08:50,2000-01-01 00:09:12,carry heavy stack of castings by hand,material transport and logistics,factory_005,worker_008
+2000-01-01 00:09:15,2000-01-01 00:09:40,pull drill press side lever,drill press machining,factory_005,worker_008
+2000-01-01 00:09:40,2000-01-01 00:09:52,sweep metal shavings off adjacent grinder table,component deburring and polishing,factory_005,worker_008
+2000-01-01 00:10:04,2000-01-01 00:10:48,pull drill press side lever,drill press machining,factory_005,worker_008
+2000-01-01 00:10:48,2000-01-01 00:10:56,arrange parts manually inside deep wire mesh bin,part sorting and staging,factory_005,worker_008
+2000-01-01 00:10:58,2000-01-01 00:11:03,sweep metal shavings off adjacent grinder table,component deburring and polishing,factory_005,worker_008
+2000-01-01 00:11:10,2000-01-01 00:11:28,pull drill press side lever,drill press machining,factory_005,worker_008
+2000-01-01 00:11:28,2000-01-01 00:11:36,arrange parts manually inside deep wire mesh bin,part sorting and staging,factory_005,worker_008
+2000-01-01 00:11:40,2000-01-01 00:11:49,thread metal bar through raw casting center holes,material transport and logistics,factory_005,worker_008
+2000-01-01 00:11:49,2000-01-01 00:12:04,carry heavy stack of castings by hand,material transport and logistics,factory_005,worker_008
+2000-01-01 00:12:08,2000-01-01 00:12:38,pull drill press side lever,drill press machining,factory_005,worker_008
+2000-01-01 00:12:38,2000-01-01 00:12:48,arrange parts manually inside deep wire mesh bin,part sorting and staging,factory_005,worker_008
+2000-01-01 00:12:56,2000-01-01 00:13:08,sweep metal shavings off adjacent grinder table,component deburring and polishing,factory_005,worker_008
+2000-01-01 00:13:18,2000-01-01 00:13:38,pull drill press side lever,drill press machining,factory_005,worker_008
+2000-01-01 00:13:38,2000-01-01 00:13:46,arrange parts manually inside deep wire mesh bin,part sorting and staging,factory_005,worker_008
+2000-01-01 00:13:50,2000-01-01 00:13:58,sweep metal shavings off adjacent grinder table,component deburring and polishing,factory_005,worker_008
+2000-01-01 00:14:04,2000-01-01 00:14:14,pull drill press side lever,drill press machining,factory_005,worker_008
+2000-01-01 00:14:14,2000-01-01 00:14:22,arrange parts manually inside deep wire mesh bin,part sorting and staging,factory_005,worker_008
+2000-01-01 00:14:26,2000-01-01 00:14:34,sweep metal shavings off adjacent grinder table,component deburring and polishing,factory_005,worker_008
+2000-01-01 00:14:40,2000-01-01 00:14:50,pull drill press side lever,drill press machining,factory_005,worker_008
+2000-01-01 00:14:50,2000-01-01 00:14:58,arrange parts manually inside deep wire mesh bin,part sorting and staging,factory_005,worker_008
+2000-01-01 00:15:00,2000-01-01 00:15:08,sweep metal shavings off adjacent grinder table,component deburring and polishing,factory_005,worker_008
+2000-01-01 00:15:14,2000-01-01 00:15:23,pull drill press side lever,drill press machining,factory_005,worker_008
+2000-01-01 00:15:23,2000-01-01 00:15:31,arrange parts manually inside deep wire mesh bin,part sorting and staging,factory_005,worker_008
+2000-01-01 00:15:34,2000-01-01 00:15:42,sweep metal shavings off adjacent grinder table,component deburring and polishing,factory_005,worker_008
+2000-01-01 00:15:48,2000-01-01 00:15:57,pull drill press side lever,drill press machining,factory_005,worker_008
+2000-01-01 00:15:57,2000-01-01 00:16:03,arrange parts manually inside deep wire mesh bin,part sorting and staging,factory_005,worker_008
+2000-01-01 00:16:03,2000-01-01 00:16:13,thread metal bar through raw casting center holes,material transport and logistics,factory_005,worker_008
+2000-01-01 00:16:13,2000-01-01 00:16:24,carry heavy stack of castings by hand,material transport and logistics,factory_005,worker_008
+2000-01-01 00:16:30,2000-01-01 00:16:39,pull drill press side lever,drill press machining,factory_005,worker_008
+2000-01-01 00:16:39,2000-01-01 00:16:45,arrange parts manually inside deep wire mesh bin,part sorting and staging,factory_005,worker_008
+2000-01-01 00:16:45,2000-01-01 00:16:55,sweep metal shavings off adjacent grinder table,component deburring and polishing,factory_005,worker_008
+2000-01-01 00:17:01,2000-01-01 00:17:10,pull drill press side lever,drill press machining,factory_005,worker_008
+2000-01-01 00:17:10,2000-01-01 00:17:18,arrange parts manually inside deep wire mesh bin,part sorting and staging,factory_005,worker_008
+2000-01-01 00:17:18,2000-01-01 00:17:28,sweep metal shavings off adjacent grinder table,component deburring and polishing,factory_005,worker_008
+2000-01-01 00:17:34,2000-01-01 00:17:44,pull drill press side lever,drill press machining,factory_005,worker_008
+2000-01-01 00:17:44,2000-01-01 00:17:53,arrange parts manually inside deep wire mesh bin,part sorting and staging,factory_005,worker_008
+2000-01-01 00:17:53,2000-01-01 00:18:04,sweep metal shavings off adjacent grinder table,component deburring and polishing,factory_005,worker_008
+2000-01-01 00:18:10,2000-01-01 00:18:22,pull drill press side lever,drill press machining,factory_005,worker_008
+2000-01-01 00:18:22,2000-01-01 00:18:33,arrange parts manually inside deep wire mesh bin,part sorting and staging,factory_005,worker_008
+2000-01-01 00:18:33,2000-01-01 00:18:44,thread metal bar through raw casting center holes,material transport and logistics,factory_005,worker_008
+2000-01-01 00:18:44,2000-01-01 00:18:56,carry heavy stack of castings by hand,material transport and logistics,factory_005,worker_008
+2000-01-01 00:19:00,2000-01-01 00:19:10,pull drill press side lever,drill press machining,factory_005,worker_008
+2000-01-01 00:19:10,2000-01-01 00:19:18,arrange parts manually inside deep wire mesh bin,part sorting and staging,factory_005,worker_008
+2000-01-01 00:19:18,2000-01-01 00:19:30,sweep metal shavings off adjacent grinder table,component deburring and polishing,factory_005,worker_008
+2000-01-01 00:19:36,2000-01-01 00:19:48,pull drill press side lever,drill press machining,factory_005,worker_008
+2000-01-01 00:19:48,2000-01-01 00:20:00,arrange parts manually inside deep wire mesh bin,part sorting and staging,factory_005,worker_008

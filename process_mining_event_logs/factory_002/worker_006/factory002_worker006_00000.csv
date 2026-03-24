@@ -1,0 +1,27 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:03:51,freehand fold t-shirt,Fabric folding,factory_002,worker_006
+2000-01-01 00:03:51,2000-01-01 00:04:04,transfer fabric stack to floor board,Material transport,factory_002,worker_006
+2000-01-01 00:04:21,2000-01-01 00:06:42,freehand fold t-shirt,Fabric folding,factory_002,worker_006
+2000-01-01 00:06:44,2000-01-01 00:06:51,freehand fold t-shirt,Fabric folding,factory_002,worker_006
+2000-01-01 00:07:15,2000-01-01 00:07:23,freehand fold t-shirt,Fabric folding,factory_002,worker_006
+2000-01-01 00:07:23,2000-01-01 00:08:05,freehand fold t-shirt,Fabric folding,factory_002,worker_006
+2000-01-01 00:08:26,2000-01-01 00:08:52,freehand fold t-shirt,Fabric folding,factory_002,worker_006
+2000-01-01 00:08:59,2000-01-01 00:09:05,freehand fold t-shirt,Fabric folding,factory_002,worker_006
+2000-01-01 00:11:21,2000-01-01 00:11:26,freehand fold t-shirt,Fabric folding,factory_002,worker_006
+2000-01-01 00:12:04,2000-01-01 00:12:15,transfer fabric stack to floor board,Material transport,factory_002,worker_006
+2000-01-01 00:12:19,2000-01-01 00:15:17,freehand fold t-shirt,Fabric folding,factory_002,worker_006
+2000-01-01 00:15:23,2000-01-01 00:15:37,freehand fold t-shirt,Fabric folding,factory_002,worker_006
+2000-01-01 00:15:37,2000-01-01 00:15:45,freehand fold t-shirt,Fabric folding,factory_002,worker_006
+2000-01-01 00:15:45,2000-01-01 00:16:07,freehand fold t-shirt,Fabric folding,factory_002,worker_006
+2000-01-01 00:16:07,2000-01-01 00:16:15,freehand fold t-shirt,Fabric folding,factory_002,worker_006
+2000-01-01 00:16:15,2000-01-01 00:16:34,freehand fold t-shirt,Fabric folding,factory_002,worker_006
+2000-01-01 00:16:43,2000-01-01 00:17:15,freehand fold t-shirt,Fabric folding,factory_002,worker_006
+2000-01-01 00:17:15,2000-01-01 00:17:24,freehand fold t-shirt,Fabric folding,factory_002,worker_006
+2000-01-01 00:17:35,2000-01-01 00:17:49,freehand fold t-shirt,Fabric folding,factory_002,worker_006
+2000-01-01 00:17:49,2000-01-01 00:18:00,transfer fabric stack to floor board,Material transport,factory_002,worker_006
+2000-01-01 00:18:03,2000-01-01 00:18:12,freehand fold t-shirt,Fabric folding,factory_002,worker_006
+2000-01-01 00:18:23,2000-01-01 00:18:28,freehand fold t-shirt,Fabric folding,factory_002,worker_006
+2000-01-01 00:18:35,2000-01-01 00:18:49,freehand fold t-shirt,Fabric folding,factory_002,worker_006
+2000-01-01 00:19:01,2000-01-01 00:19:08,freehand fold t-shirt,Fabric folding,factory_002,worker_006
+2000-01-01 00:19:26,2000-01-01 00:19:38,transfer fabric stack to floor board,Material transport,factory_002,worker_006
+2000-01-01 00:19:54,2000-01-01 00:20:00,transfer fabric stack to floor board,Material transport,factory_002,worker_006

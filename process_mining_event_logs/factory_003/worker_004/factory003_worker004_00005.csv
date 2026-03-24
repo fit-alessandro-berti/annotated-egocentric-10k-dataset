@@ -1,0 +1,8 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:07:23,apply paste with brush,Defect patching,factory_003,worker_004
+2000-01-01 00:07:28,2000-01-01 00:10:53,file component edges,Surface finishing and polishing,factory_003,worker_004
+2000-01-01 00:11:06,2000-01-01 00:11:13,file component edges,Surface finishing and polishing,factory_003,worker_004
+2000-01-01 00:11:19,2000-01-01 00:12:10,file component edges,Surface finishing and polishing,factory_003,worker_004
+2000-01-01 00:12:15,2000-01-01 00:14:05,file component edges,Surface finishing and polishing,factory_003,worker_004
+2000-01-01 00:14:13,2000-01-01 00:14:24,blow debris with compressed air gun,Surface finishing and polishing,factory_003,worker_004
+2000-01-01 00:14:28,2000-01-01 00:20:00,file component edges,Surface finishing and polishing,factory_003,worker_004

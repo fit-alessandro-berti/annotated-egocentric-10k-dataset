@@ -1,0 +1,15 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:01:03,sift dry powder mixture through wire mesh,Powder sifting,factory_006,worker_002
+2000-01-01 00:03:22,2000-01-01 00:04:15,sift dry powder mixture through wire mesh,Powder sifting,factory_006,worker_002
+2000-01-01 00:05:07,2000-01-01 00:07:18,pour liquid into mixing vat,Chemical dough mixing,factory_006,worker_002
+2000-01-01 00:08:24,2000-01-01 00:09:05,mix wet and dry powders in large barrel,Raw material mixing,factory_006,worker_002
+2000-01-01 00:09:05,2000-01-01 00:10:52,knead heavy dough with wooden paddle,Dough kneading,factory_006,worker_002
+2000-01-01 00:11:13,2000-01-01 00:11:28,carry bucket of dough up metal steps,Machine extrusion,factory_006,worker_002
+2000-01-01 00:11:28,2000-01-01 00:11:41,dump dough into extrusion machine hopper,Machine extrusion,factory_006,worker_002
+2000-01-01 00:12:05,2000-01-01 00:12:18,carry bucket of dough up metal steps,Machine extrusion,factory_006,worker_002
+2000-01-01 00:12:18,2000-01-01 00:12:30,dump dough into extrusion machine hopper,Machine extrusion,factory_006,worker_002
+2000-01-01 00:14:00,2000-01-01 00:14:38,blow debris from mold cavities with air gun,Machine cleaning and maintenance,factory_006,worker_002
+2000-01-01 00:15:37,2000-01-01 00:16:03,blow debris from mold cavities with air gun,Machine cleaning and maintenance,factory_006,worker_002
+2000-01-01 00:16:03,2000-01-01 00:16:35,grind molded edge against spinning wheel,Post-processing edge finishing,factory_006,worker_002
+2000-01-01 00:16:35,2000-01-01 00:16:40,activate hydraulic press via control panel,Compression molding,factory_006,worker_002
+2000-01-01 00:17:05,2000-01-01 00:19:50,stack molded assemblies into interlocking floor towers,Component staging and arrangement,factory_006,worker_002

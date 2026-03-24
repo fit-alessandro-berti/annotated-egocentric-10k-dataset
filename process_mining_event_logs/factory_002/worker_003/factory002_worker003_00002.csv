@@ -1,0 +1,8 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:08:13,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_003
+2000-01-01 00:11:23,2000-01-01 00:11:40,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_003
+2000-01-01 00:11:40,2000-01-01 00:16:01,tape cardboard band closed,Cardboard wrapping,factory_002,worker_003
+2000-01-01 00:16:34,2000-01-01 00:18:05,tape cardboard band closed,Cardboard wrapping,factory_002,worker_003
+2000-01-01 00:18:05,2000-01-01 00:18:13,drop packaged garments into bulk box,Box packing,factory_002,worker_003
+2000-01-01 00:18:29,2000-01-01 00:19:40,tape cardboard band closed,Cardboard wrapping,factory_002,worker_003
+2000-01-01 00:19:40,2000-01-01 00:20:00,fold bottom flaps of empty cardboard box,Box assembly,factory_002,worker_003

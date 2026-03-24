@@ -1,0 +1,8 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:02:11,strike metal casting with hammer,Metal casting separation,factory_003,worker_005
+2000-01-01 00:02:16,2000-01-01 00:02:49,sweep separated parts with metal guide bar,Metal casting separation,factory_003,worker_005
+2000-01-01 00:04:16,2000-01-01 00:14:48,strike metal casting with hammer,Metal casting separation,factory_003,worker_005
+2000-01-01 00:14:48,2000-01-01 00:15:06,sweep separated parts with metal guide bar,Metal casting separation,factory_003,worker_005
+2000-01-01 00:15:35,2000-01-01 00:17:00,transport bulk material via wheelbarrow,Metal casting separation,factory_003,worker_005
+2000-01-01 00:18:20,2000-01-01 00:18:49,sweep separated parts with metal guide bar,Metal casting separation,factory_003,worker_005
+2000-01-01 00:19:08,2000-01-01 00:19:33,inspect large metal bin,Inventory verification,factory_003,worker_005

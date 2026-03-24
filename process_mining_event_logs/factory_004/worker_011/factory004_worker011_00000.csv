@@ -1,0 +1,22 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:43,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011
+2000-01-01 00:02:20,2000-01-01 00:02:52,Gather fabric offcuts from floor tarp,Scrap material management,factory_004,worker_011
+2000-01-01 00:02:52,2000-01-01 00:03:00,Deposit fabric offcuts into blue bin,Scrap material management,factory_004,worker_011
+2000-01-01 00:03:34,2000-01-01 00:04:00,Fold fabric into compact bundle,Bulk fabric cutting,factory_004,worker_011
+2000-01-01 00:04:00,2000-01-01 00:05:24,Cut fabric layer with shears,Bulk fabric cutting,factory_004,worker_011
+2000-01-01 00:05:40,2000-01-01 00:06:00,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011
+2000-01-01 00:06:00,2000-01-01 00:07:22,Fold fabric into compact bundle,Fabric spreading,factory_004,worker_011
+2000-01-01 00:08:44,2000-01-01 00:08:58,Mark fabric piece with blue pen,Bulk fabric cutting,factory_004,worker_011
+2000-01-01 00:09:23,2000-01-01 00:09:58,Mark fabric piece with blue pen,Fabric measuring,factory_004,worker_011
+2000-01-01 00:10:55,2000-01-01 00:12:28,Fold fabric into compact bundle,Fabric spreading,factory_004,worker_011
+2000-01-01 00:12:28,2000-01-01 00:12:38,Transport heavy fabric stack across factory floor,Material transport,factory_004,worker_011
+2000-01-01 00:14:02,2000-01-01 00:14:13,Fold fabric into compact bundle,Fabric spreading,factory_004,worker_011
+2000-01-01 00:14:13,2000-01-01 00:14:26,Transport heavy fabric stack across factory floor,Material transport,factory_004,worker_011
+2000-01-01 00:14:26,2000-01-01 00:15:10,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011
+2000-01-01 00:15:10,2000-01-01 00:15:52,Fold fabric into compact bundle,Fabric spreading,factory_004,worker_011
+2000-01-01 00:15:52,2000-01-01 00:16:05,Gather fabric offcuts from floor tarp,Scrap material management,factory_004,worker_011
+2000-01-01 00:16:22,2000-01-01 00:17:10,Pull white fabric across spreading table,Fabric spreading,factory_004,worker_011
+2000-01-01 00:17:10,2000-01-01 00:17:51,Fold fabric into compact bundle,Fabric spreading,factory_004,worker_011
+2000-01-01 00:17:51,2000-01-01 00:18:59,Mark fabric piece with blue pen,Fabric measuring,factory_004,worker_011
+2000-01-01 00:19:10,2000-01-01 00:19:42,Smooth fabric layer by hand,Fabric spreading,factory_004,worker_011
+2000-01-01 00:19:42,2000-01-01 00:19:50,Mark fabric piece with blue pen,Fabric measuring,factory_004,worker_011

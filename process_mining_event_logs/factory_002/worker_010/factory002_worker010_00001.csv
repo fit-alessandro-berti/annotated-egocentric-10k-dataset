@@ -1,0 +1,23 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:43,wrap fabric in dotted paper,Cardboard wrapping,factory_002,worker_010
+2000-01-01 00:00:43,2000-01-01 00:01:21,poke holes in paper wrap with pen,Cardboard wrapping,factory_002,worker_010
+2000-01-01 00:02:44,2000-01-01 00:03:26,align small fabric piece to base piece cutout,Fabric pairing,factory_002,worker_010
+2000-01-01 00:03:26,2000-01-01 00:03:59,fold bottom section of fabric,Fabric folding,factory_002,worker_010
+2000-01-01 00:04:30,2000-01-01 00:05:59,align small fabric piece to base piece cutout,Fabric pairing,factory_002,worker_010
+2000-01-01 00:05:59,2000-01-01 00:06:49,fold bottom section of fabric,Fabric folding,factory_002,worker_010
+2000-01-01 00:06:49,2000-01-01 00:07:20,wrap fabric bundle with string,Fabric bundling,factory_002,worker_010
+2000-01-01 00:07:20,2000-01-01 00:07:37,tie string around fabric stack,Fabric bundling,factory_002,worker_010
+2000-01-01 00:07:37,2000-01-01 00:07:51,compress fabric bundles inside soft collection bag,Fabric bundling,factory_002,worker_010
+2000-01-01 00:07:51,2000-01-01 00:08:35,tick checkbox on package label with pen,Package labeling,factory_002,worker_010
+2000-01-01 00:09:17,2000-01-01 00:09:40,attach printed tag to bundle,Fabric bundling,factory_002,worker_010
+2000-01-01 00:09:40,2000-01-01 00:09:45,compress fabric bundles inside soft collection bag,Fabric bundling,factory_002,worker_010
+2000-01-01 00:09:45,2000-01-01 00:09:50,tie top of filled plastic sack,Fabric bundling,factory_002,worker_010
+2000-01-01 00:11:51,2000-01-01 00:14:00,pull fabric edges taut,Fabric edge alignment,factory_002,worker_010
+2000-01-01 00:14:00,2000-01-01 00:14:15,fold bottom section of fabric,Fabric folding,factory_002,worker_010
+2000-01-01 00:14:15,2000-01-01 00:15:52,align small fabric piece to base piece cutout,Fabric pairing,factory_002,worker_010
+2000-01-01 00:16:09,2000-01-01 00:17:13,pull fabric edges taut,Fabric edge alignment,factory_002,worker_010
+2000-01-01 00:17:21,2000-01-01 00:18:00,align small fabric piece to base piece cutout,Fabric pairing,factory_002,worker_010
+2000-01-01 00:18:00,2000-01-01 00:18:30,fold bottom section of fabric,Fabric folding,factory_002,worker_010
+2000-01-01 00:18:30,2000-01-01 00:19:25,align small fabric piece to base piece cutout,Fabric pairing,factory_002,worker_010
+2000-01-01 00:19:25,2000-01-01 00:19:39,fold bottom section of fabric,Fabric folding,factory_002,worker_010
+2000-01-01 00:19:39,2000-01-01 00:20:00,align small fabric piece to base piece cutout,Fabric pairing,factory_002,worker_010

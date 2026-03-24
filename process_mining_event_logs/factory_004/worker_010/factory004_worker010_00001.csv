@@ -1,0 +1,23 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:15,Wrap printed cardboard sleeve around garment,Garment folding,factory_004,worker_010
+2000-01-01 00:00:15,2000-01-01 00:00:46,Transport heavy fabric stack across factory floor,Material transport,factory_004,worker_010
+2000-01-01 00:00:46,2000-01-01 00:01:03,Transport heavy fabric stack across factory floor,Material transport,factory_004,worker_010
+2000-01-01 00:01:03,2000-01-01 00:02:08,Wrap printed cardboard sleeve around garment,Garment folding,factory_004,worker_010
+2000-01-01 00:02:08,2000-01-01 00:02:28,Transport heavy fabric stack across factory floor,Material transport,factory_004,worker_010
+2000-01-01 00:02:28,2000-01-01 00:02:55,Wrap printed cardboard sleeve around garment,Garment folding,factory_004,worker_010
+2000-01-01 00:02:55,2000-01-01 00:03:22,Transport heavy fabric stack across factory floor,Material transport,factory_004,worker_010
+2000-01-01 00:03:22,2000-01-01 00:04:00,Wrap printed cardboard sleeve around garment,Garment folding,factory_004,worker_010
+2000-01-01 00:04:25,2000-01-01 00:04:44,Transport heavy fabric stack across factory floor,Material transport,factory_004,worker_010
+2000-01-01 00:04:44,2000-01-01 00:05:22,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010
+2000-01-01 00:05:22,2000-01-01 00:06:48,Wrap printed cardboard sleeve around garment,Garment folding,factory_004,worker_010
+2000-01-01 00:06:48,2000-01-01 00:08:15,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010
+2000-01-01 00:08:15,2000-01-01 00:09:41,Wrap printed cardboard sleeve around garment,Garment folding,factory_004,worker_010
+2000-01-01 00:09:41,2000-01-01 00:11:08,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010
+2000-01-01 00:11:25,2000-01-01 00:11:45,Wrap printed cardboard sleeve around garment,Garment folding,factory_004,worker_010
+2000-01-01 00:11:45,2000-01-01 00:12:05,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010
+2000-01-01 00:12:13,2000-01-01 00:12:46,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010
+2000-01-01 00:13:02,2000-01-01 00:13:34,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010
+2000-01-01 00:14:00,2000-01-01 00:14:10,Transport heavy fabric stack across factory floor,Material transport,factory_004,worker_010
+2000-01-01 00:14:59,2000-01-01 00:15:09,Calculate production batch on smartphone,Production data logging,factory_004,worker_010
+2000-01-01 00:17:02,2000-01-01 00:19:27,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010
+2000-01-01 00:19:46,2000-01-01 00:20:00,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010

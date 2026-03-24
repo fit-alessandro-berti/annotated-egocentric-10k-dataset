@@ -1,0 +1,7 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:03:02,pick debris from mold cavity,Mold preparation and cleaning,factory_003,worker_002
+2000-01-01 00:03:07,2000-01-01 00:04:58,pick debris from mold cavity,Mold preparation and cleaning,factory_003,worker_002
+2000-01-01 00:05:05,2000-01-01 00:05:27,pick debris from mold cavity,Mold preparation and cleaning,factory_003,worker_002
+2000-01-01 00:05:44,2000-01-01 00:07:29,pick debris from mold cavity,Mold preparation and cleaning,factory_003,worker_002
+2000-01-01 00:07:47,2000-01-01 00:09:36,pick debris from mold cavity,Mold preparation and cleaning,factory_003,worker_002
+2000-01-01 00:09:36,2000-01-01 00:09:50,blow debris with compressed air gun,Mold preparation and cleaning,factory_003,worker_002

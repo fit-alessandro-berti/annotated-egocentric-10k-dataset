@@ -1,0 +1,20 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:06,Grab unsewn fabric from disorganized pile,Material transport,factory_004,worker_001
+2000-01-01 00:00:06,2000-01-01 00:00:15,Drag thick fabric bundle across table,Material transport,factory_004,worker_001
+2000-01-01 00:00:15,2000-01-01 00:00:38,Insert tag into garment fold,Garment folding,factory_004,worker_001
+2000-01-01 00:00:38,2000-01-01 00:00:56,Feed continuous fabric chain without breaking thread,Continuous fabric chaining,factory_004,worker_001
+2000-01-01 00:00:56,2000-01-01 00:02:09,Feed continuous fabric chain without breaking thread,Continuous fabric chaining,factory_004,worker_001
+2000-01-01 00:02:16,2000-01-01 00:02:30,Feed continuous fabric chain without breaking thread,Continuous fabric chaining,factory_004,worker_001
+2000-01-01 00:02:37,2000-01-01 00:02:50,Grab unsewn fabric from disorganized pile,Material transport,factory_004,worker_001
+2000-01-01 00:02:50,2000-01-01 00:03:15,Align raw fabric edges by hand,Overlock seaming,factory_004,worker_001
+2000-01-01 00:03:20,2000-01-01 00:03:45,Feed continuous fabric chain without breaking thread,Continuous fabric chaining,factory_004,worker_001
+2000-01-01 00:03:50,2000-01-01 00:04:08,Feed continuous fabric chain without breaking thread,Continuous fabric chaining,factory_004,worker_001
+2000-01-01 00:04:08,2000-01-01 00:04:13,Sew short straight seam,Overlock seaming,factory_004,worker_001
+2000-01-01 00:04:25,2000-01-01 00:04:44,Feed continuous fabric chain without breaking thread,Continuous fabric chaining,factory_004,worker_001
+2000-01-01 00:04:49,2000-01-01 00:05:05,Feed continuous fabric chain without breaking thread,Continuous fabric chaining,factory_004,worker_001
+2000-01-01 00:05:08,2000-01-01 00:05:25,Feed continuous fabric chain without breaking thread,Continuous fabric chaining,factory_004,worker_001
+2000-01-01 00:05:25,2000-01-01 00:05:30,Grab unsewn fabric from disorganized pile,Material transport,factory_004,worker_001
+2000-01-01 00:05:30,2000-01-01 00:05:45,Feed continuous fabric chain without breaking thread,Continuous fabric chaining,factory_004,worker_001
+2000-01-01 00:05:48,2000-01-01 00:06:04,Feed continuous fabric chain without breaking thread,Continuous fabric chaining,factory_004,worker_001
+2000-01-01 00:06:08,2000-01-01 00:06:21,Feed continuous fabric chain without breaking thread,Continuous fabric chaining,factory_004,worker_001
+2000-01-01 00:06:21,2000-01-01 00:06:26,Grab unsewn fabric from disorganized pile,Material transport,factory_004,worker_001

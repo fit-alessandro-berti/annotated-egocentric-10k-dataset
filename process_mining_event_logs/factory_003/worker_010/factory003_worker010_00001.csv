@@ -1,0 +1,57 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:30,pick debris from mold cavity,Mold preparation and cleaning,factory_003,worker_010
+2000-01-01 00:00:41,2000-01-01 00:01:00,load pre-manufactured insert into mold,Machine pressing,factory_003,worker_010
+2000-01-01 00:01:00,2000-01-01 00:01:13,blow debris with compressed air gun,Machine pressing,factory_003,worker_010
+2000-01-01 00:01:13,2000-01-01 00:01:28,squeeze binding paste from piping bag,Machine pressing,factory_003,worker_010
+2000-01-01 00:01:28,2000-01-01 00:01:39,close two-part mold assembly,Machine pressing,factory_003,worker_010
+2000-01-01 00:01:39,2000-01-01 00:01:54,wait for machine press cycle completion,Machine pressing,factory_003,worker_010
+2000-01-01 00:01:54,2000-01-01 00:02:00,extract pressed part from mold,Machine pressing,factory_003,worker_010
+2000-01-01 00:02:00,2000-01-01 00:02:51,pick debris from mold cavity,Mold preparation and cleaning,factory_003,worker_010
+2000-01-01 00:02:51,2000-01-01 00:03:10,load pre-manufactured insert into mold,Machine pressing,factory_003,worker_010
+2000-01-01 00:03:10,2000-01-01 00:03:19,blow debris with compressed air gun,Machine pressing,factory_003,worker_010
+2000-01-01 00:03:19,2000-01-01 00:03:36,squeeze binding paste from piping bag,Machine pressing,factory_003,worker_010
+2000-01-01 00:03:36,2000-01-01 00:03:45,close two-part mold assembly,Machine pressing,factory_003,worker_010
+2000-01-01 00:03:45,2000-01-01 00:04:33,pick debris from mold cavity,Mold preparation and cleaning,factory_003,worker_010
+2000-01-01 00:04:33,2000-01-01 00:04:54,load pre-manufactured insert into mold,Machine pressing,factory_003,worker_010
+2000-01-01 00:04:54,2000-01-01 00:05:01,blow debris with compressed air gun,Machine pressing,factory_003,worker_010
+2000-01-01 00:05:01,2000-01-01 00:05:16,squeeze binding paste from piping bag,Machine pressing,factory_003,worker_010
+2000-01-01 00:05:16,2000-01-01 00:05:25,close two-part mold assembly,Machine pressing,factory_003,worker_010
+2000-01-01 00:06:01,2000-01-01 00:06:42,pick debris from mold cavity,Mold preparation and cleaning,factory_003,worker_010
+2000-01-01 00:06:55,2000-01-01 00:07:18,load pre-manufactured insert into mold,Machine pressing,factory_003,worker_010
+2000-01-01 00:07:18,2000-01-01 00:07:30,blow debris with compressed air gun,Machine pressing,factory_003,worker_010
+2000-01-01 00:07:30,2000-01-01 00:07:56,squeeze binding paste from piping bag,Machine pressing,factory_003,worker_010
+2000-01-01 00:07:56,2000-01-01 00:08:08,close two-part mold assembly,Machine pressing,factory_003,worker_010
+2000-01-01 00:08:08,2000-01-01 00:08:35,wait for machine press cycle completion,Machine pressing,factory_003,worker_010
+2000-01-01 00:08:35,2000-01-01 00:08:58,pick debris from mold cavity,Mold preparation and cleaning,factory_003,worker_010
+2000-01-01 00:09:07,2000-01-01 00:09:29,load pre-manufactured insert into mold,Machine pressing,factory_003,worker_010
+2000-01-01 00:09:29,2000-01-01 00:09:40,blow debris with compressed air gun,Machine pressing,factory_003,worker_010
+2000-01-01 00:09:40,2000-01-01 00:09:55,squeeze binding paste from piping bag,Machine pressing,factory_003,worker_010
+2000-01-01 00:09:55,2000-01-01 00:10:07,close two-part mold assembly,Machine pressing,factory_003,worker_010
+2000-01-01 00:10:07,2000-01-01 00:10:20,wait for machine press cycle completion,Machine pressing,factory_003,worker_010
+2000-01-01 00:10:20,2000-01-01 00:10:45,pick debris from mold cavity,Mold preparation and cleaning,factory_003,worker_010
+2000-01-01 00:10:55,2000-01-01 00:11:12,pick debris from mold cavity,Mold preparation and cleaning,factory_003,worker_010
+2000-01-01 00:11:12,2000-01-01 00:11:42,load pre-manufactured insert into mold,Machine pressing,factory_003,worker_010
+2000-01-01 00:11:42,2000-01-01 00:11:51,blow debris with compressed air gun,Machine pressing,factory_003,worker_010
+2000-01-01 00:11:51,2000-01-01 00:12:12,squeeze binding paste from piping bag,Machine pressing,factory_003,worker_010
+2000-01-01 00:12:12,2000-01-01 00:12:24,close two-part mold assembly,Machine pressing,factory_003,worker_010
+2000-01-01 00:12:24,2000-01-01 00:12:40,wait for machine press cycle completion,Machine pressing,factory_003,worker_010
+2000-01-01 00:12:40,2000-01-01 00:13:00,pick debris from mold cavity,Mold preparation and cleaning,factory_003,worker_010
+2000-01-01 00:13:08,2000-01-01 00:13:33,pick debris from mold cavity,Mold preparation and cleaning,factory_003,worker_010
+2000-01-01 00:13:33,2000-01-01 00:13:56,load pre-manufactured insert into mold,Machine pressing,factory_003,worker_010
+2000-01-01 00:13:56,2000-01-01 00:14:04,blow debris with compressed air gun,Machine pressing,factory_003,worker_010
+2000-01-01 00:14:04,2000-01-01 00:14:18,squeeze binding paste from piping bag,Machine pressing,factory_003,worker_010
+2000-01-01 00:14:18,2000-01-01 00:14:28,close two-part mold assembly,Machine pressing,factory_003,worker_010
+2000-01-01 00:14:50,2000-01-01 00:15:15,pick debris from mold cavity,Mold preparation and cleaning,factory_003,worker_010
+2000-01-01 00:15:21,2000-01-01 00:15:28,blow debris with compressed air gun,Mold preparation and cleaning,factory_003,worker_010
+2000-01-01 00:15:28,2000-01-01 00:16:03,load pre-manufactured insert into mold,Machine pressing,factory_003,worker_010
+2000-01-01 00:16:03,2000-01-01 00:16:11,blow debris with compressed air gun,Machine pressing,factory_003,worker_010
+2000-01-01 00:16:11,2000-01-01 00:16:29,squeeze binding paste from piping bag,Machine pressing,factory_003,worker_010
+2000-01-01 00:16:29,2000-01-01 00:16:41,close two-part mold assembly,Machine pressing,factory_003,worker_010
+2000-01-01 00:17:05,2000-01-01 00:17:49,pick debris from mold cavity,Mold preparation and cleaning,factory_003,worker_010
+2000-01-01 00:17:59,2000-01-01 00:18:18,load pre-manufactured insert into mold,Machine pressing,factory_003,worker_010
+2000-01-01 00:18:18,2000-01-01 00:18:29,blow debris with compressed air gun,Machine pressing,factory_003,worker_010
+2000-01-01 00:18:29,2000-01-01 00:18:43,squeeze binding paste from piping bag,Machine pressing,factory_003,worker_010
+2000-01-01 00:18:43,2000-01-01 00:18:56,close two-part mold assembly,Machine pressing,factory_003,worker_010
+2000-01-01 00:18:56,2000-01-01 00:19:07,wait for machine press cycle completion,Machine pressing,factory_003,worker_010
+2000-01-01 00:19:07,2000-01-01 00:19:19,extract pressed part from mold,Machine pressing,factory_003,worker_010
+2000-01-01 00:19:19,2000-01-01 00:20:00,pick debris from mold cavity,Mold preparation and cleaning,factory_003,worker_010

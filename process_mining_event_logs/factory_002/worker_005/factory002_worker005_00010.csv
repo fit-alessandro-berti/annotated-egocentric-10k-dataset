@@ -1,0 +1,40 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:01:02,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005
+2000-01-01 00:01:02,2000-01-01 00:01:16,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005
+2000-01-01 00:01:16,2000-01-01 00:01:21,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005
+2000-01-01 00:01:27,2000-01-01 00:02:05,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005
+2000-01-01 00:02:17,2000-01-01 00:02:41,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005
+2000-01-01 00:02:41,2000-01-01 00:02:51,freehand fold t-shirt,Garment ironing,factory_002,worker_005
+2000-01-01 00:02:51,2000-01-01 00:03:09,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005
+2000-01-01 00:03:09,2000-01-01 00:03:30,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005
+2000-01-01 00:03:30,2000-01-01 00:03:34,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005
+2000-01-01 00:03:44,2000-01-01 00:03:56,write production numbers in lined notebook,Floor auditing,factory_002,worker_005
+2000-01-01 00:03:57,2000-01-01 00:05:27,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005
+2000-01-01 00:05:27,2000-01-01 00:05:46,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005
+2000-01-01 00:05:46,2000-01-01 00:05:50,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005
+2000-01-01 00:05:50,2000-01-01 00:07:14,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005
+2000-01-01 00:07:14,2000-01-01 00:07:34,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005
+2000-01-01 00:07:34,2000-01-01 00:07:37,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005
+2000-01-01 00:07:37,2000-01-01 00:08:13,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005
+2000-01-01 00:08:13,2000-01-01 00:08:32,freehand fold t-shirt,Garment ironing,factory_002,worker_005
+2000-01-01 00:08:32,2000-01-01 00:09:20,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005
+2000-01-01 00:09:20,2000-01-01 00:09:38,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005
+2000-01-01 00:09:38,2000-01-01 00:09:41,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005
+2000-01-01 00:09:41,2000-01-01 00:10:40,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005
+2000-01-01 00:10:40,2000-01-01 00:10:59,freehand fold t-shirt,Garment ironing,factory_002,worker_005
+2000-01-01 00:10:59,2000-01-01 00:11:32,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005
+2000-01-01 00:11:32,2000-01-01 00:11:47,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005
+2000-01-01 00:11:47,2000-01-01 00:11:51,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005
+2000-01-01 00:14:31,2000-01-01 00:15:00,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005
+2000-01-01 00:15:00,2000-01-01 00:15:24,freehand fold t-shirt,Garment ironing,factory_002,worker_005
+2000-01-01 00:15:24,2000-01-01 00:16:03,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005
+2000-01-01 00:16:03,2000-01-01 00:16:18,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005
+2000-01-01 00:16:18,2000-01-01 00:16:21,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005
+2000-01-01 00:16:21,2000-01-01 00:17:15,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005
+2000-01-01 00:17:15,2000-01-01 00:17:31,freehand fold t-shirt,Garment ironing,factory_002,worker_005
+2000-01-01 00:17:31,2000-01-01 00:18:09,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005
+2000-01-01 00:18:23,2000-01-01 00:18:31,freehand fold t-shirt,Garment ironing,factory_002,worker_005
+2000-01-01 00:18:31,2000-01-01 00:19:19,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005
+2000-01-01 00:19:19,2000-01-01 00:19:36,fold t-shirt over removable white template,Garment ironing,factory_002,worker_005
+2000-01-01 00:19:36,2000-01-01 00:19:39,slide template out from folded t-shirt,Garment ironing,factory_002,worker_005
+2000-01-01 00:19:39,2000-01-01 00:19:54,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005

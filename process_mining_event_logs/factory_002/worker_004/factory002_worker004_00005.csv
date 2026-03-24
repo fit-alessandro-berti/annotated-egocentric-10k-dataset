@@ -1,0 +1,24 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:13,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004
+2000-01-01 00:00:13,2000-01-01 00:00:28,pick up loose fabric piece,Sub-assembly marking,factory_002,worker_004
+2000-01-01 00:00:28,2000-01-01 00:01:58,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004
+2000-01-01 00:01:58,2000-01-01 00:02:12,pick up loose fabric piece,Sub-assembly marking,factory_002,worker_004
+2000-01-01 00:02:27,2000-01-01 00:04:42,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004
+2000-01-01 00:04:42,2000-01-01 00:04:54,pick up loose fabric piece,Sub-assembly marking,factory_002,worker_004
+2000-01-01 00:04:54,2000-01-01 00:06:33,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004
+2000-01-01 00:06:33,2000-01-01 00:06:39,pick up loose fabric piece,Sub-assembly marking,factory_002,worker_004
+2000-01-01 00:06:39,2000-01-01 00:07:05,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004
+2000-01-01 00:07:05,2000-01-01 00:07:11,pick up loose fabric piece,Sub-assembly marking,factory_002,worker_004
+2000-01-01 00:07:11,2000-01-01 00:08:08,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004
+2000-01-01 00:08:08,2000-01-01 00:10:07,compress fabric bundles inside soft collection bag,Material transport,factory_002,worker_004
+2000-01-01 00:12:15,2000-01-01 00:13:34,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004
+2000-01-01 00:13:34,2000-01-01 00:13:42,pick up loose fabric piece,Sub-assembly marking,factory_002,worker_004
+2000-01-01 00:13:42,2000-01-01 00:14:38,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004
+2000-01-01 00:14:38,2000-01-01 00:14:46,pick up loose fabric piece,Sub-assembly marking,factory_002,worker_004
+2000-01-01 00:14:46,2000-01-01 00:16:44,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004
+2000-01-01 00:16:44,2000-01-01 00:16:51,pick up loose fabric piece,Sub-assembly marking,factory_002,worker_004
+2000-01-01 00:16:51,2000-01-01 00:18:39,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004
+2000-01-01 00:18:39,2000-01-01 00:18:48,pick up loose fabric piece,Sub-assembly marking,factory_002,worker_004
+2000-01-01 00:18:48,2000-01-01 00:19:27,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004
+2000-01-01 00:19:27,2000-01-01 00:19:35,pick up loose fabric piece,Sub-assembly marking,factory_002,worker_004
+2000-01-01 00:19:35,2000-01-01 00:20:01,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004

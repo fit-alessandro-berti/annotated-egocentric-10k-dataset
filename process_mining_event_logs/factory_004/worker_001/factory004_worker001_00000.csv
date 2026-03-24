@@ -1,0 +1,11 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:59,Feed continuous fabric chain without breaking thread,Continuous fabric chaining,factory_004,worker_001
+2000-01-01 00:00:59,2000-01-01 00:01:05,Push finished fabric chain to table edge,Continuous fabric chaining,factory_004,worker_001
+2000-01-01 00:01:05,2000-01-01 00:02:59,Feed continuous fabric chain without breaking thread,Continuous fabric chaining,factory_004,worker_001
+2000-01-01 00:03:02,2000-01-01 00:04:02,Feed continuous fabric chain without breaking thread,Continuous fabric chaining,factory_004,worker_001
+2000-01-01 00:04:02,2000-01-01 00:04:07,Push finished fabric chain to table edge,Continuous fabric chaining,factory_004,worker_001
+2000-01-01 00:04:07,2000-01-01 00:06:33,Feed continuous fabric chain without breaking thread,Continuous fabric chaining,factory_004,worker_001
+2000-01-01 00:06:33,2000-01-01 00:06:39,Push finished fabric chain to table edge,Continuous fabric chaining,factory_004,worker_001
+2000-01-01 00:06:44,2000-01-01 00:13:35,Feed continuous fabric chain without breaking thread,Continuous fabric chaining,factory_004,worker_001
+2000-01-01 00:13:35,2000-01-01 00:13:41,Push finished fabric chain to table edge,Continuous fabric chaining,factory_004,worker_001
+2000-01-01 00:13:41,2000-01-01 00:20:00,Feed continuous fabric chain without breaking thread,Continuous fabric chaining,factory_004,worker_001

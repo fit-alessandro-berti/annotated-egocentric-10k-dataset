@@ -1,0 +1,4 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:09:00,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_003
+2000-01-01 00:09:00,2000-01-01 00:09:23,blow debris with compressed air gun,Surface finishing and polishing,factory_003,worker_003
+2000-01-01 00:09:33,2000-01-01 00:20:05,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_003

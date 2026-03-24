@@ -1,0 +1,17 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:49,Sew short straight seam,Overlock seaming,factory_004,worker_005
+2000-01-01 00:00:49,2000-01-01 00:00:59,Snip loose threads with small clippers,Thread trimming,factory_004,worker_005
+2000-01-01 00:00:59,2000-01-01 00:01:13,Retrieve thread from central supply table,Material transport,factory_004,worker_005
+2000-01-01 00:01:21,2000-01-01 00:01:48,Wipe sewing machine flat bed,Machine maintenance,factory_004,worker_005
+2000-01-01 00:01:48,2000-01-01 00:02:11,Remove needle plate with scissors tip,Machine maintenance,factory_004,worker_005
+2000-01-01 00:02:11,2000-01-01 00:02:35,Clean lint from feed dogs,Machine maintenance,factory_004,worker_005
+2000-01-01 00:03:32,2000-01-01 00:03:54,Wipe sewing machine flat bed,Machine maintenance,factory_004,worker_005
+2000-01-01 00:03:54,2000-01-01 00:04:03,Adjust machine thread tensioner,Machine maintenance,factory_004,worker_005
+2000-01-01 00:04:03,2000-01-01 00:04:46,Sew short straight seam,Overlock seaming,factory_004,worker_005
+2000-01-01 00:04:46,2000-01-01 00:04:55,Snip loose threads with small clippers,Thread trimming,factory_004,worker_005
+2000-01-01 00:04:55,2000-01-01 00:05:57,Sew short straight seam,Overlock seaming,factory_004,worker_005
+2000-01-01 00:05:57,2000-01-01 00:07:55,Sew long straight seam,Garment hemming,factory_004,worker_005
+2000-01-01 00:07:55,2000-01-01 00:18:30,Sew long straight seam,Garment hemming,factory_004,worker_005
+2000-01-01 00:18:30,2000-01-01 00:18:50,Replace depleted thread cone,Machine maintenance,factory_004,worker_005
+2000-01-01 00:18:50,2000-01-01 00:19:50,Thread overlock machine using tweezers,Machine maintenance,factory_004,worker_005
+2000-01-01 00:19:50,2000-01-01 00:20:01,Sew long straight seam,Garment hemming,factory_004,worker_005

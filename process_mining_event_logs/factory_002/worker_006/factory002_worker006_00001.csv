@@ -1,0 +1,17 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:06,2000-01-01 00:02:44,freehand fold t-shirt,Fabric folding,factory_002,worker_006
+2000-01-01 00:03:00,2000-01-01 00:04:41,freehand fold t-shirt,Fabric folding,factory_002,worker_006
+2000-01-01 00:05:13,2000-01-01 00:06:42,fold sides of fabric inward,Fabric folding,factory_002,worker_006
+2000-01-01 00:06:58,2000-01-01 00:08:45,fold raw garment around cardboard stiffener,Cardboard wrapping,factory_002,worker_006
+2000-01-01 00:08:45,2000-01-01 00:10:06,pair light shirt onto dark garment,Fabric pairing,factory_002,worker_006
+2000-01-01 00:10:06,2000-01-01 00:11:41,slide garment pair into branded plastic sleeve,Garment bagging,factory_002,worker_006
+2000-01-01 00:11:41,2000-01-01 00:13:00,fold raw garment around cardboard stiffener,Cardboard wrapping,factory_002,worker_006
+2000-01-01 00:13:00,2000-01-01 00:14:52,pair light shirt onto dark garment,Fabric pairing,factory_002,worker_006
+2000-01-01 00:15:15,2000-01-01 00:16:35,slide garment pair into branded plastic sleeve,Garment bagging,factory_002,worker_006
+2000-01-01 00:16:35,2000-01-01 00:16:51,transfer packaged stacks into wire-mesh cage cart,Cart loading,factory_002,worker_006
+2000-01-01 00:16:51,2000-01-01 00:18:27,slide garment pair into branded plastic sleeve,Garment bagging,factory_002,worker_006
+2000-01-01 00:18:27,2000-01-01 00:18:43,transfer packaged stacks into wire-mesh cage cart,Cart loading,factory_002,worker_006
+2000-01-01 00:19:09,2000-01-01 00:19:25,pull master bag over tall stack of sleeved pairs,Master bagging,factory_002,worker_006
+2000-01-01 00:19:25,2000-01-01 00:19:35,transfer packaged stacks into wire-mesh cage cart,Cart loading,factory_002,worker_006
+2000-01-01 00:19:35,2000-01-01 00:19:47,pull master bag over tall stack of sleeved pairs,Master bagging,factory_002,worker_006
+2000-01-01 00:19:47,2000-01-01 00:19:53,transfer packaged stacks into wire-mesh cage cart,Cart loading,factory_002,worker_006

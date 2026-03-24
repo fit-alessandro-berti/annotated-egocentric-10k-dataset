@@ -1,0 +1,75 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:36,Hem large fabric piece in short bursts,Garment hemming,factory_004,worker_005
+2000-01-01 00:00:36,2000-01-01 00:00:40,Pull sewn piece out of machine,Garment hemming,factory_004,worker_005
+2000-01-01 00:00:40,2000-01-01 00:00:48,Align raw fabric edges by hand,Garment hemming,factory_004,worker_005
+2000-01-01 00:00:48,2000-01-01 00:01:20,Hem large fabric piece in short bursts,Garment hemming,factory_004,worker_005
+2000-01-01 00:01:20,2000-01-01 00:01:25,Pull sewn piece out of machine,Garment hemming,factory_004,worker_005
+2000-01-01 00:01:25,2000-01-01 00:01:32,Align raw fabric edges by hand,Garment hemming,factory_004,worker_005
+2000-01-01 00:01:32,2000-01-01 00:02:04,Hem large fabric piece in short bursts,Garment hemming,factory_004,worker_005
+2000-01-01 00:02:04,2000-01-01 00:02:09,Pull sewn piece out of machine,Garment hemming,factory_004,worker_005
+2000-01-01 00:02:09,2000-01-01 00:02:19,Align raw fabric edges by hand,Garment hemming,factory_004,worker_005
+2000-01-01 00:02:19,2000-01-01 00:03:00,Hem large fabric piece in short bursts,Garment hemming,factory_004,worker_005
+2000-01-01 00:03:00,2000-01-01 00:03:05,Pull sewn piece out of machine,Garment hemming,factory_004,worker_005
+2000-01-01 00:03:05,2000-01-01 00:03:17,Align raw fabric edges by hand,Garment hemming,factory_004,worker_005
+2000-01-01 00:03:17,2000-01-01 00:03:49,Hem large fabric piece in short bursts,Garment hemming,factory_004,worker_005
+2000-01-01 00:03:49,2000-01-01 00:03:55,Pull sewn piece out of machine,Garment hemming,factory_004,worker_005
+2000-01-01 00:03:55,2000-01-01 00:04:05,Align raw fabric edges by hand,Garment hemming,factory_004,worker_005
+2000-01-01 00:04:05,2000-01-01 00:04:41,Hem large fabric piece in short bursts,Garment hemming,factory_004,worker_005
+2000-01-01 00:04:41,2000-01-01 00:04:47,Pull sewn piece out of machine,Garment hemming,factory_004,worker_005
+2000-01-01 00:04:47,2000-01-01 00:04:57,Align raw fabric edges by hand,Garment hemming,factory_004,worker_005
+2000-01-01 00:04:57,2000-01-01 00:05:34,Hem large fabric piece in short bursts,Garment hemming,factory_004,worker_005
+2000-01-01 00:05:34,2000-01-01 00:05:40,Pull sewn piece out of machine,Garment hemming,factory_004,worker_005
+2000-01-01 00:05:40,2000-01-01 00:05:51,Align raw fabric edges by hand,Garment hemming,factory_004,worker_005
+2000-01-01 00:05:51,2000-01-01 00:06:36,Hem large fabric piece in short bursts,Garment hemming,factory_004,worker_005
+2000-01-01 00:06:36,2000-01-01 00:06:40,Pull sewn piece out of machine,Garment hemming,factory_004,worker_005
+2000-01-01 00:06:40,2000-01-01 00:06:45,Align raw fabric edges by hand,Garment hemming,factory_004,worker_005
+2000-01-01 00:06:45,2000-01-01 00:07:10,Hem large fabric piece in short bursts,Garment hemming,factory_004,worker_005
+2000-01-01 00:07:10,2000-01-01 00:07:15,Pull sewn piece out of machine,Garment hemming,factory_004,worker_005
+2000-01-01 00:07:15,2000-01-01 00:07:22,Align raw fabric edges by hand,Garment hemming,factory_004,worker_005
+2000-01-01 00:07:22,2000-01-01 00:08:06,Hem large fabric piece in short bursts,Garment hemming,factory_004,worker_005
+2000-01-01 00:08:06,2000-01-01 00:08:12,Pull sewn piece out of machine,Garment hemming,factory_004,worker_005
+2000-01-01 00:08:12,2000-01-01 00:08:17,Align raw fabric edges by hand,Garment hemming,factory_004,worker_005
+2000-01-01 00:08:17,2000-01-01 00:08:47,Hem large fabric piece in short bursts,Garment hemming,factory_004,worker_005
+2000-01-01 00:08:47,2000-01-01 00:08:52,Pull sewn piece out of machine,Garment hemming,factory_004,worker_005
+2000-01-01 00:08:52,2000-01-01 00:09:02,Align raw fabric edges by hand,Garment hemming,factory_004,worker_005
+2000-01-01 00:09:02,2000-01-01 00:09:34,Hem large fabric piece in short bursts,Garment hemming,factory_004,worker_005
+2000-01-01 00:09:34,2000-01-01 00:09:40,Pull sewn piece out of machine,Garment hemming,factory_004,worker_005
+2000-01-01 00:09:40,2000-01-01 00:09:51,Align raw fabric edges by hand,Garment hemming,factory_004,worker_005
+2000-01-01 00:09:51,2000-01-01 00:10:38,Hem large fabric piece in short bursts,Garment hemming,factory_004,worker_005
+2000-01-01 00:10:38,2000-01-01 00:10:44,Pull sewn piece out of machine,Garment hemming,factory_004,worker_005
+2000-01-01 00:10:44,2000-01-01 00:10:50,Align raw fabric edges by hand,Garment hemming,factory_004,worker_005
+2000-01-01 00:10:50,2000-01-01 00:11:23,Hem large fabric piece in short bursts,Garment hemming,factory_004,worker_005
+2000-01-01 00:11:23,2000-01-01 00:11:28,Pull sewn piece out of machine,Garment hemming,factory_004,worker_005
+2000-01-01 00:11:28,2000-01-01 00:11:34,Align raw fabric edges by hand,Garment hemming,factory_004,worker_005
+2000-01-01 00:11:34,2000-01-01 00:11:59,Hem large fabric piece in short bursts,Garment hemming,factory_004,worker_005
+2000-01-01 00:11:59,2000-01-01 00:12:05,Pull sewn piece out of machine,Garment hemming,factory_004,worker_005
+2000-01-01 00:12:05,2000-01-01 00:12:13,Align raw fabric edges by hand,Garment hemming,factory_004,worker_005
+2000-01-01 00:12:13,2000-01-01 00:12:55,Hem large fabric piece in short bursts,Garment hemming,factory_004,worker_005
+2000-01-01 00:12:55,2000-01-01 00:13:01,Pull sewn piece out of machine,Garment hemming,factory_004,worker_005
+2000-01-01 00:13:01,2000-01-01 00:13:13,Align raw fabric edges by hand,Garment hemming,factory_004,worker_005
+2000-01-01 00:13:13,2000-01-01 00:13:48,Hem large fabric piece in short bursts,Garment hemming,factory_004,worker_005
+2000-01-01 00:13:48,2000-01-01 00:13:53,Pull sewn piece out of machine,Garment hemming,factory_004,worker_005
+2000-01-01 00:13:53,2000-01-01 00:14:04,Align raw fabric edges by hand,Garment hemming,factory_004,worker_005
+2000-01-01 00:14:04,2000-01-01 00:14:36,Hem large fabric piece in short bursts,Garment hemming,factory_004,worker_005
+2000-01-01 00:14:36,2000-01-01 00:14:42,Pull sewn piece out of machine,Garment hemming,factory_004,worker_005
+2000-01-01 00:14:42,2000-01-01 00:14:55,Align raw fabric edges by hand,Garment hemming,factory_004,worker_005
+2000-01-01 00:14:55,2000-01-01 00:15:23,Hem large fabric piece in short bursts,Garment hemming,factory_004,worker_005
+2000-01-01 00:15:23,2000-01-01 00:15:31,Pull sewn piece out of machine,Garment hemming,factory_004,worker_005
+2000-01-01 00:15:31,2000-01-01 00:15:42,Align raw fabric edges by hand,Garment hemming,factory_004,worker_005
+2000-01-01 00:15:42,2000-01-01 00:16:19,Hem large fabric piece in short bursts,Garment hemming,factory_004,worker_005
+2000-01-01 00:16:19,2000-01-01 00:16:24,Pull sewn piece out of machine,Garment hemming,factory_004,worker_005
+2000-01-01 00:16:24,2000-01-01 00:16:30,Align raw fabric edges by hand,Garment hemming,factory_004,worker_005
+2000-01-01 00:16:30,2000-01-01 00:17:16,Hem large fabric piece in short bursts,Garment hemming,factory_004,worker_005
+2000-01-01 00:17:16,2000-01-01 00:17:21,Pull sewn piece out of machine,Garment hemming,factory_004,worker_005
+2000-01-01 00:17:21,2000-01-01 00:17:29,Align raw fabric edges by hand,Garment hemming,factory_004,worker_005
+2000-01-01 00:17:29,2000-01-01 00:17:43,Hem large fabric piece in short bursts,Garment hemming,factory_004,worker_005
+2000-01-01 00:17:43,2000-01-01 00:17:50,Pull sewn piece out of machine,Garment hemming,factory_004,worker_005
+2000-01-01 00:17:50,2000-01-01 00:18:07,Align raw fabric edges by hand,Garment hemming,factory_004,worker_005
+2000-01-01 00:18:07,2000-01-01 00:18:19,Hem large fabric piece in short bursts,Garment hemming,factory_004,worker_005
+2000-01-01 00:18:19,2000-01-01 00:18:23,Pull sewn piece out of machine,Garment hemming,factory_004,worker_005
+2000-01-01 00:18:23,2000-01-01 00:18:31,Align raw fabric edges by hand,Garment hemming,factory_004,worker_005
+2000-01-01 00:18:31,2000-01-01 00:18:58,Hem large fabric piece in short bursts,Garment hemming,factory_004,worker_005
+2000-01-01 00:18:58,2000-01-01 00:19:04,Pull sewn piece out of machine,Garment hemming,factory_004,worker_005
+2000-01-01 00:19:04,2000-01-01 00:19:18,Align raw fabric edges by hand,Garment hemming,factory_004,worker_005
+2000-01-01 00:19:18,2000-01-01 00:19:55,Hem large fabric piece in short bursts,Garment hemming,factory_004,worker_005
+2000-01-01 00:19:55,2000-01-01 00:20:00,Pull sewn piece out of machine,Garment hemming,factory_004,worker_005

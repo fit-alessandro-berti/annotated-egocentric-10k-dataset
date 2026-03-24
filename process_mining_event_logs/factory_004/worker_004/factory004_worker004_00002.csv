@@ -1,0 +1,29 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:16,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:00:16,2000-01-01 00:00:20,Pull sewn piece out of machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:00:30,2000-01-01 00:00:41,Align raw fabric edges by hand,Overlock seaming,factory_004,worker_004
+2000-01-01 00:00:41,2000-01-01 00:03:04,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:03:04,2000-01-01 00:03:18,Grab unsewn fabric from disorganized pile,Material transport,factory_004,worker_004
+2000-01-01 00:03:18,2000-01-01 00:05:32,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:05:32,2000-01-01 00:05:58,Fold fabric into compact bundle,Material transport,factory_004,worker_004
+2000-01-01 00:06:06,2000-01-01 00:06:22,Grab unsewn fabric from disorganized pile,Material transport,factory_004,worker_004
+2000-01-01 00:06:22,2000-01-01 00:09:47,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:09:47,2000-01-01 00:10:00,Fold fabric into compact bundle,Material transport,factory_004,worker_004
+2000-01-01 00:10:00,2000-01-01 00:10:08,Grab unsewn fabric from disorganized pile,Material transport,factory_004,worker_004
+2000-01-01 00:10:08,2000-01-01 00:10:50,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:10:50,2000-01-01 00:11:04,Cut continuous thread chain with scissors,Continuous fabric chaining,factory_004,worker_004
+2000-01-01 00:11:04,2000-01-01 00:13:06,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:13:06,2000-01-01 00:13:21,Fold fabric into compact bundle,Material transport,factory_004,worker_004
+2000-01-01 00:13:21,2000-01-01 00:13:28,Grab unsewn fabric from disorganized pile,Material transport,factory_004,worker_004
+2000-01-01 00:13:28,2000-01-01 00:14:00,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:14:00,2000-01-01 00:14:09,Mark fabric piece with blue pen,Fabric measuring,factory_004,worker_004
+2000-01-01 00:14:09,2000-01-01 00:14:19,Trim raw fabric edge manually,Bulk fabric cutting,factory_004,worker_004
+2000-01-01 00:14:19,2000-01-01 00:15:33,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:15:33,2000-01-01 00:15:47,Fold fabric into compact bundle,Material transport,factory_004,worker_004
+2000-01-01 00:15:47,2000-01-01 00:15:55,Grab unsewn fabric from disorganized pile,Material transport,factory_004,worker_004
+2000-01-01 00:15:55,2000-01-01 00:17:03,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:17:12,2000-01-01 00:17:23,Grab unsewn fabric from disorganized pile,Material transport,factory_004,worker_004
+2000-01-01 00:17:23,2000-01-01 00:18:49,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:18:49,2000-01-01 00:19:00,Fold fabric into compact bundle,Material transport,factory_004,worker_004
+2000-01-01 00:19:07,2000-01-01 00:19:15,Grab unsewn fabric from disorganized pile,Material transport,factory_004,worker_004
+2000-01-01 00:19:15,2000-01-01 00:20:00,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004

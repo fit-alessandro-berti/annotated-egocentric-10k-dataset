@@ -1,0 +1,68 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:18,compress sand with automated machine press,Sand mold creation,factory_006,worker_003
+2000-01-01 00:00:18,2000-01-01 00:00:41,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003
+2000-01-01 00:00:41,2000-01-01 00:00:54,compress sand with automated machine press,Sand mold creation,factory_006,worker_003
+2000-01-01 00:00:54,2000-01-01 00:01:13,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003
+2000-01-01 00:01:19,2000-01-01 00:01:25,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:01:43,2000-01-01 00:01:54,compress sand with automated machine press,Sand mold creation,factory_006,worker_003
+2000-01-01 00:01:54,2000-01-01 00:02:04,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003
+2000-01-01 00:02:04,2000-01-01 00:02:18,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:02:18,2000-01-01 00:02:30,compress sand with automated machine press,Sand mold creation,factory_006,worker_003
+2000-01-01 00:02:30,2000-01-01 00:02:44,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003
+2000-01-01 00:02:44,2000-01-01 00:02:59,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:03:13,2000-01-01 00:03:26,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003
+2000-01-01 00:03:26,2000-01-01 00:03:40,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:03:57,2000-01-01 00:04:08,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003
+2000-01-01 00:04:08,2000-01-01 00:04:22,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:04:36,2000-01-01 00:04:54,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003
+2000-01-01 00:04:54,2000-01-01 00:05:05,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:05:14,2000-01-01 00:05:25,compress sand with automated machine press,Sand mold creation,factory_006,worker_003
+2000-01-01 00:05:25,2000-01-01 00:05:51,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003
+2000-01-01 00:05:51,2000-01-01 00:06:05,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:06:05,2000-01-01 00:06:20,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003
+2000-01-01 00:06:20,2000-01-01 00:06:33,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:06:33,2000-01-01 00:06:48,compress sand with automated machine press,Sand mold creation,factory_006,worker_003
+2000-01-01 00:06:48,2000-01-01 00:07:05,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003
+2000-01-01 00:07:05,2000-01-01 00:07:22,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:07:22,2000-01-01 00:07:37,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003
+2000-01-01 00:07:37,2000-01-01 00:07:49,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:08:05,2000-01-01 00:08:18,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003
+2000-01-01 00:08:18,2000-01-01 00:08:31,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:08:31,2000-01-01 00:08:44,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003
+2000-01-01 00:08:58,2000-01-01 00:09:12,shovel spilled sand from floor,Workspace clearing,factory_006,worker_003
+2000-01-01 00:09:12,2000-01-01 00:09:28,compress sand with automated machine press,Sand mold creation,factory_006,worker_003
+2000-01-01 00:09:28,2000-01-01 00:09:41,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:09:55,2000-01-01 00:10:14,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003
+2000-01-01 00:10:14,2000-01-01 00:10:28,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:10:28,2000-01-01 00:10:42,shovel spilled sand from floor,Workspace clearing,factory_006,worker_003
+2000-01-01 00:10:42,2000-01-01 00:10:55,compress sand with automated machine press,Sand mold creation,factory_006,worker_003
+2000-01-01 00:10:55,2000-01-01 00:11:10,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003
+2000-01-01 00:11:10,2000-01-01 00:11:24,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:11:38,2000-01-01 00:11:53,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003
+2000-01-01 00:11:53,2000-01-01 00:12:07,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:12:07,2000-01-01 00:12:21,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003
+2000-01-01 00:12:21,2000-01-01 00:12:35,compress sand with automated machine press,Sand mold creation,factory_006,worker_003
+2000-01-01 00:12:35,2000-01-01 00:12:51,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:13:06,2000-01-01 00:13:34,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003
+2000-01-01 00:13:34,2000-01-01 00:13:48,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:14:02,2000-01-01 00:14:17,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003
+2000-01-01 00:14:17,2000-01-01 00:14:31,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:14:31,2000-01-01 00:14:45,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003
+2000-01-01 00:14:45,2000-01-01 00:14:58,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:14:58,2000-01-01 00:15:13,compress sand with automated machine press,Sand mold creation,factory_006,worker_003
+2000-01-01 00:15:13,2000-01-01 00:15:28,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003
+2000-01-01 00:15:28,2000-01-01 00:15:42,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:15:42,2000-01-01 00:15:56,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003
+2000-01-01 00:15:56,2000-01-01 00:16:10,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:16:10,2000-01-01 00:16:26,compress sand with automated machine press,Sand mold creation,factory_006,worker_003
+2000-01-01 00:16:26,2000-01-01 00:16:42,shovel spilled sand from floor,Workspace clearing,factory_006,worker_003
+2000-01-01 00:16:56,2000-01-01 00:17:11,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003
+2000-01-01 00:17:11,2000-01-01 00:17:25,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:17:39,2000-01-01 00:17:53,shovel spilled sand from floor,Workspace clearing,factory_006,worker_003
+2000-01-01 00:17:53,2000-01-01 00:18:08,compress sand with automated machine press,Sand mold creation,factory_006,worker_003
+2000-01-01 00:18:08,2000-01-01 00:18:22,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003
+2000-01-01 00:18:22,2000-01-01 00:18:36,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:18:51,2000-01-01 00:19:06,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003
+2000-01-01 00:19:06,2000-01-01 00:19:20,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:19:20,2000-01-01 00:19:34,drag empty mold box along floor track using crane hook,Mold track advancement,factory_006,worker_003
+2000-01-01 00:19:48,2000-01-01 00:20:00,compress sand with automated machine press,Sand mold creation,factory_006,worker_003

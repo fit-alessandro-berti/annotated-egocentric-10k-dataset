@@ -1,0 +1,54 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:20,Fold garment sleeves inward,Garment folding,factory_004,worker_002
+2000-01-01 00:00:20,2000-01-01 00:00:33,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:00:33,2000-01-01 00:01:04,Fold garment sleeves inward,Garment folding,factory_004,worker_002
+2000-01-01 00:01:04,2000-01-01 00:01:13,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:01:13,2000-01-01 00:01:45,Fold garment sleeves inward,Garment folding,factory_004,worker_002
+2000-01-01 00:01:45,2000-01-01 00:01:59,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:01:59,2000-01-01 00:02:26,Fold garment sleeves inward,Garment folding,factory_004,worker_002
+2000-01-01 00:02:26,2000-01-01 00:02:37,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:02:37,2000-01-01 00:02:59,Fold garment sleeves inward,Garment folding,factory_004,worker_002
+2000-01-01 00:03:07,2000-01-01 00:03:26,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:03:26,2000-01-01 00:03:51,Fold garment sleeves inward,Garment folding,factory_004,worker_002
+2000-01-01 00:03:58,2000-01-01 00:04:12,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:04:12,2000-01-01 00:04:36,Fold garment sleeves inward,Garment folding,factory_004,worker_002
+2000-01-01 00:04:36,2000-01-01 00:04:47,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:04:47,2000-01-01 00:05:18,Fold garment sleeves inward,Garment folding,factory_004,worker_002
+2000-01-01 00:05:18,2000-01-01 00:05:35,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:05:35,2000-01-01 00:06:00,Fold garment sleeves inward,Garment folding,factory_004,worker_002
+2000-01-01 00:06:11,2000-01-01 00:06:22,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:06:22,2000-01-01 00:06:53,Fold garment sleeves inward,Garment folding,factory_004,worker_002
+2000-01-01 00:06:53,2000-01-01 00:07:05,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:07:05,2000-01-01 00:07:23,Fold garment sleeves inward,Garment folding,factory_004,worker_002
+2000-01-01 00:07:23,2000-01-01 00:07:44,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:07:44,2000-01-01 00:08:11,Fold garment sleeves inward,Garment folding,factory_004,worker_002
+2000-01-01 00:08:11,2000-01-01 00:08:24,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:08:24,2000-01-01 00:08:53,Fold garment sleeves inward,Garment folding,factory_004,worker_002
+2000-01-01 00:08:53,2000-01-01 00:09:10,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:09:10,2000-01-01 00:09:38,Fold garment sleeves inward,Garment folding,factory_004,worker_002
+2000-01-01 00:09:46,2000-01-01 00:09:58,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:09:58,2000-01-01 00:10:25,Fold garment sleeves inward,Garment folding,factory_004,worker_002
+2000-01-01 00:10:25,2000-01-01 00:10:43,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:10:43,2000-01-01 00:11:06,Fold garment sleeves inward,Garment folding,factory_004,worker_002
+2000-01-01 00:11:06,2000-01-01 00:11:15,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:11:15,2000-01-01 00:11:53,Fold garment sleeves inward,Garment folding,factory_004,worker_002
+2000-01-01 00:11:53,2000-01-01 00:12:08,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:12:08,2000-01-01 00:12:37,Fold garment sleeves inward,Garment folding,factory_004,worker_002
+2000-01-01 00:12:37,2000-01-01 00:12:46,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:12:46,2000-01-01 00:13:08,Fold garment sleeves inward,Garment folding,factory_004,worker_002
+2000-01-01 00:13:16,2000-01-01 00:13:30,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:13:30,2000-01-01 00:13:58,Fold garment sleeves inward,Garment folding,factory_004,worker_002
+2000-01-01 00:13:58,2000-01-01 00:14:13,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:14:13,2000-01-01 00:14:43,Fold garment sleeves inward,Garment folding,factory_004,worker_002
+2000-01-01 00:14:43,2000-01-01 00:14:59,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:14:59,2000-01-01 00:15:26,Fold garment sleeves inward,Garment folding,factory_004,worker_002
+2000-01-01 00:15:26,2000-01-01 00:15:40,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:15:40,2000-01-01 00:16:03,Fold garment sleeves inward,Garment folding,factory_004,worker_002
+2000-01-01 00:17:01,2000-01-01 00:17:09,Distribute single garments into floor boxes,Pick-and-pack sorting,factory_004,worker_002
+2000-01-01 00:17:45,2000-01-01 00:18:00,Distribute single garments into floor boxes,Pick-and-pack sorting,factory_004,worker_002
+2000-01-01 00:18:08,2000-01-01 00:18:24,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:18:24,2000-01-01 00:18:51,Fold garment sleeves inward,Garment folding,factory_004,worker_002
+2000-01-01 00:18:51,2000-01-01 00:19:04,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:19:04,2000-01-01 00:19:30,Fold garment sleeves inward,Garment folding,factory_004,worker_002
+2000-01-01 00:19:30,2000-01-01 00:19:48,Snip loose threads with small clippers,Thread trimming,factory_004,worker_002
+2000-01-01 00:19:48,2000-01-01 00:20:00,Fold garment sleeves inward,Garment folding,factory_004,worker_002

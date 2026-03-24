@@ -1,0 +1,18 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:02:10,scrape component surface with metal tool,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:02:20,2000-01-01 00:02:37,blow debris with compressed air gun,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:02:46,2000-01-01 00:03:20,scrape component surface with metal tool,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:03:20,2000-01-01 00:03:28,blow debris with compressed air gun,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:03:38,2000-01-01 00:05:46,scrape component surface with metal tool,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:05:50,2000-01-01 00:06:40,scrape component surface with metal tool,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:06:40,2000-01-01 00:06:48,blow debris with compressed air gun,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:07:05,2000-01-01 00:07:37,scrape component surface with metal tool,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:07:37,2000-01-01 00:07:44,blow debris with compressed air gun,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:07:44,2000-01-01 00:10:25,scrape component surface with metal tool,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:10:35,2000-01-01 00:11:08,scrape component surface with metal tool,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:11:23,2000-01-01 00:15:33,scrape component surface with metal tool,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:15:39,2000-01-01 00:18:28,scrape component surface with metal tool,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:18:28,2000-01-01 00:18:33,blow debris with compressed air gun,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:18:33,2000-01-01 00:19:10,scrape component surface with metal tool,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:19:10,2000-01-01 00:19:16,blow debris with compressed air gun,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:19:16,2000-01-01 00:19:42,scrape component surface with metal tool,Wax pattern assembly,factory_003,worker_006

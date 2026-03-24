@@ -1,0 +1,8 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:13,weld wax components with heated pen tool,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:00:22,2000-01-01 00:00:39,weld wax components with heated pen tool,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:00:43,2000-01-01 00:00:50,weld wax components with heated pen tool,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:01:04,2000-01-01 00:01:23,weld wax components with heated pen tool,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:01:31,2000-01-01 00:08:25,weld wax components with heated pen tool,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:08:38,2000-01-01 00:12:49,weld wax components with heated pen tool,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:13:06,2000-01-01 00:20:01,weld wax components with heated pen tool,Wax pattern assembly,factory_003,worker_006

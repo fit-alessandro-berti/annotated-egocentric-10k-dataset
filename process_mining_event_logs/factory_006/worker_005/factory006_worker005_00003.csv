@@ -1,0 +1,96 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:13,2000-01-01 00:00:19,strike inverted mold to eject compressed block,Compression molding,factory_006,worker_005
+2000-01-01 00:00:19,2000-01-01 00:00:30,place empty mold into automated filling press,Compression molding,factory_006,worker_005
+2000-01-01 00:00:30,2000-01-01 00:00:46,activate hydraulic press via control panel,Compression molding,factory_006,worker_005
+2000-01-01 00:01:04,2000-01-01 00:01:18,place empty mold into automated filling press,Compression molding,factory_006,worker_005
+2000-01-01 00:01:18,2000-01-01 00:01:26,activate hydraulic press via control panel,Compression molding,factory_006,worker_005
+2000-01-01 00:01:26,2000-01-01 00:01:39,strike inverted mold to eject compressed block,Compression molding,factory_006,worker_005
+2000-01-01 00:01:39,2000-01-01 00:01:47,place empty mold into automated filling press,Compression molding,factory_006,worker_005
+2000-01-01 00:01:47,2000-01-01 00:02:00,activate hydraulic press via control panel,Compression molding,factory_006,worker_005
+2000-01-01 00:02:00,2000-01-01 00:02:12,strike inverted mold to eject compressed block,Compression molding,factory_006,worker_005
+2000-01-01 00:02:12,2000-01-01 00:02:24,place empty mold into automated filling press,Compression molding,factory_006,worker_005
+2000-01-01 00:02:24,2000-01-01 00:02:37,activate hydraulic press via control panel,Compression molding,factory_006,worker_005
+2000-01-01 00:02:37,2000-01-01 00:02:49,strike inverted mold to eject compressed block,Compression molding,factory_006,worker_005
+2000-01-01 00:02:49,2000-01-01 00:03:01,place empty mold into automated filling press,Compression molding,factory_006,worker_005
+2000-01-01 00:03:01,2000-01-01 00:03:14,activate hydraulic press via control panel,Compression molding,factory_006,worker_005
+2000-01-01 00:03:14,2000-01-01 00:03:26,strike inverted mold to eject compressed block,Compression molding,factory_006,worker_005
+2000-01-01 00:03:26,2000-01-01 00:03:38,place empty mold into automated filling press,Compression molding,factory_006,worker_005
+2000-01-01 00:03:38,2000-01-01 00:03:51,activate hydraulic press via control panel,Compression molding,factory_006,worker_005
+2000-01-01 00:03:51,2000-01-01 00:04:03,strike inverted mold to eject compressed block,Compression molding,factory_006,worker_005
+2000-01-01 00:04:03,2000-01-01 00:04:15,place empty mold into automated filling press,Compression molding,factory_006,worker_005
+2000-01-01 00:04:15,2000-01-01 00:04:28,activate hydraulic press via control panel,Compression molding,factory_006,worker_005
+2000-01-01 00:04:28,2000-01-01 00:04:40,strike inverted mold to eject compressed block,Compression molding,factory_006,worker_005
+2000-01-01 00:04:40,2000-01-01 00:04:52,place empty mold into automated filling press,Compression molding,factory_006,worker_005
+2000-01-01 00:04:52,2000-01-01 00:05:05,activate hydraulic press via control panel,Compression molding,factory_006,worker_005
+2000-01-01 00:05:05,2000-01-01 00:05:17,strike inverted mold to eject compressed block,Compression molding,factory_006,worker_005
+2000-01-01 00:05:17,2000-01-01 00:05:29,place empty mold into automated filling press,Compression molding,factory_006,worker_005
+2000-01-01 00:05:29,2000-01-01 00:05:42,activate hydraulic press via control panel,Compression molding,factory_006,worker_005
+2000-01-01 00:05:42,2000-01-01 00:05:54,strike inverted mold to eject compressed block,Compression molding,factory_006,worker_005
+2000-01-01 00:05:54,2000-01-01 00:06:06,place empty mold into automated filling press,Compression molding,factory_006,worker_005
+2000-01-01 00:06:06,2000-01-01 00:06:19,activate hydraulic press via control panel,Compression molding,factory_006,worker_005
+2000-01-01 00:06:19,2000-01-01 00:06:31,strike inverted mold to eject compressed block,Compression molding,factory_006,worker_005
+2000-01-01 00:06:31,2000-01-01 00:06:43,place empty mold into automated filling press,Compression molding,factory_006,worker_005
+2000-01-01 00:06:43,2000-01-01 00:06:56,activate hydraulic press via control panel,Compression molding,factory_006,worker_005
+2000-01-01 00:06:56,2000-01-01 00:07:08,strike inverted mold to eject compressed block,Compression molding,factory_006,worker_005
+2000-01-01 00:07:08,2000-01-01 00:07:20,place empty mold into automated filling press,Compression molding,factory_006,worker_005
+2000-01-01 00:07:20,2000-01-01 00:07:33,activate hydraulic press via control panel,Compression molding,factory_006,worker_005
+2000-01-01 00:07:33,2000-01-01 00:07:45,strike inverted mold to eject compressed block,Compression molding,factory_006,worker_005
+2000-01-01 00:07:45,2000-01-01 00:07:57,place empty mold into automated filling press,Compression molding,factory_006,worker_005
+2000-01-01 00:07:57,2000-01-01 00:08:10,activate hydraulic press via control panel,Compression molding,factory_006,worker_005
+2000-01-01 00:08:10,2000-01-01 00:08:22,strike inverted mold to eject compressed block,Compression molding,factory_006,worker_005
+2000-01-01 00:08:22,2000-01-01 00:08:34,place empty mold into automated filling press,Compression molding,factory_006,worker_005
+2000-01-01 00:08:34,2000-01-01 00:08:47,activate hydraulic press via control panel,Compression molding,factory_006,worker_005
+2000-01-01 00:08:47,2000-01-01 00:08:59,strike inverted mold to eject compressed block,Compression molding,factory_006,worker_005
+2000-01-01 00:08:59,2000-01-01 00:09:11,place empty mold into automated filling press,Compression molding,factory_006,worker_005
+2000-01-01 00:09:11,2000-01-01 00:09:24,activate hydraulic press via control panel,Compression molding,factory_006,worker_005
+2000-01-01 00:09:24,2000-01-01 00:09:36,strike inverted mold to eject compressed block,Compression molding,factory_006,worker_005
+2000-01-01 00:09:36,2000-01-01 00:09:48,place empty mold into automated filling press,Compression molding,factory_006,worker_005
+2000-01-01 00:09:48,2000-01-01 00:10:01,activate hydraulic press via control panel,Compression molding,factory_006,worker_005
+2000-01-01 00:10:01,2000-01-01 00:10:13,strike inverted mold to eject compressed block,Compression molding,factory_006,worker_005
+2000-01-01 00:10:13,2000-01-01 00:10:25,place empty mold into automated filling press,Compression molding,factory_006,worker_005
+2000-01-01 00:10:25,2000-01-01 00:10:38,activate hydraulic press via control panel,Compression molding,factory_006,worker_005
+2000-01-01 00:10:38,2000-01-01 00:10:50,strike inverted mold to eject compressed block,Compression molding,factory_006,worker_005
+2000-01-01 00:10:50,2000-01-01 00:11:02,place empty mold into automated filling press,Compression molding,factory_006,worker_005
+2000-01-01 00:11:02,2000-01-01 00:11:15,activate hydraulic press via control panel,Compression molding,factory_006,worker_005
+2000-01-01 00:11:15,2000-01-01 00:11:27,strike inverted mold to eject compressed block,Compression molding,factory_006,worker_005
+2000-01-01 00:11:27,2000-01-01 00:11:39,place empty mold into automated filling press,Compression molding,factory_006,worker_005
+2000-01-01 00:11:39,2000-01-01 00:11:52,activate hydraulic press via control panel,Compression molding,factory_006,worker_005
+2000-01-01 00:11:52,2000-01-01 00:12:04,strike inverted mold to eject compressed block,Compression molding,factory_006,worker_005
+2000-01-01 00:12:04,2000-01-01 00:12:16,place empty mold into automated filling press,Compression molding,factory_006,worker_005
+2000-01-01 00:12:16,2000-01-01 00:12:29,activate hydraulic press via control panel,Compression molding,factory_006,worker_005
+2000-01-01 00:12:29,2000-01-01 00:12:41,strike inverted mold to eject compressed block,Compression molding,factory_006,worker_005
+2000-01-01 00:12:41,2000-01-01 00:12:53,place empty mold into automated filling press,Compression molding,factory_006,worker_005
+2000-01-01 00:12:53,2000-01-01 00:13:06,activate hydraulic press via control panel,Compression molding,factory_006,worker_005
+2000-01-01 00:13:06,2000-01-01 00:13:18,strike inverted mold to eject compressed block,Compression molding,factory_006,worker_005
+2000-01-01 00:13:18,2000-01-01 00:13:30,place empty mold into automated filling press,Compression molding,factory_006,worker_005
+2000-01-01 00:13:30,2000-01-01 00:13:43,activate hydraulic press via control panel,Compression molding,factory_006,worker_005
+2000-01-01 00:13:43,2000-01-01 00:13:55,strike inverted mold to eject compressed block,Compression molding,factory_006,worker_005
+2000-01-01 00:13:55,2000-01-01 00:14:07,place empty mold into automated filling press,Compression molding,factory_006,worker_005
+2000-01-01 00:14:07,2000-01-01 00:14:17,carry stack of finished blocks to storage crate,Compression molding,factory_006,worker_005
+2000-01-01 00:14:23,2000-01-01 00:14:35,blow debris from mold cavities with air gun,Machine cleaning and maintenance,factory_006,worker_005
+2000-01-01 00:14:35,2000-01-01 00:14:47,place empty mold into automated filling press,Compression molding,factory_006,worker_005
+2000-01-01 00:14:47,2000-01-01 00:15:00,activate hydraulic press via control panel,Compression molding,factory_006,worker_005
+2000-01-01 00:15:00,2000-01-01 00:15:12,strike inverted mold to eject compressed block,Compression molding,factory_006,worker_005
+2000-01-01 00:15:12,2000-01-01 00:15:24,place empty mold into automated filling press,Compression molding,factory_006,worker_005
+2000-01-01 00:15:24,2000-01-01 00:15:37,activate hydraulic press via control panel,Compression molding,factory_006,worker_005
+2000-01-01 00:15:37,2000-01-01 00:15:49,strike inverted mold to eject compressed block,Compression molding,factory_006,worker_005
+2000-01-01 00:15:49,2000-01-01 00:16:01,place empty mold into automated filling press,Compression molding,factory_006,worker_005
+2000-01-01 00:16:01,2000-01-01 00:16:14,activate hydraulic press via control panel,Compression molding,factory_006,worker_005
+2000-01-01 00:16:14,2000-01-01 00:16:26,strike inverted mold to eject compressed block,Compression molding,factory_006,worker_005
+2000-01-01 00:16:26,2000-01-01 00:16:38,place empty mold into automated filling press,Compression molding,factory_006,worker_005
+2000-01-01 00:16:38,2000-01-01 00:16:51,activate hydraulic press via control panel,Compression molding,factory_006,worker_005
+2000-01-01 00:16:51,2000-01-01 00:17:03,strike inverted mold to eject compressed block,Compression molding,factory_006,worker_005
+2000-01-01 00:17:03,2000-01-01 00:17:15,place empty mold into automated filling press,Compression molding,factory_006,worker_005
+2000-01-01 00:17:15,2000-01-01 00:17:28,activate hydraulic press via control panel,Compression molding,factory_006,worker_005
+2000-01-01 00:17:28,2000-01-01 00:17:40,strike inverted mold to eject compressed block,Compression molding,factory_006,worker_005
+2000-01-01 00:17:40,2000-01-01 00:17:52,place empty mold into automated filling press,Compression molding,factory_006,worker_005
+2000-01-01 00:17:52,2000-01-01 00:18:05,activate hydraulic press via control panel,Compression molding,factory_006,worker_005
+2000-01-01 00:18:05,2000-01-01 00:18:17,strike inverted mold to eject compressed block,Compression molding,factory_006,worker_005
+2000-01-01 00:18:17,2000-01-01 00:18:29,place empty mold into automated filling press,Compression molding,factory_006,worker_005
+2000-01-01 00:18:29,2000-01-01 00:18:42,activate hydraulic press via control panel,Compression molding,factory_006,worker_005
+2000-01-01 00:18:42,2000-01-01 00:18:57,strike inverted mold to eject compressed block,Compression molding,factory_006,worker_005
+2000-01-01 00:19:01,2000-01-01 00:19:15,refill rear press hopper with granular material,Compression molding,factory_006,worker_005
+2000-01-01 00:19:22,2000-01-01 00:19:34,place empty mold into automated filling press,Compression molding,factory_006,worker_005
+2000-01-01 00:19:34,2000-01-01 00:19:47,activate hydraulic press via control panel,Compression molding,factory_006,worker_005
+2000-01-01 00:19:47,2000-01-01 00:19:59,strike inverted mold to eject compressed block,Compression molding,factory_006,worker_005
+2000-01-01 00:19:59,2000-01-01 00:20:10,place empty mold into automated filling press,Compression molding,factory_006,worker_005

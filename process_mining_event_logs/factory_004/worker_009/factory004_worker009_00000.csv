@@ -1,0 +1,9 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:02:59,Iron folded garment with steam iron,Garment ironing,factory_004,worker_009
+2000-01-01 00:03:15,2000-01-01 00:03:49,Iron folded garment with steam iron,Garment ironing,factory_004,worker_009
+2000-01-01 00:03:49,2000-01-01 00:03:56,Fetch loose garments from floor mat,Material transport,factory_004,worker_009
+2000-01-01 00:03:56,2000-01-01 00:04:51,Iron folded garment with steam iron,Garment ironing,factory_004,worker_009
+2000-01-01 00:04:51,2000-01-01 00:05:04,Fetch loose garments from floor mat,Material transport,factory_004,worker_009
+2000-01-01 00:05:39,2000-01-01 00:13:50,Iron folded garment with steam iron,Garment ironing,factory_004,worker_009
+2000-01-01 00:16:20,2000-01-01 00:19:01,Iron folded garment with steam iron,Garment ironing,factory_004,worker_009
+2000-01-01 00:19:26,2000-01-01 00:20:00,Iron folded garment with steam iron,Garment ironing,factory_004,worker_009

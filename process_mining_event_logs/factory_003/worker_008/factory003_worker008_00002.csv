@@ -1,0 +1,13 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:02:56,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_008
+2000-01-01 00:03:29,2000-01-01 00:04:17,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_008
+2000-01-01 00:04:17,2000-01-01 00:06:49,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_008
+2000-01-01 00:07:01,2000-01-01 00:08:22,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_008
+2000-01-01 00:08:22,2000-01-01 00:08:53,apply paste with brush,Component sub-assembly,factory_003,worker_008
+2000-01-01 00:08:53,2000-01-01 00:09:50,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_008
+2000-01-01 00:09:50,2000-01-01 00:10:46,assemble components in metal fixture,Component sub-assembly,factory_003,worker_008
+2000-01-01 00:10:46,2000-01-01 00:13:00,apply paste with brush,Component sub-assembly,factory_003,worker_008
+2000-01-01 00:13:00,2000-01-01 00:17:35,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_008
+2000-01-01 00:17:35,2000-01-01 00:18:13,compare finished trays against paper document,Inventory verification,factory_003,worker_008
+2000-01-01 00:18:13,2000-01-01 00:18:29,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_008
+2000-01-01 00:18:29,2000-01-01 00:20:00,compare finished trays against paper document,Inventory verification,factory_003,worker_008

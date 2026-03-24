@@ -1,0 +1,43 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:30,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:00:35,2000-01-01 00:00:55,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:00:55,2000-01-01 00:01:09,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_003
+2000-01-01 00:01:09,2000-01-01 00:01:21,Adjust machine thread tensioner,Machine maintenance,factory_004,worker_003
+2000-01-01 00:01:21,2000-01-01 00:02:18,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:02:18,2000-01-01 00:02:20,Grab unsewn fabric from disorganized pile,Overlock seaming,factory_004,worker_003
+2000-01-01 00:02:20,2000-01-01 00:02:50,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:02:50,2000-01-01 00:02:52,Grab unsewn fabric from disorganized pile,Overlock seaming,factory_004,worker_003
+2000-01-01 00:02:52,2000-01-01 00:05:15,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:05:15,2000-01-01 00:05:17,Grab unsewn fabric from disorganized pile,Overlock seaming,factory_004,worker_003
+2000-01-01 00:05:17,2000-01-01 00:05:46,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:05:46,2000-01-01 00:05:49,Grab unsewn fabric from disorganized pile,Overlock seaming,factory_004,worker_003
+2000-01-01 00:05:49,2000-01-01 00:06:14,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:06:14,2000-01-01 00:06:16,Grab unsewn fabric from disorganized pile,Overlock seaming,factory_004,worker_003
+2000-01-01 00:06:16,2000-01-01 00:07:38,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:07:38,2000-01-01 00:07:40,Grab unsewn fabric from disorganized pile,Overlock seaming,factory_004,worker_003
+2000-01-01 00:07:40,2000-01-01 00:07:56,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:08:50,2000-01-01 00:08:53,Grab unsewn fabric from disorganized pile,Overlock seaming,factory_004,worker_003
+2000-01-01 00:08:53,2000-01-01 00:09:28,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:09:28,2000-01-01 00:09:30,Grab unsewn fabric from disorganized pile,Overlock seaming,factory_004,worker_003
+2000-01-01 00:09:30,2000-01-01 00:09:41,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:09:41,2000-01-01 00:09:44,Grab unsewn fabric from disorganized pile,Overlock seaming,factory_004,worker_003
+2000-01-01 00:09:44,2000-01-01 00:10:28,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:10:28,2000-01-01 00:10:46,Grab unsewn fabric from disorganized pile,Material transport,factory_004,worker_003
+2000-01-01 00:10:46,2000-01-01 00:11:00,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:11:00,2000-01-01 00:11:05,Grab unsewn fabric from disorganized pile,Overlock seaming,factory_004,worker_003
+2000-01-01 00:11:05,2000-01-01 00:14:17,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:14:17,2000-01-01 00:14:20,Grab unsewn fabric from disorganized pile,Overlock seaming,factory_004,worker_003
+2000-01-01 00:14:20,2000-01-01 00:14:52,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:14:52,2000-01-01 00:15:13,Grab unsewn fabric from disorganized pile,Overlock seaming,factory_004,worker_003
+2000-01-01 00:15:13,2000-01-01 00:17:06,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:17:06,2000-01-01 00:17:08,Grab unsewn fabric from disorganized pile,Overlock seaming,factory_004,worker_003
+2000-01-01 00:17:08,2000-01-01 00:18:18,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:18:18,2000-01-01 00:18:20,Grab unsewn fabric from disorganized pile,Overlock seaming,factory_004,worker_003
+2000-01-01 00:18:20,2000-01-01 00:18:48,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:18:48,2000-01-01 00:18:50,Grab unsewn fabric from disorganized pile,Overlock seaming,factory_004,worker_003
+2000-01-01 00:18:50,2000-01-01 00:18:54,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:18:54,2000-01-01 00:18:56,Grab unsewn fabric from disorganized pile,Overlock seaming,factory_004,worker_003
+2000-01-01 00:18:56,2000-01-01 00:19:41,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:19:41,2000-01-01 00:19:52,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_003
+2000-01-01 00:19:52,2000-01-01 00:19:54,Grab unsewn fabric from disorganized pile,Overlock seaming,factory_004,worker_003
+2000-01-01 00:19:54,2000-01-01 00:20:00,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_003

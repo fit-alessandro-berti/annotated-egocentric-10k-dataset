@@ -1,0 +1,2 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:19:59,mark fabric edge with pen,Sub-assembly marking,factory_002,worker_004

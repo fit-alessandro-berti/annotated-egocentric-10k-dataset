@@ -1,0 +1,20 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:06:18,coat mold cavity with liquid release agent,Mold preparation and cleaning,factory_003,worker_002
+2000-01-01 00:06:18,2000-01-01 00:06:46,wipe excess paste with cloth,Mold preparation and cleaning,factory_003,worker_002
+2000-01-01 00:06:46,2000-01-01 00:07:44,bind assembled components with rubber bands,Mold preparation and cleaning,factory_003,worker_002
+2000-01-01 00:07:44,2000-01-01 00:08:18,wipe excess paste with cloth,Mold preparation and cleaning,factory_003,worker_002
+2000-01-01 00:08:18,2000-01-01 00:08:33,bind assembled components with rubber bands,Mold preparation and cleaning,factory_003,worker_002
+2000-01-01 00:08:33,2000-01-01 00:08:48,wipe excess paste with cloth,Mold preparation and cleaning,factory_003,worker_002
+2000-01-01 00:08:48,2000-01-01 00:09:05,bind assembled components with rubber bands,Mold preparation and cleaning,factory_003,worker_002
+2000-01-01 00:09:05,2000-01-01 00:09:40,pick debris from mold cavity,Mold preparation and cleaning,factory_003,worker_002
+2000-01-01 00:09:40,2000-01-01 00:10:36,thread core insert onto stick,Mold preparation and cleaning,factory_003,worker_002
+2000-01-01 00:10:36,2000-01-01 00:10:52,load pre-manufactured insert into mold,Mold preparation and cleaning,factory_003,worker_002
+2000-01-01 00:10:52,2000-01-01 00:11:09,pick debris from mold cavity,Mold preparation and cleaning,factory_003,worker_002
+2000-01-01 00:11:09,2000-01-01 00:11:25,close two-part mold assembly,Mold preparation and cleaning,factory_003,worker_002
+2000-01-01 00:11:38,2000-01-01 00:11:46,thread core insert onto stick,Mold preparation and cleaning,factory_003,worker_002
+2000-01-01 00:11:46,2000-01-01 00:11:54,load pre-manufactured insert into mold,Mold preparation and cleaning,factory_003,worker_002
+2000-01-01 00:11:54,2000-01-01 00:12:03,close two-part mold assembly,Mold preparation and cleaning,factory_003,worker_002
+2000-01-01 00:12:03,2000-01-01 00:12:12,bind assembled components with rubber bands,Mold preparation and cleaning,factory_003,worker_002
+2000-01-01 00:12:12,2000-01-01 00:12:18,pick debris from mold cavity,Mold preparation and cleaning,factory_003,worker_002
+2000-01-01 00:12:18,2000-01-01 00:12:24,load pre-manufactured insert into mold,Mold preparation and cleaning,factory_003,worker_002
+2000-01-01 00:12:24,2000-01-01 00:12:31,close two-part mold assembly,Mold preparation and cleaning,factory_003,worker_002

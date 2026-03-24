@@ -1,0 +1,77 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:13,2000-01-01 00:00:29,Align raw fabric edges by hand,Overlock seaming,factory_004,worker_004
+2000-01-01 00:00:29,2000-01-01 00:00:40,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_004
+2000-01-01 00:00:52,2000-01-01 00:01:04,Align raw fabric edges by hand,Overlock seaming,factory_004,worker_004
+2000-01-01 00:01:04,2000-01-01 00:01:17,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:01:17,2000-01-01 00:01:28,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_004
+2000-01-01 00:01:28,2000-01-01 00:01:42,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:01:42,2000-01-01 00:01:49,Align raw fabric edges by hand,Overlock seaming,factory_004,worker_004
+2000-01-01 00:01:49,2000-01-01 00:02:06,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:02:06,2000-01-01 00:02:16,Align raw fabric edges by hand,Overlock seaming,factory_004,worker_004
+2000-01-01 00:02:16,2000-01-01 00:02:32,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:02:32,2000-01-01 00:02:39,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_004
+2000-01-01 00:02:39,2000-01-01 00:02:54,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:02:54,2000-01-01 00:03:02,Align raw fabric edges by hand,Overlock seaming,factory_004,worker_004
+2000-01-01 00:03:02,2000-01-01 00:03:16,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:03:16,2000-01-01 00:03:31,Grab unsewn fabric from disorganized pile,Overlock seaming,factory_004,worker_004
+2000-01-01 00:03:31,2000-01-01 00:03:54,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_004
+2000-01-01 00:04:00,2000-01-01 00:04:16,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:04:16,2000-01-01 00:04:22,Align raw fabric edges by hand,Overlock seaming,factory_004,worker_004
+2000-01-01 00:04:22,2000-01-01 00:04:34,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:04:34,2000-01-01 00:04:42,Align raw fabric edges by hand,Overlock seaming,factory_004,worker_004
+2000-01-01 00:04:42,2000-01-01 00:04:53,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:04:53,2000-01-01 00:05:00,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_004
+2000-01-01 00:05:00,2000-01-01 00:05:13,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:05:13,2000-01-01 00:05:24,Align raw fabric edges by hand,Overlock seaming,factory_004,worker_004
+2000-01-01 00:05:24,2000-01-01 00:05:41,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:05:41,2000-01-01 00:05:47,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_004
+2000-01-01 00:05:47,2000-01-01 00:05:59,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:06:20,2000-01-01 00:06:31,Unfold raw fabric edges,Tape feeding,factory_004,worker_004
+2000-01-01 00:06:31,2000-01-01 00:06:44,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:06:44,2000-01-01 00:06:50,Align raw fabric edges by hand,Overlock seaming,factory_004,worker_004
+2000-01-01 00:06:50,2000-01-01 00:07:02,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:07:24,2000-01-01 00:07:38,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:07:38,2000-01-01 00:07:44,Align raw fabric edges by hand,Overlock seaming,factory_004,worker_004
+2000-01-01 00:07:44,2000-01-01 00:07:55,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:07:55,2000-01-01 00:08:04,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_004
+2000-01-01 00:08:04,2000-01-01 00:08:19,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:08:19,2000-01-01 00:08:29,Align raw fabric edges by hand,Overlock seaming,factory_004,worker_004
+2000-01-01 00:08:29,2000-01-01 00:08:39,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:08:39,2000-01-01 00:08:47,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_004
+2000-01-01 00:08:47,2000-01-01 00:09:00,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:09:00,2000-01-01 00:09:07,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_004
+2000-01-01 00:09:07,2000-01-01 00:09:18,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:09:18,2000-01-01 00:09:43,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_004
+2000-01-01 00:09:58,2000-01-01 00:10:10,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:10:22,2000-01-01 00:10:36,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:10:48,2000-01-01 00:11:00,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:11:12,2000-01-01 00:11:29,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:11:43,2000-01-01 00:11:51,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:12:00,2000-01-01 00:12:10,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:12:10,2000-01-01 00:12:18,Unfold raw fabric edges,Tape feeding,factory_004,worker_004
+2000-01-01 00:12:34,2000-01-01 00:12:47,Align raw fabric edges by hand,Overlock seaming,factory_004,worker_004
+2000-01-01 00:12:47,2000-01-01 00:12:53,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:13:06,2000-01-01 00:13:19,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:13:31,2000-01-01 00:13:39,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:13:44,2000-01-01 00:13:58,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:13:58,2000-01-01 00:14:04,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_004
+2000-01-01 00:14:04,2000-01-01 00:14:15,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:14:15,2000-01-01 00:14:24,Align raw fabric edges by hand,Overlock seaming,factory_004,worker_004
+2000-01-01 00:14:24,2000-01-01 00:14:36,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:14:45,2000-01-01 00:14:55,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:14:55,2000-01-01 00:15:05,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_004
+2000-01-01 00:15:05,2000-01-01 00:15:18,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:15:28,2000-01-01 00:15:38,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:15:38,2000-01-01 00:16:01,Align raw fabric edges by hand,Tape feeding,factory_004,worker_004
+2000-01-01 00:16:01,2000-01-01 00:16:08,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:16:08,2000-01-01 00:16:30,Align raw fabric edges by hand,Tape feeding,factory_004,worker_004
+2000-01-01 00:16:30,2000-01-01 00:16:47,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_004
+2000-01-01 00:16:56,2000-01-01 00:17:18,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:17:18,2000-01-01 00:17:24,Align raw fabric edges by hand,Overlock seaming,factory_004,worker_004
+2000-01-01 00:17:24,2000-01-01 00:17:36,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:17:42,2000-01-01 00:18:03,Trim raw fabric edge manually,Thread trimming,factory_004,worker_004
+2000-01-01 00:18:03,2000-01-01 00:18:32,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:18:32,2000-01-01 00:18:48,Trim raw fabric edge manually,Thread trimming,factory_004,worker_004
+2000-01-01 00:18:48,2000-01-01 00:19:00,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:19:16,2000-01-01 00:19:22,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:19:22,2000-01-01 00:20:00,Trim raw fabric edge manually,Thread trimming,factory_004,worker_004

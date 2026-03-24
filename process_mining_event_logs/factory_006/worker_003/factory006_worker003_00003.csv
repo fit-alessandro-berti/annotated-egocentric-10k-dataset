@@ -1,0 +1,115 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:26,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003
+2000-01-01 00:00:26,2000-01-01 00:00:54,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003
+2000-01-01 00:00:54,2000-01-01 00:01:03,wipe pattern plate with cloth rag,Pattern cleaning and coating,factory_006,worker_003
+2000-01-01 00:01:03,2000-01-01 00:01:13,lift empty mold box onto pattern plate,Sand mold creation,factory_006,worker_003
+2000-01-01 00:01:13,2000-01-01 00:01:25,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003
+2000-01-01 00:01:25,2000-01-01 00:01:38,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:01:38,2000-01-01 00:01:52,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003
+2000-01-01 00:01:52,2000-01-01 00:02:22,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003
+2000-01-01 00:02:22,2000-01-01 00:02:37,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:02:37,2000-01-01 00:02:52,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003
+2000-01-01 00:02:52,2000-01-01 00:03:13,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003
+2000-01-01 00:03:13,2000-01-01 00:03:23,strike powder surface with heavy wooden mallet,Sand mold creation,factory_006,worker_003
+2000-01-01 00:03:23,2000-01-01 00:03:34,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:03:34,2000-01-01 00:03:44,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003
+2000-01-01 00:03:44,2000-01-01 00:03:58,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003
+2000-01-01 00:03:58,2000-01-01 00:04:05,wipe pattern plate with cloth rag,Pattern cleaning and coating,factory_006,worker_003
+2000-01-01 00:04:05,2000-01-01 00:04:24,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003
+2000-01-01 00:04:24,2000-01-01 00:04:36,level powder surface with wooden scraper,Sand mold creation,factory_006,worker_003
+2000-01-01 00:04:36,2000-01-01 00:04:42,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:04:42,2000-01-01 00:04:49,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003
+2000-01-01 00:04:49,2000-01-01 00:05:02,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003
+2000-01-01 00:05:02,2000-01-01 00:05:10,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:05:10,2000-01-01 00:05:14,level powder surface with wooden scraper,Sand mold creation,factory_006,worker_003
+2000-01-01 00:05:14,2000-01-01 00:05:26,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003
+2000-01-01 00:05:26,2000-01-01 00:05:32,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:05:32,2000-01-01 00:05:45,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003
+2000-01-01 00:05:45,2000-01-01 00:05:54,wipe pattern plate with cloth rag,Pattern cleaning and coating,factory_006,worker_003
+2000-01-01 00:05:54,2000-01-01 00:06:07,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:06:07,2000-01-01 00:06:14,level powder surface with wooden scraper,Sand mold creation,factory_006,worker_003
+2000-01-01 00:06:14,2000-01-01 00:06:21,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003
+2000-01-01 00:06:21,2000-01-01 00:06:33,compress sand with automated machine press,Sand mold creation,factory_006,worker_003
+2000-01-01 00:06:33,2000-01-01 00:06:42,level powder surface with wooden scraper,Sand mold creation,factory_006,worker_003
+2000-01-01 00:06:42,2000-01-01 00:06:51,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:06:51,2000-01-01 00:07:11,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003
+2000-01-01 00:07:11,2000-01-01 00:07:19,wipe pattern plate with cloth rag,Pattern cleaning and coating,factory_006,worker_003
+2000-01-01 00:07:19,2000-01-01 00:07:34,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:07:34,2000-01-01 00:07:44,level powder surface with wooden scraper,Sand mold creation,factory_006,worker_003
+2000-01-01 00:07:44,2000-01-01 00:07:53,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003
+2000-01-01 00:07:53,2000-01-01 00:08:07,level powder surface with wooden scraper,Sand mold creation,factory_006,worker_003
+2000-01-01 00:08:07,2000-01-01 00:08:15,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:08:15,2000-01-01 00:08:24,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003
+2000-01-01 00:08:24,2000-01-01 00:08:37,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003
+2000-01-01 00:08:37,2000-01-01 00:08:42,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003
+2000-01-01 00:08:42,2000-01-01 00:08:49,level powder surface with wooden scraper,Sand mold creation,factory_006,worker_003
+2000-01-01 00:08:49,2000-01-01 00:08:56,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:08:56,2000-01-01 00:09:10,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003
+2000-01-01 00:09:10,2000-01-01 00:09:17,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:09:17,2000-01-01 00:09:24,level powder surface with wooden scraper,Sand mold creation,factory_006,worker_003
+2000-01-01 00:09:24,2000-01-01 00:09:32,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003
+2000-01-01 00:09:32,2000-01-01 00:09:47,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:09:47,2000-01-01 00:09:55,level powder surface with wooden scraper,Sand mold creation,factory_006,worker_003
+2000-01-01 00:09:55,2000-01-01 00:10:04,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003
+2000-01-01 00:10:16,2000-01-01 00:10:31,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003
+2000-01-01 00:10:31,2000-01-01 00:10:39,level powder surface with wooden scraper,Sand mold creation,factory_006,worker_003
+2000-01-01 00:10:39,2000-01-01 00:10:48,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:10:48,2000-01-01 00:10:58,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003
+2000-01-01 00:10:58,2000-01-01 00:11:14,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003
+2000-01-01 00:11:14,2000-01-01 00:11:22,level powder surface with wooden scraper,Sand mold creation,factory_006,worker_003
+2000-01-01 00:11:22,2000-01-01 00:11:31,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:11:31,2000-01-01 00:11:39,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003
+2000-01-01 00:11:39,2000-01-01 00:11:55,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003
+2000-01-01 00:11:55,2000-01-01 00:12:02,level powder surface with wooden scraper,Sand mold creation,factory_006,worker_003
+2000-01-01 00:12:02,2000-01-01 00:12:08,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:12:08,2000-01-01 00:12:16,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003
+2000-01-01 00:12:16,2000-01-01 00:12:30,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003
+2000-01-01 00:12:30,2000-01-01 00:12:36,level powder surface with wooden scraper,Sand mold creation,factory_006,worker_003
+2000-01-01 00:12:36,2000-01-01 00:12:42,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:12:42,2000-01-01 00:12:52,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003
+2000-01-01 00:12:52,2000-01-01 00:13:00,wipe pattern plate with cloth rag,Pattern cleaning and coating,factory_006,worker_003
+2000-01-01 00:13:00,2000-01-01 00:13:20,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:13:20,2000-01-01 00:13:27,level powder surface with wooden scraper,Sand mold creation,factory_006,worker_003
+2000-01-01 00:13:27,2000-01-01 00:13:32,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003
+2000-01-01 00:13:32,2000-01-01 00:13:44,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003
+2000-01-01 00:13:44,2000-01-01 00:13:48,level powder surface with wooden scraper,Sand mold creation,factory_006,worker_003
+2000-01-01 00:13:48,2000-01-01 00:13:52,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:13:52,2000-01-01 00:14:00,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003
+2000-01-01 00:14:00,2000-01-01 00:14:15,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003
+2000-01-01 00:14:15,2000-01-01 00:14:24,level powder surface with wooden scraper,Sand mold creation,factory_006,worker_003
+2000-01-01 00:14:24,2000-01-01 00:14:32,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:14:32,2000-01-01 00:14:50,shovel spilled sand from floor,Workspace clearing,factory_006,worker_003
+2000-01-01 00:14:50,2000-01-01 00:14:56,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:14:56,2000-01-01 00:15:03,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003
+2000-01-01 00:15:03,2000-01-01 00:15:08,wipe pattern plate with cloth rag,Pattern cleaning and coating,factory_006,worker_003
+2000-01-01 00:15:08,2000-01-01 00:15:18,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003
+2000-01-01 00:15:18,2000-01-01 00:15:22,level powder surface with wooden scraper,Sand mold creation,factory_006,worker_003
+2000-01-01 00:15:22,2000-01-01 00:15:26,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:15:26,2000-01-01 00:15:43,shovel spilled sand from floor,Workspace clearing,factory_006,worker_003
+2000-01-01 00:15:43,2000-01-01 00:15:50,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003
+2000-01-01 00:15:50,2000-01-01 00:16:04,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003
+2000-01-01 00:16:04,2000-01-01 00:16:11,level powder surface with wooden scraper,Sand mold creation,factory_006,worker_003
+2000-01-01 00:16:11,2000-01-01 00:16:18,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:16:18,2000-01-01 00:16:25,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003
+2000-01-01 00:16:25,2000-01-01 00:16:36,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003
+2000-01-01 00:16:36,2000-01-01 00:16:42,level powder surface with wooden scraper,Sand mold creation,factory_006,worker_003
+2000-01-01 00:16:42,2000-01-01 00:16:51,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:16:51,2000-01-01 00:17:00,shovel spilled sand from floor,Workspace clearing,factory_006,worker_003
+2000-01-01 00:17:00,2000-01-01 00:17:15,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003
+2000-01-01 00:17:15,2000-01-01 00:17:22,level powder surface with wooden scraper,Sand mold creation,factory_006,worker_003
+2000-01-01 00:17:22,2000-01-01 00:17:31,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:17:31,2000-01-01 00:17:41,shovel spilled sand from floor,Workspace clearing,factory_006,worker_003
+2000-01-01 00:17:41,2000-01-01 00:17:48,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003
+2000-01-01 00:17:48,2000-01-01 00:18:03,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003
+2000-01-01 00:18:03,2000-01-01 00:18:10,level powder surface with wooden scraper,Sand mold creation,factory_006,worker_003
+2000-01-01 00:18:10,2000-01-01 00:18:16,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:18:16,2000-01-01 00:18:24,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003
+2000-01-01 00:18:24,2000-01-01 00:18:39,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003
+2000-01-01 00:18:39,2000-01-01 00:18:47,level powder surface with wooden scraper,Sand mold creation,factory_006,worker_003
+2000-01-01 00:18:47,2000-01-01 00:18:56,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:18:56,2000-01-01 00:19:07,shovel spilled sand from floor,Workspace clearing,factory_006,worker_003
+2000-01-01 00:19:07,2000-01-01 00:19:14,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003
+2000-01-01 00:19:14,2000-01-01 00:19:31,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003
+2000-01-01 00:19:31,2000-01-01 00:19:39,level powder surface with wooden scraper,Sand mold creation,factory_006,worker_003
+2000-01-01 00:19:39,2000-01-01 00:19:49,compress mold with manual pull lever,Sand mold creation,factory_006,worker_003
+2000-01-01 00:19:49,2000-01-01 00:19:59,carry stack of finished blocks to storage crate,Bulk material transport,factory_006,worker_003

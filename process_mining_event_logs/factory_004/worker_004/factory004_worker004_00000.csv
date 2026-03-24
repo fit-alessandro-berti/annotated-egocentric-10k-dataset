@@ -1,0 +1,15 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:51,Thread overlock machine using tweezers,Machine maintenance,factory_004,worker_004
+2000-01-01 00:00:51,2000-01-01 00:01:05,Grab unsewn fabric from disorganized pile,Overlock seaming,factory_004,worker_004
+2000-01-01 00:01:05,2000-01-01 00:01:17,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:01:17,2000-01-01 00:01:28,Grab unsewn fabric from disorganized pile,Overlock seaming,factory_004,worker_004
+2000-01-01 00:01:28,2000-01-01 00:02:04,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:02:04,2000-01-01 00:02:46,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:02:46,2000-01-01 00:03:09,Thread overlock machine using tweezers,Machine maintenance,factory_004,worker_004
+2000-01-01 00:03:09,2000-01-01 00:05:24,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:05:24,2000-01-01 00:06:17,Thread overlock machine using tweezers,Machine maintenance,factory_004,worker_004
+2000-01-01 00:06:17,2000-01-01 00:18:43,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:18:43,2000-01-01 00:18:56,Transport heavy fabric stack across factory floor,Material transport,factory_004,worker_004
+2000-01-01 00:18:56,2000-01-01 00:19:16,Show folded fabric sample to coworker,Quality inspection,factory_004,worker_004
+2000-01-01 00:19:16,2000-01-01 00:19:28,Transport heavy fabric stack across factory floor,Material transport,factory_004,worker_004
+2000-01-01 00:19:28,2000-01-01 00:20:00,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004

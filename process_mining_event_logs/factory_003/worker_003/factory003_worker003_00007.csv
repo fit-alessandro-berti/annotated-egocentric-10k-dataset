@@ -1,0 +1,14 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:08,2000-01-01 00:09:02,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_003
+2000-01-01 00:09:02,2000-01-01 00:09:39,apply spot touch-up paint with fine brush,Spot painting,factory_003,worker_003
+2000-01-01 00:09:39,2000-01-01 00:09:55,monitor moving track system,Surface finishing and polishing,factory_003,worker_003
+2000-01-01 00:09:55,2000-01-01 00:10:01,handoff finished part to secondary worker,Surface finishing and polishing,factory_003,worker_003
+2000-01-01 00:10:01,2000-01-01 00:10:20,monitor moving track system,Surface finishing and polishing,factory_003,worker_003
+2000-01-01 00:10:20,2000-01-01 00:11:16,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_003
+2000-01-01 00:11:16,2000-01-01 00:11:22,monitor moving track system,Surface finishing and polishing,factory_003,worker_003
+2000-01-01 00:11:22,2000-01-01 00:13:42,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_003
+2000-01-01 00:13:42,2000-01-01 00:13:46,monitor moving track system,Surface finishing and polishing,factory_003,worker_003
+2000-01-01 00:13:46,2000-01-01 00:15:04,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_003
+2000-01-01 00:15:04,2000-01-01 00:15:08,monitor moving track system,Surface finishing and polishing,factory_003,worker_003
+2000-01-01 00:15:08,2000-01-01 00:19:50,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_003
+2000-01-01 00:19:50,2000-01-01 00:20:07,monitor moving track system,Surface finishing and polishing,factory_003,worker_003

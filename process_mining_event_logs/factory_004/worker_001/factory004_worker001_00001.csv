@@ -1,0 +1,10 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:01:58,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_001
+2000-01-01 00:01:58,2000-01-01 00:02:12,Drag thick fabric bundle across table,Material transport,factory_004,worker_001
+2000-01-01 00:02:21,2000-01-01 00:09:03,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_001
+2000-01-01 00:09:03,2000-01-01 00:09:11,Drag thick fabric bundle across table,Material transport,factory_004,worker_001
+2000-01-01 00:09:11,2000-01-01 00:12:20,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_001
+2000-01-01 00:12:20,2000-01-01 00:12:24,Drag thick fabric bundle across table,Material transport,factory_004,worker_001
+2000-01-01 00:12:24,2000-01-01 00:14:28,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_001
+2000-01-01 00:14:28,2000-01-01 00:15:20,Drag thick fabric bundle across table,Material transport,factory_004,worker_001
+2000-01-01 00:15:20,2000-01-01 00:20:00,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_001

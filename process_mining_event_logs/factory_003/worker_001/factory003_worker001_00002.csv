@@ -1,0 +1,31 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:02:00,apply paste with brush,Defect patching,factory_003,worker_001
+2000-01-01 00:02:03,2000-01-01 00:05:01,apply paste with brush,Defect patching,factory_003,worker_001
+2000-01-01 00:05:05,2000-01-01 00:05:40,apply paste with brush,Defect patching,factory_003,worker_001
+2000-01-01 00:05:44,2000-01-01 00:06:42,apply paste with brush,Defect patching,factory_003,worker_001
+2000-01-01 00:07:03,2000-01-01 00:07:48,apply paste with brush,Defect patching,factory_003,worker_001
+2000-01-01 00:07:48,2000-01-01 00:08:00,transport loaded tray to storage rack,Defect patching,factory_003,worker_001
+2000-01-01 00:08:00,2000-01-01 00:08:15,apply paste with brush,Defect patching,factory_003,worker_001
+2000-01-01 00:08:15,2000-01-01 00:08:21,transport loaded tray to storage rack,Defect patching,factory_003,worker_001
+2000-01-01 00:08:21,2000-01-01 00:08:50,apply paste with brush,Defect patching,factory_003,worker_001
+2000-01-01 00:08:50,2000-01-01 00:09:05,transport loaded tray to storage rack,Defect patching,factory_003,worker_001
+2000-01-01 00:09:05,2000-01-01 00:09:12,apply paste with brush,Defect patching,factory_003,worker_001
+2000-01-01 00:09:12,2000-01-01 00:09:33,transport loaded tray to storage rack,Defect patching,factory_003,worker_001
+2000-01-01 00:09:33,2000-01-01 00:09:50,apply paste with brush,Defect patching,factory_003,worker_001
+2000-01-01 00:09:50,2000-01-01 00:10:02,transport loaded tray to storage rack,Defect patching,factory_003,worker_001
+2000-01-01 00:10:02,2000-01-01 00:10:25,apply paste with brush,Defect patching,factory_003,worker_001
+2000-01-01 00:10:25,2000-01-01 00:10:52,transport loaded tray to storage rack,Defect patching,factory_003,worker_001
+2000-01-01 00:11:03,2000-01-01 00:11:38,apply paste with brush,Defect patching,factory_003,worker_001
+2000-01-01 00:11:42,2000-01-01 00:12:35,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_001
+2000-01-01 00:12:42,2000-01-01 00:13:21,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_001
+2000-01-01 00:13:25,2000-01-01 00:14:04,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_001
+2000-01-01 00:14:08,2000-01-01 00:14:44,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_001
+2000-01-01 00:14:50,2000-01-01 00:15:20,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_001
+2000-01-01 00:15:25,2000-01-01 00:15:50,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_001
+2000-01-01 00:15:54,2000-01-01 00:16:10,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_001
+2000-01-01 00:16:16,2000-01-01 00:16:26,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_001
+2000-01-01 00:16:32,2000-01-01 00:17:22,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_001
+2000-01-01 00:17:27,2000-01-01 00:18:03,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_001
+2000-01-01 00:18:12,2000-01-01 00:18:42,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_001
+2000-01-01 00:18:47,2000-01-01 00:19:15,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_001
+2000-01-01 00:19:32,2000-01-01 00:20:01,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_001

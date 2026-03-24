@@ -1,0 +1,59 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:01:05,2000-01-01 00:01:24,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_010
+2000-01-01 00:01:24,2000-01-01 00:01:31,blow compressed air over machined part,manual lathe machining,factory_005,worker_010
+2000-01-01 00:01:31,2000-01-01 00:01:45,loosen lathe chuck bolts,manual lathe machining,factory_005,worker_010
+2000-01-01 00:01:45,2000-01-01 00:01:49,remove machined part from lathe,manual lathe machining,factory_005,worker_010
+2000-01-01 00:02:00,2000-01-01 00:02:06,mount unmachined part into lathe chuck,manual lathe machining,factory_005,worker_010
+2000-01-01 00:02:06,2000-01-01 00:02:11,thread loose washer and nut onto lathe rod,manual lathe machining,factory_005,worker_010
+2000-01-01 00:02:11,2000-01-01 00:02:15,tighten lathe chuck bolts with spanner,manual lathe machining,factory_005,worker_010
+2000-01-01 00:02:15,2000-01-01 00:02:19,engage lathe spindle rotation,manual lathe machining,factory_005,worker_010
+2000-01-01 00:02:29,2000-01-01 00:02:35,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_010
+2000-01-01 00:04:01,2000-01-01 00:04:25,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_010
+2000-01-01 00:04:25,2000-01-01 00:04:28,blow compressed air over machined part,manual lathe machining,factory_005,worker_010
+2000-01-01 00:04:28,2000-01-01 00:04:33,loosen lathe chuck bolts,manual lathe machining,factory_005,worker_010
+2000-01-01 00:04:33,2000-01-01 00:04:40,remove machined part from lathe,manual lathe machining,factory_005,worker_010
+2000-01-01 00:04:53,2000-01-01 00:04:59,mount unmachined part into lathe chuck,manual lathe machining,factory_005,worker_010
+2000-01-01 00:04:59,2000-01-01 00:05:03,thread loose washer and nut onto lathe rod,manual lathe machining,factory_005,worker_010
+2000-01-01 00:05:03,2000-01-01 00:05:08,tighten lathe chuck bolts with spanner,manual lathe machining,factory_005,worker_010
+2000-01-01 00:05:08,2000-01-01 00:05:12,engage lathe spindle rotation,manual lathe machining,factory_005,worker_010
+2000-01-01 00:06:06,2000-01-01 00:06:42,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_010
+2000-01-01 00:07:00,2000-01-01 00:07:53,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_010
+2000-01-01 00:07:53,2000-01-01 00:07:56,blow compressed air over machined part,manual lathe machining,factory_005,worker_010
+2000-01-01 00:07:56,2000-01-01 00:08:02,loosen lathe chuck bolts,manual lathe machining,factory_005,worker_010
+2000-01-01 00:08:02,2000-01-01 00:08:10,remove machined part from lathe,manual lathe machining,factory_005,worker_010
+2000-01-01 00:08:19,2000-01-01 00:08:24,mount unmachined part into lathe chuck,manual lathe machining,factory_005,worker_010
+2000-01-01 00:08:24,2000-01-01 00:08:29,thread loose washer and nut onto lathe rod,manual lathe machining,factory_005,worker_010
+2000-01-01 00:08:29,2000-01-01 00:08:34,tighten lathe chuck bolts with spanner,manual lathe machining,factory_005,worker_010
+2000-01-01 00:08:34,2000-01-01 00:08:40,engage lathe spindle rotation,manual lathe machining,factory_005,worker_010
+2000-01-01 00:10:28,2000-01-01 00:10:29,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_010
+2000-01-01 00:10:29,2000-01-01 00:10:36,blow compressed air over machined part,manual lathe machining,factory_005,worker_010
+2000-01-01 00:10:36,2000-01-01 00:10:44,loosen lathe chuck bolts,manual lathe machining,factory_005,worker_010
+2000-01-01 00:10:44,2000-01-01 00:10:52,remove machined part from lathe,manual lathe machining,factory_005,worker_010
+2000-01-01 00:11:21,2000-01-01 00:11:27,mount unmachined part into lathe chuck,manual lathe machining,factory_005,worker_010
+2000-01-01 00:11:27,2000-01-01 00:11:32,thread loose washer and nut onto lathe rod,manual lathe machining,factory_005,worker_010
+2000-01-01 00:11:32,2000-01-01 00:11:36,tighten lathe chuck bolts with spanner,manual lathe machining,factory_005,worker_010
+2000-01-01 00:11:36,2000-01-01 00:11:41,engage lathe spindle rotation,manual lathe machining,factory_005,worker_010
+2000-01-01 00:11:41,2000-01-01 00:12:15,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_010
+2000-01-01 00:12:39,2000-01-01 00:13:51,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_010
+2000-01-01 00:13:51,2000-01-01 00:13:55,blow compressed air over machined part,manual lathe machining,factory_005,worker_010
+2000-01-01 00:13:55,2000-01-01 00:14:02,loosen lathe chuck bolts,manual lathe machining,factory_005,worker_010
+2000-01-01 00:14:02,2000-01-01 00:14:10,remove machined part from lathe,manual lathe machining,factory_005,worker_010
+2000-01-01 00:14:23,2000-01-01 00:14:27,mount unmachined part into lathe chuck,manual lathe machining,factory_005,worker_010
+2000-01-01 00:14:27,2000-01-01 00:14:31,thread loose washer and nut onto lathe rod,manual lathe machining,factory_005,worker_010
+2000-01-01 00:14:31,2000-01-01 00:14:36,tighten lathe chuck bolts with spanner,manual lathe machining,factory_005,worker_010
+2000-01-01 00:14:36,2000-01-01 00:14:40,engage lathe spindle rotation,manual lathe machining,factory_005,worker_010
+2000-01-01 00:14:58,2000-01-01 00:15:05,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_010
+2000-01-01 00:15:22,2000-01-01 00:15:30,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_010
+2000-01-01 00:16:13,2000-01-01 00:16:42,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_010
+2000-01-01 00:16:42,2000-01-01 00:16:45,blow compressed air over machined part,manual lathe machining,factory_005,worker_010
+2000-01-01 00:16:45,2000-01-01 00:16:53,loosen lathe chuck bolts,manual lathe machining,factory_005,worker_010
+2000-01-01 00:16:53,2000-01-01 00:16:58,remove machined part from lathe,manual lathe machining,factory_005,worker_010
+2000-01-01 00:17:03,2000-01-01 00:17:10,mount unmachined part into lathe chuck,manual lathe machining,factory_005,worker_010
+2000-01-01 00:17:10,2000-01-01 00:17:15,thread loose washer and nut onto lathe rod,manual lathe machining,factory_005,worker_010
+2000-01-01 00:17:15,2000-01-01 00:17:20,tighten lathe chuck bolts with spanner,manual lathe machining,factory_005,worker_010
+2000-01-01 00:17:20,2000-01-01 00:17:26,engage lathe spindle rotation,manual lathe machining,factory_005,worker_010
+2000-01-01 00:18:12,2000-01-01 00:18:18,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_010
+2000-01-01 00:19:25,2000-01-01 00:19:28,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_010
+2000-01-01 00:19:28,2000-01-01 00:19:32,blow compressed air over machined part,manual lathe machining,factory_005,worker_010
+2000-01-01 00:19:32,2000-01-01 00:19:38,loosen lathe chuck bolts,manual lathe machining,factory_005,worker_010
+2000-01-01 00:19:38,2000-01-01 00:19:45,remove machined part from lathe,manual lathe machining,factory_005,worker_010

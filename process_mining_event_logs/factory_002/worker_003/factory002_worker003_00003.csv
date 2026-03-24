@@ -1,0 +1,9 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:02:02,attach green tag to garment collar with tagging gun,Garment tagging,factory_002,worker_003
+2000-01-01 00:02:10,2000-01-01 00:05:21,attach green tag to garment collar with tagging gun,Garment tagging,factory_002,worker_003
+2000-01-01 00:05:40,2000-01-01 00:06:14,attach green tag to garment collar with tagging gun,Garment tagging,factory_002,worker_003
+2000-01-01 00:06:26,2000-01-01 00:07:31,tie loose hangers into bundles with string,Hanger assembly,factory_002,worker_003
+2000-01-01 00:07:44,2000-01-01 00:09:54,tie loose hangers into bundles with string,Hanger assembly,factory_002,worker_003
+2000-01-01 00:10:07,2000-01-01 00:11:27,untie string from hanger bundle,Hanger assembly,factory_002,worker_003
+2000-01-01 00:11:51,2000-01-01 00:16:53,attach green tag to garment collar with tagging gun,Garment tagging,factory_002,worker_003
+2000-01-01 00:16:58,2000-01-01 00:20:00,attach green tag to garment collar with tagging gun,Garment tagging,factory_002,worker_003

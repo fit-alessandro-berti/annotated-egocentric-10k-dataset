@@ -1,0 +1,8 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:55,pull drill press side lever,drill press machining,factory_005,worker_007
+2000-01-01 00:00:55,2000-01-01 00:01:06,disassemble guide plate and alignment pin,drill press machining,factory_005,worker_007
+2000-01-01 00:01:06,2000-01-01 00:02:57,pull drill press side lever,drill press machining,factory_005,worker_007
+2000-01-01 00:03:26,2000-01-01 00:09:51,pull drill press side lever,drill press machining,factory_005,worker_007
+2000-01-01 00:09:51,2000-01-01 00:10:00,place silver guide plate onto unmachined part,drill press machining,factory_005,worker_007
+2000-01-01 00:10:00,2000-01-01 00:10:13,secure guide plate with alignment pin,drill press machining,factory_005,worker_007
+2000-01-01 00:10:13,2000-01-01 00:19:42,pull drill press side lever,drill press machining,factory_005,worker_007

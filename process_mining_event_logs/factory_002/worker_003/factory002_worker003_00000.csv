@@ -1,0 +1,21 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:16,freehand fold t-shirt,Fabric folding,factory_002,worker_003
+2000-01-01 00:00:16,2000-01-01 00:00:33,tie white string to hanger,Hanger assembly,factory_002,worker_003
+2000-01-01 00:00:33,2000-01-01 00:01:40,tie white string to hanger,Hanger assembly,factory_002,worker_003
+2000-01-01 00:01:40,2000-01-01 00:02:12,transfer fabric stack to floor board,Material transport,factory_002,worker_003
+2000-01-01 00:02:12,2000-01-01 00:03:59,tie white string to hanger,Hanger assembly,factory_002,worker_003
+2000-01-01 00:03:59,2000-01-01 00:04:12,transfer fabric stack to floor board,Material transport,factory_002,worker_003
+2000-01-01 00:04:12,2000-01-01 00:04:18,sweep loose threads off work table,Floor auditing,factory_002,worker_003
+2000-01-01 00:04:18,2000-01-01 00:04:31,transfer fabric stack to floor board,Material transport,factory_002,worker_003
+2000-01-01 00:04:31,2000-01-01 00:09:16,tie white string to hanger,Hanger assembly,factory_002,worker_003
+2000-01-01 00:09:16,2000-01-01 00:09:44,transfer fabric stack to floor board,Material transport,factory_002,worker_003
+2000-01-01 00:09:44,2000-01-01 00:10:55,tie white string to hanger,Hanger assembly,factory_002,worker_003
+2000-01-01 00:10:55,2000-01-01 00:11:15,transfer fabric stack to floor board,Material transport,factory_002,worker_003
+2000-01-01 00:11:15,2000-01-01 00:11:34,transfer fabric stack to floor board,Material transport,factory_002,worker_003
+2000-01-01 00:11:34,2000-01-01 00:13:40,tie white string to hanger,Hanger assembly,factory_002,worker_003
+2000-01-01 00:13:40,2000-01-01 00:14:00,transfer fabric stack to floor board,Material transport,factory_002,worker_003
+2000-01-01 00:14:00,2000-01-01 00:15:13,tie white string to hanger,Hanger assembly,factory_002,worker_003
+2000-01-01 00:15:13,2000-01-01 00:15:35,transfer fabric stack to floor board,Material transport,factory_002,worker_003
+2000-01-01 00:15:35,2000-01-01 00:18:07,tie white string to hanger,Hanger assembly,factory_002,worker_003
+2000-01-01 00:18:07,2000-01-01 00:18:29,transfer fabric stack to floor board,Material transport,factory_002,worker_003
+2000-01-01 00:18:29,2000-01-01 00:20:00,tie white string to hanger,Hanger assembly,factory_002,worker_003

@@ -1,0 +1,12 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:01:07,tow loaded flatbed trolley with metal pulling hook,material transport and logistics,factory_005,worker_009
+2000-01-01 00:01:07,2000-01-01 00:01:21,reposition part on drill press circular table,drill press machining,factory_005,worker_009
+2000-01-01 00:01:21,2000-01-01 00:04:22,pull drill press side lever,drill press machining,factory_005,worker_009
+2000-01-01 00:04:30,2000-01-01 00:05:00,pull drill press side lever,drill press machining,factory_005,worker_009
+2000-01-01 00:05:10,2000-01-01 00:05:55,pull drill press side lever,drill press machining,factory_005,worker_009
+2000-01-01 00:06:03,2000-01-01 00:06:14,reposition part on drill press circular table,drill press machining,factory_005,worker_009
+2000-01-01 00:06:22,2000-01-01 00:10:40,pull drill press side lever,drill press machining,factory_005,worker_009
+2000-01-01 00:11:15,2000-01-01 00:11:34,tow loaded flatbed trolley with metal pulling hook,material transport and logistics,factory_005,worker_009
+2000-01-01 00:11:47,2000-01-01 00:12:35,tow loaded flatbed trolley with metal pulling hook,material transport and logistics,factory_005,worker_009
+2000-01-01 00:12:49,2000-01-01 00:17:10,transfer finished parts into yellow metal storage cages,material transport and logistics,factory_005,worker_009
+2000-01-01 00:18:28,2000-01-01 00:18:52,arrange parts manually inside deep wire mesh bin,part sorting and staging,factory_005,worker_009

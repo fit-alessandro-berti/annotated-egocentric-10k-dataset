@@ -1,0 +1,48 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:06,Align raw fabric edges by hand,Overlock seaming,factory_004,worker_003
+2000-01-01 00:00:06,2000-01-01 00:00:23,Sew long straight seam,Overlock seaming,factory_004,worker_003
+2000-01-01 00:00:34,2000-01-01 00:00:45,Trim raw fabric edge manually,Piping attachment,factory_004,worker_003
+2000-01-01 00:00:45,2000-01-01 00:01:52,Align raw fabric edges by hand,Piping attachment,factory_004,worker_003
+2000-01-01 00:01:52,2000-01-01 00:02:10,Show folded fabric sample to coworker,Quality inspection,factory_004,worker_003
+2000-01-01 00:02:10,2000-01-01 00:02:18,Align raw fabric edges by hand,Piping attachment,factory_004,worker_003
+2000-01-01 00:02:18,2000-01-01 00:02:49,Sew piping onto fabric edge,Piping attachment,factory_004,worker_003
+2000-01-01 00:02:49,2000-01-01 00:02:54,Pull sewn piece out of machine,Piping attachment,factory_004,worker_003
+2000-01-01 00:02:54,2000-01-01 00:02:59,Cut continuous thread chain with scissors,Thread trimming,factory_004,worker_003
+2000-01-01 00:02:59,2000-01-01 00:03:16,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_003
+2000-01-01 00:03:36,2000-01-01 00:03:45,Grab unsewn fabric from disorganized pile,Overlock seaming,factory_004,worker_003
+2000-01-01 00:03:45,2000-01-01 00:04:09,Unfold raw fabric edges,Overlock seaming,factory_004,worker_003
+2000-01-01 00:04:13,2000-01-01 00:04:20,Align raw fabric edges by hand,Overlock seaming,factory_004,worker_003
+2000-01-01 00:04:20,2000-01-01 00:06:23,Sew long straight seam,Overlock seaming,factory_004,worker_003
+2000-01-01 00:06:23,2000-01-01 00:06:27,Pull sewn piece out of machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:06:27,2000-01-01 00:06:43,Grab unsewn fabric from disorganized pile,Overlock seaming,factory_004,worker_003
+2000-01-01 00:06:43,2000-01-01 00:06:46,Align raw fabric edges by hand,Overlock seaming,factory_004,worker_003
+2000-01-01 00:06:46,2000-01-01 00:06:55,Sew long straight seam,Overlock seaming,factory_004,worker_003
+2000-01-01 00:06:55,2000-01-01 00:07:07,Drag thick fabric bundle across table,Material transport,factory_004,worker_003
+2000-01-01 00:07:07,2000-01-01 00:07:26,Sew long straight seam,Overlock seaming,factory_004,worker_003
+2000-01-01 00:07:26,2000-01-01 00:07:30,Pull sewn piece out of machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:07:30,2000-01-01 00:08:20,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_003
+2000-01-01 00:08:20,2000-01-01 00:08:28,Grab unsewn fabric from disorganized pile,Overlock seaming,factory_004,worker_003
+2000-01-01 00:08:28,2000-01-01 00:08:34,Align raw fabric edges by hand,Overlock seaming,factory_004,worker_003
+2000-01-01 00:08:34,2000-01-01 00:09:25,Sew long straight seam,Overlock seaming,factory_004,worker_003
+2000-01-01 00:09:25,2000-01-01 00:09:31,Pull sewn piece out of machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:09:31,2000-01-01 00:09:39,Grab unsewn fabric from disorganized pile,Overlock seaming,factory_004,worker_003
+2000-01-01 00:09:39,2000-01-01 00:09:43,Align raw fabric edges by hand,Overlock seaming,factory_004,worker_003
+2000-01-01 00:09:43,2000-01-01 00:11:53,Sew long straight seam,Overlock seaming,factory_004,worker_003
+2000-01-01 00:11:53,2000-01-01 00:12:00,Pull sewn piece out of machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:12:00,2000-01-01 00:12:47,Sew long straight seam,Overlock seaming,factory_004,worker_003
+2000-01-01 00:12:54,2000-01-01 00:13:00,Pull sewn piece out of machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:13:00,2000-01-01 00:13:08,Grab unsewn fabric from disorganized pile,Overlock seaming,factory_004,worker_003
+2000-01-01 00:13:08,2000-01-01 00:13:12,Align raw fabric edges by hand,Overlock seaming,factory_004,worker_003
+2000-01-01 00:13:12,2000-01-01 00:15:03,Sew long straight seam,Overlock seaming,factory_004,worker_003
+2000-01-01 00:15:15,2000-01-01 00:15:23,Grab unsewn fabric from disorganized pile,Overlock seaming,factory_004,worker_003
+2000-01-01 00:15:23,2000-01-01 00:15:27,Align raw fabric edges by hand,Overlock seaming,factory_004,worker_003
+2000-01-01 00:15:27,2000-01-01 00:16:24,Sew long straight seam,Overlock seaming,factory_004,worker_003
+2000-01-01 00:16:30,2000-01-01 00:16:34,Pull sewn piece out of machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:16:34,2000-01-01 00:16:42,Grab unsewn fabric from disorganized pile,Overlock seaming,factory_004,worker_003
+2000-01-01 00:16:42,2000-01-01 00:16:46,Align raw fabric edges by hand,Overlock seaming,factory_004,worker_003
+2000-01-01 00:16:46,2000-01-01 00:18:24,Sew long straight seam,Overlock seaming,factory_004,worker_003
+2000-01-01 00:18:24,2000-01-01 00:18:30,Pull sewn piece out of machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:18:35,2000-01-01 00:18:42,Grab unsewn fabric from disorganized pile,Overlock seaming,factory_004,worker_003
+2000-01-01 00:18:42,2000-01-01 00:18:46,Align raw fabric edges by hand,Overlock seaming,factory_004,worker_003
+2000-01-01 00:18:46,2000-01-01 00:19:54,Sew long straight seam,Overlock seaming,factory_004,worker_003
+2000-01-01 00:19:54,2000-01-01 00:20:00,Pull sewn piece out of machine,Overlock seaming,factory_004,worker_003

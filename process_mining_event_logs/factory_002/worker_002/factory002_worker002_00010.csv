@@ -1,0 +1,10 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:01:07,fold raw garment around cardboard stiffener,Garment bagging,factory_002,worker_002
+2000-01-01 00:01:17,2000-01-01 00:04:00,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:04:12,2000-01-01 00:06:58,slide folded garment into clear plastic bag,Garment bagging,factory_002,worker_002
+2000-01-01 00:06:58,2000-01-01 00:08:44,tick checkbox on package label with pen,Package labeling,factory_002,worker_002
+2000-01-01 00:09:00,2000-01-01 00:09:59,tick checkbox on package label with pen,Package labeling,factory_002,worker_002
+2000-01-01 00:12:08,2000-01-01 00:14:13,slide grouped packages into clear master bag,Master bagging,factory_002,worker_002
+2000-01-01 00:14:13,2000-01-01 00:15:37,slide grouped packages into clear master bag,Master bagging,factory_002,worker_002
+2000-01-01 00:16:32,2000-01-01 00:17:10,write production numbers in lined notebook,Floor auditing,factory_002,worker_002
+2000-01-01 00:17:10,2000-01-01 00:20:25,tick checkbox on package label with pen,Package labeling,factory_002,worker_002

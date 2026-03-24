@@ -6,22 +6,24 @@ from __future__ import annotations
 import argparse
 import csv
 import json
+import os
 import re
 import sys
 import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timedelta
 from pathlib import Path
 
 import requests
 
-BASE_URL = "https://generativelanguage.googleapis.com"
+BASE_URL = "https://api.openai.com/v1"
 DEFAULT_PROJECT_ROOT = Path(__file__).resolve().parent
 DEFAULT_ANNOTATION_ROOT = DEFAULT_PROJECT_ROOT / "raw_transcriptions"
 DEFAULT_FACTORY_REPORT_ROOT = DEFAULT_PROJECT_ROOT / "factory_process_mining_reports"
 DEFAULT_OUTPUT_ROOT = DEFAULT_PROJECT_ROOT / "process_mining_event_logs"
-DEFAULT_API_KEY_PATH = DEFAULT_PROJECT_ROOT / "google_api_key.txt"
 DEFAULT_PROMPT_PATH = DEFAULT_PROJECT_ROOT / "annotation_to_event_log_prompt.txt"
-DEFAULT_MODEL = "gemini-3.1-pro-preview"
+DEFAULT_MODEL = "gpt-5.4"
+MAX_CONCURRENT_TASKS = 100
 
 BASE_EVENT_DATETIME = datetime(2000, 1, 1, 0, 0, 0)
 CONNECT_TIMEOUT_SECONDS = 30
@@ -57,7 +59,8 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
         description=(
             "Convert raw annotation transcripts into CSV event logs using the "
-            "activity/process vocabularies from each factory report."
+            "activity/process vocabularies from each factory report. "
+            "Reads the OpenAI API key from OPENAI_API_KEY."
         )
     )
     parser.add_argument(
@@ -94,12 +97,6 @@ def parse_args() -> argparse.Namespace:
         help=f"CSV output root directory (default: {DEFAULT_OUTPUT_ROOT})",
     )
     parser.add_argument(
-        "--api-key-file",
-        type=Path,
-        default=DEFAULT_API_KEY_PATH,
-        help=f"Path to google_api_key.txt (default: {DEFAULT_API_KEY_PATH})",
-    )
-    parser.add_argument(
         "--prompt-file",
         type=Path,
         default=DEFAULT_PROMPT_PATH,
@@ -108,7 +105,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--model",
         default=DEFAULT_MODEL,
-        help="Gemini model to use (default: gemini-3.1-pro-preview).",
+        help="OpenAI Responses model to use (default: gpt-5.4).",
     )
     parser.add_argument(
         "--overwrite",
@@ -162,7 +159,7 @@ def request_json(
     **kwargs,
 ) -> dict:
     headers = dict(kwargs.pop("headers", {}))
-    headers["x-goog-api-key"] = api_key
+    headers["Authorization"] = f"Bearer {api_key}"
 
     response = session.request(
         method=method,
@@ -209,6 +206,13 @@ def request_with_retry(
                 continue
             raise
     raise RuntimeError("unreachable")
+
+
+def read_openai_api_key() -> str:
+    api_key = os.environ.get("OPENAI_API_KEY", "").strip()
+    if not api_key:
+        raise ValueError("OPENAI_API_KEY environment variable is not set or is empty.")
+    return api_key
 
 
 def iter_factory_dirs(annotation_root: Path) -> list[Path]:
@@ -335,6 +339,45 @@ def load_factory_vocabulary(factory_report_root: Path, factory: str) -> dict:
     }
 
 
+def event_list_json_schema() -> dict:
+    return {
+        "type": "object",
+        "additionalProperties": False,
+        "properties": {
+            "events": {
+                "type": "array",
+                "items": {
+                    "type": "object",
+                    "additionalProperties": False,
+                    "properties": {
+                        "estimated_start_time": {
+                            "type": "string",
+                            "pattern": r"^\d{2}:\d{2}:\d{2}$",
+                        },
+                        "estimated_end_time": {
+                            "type": "string",
+                            "pattern": r"^\d{2}:\d{2}:\d{2}$",
+                        },
+                        "activity": {
+                            "type": "string",
+                        },
+                        "process": {
+                            "type": "string",
+                        },
+                    },
+                    "required": [
+                        "estimated_start_time",
+                        "estimated_end_time",
+                        "activity",
+                        "process",
+                    ],
+                },
+            },
+        },
+        "required": ["events"],
+    }
+
+
 def generate_event_json(
     session: requests.Session,
     api_key: str,
@@ -345,35 +388,60 @@ def generate_event_json(
     response_payload = request_with_retry(
         session=session,
         method="POST",
-        url=f"{BASE_URL}/v1beta/models/{model}:generateContent",
+        url=f"{BASE_URL}/responses",
         api_key=api_key,
         timeout_seconds=GENERATE_READ_TIMEOUT_SECONDS,
         headers={"Content-Type": "application/json"},
         json={
-            "contents": [
-                {
-                    "parts": [
-                        {"text": prompt},
-                        {"text": context_text},
-                    ]
+            "model": model,
+            "reasoning": {"effort": "high"},
+            "text": {
+                "format": {
+                    "type": "json_schema",
+                    "name": "process_mining_event_list",
+                    "description": "A structured event list for process mining.",
+                    "strict": True,
+                    "schema": event_list_json_schema(),
                 }
+            },
+            "input": [
+                {
+                    "role": "system",
+                    "content": [
+                        {
+                            "type": "input_text",
+                            "text": prompt,
+                        }
+                    ],
+                },
+                {
+                    "role": "user",
+                    "content": [
+                        {
+                            "type": "input_text",
+                            "text": context_text,
+                        }
+                    ],
+                },
             ]
         },
     )
 
     text_parts: list[str] = []
-    for candidate in response_payload.get("candidates", []):
-        content = candidate.get("content") or {}
-        for part in content.get("parts", []):
-            text = part.get("text")
-            if text:
-                text_parts.append(text)
+    for output_item in response_payload.get("output", []):
+        if output_item.get("type") != "message":
+            continue
+        for content_item in output_item.get("content", []):
+            if content_item.get("type") == "output_text":
+                text = content_item.get("text")
+                if text:
+                    text_parts.append(text)
 
     response_text = "\n".join(text_parts).strip()
     if response_text:
         return response_text
 
-    raise RuntimeError(f"Gemini returned no event JSON text.\nResponse payload: {response_payload}")
+    raise RuntimeError(f"OpenAI returned no event JSON text.\nResponse payload: {response_payload}")
 
 
 def build_context_text(
@@ -505,7 +573,6 @@ def write_csv(output_path: Path, rows: list[dict[str, str]]) -> None:
 
 
 def process_annotation(
-    session: requests.Session,
     api_key: str,
     model: str,
     prompt_template: str,
@@ -534,13 +601,14 @@ def process_annotation(
     )
 
     print(f"  converting {annotation_path.name} -> {output_path}", flush=True)
-    response_text = generate_event_json(
-        session=session,
-        api_key=api_key,
-        model=model,
-        prompt=prompt,
-        context_text=context_text,
-    )
+    with requests.Session() as session:
+        response_text = generate_event_json(
+            session=session,
+            api_key=api_key,
+            model=model,
+            prompt=prompt,
+            context_text=context_text,
+        )
     events = parse_model_events(response_text)
     rows = normalize_events(
         events=events,
@@ -552,47 +620,6 @@ def process_annotation(
     write_csv(output_path, rows)
 
 
-def process_worker(
-    session: requests.Session,
-    api_key: str,
-    model: str,
-    prompt_template: str,
-    annotation_root: Path,
-    factory_report_root: Path,
-    output_root: Path,
-    factory: str,
-    worker: str,
-    overwrite: bool,
-    vocabulary_cache: dict[str, dict],
-) -> None:
-    worker_dir = annotation_root / factory / worker
-    if not worker_dir.is_dir():
-        raise FileNotFoundError(f"Worker annotation directory not found: {worker_dir}")
-
-    annotation_paths = iter_annotation_paths(worker_dir)
-    if not annotation_paths:
-        raise FileNotFoundError(f"No raw annotation files found under {worker_dir}")
-
-    if factory not in vocabulary_cache:
-        vocabulary_cache[factory] = load_factory_vocabulary(factory_report_root, factory)
-    factory_vocabulary = vocabulary_cache[factory]
-
-    print(f"Worker {factory}/{worker}: {len(annotation_paths)} annotation file(s)", flush=True)
-    for annotation_path in annotation_paths:
-        process_annotation(
-            session=session,
-            api_key=api_key,
-            model=model,
-            prompt_template=prompt_template,
-            factory=factory,
-            worker=worker,
-            annotation_path=annotation_path,
-            factory_vocabulary=factory_vocabulary,
-            output_root=output_root,
-            overwrite=overwrite,
-        )
-
-
 def iter_targets(annotation_root: Path) -> list[tuple[str, str]]:
     targets: list[tuple[str, str]] = []
     for factory_dir in iter_factory_dirs(annotation_root):
@@ -601,9 +628,68 @@ def iter_targets(annotation_root: Path) -> list[tuple[str, str]]:
     return targets
 
 
+def collect_annotation_paths(annotation_root: Path, factory: str, worker: str) -> list[Path]:
+    worker_dir = annotation_root / factory / worker
+    if not worker_dir.is_dir():
+        raise FileNotFoundError(f"Worker annotation directory not found: {worker_dir}")
+
+    annotation_paths = iter_annotation_paths(worker_dir)
+    if not annotation_paths:
+        raise FileNotFoundError(f"No raw annotation files found under {worker_dir}")
+    return annotation_paths
+
+
+def build_annotation_tasks(
+    annotation_root: Path,
+    targets: list[tuple[str, str]],
+) -> list[tuple[str, str, Path]]:
+    tasks: list[tuple[str, str, Path]] = []
+    for factory, worker in targets:
+        annotation_paths = collect_annotation_paths(annotation_root, factory, worker)
+        print(f"Worker {factory}/{worker}: {len(annotation_paths)} annotation file(s)", flush=True)
+        for annotation_path in annotation_paths:
+            tasks.append((factory, worker, annotation_path))
+    return tasks
+
+
+def preload_factory_vocabularies(
+    factory_report_root: Path,
+    factories: set[str],
+) -> dict[str, dict]:
+    vocabulary_cache: dict[str, dict] = {}
+    for factory in sorted(factories):
+        vocabulary_cache[factory] = load_factory_vocabulary(factory_report_root, factory)
+    return vocabulary_cache
+
+
+def process_annotation_task(
+    api_key: str,
+    model: str,
+    prompt_template: str,
+    output_root: Path,
+    overwrite: bool,
+    factory: str,
+    worker: str,
+    annotation_path: Path,
+    factory_vocabulary: dict,
+) -> tuple[str, str, str]:
+    process_annotation(
+        api_key=api_key,
+        model=model,
+        prompt_template=prompt_template,
+        factory=factory,
+        worker=worker,
+        annotation_path=annotation_path,
+        factory_vocabulary=factory_vocabulary,
+        output_root=output_root,
+        overwrite=overwrite,
+    )
+    return factory, worker, annotation_path.name
+
+
 def main() -> int:
     args = parse_args()
-    api_key = read_text_file(args.api_key_file, "API key file")
+    api_key = read_openai_api_key()
     prompt_template = read_text_file(args.prompt_file, "Prompt file")
 
     if args.all:
@@ -619,39 +705,57 @@ def main() -> int:
     print(f"Factory report root: {args.factory_report_root}", flush=True)
     print(f"Output root: {args.output_root}", flush=True)
     print(f"Model: {args.model}", flush=True)
+    print(f"Max concurrent tasks: {MAX_CONCURRENT_TASKS}", flush=True)
 
-    vocabulary_cache: dict[str, dict] = {}
-    failed_targets: list[tuple[str, str, str]] = []
-    with requests.Session() as session:
-        for factory, worker in targets:
+    annotation_tasks = build_annotation_tasks(args.annotation_root, targets)
+    if not annotation_tasks:
+        print("No annotation files found to process.", flush=True)
+        return 0
+
+    vocabulary_cache = preload_factory_vocabularies(
+        args.factory_report_root,
+        {factory for factory, _, _ in annotation_tasks},
+    )
+
+    failed_tasks: list[tuple[str, str, str, str]] = []
+    max_workers = min(MAX_CONCURRENT_TASKS, len(annotation_tasks))
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        future_to_task = {
+            executor.submit(
+                process_annotation_task,
+                api_key,
+                args.model,
+                prompt_template,
+                args.output_root,
+                args.overwrite,
+                factory,
+                worker,
+                annotation_path,
+                vocabulary_cache[factory],
+            ): (factory, worker, annotation_path)
+            for factory, worker, annotation_path in annotation_tasks
+        }
+
+        for future in as_completed(future_to_task):
+            factory, worker, annotation_path = future_to_task[future]
             try:
-                process_worker(
-                    session=session,
-                    api_key=api_key,
-                    model=args.model,
-                    prompt_template=prompt_template,
-                    annotation_root=args.annotation_root,
-                    factory_report_root=args.factory_report_root,
-                    output_root=args.output_root,
-                    factory=factory,
-                    worker=worker,
-                    overwrite=args.overwrite,
-                    vocabulary_cache=vocabulary_cache,
-                )
+                future.result()
             except Exception as exc:  # noqa: BLE001
-                if not args.all:
-                    raise
-                failed_targets.append((factory, worker, str(exc)))
+                failed_tasks.append((factory, worker, annotation_path.name, str(exc)))
                 print(
-                    f"Failed to convert {factory}/{worker}: {exc}",
+                    f"Failed to convert {factory}/{worker}/{annotation_path.name}: {exc}",
                     file=sys.stderr,
                     flush=True,
                 )
 
-    if failed_targets:
+    if failed_tasks:
         print("Finished with failures:", file=sys.stderr, flush=True)
-        for factory, worker, message in failed_targets:
-            print(f"  {factory}/{worker}: {message}", file=sys.stderr, flush=True)
+        for factory, worker, annotation_name, message in failed_tasks:
+            print(
+                f"  {factory}/{worker}/{annotation_name}: {message}",
+                file=sys.stderr,
+                flush=True,
+            )
         return 1
 
     print("Finished.", flush=True)

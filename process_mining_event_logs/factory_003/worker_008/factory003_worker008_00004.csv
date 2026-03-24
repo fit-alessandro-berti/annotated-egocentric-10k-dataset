@@ -1,0 +1,6 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:05:43,apply paste with brush,Component sub-assembly,factory_003,worker_008
+2000-01-01 00:06:48,2000-01-01 00:07:27,empty small parts box into bulk tray,Material sorting and sifting,factory_003,worker_008
+2000-01-01 00:07:27,2000-01-01 00:08:08,sweep separated parts with metal guide bar,Material sorting and sifting,factory_003,worker_008
+2000-01-01 00:08:18,2000-01-01 00:08:44,transport loaded tray to storage rack,Component sub-assembly,factory_003,worker_008
+2000-01-01 00:08:50,2000-01-01 00:20:00,insert wooden peg into base slot,Component sub-assembly,factory_003,worker_008

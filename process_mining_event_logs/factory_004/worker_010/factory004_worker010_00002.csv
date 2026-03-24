@@ -1,0 +1,23 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:28,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010
+2000-01-01 00:00:46,2000-01-01 00:02:18,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010
+2000-01-01 00:02:18,2000-01-01 00:02:27,Drag thick fabric bundle across table,Material transport,factory_004,worker_010
+2000-01-01 00:02:27,2000-01-01 00:02:34,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010
+2000-01-01 00:02:49,2000-01-01 00:04:47,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010
+2000-01-01 00:04:58,2000-01-01 00:06:33,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010
+2000-01-01 00:06:45,2000-01-01 00:07:35,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010
+2000-01-01 00:07:44,2000-01-01 00:08:50,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010
+2000-01-01 00:09:00,2000-01-01 00:10:08,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010
+2000-01-01 00:10:18,2000-01-01 00:11:09,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010
+2000-01-01 00:11:09,2000-01-01 00:11:22,Drag thick fabric bundle across table,Material transport,factory_004,worker_010
+2000-01-01 00:11:22,2000-01-01 00:12:25,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010
+2000-01-01 00:12:35,2000-01-01 00:13:23,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010
+2000-01-01 00:13:30,2000-01-01 00:14:17,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010
+2000-01-01 00:14:26,2000-01-01 00:14:48,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010
+2000-01-01 00:14:48,2000-01-01 00:15:00,Drag thick fabric bundle across table,Material transport,factory_004,worker_010
+2000-01-01 00:15:00,2000-01-01 00:17:10,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010
+2000-01-01 00:17:21,2000-01-01 00:17:48,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010
+2000-01-01 00:17:55,2000-01-01 00:18:18,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010
+2000-01-01 00:18:18,2000-01-01 00:18:25,Drag thick fabric bundle across table,Material transport,factory_004,worker_010
+2000-01-01 00:18:25,2000-01-01 00:18:49,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010
+2000-01-01 00:18:58,2000-01-01 00:20:00,Slide folded garment into clear polybag,Garment bagging,factory_004,worker_010

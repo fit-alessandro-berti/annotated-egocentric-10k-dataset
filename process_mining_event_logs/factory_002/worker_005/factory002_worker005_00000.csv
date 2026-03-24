@@ -1,0 +1,42 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:23,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005
+2000-01-01 00:00:23,2000-01-01 00:00:57,freehand fold t-shirt,Garment ironing,factory_002,worker_005
+2000-01-01 00:01:03,2000-01-01 00:01:26,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005
+2000-01-01 00:01:26,2000-01-01 00:02:00,fold t-shirt around permanent cardboard insert,Garment ironing,factory_002,worker_005
+2000-01-01 00:02:12,2000-01-01 00:02:37,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005
+2000-01-01 00:02:37,2000-01-01 00:03:13,freehand fold t-shirt,Garment ironing,factory_002,worker_005
+2000-01-01 00:03:18,2000-01-01 00:03:42,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005
+2000-01-01 00:03:42,2000-01-01 00:04:10,freehand fold t-shirt,Garment ironing,factory_002,worker_005
+2000-01-01 00:04:10,2000-01-01 00:04:35,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005
+2000-01-01 00:04:35,2000-01-01 00:05:09,fold t-shirt around permanent cardboard insert,Garment ironing,factory_002,worker_005
+2000-01-01 00:05:09,2000-01-01 00:05:32,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005
+2000-01-01 00:05:32,2000-01-01 00:06:04,freehand fold t-shirt,Garment ironing,factory_002,worker_005
+2000-01-01 00:06:10,2000-01-01 00:06:33,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005
+2000-01-01 00:06:33,2000-01-01 00:07:06,fold t-shirt around permanent cardboard insert,Garment ironing,factory_002,worker_005
+2000-01-01 00:07:06,2000-01-01 00:07:30,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005
+2000-01-01 00:07:30,2000-01-01 00:08:02,freehand fold t-shirt,Garment ironing,factory_002,worker_005
+2000-01-01 00:08:08,2000-01-01 00:08:26,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005
+2000-01-01 00:08:26,2000-01-01 00:09:00,fold t-shirt around permanent cardboard insert,Garment ironing,factory_002,worker_005
+2000-01-01 00:09:00,2000-01-01 00:09:22,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005
+2000-01-01 00:09:22,2000-01-01 00:09:56,freehand fold t-shirt,Garment ironing,factory_002,worker_005
+2000-01-01 00:10:00,2000-01-01 00:10:19,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005
+2000-01-01 00:10:19,2000-01-01 00:10:52,fold t-shirt around permanent cardboard insert,Garment ironing,factory_002,worker_005
+2000-01-01 00:10:52,2000-01-01 00:11:15,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005
+2000-01-01 00:11:15,2000-01-01 00:11:48,freehand fold t-shirt,Garment ironing,factory_002,worker_005
+2000-01-01 00:11:54,2000-01-01 00:12:15,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005
+2000-01-01 00:12:15,2000-01-01 00:12:48,fold t-shirt around permanent cardboard insert,Garment ironing,factory_002,worker_005
+2000-01-01 00:12:48,2000-01-01 00:13:10,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005
+2000-01-01 00:13:10,2000-01-01 00:13:45,freehand fold t-shirt,Garment ironing,factory_002,worker_005
+2000-01-01 00:13:51,2000-01-01 00:14:12,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005
+2000-01-01 00:14:12,2000-01-01 00:14:47,fold t-shirt around permanent cardboard insert,Garment ironing,factory_002,worker_005
+2000-01-01 00:14:47,2000-01-01 00:15:09,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005
+2000-01-01 00:15:09,2000-01-01 00:15:43,freehand fold t-shirt,Garment ironing,factory_002,worker_005
+2000-01-01 00:15:50,2000-01-01 00:16:10,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005
+2000-01-01 00:16:10,2000-01-01 00:16:43,fold t-shirt around permanent cardboard insert,Garment ironing,factory_002,worker_005
+2000-01-01 00:16:43,2000-01-01 00:17:06,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005
+2000-01-01 00:17:06,2000-01-01 00:17:39,freehand fold t-shirt,Garment ironing,factory_002,worker_005
+2000-01-01 00:17:46,2000-01-01 00:18:08,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005
+2000-01-01 00:18:08,2000-01-01 00:18:41,fold t-shirt around permanent cardboard insert,Garment ironing,factory_002,worker_005
+2000-01-01 00:18:41,2000-01-01 00:19:04,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005
+2000-01-01 00:19:04,2000-01-01 00:19:38,freehand fold t-shirt,Garment ironing,factory_002,worker_005
+2000-01-01 00:19:45,2000-01-01 00:20:02,iron flat t-shirt with steam iron,Garment ironing,factory_002,worker_005

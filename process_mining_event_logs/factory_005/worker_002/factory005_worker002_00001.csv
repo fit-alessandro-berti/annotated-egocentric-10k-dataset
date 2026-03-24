@@ -1,0 +1,10 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:03,place stator coil into binding machine fixture,stator coil binding,factory_005,worker_002
+2000-01-01 00:00:03,2000-01-01 00:00:06,activate two-hand safety control for binding,stator coil binding,factory_005,worker_002
+2000-01-01 00:00:31,2000-01-01 00:00:36,place stator coil into binding machine fixture,stator coil binding,factory_005,worker_002
+2000-01-01 00:00:36,2000-01-01 00:00:42,activate two-hand safety control for binding,stator coil binding,factory_005,worker_002
+2000-01-01 00:01:05,2000-01-01 00:01:35,heat-shrink wire connections with handheld tool,stator lead wire finishing and soldering,factory_005,worker_002
+2000-01-01 00:01:47,2000-01-01 00:01:58,heat-shrink wire connections with handheld tool,stator lead wire finishing and soldering,factory_005,worker_002
+2000-01-01 00:01:58,2000-01-01 00:02:02,adjust control unit dial,stator lead wire finishing and soldering,factory_005,worker_002
+2000-01-01 00:02:02,2000-01-01 00:02:26,heat-shrink wire connections with handheld tool,stator lead wire finishing and soldering,factory_005,worker_002
+2000-01-01 00:02:37,2000-01-01 00:02:47,retrieve wire cutters from storage bin,stator lead wire finishing and soldering,factory_005,worker_002

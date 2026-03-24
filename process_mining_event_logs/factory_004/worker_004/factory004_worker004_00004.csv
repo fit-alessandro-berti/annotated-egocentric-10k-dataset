@@ -1,0 +1,34 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:15,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:00:15,2000-01-01 00:00:38,Route seam tape through machine guide,Tape feeding,factory_004,worker_004
+2000-01-01 00:00:54,2000-01-01 00:01:14,Align raw fabric edges by hand,Overlock seaming,factory_004,worker_004
+2000-01-01 00:01:34,2000-01-01 00:01:50,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:01:50,2000-01-01 00:02:14,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:02:19,2000-01-01 00:02:45,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:02:45,2000-01-01 00:03:07,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:03:07,2000-01-01 00:03:57,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:03:57,2000-01-01 00:04:39,Grab unsewn fabric from disorganized pile,Overlock seaming,factory_004,worker_004
+2000-01-01 00:05:13,2000-01-01 00:05:35,Align raw fabric edges by hand,Overlock seaming,factory_004,worker_004
+2000-01-01 00:05:35,2000-01-01 00:07:09,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:07:23,2000-01-01 00:07:41,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:07:41,2000-01-01 00:08:24,Route seam tape through machine guide,Tape feeding,factory_004,worker_004
+2000-01-01 00:08:24,2000-01-01 00:09:12,Sew continuous edge binding,Edge binding attachment,factory_004,worker_004
+2000-01-01 00:09:12,2000-01-01 00:09:47,Route seam tape through machine guide,Tape feeding,factory_004,worker_004
+2000-01-01 00:09:47,2000-01-01 00:10:05,Sew continuous edge binding,Edge binding attachment,factory_004,worker_004
+2000-01-01 00:10:05,2000-01-01 00:10:37,Thread overlock machine using tweezers,Machine maintenance,factory_004,worker_004
+2000-01-01 00:10:37,2000-01-01 00:10:47,Sew continuous edge binding,Edge binding attachment,factory_004,worker_004
+2000-01-01 00:10:47,2000-01-01 00:11:32,Grab unsewn fabric from disorganized pile,Overlock seaming,factory_004,worker_004
+2000-01-01 00:11:32,2000-01-01 00:11:58,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:12:12,2000-01-01 00:12:39,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:12:39,2000-01-01 00:13:08,Grab unsewn fabric from disorganized pile,Overlock seaming,factory_004,worker_004
+2000-01-01 00:13:08,2000-01-01 00:13:36,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:14:08,2000-01-01 00:14:54,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:14:54,2000-01-01 00:15:15,Trim raw fabric edge manually,Overlock seaming,factory_004,worker_004
+2000-01-01 00:15:15,2000-01-01 00:15:51,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:16:20,2000-01-01 00:16:38,Trim raw fabric edge manually,Overlock seaming,factory_004,worker_004
+2000-01-01 00:16:38,2000-01-01 00:17:11,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:17:11,2000-01-01 00:17:34,Grab unsewn fabric from disorganized pile,Overlock seaming,factory_004,worker_004
+2000-01-01 00:17:34,2000-01-01 00:18:05,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:18:05,2000-01-01 00:18:22,Grab unsewn fabric from disorganized pile,Overlock seaming,factory_004,worker_004
+2000-01-01 00:18:22,2000-01-01 00:19:04,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_004
+2000-01-01 00:19:04,2000-01-01 00:20:00,Sew long straight seam,Overlock seaming,factory_004,worker_004

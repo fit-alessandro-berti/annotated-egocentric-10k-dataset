@@ -1,0 +1,44 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:26,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003
+2000-01-01 00:03:34,2000-01-01 00:04:08,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003
+2000-01-01 00:05:03,2000-01-01 00:05:27,lift empty mold box onto pattern plate,Sand mold creation,factory_006,worker_003
+2000-01-01 00:05:27,2000-01-01 00:05:43,shovel sand into mold box from floor pile,Sand mold creation,factory_006,worker_003
+2000-01-01 00:05:43,2000-01-01 00:05:58,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003
+2000-01-01 00:05:58,2000-01-01 00:06:10,compress sand with automated machine press,Sand mold creation,factory_006,worker_003
+2000-01-01 00:06:20,2000-01-01 00:06:48,shovel sand into mold box from floor pile,Sand mold creation,factory_006,worker_003
+2000-01-01 00:06:48,2000-01-01 00:07:23,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003
+2000-01-01 00:07:23,2000-01-01 00:07:32,shovel sand into mold box from floor pile,Sand mold creation,factory_006,worker_003
+2000-01-01 00:07:32,2000-01-01 00:07:44,compress sand with automated machine press,Sand mold creation,factory_006,worker_003
+2000-01-01 00:07:58,2000-01-01 00:08:15,lift empty mold box onto pattern plate,Sand mold creation,factory_006,worker_003
+2000-01-01 00:08:15,2000-01-01 00:08:55,shovel sand into mold box from floor pile,Sand mold creation,factory_006,worker_003
+2000-01-01 00:08:55,2000-01-01 00:09:42,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003
+2000-01-01 00:09:59,2000-01-01 00:10:14,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003
+2000-01-01 00:10:14,2000-01-01 00:10:35,compress sand with automated machine press,Sand mold creation,factory_006,worker_003
+2000-01-01 00:10:35,2000-01-01 00:11:00,stack molded assemblies into interlocking floor towers,Component staging and arrangement,factory_006,worker_003
+2000-01-01 00:11:00,2000-01-01 00:11:15,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_003
+2000-01-01 00:11:15,2000-01-01 00:11:25,lift empty mold box onto pattern plate,Sand mold creation,factory_006,worker_003
+2000-01-01 00:11:25,2000-01-01 00:11:58,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003
+2000-01-01 00:11:58,2000-01-01 00:12:13,scrape hardened sand from pressing plate,Machine cleaning and maintenance,factory_006,worker_003
+2000-01-01 00:12:13,2000-01-01 00:12:40,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003
+2000-01-01 00:13:00,2000-01-01 00:13:16,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_003
+2000-01-01 00:13:16,2000-01-01 00:13:30,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003
+2000-01-01 00:13:30,2000-01-01 00:13:58,scrape hardened sand from pressing plate,Machine cleaning and maintenance,factory_006,worker_003
+2000-01-01 00:13:58,2000-01-01 00:14:15,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003
+2000-01-01 00:14:15,2000-01-01 00:14:50,compress sand with automated machine press,Sand mold creation,factory_006,worker_003
+2000-01-01 00:14:50,2000-01-01 00:15:02,stack molded assemblies into interlocking floor towers,Component staging and arrangement,factory_006,worker_003
+2000-01-01 00:15:02,2000-01-01 00:15:43,scrape hardened sand from pressing plate,Machine cleaning and maintenance,factory_006,worker_003
+2000-01-01 00:15:43,2000-01-01 00:15:54,shovel sand into mold box from floor pile,Sand mold creation,factory_006,worker_003
+2000-01-01 00:15:54,2000-01-01 00:16:11,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003
+2000-01-01 00:16:11,2000-01-01 00:16:38,compress sand with automated machine press,Sand mold creation,factory_006,worker_003
+2000-01-01 00:16:38,2000-01-01 00:16:53,stack molded assemblies into interlocking floor towers,Component staging and arrangement,factory_006,worker_003
+2000-01-01 00:16:53,2000-01-01 00:17:10,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_003
+2000-01-01 00:17:10,2000-01-01 00:17:18,lift empty mold box onto pattern plate,Sand mold creation,factory_006,worker_003
+2000-01-01 00:17:18,2000-01-01 00:17:39,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003
+2000-01-01 00:17:39,2000-01-01 00:17:59,scrape hardened sand from pressing plate,Machine cleaning and maintenance,factory_006,worker_003
+2000-01-01 00:17:59,2000-01-01 00:18:11,shovel sand into mold box from floor pile,Sand mold creation,factory_006,worker_003
+2000-01-01 00:18:11,2000-01-01 00:18:22,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003
+2000-01-01 00:18:22,2000-01-01 00:18:43,compress sand with automated machine press,Sand mold creation,factory_006,worker_003
+2000-01-01 00:18:43,2000-01-01 00:19:04,stack molded assemblies into interlocking floor towers,Component staging and arrangement,factory_006,worker_003
+2000-01-01 00:19:04,2000-01-01 00:19:24,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_003
+2000-01-01 00:19:24,2000-01-01 00:19:40,pack casting sand into mold frame,Sand mold creation,factory_006,worker_003
+2000-01-01 00:19:40,2000-01-01 00:20:00,scrape hardened sand from pressing plate,Machine cleaning and maintenance,factory_006,worker_003

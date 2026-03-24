@@ -1,0 +1,122 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:08,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:00:08,2000-01-01 00:00:15,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:00:15,2000-01-01 00:00:36,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:00:36,2000-01-01 00:00:46,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_006
+2000-01-01 00:00:46,2000-01-01 00:01:08,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:01:08,2000-01-01 00:01:21,Pull sewn piece out of machine,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:01:21,2000-01-01 00:01:24,Cut continuous thread chain with scissors,Thread trimming,factory_004,worker_006
+2000-01-01 00:01:24,2000-01-01 00:01:40,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:01:40,2000-01-01 00:01:48,Pull sewn piece out of machine,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:01:48,2000-01-01 00:01:54,Trim raw fabric edge manually,Thread trimming,factory_004,worker_006
+2000-01-01 00:01:54,2000-01-01 00:02:02,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:02:02,2000-01-01 00:02:22,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:02:22,2000-01-01 00:02:45,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:02:45,2000-01-01 00:02:51,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_006
+2000-01-01 00:02:51,2000-01-01 00:03:02,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:03:02,2000-01-01 00:03:12,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_006
+2000-01-01 00:03:12,2000-01-01 00:03:25,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:03:25,2000-01-01 00:03:28,Cut continuous thread chain with scissors,Thread trimming,factory_004,worker_006
+2000-01-01 00:03:28,2000-01-01 00:03:52,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:03:52,2000-01-01 00:04:00,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_006
+2000-01-01 00:04:00,2000-01-01 00:04:03,Trim raw fabric edge manually,Thread trimming,factory_004,worker_006
+2000-01-01 00:04:03,2000-01-01 00:04:36,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:04:36,2000-01-01 00:04:54,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:04:54,2000-01-01 00:05:05,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:05:05,2000-01-01 00:05:09,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:05:09,2000-01-01 00:05:22,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:05:22,2000-01-01 00:05:32,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_006
+2000-01-01 00:05:32,2000-01-01 00:05:36,Trim raw fabric edge manually,Thread trimming,factory_004,worker_006
+2000-01-01 00:05:36,2000-01-01 00:05:46,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:05:46,2000-01-01 00:05:58,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_006
+2000-01-01 00:05:58,2000-01-01 00:06:01,Trim raw fabric edge manually,Thread trimming,factory_004,worker_006
+2000-01-01 00:06:01,2000-01-01 00:06:12,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:06:12,2000-01-01 00:06:17,Pull sewn piece out of machine,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:06:17,2000-01-01 00:06:33,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:06:33,2000-01-01 00:06:40,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_006
+2000-01-01 00:06:40,2000-01-01 00:06:50,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:06:50,2000-01-01 00:07:00,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:07:00,2000-01-01 00:07:22,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:07:22,2000-01-01 00:07:32,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_006
+2000-01-01 00:07:32,2000-01-01 00:07:36,Cut continuous thread chain with scissors,Thread trimming,factory_004,worker_006
+2000-01-01 00:07:36,2000-01-01 00:07:56,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:07:56,2000-01-01 00:08:01,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:08:01,2000-01-01 00:08:04,Trim raw fabric edge manually,Thread trimming,factory_004,worker_006
+2000-01-01 00:08:12,2000-01-01 00:08:29,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:08:29,2000-01-01 00:08:35,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_006
+2000-01-01 00:08:35,2000-01-01 00:08:50,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:08:50,2000-01-01 00:09:00,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:09:00,2000-01-01 00:09:03,Trim raw fabric edge manually,Thread trimming,factory_004,worker_006
+2000-01-01 00:09:03,2000-01-01 00:09:18,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:09:18,2000-01-01 00:09:26,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:09:26,2000-01-01 00:09:29,Trim raw fabric edge manually,Thread trimming,factory_004,worker_006
+2000-01-01 00:09:29,2000-01-01 00:09:47,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:09:47,2000-01-01 00:09:51,Pull sewn piece out of machine,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:09:51,2000-01-01 00:09:54,Trim raw fabric edge manually,Thread trimming,factory_004,worker_006
+2000-01-01 00:09:54,2000-01-01 00:10:00,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:10:00,2000-01-01 00:10:13,Adjust machine thread tensioner,Machine maintenance,factory_004,worker_006
+2000-01-01 00:10:13,2000-01-01 00:10:28,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:10:28,2000-01-01 00:10:35,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:10:35,2000-01-01 00:10:48,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:10:48,2000-01-01 00:10:55,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:10:55,2000-01-01 00:11:10,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:11:10,2000-01-01 00:11:20,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_006
+2000-01-01 00:11:20,2000-01-01 00:11:34,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:11:34,2000-01-01 00:11:38,Cut continuous thread chain with scissors,Thread trimming,factory_004,worker_006
+2000-01-01 00:11:43,2000-01-01 00:11:53,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:11:53,2000-01-01 00:12:06,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:12:06,2000-01-01 00:12:10,Trim raw fabric edge manually,Thread trimming,factory_004,worker_006
+2000-01-01 00:12:10,2000-01-01 00:12:20,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:12:20,2000-01-01 00:12:29,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_006
+2000-01-01 00:12:29,2000-01-01 00:12:42,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:12:42,2000-01-01 00:12:53,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_006
+2000-01-01 00:12:53,2000-01-01 00:13:02,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:13:02,2000-01-01 00:13:08,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:13:08,2000-01-01 00:13:20,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:13:20,2000-01-01 00:13:31,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_006
+2000-01-01 00:13:31,2000-01-01 00:13:37,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:13:37,2000-01-01 00:13:41,Trim raw fabric edge manually,Thread trimming,factory_004,worker_006
+2000-01-01 00:13:41,2000-01-01 00:13:56,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:14:00,2000-01-01 00:14:03,Trim raw fabric edge manually,Thread trimming,factory_004,worker_006
+2000-01-01 00:14:03,2000-01-01 00:14:06,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:14:06,2000-01-01 00:14:14,Trim raw fabric edge manually,Thread trimming,factory_004,worker_006
+2000-01-01 00:14:14,2000-01-01 00:14:26,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:14:26,2000-01-01 00:14:38,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:14:38,2000-01-01 00:14:46,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:14:46,2000-01-01 00:14:55,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_006
+2000-01-01 00:14:55,2000-01-01 00:15:00,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:15:00,2000-01-01 00:15:03,Trim raw fabric edge manually,Thread trimming,factory_004,worker_006
+2000-01-01 00:15:03,2000-01-01 00:15:18,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:15:18,2000-01-01 00:15:22,Cut continuous thread chain with scissors,Thread trimming,factory_004,worker_006
+2000-01-01 00:15:22,2000-01-01 00:15:35,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:15:35,2000-01-01 00:15:43,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_006
+2000-01-01 00:15:43,2000-01-01 00:15:53,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:15:53,2000-01-01 00:15:57,Trim raw fabric edge manually,Thread trimming,factory_004,worker_006
+2000-01-01 00:15:57,2000-01-01 00:16:03,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:16:03,2000-01-01 00:16:17,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:16:17,2000-01-01 00:16:20,Cut continuous thread chain with scissors,Thread trimming,factory_004,worker_006
+2000-01-01 00:16:20,2000-01-01 00:16:29,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_006
+2000-01-01 00:16:29,2000-01-01 00:16:40,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:16:40,2000-01-01 00:16:51,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:16:51,2000-01-01 00:17:05,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:17:05,2000-01-01 00:17:15,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:17:15,2000-01-01 00:17:28,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:17:28,2000-01-01 00:17:34,Unfold sewn piece to inspect seam tension,Quality inspection,factory_004,worker_006
+2000-01-01 00:17:34,2000-01-01 00:17:46,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:17:46,2000-01-01 00:17:54,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:17:54,2000-01-01 00:17:59,Trim raw fabric edge manually,Thread trimming,factory_004,worker_006
+2000-01-01 00:17:59,2000-01-01 00:18:07,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:18:07,2000-01-01 00:18:15,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:18:15,2000-01-01 00:18:23,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:18:23,2000-01-01 00:18:27,Trim raw fabric edge manually,Thread trimming,factory_004,worker_006
+2000-01-01 00:18:27,2000-01-01 00:18:31,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:18:31,2000-01-01 00:18:35,Trim raw fabric edge manually,Thread trimming,factory_004,worker_006
+2000-01-01 00:18:35,2000-01-01 00:18:49,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:18:49,2000-01-01 00:18:59,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:18:59,2000-01-01 00:19:12,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:19:12,2000-01-01 00:19:20,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:19:20,2000-01-01 00:19:35,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:19:35,2000-01-01 00:19:42,Align raw fabric edges by hand,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:19:42,2000-01-01 00:19:48,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006
+2000-01-01 00:19:48,2000-01-01 00:19:52,Trim raw fabric edge manually,Thread trimming,factory_004,worker_006
+2000-01-01 00:19:52,2000-01-01 00:20:01,Sew continuous edge binding,Edge binding attachment,factory_004,worker_006

@@ -1,0 +1,22 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:45,align printed fabric patterns,Pattern matching,factory_002,worker_009
+2000-01-01 00:00:45,2000-01-01 00:00:54,pin small fabric pieces together,Fabric pinning,factory_002,worker_009
+2000-01-01 00:01:07,2000-01-01 00:01:40,align printed fabric patterns,Pattern matching,factory_002,worker_009
+2000-01-01 00:01:48,2000-01-01 00:03:13,align printed fabric patterns,Pattern matching,factory_002,worker_009
+2000-01-01 00:03:13,2000-01-01 00:04:20,align printed fabric patterns,Pattern matching,factory_002,worker_009
+2000-01-01 00:04:20,2000-01-01 00:04:30,pin small fabric pieces together,Fabric pinning,factory_002,worker_009
+2000-01-01 00:04:30,2000-01-01 00:05:03,align printed fabric patterns,Pattern matching,factory_002,worker_009
+2000-01-01 00:05:03,2000-01-01 00:05:19,pin small fabric pieces together,Fabric pinning,factory_002,worker_009
+2000-01-01 00:05:19,2000-01-01 00:06:20,align printed fabric patterns,Pattern matching,factory_002,worker_009
+2000-01-01 00:06:27,2000-01-01 00:06:38,smooth fabric flat on table,Fabric edge alignment,factory_002,worker_009
+2000-01-01 00:06:47,2000-01-01 00:07:09,align printed fabric patterns,Pattern matching,factory_002,worker_009
+2000-01-01 00:07:16,2000-01-01 00:07:36,align printed fabric patterns,Pattern matching,factory_002,worker_009
+2000-01-01 00:07:46,2000-01-01 00:08:24,align printed fabric patterns,Pattern matching,factory_002,worker_009
+2000-01-01 00:09:02,2000-01-01 00:10:16,align printed fabric patterns,Pattern matching,factory_002,worker_009
+2000-01-01 00:10:24,2000-01-01 00:11:18,align printed fabric patterns,Pattern matching,factory_002,worker_009
+2000-01-01 00:11:18,2000-01-01 00:12:35,pin small fabric pieces together,Fabric pinning,factory_002,worker_009
+2000-01-01 00:12:35,2000-01-01 00:13:00,align printed fabric patterns,Pattern matching,factory_002,worker_009
+2000-01-01 00:13:08,2000-01-01 00:15:55,align printed fabric patterns,Pattern matching,factory_002,worker_009
+2000-01-01 00:16:08,2000-01-01 00:18:02,align printed fabric patterns,Pattern matching,factory_002,worker_009
+2000-01-01 00:18:02,2000-01-01 00:18:56,align printed fabric patterns,Pattern matching,factory_002,worker_009
+2000-01-01 00:19:07,2000-01-01 00:20:00,align printed fabric patterns,Pattern matching,factory_002,worker_009

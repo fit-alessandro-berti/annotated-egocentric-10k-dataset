@@ -1,0 +1,22 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:02:05,2000-01-01 00:02:16,wipe motor surface with dark cloth,motor labeling and nameplate attachment,factory_005,worker_004
+2000-01-01 00:02:16,2000-01-01 00:02:23,peel single label from stack,motor labeling and nameplate attachment,factory_005,worker_004
+2000-01-01 00:02:23,2000-01-01 00:02:33,apply adhesive label to motor housing,motor labeling and nameplate attachment,factory_005,worker_004
+2000-01-01 00:02:33,2000-01-01 00:02:40,rub label to ensure adhesion,motor labeling and nameplate attachment,factory_005,worker_004
+2000-01-01 00:04:02,2000-01-01 00:04:12,wipe motor surface with dark cloth,motor labeling and nameplate attachment,factory_005,worker_004
+2000-01-01 00:04:12,2000-01-01 00:04:18,peel single label from stack,motor labeling and nameplate attachment,factory_005,worker_004
+2000-01-01 00:04:18,2000-01-01 00:04:27,apply adhesive label to motor housing,motor labeling and nameplate attachment,factory_005,worker_004
+2000-01-01 00:04:27,2000-01-01 00:04:33,rub label to ensure adhesion,motor labeling and nameplate attachment,factory_005,worker_004
+2000-01-01 00:04:33,2000-01-01 00:04:40,wipe motor surface with dark cloth,motor labeling and nameplate attachment,factory_005,worker_004
+2000-01-01 00:04:40,2000-01-01 00:04:45,peel single label from stack,motor labeling and nameplate attachment,factory_005,worker_004
+2000-01-01 00:04:45,2000-01-01 00:04:52,apply adhesive label to motor housing,motor labeling and nameplate attachment,factory_005,worker_004
+2000-01-01 00:04:52,2000-01-01 00:04:55,rub label to ensure adhesion,motor labeling and nameplate attachment,factory_005,worker_004
+2000-01-01 00:05:58,2000-01-01 00:06:15,peel single label from stack,motor labeling and nameplate attachment,factory_005,worker_004
+2000-01-01 00:06:15,2000-01-01 00:06:35,apply adhesive label to motor housing,motor labeling and nameplate attachment,factory_005,worker_004
+2000-01-01 00:06:35,2000-01-01 00:06:53,rub label to ensure adhesion,motor labeling and nameplate attachment,factory_005,worker_004
+2000-01-01 00:07:56,2000-01-01 00:08:10,wipe motor surface with dark cloth,motor labeling and nameplate attachment,factory_005,worker_004
+2000-01-01 00:08:10,2000-01-01 00:08:25,peel single label from stack,motor labeling and nameplate attachment,factory_005,worker_004
+2000-01-01 00:08:25,2000-01-01 00:08:55,apply adhesive label to motor housing,motor labeling and nameplate attachment,factory_005,worker_004
+2000-01-01 00:08:55,2000-01-01 00:09:25,rub label to ensure adhesion,motor labeling and nameplate attachment,factory_005,worker_004
+2000-01-01 00:13:00,2000-01-01 00:14:05,pull loaded pallet jack across floor,material transport and logistics,factory_005,worker_004
+2000-01-01 00:14:50,2000-01-01 00:15:18,pump manual pallet jack handle,material transport and logistics,factory_005,worker_004

@@ -1,0 +1,7 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:23,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_008
+2000-01-01 00:00:23,2000-01-01 00:01:46,apply paste with brush,Component sub-assembly,factory_003,worker_008
+2000-01-01 00:01:46,2000-01-01 00:01:52,assemble components in metal fixture,Component sub-assembly,factory_003,worker_008
+2000-01-01 00:01:52,2000-01-01 00:02:11,apply paste with brush,Component sub-assembly,factory_003,worker_008
+2000-01-01 00:02:11,2000-01-01 00:02:17,assemble components in metal fixture,Component sub-assembly,factory_003,worker_008
+2000-01-01 00:02:17,2000-01-01 00:19:59,apply paste with brush,Component sub-assembly,factory_003,worker_008

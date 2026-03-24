@@ -1,0 +1,36 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:04:22,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_006
+2000-01-01 00:04:33,2000-01-01 00:06:53,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_006
+2000-01-01 00:06:53,2000-01-01 00:07:06,blow debris with compressed air gun,Surface finishing and polishing,factory_003,worker_006
+2000-01-01 00:07:06,2000-01-01 00:07:29,press component halves together,Defect patching,factory_003,worker_006
+2000-01-01 00:07:29,2000-01-01 00:07:44,blow debris with compressed air gun,Surface finishing and polishing,factory_003,worker_006
+2000-01-01 00:07:44,2000-01-01 00:08:02,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_006
+2000-01-01 00:08:02,2000-01-01 00:10:13,apply paste with brush,Defect patching,factory_003,worker_006
+2000-01-01 00:10:18,2000-01-01 00:11:13,apply paste with brush,Defect patching,factory_003,worker_006
+2000-01-01 00:11:24,2000-01-01 00:11:38,file component edges,Surface finishing and polishing,factory_003,worker_006
+2000-01-01 00:11:38,2000-01-01 00:11:51,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_006
+2000-01-01 00:11:51,2000-01-01 00:12:29,bind assembled components with rubber bands,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:12:29,2000-01-01 00:12:39,blow debris with compressed air gun,Surface finishing and polishing,factory_003,worker_006
+2000-01-01 00:12:47,2000-01-01 00:13:25,bind assembled components with rubber bands,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:13:25,2000-01-01 00:13:48,apply paste with brush,Defect patching,factory_003,worker_006
+2000-01-01 00:13:48,2000-01-01 00:14:04,bind assembled components with rubber bands,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:14:04,2000-01-01 00:14:28,apply paste with brush,Defect patching,factory_003,worker_006
+2000-01-01 00:14:28,2000-01-01 00:14:45,bind assembled components with rubber bands,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:14:45,2000-01-01 00:15:02,apply paste with brush,Defect patching,factory_003,worker_006
+2000-01-01 00:15:02,2000-01-01 00:15:13,bind assembled components with rubber bands,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:15:13,2000-01-01 00:15:28,apply paste with brush,Defect patching,factory_003,worker_006
+2000-01-01 00:15:28,2000-01-01 00:16:05,bind assembled components with rubber bands,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:16:05,2000-01-01 00:16:20,apply paste with brush,Defect patching,factory_003,worker_006
+2000-01-01 00:16:20,2000-01-01 00:16:33,bind assembled components with rubber bands,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:16:33,2000-01-01 00:16:47,apply paste with brush,Defect patching,factory_003,worker_006
+2000-01-01 00:16:47,2000-01-01 00:16:58,bind assembled components with rubber bands,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:16:58,2000-01-01 00:17:12,apply paste with brush,Defect patching,factory_003,worker_006
+2000-01-01 00:17:12,2000-01-01 00:17:33,bind assembled components with rubber bands,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:17:33,2000-01-01 00:17:46,apply paste with brush,Defect patching,factory_003,worker_006
+2000-01-01 00:17:46,2000-01-01 00:17:56,bind assembled components with rubber bands,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:17:56,2000-01-01 00:18:08,apply paste with brush,Defect patching,factory_003,worker_006
+2000-01-01 00:18:08,2000-01-01 00:18:19,bind assembled components with rubber bands,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:18:19,2000-01-01 00:18:41,apply paste with brush,Defect patching,factory_003,worker_006
+2000-01-01 00:18:41,2000-01-01 00:19:05,bind assembled components with rubber bands,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:19:05,2000-01-01 00:19:18,apply paste with brush,Defect patching,factory_003,worker_006
+2000-01-01 00:19:18,2000-01-01 00:20:00,bind assembled components with rubber bands,Wax pattern assembly,factory_003,worker_006

@@ -1,0 +1,25 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:20,file component edges,Surface finishing and polishing,factory_003,worker_002
+2000-01-01 00:00:20,2000-01-01 00:00:26,blow debris with compressed air gun,Surface finishing and polishing,factory_003,worker_002
+2000-01-01 00:00:26,2000-01-01 00:01:46,file component edges,Surface finishing and polishing,factory_003,worker_002
+2000-01-01 00:01:46,2000-01-01 00:02:22,squeeze binding paste from piping bag,Wax pattern assembly,factory_003,worker_002
+2000-01-01 00:02:22,2000-01-01 00:02:35,bind assembled components with rubber bands,Wax pattern assembly,factory_003,worker_002
+2000-01-01 00:02:35,2000-01-01 00:02:46,squeeze binding paste from piping bag,Wax pattern assembly,factory_003,worker_002
+2000-01-01 00:02:46,2000-01-01 00:02:54,bind assembled components with rubber bands,Wax pattern assembly,factory_003,worker_002
+2000-01-01 00:02:54,2000-01-01 00:03:04,squeeze binding paste from piping bag,Wax pattern assembly,factory_003,worker_002
+2000-01-01 00:03:04,2000-01-01 00:03:13,bind assembled components with rubber bands,Wax pattern assembly,factory_003,worker_002
+2000-01-01 00:03:13,2000-01-01 00:03:33,squeeze binding paste from piping bag,Wax pattern assembly,factory_003,worker_002
+2000-01-01 00:03:33,2000-01-01 00:03:59,bind assembled components with rubber bands,Wax pattern assembly,factory_003,worker_002
+2000-01-01 00:03:59,2000-01-01 00:04:09,transport loaded tray to storage rack,Wax pattern assembly,factory_003,worker_002
+2000-01-01 00:04:09,2000-01-01 00:05:08,file component edges,Surface finishing and polishing,factory_003,worker_002
+2000-01-01 00:05:08,2000-01-01 00:05:30,transport loaded tray to storage rack,Wax pattern assembly,factory_003,worker_002
+2000-01-01 00:05:30,2000-01-01 00:06:55,file component edges,Surface finishing and polishing,factory_003,worker_002
+2000-01-01 00:06:55,2000-01-01 00:07:08,squeeze binding paste from piping bag,Wax pattern assembly,factory_003,worker_002
+2000-01-01 00:07:08,2000-01-01 00:07:20,bind assembled components with rubber bands,Wax pattern assembly,factory_003,worker_002
+2000-01-01 00:07:20,2000-01-01 00:07:26,transport loaded tray to storage rack,Wax pattern assembly,factory_003,worker_002
+2000-01-01 00:07:26,2000-01-01 00:08:11,file component edges,Surface finishing and polishing,factory_003,worker_002
+2000-01-01 00:08:11,2000-01-01 00:10:00,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_002
+2000-01-01 00:10:07,2000-01-01 00:11:30,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_002
+2000-01-01 00:12:00,2000-01-01 00:12:59,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_002
+2000-01-01 00:12:59,2000-01-01 00:13:08,transport loaded tray to storage rack,Surface finishing and polishing,factory_003,worker_002
+2000-01-01 00:13:42,2000-01-01 00:15:06,file component edges,Surface finishing and polishing,factory_003,worker_002

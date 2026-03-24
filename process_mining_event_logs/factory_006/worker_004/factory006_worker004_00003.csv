@@ -1,0 +1,14 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:01:05,push loaded wheelbarrow across factory floor,Bulk material transport,factory_006,worker_004
+2000-01-01 00:01:05,2000-01-01 00:02:56,interlock finned motor casings into horizontal rows,Component staging and arrangement,factory_006,worker_004
+2000-01-01 00:05:05,2000-01-01 00:05:59,load metal casing into wheelbarrow,Bulk material transport,factory_006,worker_004
+2000-01-01 00:05:59,2000-01-01 00:06:15,push loaded wheelbarrow across factory floor,Bulk material transport,factory_006,worker_004
+2000-01-01 00:06:15,2000-01-01 00:07:13,dump metal casings onto floor pile,Bulk material transport,factory_006,worker_004
+2000-01-01 00:08:08,2000-01-01 00:08:26,push loaded wheelbarrow across factory floor,Bulk material transport,factory_006,worker_004
+2000-01-01 00:08:26,2000-01-01 00:10:13,interlock finned motor casings into horizontal rows,Component staging and arrangement,factory_006,worker_004
+2000-01-01 00:11:25,2000-01-01 00:11:51,push loaded wheelbarrow across factory floor,Bulk material transport,factory_006,worker_004
+2000-01-01 00:11:51,2000-01-01 00:12:49,dump metal casings onto floor pile,Bulk material transport,factory_006,worker_004
+2000-01-01 00:13:16,2000-01-01 00:14:48,load metal casing into wheelbarrow,Bulk material transport,factory_006,worker_004
+2000-01-01 00:14:48,2000-01-01 00:15:18,push loaded wheelbarrow across factory floor,Bulk material transport,factory_006,worker_004
+2000-01-01 00:15:18,2000-01-01 00:17:50,sift through mixed small parts on floor,Floor-based part sorting,factory_006,worker_004
+2000-01-01 00:17:50,2000-01-01 00:18:22,scoop sorted metal brackets into bowl,Floor-based part sorting,factory_006,worker_004

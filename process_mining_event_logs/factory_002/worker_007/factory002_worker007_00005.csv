@@ -1,0 +1,23 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:36,tape bottom box flaps with handheld dispenser,Box sealing,factory_002,worker_007
+2000-01-01 00:00:46,2000-01-01 00:01:57,drop packaged garments into bulk box,Box packing,factory_002,worker_007
+2000-01-01 00:01:57,2000-01-01 00:02:34,tape bottom box flaps with handheld dispenser,Box sealing,factory_002,worker_007
+2000-01-01 00:03:34,2000-01-01 00:05:00,drop packaged garments into bulk box,Box packing,factory_002,worker_007
+2000-01-01 00:05:44,2000-01-01 00:06:36,fold over adhesive bag flap,Garment bagging,factory_002,worker_007
+2000-01-01 00:06:56,2000-01-01 00:07:22,fold over adhesive bag flap,Garment bagging,factory_002,worker_007
+2000-01-01 00:07:46,2000-01-01 00:08:29,fold over adhesive bag flap,Garment bagging,factory_002,worker_007
+2000-01-01 00:08:55,2000-01-01 00:09:16,push loaded cage cart through factory aisle,Material transport,factory_002,worker_007
+2000-01-01 00:09:16,2000-01-01 00:09:44,drop packaged garments into bulk box,Box packing,factory_002,worker_007
+2000-01-01 00:09:44,2000-01-01 00:10:29,tape bottom box flaps with handheld dispenser,Box sealing,factory_002,worker_007
+2000-01-01 00:10:39,2000-01-01 00:11:32,drop packaged garments into bulk box,Box packing,factory_002,worker_007
+2000-01-01 00:11:51,2000-01-01 00:12:35,fold over adhesive bag flap,Garment bagging,factory_002,worker_007
+2000-01-01 00:13:16,2000-01-01 00:13:46,fold over adhesive bag flap,Garment bagging,factory_002,worker_007
+2000-01-01 00:14:00,2000-01-01 00:14:38,drop packaged garments into bulk box,Box packing,factory_002,worker_007
+2000-01-01 00:15:00,2000-01-01 00:15:28,fold over adhesive bag flap,Garment bagging,factory_002,worker_007
+2000-01-01 00:15:47,2000-01-01 00:16:15,review handwritten instruction slips,Floor auditing,factory_002,worker_007
+2000-01-01 00:16:15,2000-01-01 00:16:59,drop packaged garments into bulk box,Box packing,factory_002,worker_007
+2000-01-01 00:17:34,2000-01-01 00:17:55,review handwritten instruction slips,Floor auditing,factory_002,worker_007
+2000-01-01 00:17:55,2000-01-01 00:18:23,tick checkbox on package label with pen,Package labeling,factory_002,worker_007
+2000-01-01 00:18:41,2000-01-01 00:19:07,fold over adhesive bag flap,Garment bagging,factory_002,worker_007
+2000-01-01 00:19:22,2000-01-01 00:19:54,drop packaged garments into bulk box,Box packing,factory_002,worker_007
+2000-01-01 00:19:54,2000-01-01 00:20:00,tape bottom box flaps with handheld dispenser,Box sealing,factory_002,worker_007

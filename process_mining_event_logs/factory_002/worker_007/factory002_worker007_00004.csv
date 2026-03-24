@@ -1,0 +1,26 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:23,tape bottom box flaps with handheld dispenser,Box sealing,factory_002,worker_007
+2000-01-01 00:00:34,2000-01-01 00:01:28,drop packaged garments into bulk box,Box packing,factory_002,worker_007
+2000-01-01 00:01:28,2000-01-01 00:02:17,tape bottom box flaps with handheld dispenser,Box sealing,factory_002,worker_007
+2000-01-01 00:02:22,2000-01-01 00:02:40,drop packaged garments into bulk box,Box packing,factory_002,worker_007
+2000-01-01 00:02:40,2000-01-01 00:03:32,tape bottom box flaps with handheld dispenser,Box sealing,factory_002,worker_007
+2000-01-01 00:03:36,2000-01-01 00:03:55,drop packaged garments into bulk box,Box packing,factory_002,worker_007
+2000-01-01 00:03:55,2000-01-01 00:04:39,tape bottom box flaps with handheld dispenser,Box sealing,factory_002,worker_007
+2000-01-01 00:04:43,2000-01-01 00:05:01,drop packaged garments into bulk box,Box packing,factory_002,worker_007
+2000-01-01 00:05:01,2000-01-01 00:05:46,tape bottom box flaps with handheld dispenser,Box sealing,factory_002,worker_007
+2000-01-01 00:05:50,2000-01-01 00:06:05,drop packaged garments into bulk box,Box packing,factory_002,worker_007
+2000-01-01 00:06:05,2000-01-01 00:06:49,tape bottom box flaps with handheld dispenser,Box sealing,factory_002,worker_007
+2000-01-01 00:06:54,2000-01-01 00:07:10,drop packaged garments into bulk box,Box packing,factory_002,worker_007
+2000-01-01 00:07:10,2000-01-01 00:07:16,tape bottom box flaps with handheld dispenser,Box sealing,factory_002,worker_007
+2000-01-01 00:07:51,2000-01-01 00:10:25,apply adhesive label with handheld dispenser,Package labeling,factory_002,worker_007
+2000-01-01 00:10:37,2000-01-01 00:11:21,drop packaged garments into bulk box,Box packing,factory_002,worker_007
+2000-01-01 00:11:21,2000-01-01 00:12:15,tape bottom box flaps with handheld dispenser,Box sealing,factory_002,worker_007
+2000-01-01 00:12:20,2000-01-01 00:13:14,apply adhesive label with handheld dispenser,Package labeling,factory_002,worker_007
+2000-01-01 00:13:21,2000-01-01 00:13:48,drop packaged garments into bulk box,Box packing,factory_002,worker_007
+2000-01-01 00:13:48,2000-01-01 00:14:38,tape bottom box flaps with handheld dispenser,Box sealing,factory_002,worker_007
+2000-01-01 00:14:44,2000-01-01 00:17:02,apply adhesive label with handheld dispenser,Package labeling,factory_002,worker_007
+2000-01-01 00:17:02,2000-01-01 00:17:34,drop packaged garments into bulk box,Box packing,factory_002,worker_007
+2000-01-01 00:17:34,2000-01-01 00:18:17,tape bottom box flaps with handheld dispenser,Box sealing,factory_002,worker_007
+2000-01-01 00:18:23,2000-01-01 00:19:04,apply adhesive label with handheld dispenser,Package labeling,factory_002,worker_007
+2000-01-01 00:19:04,2000-01-01 00:19:24,drop packaged garments into bulk box,Box packing,factory_002,worker_007
+2000-01-01 00:19:24,2000-01-01 00:20:01,tape bottom box flaps with handheld dispenser,Box sealing,factory_002,worker_007

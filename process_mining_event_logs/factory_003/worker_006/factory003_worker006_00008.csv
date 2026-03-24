@@ -1,0 +1,21 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:46,bind assembled components with rubber bands,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:00:47,2000-01-01 00:01:02,blow debris with compressed air gun,Surface finishing and polishing,factory_003,worker_006
+2000-01-01 00:01:03,2000-01-01 00:01:21,apply paste with brush,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:01:22,2000-01-01 00:01:31,bind assembled components with rubber bands,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:01:32,2000-01-01 00:01:50,apply paste with brush,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:01:51,2000-01-01 00:02:02,blow debris with compressed air gun,Surface finishing and polishing,factory_003,worker_006
+2000-01-01 00:02:03,2000-01-01 00:02:10,bind assembled components with rubber bands,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:02:11,2000-01-01 00:02:17,apply paste with brush,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:02:18,2000-01-01 00:02:30,bind assembled components with rubber bands,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:02:31,2000-01-01 00:02:43,blow debris with compressed air gun,Surface finishing and polishing,factory_003,worker_006
+2000-01-01 00:02:44,2000-01-01 00:05:07,file component edges,Surface finishing and polishing,factory_003,worker_006
+2000-01-01 00:05:08,2000-01-01 00:05:15,transport loaded tray to storage rack,Surface finishing and polishing,factory_003,worker_006
+2000-01-01 00:05:16,2000-01-01 00:05:34,apply paste with brush,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:05:35,2000-01-01 00:07:26,file component edges,Surface finishing and polishing,factory_003,worker_006
+2000-01-01 00:07:47,2000-01-01 00:08:59,file component edges,Surface finishing and polishing,factory_003,worker_006
+2000-01-01 00:09:16,2000-01-01 00:10:08,file component edges,Surface finishing and polishing,factory_003,worker_006
+2000-01-01 00:10:17,2000-01-01 00:10:50,file component edges,Surface finishing and polishing,factory_003,worker_006
+2000-01-01 00:11:00,2000-01-01 00:19:32,file component edges,Surface finishing and polishing,factory_003,worker_006
+2000-01-01 00:19:33,2000-01-01 00:19:41,blow debris with compressed air gun,Surface finishing and polishing,factory_003,worker_006
+2000-01-01 00:19:42,2000-01-01 00:20:00,file component edges,Surface finishing and polishing,factory_003,worker_006

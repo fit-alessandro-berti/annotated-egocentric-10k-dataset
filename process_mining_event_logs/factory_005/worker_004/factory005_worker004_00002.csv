@@ -1,0 +1,137 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:17,wipe inside of chuck jaws with swarf,manual lathe machining,factory_005,worker_004
+2000-01-01 00:00:17,2000-01-01 00:00:22,measure part dimensions with manual caliper,dimensional quality inspection,factory_005,worker_004
+2000-01-01 00:00:22,2000-01-01 00:00:30,brush metal shavings off lathe tool post,manual lathe machining,factory_005,worker_004
+2000-01-01 00:00:30,2000-01-01 00:00:38,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_004
+2000-01-01 00:00:38,2000-01-01 00:00:46,measure part dimensions with manual caliper,dimensional quality inspection,factory_005,worker_004
+2000-01-01 00:00:46,2000-01-01 00:00:50,wipe inside of chuck jaws with swarf,manual lathe machining,factory_005,worker_004
+2000-01-01 00:00:50,2000-01-01 00:01:04,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_004
+2000-01-01 00:01:04,2000-01-01 00:01:14,brush metal shavings off lathe tool post,manual lathe machining,factory_005,worker_004
+2000-01-01 00:01:14,2000-01-01 00:01:34,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_004
+2000-01-01 00:01:34,2000-01-01 00:01:38,measure part dimensions with manual caliper,dimensional quality inspection,factory_005,worker_004
+2000-01-01 00:01:38,2000-01-01 00:01:48,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_004
+2000-01-01 00:01:48,2000-01-01 00:01:55,adjust lathe toolpost with hand wrench mid-cut,manual lathe machining,factory_005,worker_004
+2000-01-01 00:01:55,2000-01-01 00:02:00,brush metal shavings off lathe tool post,manual lathe machining,factory_005,worker_004
+2000-01-01 00:02:00,2000-01-01 00:02:43,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_004
+2000-01-01 00:02:43,2000-01-01 00:02:51,adjust lathe toolpost with hand wrench mid-cut,manual lathe machining,factory_005,worker_004
+2000-01-01 00:02:51,2000-01-01 00:02:59,brush metal shavings off lathe tool post,manual lathe machining,factory_005,worker_004
+2000-01-01 00:02:59,2000-01-01 00:03:22,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_004
+2000-01-01 00:03:22,2000-01-01 00:03:28,adjust lathe toolpost with hand wrench mid-cut,manual lathe machining,factory_005,worker_004
+2000-01-01 00:03:28,2000-01-01 00:03:34,brush metal shavings off lathe tool post,manual lathe machining,factory_005,worker_004
+2000-01-01 00:03:34,2000-01-01 00:03:41,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_004
+2000-01-01 00:03:41,2000-01-01 00:03:48,brush metal shavings off lathe tool post,manual lathe machining,factory_005,worker_004
+2000-01-01 00:03:48,2000-01-01 00:04:07,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_004
+2000-01-01 00:04:07,2000-01-01 00:04:12,brush metal shavings off lathe tool post,manual lathe machining,factory_005,worker_004
+2000-01-01 00:04:12,2000-01-01 00:04:40,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_004
+2000-01-01 00:04:43,2000-01-01 00:04:51,brush metal shavings off lathe tool post,manual lathe machining,factory_005,worker_004
+2000-01-01 00:04:51,2000-01-01 00:05:01,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_004
+2000-01-01 00:05:01,2000-01-01 00:05:08,brush metal shavings off lathe tool post,manual lathe machining,factory_005,worker_004
+2000-01-01 00:05:18,2000-01-01 00:05:35,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_004
+2000-01-01 00:05:35,2000-01-01 00:05:41,adjust lathe toolpost with hand wrench mid-cut,manual lathe machining,factory_005,worker_004
+2000-01-01 00:05:41,2000-01-01 00:05:48,brush metal shavings off lathe tool post,manual lathe machining,factory_005,worker_004
+2000-01-01 00:05:48,2000-01-01 00:05:57,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_004
+2000-01-01 00:05:57,2000-01-01 00:06:03,adjust lathe toolpost with hand wrench mid-cut,manual lathe machining,factory_005,worker_004
+2000-01-01 00:06:03,2000-01-01 00:06:18,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_004
+2000-01-01 00:06:18,2000-01-01 00:06:28,adjust lathe toolpost with hand wrench mid-cut,manual lathe machining,factory_005,worker_004
+2000-01-01 00:06:28,2000-01-01 00:06:44,smooth spinning metal part with file,manual lathe machining,factory_005,worker_004
+2000-01-01 00:06:44,2000-01-01 00:06:50,loosen lathe chuck bolts,manual lathe machining,factory_005,worker_004
+2000-01-01 00:06:50,2000-01-01 00:06:57,remove machined part from lathe,manual lathe machining,factory_005,worker_004
+2000-01-01 00:06:57,2000-01-01 00:07:01,mount unmachined part into lathe chuck,manual lathe machining,factory_005,worker_004
+2000-01-01 00:07:01,2000-01-01 00:07:05,tighten lathe chuck bolts with spanner,manual lathe machining,factory_005,worker_004
+2000-01-01 00:07:05,2000-01-01 00:07:13,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_004
+2000-01-01 00:07:13,2000-01-01 00:07:18,adjust lathe toolpost with hand wrench mid-cut,manual lathe machining,factory_005,worker_004
+2000-01-01 00:07:18,2000-01-01 00:07:49,smooth spinning metal part with file,manual lathe machining,factory_005,worker_004
+2000-01-01 00:07:49,2000-01-01 00:07:57,brush metal shavings off lathe tool post,manual lathe machining,factory_005,worker_004
+2000-01-01 00:07:57,2000-01-01 00:08:04,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_004
+2000-01-01 00:08:04,2000-01-01 00:08:11,tighten lathe chuck bolts with spanner,manual lathe machining,factory_005,worker_004
+2000-01-01 00:08:11,2000-01-01 00:08:33,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_004
+2000-01-01 00:08:33,2000-01-01 00:08:48,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_004
+2000-01-01 00:08:48,2000-01-01 00:08:52,brush metal shavings off lathe tool post,manual lathe machining,factory_005,worker_004
+2000-01-01 00:08:52,2000-01-01 00:09:10,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_004
+2000-01-01 00:09:10,2000-01-01 00:09:15,brush metal shavings off lathe tool post,manual lathe machining,factory_005,worker_004
+2000-01-01 00:09:15,2000-01-01 00:09:20,loosen lathe chuck bolts,manual lathe machining,factory_005,worker_004
+2000-01-01 00:09:20,2000-01-01 00:09:24,remove machined part from lathe,manual lathe machining,factory_005,worker_004
+2000-01-01 00:09:24,2000-01-01 00:09:30,mount unmachined part into lathe chuck,manual lathe machining,factory_005,worker_004
+2000-01-01 00:09:30,2000-01-01 00:09:35,tighten lathe chuck bolts with spanner,manual lathe machining,factory_005,worker_004
+2000-01-01 00:09:35,2000-01-01 00:09:40,brush metal shavings off lathe tool post,manual lathe machining,factory_005,worker_004
+2000-01-01 00:09:40,2000-01-01 00:09:46,adjust lathe toolpost with hand wrench mid-cut,manual lathe machining,factory_005,worker_004
+2000-01-01 00:09:46,2000-01-01 00:09:55,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_004
+2000-01-01 00:09:55,2000-01-01 00:10:14,smooth spinning metal part with file,manual lathe machining,factory_005,worker_004
+2000-01-01 00:10:14,2000-01-01 00:10:20,brush metal shavings off lathe tool post,manual lathe machining,factory_005,worker_004
+2000-01-01 00:10:20,2000-01-01 00:10:27,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_004
+2000-01-01 00:10:27,2000-01-01 00:10:40,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_004
+2000-01-01 00:10:40,2000-01-01 00:10:44,brush metal shavings off lathe tool post,manual lathe machining,factory_005,worker_004
+2000-01-01 00:10:44,2000-01-01 00:10:50,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_004
+2000-01-01 00:10:50,2000-01-01 00:10:56,remove machined part from lathe,manual lathe machining,factory_005,worker_004
+2000-01-01 00:10:56,2000-01-01 00:11:00,mount unmachined part into lathe chuck,manual lathe machining,factory_005,worker_004
+2000-01-01 00:11:00,2000-01-01 00:11:04,tighten lathe chuck bolts with spanner,manual lathe machining,factory_005,worker_004
+2000-01-01 00:11:04,2000-01-01 00:11:14,smooth spinning metal part with file,manual lathe machining,factory_005,worker_004
+2000-01-01 00:11:14,2000-01-01 00:11:18,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_004
+2000-01-01 00:11:18,2000-01-01 00:11:25,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_004
+2000-01-01 00:11:25,2000-01-01 00:11:29,brush metal shavings off lathe tool post,manual lathe machining,factory_005,worker_004
+2000-01-01 00:11:29,2000-01-01 00:11:34,remove machined part from lathe,manual lathe machining,factory_005,worker_004
+2000-01-01 00:11:39,2000-01-01 00:11:45,mount unmachined part into lathe chuck,manual lathe machining,factory_005,worker_004
+2000-01-01 00:11:45,2000-01-01 00:11:49,tighten lathe chuck bolts with spanner,manual lathe machining,factory_005,worker_004
+2000-01-01 00:11:49,2000-01-01 00:11:53,adjust lathe toolpost with hand wrench mid-cut,manual lathe machining,factory_005,worker_004
+2000-01-01 00:11:53,2000-01-01 00:11:59,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_004
+2000-01-01 00:11:59,2000-01-01 00:12:12,smooth spinning metal part with file,manual lathe machining,factory_005,worker_004
+2000-01-01 00:12:12,2000-01-01 00:12:19,brush metal shavings off lathe tool post,manual lathe machining,factory_005,worker_004
+2000-01-01 00:12:19,2000-01-01 00:12:28,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_004
+2000-01-01 00:12:28,2000-01-01 00:12:37,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_004
+2000-01-01 00:12:37,2000-01-01 00:12:41,brush metal shavings off lathe tool post,manual lathe machining,factory_005,worker_004
+2000-01-01 00:12:41,2000-01-01 00:12:45,loosen lathe chuck bolts,manual lathe machining,factory_005,worker_004
+2000-01-01 00:12:45,2000-01-01 00:12:50,remove machined part from lathe,manual lathe machining,factory_005,worker_004
+2000-01-01 00:12:50,2000-01-01 00:12:57,mount unmachined part into lathe chuck,manual lathe machining,factory_005,worker_004
+2000-01-01 00:12:57,2000-01-01 00:13:01,tighten lathe chuck bolts with spanner,manual lathe machining,factory_005,worker_004
+2000-01-01 00:13:01,2000-01-01 00:13:10,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_004
+2000-01-01 00:13:10,2000-01-01 00:13:15,adjust lathe toolpost with hand wrench mid-cut,manual lathe machining,factory_005,worker_004
+2000-01-01 00:13:15,2000-01-01 00:13:34,smooth spinning metal part with file,manual lathe machining,factory_005,worker_004
+2000-01-01 00:13:34,2000-01-01 00:13:40,brush metal shavings off lathe tool post,manual lathe machining,factory_005,worker_004
+2000-01-01 00:13:40,2000-01-01 00:13:48,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_004
+2000-01-01 00:13:48,2000-01-01 00:13:58,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_004
+2000-01-01 00:13:58,2000-01-01 00:14:03,brush metal shavings off lathe tool post,manual lathe machining,factory_005,worker_004
+2000-01-01 00:14:03,2000-01-01 00:14:11,remove machined part from lathe,manual lathe machining,factory_005,worker_004
+2000-01-01 00:14:11,2000-01-01 00:14:18,mount unmachined part into lathe chuck,manual lathe machining,factory_005,worker_004
+2000-01-01 00:14:18,2000-01-01 00:14:23,tighten lathe chuck bolts with spanner,manual lathe machining,factory_005,worker_004
+2000-01-01 00:14:23,2000-01-01 00:14:33,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_004
+2000-01-01 00:14:33,2000-01-01 00:14:38,adjust lathe toolpost with hand wrench mid-cut,manual lathe machining,factory_005,worker_004
+2000-01-01 00:14:38,2000-01-01 00:14:48,smooth spinning metal part with file,manual lathe machining,factory_005,worker_004
+2000-01-01 00:14:48,2000-01-01 00:14:54,brush metal shavings off lathe tool post,manual lathe machining,factory_005,worker_004
+2000-01-01 00:14:54,2000-01-01 00:15:01,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_004
+2000-01-01 00:15:01,2000-01-01 00:15:10,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_004
+2000-01-01 00:15:10,2000-01-01 00:15:15,brush metal shavings off lathe tool post,manual lathe machining,factory_005,worker_004
+2000-01-01 00:15:15,2000-01-01 00:15:23,remove machined part from lathe,manual lathe machining,factory_005,worker_004
+2000-01-01 00:15:23,2000-01-01 00:15:30,mount unmachined part into lathe chuck,manual lathe machining,factory_005,worker_004
+2000-01-01 00:15:30,2000-01-01 00:15:35,tighten lathe chuck bolts with spanner,manual lathe machining,factory_005,worker_004
+2000-01-01 00:15:35,2000-01-01 00:15:45,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_004
+2000-01-01 00:15:45,2000-01-01 00:16:01,smooth spinning metal part with file,manual lathe machining,factory_005,worker_004
+2000-01-01 00:16:01,2000-01-01 00:16:07,brush metal shavings off lathe tool post,manual lathe machining,factory_005,worker_004
+2000-01-01 00:16:07,2000-01-01 00:16:13,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_004
+2000-01-01 00:16:13,2000-01-01 00:16:22,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_004
+2000-01-01 00:16:22,2000-01-01 00:16:25,brush metal shavings off lathe tool post,manual lathe machining,factory_005,worker_004
+2000-01-01 00:16:25,2000-01-01 00:16:29,remove machined part from lathe,manual lathe machining,factory_005,worker_004
+2000-01-01 00:16:29,2000-01-01 00:16:36,mount unmachined part into lathe chuck,manual lathe machining,factory_005,worker_004
+2000-01-01 00:16:36,2000-01-01 00:16:41,tighten lathe chuck bolts with spanner,manual lathe machining,factory_005,worker_004
+2000-01-01 00:16:41,2000-01-01 00:16:49,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_004
+2000-01-01 00:16:49,2000-01-01 00:17:07,smooth spinning metal part with file,manual lathe machining,factory_005,worker_004
+2000-01-01 00:17:07,2000-01-01 00:17:14,brush metal shavings off lathe tool post,manual lathe machining,factory_005,worker_004
+2000-01-01 00:17:14,2000-01-01 00:17:22,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_004
+2000-01-01 00:17:22,2000-01-01 00:17:34,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_004
+2000-01-01 00:17:34,2000-01-01 00:17:40,brush metal shavings off lathe tool post,manual lathe machining,factory_005,worker_004
+2000-01-01 00:17:42,2000-01-01 00:17:47,remove machined part from lathe,manual lathe machining,factory_005,worker_004
+2000-01-01 00:17:47,2000-01-01 00:17:54,mount unmachined part into lathe chuck,manual lathe machining,factory_005,worker_004
+2000-01-01 00:17:54,2000-01-01 00:17:58,tighten lathe chuck bolts with spanner,manual lathe machining,factory_005,worker_004
+2000-01-01 00:17:58,2000-01-01 00:18:06,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_004
+2000-01-01 00:18:06,2000-01-01 00:18:22,smooth spinning metal part with file,manual lathe machining,factory_005,worker_004
+2000-01-01 00:18:22,2000-01-01 00:18:28,brush metal shavings off lathe tool post,manual lathe machining,factory_005,worker_004
+2000-01-01 00:18:28,2000-01-01 00:18:36,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_004
+2000-01-01 00:18:36,2000-01-01 00:18:48,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_004
+2000-01-01 00:18:48,2000-01-01 00:18:55,brush metal shavings off lathe tool post,manual lathe machining,factory_005,worker_004
+2000-01-01 00:18:55,2000-01-01 00:19:00,remove machined part from lathe,manual lathe machining,factory_005,worker_004
+2000-01-01 00:19:00,2000-01-01 00:19:07,mount unmachined part into lathe chuck,manual lathe machining,factory_005,worker_004
+2000-01-01 00:19:07,2000-01-01 00:19:11,tighten lathe chuck bolts with spanner,manual lathe machining,factory_005,worker_004
+2000-01-01 00:19:11,2000-01-01 00:19:18,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_004
+2000-01-01 00:19:18,2000-01-01 00:19:32,smooth spinning metal part with file,manual lathe machining,factory_005,worker_004
+2000-01-01 00:19:32,2000-01-01 00:19:38,brush metal shavings off lathe tool post,manual lathe machining,factory_005,worker_004
+2000-01-01 00:19:38,2000-01-01 00:19:54,advance cutting tool via carriage handwheels,manual lathe machining,factory_005,worker_004
+2000-01-01 00:19:54,2000-01-01 00:20:01,brush metal shavings off lathe tool post,manual lathe machining,factory_005,worker_004

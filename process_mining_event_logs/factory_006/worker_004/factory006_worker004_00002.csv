@@ -1,0 +1,13 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:30,sift through mixed small parts on floor,Floor-based part sorting,factory_006,worker_004
+2000-01-01 00:00:30,2000-01-01 00:01:34,scoop sorted metal brackets into bowl,Floor-based part sorting,factory_006,worker_004
+2000-01-01 00:01:34,2000-01-01 00:02:05,interlock finned motor casings into horizontal rows,Component staging and arrangement,factory_006,worker_004
+2000-01-01 00:02:49,2000-01-01 00:03:40,arrange metal casings into table grids,Component staging and arrangement,factory_006,worker_004
+2000-01-01 00:03:40,2000-01-01 00:05:59,interlock finned motor casings into horizontal rows,Component staging and arrangement,factory_006,worker_004
+2000-01-01 00:06:17,2000-01-01 00:10:15,interlock finned motor casings into horizontal rows,Component staging and arrangement,factory_006,worker_004
+2000-01-01 00:10:15,2000-01-01 00:13:13,load metal casing into wheelbarrow,Bulk material transport,factory_006,worker_004
+2000-01-01 00:13:13,2000-01-01 00:14:15,push loaded wheelbarrow across factory floor,Bulk material transport,factory_006,worker_004
+2000-01-01 00:14:15,2000-01-01 00:15:23,scoop sorted metal brackets into bowl,Floor-based part sorting,factory_006,worker_004
+2000-01-01 00:15:23,2000-01-01 00:15:56,push loaded wheelbarrow across factory floor,Bulk material transport,factory_006,worker_004
+2000-01-01 00:15:56,2000-01-01 00:16:11,dump metal casings onto floor pile,Bulk material transport,factory_006,worker_004
+2000-01-01 00:16:35,2000-01-01 00:20:00,hammer metal bracket on hexagonal floor anvil,Part mechanical modification,factory_006,worker_004

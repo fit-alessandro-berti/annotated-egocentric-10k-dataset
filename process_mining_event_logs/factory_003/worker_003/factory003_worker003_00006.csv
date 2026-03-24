@@ -1,0 +1,7 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:20,apply spot touch-up paint with fine brush,Spot painting,factory_003,worker_003
+2000-01-01 00:00:20,2000-01-01 00:00:36,transport loaded tray to storage rack,Spot painting,factory_003,worker_003
+2000-01-01 00:00:51,2000-01-01 00:03:58,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_003
+2000-01-01 00:04:04,2000-01-01 00:08:06,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_003
+2000-01-01 00:08:06,2000-01-01 00:08:20,transport loaded tray to storage rack,Surface finishing and polishing,factory_003,worker_003
+2000-01-01 00:08:34,2000-01-01 00:10:58,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_003

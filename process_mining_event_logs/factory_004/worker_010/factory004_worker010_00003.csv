@@ -1,0 +1,11 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:07,2000-01-01 00:00:10,Pull unmarked garment from pile,Garment folding,factory_004,worker_010
+2000-01-01 00:00:10,2000-01-01 00:03:07,Wrap printed cardboard sleeve around garment,Garment folding,factory_004,worker_010
+2000-01-01 00:03:20,2000-01-01 00:04:42,Wrap printed cardboard sleeve around garment,Garment folding,factory_004,worker_010
+2000-01-01 00:04:42,2000-01-01 00:05:27,Fetch loose garments from floor mat,Material transport,factory_004,worker_010
+2000-01-01 00:05:27,2000-01-01 00:08:30,Wrap printed cardboard sleeve around garment,Garment folding,factory_004,worker_010
+2000-01-01 00:08:30,2000-01-01 00:08:48,Calculate production batch on smartphone,Production data logging,factory_004,worker_010
+2000-01-01 00:08:48,2000-01-01 00:15:42,Wrap printed cardboard sleeve around garment,Garment folding,factory_004,worker_010
+2000-01-01 00:15:42,2000-01-01 00:16:11,Transport heavy fabric stack across factory floor,Material transport,factory_004,worker_010
+2000-01-01 00:16:40,2000-01-01 00:17:28,Wrap printed cardboard sleeve around garment,Garment folding,factory_004,worker_010
+2000-01-01 00:17:39,2000-01-01 00:19:02,Wrap printed cardboard sleeve around garment,Garment folding,factory_004,worker_010

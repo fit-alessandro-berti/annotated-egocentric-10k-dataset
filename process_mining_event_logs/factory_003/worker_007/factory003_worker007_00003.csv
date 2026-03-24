@@ -1,0 +1,169 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:16,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:00:16,2000-01-01 00:00:30,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:00:30,2000-01-01 00:00:43,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:00:43,2000-01-01 00:01:14,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:01:14,2000-01-01 00:01:21,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:01:21,2000-01-01 00:01:31,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:01:31,2000-01-01 00:01:45,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:01:45,2000-01-01 00:01:53,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:01:53,2000-01-01 00:02:00,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:02:00,2000-01-01 00:02:11,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:02:11,2000-01-01 00:02:22,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:02:22,2000-01-01 00:02:27,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:02:27,2000-01-01 00:02:37,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:02:37,2000-01-01 00:02:42,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:02:42,2000-01-01 00:02:45,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:02:45,2000-01-01 00:03:00,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:03:00,2000-01-01 00:03:10,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:03:10,2000-01-01 00:03:15,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:03:31,2000-01-01 00:03:55,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:03:55,2000-01-01 00:03:58,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:03:58,2000-01-01 00:04:02,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:04:02,2000-01-01 00:04:14,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:04:14,2000-01-01 00:04:16,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:04:16,2000-01-01 00:04:21,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:04:21,2000-01-01 00:04:30,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:04:30,2000-01-01 00:04:32,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:04:32,2000-01-01 00:04:36,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:04:36,2000-01-01 00:04:42,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:04:42,2000-01-01 00:04:44,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:04:44,2000-01-01 00:04:49,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:04:49,2000-01-01 00:04:59,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:04:59,2000-01-01 00:05:01,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:05:01,2000-01-01 00:05:04,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:05:04,2000-01-01 00:05:13,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:05:13,2000-01-01 00:05:15,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:05:15,2000-01-01 00:05:20,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:05:32,2000-01-01 00:05:50,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:05:50,2000-01-01 00:05:53,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:05:53,2000-01-01 00:05:56,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:05:56,2000-01-01 00:06:16,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:06:16,2000-01-01 00:06:18,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:06:18,2000-01-01 00:06:22,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:06:22,2000-01-01 00:06:33,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:06:33,2000-01-01 00:06:35,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:06:35,2000-01-01 00:06:38,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:06:38,2000-01-01 00:06:48,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:06:48,2000-01-01 00:06:50,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:06:50,2000-01-01 00:06:54,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:06:54,2000-01-01 00:07:04,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:07:04,2000-01-01 00:07:06,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:07:06,2000-01-01 00:07:11,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:07:11,2000-01-01 00:07:22,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:07:22,2000-01-01 00:07:25,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:07:25,2000-01-01 00:07:29,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:07:38,2000-01-01 00:07:53,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:07:53,2000-01-01 00:07:56,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:07:56,2000-01-01 00:08:00,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:08:00,2000-01-01 00:08:14,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:08:14,2000-01-01 00:08:16,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:08:16,2000-01-01 00:08:19,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:08:19,2000-01-01 00:08:30,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:08:30,2000-01-01 00:08:32,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:08:32,2000-01-01 00:08:35,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:08:35,2000-01-01 00:08:43,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:08:43,2000-01-01 00:08:45,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:08:45,2000-01-01 00:08:49,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:08:49,2000-01-01 00:08:58,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:08:58,2000-01-01 00:09:00,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:09:00,2000-01-01 00:09:03,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:09:03,2000-01-01 00:09:12,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:09:12,2000-01-01 00:09:14,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:09:14,2000-01-01 00:09:17,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:09:27,2000-01-01 00:09:44,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:09:44,2000-01-01 00:09:47,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:09:47,2000-01-01 00:09:50,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:09:50,2000-01-01 00:10:04,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:10:04,2000-01-01 00:10:06,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:10:06,2000-01-01 00:10:10,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:10:10,2000-01-01 00:10:20,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:10:20,2000-01-01 00:10:22,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:10:22,2000-01-01 00:10:25,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:10:25,2000-01-01 00:10:35,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:10:35,2000-01-01 00:10:37,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:10:37,2000-01-01 00:10:41,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:10:41,2000-01-01 00:10:50,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:10:50,2000-01-01 00:10:52,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:10:52,2000-01-01 00:10:56,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:10:56,2000-01-01 00:11:06,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:11:06,2000-01-01 00:11:08,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:11:08,2000-01-01 00:11:13,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:11:24,2000-01-01 00:11:42,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:11:42,2000-01-01 00:11:45,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:11:45,2000-01-01 00:11:49,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:11:49,2000-01-01 00:12:00,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:12:00,2000-01-01 00:12:02,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:12:02,2000-01-01 00:12:06,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:12:06,2000-01-01 00:12:15,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:12:15,2000-01-01 00:12:17,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:12:17,2000-01-01 00:12:20,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:12:20,2000-01-01 00:12:30,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:12:30,2000-01-01 00:12:32,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:12:32,2000-01-01 00:12:36,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:12:36,2000-01-01 00:12:47,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:12:47,2000-01-01 00:12:49,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:12:49,2000-01-01 00:12:53,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:12:53,2000-01-01 00:13:03,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:13:03,2000-01-01 00:13:05,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:13:05,2000-01-01 00:13:09,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:13:21,2000-01-01 00:13:39,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:13:39,2000-01-01 00:13:42,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:13:42,2000-01-01 00:13:45,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:13:45,2000-01-01 00:13:58,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:13:58,2000-01-01 00:14:00,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:14:00,2000-01-01 00:14:03,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:14:03,2000-01-01 00:14:14,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:14:14,2000-01-01 00:14:16,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:14:16,2000-01-01 00:14:19,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:14:19,2000-01-01 00:14:28,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:14:28,2000-01-01 00:14:30,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:14:30,2000-01-01 00:14:34,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:14:34,2000-01-01 00:14:43,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:14:43,2000-01-01 00:14:45,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:14:45,2000-01-01 00:14:49,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:14:49,2000-01-01 00:14:59,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:14:59,2000-01-01 00:15:01,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:15:01,2000-01-01 00:15:05,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:15:18,2000-01-01 00:15:37,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:15:37,2000-01-01 00:15:39,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:15:39,2000-01-01 00:15:43,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:15:43,2000-01-01 00:15:58,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:15:58,2000-01-01 00:16:00,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:16:00,2000-01-01 00:16:04,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:16:04,2000-01-01 00:16:13,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:16:13,2000-01-01 00:16:15,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:16:15,2000-01-01 00:16:18,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:16:18,2000-01-01 00:16:29,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:16:29,2000-01-01 00:16:31,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:16:31,2000-01-01 00:16:34,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:16:34,2000-01-01 00:16:43,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:16:43,2000-01-01 00:16:45,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:16:45,2000-01-01 00:16:49,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:16:49,2000-01-01 00:16:58,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:16:58,2000-01-01 00:17:00,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:17:00,2000-01-01 00:17:04,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:17:15,2000-01-01 00:17:35,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:17:35,2000-01-01 00:17:38,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:17:38,2000-01-01 00:17:41,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:17:41,2000-01-01 00:17:55,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:17:55,2000-01-01 00:17:58,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:17:58,2000-01-01 00:18:01,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:18:01,2000-01-01 00:18:12,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:18:12,2000-01-01 00:18:14,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:18:14,2000-01-01 00:18:17,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:18:17,2000-01-01 00:18:28,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:18:28,2000-01-01 00:18:30,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:18:30,2000-01-01 00:18:34,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:18:34,2000-01-01 00:18:43,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:18:43,2000-01-01 00:18:45,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:18:45,2000-01-01 00:18:48,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:18:48,2000-01-01 00:18:58,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:18:58,2000-01-01 00:19:00,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:19:00,2000-01-01 00:19:04,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:19:15,2000-01-01 00:19:33,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:19:33,2000-01-01 00:19:36,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:19:36,2000-01-01 00:19:40,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:19:40,2000-01-01 00:19:55,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_007
+2000-01-01 00:19:55,2000-01-01 00:19:57,apply paste with brush,Wax pattern assembly,factory_003,worker_007
+2000-01-01 00:19:57,2000-01-01 00:20:00,assemble components in metal fixture,Wax pattern assembly,factory_003,worker_007

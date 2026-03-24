@@ -1,0 +1,20 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:30,align small fabric piece to base piece cutout,Fabric pairing,factory_002,worker_010
+2000-01-01 00:00:30,2000-01-01 00:00:43,fold bottom section of fabric,Fabric folding,factory_002,worker_010
+2000-01-01 00:00:43,2000-01-01 00:04:03,pin small fabric pieces together,Fabric pinning,factory_002,worker_010
+2000-01-01 00:04:03,2000-01-01 00:05:27,tie string around fabric stack,Fabric bundling,factory_002,worker_010
+2000-01-01 00:05:27,2000-01-01 00:07:49,align small fabric piece to base piece cutout,Fabric pairing,factory_002,worker_010
+2000-01-01 00:07:49,2000-01-01 00:08:26,transfer fabric stack to floor board,Material transport,factory_002,worker_010
+2000-01-01 00:08:26,2000-01-01 00:11:22,align small fabric piece to base piece cutout,Fabric pairing,factory_002,worker_010
+2000-01-01 00:11:43,2000-01-01 00:12:43,align small fabric piece to base piece cutout,Fabric pairing,factory_002,worker_010
+2000-01-01 00:12:43,2000-01-01 00:13:00,transfer fabric stack to floor board,Material transport,factory_002,worker_010
+2000-01-01 00:13:00,2000-01-01 00:14:10,align small fabric piece to base piece cutout,Fabric pairing,factory_002,worker_010
+2000-01-01 00:14:10,2000-01-01 00:14:24,tie string around fabric stack,Fabric bundling,factory_002,worker_010
+2000-01-01 00:14:24,2000-01-01 00:14:35,transfer fabric stack to floor board,Material transport,factory_002,worker_010
+2000-01-01 00:14:35,2000-01-01 00:15:40,align small fabric piece to base piece cutout,Fabric pairing,factory_002,worker_010
+2000-01-01 00:15:40,2000-01-01 00:16:00,tie string around fabric stack,Fabric bundling,factory_002,worker_010
+2000-01-01 00:16:00,2000-01-01 00:16:15,transfer fabric stack to floor board,Material transport,factory_002,worker_010
+2000-01-01 00:16:40,2000-01-01 00:17:49,fold sides of fabric inward,Fabric folding,factory_002,worker_010
+2000-01-01 00:18:15,2000-01-01 00:18:41,fold sides of fabric inward,Fabric folding,factory_002,worker_010
+2000-01-01 00:18:41,2000-01-01 00:18:49,transfer fabric stack to floor board,Material transport,factory_002,worker_010
+2000-01-01 00:18:49,2000-01-01 00:20:00,fold sides of fabric inward,Fabric folding,factory_002,worker_010

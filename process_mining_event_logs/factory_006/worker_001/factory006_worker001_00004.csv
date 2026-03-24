@@ -1,0 +1,37 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:01:09,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001
+2000-01-01 00:02:37,2000-01-01 00:03:00,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001
+2000-01-01 00:03:00,2000-01-01 00:03:50,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001
+2000-01-01 00:05:08,2000-01-01 00:06:01,sift through mixed small parts on floor,Floor-based part sorting,factory_006,worker_001
+2000-01-01 00:06:58,2000-01-01 00:07:37,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001
+2000-01-01 00:07:37,2000-01-01 00:08:12,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001
+2000-01-01 00:08:12,2000-01-01 00:08:50,poke vent hole in assembled mold,Mold assembly and closing,factory_006,worker_001
+2000-01-01 00:08:50,2000-01-01 00:09:25,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001
+2000-01-01 00:09:25,2000-01-01 00:09:46,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001
+2000-01-01 00:09:46,2000-01-01 00:10:04,poke vent hole in assembled mold,Mold assembly and closing,factory_006,worker_001
+2000-01-01 00:10:04,2000-01-01 00:10:37,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001
+2000-01-01 00:10:37,2000-01-01 00:10:57,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001
+2000-01-01 00:10:57,2000-01-01 00:11:13,poke vent hole in assembled mold,Mold assembly and closing,factory_006,worker_001
+2000-01-01 00:11:13,2000-01-01 00:11:47,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001
+2000-01-01 00:11:47,2000-01-01 00:12:00,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001
+2000-01-01 00:12:00,2000-01-01 00:12:12,poke vent hole in assembled mold,Mold assembly and closing,factory_006,worker_001
+2000-01-01 00:12:12,2000-01-01 00:12:50,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001
+2000-01-01 00:12:50,2000-01-01 00:13:10,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001
+2000-01-01 00:13:10,2000-01-01 00:13:30,poke vent hole in assembled mold,Mold assembly and closing,factory_006,worker_001
+2000-01-01 00:13:30,2000-01-01 00:14:04,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001
+2000-01-01 00:14:04,2000-01-01 00:14:24,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001
+2000-01-01 00:14:24,2000-01-01 00:14:40,poke vent hole in assembled mold,Mold assembly and closing,factory_006,worker_001
+2000-01-01 00:14:40,2000-01-01 00:15:19,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001
+2000-01-01 00:15:19,2000-01-01 00:15:37,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001
+2000-01-01 00:15:37,2000-01-01 00:15:52,poke vent hole in assembled mold,Mold assembly and closing,factory_006,worker_001
+2000-01-01 00:15:52,2000-01-01 00:16:29,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001
+2000-01-01 00:16:29,2000-01-01 00:16:49,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001
+2000-01-01 00:16:49,2000-01-01 00:17:05,poke vent hole in assembled mold,Mold assembly and closing,factory_006,worker_001
+2000-01-01 00:17:05,2000-01-01 00:17:41,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001
+2000-01-01 00:17:41,2000-01-01 00:18:01,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001
+2000-01-01 00:18:01,2000-01-01 00:18:18,poke vent hole in assembled mold,Mold assembly and closing,factory_006,worker_001
+2000-01-01 00:18:18,2000-01-01 00:18:56,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001
+2000-01-01 00:18:56,2000-01-01 00:19:15,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001
+2000-01-01 00:19:15,2000-01-01 00:19:33,poke vent hole in assembled mold,Mold assembly and closing,factory_006,worker_001
+2000-01-01 00:19:33,2000-01-01 00:19:46,attach hoist to upper mold half,Mold assembly and closing,factory_006,worker_001
+2000-01-01 00:19:46,2000-01-01 00:20:00,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001

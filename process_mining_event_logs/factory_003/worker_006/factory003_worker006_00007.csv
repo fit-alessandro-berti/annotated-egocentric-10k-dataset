@@ -1,0 +1,12 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:05,scrape component surface with metal tool,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:00:09,2000-01-01 00:00:21,scrape component surface with metal tool,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:00:25,2000-01-01 00:00:38,scrape component surface with metal tool,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:00:42,2000-01-01 00:00:53,scrape component surface with metal tool,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:01:03,2000-01-01 00:01:08,scrape component surface with metal tool,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:01:12,2000-01-01 00:01:19,wipe excess paste with cloth,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:01:35,2000-01-01 00:01:45,scrape component surface with metal tool,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:01:49,2000-01-01 00:02:14,scrape component surface with metal tool,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:02:18,2000-01-01 00:02:29,scrape component surface with metal tool,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:02:33,2000-01-01 00:02:50,scrape component surface with metal tool,Wax pattern assembly,factory_003,worker_006
+2000-01-01 00:02:54,2000-01-01 00:20:00,scrape component surface with metal tool,Wax pattern assembly,factory_003,worker_006

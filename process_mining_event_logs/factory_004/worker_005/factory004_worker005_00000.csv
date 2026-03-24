@@ -1,0 +1,37 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:12,Fold garment for heat press,Heat press labeling,factory_004,worker_005
+2000-01-01 00:00:13,2000-01-01 00:00:25,Position label on garment chest,Heat press labeling,factory_004,worker_005
+2000-01-01 00:00:44,2000-01-01 00:00:49,Clamp heat press shut,Heat press labeling,factory_004,worker_005
+2000-01-01 00:00:50,2000-01-01 00:00:53,Remove hot garment from press,Heat press labeling,factory_004,worker_005
+2000-01-01 00:00:54,2000-01-01 00:00:57,Unfold garment to inspect transferred logo,Quality inspection,factory_004,worker_005
+2000-01-01 00:00:58,2000-01-01 00:00:59,Stack folded garment on table,Garment folding,factory_004,worker_005
+2000-01-01 00:01:00,2000-01-01 00:01:08,Pull unmarked garment from pile,Heat press labeling,factory_004,worker_005
+2000-01-01 00:01:09,2000-01-01 00:01:19,Fold garment for heat press,Heat press labeling,factory_004,worker_005
+2000-01-01 00:01:20,2000-01-01 00:01:26,Retrieve single heat transfer label,Heat press labeling,factory_004,worker_005
+2000-01-01 00:01:27,2000-01-01 00:01:34,Position label on garment chest,Heat press labeling,factory_004,worker_005
+2000-01-01 00:01:35,2000-01-01 00:01:46,Clamp heat press shut,Heat press labeling,factory_004,worker_005
+2000-01-01 00:01:47,2000-01-01 00:01:50,Remove hot garment from press,Heat press labeling,factory_004,worker_005
+2000-01-01 00:01:51,2000-01-01 00:01:55,Unfold garment to inspect transferred logo,Quality inspection,factory_004,worker_005
+2000-01-01 00:01:56,2000-01-01 00:01:59,Stack folded garment on table,Garment folding,factory_004,worker_005
+2000-01-01 00:01:59,2000-01-01 00:02:51,Position label on garment chest,Heat press labeling,factory_004,worker_005
+2000-01-01 00:02:51,2000-01-01 00:03:43,Position label on garment chest,Heat press labeling,factory_004,worker_005
+2000-01-01 00:03:44,2000-01-01 00:03:51,Pull unmarked garment from pile,Heat press labeling,factory_004,worker_005
+2000-01-01 00:03:52,2000-01-01 00:04:46,Position label on garment chest,Heat press labeling,factory_004,worker_005
+2000-01-01 00:04:46,2000-01-01 00:05:40,Position label on garment chest,Heat press labeling,factory_004,worker_005
+2000-01-01 00:05:40,2000-01-01 00:06:34,Position label on garment chest,Heat press labeling,factory_004,worker_005
+2000-01-01 00:06:34,2000-01-01 00:07:28,Position label on garment chest,Heat press labeling,factory_004,worker_005
+2000-01-01 00:07:28,2000-01-01 00:08:22,Position label on garment chest,Heat press labeling,factory_004,worker_005
+2000-01-01 00:08:22,2000-01-01 00:09:16,Position label on garment chest,Heat press labeling,factory_004,worker_005
+2000-01-01 00:09:16,2000-01-01 00:10:10,Position label on garment chest,Heat press labeling,factory_004,worker_005
+2000-01-01 00:10:10,2000-01-01 00:11:04,Position label on garment chest,Heat press labeling,factory_004,worker_005
+2000-01-01 00:11:04,2000-01-01 00:11:58,Position label on garment chest,Heat press labeling,factory_004,worker_005
+2000-01-01 00:11:58,2000-01-01 00:12:52,Position label on garment chest,Heat press labeling,factory_004,worker_005
+2000-01-01 00:12:52,2000-01-01 00:13:46,Position label on garment chest,Heat press labeling,factory_004,worker_005
+2000-01-01 00:13:46,2000-01-01 00:14:40,Position label on garment chest,Heat press labeling,factory_004,worker_005
+2000-01-01 00:14:40,2000-01-01 00:15:34,Position label on garment chest,Heat press labeling,factory_004,worker_005
+2000-01-01 00:15:34,2000-01-01 00:16:28,Position label on garment chest,Heat press labeling,factory_004,worker_005
+2000-01-01 00:16:28,2000-01-01 00:17:22,Position label on garment chest,Heat press labeling,factory_004,worker_005
+2000-01-01 00:17:22,2000-01-01 00:18:14,Position label on garment chest,Heat press labeling,factory_004,worker_005
+2000-01-01 00:18:15,2000-01-01 00:18:27,Retrieve single heat transfer label,Heat press labeling,factory_004,worker_005
+2000-01-01 00:18:28,2000-01-01 00:19:20,Clamp heat press shut,Heat press labeling,factory_004,worker_005
+2000-01-01 00:19:20,2000-01-01 00:20:00,Fold garment for heat press,Heat press labeling,factory_004,worker_005

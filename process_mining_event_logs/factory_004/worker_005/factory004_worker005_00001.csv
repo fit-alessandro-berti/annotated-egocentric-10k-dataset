@@ -1,0 +1,15 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:18,Sew short straight seam,Overlock seaming,factory_004,worker_005
+2000-01-01 00:00:18,2000-01-01 00:00:21,Pull sewn piece out of machine,Overlock seaming,factory_004,worker_005
+2000-01-01 00:00:21,2000-01-01 00:00:23,Snap thread chain by hand,Overlock seaming,factory_004,worker_005
+2000-01-01 00:00:23,2000-01-01 00:00:27,Grab unsewn fabric from disorganized pile,Overlock seaming,factory_004,worker_005
+2000-01-01 00:00:27,2000-01-01 00:00:33,Unfold raw fabric edges,Overlock seaming,factory_004,worker_005
+2000-01-01 00:00:33,2000-01-01 00:00:39,Align raw fabric edges by hand,Overlock seaming,factory_004,worker_005
+2000-01-01 00:00:39,2000-01-01 00:00:41,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_005
+2000-01-01 00:00:41,2000-01-01 00:00:49,Sew short straight seam,Overlock seaming,factory_004,worker_005
+2000-01-01 00:00:49,2000-01-01 00:00:51,Pull sewn piece out of machine,Overlock seaming,factory_004,worker_005
+2000-01-01 00:00:51,2000-01-01 00:00:52,Snap thread chain by hand,Overlock seaming,factory_004,worker_005
+2000-01-01 00:00:52,2000-01-01 00:08:39,Sew short straight seam,Overlock seaming,factory_004,worker_005
+2000-01-01 00:08:39,2000-01-01 00:08:44,Drag thick fabric bundle across table,Material transport,factory_004,worker_005
+2000-01-01 00:08:44,2000-01-01 00:15:18,Sew short straight seam,Overlock seaming,factory_004,worker_005
+2000-01-01 00:15:18,2000-01-01 00:20:00,Sew short straight seam,Overlock seaming,factory_004,worker_005

@@ -1,0 +1,7 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:13,attach green tag to garment collar with tagging gun,Garment tagging,factory_002,worker_008
+2000-01-01 00:01:05,2000-01-01 00:02:00,replace metal needle in tagging gun,Garment tagging,factory_002,worker_008
+2000-01-01 00:02:00,2000-01-01 00:02:18,load plastic fastener strip into tagging gun,Garment tagging,factory_002,worker_008
+2000-01-01 00:02:18,2000-01-01 00:04:12,attach green tag to garment collar with tagging gun,Garment tagging,factory_002,worker_008
+2000-01-01 00:04:12,2000-01-01 00:11:58,attach green tag to garment collar with tagging gun,Garment tagging,factory_002,worker_008
+2000-01-01 00:12:35,2000-01-01 00:20:07,attach green tag to garment collar with tagging gun,Garment tagging,factory_002,worker_008

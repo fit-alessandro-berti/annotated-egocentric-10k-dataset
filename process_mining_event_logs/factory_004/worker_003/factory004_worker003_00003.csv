@@ -1,0 +1,49 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:01:25,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:02:46,2000-01-01 00:03:00,Cut curved fabric piece with scissors,Bulk fabric cutting,factory_004,worker_003
+2000-01-01 00:03:22,2000-01-01 00:03:30,Drag thick fabric bundle across table,Material transport,factory_004,worker_003
+2000-01-01 00:03:30,2000-01-01 00:04:59,Sew continuous edge binding,Edge binding attachment,factory_004,worker_003
+2000-01-01 00:04:59,2000-01-01 00:05:08,Drag thick fabric bundle across table,Material transport,factory_004,worker_003
+2000-01-01 00:05:08,2000-01-01 00:05:14,Snip loose threads with small clippers,Thread trimming,factory_004,worker_003
+2000-01-01 00:05:27,2000-01-01 00:06:26,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:06:26,2000-01-01 00:06:28,Grab unsewn fabric from disorganized pile,Material transport,factory_004,worker_003
+2000-01-01 00:06:28,2000-01-01 00:07:05,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:07:05,2000-01-01 00:07:08,Drag thick fabric bundle across table,Material transport,factory_004,worker_003
+2000-01-01 00:07:08,2000-01-01 00:07:18,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:07:18,2000-01-01 00:07:22,Drag thick fabric bundle across table,Material transport,factory_004,worker_003
+2000-01-01 00:07:22,2000-01-01 00:08:30,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:08:30,2000-01-01 00:08:37,Drag thick fabric bundle across table,Material transport,factory_004,worker_003
+2000-01-01 00:08:37,2000-01-01 00:09:10,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:09:10,2000-01-01 00:09:18,Drag thick fabric bundle across table,Material transport,factory_004,worker_003
+2000-01-01 00:09:18,2000-01-01 00:09:40,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:09:40,2000-01-01 00:09:46,Drag thick fabric bundle across table,Material transport,factory_004,worker_003
+2000-01-01 00:09:46,2000-01-01 00:10:04,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:10:19,2000-01-01 00:10:22,Drag thick fabric bundle across table,Material transport,factory_004,worker_003
+2000-01-01 00:10:26,2000-01-01 00:10:37,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:10:55,2000-01-01 00:11:11,Transport heavy fabric stack across factory floor,Material transport,factory_004,worker_003
+2000-01-01 00:11:11,2000-01-01 00:12:04,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:12:04,2000-01-01 00:12:11,Transport heavy fabric stack across factory floor,Material transport,factory_004,worker_003
+2000-01-01 00:12:11,2000-01-01 00:12:54,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:12:54,2000-01-01 00:13:01,Drag thick fabric bundle across table,Material transport,factory_004,worker_003
+2000-01-01 00:13:01,2000-01-01 00:13:40,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:13:40,2000-01-01 00:13:48,Drag thick fabric bundle across table,Material transport,factory_004,worker_003
+2000-01-01 00:13:48,2000-01-01 00:14:12,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:14:12,2000-01-01 00:14:19,Drag thick fabric bundle across table,Material transport,factory_004,worker_003
+2000-01-01 00:14:19,2000-01-01 00:14:45,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:14:45,2000-01-01 00:14:52,Drag thick fabric bundle across table,Material transport,factory_004,worker_003
+2000-01-01 00:14:52,2000-01-01 00:15:21,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:15:21,2000-01-01 00:15:28,Drag thick fabric bundle across table,Material transport,factory_004,worker_003
+2000-01-01 00:15:28,2000-01-01 00:16:04,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:16:04,2000-01-01 00:16:13,Drag thick fabric bundle across table,Material transport,factory_004,worker_003
+2000-01-01 00:16:13,2000-01-01 00:16:24,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:16:24,2000-01-01 00:16:32,Drag thick fabric bundle across table,Material transport,factory_004,worker_003
+2000-01-01 00:16:32,2000-01-01 00:16:47,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:16:47,2000-01-01 00:16:59,Drag thick fabric bundle across table,Material transport,factory_004,worker_003
+2000-01-01 00:16:59,2000-01-01 00:17:18,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:17:28,2000-01-01 00:18:06,Feed aligned edges into overlock machine,Overlock seaming,factory_004,worker_003
+2000-01-01 00:18:06,2000-01-01 00:18:18,Transport heavy fabric stack across factory floor,Material transport,factory_004,worker_003
+2000-01-01 00:18:18,2000-01-01 00:18:45,Sew continuous edge binding,Edge binding attachment,factory_004,worker_003
+2000-01-01 00:18:45,2000-01-01 00:18:51,Drag thick fabric bundle across table,Material transport,factory_004,worker_003
+2000-01-01 00:18:51,2000-01-01 00:19:08,Sew continuous edge binding,Edge binding attachment,factory_004,worker_003
+2000-01-01 00:19:08,2000-01-01 00:19:15,Drag thick fabric bundle across table,Material transport,factory_004,worker_003
+2000-01-01 00:19:15,2000-01-01 00:19:59,Sew continuous edge binding,Edge binding attachment,factory_004,worker_003

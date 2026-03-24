@@ -11,7 +11,7 @@ You will be given:
 - one raw annotation transcript with timestamp ranges measured from the start of the video
 
 Your job:
-- Convert the raw annotation into a JSON list of event objects.
+- Convert the raw annotation into a JSON object with one key, `events`, whose value is a list of event objects.
 - Each event must correspond to one operationally meaningful event segment.
 - Use the transcript timestamps as the main basis for the event boundaries.
 - If a transcript interval contains one repeated stable activity, keep it as one longer event.
@@ -28,7 +28,8 @@ Strict label constraints:
 
 Output schema:
 - Return JSON only.
-- Return a top-level JSON array.
+- Return a top-level JSON object with exactly one key: `events`.
+- The value of `events` must be a JSON array.
 - Each array item must be an object with exactly these keys:
   - `estimated_start_time`
   - `estimated_end_time`
@@ -39,5 +40,5 @@ Output schema:
 Additional rules:
 - Include only process-relevant operational events. Ignore purely accidental camera motion or camera removal unless it directly reflects a process-relevant activity.
 - Do not output markdown fences.
-- Do not output explanations, notes, comments, or any text before or after the JSON array.
-- If no valid operational events can be extracted, return `[]`.
+- Do not output explanations, notes, comments, or any text before or after the JSON object.
+- If no valid operational events can be extracted, return `{"events":[]}`.

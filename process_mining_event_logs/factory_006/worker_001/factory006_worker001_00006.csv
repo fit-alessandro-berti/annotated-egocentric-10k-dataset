@@ -1,0 +1,47 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:23,pack casting sand into mold frame,Sand mold creation,factory_006,worker_001
+2000-01-01 00:00:23,2000-01-01 00:00:36,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001
+2000-01-01 00:00:36,2000-01-01 00:00:49,spray liquid coating into mold interior,Pattern cleaning and coating,factory_006,worker_001
+2000-01-01 00:01:54,2000-01-01 00:02:06,spray liquid coating into mold interior,Pattern cleaning and coating,factory_006,worker_001
+2000-01-01 00:02:06,2000-01-01 00:02:27,pack casting sand into mold frame,Sand mold creation,factory_006,worker_001
+2000-01-01 00:02:27,2000-01-01 00:02:40,compress sand with automated machine press,Sand mold creation,factory_006,worker_001
+2000-01-01 00:02:40,2000-01-01 00:02:53,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001
+2000-01-01 00:03:07,2000-01-01 00:03:31,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001
+2000-01-01 00:03:31,2000-01-01 00:03:48,pack casting sand into mold frame,Sand mold creation,factory_006,worker_001
+2000-01-01 00:03:48,2000-01-01 00:03:58,compress sand with automated machine press,Sand mold creation,factory_006,worker_001
+2000-01-01 00:04:12,2000-01-01 00:04:28,lift empty mold box onto pattern plate,Sand mold creation,factory_006,worker_001
+2000-01-01 00:04:28,2000-01-01 00:05:08,retrieve sand cores from storage crate,Core and insert placement,factory_006,worker_001
+2000-01-01 00:05:08,2000-01-01 00:05:24,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001
+2000-01-01 00:05:39,2000-01-01 00:05:56,retrieve sand cores from storage crate,Core and insert placement,factory_006,worker_001
+2000-01-01 00:05:56,2000-01-01 00:06:17,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001
+2000-01-01 00:06:31,2000-01-01 00:06:46,retrieve sand cores from storage crate,Core and insert placement,factory_006,worker_001
+2000-01-01 00:06:46,2000-01-01 00:06:58,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001
+2000-01-01 00:06:58,2000-01-01 00:07:10,spray liquid coating into mold interior,Pattern cleaning and coating,factory_006,worker_001
+2000-01-01 00:07:10,2000-01-01 00:07:16,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001
+2000-01-01 00:07:22,2000-01-01 00:07:37,retrieve sand cores from storage crate,Core and insert placement,factory_006,worker_001
+2000-01-01 00:07:37,2000-01-01 00:07:56,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001
+2000-01-01 00:08:44,2000-01-01 00:09:48,scrape hardened sand from pressing plate,Machine cleaning and maintenance,factory_006,worker_001
+2000-01-01 00:10:19,2000-01-01 00:10:42,retrieve sand cores from storage crate,Core and insert placement,factory_006,worker_001
+2000-01-01 00:11:00,2000-01-01 00:11:15,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001
+2000-01-01 00:11:15,2000-01-01 00:11:46,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001
+2000-01-01 00:12:08,2000-01-01 00:12:35,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001
+2000-01-01 00:12:43,2000-01-01 00:12:58,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001
+2000-01-01 00:12:58,2000-01-01 00:13:13,retrieve sand cores from storage crate,Core and insert placement,factory_006,worker_001
+2000-01-01 00:13:13,2000-01-01 00:13:38,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001
+2000-01-01 00:13:38,2000-01-01 00:13:48,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001
+2000-01-01 00:14:12,2000-01-01 00:14:28,retrieve sand cores from storage crate,Core and insert placement,factory_006,worker_001
+2000-01-01 00:14:28,2000-01-01 00:14:43,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001
+2000-01-01 00:14:43,2000-01-01 00:14:55,spray liquid coating into mold interior,Pattern cleaning and coating,factory_006,worker_001
+2000-01-01 00:15:18,2000-01-01 00:15:46,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001
+2000-01-01 00:15:46,2000-01-01 00:15:58,lift empty mold box onto pattern plate,Sand mold creation,factory_006,worker_001
+2000-01-01 00:15:58,2000-01-01 00:16:13,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001
+2000-01-01 00:16:13,2000-01-01 00:16:34,retrieve sand cores from storage crate,Core and insert placement,factory_006,worker_001
+2000-01-01 00:16:34,2000-01-01 00:16:58,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001
+2000-01-01 00:16:58,2000-01-01 00:17:08,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001
+2000-01-01 00:17:24,2000-01-01 00:17:38,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001
+2000-01-01 00:17:38,2000-01-01 00:17:54,spray liquid coating into mold interior,Pattern cleaning and coating,factory_006,worker_001
+2000-01-01 00:17:54,2000-01-01 00:18:08,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001
+2000-01-01 00:18:24,2000-01-01 00:18:42,retrieve sand cores from storage crate,Core and insert placement,factory_006,worker_001
+2000-01-01 00:18:42,2000-01-01 00:19:02,place small inserts into sand pattern,Core and insert placement,factory_006,worker_001
+2000-01-01 00:19:02,2000-01-01 00:19:15,blow debris from mold cavities with air gun,Pattern cleaning and coating,factory_006,worker_001
+2000-01-01 00:19:15,2000-01-01 00:19:30,guide upper mold half onto lower mold half,Mold assembly and closing,factory_006,worker_001

@@ -1,0 +1,57 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:26,2000-01-01 00:00:32,open CNC machine door,CNC machine tending,factory_005,worker_011
+2000-01-01 00:00:32,2000-01-01 00:00:40,load raw part into CNC machine chuck,CNC machine tending,factory_005,worker_011
+2000-01-01 00:00:40,2000-01-01 00:00:46,press button to initiate CNC cycle,CNC machine tending,factory_005,worker_011
+2000-01-01 00:02:31,2000-01-01 00:02:37,open CNC machine door,CNC machine tending,factory_005,worker_011
+2000-01-01 00:02:44,2000-01-01 00:02:53,load raw part into CNC machine chuck,CNC machine tending,factory_005,worker_011
+2000-01-01 00:02:53,2000-01-01 00:03:00,press button to initiate CNC cycle,CNC machine tending,factory_005,worker_011
+2000-01-01 00:03:32,2000-01-01 00:03:36,open CNC machine door,CNC machine tending,factory_005,worker_011
+2000-01-01 00:03:36,2000-01-01 00:03:40,extract finished part from CNC machine chuck,CNC machine tending,factory_005,worker_011
+2000-01-01 00:03:40,2000-01-01 00:03:43,load raw part into CNC machine chuck,CNC machine tending,factory_005,worker_011
+2000-01-01 00:03:43,2000-01-01 00:03:45,press button to initiate CNC cycle,CNC machine tending,factory_005,worker_011
+2000-01-01 00:04:18,2000-01-01 00:04:24,open CNC machine door,CNC machine tending,factory_005,worker_011
+2000-01-01 00:04:24,2000-01-01 00:04:31,extract finished part from CNC machine chuck,CNC machine tending,factory_005,worker_011
+2000-01-01 00:04:31,2000-01-01 00:04:38,load raw part into CNC machine chuck,CNC machine tending,factory_005,worker_011
+2000-01-01 00:04:38,2000-01-01 00:04:42,press button to initiate CNC cycle,CNC machine tending,factory_005,worker_011
+2000-01-01 00:04:46,2000-01-01 00:05:01,measure machined part with dial indicator,dimensional quality inspection,factory_005,worker_011
+2000-01-01 00:05:28,2000-01-01 00:05:33,open CNC machine door,CNC machine tending,factory_005,worker_011
+2000-01-01 00:05:33,2000-01-01 00:05:38,extract finished part from CNC machine chuck,CNC machine tending,factory_005,worker_011
+2000-01-01 00:05:38,2000-01-01 00:05:42,load raw part into CNC machine chuck,CNC machine tending,factory_005,worker_011
+2000-01-01 00:05:42,2000-01-01 00:05:46,press button to initiate CNC cycle,CNC machine tending,factory_005,worker_011
+2000-01-01 00:05:46,2000-01-01 00:06:05,measure machined part with dial indicator,dimensional quality inspection,factory_005,worker_011
+2000-01-01 00:06:26,2000-01-01 00:06:30,open CNC machine door,CNC machine tending,factory_005,worker_011
+2000-01-01 00:06:30,2000-01-01 00:06:34,extract finished part from CNC machine chuck,CNC machine tending,factory_005,worker_011
+2000-01-01 00:06:34,2000-01-01 00:06:37,load raw part into CNC machine chuck,CNC machine tending,factory_005,worker_011
+2000-01-01 00:06:37,2000-01-01 00:06:40,press button to initiate CNC cycle,CNC machine tending,factory_005,worker_011
+2000-01-01 00:06:40,2000-01-01 00:06:58,measure machined part with dial indicator,dimensional quality inspection,factory_005,worker_011
+2000-01-01 00:07:11,2000-01-01 00:07:15,open CNC machine door,CNC machine tending,factory_005,worker_011
+2000-01-01 00:07:15,2000-01-01 00:07:19,extract finished part from CNC machine chuck,CNC machine tending,factory_005,worker_011
+2000-01-01 00:07:19,2000-01-01 00:07:24,load raw part into CNC machine chuck,CNC machine tending,factory_005,worker_011
+2000-01-01 00:07:24,2000-01-01 00:07:29,press button to initiate CNC cycle,CNC machine tending,factory_005,worker_011
+2000-01-01 00:07:29,2000-01-01 00:07:42,measure machined part with dial indicator,dimensional quality inspection,factory_005,worker_011
+2000-01-01 00:09:44,2000-01-01 00:10:11,wipe machined parts with cleaning cloth,dimensional quality inspection,factory_005,worker_011
+2000-01-01 00:12:56,2000-01-01 00:13:20,wipe machined parts with cleaning cloth,dimensional quality inspection,factory_005,worker_011
+2000-01-01 00:14:26,2000-01-01 00:14:51,wipe machined parts with cleaning cloth,dimensional quality inspection,factory_005,worker_011
+2000-01-01 00:15:00,2000-01-01 00:15:04,open CNC machine door,CNC machine tending,factory_005,worker_011
+2000-01-01 00:15:04,2000-01-01 00:15:09,extract finished part from CNC machine chuck,CNC machine tending,factory_005,worker_011
+2000-01-01 00:15:09,2000-01-01 00:15:15,load raw part into CNC machine chuck,CNC machine tending,factory_005,worker_011
+2000-01-01 00:15:15,2000-01-01 00:15:20,press button to initiate CNC cycle,CNC machine tending,factory_005,worker_011
+2000-01-01 00:15:25,2000-01-01 00:15:52,measure machined part with dial indicator,dimensional quality inspection,factory_005,worker_011
+2000-01-01 00:16:03,2000-01-01 00:16:06,open CNC machine door,CNC machine tending,factory_005,worker_011
+2000-01-01 00:16:06,2000-01-01 00:16:09,extract finished part from CNC machine chuck,CNC machine tending,factory_005,worker_011
+2000-01-01 00:16:09,2000-01-01 00:16:12,load raw part into CNC machine chuck,CNC machine tending,factory_005,worker_011
+2000-01-01 00:16:12,2000-01-01 00:16:16,press button to initiate CNC cycle,CNC machine tending,factory_005,worker_011
+2000-01-01 00:16:16,2000-01-01 00:16:45,measure machined part with dial indicator,dimensional quality inspection,factory_005,worker_011
+2000-01-01 00:16:45,2000-01-01 00:17:02,wipe machined parts with cleaning cloth,dimensional quality inspection,factory_005,worker_011
+2000-01-01 00:17:29,2000-01-01 00:17:33,open CNC machine door,CNC machine tending,factory_005,worker_011
+2000-01-01 00:17:33,2000-01-01 00:17:38,extract finished part from CNC machine chuck,CNC machine tending,factory_005,worker_011
+2000-01-01 00:17:38,2000-01-01 00:17:44,load raw part into CNC machine chuck,CNC machine tending,factory_005,worker_011
+2000-01-01 00:17:44,2000-01-01 00:17:48,press button to initiate CNC cycle,CNC machine tending,factory_005,worker_011
+2000-01-01 00:18:18,2000-01-01 00:18:29,measure machined part with dial indicator,dimensional quality inspection,factory_005,worker_011
+2000-01-01 00:18:41,2000-01-01 00:19:07,wipe machined parts with cleaning cloth,dimensional quality inspection,factory_005,worker_011
+2000-01-01 00:19:07,2000-01-01 00:19:11,open CNC machine door,CNC machine tending,factory_005,worker_011
+2000-01-01 00:19:11,2000-01-01 00:19:15,extract finished part from CNC machine chuck,CNC machine tending,factory_005,worker_011
+2000-01-01 00:19:15,2000-01-01 00:19:19,load raw part into CNC machine chuck,CNC machine tending,factory_005,worker_011
+2000-01-01 00:19:19,2000-01-01 00:19:25,press button to initiate CNC cycle,CNC machine tending,factory_005,worker_011
+2000-01-01 00:19:25,2000-01-01 00:19:41,measure machined part with dial indicator,dimensional quality inspection,factory_005,worker_011
+2000-01-01 00:19:41,2000-01-01 00:19:55,wipe machined parts with cleaning cloth,dimensional quality inspection,factory_005,worker_011

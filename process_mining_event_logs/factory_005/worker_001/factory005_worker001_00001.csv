@@ -1,0 +1,55 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:00:34,thread white string through copper coils,stator coil binding,factory_005,worker_001
+2000-01-01 00:00:34,2000-01-01 00:01:07,tie securing knots on copper coils,stator coil binding,factory_005,worker_001
+2000-01-01 00:01:21,2000-01-01 00:01:33,mount coil onto winding machine tooling,automated stator winding,factory_005,worker_001
+2000-01-01 00:01:33,2000-01-01 00:01:47,slide stator core onto winding machine shaft,automated stator winding,factory_005,worker_001
+2000-01-01 00:01:47,2000-01-01 00:01:54,unload wound stator from machine,automated stator winding,factory_005,worker_001
+2000-01-01 00:02:20,2000-01-01 00:02:28,mount coil onto winding machine tooling,automated stator winding,factory_005,worker_001
+2000-01-01 00:02:28,2000-01-01 00:02:37,slide stator core onto winding machine shaft,automated stator winding,factory_005,worker_001
+2000-01-01 00:02:37,2000-01-01 00:02:44,unload wound stator from machine,automated stator winding,factory_005,worker_001
+2000-01-01 00:02:50,2000-01-01 00:03:05,thread white string through copper coils,stator coil binding,factory_005,worker_001
+2000-01-01 00:03:05,2000-01-01 00:03:20,tie securing knots on copper coils,stator coil binding,factory_005,worker_001
+2000-01-01 00:03:28,2000-01-01 00:03:34,mount coil onto winding machine tooling,automated stator winding,factory_005,worker_001
+2000-01-01 00:03:34,2000-01-01 00:03:42,slide stator core onto winding machine shaft,automated stator winding,factory_005,worker_001
+2000-01-01 00:03:42,2000-01-01 00:03:47,unload wound stator from machine,automated stator winding,factory_005,worker_001
+2000-01-01 00:03:59,2000-01-01 00:04:16,thread white string through copper coils,stator coil binding,factory_005,worker_001
+2000-01-01 00:04:16,2000-01-01 00:04:33,tie securing knots on copper coils,stator coil binding,factory_005,worker_001
+2000-01-01 00:04:42,2000-01-01 00:04:50,mount coil onto winding machine tooling,automated stator winding,factory_005,worker_001
+2000-01-01 00:04:50,2000-01-01 00:05:00,slide stator core onto winding machine shaft,automated stator winding,factory_005,worker_001
+2000-01-01 00:05:00,2000-01-01 00:05:06,unload wound stator from machine,automated stator winding,factory_005,worker_001
+2000-01-01 00:05:25,2000-01-01 00:05:40,tie securing knots on copper coils,stator coil binding,factory_005,worker_001
+2000-01-01 00:05:48,2000-01-01 00:05:58,mount coil onto winding machine tooling,automated stator winding,factory_005,worker_001
+2000-01-01 00:05:58,2000-01-01 00:06:09,slide stator core onto winding machine shaft,automated stator winding,factory_005,worker_001
+2000-01-01 00:06:09,2000-01-01 00:06:21,unload wound stator from machine,automated stator winding,factory_005,worker_001
+2000-01-01 00:06:28,2000-01-01 00:06:41,thread white string through copper coils,stator coil binding,factory_005,worker_001
+2000-01-01 00:06:41,2000-01-01 00:06:55,tie securing knots on copper coils,stator coil binding,factory_005,worker_001
+2000-01-01 00:07:05,2000-01-01 00:07:15,mount coil onto winding machine tooling,automated stator winding,factory_005,worker_001
+2000-01-01 00:07:15,2000-01-01 00:07:28,slide stator core onto winding machine shaft,automated stator winding,factory_005,worker_001
+2000-01-01 00:07:28,2000-01-01 00:07:37,unload wound stator from machine,automated stator winding,factory_005,worker_001
+2000-01-01 00:07:44,2000-01-01 00:08:08,tie securing knots on copper coils,stator coil binding,factory_005,worker_001
+2000-01-01 00:08:16,2000-01-01 00:08:25,mount coil onto winding machine tooling,automated stator winding,factory_005,worker_001
+2000-01-01 00:08:25,2000-01-01 00:08:34,slide stator core onto winding machine shaft,automated stator winding,factory_005,worker_001
+2000-01-01 00:08:34,2000-01-01 00:08:44,unload wound stator from machine,automated stator winding,factory_005,worker_001
+2000-01-01 00:08:51,2000-01-01 00:09:21,tie securing knots on copper coils,stator coil binding,factory_005,worker_001
+2000-01-01 00:09:28,2000-01-01 00:09:35,mount coil onto winding machine tooling,automated stator winding,factory_005,worker_001
+2000-01-01 00:09:35,2000-01-01 00:09:42,slide stator core onto winding machine shaft,automated stator winding,factory_005,worker_001
+2000-01-01 00:09:42,2000-01-01 00:09:50,unload wound stator from machine,automated stator winding,factory_005,worker_001
+2000-01-01 00:09:57,2000-01-01 00:10:22,tie securing knots on copper coils,stator coil binding,factory_005,worker_001
+2000-01-01 00:10:53,2000-01-01 00:11:39,route colored lead wires through stator core,stator lead wire finishing and soldering,factory_005,worker_001
+2000-01-01 00:11:39,2000-01-01 00:12:00,trim excess wire with scissors,stator lead wire finishing and soldering,factory_005,worker_001
+2000-01-01 00:12:00,2000-01-01 00:12:28,twist exposed copper wire ends,stator lead wire finishing and soldering,factory_005,worker_001
+2000-01-01 00:12:28,2000-01-01 00:12:59,seal wire joints with soldering iron,stator lead wire finishing and soldering,factory_005,worker_001
+2000-01-01 00:13:13,2000-01-01 00:13:48,lace copper end turns with string,stator coil binding,factory_005,worker_001
+2000-01-01 00:13:48,2000-01-01 00:14:22,push insulating wedges into stator slots,stator coil binding,factory_005,worker_001
+2000-01-01 00:14:22,2000-01-01 00:14:55,trim excess insulating paper,stator coil binding,factory_005,worker_001
+2000-01-01 00:14:55,2000-01-01 00:15:17,connect stator lead wires to testing panel,stator lead wire finishing and soldering,factory_005,worker_001
+2000-01-01 00:15:17,2000-01-01 00:15:46,verify electrical connection via indicator lights,stator lead wire finishing and soldering,factory_005,worker_001
+2000-01-01 00:16:00,2000-01-01 00:16:35,route colored lead wires through stator core,stator lead wire finishing and soldering,factory_005,worker_001
+2000-01-01 00:16:35,2000-01-01 00:17:15,burn off enamel wire coating with lighter,stator lead wire finishing and soldering,factory_005,worker_001
+2000-01-01 00:17:15,2000-01-01 00:17:42,slide insulating sleeves over wires,stator lead wire finishing and soldering,factory_005,worker_001
+2000-01-01 00:17:42,2000-01-01 00:18:03,seal wire joints with soldering iron,stator lead wire finishing and soldering,factory_005,worker_001
+2000-01-01 00:18:03,2000-01-01 00:18:38,lace copper end turns with string,stator coil binding,factory_005,worker_001
+2000-01-01 00:18:38,2000-01-01 00:19:07,push insulating wedges into stator slots,stator coil binding,factory_005,worker_001
+2000-01-01 00:19:07,2000-01-01 00:19:24,connect stator lead wires to testing panel,stator lead wire finishing and soldering,factory_005,worker_001
+2000-01-01 00:19:24,2000-01-01 00:19:40,verify electrical connection via indicator lights,stator lead wire finishing and soldering,factory_005,worker_001
+2000-01-01 00:19:40,2000-01-01 00:20:00,press copper windings into tight pack,stator coil binding,factory_005,worker_001

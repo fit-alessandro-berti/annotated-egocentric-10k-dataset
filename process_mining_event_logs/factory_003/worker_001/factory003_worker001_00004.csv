@@ -1,0 +1,22 @@
+start_timestamp,end_timestamp,activity,process,factory,worker
+2000-01-01 00:00:00,2000-01-01 00:01:08,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_001
+2000-01-01 00:01:08,2000-01-01 00:01:31,apply paste with brush,Defect patching,factory_003,worker_001
+2000-01-01 00:01:31,2000-01-01 00:03:50,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_001
+2000-01-01 00:03:50,2000-01-01 00:04:00,blow debris with compressed air gun,Surface finishing and polishing,factory_003,worker_001
+2000-01-01 00:04:00,2000-01-01 00:05:43,apply paste with brush,Defect patching,factory_003,worker_001
+2000-01-01 00:06:08,2000-01-01 00:06:38,patch surface defect with putty,Defect patching,factory_003,worker_001
+2000-01-01 00:06:38,2000-01-01 00:06:48,wipe excess paste with cloth,Defect patching,factory_003,worker_001
+2000-01-01 00:06:48,2000-01-01 00:07:56,wipe internal surface of bell-shaped object,Surface finishing and polishing,factory_003,worker_001
+2000-01-01 00:07:56,2000-01-01 00:08:27,apply paste with brush,Defect patching,factory_003,worker_001
+2000-01-01 00:08:27,2000-01-01 00:10:00,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_001
+2000-01-01 00:10:00,2000-01-01 00:11:20,wipe internal surface of bell-shaped object,Surface finishing and polishing,factory_003,worker_001
+2000-01-01 00:11:20,2000-01-01 00:11:49,transport loaded tray to storage rack,Surface finishing and polishing,factory_003,worker_001
+2000-01-01 00:11:49,2000-01-01 00:12:20,wipe internal surface of bell-shaped object,Surface finishing and polishing,factory_003,worker_001
+2000-01-01 00:12:20,2000-01-01 00:13:28,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_001
+2000-01-01 00:13:28,2000-01-01 00:14:38,wipe internal surface of bell-shaped object,Surface finishing and polishing,factory_003,worker_001
+2000-01-01 00:14:38,2000-01-01 00:15:10,wipe internal surface of bell-shaped object,Surface finishing and polishing,factory_003,worker_001
+2000-01-01 00:15:10,2000-01-01 00:15:20,apply paste with brush,Defect patching,factory_003,worker_001
+2000-01-01 00:15:20,2000-01-01 00:16:51,wipe internal surface of bell-shaped object,Surface finishing and polishing,factory_003,worker_001
+2000-01-01 00:17:19,2000-01-01 00:18:05,scrape component surface with metal tool,Surface finishing and polishing,factory_003,worker_001
+2000-01-01 00:18:05,2000-01-01 00:18:49,wipe internal surface of bell-shaped object,Surface finishing and polishing,factory_003,worker_001
+2000-01-01 00:18:49,2000-01-01 00:19:33,transport loaded tray to storage rack,Surface finishing and polishing,factory_003,worker_001
