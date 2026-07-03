@@ -4,9 +4,12 @@
 \usepackage{graphicx}
 \usepackage{url}
 \usepackage{orcidlink}
+\usepackage{booktabs}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta,positioning}
 
-\title{A Short Placeholder Title for an LNBIP Paper}
-\titlerunning{Short Placeholder Title}
+\title{Seeing the Process Through the Worker's Eyes: Event Logs from Egocentric Factory Videos}
+\titlerunning{Event Logs from Egocentric Factory Videos}
 
 \author{Alessandro Berti\inst{1}\orcidlink{0000-0002-3279-4795} \and Humam Kourani\inst{1,2}\orcidlink{0000-0003-2375-2152} \and Wil M.P. van der Aalst\inst{1,3}\orcidlink{0000-0002-0955-6940}}
 \authorrunning{Berti et al.}
@@ -21,37 +24,192 @@ Celonis, Munich, Germany
 \maketitle
 
 \begin{abstract}
-This paper provides a short placeholder abstract for an LNBIP-style submission. Replace this text with the main problem, method, results, and contribution.
-\keywords{Process Mining \and Placeholder \and LNBIP}
+Process mining presupposes event logs extracted from information systems, leaving manual shop-floor work largely invisible. Egocentric (first-person) video captures exactly this blind spot, but raw footage is not event data. We propose a fully automated five-stage pipeline that transforms egocentric factory videos into standard event logs using foundation models: change-point-based video transcription, worker- and factory-level summarization, induction of factory-specific controlled vocabularies, and vocabulary-constrained event extraction. Applied to six factories of the Egocentric-10K corpus, the pipeline yields 322 per-video logs with 10{,}698 events from 59 workers. We contribute a five-level assessment framework (structural validity, vocabulary conformance, temporal fidelity, semantic fidelity, and process mining utility) and apply it in full: the logs are structurally flawless, conform 100\% to the controlled vocabularies, reach a median temporal coverage of 95\% on recordings up to one hour, and achieve a manually audited event precision of 0.86 with an operational recall of 0.89. Discovery experiments show high-fitness but low-precision models at the activity level, and up to 8.6-fold precision gains at the process level enabled by the two-level vocabulary. Pipeline, prompts, and all derived artifacts are publicly available.
+\keywords{Process Mining \and Event Log Extraction \and Egocentric Video \and Large Language Models \and Manufacturing.}
 \end{abstract}
 
 \section{Introduction}
 \label{sec:introduction}
-This section introduces the problem, motivation, and main contributions. Add a brief overview of the paper structure and cite relevant work such as \cite{vanDerAalst2016processmining}.
+
+Process mining derives knowledge about operational processes from \emph{event logs}: timestamped, labeled events grouped into cases~\cite{vanDerAalst2016processmining}. The discipline rests on the implicit assumption that the process leaves digital traces in an information system from which such a log can be extracted. This assumption breaks down where a large share of value creation still happens: on the \emph{manual shop floor}. In labor-intensive manufacturing, the operationally decisive behavior consists of physical actions, such as picking a part from a bin, loading a blank into a die, inspecting a seam, or carrying a container across the hall, that no system records. At best, an MES logs order- or machine-level checkpoints, leaving the actual work (its sequence, duration, interruptions, and material-handling overhead) invisible: the \emph{blind spots} of process mining~\cite{kratsch2022video}. Questions such as \emph{how much worker time is value-adding versus transport} remain unanswerable.
+
+A complementary data source has recently become available at scale: \emph{egocentric video}. Head-mounted cameras record the shop floor from the worker's own perspective, capturing hand-object interactions, machine operation, and movement through the facility at a level of detail that neither fixed cameras nor enterprise systems can match. The Egocentric-10K corpus\footnote{\url{https://huggingface.co/datasets/builddotai/Egocentric-10K}} exemplifies this development: thousands of hours of first-person factory footage from more than two thousand workers in real facilities (Fig.~\ref{fig:egocentric}). The problem is the transformation gap: \textbf{raw egocentric video is not event data}. An event log requires discretized events with activity labels from a coherent vocabulary, timestamps, and case identifiers; producing these manually costs many annotator-hours per hour of footage.
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=0.55\textwidth]{figures/egocentric10k.png}
+\caption{Frames from Egocentric-10K: head-mounted cameras capture manual factory work (part handling, machine operation, assembly, packaging) from the worker's perspective.}
+\label{fig:egocentric}
+\end{figure}
+
+Three research streams approach this gap without closing it (Section~\ref{sec:relatedWork}): video-based process mining relies on fixed cameras and per-setting computer-vision models; sensor-based process mining lifts signals that carry far less semantic content than video; and LLM-assisted log extraction converts unstructured \emph{text} into event logs but has not been connected to video, where segmentation, timestamp estimation, and vocabulary control dominate the problem.
+
+We close this gap with a fully automated five-stage pipeline that turns egocentric factory video into standard event logs using foundation models as its only extraction machinery. Applied to six factories of Egocentric-10K, the pipeline produces 322 per-video event logs with 10{,}698 events from 59 workers. We deliberately position these logs as \emph{inferred observational data}, not ground truth, and devote a substantial part of the paper to making their uncertainty measurable. Three research questions are addressed.
+\textbf{RQ1 (Feasibility and validity):} can a foundation-model pipeline, without task-specific training or human annotation, produce event logs satisfying the structural requirements of process mining at the scale of hundreds of videos?
+\textbf{RQ2 (Fidelity):} how faithfully do the generated events reflect the observed work, temporally and semantically?
+\textbf{RQ3 (Utility):} to what extent do the logs support standard process mining analyses, and at which abstraction level?
+Our contributions are (i)~the pipeline and its design rationale, (ii)~a publicly released derived dataset for six real factories,\footnote{\url{https://github.com/fit-alessandro-berti/annotated-egocentric-10k-dataset}} (iii)~an assessment framework for video-derived event logs together with its complete empirical application, and (iv)~a characterization of the main failure modes.
 
 \section{Related Work}
 \label{sec:relatedWork}
-This section summarizes related methods, systems, and findings. Keep the comparison focused and explain the gap addressed by this paper \cite{berti2023pm4py}.
+
+\emph{Event log construction and data quality.} Deriving event logs is a methodological, quality-sensitive process rather than a technical export step: event-data preparation decomposes into extraction, correlation, and abstraction~\cite{diba2020extraction}, and the case notion is itself a modeling decision~\cite{demurillas2020case}. Log imperfection patterns~\cite{suriadi2017imperfection} name the defects inferred logs may carry, such as imprecise timestamps, ambiguous boundaries, and missing events, which directly motivate our assessment framework. Event abstraction~\cite{vanzelst2021abstraction} addresses lifting low-level observations to process-level activities; our factory-specific activity catalogues instantiate such an abstraction layer by design.
+
+\emph{Video and sensor-based process mining.} Knoch et al.~\cite{knoch2020video} extract traces from video for discovery and conformance in manual assembly; Kratsch et al.~\cite{kratsch2022video} develop a reference architecture for video-enabled process mining; Lepsien et al.~\cite{lepsien2023analytics} propose an analytics pipeline for process mining on video. This line relies on fixed cameras and per-setting vision models. Sensor-based approaches~\cite{brzychczy2025sensor} establish abstraction techniques for low-semantic signals, and recent work broadens the scope to unstructured and multimodal event data~\cite{konig2025unstructured}. Our work differs in using \emph{egocentric} video, which follows the worker rather than a station, and a text-mediated foundation-model pipeline requiring no per-setting training.
+
+\emph{LLM-assisted process mining.} LLMs have been studied for querying and explaining process mining artifacts~\cite{berti2024llm} and benchmarked on process mining tasks~\cite{berti2025benchmark}. Upstream, LLMs extract event logs from textual sources such as documents~\cite{dani2025llm}. We extend this stream to video as the originating modality, with two additions the video setting makes essential: transcript-anchored timestamp estimation and closed controlled vocabularies that suppress label drift across hundreds of extractions.
 
 \section{Approach}
 \label{sec:approach}
-This section describes the proposed approach. Define the input, output, assumptions, and the main steps of the method.
 
-\section{Implementation}
-\label{sec:implementation}
-This section reports implementation details, including architecture, libraries, data formats, and reproducibility information.
+The pipeline (Fig.~\ref{fig:pipeline}) transforms raw video into event logs through five automated stages. Two design principles govern it. \emph{Late abstraction}: the video is first verbalized without any process mining schema; activity labels are introduced only after a factory-wide vocabulary exists, mirroring the extraction-correlation-abstraction decomposition of~\cite{diba2020extraction}. \emph{Closed-world labeling}: event extraction may only use labels from the factory vocabularies, which act as an abstraction layer that suppresses hallucination and harmonizes granularity across videos and workers. No model is fine-tuned, no human annotation enters the pipeline, and all prompts are released with the code.
+
+\begin{figure}[t]
+\centering
+\begin{tikzpicture}[
+  node distance=3mm and 4mm,
+  stage/.style={draw, rounded corners=1.5pt, align=center, font=\scriptsize, inner sep=3pt, minimum height=9mm, fill=black!4},
+  art/.style={align=center, font=\tiny, text=black!60},
+  arr/.style={-{Stealth[length=2mm]}, thick}
+]
+\node[stage] (s1) {S1\\video\\transcription};
+\node[stage, right=of s1] (s2) {S2\\worker\\summaries};
+\node[stage, right=of s2] (s3) {S3\\factory report\\+ vocabularies};
+\node[stage, right=of s3] (s4) {S4\\constrained event\\extraction};
+\node[stage, right=of s4] (s5) {S5\\log\\consolidation};
+\draw[arr] (s1) -- (s2);
+\draw[arr] (s2) -- (s3);
+\draw[arr] (s3) -- (s4);
+\draw[arr] (s4) -- (s5);
+\draw[arr] (s1.south) to[out=-25, in=-155] node[art, below, yshift=-1mm]{timestamped transcripts are re-used as extraction source} (s4.south);
+\node[art, below=1mm of s1] {per video};
+\node[art, below=1mm of s2] {per worker};
+\node[art, below=1mm of s3] {per factory};
+\node[art, below=6mm of s4] {per video};
+\node[art, below=1mm of s5] {per worker/factory};
+\end{tikzpicture}
+\caption{The five-stage pipeline. A multimodal model (S1 to S3) produces transcripts, summaries, and controlled vocabularies; a text-only model (S4) converts each transcript into events constrained to the vocabularies; S5 consolidates CSV logs.}
+\label{fig:pipeline}
+\end{figure}
+
+\subsubsection{Source data.}
+The input is Egocentric-10K. We processed six factories covering heterogeneous labor-intensive domains: metal stamping and mechanical assembly (001), garment finishing and packaging (002, 004), casting post-processing (003), machining and motor assembly (005), and sand-mold foundry work (006), totaling 59 workers and 322 clips. Clips are typically around 20 minutes; a few recordings span multiple hours.
+
+\subsubsection{S1: Change-point transcription.}
+Each video is uploaded to a multimodal foundation model (Gemini~3.1 Pro) with a prompt requesting a detailed chronological narration of entries \texttt{[HH:MM:SS - HH:MM:SS] description}. Three requirements matter downstream. \emph{Change-point segmentation}: a new entry is opened only when the action, handled object, location, attention focus, or social context changes; stable repetition is merged into one long interval, so transcript boundaries approximate behavioral change points, which S4 reuses as candidate event boundaries. \emph{Descriptive neutrality}: labels, categories, and analysis language are forbidden, so no ad-hoc activity schema is imposed prematurely. \emph{Marked uncertainty}: unclear scenes (blur, occlusion) must be flagged rather than guessed. S1 produced 13{,}304 timestamped entries for the 322 videos.
+
+\subsubsection{S2 and S3: Summaries and vocabularies.}
+S2 synthesizes each worker's transcriptions into a process-focused report (process summary, detailed breakdown, optimization opportunities, evidence limits); optimization remarks are restricted to process design, explicitly excluding judgments of individual performance. S3 aggregates the worker reports of a factory into a factory report whose two key sections form the controlled vocabularies: a deduplicated list of coarse \textbf{process labels} (12 to 24 per factory, e.g., \emph{metal stamping}, \emph{material replenishment}) and a rich catalogue of fine-grained \textbf{activity labels} (55 to 131 per factory), each a verb-object phrase such as \emph{load raw metal blank into die}. The prompt demands coverage of non-value-adding behavior (transport, staging, waiting, setup, cleanup, inspection, handoffs) and prohibits near-duplicates. The two-level structure (process $\supset$ activity) later provides two analysis granularities from the same log.
+
+\subsubsection{S4: Constrained event extraction.}
+A text-only LLM (GPT-5.4) converts each transcription, independently per video and in parallel, into a JSON list of events with exactly four fields: estimated start and end time, activity, and process. The contract: (i)~\emph{closed vocabularies}: both labels must be exactly one of the allowed labels; if several are plausible, the closest must be chosen; (ii)~\emph{transcript-anchored timing}: transcript timestamps are the primary basis for boundaries; an interval holding one stable activity becomes one event, a composite interval may be split; (iii)~\emph{operational-relevance filter}: non-work segments (walking without transport, camera artifacts) are omitted, and an empty list is admissible; (iv)~\emph{strict output discipline}: JSON only, validated against schema and vocabularies at parse time. For example, the entry \emph{``[00:04:05 -- 00:04:36] A new empty frame is placed on the pattern plate. Powder is poured in \dots{} picks up a flat wooden tool and aggressively scrapes it across the surface''} yields, among others, the event (00:04:24, 00:04:36, \emph{level powder surface with wooden scraper}, \emph{Sand mold creation}).
+
+\subsubsection{S5: Log consolidation.}
+Per-video CSVs (start/end timestamp, activity, process, factory, worker) are merged into worker- and factory-level logs: clips of one worker are concatenated in recording order, shifting relative timestamps by the cumulative end of preceding clips onto a synthetic axis anchored at 2000-01-01 (videos carry no wall-clock metadata; durations and orderings are meaningful, calendar dates are not). Merged events carry provenance (\texttt{source\_file}), \texttt{case\_id}, offsets from video start, and durations. The artifacts support several case notions without re-extraction (\emph{video-as-case}, used in our assessment, \emph{worker-as-case}, and process-phase segmentation), since the case notion is a modeling decision, not a property of the data~\cite{demurillas2020case}.
+
+\subsubsection{Design rationale.}
+Text as the intermediate representation decouples the expensive per-video vision step from the factory-global vocabulary: transcripts are created once, are human-auditable, and serve simultaneously as extraction source, evidence base for vocabulary induction, and reference for the assessment; they are, in effect, the pipeline's provenance layer. Vocabularies are factory-scoped because manual work is domain-specific, while coarse process labels retain cross-factory comparability.
 
 \section{Assessment}
 \label{sec:assessment}
-This section explains the evaluation setup, datasets, baselines, metrics, and main results.
+
+The pipeline produces logs by \emph{inference}, so the assessment must answer what classical extraction takes for granted: to what extent can the events be trusted, and for which analyses are they fit? Since no independent ground truth exists for the videos (producing one at corpus scale is exactly the cost the pipeline avoids), we assess through five complementary levels, from syntactic to pragmatic: \textbf{L1}~structural validity (are the logs well-formed event data?), \textbf{L2}~vocabulary conformance (is the closed-world labeling contract satisfied?), \textbf{L3}~temporal fidelity (do events cover the footage with aligned boundaries?), \textbf{L4}~semantic fidelity (are labels correct and is work captured?), and \textbf{L5}~process mining utility (do standard techniques yield meaningful results?). L1 and L2 address RQ1, L3 and L4 address RQ2, L5 addresses RQ3. One caveat is structural: L3 and L4 validate the \emph{transcript$\to$log} step against the transcripts, which are themselves model-generated; the \emph{video$\to$transcript} step is only indirectly covered (Section~\ref{sec:discussion}).
+
+\emph{Setup.} 6 factories, 59 workers, 322 per-video logs (all non-empty, 10{,}698 events), and 13{,}304 transcript entries spanning 218.4 hours. Computations use the pm4py library~\cite{berti2023pm4py}; audit samples use a fixed seed, stratified per factory; video-as-case is the default notion. Assessment code and audit verdicts are released with the artifacts.
+
+\subsection{L1: Structural Validity}
+Every event must parse against the schema with $\mathit{start} \leq \mathit{end}$, chronological ordering per video, and, since a wearer performs one activity at a time, no overlaps. \emph{Results:} all 10{,}698 events are schema-complete; there are \textbf{zero} negative- or zero-duration events and \textbf{zero} ordering violations; overlaps affect 35 events (0.33\%); no log is empty. \textbf{Finding F1:} the S4 generation contract (strict schema plus validation) suffices for structurally sound event data at scale; residual defects are rare local boundary artifacts.
+
+\subsection{L2: Vocabulary Conformance and Utilization}
+The closed-world contract requires every activity (process) value to match the factory catalogue (label list) exactly; utilization indicates whether vocabularies are grounded rather than over-generated. Table~\ref{tab:corpus} summarizes corpus, conformance, and temporal fidelity per factory. Conformance is \textbf{100\% for both attributes in all six factories}: not a single event carries an out-of-vocabulary label. Utilization is high (89 to 97\% of catalogue activities occur; all process labels are used except one), so S3 induced vocabularies that are both grounded and close to minimal. Label usage is right-skewed, as expected for repetitive work: the ten most frequent activities account for 50 to 67\% of events per factory. \textbf{Finding F2:} the controlled-vocabulary mechanism eliminates label hallucination entirely while retaining fine-grained, almost fully utilized label sets: the property that makes logs aggregatable across videos and workers.
+
+\begin{table}[t]
+\centering
+\caption{Corpus statistics, vocabulary conformance/utilization (L2), and temporal fidelity (L3) per factory. Conf.\ = share of events whose activity and process labels are in the factory vocabularies; Cov.\ = share of the observed span covered by events; Align.\ = share of event boundaries within $\pm$5\,s of a transcript boundary.}
+\label{tab:corpus}
+\scriptsize
+\setlength{\tabcolsep}{3.5pt}
+\begin{tabular}{@{}lrrrrrrrrrr@{}}
+\toprule
+Factory & Workers & Videos & Events & \multicolumn{2}{c}{Activity vocab.} & \multicolumn{2}{c}{Process vocab.} & Conf. & Cov. & Align. \\
+\cmidrule(lr){5-6}\cmidrule(lr){7-8}
+ & & & & size & used & size & used & & & \\
+\midrule
+001 & 11 & 97 & 2{,}288 & 131 & 125 & 13 & 13 & 100\% & 94.8\% & 93.1\% \\
+002 & 10 & 54 & 1{,}541 & 75 & 67 & 24 & 24 & 100\% & 28.2\% & 71.8\% \\
+003 & 11 & 72 & 2{,}449 & 55 & 52 & 12 & 12 & 100\% & 93.0\% & 86.8\% \\
+004 & 10 & 51 & 1{,}893 & 71 & 65 & 22 & 22 & 100\% & 92.1\% & 90.4\% \\
+005 & 11 & 22 & 1{,}103 & 102 & 97 & 18 & 17 & 100\% & 25.0\% & 75.0\% \\
+006 & 6 & 26 & 1{,}424 & 61 & 59 & 24 & 24 & 100\% & 14.1\% & 62.1\% \\
+\midrule
+All & 59 & 322 & 10{,}698 & & & & & 100\% & 52.8\% & 82.1\% \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{L3: Temporal Fidelity}
+\emph{Coverage} is the fraction of the observed span (per video, up to the last transcript or event timestamp) covered by the union of event intervals; it need not be 100\%, since S4 deliberately excludes non-operational footage. \emph{Boundary alignment} is the share of event start/end points within $\pm$5\,s of a transcript boundary; low alignment would mean S4 invents boundaries unanchored in observed behavior.
+
+Aggregate coverage is 52.8\% (Table~\ref{tab:corpus}), which initially appears alarming, but stratifying by recording length localizes the deficit precisely: median coverage is 95.0\% for the 243 videos up to 20 minutes and 95.4\% for the 71 videos of 20 to 60 minutes, but 18.4\% for the single video between one and two hours and 1.2\% for the six videos above two hours (Pearson $r$ between span and coverage: $-0.62$). Inspection of the worst case (a 20-hour transcript with 0.19\,h of events) shows the gaps contain both genuinely non-operational stretches \emph{and} clearly operational work for which no events were emitted: on very long transcripts, extraction emits events only for an initial portion, consistent with generation-length limits rather than deliberate filtering. The three factories with low aggregate coverage (002, 005, 006) are exactly those dominated by a few such recordings. Boundary alignment is 82.1\% overall (up to 93.1\%), confirming that events are predominantly anchored at S1-detected change points; the rest stems from the sanctioned splitting of composite entries.
+
+\textbf{Finding F3:} temporal fidelity is high (near-complete coverage with change-point-anchored boundaries) within the length regime covering 98\% of the corpus, and the failure mode outside it is sharply characterized as \emph{long-input truncation}, mitigable by windowed extraction; until then, coverage should be reported per log and the seven affected recordings excluded from performance analyses.
+
+\subsection{L4: Semantic Fidelity (Manual Audit)}
+Since transcripts verbalize the videos, the transcript$\to$event mapping can be audited without re-watching footage. We drew two stratified random samples (seven items per factory): (A)~a \emph{precision} sample of 42 events, each judged against all transcript entries overlapping the event interval, and (B)~a \emph{recall} sample of 42 transcript entries, each classified as operational or non-operational and checked for overlap with at least one event. Judgments were made by one author; sample identifiers and verdicts are released.
+
+\emph{Precision.} 36 of 42 events (85.7\%) are fully correct: the label is a faithful, appropriately granular description. The remaining six (14.3\%) are \emph{partially supported}: plausible and context-consistent but not verifiable from the overlapping entry alone; typically the entry says only ``the repetitive assembly process continues'' and the label inherits its specificity from earlier context, or a composite entry was split. \textbf{No audited event contradicts its transcript evidence (0/42).} Strict precision is 0.86 (Wilson 95\% interval 0.72 to 0.93).
+
+\emph{Recall.} 34 of 42 entries are covered by an event. Of the eight uncovered, four are non-operational and thus \emph{correctly} excluded (a short walk, a phone check, camera shake, idle wandering), while four describe operational or borderline behavior that was missed, one of them inside a multi-hour recording, i.e., the L3 truncation regime. Estimated operational recall is $34/38 \approx 0.89$ (Wilson interval 0.76 to 0.96).
+
+\textbf{Finding F4:} the transcript$\to$event step is semantically conservative: it essentially never assigns a wrong label, errs toward context-dependent rather than false labels, correctly filters non-operational footage, and misses operational content mainly through the F3 mechanism. We attribute precision 0.86 (strict) with zero contradictions primarily to the closed vocabulary and transcript anchoring.
+
+\subsection{L5: Process Mining Utility}
+For each factory we apply standard pm4py techniques with video-as-case: variant analysis, directly-follows graphs (DFG), and discovery with the Inductive Miner infrequent variant (noise 0.2)~\cite{leemans2013inductive}, evaluated by token-based replay. Discovery runs at two abstraction levels enabled by the two-level vocabulary: the fine-grained \emph{activity} level and the \emph{process} level, obtained by collapsing consecutive events with identical process labels into segments (Table~\ref{tab:discovery}).
+
+\begin{table}[t]
+\centering
+\caption{Discovery results per factory (video-as-case; Inductive Miner, noise 0.2; token-based replay). Left: activity level. Right: process level (consecutive identical process labels collapsed).}
+\label{tab:discovery}
+\scriptsize
+\setlength{\tabcolsep}{2.1pt}
+\begin{tabular}{@{}lrrrrrr@{\hspace{2.5mm}}rrrr@{}}
+\toprule
+ & \multicolumn{6}{c}{Activity level} & \multicolumn{4}{c}{Process level} \\
+\cmidrule(lr){2-7}\cmidrule(l){8-11}
+Factory & Cases & Acts. & Variants & DFG edges & Fitness & Precision & Labels & Med.\ segs. & Fitness & Precision \\
+\midrule
+001 & 97 & 125 & 97 & 594 & 0.980 & 0.069 & 13 & 6 & 0.966 & \textbf{0.591} \\
+002 & 54 & 67 & 53 & 239 & 0.991 & 0.060 & 24 & 7 & 0.968 & 0.149 \\
+003 & 72 & 52 & 70 & 305 & 0.987 & 0.091 & 12 & 2 & 0.997 & 0.264 \\
+004 & 51 & 65 & 51 & 336 & 0.982 & 0.067 & 22 & 11 & 0.990 & 0.093 \\
+005 & 22 & 97 & 22 & 241 & 0.954 & 0.268 & 17 & 4 & 0.992 & 0.320 \\
+006 & 26 & 59 & 26 & 272 & 0.954 & 0.080 & 24 & 26 & 0.996 & 0.137 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+At the activity level, every trace is (nearly) a unique variant (variant/case ratio 0.97 to 1.0) and DFGs are sparse (2.6 to 11.3\% of possible edges), the signature of flexibly ordered, interleaved manual work rather than noise: workers weave replenishment, transport, and cleaning into value-adding cycles at self-chosen points. Discovered models are consequently high-fitness but low-precision, the classical over-generalization regime; directly-follows self-loops (4.3 to 16.8\% of DF pairs) reflect genuinely repetitive cycles. Activity-level logs are thus best suited to \emph{frequency and performance analysis} (activity time budgets, waiting/transport shares, workstation comparison) and local control-flow patterns. Collapsing to process segments improves precision by a factor of 1.5 to 8.6 (e.g., $0.069 \to 0.591$ in factory 001) at essentially unchanged fitness: phase-level models are discoverable and interpretable, while activity-level logs support drill-down beneath them. Factories whose process vocabularies are broad relative to trace length (002, 004, 006) remain low-precision even here, a vocabulary-design feedback signal this level makes visible.
+
+\textbf{Finding F5:} the logs are immediately consumable by standard tooling and support the analyses that motivated the pipeline; end-to-end control-flow discovery is meaningful at the process level but not at the raw activity level, a property of flexible manual work that the two-level vocabulary design anticipates.
+
+In summary, the assessment supports an affirmative answer to RQ1 (F1, F2), a quantified and mostly positive answer to RQ2 with one well-localized failure mode (F3, F4), and a differentiated answer to RQ3 (F5).
 
 \section{Discussion}
 \label{sec:discussion}
-This section discusses interpretation, limitations, threats to validity, and practical implications.
+
+\subsubsection{Threats to validity.}
+\emph{Construct:} L3/L4 evaluate the log against the transcript, not the video; vision-stage errors (missed actions, hallucinated detail, mis-scaled timestamps) propagate silently. A video-grounded audit of sampled intervals is the necessary next step; the released per-video provenance makes it directly executable. \emph{Internal:} the semantic audit was performed by a single author without inter-rater agreement; samples of 42+42 yield wide confidence intervals, and the long-video regime is underrepresented in the precision sample. \emph{External:} six factories from one corpus, all discrete manufacturing; generalization to other domains and foundation models is untested, and the pipeline is prompt- and model-version-dependent (the assessment of the released artifacts is, however, fully reproducible without any model API). \emph{Conclusion:} token-based replay was used for fitness/precision, as alignment-based measures were impractical given trace uniqueness; absolute precision values should be compared across abstraction levels and factories, not across papers.
+
+\subsubsection{Ethical considerations.}
+Egocentric video is worker-centered data. Our pipeline restricts optimization remarks to process design and forbids judgments of individual performance; the released logs use pseudonymous worker identifiers, and no footage is redistributed. Still, worker-level event logs could be misused for surveillance or performance comparison~\cite{mannhardt2018privacy}; deployments require consent, purpose limitation, aggregation, and access control as first-class design constraints.
+
+\subsubsection{Limitations and outlook.}
+The flat CSV representation loses worker-machine-material relations visible in the transcripts; object-centric representations~\cite{aalst2019objectcentric} are the natural extension. Timestamps live on a synthetic per-worker axis, so analyses concern observed work time, not calendar time. Under heavy repetition, cycles are aggregated into stretches, hiding cycle counts where S1 did not resolve them. Finally, the truncation failure on multi-hour recordings (F3) calls for windowed extraction with overlap-stitching.
 
 \section{Conclusion}
 \label{sec:conclusion}
-This section concludes the paper and outlines possible future work.
+
+This paper asked whether process mining event logs can be derived, fully automatically, from egocentric videos of process executions. The answer is a qualified yes. A five-stage foundation-model pipeline produced 322 event logs with 10{,}698 events from six real factories without task-specific training or human annotation; the logs are structurally flawless, conform perfectly to their controlled vocabularies, cover the footage almost completely in the dominant length regime, carry no contradicted labels in a manual audit, and support performance analysis at activity granularity and model discovery at process granularity. The characterized failure modes define the immediate agenda: windowed extraction for long recordings, video-grounded audits of the transcription stage, per-event confidence annotations, and object-centric extensions. We release pipeline, prompts, dataset, and assessment code so the community can study, stress-test, and extend event logs that see the process through the worker's eyes.
 
 \begin{credits}
 \subsubsection{\ackname} Funded by the European Union. This work has received funding from the European High Performance Computing Joint Undertaking (JU) and from the German Federal Ministry of Research, Technology and Space (BMFTR), the Ministry of Culture and Science of North Rhine-Westphalia (MKW NRW), and the Hessian Ministry of Science and Research, Arts and Culture (HMWK) under grant agreement No 101250682. \\
