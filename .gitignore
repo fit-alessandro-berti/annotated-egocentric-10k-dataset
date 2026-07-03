@@ -212,3 +212,9 @@ __marimo__/
 *key*
 *nohup*
 *.sh
+*.aux
+*.bbl
+*.blg
+*.out
+*.pdf
+
