@@ -1,141 +1,105 @@
 # Assessment
 
-## Goals and Evaluation Framework
+## Goal: Measuring Value, Not Just Validity
 
-The pipeline produces event logs by *inference* rather than by extraction from a system of record. An assessment must therefore answer a question that classical log extraction can take for granted: *to what extent can the generated events be trusted, and for which analyses are they fit?* Because no independent ground-truth annotation exists for the source videos (producing one at corpus scale is exactly the cost the pipeline is designed to avoid) we assess the corpus through a framework of five complementary levels, ordered from purely syntactic to fully semantic and pragmatic. Each level has explicit criteria, an operationalization, and a quantitative result; together they address RQ1 (levels L1-L2), RQ2 (levels L3-L4), and RQ3 (level L5).
+The purpose of the derived event logs is not to exist, but to let a process analyst answer questions that no enterprise system can answer about manual factory work: where does worker time actually go, how fragmented is value-adding work, which improvement opportunities are supported by evidence, and how do workers performing the same task differ? The assessment is therefore organized around *delivered analytical value*. We first establish, briefly, that the logs are reliable enough to analyze (validity preconditions), and then spend the bulk of the assessment executing the analyses an operations analyst would actually run, reporting what they reveal, what they would trigger in practice, and where they hit the limits of the data. All analyses operate solely on the released artifacts and are reproducible from the published assessment code; no access to the source videos or any model API is required.
 
-| Level | Criterion | Question | Reference |
+Three questions structure the assessment:
+
+- **Q1 (Preconditions).** Are the logs trustworthy enough to base operational conclusions on?
+- **Q2 (Analysis capability).** Which classes of process mining analysis do the logs support in practice, and what do they reveal in the six factories?
+- **Q3 (Optimization evidence).** Do the logs produce concrete, prioritizable optimization findings, and how do these findings relate to the qualitative process reports generated independently by the pipeline?
+
+**Setup.** 6 factories, 59 workers, 322 per-video event logs with 10,698 events, 13,304 transcript entries spanning 218.4 hours of footage. Computations use pandas and pm4py; the video-as-case notion is used for control-flow analyses; time-composition analyses use event-covered time. The process-category mapping (below) and all scripts are released with the artifacts.
+
+## Q1: Validity Preconditions (Condensed)
+
+A value assessment is meaningless on unreliable data, so we summarize the validity checks compactly; full details are in the released assessment materials. *Structure and vocabulary:* all 10,698 events are schema-complete, chronologically ordered, and conform 100% to the factory vocabularies (zero out-of-vocabulary labels; 89 to 97% of catalogue activities actually used). *Temporal fidelity:* median event coverage of the observed footage is about 95% for the 314 recordings up to one hour; coverage collapses (median 1.2%) on the seven multi-hour recordings, where the extraction stage truncates, so these recordings are excluded from all time statistics below. Event boundaries coincide with transcribed behavioral change points in 82% of cases (within 5 s). *Semantic fidelity:* a stratified manual audit (42 events, 42 transcript entries, seed 42) yields strict event precision 0.86 with zero contradicted labels and operational recall about 0.89; misses concentrate in the truncation regime. In short: within the dominant length regime, the logs are a faithful, conservatively extracted account of observed work, and the conclusions below inherit at most the uncertainty quantified here.
+
+## Q2: Analysis Capability
+
+We execute four analysis classes that together cover the main promises of process mining for manual work: performance analysis (A1), operational diagnostics (A2), control-flow analysis (A3), and resource comparison (A4). For A1 and A2, each of the 112 factory process labels is mapped to one of seven operational categories: value-adding transformation (VA), material handling and staging (MH), transport (TR), quality inspection (QI), cleaning and maintenance (CM), rework (RW), and documentation (DOC). The mapping is released and deliberately coarse; its role is the same as an activity-based-costing scheme in industrial engineering.
+
+### A1: Work-Time Composition (Where Does Worker Time Go?)
+
+Share of event-covered time per category and factory:
+
+| Factory | VA | MH | TR | QI | CM | RW | DOC | Non-VA total |
+|---|---|---|---|---|---|---|---|---|
+| 001 | 93.1% | 4.1% | 1.8% | 0.0% | 0.2% | 0.0% | 0.9% | 6.9% |
+| 002 | 96.3% | 0.1% | 2.3% | 0.2% | 0.0% | 0.0% | 1.1% | 3.7% |
+| 003 | 82.1% | 0.4% | 0.0% | 0.0% | 6.3% | **10.8%** | 0.4% | 17.9% |
+| 004 | 89.9% | 3.0% | 3.5% | 2.0% | 0.9% | 0.0% | 0.7% | 10.1% |
+| 005 | 80.6% | 5.4% | 9.7% | 4.3% | 0.0% | 0.0% | 0.0% | 19.4% |
+| 006 | 74.2% | 12.1% | 7.8% | 0.0% | 5.7% | 0.0% | 0.3% | **25.8%** |
+
+This single table already delivers the core promise of the dataset: a quantified, comparable account of manual work that exists in no information system. Three findings stand out. First, the non-value-adding share varies by a factor of seven across factories (3.7% to 25.8%), immediately ranking where operational improvement effort should go: the foundry (006) loses one quarter of observed worker time to handling, transport, and cleaning, whereas the garment packaging factory (002) is already highly compact. Second, factory 003 spends **10.8% of observed work time on rework** (the process *Defect patching*, in which workers fill and patch surface defects on castings): a finding with direct economic meaning, pointing upstream to casting quality rather than to the patching stations themselves. Third, the machining factory (005) shows the highest transport share (9.7%) plus 4.3% inspection: machinists act as their own logistics and quality staff.
+
+### A2: Fragmentation of Value-Adding Work (Operational Diagnostics)
+
+Time shares alone understate the damage of interruptions: thirty 15-second replenishment breaks are operationally worse than one 7.5-minute one. Per worker, we collapse consecutive same-category events into runs and measure how often value-adding work is interrupted and how long uninterrupted VA runs last (medians per factory, workers with at least 30 minutes observed):
+
+| Factory | Median VA share | Interruptions of VA per hour | Median uninterrupted VA run |
 |---|---|---|---|
-| L1 | Structural validity | Are the logs well-formed event data? | log only |
-| L2 | Vocabulary conformance & utilization | Is the closed-world labeling contract satisfied, and is the vocabulary adequate? | log + vocabularies |
-| L3 | Temporal fidelity | Do events cover the observed footage, and do their boundaries align with observed change points? | log + transcript |
-| L4 | Semantic fidelity | Do labels correctly describe the referenced behavior (precision), and is operational behavior captured (recall)? | manual audit against transcript |
-| L5 | Process mining utility | Do standard techniques yield meaningful results, and at which abstraction level? | discovery experiments |
+| 001 | 94.5% | 9.2 | 4.6 min |
+| 002 | 97.3% | 3.9 | 8.8 min |
+| 003 | 86.4% | 3.6 | 9.0 min |
+| 004 | 91.3% | 10.6 | 3.6 min |
+| 005 | 85.9% | 5.6 | 6.2 min |
+| 006 | 87.0% | **14.4** | **3.1 min** |
 
-The chain of evidence deserves emphasis: L3 and L4 validate the *transcript→log* step against the transcripts, which are themselves model-generated. Validating the *video→transcript* step requires watching footage and is addressed only indirectly here (via the transcription prompt's uncertainty-marking requirement); a video-grounded audit is discussed under threats to validity.
+Combining A1 and A2 separates two distinct problem profiles that would demand different interventions. Factory 001 loses little total time (6.9% non-VA) but is interrupted 9.2 times per hour by mostly short episodes (449 MH/TR episodes, mean 15 s): the problem is *material presentation at the workstation* (parts within reach, gravity bins), not travel distance. Factory 006 combines high frequency (14.4 interruptions/hour, 28.4 MH/TR episodes per observed hour) with high total loss (19.8% of time in MH/TR): here the problem is *layout and logistics*, and value-adding work never runs longer than about three minutes uninterrupted. This distinction (presentation problem versus logistics problem) is exactly the kind of diagnosis a lean consultant produces from days of stopwatch observation; the logs produce it from data that was recorded anyway.
 
-**Setup.** The assessed corpus comprises 6 factories, 59 workers, 322 per-video event logs (all non-empty) with 10,698 events, and the corresponding 322 transcriptions with 13,304 timestamped entries (321 transcripts contain parseable timestamped entries) spanning 218.4 hours of transcript-covered footage. All computations were performed with Python 3.13, pandas 3.0.4, and pm4py 2.7.23; audit samples were drawn with a fixed random seed (42), stratified per factory. The video-as-case notion is used throughout unless stated otherwise.
+### A3: Flow Visibility (Control-Flow Analysis)
 
-## L1: Structural Validity
+Control-flow discovery on the raw activity level yields high-fitness but low-precision models (Inductive Miner, noise 0.2; token-based replay fitness 0.95 to 0.99, precision 0.06 to 0.27): traces are nearly all unique variants because workers interleave replenishment, transport, and cleaning with value-adding cycles at self-chosen points. This is a property of flexibly ordered manual work, not noise, and it delimits what discovery can deliver here: activity-level logs support *local* pattern analysis (directly-follows loops identify the repetitive work cycles; 4 to 17% of directly-follows pairs are self-loops) and drill-down, not readable end-to-end models. Collapsing to the process level of the two-level vocabulary changes the picture: with 12 to 24 phase labels and 2 to 26 segments per trace, discovered phase models reach precision up to 0.59 (factory 001, from 0.069 at activity level) at fitness above 0.96, and are small enough to read. The practical recipe for analysts: discover at phase level, quantify at activity level.
 
-**Criteria.** Every event must parse against the declared schema; timestamps must be well-formed with `start ≤ end`; events within one video log must be chronologically ordered; events of one sequential worker stream should not overlap (a wearer performs one activity at a time, so overlaps indicate boundary estimation errors).
+### A4: Worker Benchmarking (Resource Comparison)
 
-**Results.** All 10,698 events parse and are schema-complete (no missing values). There are **zero** negative-duration events, **zero** zero-duration events, and **zero** ordering violations (event starts are monotonically non-decreasing within every video log). Pairwise overlaps between consecutive events occur in **35 of 10,698 events (0.33%)**, concentrated in factories 001 (0.87%) and 002 (0.97%) and absent in the remaining four factories. No per-video log is empty, i.e., the extraction stage never degenerated to the admissible-but-vacuous output `{"events":[]}`.
+Because the vocabulary is shared within a factory, workers performing the same dominant process are directly comparable, which turns the logs into an internal benchmarking instrument:
 
-**Finding F1.** The generation contract of stage S4 (strict JSON schema plus post-hoc validation) is sufficient to obtain structurally sound event data at scale; residual defects are rare, local boundary artifacts rather than systematic malformations.
-
-## L2: Vocabulary Conformance and Utilization
-
-**Criteria.** (i) *Conformance*: every `activity` (resp. `process`) value must be exactly one label of the factory's activity catalogue (resp. process label list), the closed-world contract of S4. (ii) *Utilization*: the vocabularies should be neither too narrow (which would force distortive label coercion) nor grossly over-generated (unused labels indicate hallucinated catalogue entries or over-splitting).
-
-**Results.**
-
-| Factory | Events | Activity vocab. | Activities used | Utilization | Process vocab. | Processes used | Label conformance |
-|---|---|---|---|---|---|---|---|
-| 001 | 2,288 | 131 | 125 | 95.4% | 13 | 13 | 100% / 100% |
-| 002 | 1,541 | 75 | 67 | 89.3% | 24 | 24 | 100% / 100% |
-| 003 | 2,449 | 55 | 52 | 94.5% | 12 | 12 | 100% / 100% |
-| 004 | 1,893 | 71 | 65 | 91.5% | 22 | 22 | 100% / 100% |
-| 005 | 1,103 | 102 | 97 | 95.1% | 18 | 17 | 100% / 100% |
-| 006 | 1,424 | 61 | 59 | 96.7% | 24 | 24 | 100% / 100% |
-
-Conformance is **100% for both attributes in all six factories**: not a single generated event carries an out-of-vocabulary label. Utilization is high (89-97% of catalogue activities appear in the logs; all process labels are used except one in factory 005), indicating that S3 induced vocabularies that are both grounded and close to minimal. Label usage is right-skewed, as expected for repetitive manual work: the ten most frequent activities account for 50-67% of events per factory.
-
-**Finding F2.** The controlled-vocabulary mechanism works as designed: it fully eliminates label hallucination at extraction time (RQ1) while retaining fine-grained, almost fully utilized label sets. This contrasts with free-labeling LLM extraction, where label drift across documents is a known failure mode, and it is the property that makes the logs aggregatable across videos and workers at all.
-
-## L3: Temporal Fidelity
-
-**Criteria.** (i) *Coverage*: the fraction of the observed time span (per video: from 0 to the maximum of the last transcript timestamp and the last event end) that is covered by the union of event intervals. Coverage need not be 100%, because the extraction prompt deliberately excludes non-operational footage (walking without transport, phone use, camera artifacts), but it should be high for work-dense recordings. (ii) *Boundary alignment*: the fraction of event start/end points that coincide (±5 s) with a transcript entry boundary, i.e., with a change point detected in S1. Low alignment would mean S4 invents boundaries unanchored in observed behavior.
-
-**Results.**
-
-| Factory | Observed span (h) | Covered (h) | Coverage | Boundary alignment | Median event dur. (s) |
-|---|---|---|---|---|---|
-| 001 | 52.8 | 50.1 | 94.8% | 93.1% | 20 |
-| 002 | 57.4 | 16.2 | 28.2% | 71.8% | 17 |
-| 003 | 23.3 | 21.7 | 93.0% | 86.8% | 13 |
-| 004 | 16.8 | 15.5 | 92.1% | 90.4% | 14 |
-| 005 | 20.2 | 5.1 | 25.0% | 75.0% | 8 |
-| 006 | 48.0 | 6.8 | 14.1% | 62.1% | 12 |
-| **All** | **218.4** | **115.2** | **52.8%** | **82.1%** | **14** |
-
-The aggregate coverage of 52.8% initially appears alarming, but stratifying by recording length localizes the deficit precisely:
-
-| Video length | n | Median coverage | Median events per transcript entry |
-|---|---|---|---|
-| ≤ 20 min | 243 | **95.0%** | 0.80 |
-| 20-60 min | 71 | **95.4%** | 0.72 |
-| 1-2 h | 1 | 18.4% | 0.72 |
-| > 2 h | 6 | **1.2%** | 0.56 |
-
-Coverage is uniformly high (median ≈ 95%) for the 314 videos up to one hour and collapses for the seven multi-hour recordings (Pearson correlation between span and coverage ratio: r = −0.62). Manual inspection of the worst case (a 20-hour transcript in factory 002 with 0.19 h of events) shows the transcript's gap regions contain both genuinely non-operational stretches *and* clearly operational work (e.g., multi-hour garment-packaging episodes) for which no events were emitted: on very long transcripts, the extraction stage emits events for only an initial portion and effectively truncates, consistent with generation-length limits rather than with deliberate filtering. The three factories with low aggregate coverage (002, 005, 006) are exactly those whose observed hours are dominated by a few such long recordings.
-
-Boundary alignment is 82.1% overall (93.1% in the best factory), confirming that S4 predominantly anchors events at S1-detected change points as instructed; the remaining boundaries stem from the sanctioned splitting of composite transcript entries.
-
-**Finding F3.** Temporal fidelity is high (near-complete coverage with change-point-anchored boundaries) within the length regime that dominates the corpus (≤ 1 h; 98% of videos), and the failure mode outside that regime is sharply characterized: *long-input truncation of the extraction stage*. The practical mitigations are transcript chunking or windowed extraction for long recordings; until then, coverage should be reported per log, and the seven affected recordings excluded from performance analyses.
-
-## L4: Semantic Fidelity (Manual Audit)
-
-**Protocol.** Since transcripts verbalize the videos, the correctness of the transcript→event mapping can be audited by humans without re-watching footage. We drew two stratified random samples (seed 42, 7 items per factory each): (A) a **precision sample** of 42 events, each judged against all transcript entries overlapping the event interval, is the (activity, process) pair a correct description of the transcribed behavior in that interval?; (B) a **recall sample** of 42 transcript entries, each first classified as *operational* or *non-operational* (walking without transport, phone use, camera artifacts, idle observation), then checked for overlap with at least one event. Judgments were made by one author; the sample identifiers and verdicts are released with the artifacts.
-
-**Results, precision.** Of 42 audited events, **36 (85.7%) are fully correct**: the activity label is a faithful, appropriately granular description of the transcribed behavior (e.g., event *level powder surface with wooden scraper* over the entry "picks up a flat wooden tool and aggressively scrapes it across…"). The remaining **6 (14.3%) are partially supported**: the label is plausible and consistent with the surrounding work context but not verifiable from the overlapping entry alone, typically because the transcript entry says only "the repetitive assembly process continues" and the label inherits its specificity from earlier context, or because a composite transcript entry was split and the label describes one constituent of the interval. **No audited event contradicts its transcript evidence (0/42).** Strict precision is thus 0.86 (95% Wilson interval: 0.72-0.93), and no outright labeling errors were observed.
-
-**Results, recall.** Of 42 audited transcript entries, 34 are covered by at least one event and 8 are uncovered. Of the uncovered entries, 4 are non-operational and thus *correctly* excluded (a short walking sequence; a phone check; camera shake while walking; brief idle wandering), while 4 describe operational or borderline-operational behavior that was missed: aligning fabric stacks (inside a multi-hour recording, i.e., the L3 truncation regime), staging tied bundles onto a tray, operating a machine control panel, and inspecting a part. Estimated recall on operational entries is therefore **34/38 ≈ 0.89** (Wilson interval: 0.76-0.96), and half of the identified misses are attributable to the long-video truncation already quantified at L3 rather than to per-entry extraction failures.
-
-**Finding F4.** The transcript→event step is semantically conservative: it essentially never assigns a wrong label (no contradictions in the audit), errs toward context-dependent rather than false labels, correctly filters non-operational footage, and misses operational content mainly through the long-input mechanism of F3. For a fully automatic pipeline, precision ≈ 0.86 (strict) / 1.0 (no-contradiction) and operational recall ≈ 0.89 substantially exceed what the authors expected from free-form LLM extraction, and we attribute this primarily to the closed vocabulary and the transcript-anchoring constraints.
-
-## L5: Process Mining Utility
-
-**Protocol.** For each factory we build an event log with the video-as-case notion and apply standard techniques in pm4py: variant analysis, directly-follows graph (DFG) construction, and process discovery with the Inductive Miner infrequent variant (noise threshold 0.2), evaluated by token-based replay fitness and precision. Discovery is run at two abstraction levels made possible by the two-level vocabulary: the fine-grained **activity level**, and the **process level**, obtained by collapsing consecutive events with identical process labels into segments.
-
-**Results, activity level.**
-
-| Factory | Cases | Acts. | Variants | Med. trace len. | DFG edges | Fitness | Precision |
-|---|---|---|---|---|---|---|---|
-| 001 | 97 | 125 | 97 | 19 | 594 | 0.980 | 0.069 |
-| 002 | 54 | 67 | 53 | 20 | 239 | 0.991 | 0.060 |
-| 003 | 72 | 52 | 70 | 21.5 | 305 | 0.987 | 0.091 |
-| 004 | 51 | 65 | 51 | 27 | 336 | 0.982 | 0.067 |
-| 005 | 22 | 97 | 22 | 41 | 241 | 0.954 | 0.268 |
-| 006 | 26 | 59 | 26 | 45 | 272 | 0.954 | 0.080 |
-
-Every trace is (nearly) a unique variant (variant/case ratio 0.97-1.0) and DFGs are sparse (2.6-11.3% of possible edges), the signature of flexibly ordered, interleaved manual work rather than of noise: workers weave material replenishment, transport, and cleaning into value-adding cycles at self-chosen points. Consequently, discovered models are high-fitness but low-precision, the classical over-generalization regime for logs of this kind. Directly-follows self-loops account for 4.3-16.8% of DF pairs, reflecting genuinely repetitive work cycles that survive the anti-repetition aggregation of S1. The activity-level logs are thus best suited to *frequency and performance analysis* (activity time budgets, waiting/transport shares, workstation comparisons) and *local* control-flow patterns, rather than to end-to-end model discovery.
-
-**Results, process level.** Collapsing to process segments yields short traces (median 2-26 segments) over 12-24 labels:
-
-| Factory | Process labels | Med. segments/case | Fitness | Precision |
+| Factory | Shared process | Workers | VA share range | Mean VA run range |
 |---|---|---|---|---|
-| 001 | 13 | 6 | 0.966 | **0.591** |
-| 002 | 24 | 7 | 0.968 | 0.149 |
-| 003 | 12 | 2 | 0.997 | 0.264 |
-| 004 | 22 | 11 | 0.990 | 0.093 |
-| 005 | 17 | 4 | 0.992 | 0.320 |
-| 006 | 24 | 26 | 0.996 | 0.137 |
+| 001 | Manual mechanical assembly | 6 | 89.7 to 97.8% | 1.7 to 6.7 min |
+| 001 | Metal stamping | 3 | 90.6 to 98.5% | 3.2 to 7.9 min |
+| 003 | Surface finishing and polishing | 5 | **67.3 to 96.9%** | 3.3 to 13.7 min |
+| 004 | Garment ironing | 2 | **52.8 to 77.1%** | 3.5 to 4.1 min |
+| 004 | Overlock seaming | 4 | 87.8 to 96.5% | 1.5 to 10.3 min |
+| 005 | Manual lathe machining | 2 | 95.0 to 95.8% | 6.9 to 9.4 min |
 
-Precision improves by a factor of 1.5-8.6 (e.g., 0.069 → 0.591 in factory 001) at essentially unchanged fitness, confirming that the two-level vocabulary provides a usable abstraction ladder: phase-level models are discoverable and interpretable, while activity-level logs support drill-down analysis beneath them. Factories whose process vocabularies are broad relative to their trace lengths (002, 004, 006) remain low-precision even at this level, suggesting their process label sets over-partition the work, a vocabulary-design feedback signal that this assessment level makes visible.
+The spreads are the finding. Five workers doing surface finishing in factory 003 range from 67% to 97% VA share; the two ironing workers in factory 004 differ by 24 points. Such gaps localize either genuine best practices worth standardizing (workstation setups that keep parts in reach) or hidden structural differences between nominally identical stations, and they define exactly where a follow-up observation is worth its cost. Conversely, the two lathe machinists in 005 are within one point of each other: their station design, not their behavior, drives the factory's 19.4% non-VA share.
 
-**Finding F5.** The logs are immediately consumable by standard tooling and support the analyses that motivated the pipeline (time budgets, material-handling shares, repetition structure, phase flows). End-to-end control-flow discovery is meaningful at the process level but not at the raw activity level; this is a property of flexibly ordered manual work as much as of the extraction, and the two-level design anticipates it (RQ3).
+Additionally, a Pareto view within VA time sharpens improvement targeting: the top three value-adding activities absorb 27% to 62% of VA time per factory (62% in factory 003: scraping, filing, and paste application), so tooling or automation investments can be evaluated against precisely quantified time bases.
 
-## Summary of Findings
+## Q3: Optimization Evidence and Triangulation
 
-- **F1 (L1).** Structurally sound logs at scale: 0 malformed events among 10,698; 0.33% residual boundary overlaps.
-- **F2 (L2).** The closed-vocabulary contract is satisfied perfectly (100% conformance) with 89-97% catalogue utilization, no label hallucination, comparable logs.
-- **F3 (L3).** Median temporal coverage ≈ 95% and boundary alignment 82-93% for videos up to one hour; a sharply characterized truncation failure on the seven multi-hour recordings.
-- **F4 (L4).** Manual audit: strict event precision 0.86 with zero contradicted labels; operational recall ≈ 0.89, with misses dominated by the F3 mechanism.
-- **F5 (L5).** High-fitness/low-precision discovery at activity level, substantially improved precision at process level; logs fit frequency/performance analysis directly and model discovery after abstraction.
+The pipeline independently produces qualitative optimization observations (S3 factory reports, generated from transcripts without any event log). Confronting those claims with the log-derived numbers tests whether the logs add value beyond the reports, in three directions:
 
-Taken together, the assessment supports an affirmative answer to RQ1, a quantified and mostly positive answer to RQ2 with one well-localized failure mode, and a differentiated answer to RQ3 that ties analysis granularity to the vocabulary's two levels.
+| Report claim (S3, qualitative) | Log evidence (quantitative) | Relation |
+|---|---|---|
+| 001: "most pervasive bottleneck is the lack of dedicated material handlers; operators constantly ... fetch raw materials, transport finished bags" | 449 MH/TR episodes, 14.6/h, but mean only 15 s and 5.9% of time | **Refined**: frequency, not time share, is the problem; points to material presentation, not headcount |
+| 006: "excessive manual material handling acts as a facility-wide bottleneck" | 19.8% of observed time in MH/TR, 28.4 episodes/h, VA runs of 3.1 min | **Confirmed and quantified**: the largest measured capacity loss in the corpus |
+| 003: "workers frequently halt value-adding operations to carry heavy metal trays, push wheelbarrows" | MH/TR is only 0.4% of time; the 003 process vocabulary contains **no transport label** | **Exposed a blind spot**: transport exists in the transcripts but cannot be represented in this factory's vocabulary; the log under-measures it |
+| 003 report does not mention rework as a theme | *Defect patching* = 10.8% of observed time | **New finding**: the single largest improvement lever in 003 appears only in the log |
+
+The three relations are exactly the value proposition of event logs over narrative reports: quantification enables prioritization (which of the six factories' many plausible observations deserves investment first), refinement changes the intervention (presentation aids versus dedicated handlers in 001), and the two 003 rows show both a genuine log-only discovery (rework share) and an honest failure mode (the controlled vocabulary is a measurement instrument: what it does not name, the log cannot see). The latter yields a concrete methodological rule for this class of pipelines: vocabulary induction should be required to cover a standard set of operational categories (transport, waiting, rework, inspection) in every factory, precisely so that their absence is a measured zero rather than a blind spot.
+
+## What the Logs Cannot (Yet) Answer
+
+Being explicit about non-capabilities is part of the value assessment. (i) *Throughput and yield*: events carry no product identifiers or counts, so pieces per hour and first-pass yield are out of reach without object-centric extensions. (ii) *Calendar-time utilization*: timestamps live on a synthetic per-worker axis; shift patterns, breaks between recordings, and true machine utilization are not represented. (iii) *Cross-worker flows*: handoffs are visible as events (e.g., *hand part to coworker for inspection*) but material is not tracked across workers, so factory-level flow analysis stops at the worker boundary. (iv) *Waiting*: the extraction prompt filters non-operational footage, which also removes most waiting; waiting-as-waste is therefore systematically under-measured. Each limitation maps to a concrete pipeline extension (object references, wall-clock anchoring, cross-camera correlation, an explicit waiting category), which we consider the main value of having run the assessment.
+
+## Findings
+
+- **F1 (Q1).** The logs pass validity preconditions in the dominant length regime (100% vocabulary conformance, about 95% median coverage, audited precision 0.86 with zero contradictions); the multi-hour truncation failure is isolated and excluded.
+- **F2 (A1).** The logs quantify where manual work time goes, revealing a sevenfold spread in non-value-adding share across factories (3.7% to 25.8%) and a 10.8% rework share in factory 003 that no qualitative report surfaced.
+- **F3 (A2).** Combining time shares with interruption frequency separates presentation problems (001: frequent 15-second interruptions, low total loss) from logistics problems (006: 14 interruptions/hour and one quarter of time lost), leading to different interventions.
+- **F4 (A3, A4).** Discovery is useful at phase level (precision up to 0.59) while activity level supports drill-down; shared vocabularies enable worker benchmarking that localizes 24 to 30-point efficiency spreads on identical tasks.
+- **F5 (Q3).** Triangulation against the pipeline's own qualitative reports shows the logs confirm, refine, and extend narrative findings, and it exposes the controlled vocabulary as a measurement instrument whose gaps (a missing transport label) become measurable blind spots.
 
 ## Threats to Validity
 
-**Construct validity.** L3 and L4 evaluate the log against the *transcript*, not against the video; errors of the vision stage (missed actions, hallucinated details, mis-scaled timestamps on long footage) are invisible to these levels and would propagate silently. The transcription prompt's uncertainty-marking requirement mitigates but does not eliminate this. A video-grounded audit (re-watching sampled intervals and judging both transcript and events) is the necessary next step and is planned as future work; the released per-video provenance (`source_file`, relative timestamps) makes such an audit directly executable.
-
-**Internal validity.** The semantic audit was performed by a single author rather than by independent annotators, without inter-rater agreement; the samples (42+42) yield wide confidence intervals and are stratified by factory but not by video length, so the long-video regime is underrepresented in the precision sample. Boundary alignment uses a ±5 s tolerance; results are qualitatively stable under ±2 s but have not been reported per tolerance level.
-
-**External validity.** Six factories from one corpus, all in labor-intensive discrete manufacturing, were processed; generalization to other domains (logistics, healthcare, construction) and to other foundation models is untested. The pipeline's behavior is prompt- and model-version-dependent; all prompts and model identifiers are released, but foundation-model APIs evolve, which limits exact reproducibility of the *generation* (the *assessment* of the released artifacts is fully reproducible from the repository).
-
-**Conclusion validity.** Token-based replay was used for fitness/precision (alignment-based measures were computationally impractical at the activity level given trace uniqueness); absolute precision values should be compared across abstraction levels and factories, not across papers. The video-as-case notion treats each clip as an execution window, which fragments worker sessions; worker-as-case aggregation would change variant statistics.
+*Construct:* the category mapping (112 labels to 7 categories) embeds judgment calls (e.g., whether mold coating is value-adding); the mapping is released, and the headline findings (003 rework, 006 handling load, benchmarking spreads) are robust to the contestable assignments because they rest on unambiguous labels. Time composition measures *event-covered* time; the excluded waiting and the truncated recordings bias non-VA shares downward, so the reported losses are lower bounds. *Internal:* validity numbers rest on a single-author audit of limited size (42+42), and the transcript, not the video, is the reference for both fidelity and, transitively, all downstream analyses; a video-grounded audit remains necessary before operational decisions. *External:* six factories of one corpus, discrete manufacturing only; the analysis classes transfer, the numbers do not. *Conclusion:* benchmarking compares observed windows of different lengths per worker; workers below 30 minutes of footage were excluded, and spreads should be read as hypotheses for targeted follow-up, not verdicts on individuals; this is also an ethical requirement, since the same analyses could be misused for individual performance rating.
 
 ## Reproducibility
 
-All metrics in this section are computed by scripts operating solely on the released artifacts (per-video logs, transcripts, factory reports); the assessment code, the audit sample lists with verdicts, and fixed seeds are provided alongside the dataset. Re-running the assessment requires no access to the source videos or to any model API.
+All tables derive from the released per-video logs, transcripts, and factory reports via the published scripts (`value_analysis.py` for A1, A2, A4 and the composition/fragmentation tables; `pm_utility.py` for A3; `assess.py` for Q1), with fixed seeds for all sampling. The category mapping is versioned alongside the code.
