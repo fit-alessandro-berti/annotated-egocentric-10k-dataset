@@ -15,6 +15,25 @@ Video-to-log construction already includes language-model-based methods. Vid2log
 
 We study a five-stage pipeline: describe each recording, summarize each worker's recordings, derive shared factory labels, extract labeled event intervals, and combine the events into logs. The timestamped descriptions of visible actions are called generated transcripts. Vocabulary induction means deriving shared activity and process label lists from the recorded workers in each factory. These lists guide event extraction from the generated transcripts. The application covers six factories, 59 worker identifiers, and 322 recordings. The resulting 10{,}698 events are inferred operational episodes. They do not provide a complete census of production cycles or manufactured items.
 
+\begin{figure*}[!t]\begin{adjustwidth}{-\extralength}{0cm}\centering
+\begin{tikzpicture}[node distance=9mm and 10mm,box/.style={draw,rounded corners,align=center,font=\small,text width=28mm,minimum height=11mm},arr/.style={-{Stealth[length=2mm]},thick}]
+\node[box] (v) {Video};
+\node[box,right=of v] (t) {S1: generated transcript};
+\node[box,right=of t] (w) {S2: worker summary};
+\node[box,below=of w] (f) {S3: factory report and labels};
+\node[box,below=of t] (e) {S4: interval events};
+\node[box,below=of e] (m) {S5: merged logs};
+\node[box,left=of m] (a) {Analysis and interpretation};
+\draw[arr] (v)--(t);\draw[arr] (t)--(w);\draw[arr] (w)--(f);
+\draw[arr] (t)--(e);\draw[arr] (f)--(e);
+\draw[arr] (e)--(m);\draw[arr] (m)--(a);
+\draw[arr,dashed] (f.south) |- ([yshift=-6mm]a.south) -- (a.south);
+\end{tikzpicture}
+\caption{From factory videos to process analysis. The paper explains how we build event logs, presents the data, assesses the logs, and discusses what the results mean. The dashed arrow shows how factory labels guide the analysis categories.}
+\label{fig:dependency}\end{adjustwidth}\end{figure*}
+
+Figure~\ref{fig:dependency} outlines the path from recordings to analysis that guides the paper. After reviewing related work in Section~\ref{sec:relatedWork}, we define the events and explain their construction in Sections~\ref{sec:problem} and~\ref{sec:pipeline}. Section~\ref{sec:resource} presents the released data. Sections~\ref{sec:methods} and~\ref{sec:results} describe the assessment and report the analyses and factory cases. Sections~\ref{sec:measurement} and~\ref{sec:discussion} explain how the construction choices affect the findings and discuss the remaining limits.
+
 The paper makes three contributions:
 \begin{itemize}
 \item \textbf{A construction design.} We specify how descriptive narration, aggregation across workers, factory vocabulary induction, and vocabulary-constrained extraction produce interval events. The foundation-model parameters remain fixed; the representation adapts to the available factory corpus. Formal definitions and implementation checks make the event and case choices explicit.
@@ -24,6 +43,8 @@ The paper makes three contributions:
 
 The assessment combines checks of the released records, archived author judgments against generated transcripts, and descriptive process analyses. Appendix~\ref{supp-app:extension} of the Additional Material summarizes the evidence supporting each type of conclusion.
 
+% Start the research-question table on the page after the overview figure.
+\clearpage
 \begin{table*}[!t]\begin{adjustwidth}{-\extralength}{0cm}
 \caption{Research questions, evidence, and limits.}
 \label{tab:rq}\footnotesize
@@ -37,3 +58,5 @@ Question and section & Supporting artifacts & Finding & Main limit \\\midrule
 \end{adjustwidth}\end{table*}
 
 Four research questions organize the paper. \textbf{RQ1:} How are the inferred logs constructed, and which structural properties do the released records satisfy? \textbf{RQ2:} How well do event timing and meaning agree with the generated transcripts? \textbf{RQ3:} Which descriptive analyses do the logs support, and what limits their operational interpretation? \textbf{RQ4:} What general measurement lessons follow from the representation, temporal rules, and shared evidence? Table~\ref{tab:rq} links each question to its evidence.
+
+\FloatBarrier

@@ -1,23 +1,6 @@
 \section{Pipeline and Design Rationale}
 \label{sec:pipeline}
-\begin{figure*}[!t]\begin{adjustwidth}{-\extralength}{0cm}\centering
-\begin{tikzpicture}[node distance=9mm and 10mm,box/.style={draw,rounded corners,align=center,font=\small,text width=28mm,minimum height=11mm},arr/.style={-{Stealth[length=2mm]},thick}]
-\node[box] (v) {Video};
-\node[box,right=of v] (t) {S1: generated transcript};
-\node[box,right=of t] (w) {S2: worker summary};
-\node[box,below=of w] (f) {S3: report, vocabularies};
-\node[box,below=of t] (e) {S4: interval events};
-\node[box,below=of e] (m) {S5: merged logs};
-\node[box,left=of m] (a) {Analysis + category map};
-\draw[arr] (v)--(t);\draw[arr] (t)--(w);\draw[arr] (w)--(f);
-\draw[arr] (t)--(e);\draw[arr] (f)--(e);
-\draw[arr] (e)--(m);\draw[arr] (m)--(a);
-\draw[arr,dashed] (f.south) |- ([yshift=-6mm]a.south) -- (a.south);
-\end{tikzpicture}
-\caption{Evidence dependencies in the implemented pipeline. S1 to S3 use Gemini requests; S4 uses a text-only OpenAI request. The analysis map is an author-defined interpretation. An error in the generated transcript can affect both the narrative report and the extracted log.}
-\label{fig:dependency}\end{adjustwidth}\end{figure*}
-
-The released scripts implement five stages. S1 describes the visible actions in each video as a generated transcript. S2 summarizes each worker's generated transcripts. S3 combines the worker summaries into a factory report and shared label lists. S4 extracts events from each original generated transcript using those lists and the compact worker entry from the S3 report. S5 merges the resulting CSVs. Figure~\ref{fig:dependency} shows these dependencies. Reports and logs share evidence, so their agreement is not independent validation.
+The released scripts implement five stages. S1 describes the visible actions in each video as a generated transcript. S2 summarizes each worker's generated transcripts. S3 combines the worker summaries into a factory report and shared label lists. S4 extracts events from each original generated transcript using those lists and the compact worker entry from the S3 report. S5 merges the resulting CSVs. Figure~\ref{fig:dependency} in the Introduction gives an overview of these stages. Reports and logs share evidence, so their agreement is not independent validation.
 
 Adaptation takes place in the context and vocabulary, while the foundation-model parameters remain fixed. Each available factory corpus contributes to its own label lists through S2 and S3, and S4 then uses those lists to label recordings from that corpus. The six-factory assessment therefore applies the same construction procedure to six separately induced representations. It is a retrospective use of the available material, not an evaluation of a fixed vocabulary on a previously unseen factory. Prompts also supply analyst choices about operational relevance and granularity.
 
