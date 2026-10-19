@@ -1,0 +1,88 @@
+factory_001 {'cases': 97, 'activities': 125, 'variants': 97, 'var_ratio': 1.0, 'trace_len_med': 19.0, 'trace_len_mean': 23.6, 'dfg_edges': 594, 'dfg_density': 0.038, 'fitness': 0.9801, 'precision': 0.0691}
+factory_002 {'cases': 54, 'activities': 67, 'variants': 53, 'var_ratio': 0.981, 'trace_len_med': 20.0, 'trace_len_mean': 28.5, 'dfg_edges': 239, 'dfg_density': 0.0532, 'fitness': 0.991, 'precision': 0.0603}
+factory_003 {'cases': 72, 'activities': 52, 'variants': 70, 'var_ratio': 0.972, 'trace_len_med': 21.5, 'trace_len_mean': 34.0, 'dfg_edges': 305, 'dfg_density': 0.1128, 'fitness': 0.9874, 'precision': 0.0906}
+factory_004 {'cases': 51, 'activities': 65, 'variants': 51, 'var_ratio': 1.0, 'trace_len_med': 27.0, 'trace_len_mean': 37.1, 'dfg_edges': 336, 'dfg_density': 0.0795, 'fitness': 0.9823, 'precision': 0.0666}
+factory_005 {'cases': 22, 'activities': 97, 'variants': 22, 'var_ratio': 1.0, 'trace_len_med': 41.0, 'trace_len_mean': 50.1, 'dfg_edges': 241, 'dfg_density': 0.0256, 'fitness': 0.9544, 'precision': 0.2679}
+factory_006 {'cases': 26, 'activities': 59, 'variants': 26, 'var_ratio': 1.0, 'trace_len_med': 45.0, 'trace_len_mean': 54.8, 'dfg_edges': 272, 'dfg_density': 0.0781, 'fitness': 0.972, 'precision': 0.0832}
+{
+ "factory_001": {
+  "cases": 97,
+  "activities": 125,
+  "variants": 97,
+  "var_ratio": 1.0,
+  "trace_len_med": 19.0,
+  "trace_len_mean": 23.6,
+  "dfg_edges": 594,
+  "dfg_density": 0.038,
+  "fitness": 0.9801,
+  "precision": 0.0691
+ },
+ "factory_002": {
+  "cases": 54,
+  "activities": 67,
+  "variants": 53,
+  "var_ratio": 0.981,
+  "trace_len_med": 20.0,
+  "trace_len_mean": 28.5,
+  "dfg_edges": 239,
+  "dfg_density": 0.0532,
+  "fitness": 0.991,
+  "precision": 0.0603
+ },
+ "factory_003": {
+  "cases": 72,
+  "activities": 52,
+  "variants": 70,
+  "var_ratio": 0.972,
+  "trace_len_med": 21.5,
+  "trace_len_mean": 34.0,
+  "dfg_edges": 305,
+  "dfg_density": 0.1128,
+  "fitness": 0.9874,
+  "precision": 0.0906
+ },
+ "factory_004": {
+  "cases": 51,
+  "activities": 65,
+  "variants": 51,
+  "var_ratio": 1.0,
+  "trace_len_med": 27.0,
+  "trace_len_mean": 37.1,
+  "dfg_edges": 336,
+  "dfg_density": 0.0795,
+  "fitness": 0.9823,
+  "precision": 0.0666
+ },
+ "factory_005": {
+  "cases": 22,
+  "activities": 97,
+  "variants": 22,
+  "var_ratio": 1.0,
+  "trace_len_med": 41.0,
+  "trace_len_mean": 50.1,
+  "dfg_edges": 241,
+  "dfg_density": 0.0256,
+  "fitness": 0.9544,
+  "precision": 0.2679
+ },
+ "factory_006": {
+  "cases": 26,
+  "activities": 59,
+  "variants": 26,
+  "var_ratio": 1.0,
+  "trace_len_med": 45.0,
+  "trace_len_mean": 54.8,
+  "dfg_edges": 272,
+  "dfg_density": 0.0781,
+  "fitness": 0.972,
+  "precision": 0.0832
+ }
+}
+
+--- self-loop share of DF pairs (video cases) ---
+factory_001 df_pairs=2191 self_loops=369 (16.8%)
+factory_002 df_pairs=1487 self_loops=195 (13.1%)
+factory_003 df_pairs=2377 self_loops=239 (10.1%)
+factory_004 df_pairs=1842 self_loops=186 (10.1%)
+factory_005 df_pairs=1081 self_loops=46 (4.3%)
+factory_006 df_pairs=1398 self_loops=78 (5.6%)

@@ -1,0 +1,78 @@
+\section{Journal Extension and Evidence Record}
+\label{app:extension}
+Table~\ref{tab:extension} compares the supplied short manuscript with this revision. It documents the extension of that manuscript; it does not assert a publication status for a workshop version. No new extraction experiment or audit has been added. The complete task-to-deliverable and claim-to-evidence registers are in \artifact{paper/revision/}.
+
+\begin{table}[htbp]
+\caption{Workshop-to-journal revision map relative to the supplied short manuscript.}
+\label{tab:extension}\footnotesize
+\begin{tabularx}{\linewidth}{@{}LLL@{}}\toprule
+Existing material & Journal addition & Type of contribution \\\midrule
+Five-stage overview & Formal event model, implementation algorithm, stage failures, guarantee table & Method specification \\
+Brief time description & Synthetic-time equation, case comparison, timestamp and inclusion manifests & Measurement analysis and reporting correction \\
+Category percentages & Activity/context/category distinction and exact transport example & Methodological finding from existing artifacts \\
+Coverage caveats & Missing-time proposition with explicit assumptions & New analytical reasoning \\
+Short foundry illustration & Transcript timeline, reconstructed event, provenance chain & Evidence-traceability example \\
+Condensed audit & Rubric, denominators, ambiguity examples, all judgments & Fuller reporting of existing assessment \\
+Numerical results & Portable recalculation, manifests, corrected terminology, six cases & Reproducibility and interpretation \\
+Brief limitations & Observability taxonomy, uncertainty path, operational hypotheses, responsible use & Methodological synthesis \\
+\bottomrule\end{tabularx}
+\end{table}
+
+\section{Reproducibility and Configuration}
+\label{app:repro}
+The offline command below reads the five frozen artifact directories and the original category map. It writes derived CSVs, a JSON summary, and typeset appendices to a separate output directory. It requires Python 3 and no model credentials or third-party packages.
+\begin{lstlisting}
+python3 paper/reproduce.py
+# Optional explicit locations:
+python3 paper/reproduce.py --root /path/to/repository \
+  --output-dir /path/to/results
+\end{lstlisting}
+The output includes \artifact{artifact_manifest.csv} (path, size, SHA-256), \artifact{inclusion_manifest.csv} (all 322 decisions), \artifact{transcript_intervals.csv}, \artifact{structural_metrics.csv}, \artifact{factory_metrics.csv}, \artifact{worker_metrics.csv}, \artifact{worker_comparisons.csv}, \artifact{factory003_transport.csv}, and \artifact{audit_judgments.csv}. The summary records script and prompt hashes. Merged-log consistency is checked separately by reconstructing S5 output in memory and comparing it to every released merged file. Source artifacts remain unchanged.
+
+The original pandas-based assessment and value-analysis scripts accept portable output paths. The original activity-level discovery script retains its miner, noise threshold 0.2, and video case rule. Running it requires the dependencies documented in \artifact{paper/requirements-assessment.txt}. The environment used for this revision is recorded in \artifact{paper/revision/assessment_environment.txt}; it is not claimed to be the original environment. Table~\ref{tab:repro} maps paper results to their calculations.
+
+\begin{table}[htbp]
+\caption{Reproduction map. Paths for the original scripts are relative to \artifact{paper/docs/assessment_materials/}.}
+\label{tab:repro}\footnotesize
+\begin{tabularx}{\linewidth}{@{}LLL@{}}\toprule
+Paper result & Calculation and frozen input & Saved evidence \\\midrule
+Tables~\ref{tab:inventory}, \ref{tab:anomalies}, \ref{tab:corpus} & \texttt{reproduce.py}; source texts and per-video logs; \texttt{assess.py} for original diagnostics & Artifact, inclusion, interval, and structural manifests \\
+Tables~\ref{tab:value}, \ref{tab:bench} and factory cases & \texttt{reproduce.py} and \texttt{value\_analysis.py}; original process map and retained rows & Factory metrics, worker metrics, comparisons, composition totals \\
+Figure~\ref{fig:composition} & \texttt{reproduce.py}; exact duration totals and original map & Generated TikZ bars and category percentages \\
+Figure~\ref{fig:category} and Section~\ref{sec:zeros} & Activity-label filter over factory 003 CSVs & 101 rows in \artifact{factory003_transport.csv} \\
+Table~\ref{tab:audit}, Appendix~\ref{app:audit} & Mechanical transcription of \texttt{audit\_verdicts.md} & 84 judgments in CSV and LaTeX \\
+Section~\ref{sec:discovery} & Original \texttt{pm\_utility.py}, all per-video rows & \artifact{activity_discovery.json} and execution output \\
+Equation~\ref{eq:missing} & Algebra under explicitly idealized assumptions & Proof in Section~\ref{sec:missingtime}; no empirical bound \\
+\bottomrule\end{tabularx}
+\end{table}
+
+Regeneration is a separate workflow using scripts 01 to 05 in order. Paths and model identifiers are command-line options in the extraction scripts. S1 requires source video archives and a Gemini credential; S2 and S3 use saved text and Gemini; S4 uses saved text, vocabularies, and an OpenAI credential; S5 is local. Their default model strings are \texttt{gemini-3.1-pro-preview} and \texttt{gpt-5.4}. S4 configures high reasoning effort and a strict JSON response schema; S1 to S3 do not explicitly configure temperature, a seed, or generation-token limits. Transient HTTP status codes 408, 429, 500, 502, 503, and 504 trigger retries; the scripts configure up to five attempts with increasing delay. S1 also has an outer per-video retry loop. These are code settings, not verified execution totals.
+
+The archive does not provide per-request model responses, usage records, exact execution dates, token counts, costs, runtimes, historical dependency versions, or a resolved source revision. Existing outputs may be reused without a content-validity check. Consequently, changing a prompt while retaining existing outputs does not prove that those outputs were generated with the changed prompt. Frozen artifacts, hashes, and the remaining historical queries are recorded so that this limitation is explicit.
+
+\section{Activity-Level Discovery Recalculation}
+\label{app:discovery}
+\input{generated/discovery_table.tex}
+The original settings are retained. The saved result records the current PM4Py version. No archived process-level computation or result was found, so no process-level fitness or precision value is reported. Discovery-model images are omitted because the original models were not preserved. The repeated calculation establishes the shown model-log metrics under the recorded current environment, not a recovery of the original runtime.
+
+\section{Complete Operational-Category Map}
+\label{app:mapping}
+This table reproduces the original map with factory scope made explicit. VA denotes production/completion work under the authors' convention, MH material handling, TR transport, QI inspection, CM cleaning/maintenance, RW rework, and DOC documentation. The sole unmapped label is unused in the archived events.
+\input{generated/mapping_appendix.tex}
+
+\section{Complete Archived Audit Judgments}
+\label{app:audit}
+The following tables preserve all 84 verdicts and source identifiers. The shorthand \texttt{001/w003/v00009}, for example, identifies factory 001, worker 003, recording 00009. Event verdicts are C (fully supported), P (partially supported), and X (contradicted). Entry verdicts are COV (overlap), EXC (uncovered and judged non-operational), and MISS (uncovered and judged operational). The archive's unsupported truncation explanation is flagged in entry 10. Punctuation is normalized for typesetting; judgments are unchanged.
+\input{generated/audit_appendix.tex}
+
+\section{Full Extraction Prompts}
+\label{app:prompts}
+These are the four released prompt templates, with punctuation normalized for display. The source files and their hashes remain in the resource. They specify requested model behavior, not guaranteed output properties. Placeholder braces are filled by the scripts; additional context is constructed as described in Table~\ref{tab:stages}.
+\subsection{S1: Video transcription}
+\lstinputlisting[basicstyle=\scriptsize\ttfamily]{generated/annotation_prompt.txt}
+\subsection{S2: Worker summary}
+\lstinputlisting[basicstyle=\scriptsize\ttfamily]{generated/worker_process_summary_prompt.txt}
+\subsection{S3: Factory report and vocabularies}
+\lstinputlisting[basicstyle=\scriptsize\ttfamily]{generated/factory_process_mining_prompt.txt}
+\subsection{S4: Event extraction}
+\lstinputlisting[basicstyle=\scriptsize\ttfamily]{generated/annotation_to_event_log_prompt.txt}

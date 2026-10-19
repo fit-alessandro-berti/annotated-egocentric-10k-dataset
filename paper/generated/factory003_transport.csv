@@ -1,0 +1,102 @@
+factory,worker,video,row,start,end,duration,activity,process,category
+factory_003,worker_001,factory003_worker001_00001,2,232,240,8,transport loaded tray to storage rack,Surface finishing and polishing,VA
+factory_003,worker_001,factory003_worker001_00001,9,666,671,5,transport loaded tray to storage rack,Component sub-assembly,VA
+factory_003,worker_001,factory003_worker001_00001,11,722,725,3,transport loaded tray to storage rack,Component sub-assembly,VA
+factory_003,worker_001,factory003_worker001_00001,13,797,799,2,transport loaded tray to storage rack,Component sub-assembly,VA
+factory_003,worker_001,factory003_worker001_00001,15,858,860,2,transport loaded tray to storage rack,Component sub-assembly,VA
+factory_003,worker_001,factory003_worker001_00001,17,908,913,5,transport loaded tray to storage rack,Component sub-assembly,VA
+factory_003,worker_001,factory003_worker001_00001,19,954,959,5,transport loaded tray to storage rack,Component sub-assembly,VA
+factory_003,worker_001,factory003_worker001_00001,21,984,992,8,transport loaded tray to storage rack,Component sub-assembly,VA
+factory_003,worker_001,factory003_worker001_00001,23,1067,1069,2,transport loaded tray to storage rack,Surface finishing and polishing,VA
+factory_003,worker_001,factory003_worker001_00001,25,1136,1138,2,transport loaded tray to storage rack,Surface finishing and polishing,VA
+factory_003,worker_001,factory003_worker001_00001,27,1149,1151,2,transport loaded tray to storage rack,Surface finishing and polishing,VA
+factory_003,worker_001,factory003_worker001_00002,6,468,480,12,transport loaded tray to storage rack,Defect patching,RW
+factory_003,worker_001,factory003_worker001_00002,8,495,501,6,transport loaded tray to storage rack,Defect patching,RW
+factory_003,worker_001,factory003_worker001_00002,10,530,545,15,transport loaded tray to storage rack,Defect patching,RW
+factory_003,worker_001,factory003_worker001_00002,12,552,573,21,transport loaded tray to storage rack,Defect patching,RW
+factory_003,worker_001,factory003_worker001_00002,14,590,602,12,transport loaded tray to storage rack,Defect patching,RW
+factory_003,worker_001,factory003_worker001_00002,16,625,652,27,transport loaded tray to storage rack,Defect patching,RW
+factory_003,worker_001,factory003_worker001_00004,12,680,709,29,transport loaded tray to storage rack,Surface finishing and polishing,VA
+factory_003,worker_001,factory003_worker001_00004,21,1129,1173,44,transport loaded tray to storage rack,Surface finishing and polishing,VA
+factory_003,worker_001,factory003_worker001_00005,2,126,142,16,transport loaded tray to storage rack,Surface finishing and polishing,VA
+factory_003,worker_002,factory003_worker002_00000,7,1105,1110,5,transport loaded tray to storage rack,Wax pattern assembly,VA
+factory_003,worker_002,factory003_worker002_00000,9,1139,1147,8,transport loaded tray to storage rack,Wax pattern assembly,VA
+factory_003,worker_002,factory003_worker002_00000,11,1187,1200,13,transport loaded tray to storage rack,Wax pattern assembly,VA
+factory_003,worker_002,factory003_worker002_00003,12,239,249,10,transport loaded tray to storage rack,Wax pattern assembly,VA
+factory_003,worker_002,factory003_worker002_00003,14,308,330,22,transport loaded tray to storage rack,Wax pattern assembly,VA
+factory_003,worker_002,factory003_worker002_00003,18,440,446,6,transport loaded tray to storage rack,Wax pattern assembly,VA
+factory_003,worker_002,factory003_worker002_00003,23,779,788,9,transport loaded tray to storage rack,Surface finishing and polishing,VA
+factory_003,worker_003,factory003_worker003_00000,2,40,44,4,transport loaded tray to storage rack,Surface finishing and polishing,VA
+factory_003,worker_003,factory003_worker003_00000,4,206,209,3,transport loaded tray to storage rack,Surface finishing and polishing,VA
+factory_003,worker_003,factory003_worker003_00000,6,231,235,4,transport loaded tray to storage rack,Surface finishing and polishing,VA
+factory_003,worker_003,factory003_worker003_00000,9,300,305,5,transport loaded tray to storage rack,Surface finishing and polishing,VA
+factory_003,worker_003,factory003_worker003_00000,11,344,346,2,transport loaded tray to storage rack,Surface finishing and polishing,VA
+factory_003,worker_003,factory003_worker003_00000,13,484,488,4,transport loaded tray to storage rack,Surface finishing and polishing,VA
+factory_003,worker_003,factory003_worker003_00000,15,526,532,6,transport loaded tray to storage rack,Surface finishing and polishing,VA
+factory_003,worker_003,factory003_worker003_00000,17,617,620,3,transport loaded tray to storage rack,Surface finishing and polishing,VA
+factory_003,worker_003,factory003_worker003_00000,19,626,629,3,transport loaded tray to storage rack,Surface finishing and polishing,VA
+factory_003,worker_003,factory003_worker003_00000,21,633,636,3,transport loaded tray to storage rack,Surface finishing and polishing,VA
+factory_003,worker_003,factory003_worker003_00000,23,802,804,2,transport loaded tray to storage rack,Surface finishing and polishing,VA
+factory_003,worker_003,factory003_worker003_00000,24,806,809,3,transport loaded tray to storage rack,Surface finishing and polishing,VA
+factory_003,worker_003,factory003_worker003_00000,26,1038,1041,3,transport loaded tray to storage rack,Surface finishing and polishing,VA
+factory_003,worker_003,factory003_worker003_00000,28,1158,1160,2,transport loaded tray to storage rack,Surface finishing and polishing,VA
+factory_003,worker_003,factory003_worker003_00001,4,550,555,5,transport loaded tray to storage rack,Spot painting,VA
+factory_003,worker_003,factory003_worker003_00001,8,589,594,5,transport loaded tray to storage rack,Spot painting,VA
+factory_003,worker_003,factory003_worker003_00001,12,628,633,5,transport loaded tray to storage rack,Spot painting,VA
+factory_003,worker_003,factory003_worker003_00001,16,668,671,3,transport loaded tray to storage rack,Spot painting,VA
+factory_003,worker_003,factory003_worker003_00003,2,50,84,34,transport loaded tray to storage rack,Defect patching,RW
+factory_003,worker_003,factory003_worker003_00003,5,324,336,12,transport loaded tray to storage rack,Spot painting,VA
+factory_003,worker_003,factory003_worker003_00003,7,416,431,15,transport loaded tray to storage rack,Defect patching,RW
+factory_003,worker_003,factory003_worker003_00003,9,563,568,5,transport loaded tray to storage rack,Defect patching,RW
+factory_003,worker_003,factory003_worker003_00003,11,670,678,8,transport loaded tray to storage rack,Defect patching,RW
+factory_003,worker_003,factory003_worker003_00003,13,808,819,11,transport loaded tray to storage rack,Defect patching,RW
+factory_003,worker_003,factory003_worker003_00003,15,866,880,14,transport loaded tray to storage rack,Defect patching,RW
+factory_003,worker_003,factory003_worker003_00003,17,953,959,6,transport loaded tray to storage rack,Defect patching,RW
+factory_003,worker_003,factory003_worker003_00003,19,1133,1140,7,transport loaded tray to storage rack,Defect patching,RW
+factory_003,worker_003,factory003_worker003_00004,12,1020,1060,40,transport loaded tray to storage rack,Inventory verification,DOC
+factory_003,worker_003,factory003_worker003_00006,2,20,36,16,transport loaded tray to storage rack,Spot painting,VA
+factory_003,worker_003,factory003_worker003_00006,5,486,500,14,transport loaded tray to storage rack,Surface finishing and polishing,VA
+factory_003,worker_003,factory003_worker003_00009,4,330,340,10,transport loaded tray to storage rack,Inventory verification,DOC
+factory_003,worker_003,factory003_worker003_00009,7,421,440,19,transport loaded tray to storage rack,Inventory verification,DOC
+factory_003,worker_003,factory003_worker003_00009,9,522,533,11,transport loaded tray to storage rack,Inventory verification,DOC
+factory_003,worker_003,factory003_worker003_00009,11,583,596,13,transport loaded tray to storage rack,Inventory verification,DOC
+factory_003,worker_003,factory003_worker003_00009,14,697,699,2,transport loaded tray to storage rack,Inventory verification,DOC
+factory_003,worker_003,factory003_worker003_00009,16,750,752,2,transport loaded tray to storage rack,Inventory verification,DOC
+factory_003,worker_003,factory003_worker003_00009,18,971,973,2,transport loaded tray to storage rack,Inventory verification,DOC
+factory_003,worker_003,factory003_worker003_00009,20,1037,1039,2,transport loaded tray to storage rack,Inventory verification,DOC
+factory_003,worker_003,factory003_worker003_00009,22,1096,1102,6,transport loaded tray to storage rack,Inventory verification,DOC
+factory_003,worker_004,factory003_worker004_00003,28,794,825,31,transport loaded tray to storage rack,Inventory verification,DOC
+factory_003,worker_005,factory003_worker005_00003,5,935,1020,85,transport bulk material via wheelbarrow,Metal casting separation,VA
+factory_003,worker_006,factory003_worker006_00000,7,563,568,5,transport loaded tray to storage rack,Wax pattern assembly,VA
+factory_003,worker_006,factory003_worker006_00000,10,658,675,17,transport loaded tray to storage rack,Wax pattern assembly,VA
+factory_003,worker_006,factory003_worker006_00000,12,711,729,18,transport loaded tray to storage rack,Wax pattern assembly,VA
+factory_003,worker_006,factory003_worker006_00000,16,797,805,8,transport loaded tray to storage rack,Wax pattern assembly,VA
+factory_003,worker_006,factory003_worker006_00000,19,852,860,8,transport loaded tray to storage rack,Wax pattern assembly,VA
+factory_003,worker_006,factory003_worker006_00000,22,898,905,7,transport loaded tray to storage rack,Wax pattern assembly,VA
+factory_003,worker_006,factory003_worker006_00000,25,942,946,4,transport loaded tray to storage rack,Wax pattern assembly,VA
+factory_003,worker_006,factory003_worker006_00000,28,990,994,4,transport loaded tray to storage rack,Wax pattern assembly,VA
+factory_003,worker_006,factory003_worker006_00000,35,1075,1080,5,transport loaded tray to storage rack,Wax pattern assembly,VA
+factory_003,worker_006,factory003_worker006_00000,41,1146,1150,4,transport loaded tray to storage rack,Wax pattern assembly,VA
+factory_003,worker_006,factory003_worker006_00000,43,1166,1169,3,transport loaded tray to storage rack,Wax pattern assembly,VA
+factory_003,worker_006,factory003_worker006_00004,2,36,81,45,transport loaded tray to storage rack,Wax pattern assembly,VA
+factory_003,worker_006,factory003_worker006_00004,5,198,212,14,transport loaded tray to storage rack,Wax pattern assembly,VA
+factory_003,worker_006,factory003_worker006_00004,15,780,793,13,transport loaded tray to storage rack,Wax pattern assembly,VA
+factory_003,worker_006,factory003_worker006_00008,12,308,315,7,transport loaded tray to storage rack,Surface finishing and polishing,VA
+factory_003,worker_006,factory003_worker006_00009,15,454,464,10,transport loaded tray to storage rack,Wax pattern assembly,VA
+factory_003,worker_007,factory003_worker007_00001,2,20,29,9,transport loaded tray to storage rack,Wax pattern assembly,VA
+factory_003,worker_007,factory003_worker007_00001,8,577,592,15,transport loaded tray to storage rack,Wax pattern assembly,VA
+factory_003,worker_007,factory003_worker007_00001,16,1170,1201,31,transport loaded tray to storage rack,Wax pattern assembly,VA
+factory_003,worker_007,factory003_worker007_00005,4,556,580,24,transport loaded tray to storage rack,Wax pattern assembly,VA
+factory_003,worker_007,factory003_worker007_00005,18,1054,1104,50,transport loaded tray to storage rack,Wax pattern assembly,VA
+factory_003,worker_007,factory003_worker007_00005,21,1165,1186,21,transport loaded tray to storage rack,Wax pattern assembly,VA
+factory_003,worker_008,factory003_worker008_00001,38,800,826,26,transport loaded tray to storage rack,Surface finishing and polishing,VA
+factory_003,worker_008,factory003_worker008_00001,45,903,923,20,transport loaded tray to storage rack,Surface finishing and polishing,VA
+factory_003,worker_008,factory003_worker008_00001,65,1157,1170,13,transport loaded tray to storage rack,Surface finishing and polishing,VA
+factory_003,worker_008,factory003_worker008_00004,4,498,524,26,transport loaded tray to storage rack,Component sub-assembly,VA
+factory_003,worker_009,factory003_worker009_00000,21,702,709,7,transport loaded tray to storage rack,Injection molding,VA
+factory_003,worker_009,factory003_worker009_00001,5,118,134,16,transport loaded tray to storage rack,Injection molding,VA
+factory_003,worker_009,factory003_worker009_00001,9,218,240,22,transport loaded tray to storage rack,Injection molding,VA
+factory_003,worker_009,factory003_worker009_00001,12,266,290,24,transport loaded tray to storage rack,Injection molding,VA
+factory_003,worker_009,factory003_worker009_00001,19,496,504,8,transport loaded tray to storage rack,Injection molding,VA
+factory_003,worker_009,factory003_worker009_00001,34,772,780,8,transport loaded tray to storage rack,Injection molding,VA
+factory_003,worker_009,factory003_worker009_00001,52,1093,1102,9,transport loaded tray to storage rack,Injection molding,VA

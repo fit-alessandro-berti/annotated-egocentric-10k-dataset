@@ -1,18 +1,24 @@
 #!/usr/bin/env python3
 """Value-oriented assessment: what can an analyst learn from the video-derived logs?"""
 import pandas as pd, numpy as np, json, re
+import argparse
+from pathlib import Path
 
-SCRATCH = "/tmp/claude-1000/-home-javert-annotated-egocentric-10k-dataset/57dc18f3-0252-4f13-887f-83e45f675ce9/scratchpad"
+parser = argparse.ArgumentParser(description=__doc__)
+parser.add_argument("--output-dir", type=Path, default=Path(__file__).resolve().parents[2] / "generated")
+args = parser.parse_args()
+SCRATCH = args.output_dir
 df = pd.read_parquet(f"{SCRATCH}/events.parquet")
 df["dur"] = df["end"] - df["start"]
 
-# exclude the 7 truncated multi-hour recordings from time statistics
+# Historical rule: exclude logs whose maximum event endpoint exceeds 3600 seconds.
+# This excludes two archived logs and does not establish source recording duration.
 span = df.groupby("video")["end"].max()
 long_videos = set(span[span > 3600].index)
 df = df[~df["video"].isin(long_videos)].copy()
 print(f"analysed videos: {df['video'].nunique()} (excluded {len(long_videos)} >1h)")
 
-# ---- category mapping of the 112 process labels ----
+# ---- category mapping keyed by distinct process strings across factories ----
 CAT = {}
 def m(cat, labels):
     for l in labels: CAT[l] = cat
@@ -71,7 +77,7 @@ unmapped = df[df["cat"].isna()]["process"].unique()
 assert len(unmapped) == 0, unmapped
 
 # ---- 1. time composition per factory ----
-print("\n=== TIME COMPOSITION (share of covered event time, %) ===")
+print("\n=== TIME COMPOSITION (share of summed event duration, %) ===")
 comp = df.pivot_table(index="factory", columns="cat", values="dur", aggfunc="sum").fillna(0)
 comp_pct = (100*comp.div(comp.sum(axis=1), axis=0)).round(1)
 print(comp_pct.to_string())
@@ -109,13 +115,13 @@ print(frag.groupby("factory").agg(workers=("worker","count"),
       med_run_min=("mean_va_run_min","median")).round(1).to_string())
 
 # ---- 3. transport & replenishment cadence (batching evidence) ----
-print("\n=== TRANSPORT/REPLENISHMENT EPISODES ===")
+print("\n=== TRANSPORT/REPLENISHMENT EVENT ROWS ===")
 for fac, g in df.groupby("factory"):
     tr = g[g["cat"].isin(["TR","MH"])]
     if not len(tr): continue
     n = len(tr); mean_d = tr["dur"].mean()
     obs_h = g["dur"].sum()/3600
-    print(f"{fac}: {n} MH/TR episodes, mean {mean_d:.0f}s, {n/obs_h:.1f} per observed hour, "
+    print(f"{fac}: {n} MH/TR event rows, mean {mean_d:.0f}s, {n/obs_h:.1f} per summed event-hour, "
           f"total {tr['dur'].sum()/3600:.2f}h ({100*tr['dur'].sum()/g['dur'].sum():.1f}%)")
 
 # ---- 4. worker benchmarking on shared processes ----
@@ -138,3 +144,5 @@ for fac, g in df.groupby("factory"):
 
 frag.to_csv(f"{SCRATCH}/fragmentation.csv", index=False)
 comp_pct.to_csv(f"{SCRATCH}/composition.csv")
+comp.to_csv(f"{SCRATCH}/composition_seconds.csv")
+pd.DataFrame(sorted(CAT.items()), columns=["process", "category"]).to_csv(f"{SCRATCH}/category_mapping.csv", index=False)

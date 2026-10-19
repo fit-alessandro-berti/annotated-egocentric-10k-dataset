@@ -9,7 +9,7 @@ endif
 
 all: $(DOCUMENTS)
 
-main.pdf: main.tex references.bib figures/egocentric10k.png $(wildcard Definitions/*)
+main.pdf: main.tex references.bib figures/egocentric10k.png $(wildcard Definitions/*) $(wildcard sections/*.tex) $(wildcard generated/*.tex) $(wildcard generated/*prompt.txt)
 	$(LATEXMK) $(LATEXFLAGS) main.tex
 
 cover_letter.pdf: cover_letter.tex

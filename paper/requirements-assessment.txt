@@ -1,0 +1,5 @@
+# Versions used for the journal recalculation, not historical extraction versions.
+pandas==3.0.4
+numpy==2.5.0
+pyarrow==26.0.0
+pm4py==2.7.23.11

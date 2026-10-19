@@ -1,0 +1,10 @@
+factory,dominant_process,workers,min_va,max_va,min_mean_run,max_mean_run
+factory_001,Manual mechanical assembly,6,89.7,97.8,1.7,6.7
+factory_001,Metal stamping,3,90.6,98.5,3.2,7.9
+factory_002,Fabric pairing,2,95.7,97.4,4.6,13.0
+factory_002,Garment bagging,2,92.4,94.6,3.8,9.1
+factory_003,Surface finishing and polishing,5,67.3,96.9,3.3,13.7
+factory_003,Wax pattern assembly,2,96.1,100.0,6.2,18.7
+factory_004,Garment ironing,2,52.8,77.1,3.5,4.1
+factory_004,Overlock seaming,4,87.8,96.5,1.5,10.3
+factory_005,manual lathe machining,2,95.0,95.8,6.9,9.4

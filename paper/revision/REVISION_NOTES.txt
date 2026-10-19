@@ -1,0 +1,131 @@
+Journal revision of Seeing the Process Through the Worker's Eyes
+19 October 2026
+
+Scope
+Implemented the 28 suggestions in the supplied review using existing
+artifacts and audit judgments. The revision presents a methods and data
+resource paper with four aligned research questions. It adds formalization,
+measurement definitions, worked examples, six factory cases, uncertainty
+analysis, a missing-time proposition, and full reproducibility appendices.
+The editable source is main.tex with sections/*.tex. The original longer
+Markdown drafts are retained with an explicit superseded notice.
+
+No new extraction calls, annotations, evaluators, training, ablations,
+datasets, or discovery configurations were used. The existing activity
+miner configuration was repeated to recover its numerical results. No
+process-level discovery or new discovered-model illustration was produced.
+The source transcripts, summaries, factory reports, per-video logs, merged
+logs, and original audit verdicts remain unchanged.
+
+Evidence and extension records
+claim_evidence.csv inventories 65 substantial numerical claims, method
+properties, and operational interpretations. Status describes the strength
+of the original claim; revision_action records its correction or removal.
+Table and appendix claims cover every cell using named generated evidence.
+requirements_completion.csv maps all 28 requested suggestions to deliverables.
+The paper contains a shorter RQ-evidence table and a workshop-to-journal
+extension table. The extension table compares the supplied short manuscript;
+it makes no unsupported assertion about prior publication status.
+
+Main corrections
+1. Removed process-level precision 0.59, fitness above 0.96, and process-segment
+   counts. No original computation or output was recovered in the repository,
+   history, assessment materials, or saved artifacts.
+2. Seven transcripts have literal endpoints over one hour. Five have much
+   shorter event endpoints, including 20:06:00 versus 00:20:06. These do not
+   prove long recordings or extraction truncation. Four additional files use
+   MM:SS, three mixed with HH:MM:SS. No timestamps were rescaled.
+3. The original value-analysis event-end filter excludes two logs, not seven.
+   The revision retains that rule and its reproduced numerical tables.
+4. Factory 003 has 101 transport events totaling 1230 seconds. Its activity labels
+   represent transport; the process-derived category map hides it. An exact
+   eight-second example shows the activity, context, and VA assignment.
+5. Defect patching already appears in the factory 003 report. Its 10.8 percent
+   share quantifies an existing description. Avoidability, defect rates, and
+   financial loss remain unknown.
+6. Time composition sums row durations. Coverage unions intervals. There are
+   35 adjacent overlapping event pairs and 6397 seconds of excess summed time.
+   The revised paper distinguishes these denominators explicitly.
+7. The reported VA run is a median of rounded worker mean run durations.
+   Runs can bridge gaps; 15 counted transitions cross clip boundaries.
+   Handling counts are event rows; eligibility uses summed duration.
+8. The audit assesses transcript consistency, not video accuracy. All 84
+   judgments are reproduced unchanged. The overlap denominator and a
+   camera-tilt COV example prevent interpreting 34/38 as action recall.
+9. Operational conclusions are hypotheses with competing explanations and
+   named evidence needs. Shared dominant process does not mean identical
+   tasks. Similar aggregate profiles cannot rule out behavioral differences.
+10. Pham and Xiao 2018 and SnapLog correct blanket novelty claims. Primary
+    checking also corrected the description of Dani et al. from text
+    extraction to LLM-generated database queries. Kecht et al. provide the
+    relevant conversation-to-event example.
+11. The original dominant-process table mixed an unfiltered factory 001 result
+    with filtered category analysis. The revised cases use the documented
+    retained set consistently: assembly 55.7 percent, stamping 18.2 percent,
+    bagging 11.3 percent in factory 001.
+12. The process vocabularies have 113 factory-specific entries and 108 distinct
+    strings; 112 factory-specific entries are used. The unused factory 005
+    process label is explicitly marked unmapped in the complete map.
+
+Calculation record
+paper/reproduce.py uses only the Python standard library. It reproduces
+structural, descriptive, temporal-format, provenance, and audit counts. It
+writes separate generated artifacts, including all 322 inclusion decisions,
+all 13462 parsed intervals, all 10698 event rows, and full file hashes. It
+also reconstructs S5 in memory and verifies every one of 65 merged files.
+
+The original assess.py, value_analysis.py, and pm_utility.py were made
+portable. Their machine-specific input/output paths were replaced by CLI
+options with repository-relative defaults. The unused always-zero activity
+utilization expression in assess.py was repaired. Numerical definitions
+used by the published tables were otherwise retained. Labeling was corrected
+from episodes/covered time to rows/summed duration. README links now use
+repository-relative paths.
+
+The original activity discovery was rerun with Inductive Miner, noise 0.2,
+video cases, and the original labels. The resulting fitness range is 0.9544
+to 0.9910; precision is 0.0603 to 0.2679. The JSON and text result are saved.
+PM4Py 2.7.23.11 was installed in an isolated temporary environment for this
+recalculation. The recorded package versions are current verification
+versions, not historical execution metadata. No original model image was
+recovered; none is newly illustrated.
+
+New method substance, not new empirical experiments
+- Event tuple, provenance, case function, and separate label concepts.
+- Guarantee taxonomy and stage-level failure specification.
+- Synthetic-time equation and effect of different case choices.
+- Exact aggregation counterexample and narrated-boundary example.
+- Observability/missingness taxonomy and evidence-dependency diagram.
+- Missing-time proposition: two-sided share bounds under explicitly stated
+  idealized assumptions. The dataset does not meet those assumptions well
+  enough to report an empirical bound.
+
+Historical author queries recorded without blocking this revision
+AQ1. Which source revision, recording inventory, and selection rationale
+     produced the archived subset? The current provider revision is known,
+     but must not be described as the extraction-time revision.
+AQ2. Can original per-video duration_sec metadata or source footage resolve
+     the timestamp discrepancies? Those metadata are not in this archive.
+     Public raw retrieval returned 401; no restricted data were downloaded.
+AQ3. Can the original audit-sampling block be recovered? The judgment file
+     states seed 42 and seven items per factory, but the cited code is absent.
+AQ4. Are per-request model identifiers, settings, execution dates, API usage,
+     costs, or runtimes preserved elsewhere? Only script defaults and the
+     prior manuscript's model-family descriptions are recoverable here.
+AQ5. Does original process-level discovery code/results exist elsewhere?
+     Its unsupported numerical result has been removed pending evidence.
+AQ6. What were the historical dependency versions? Current recalculation
+     versions are recorded separately.
+AQ7. Is there a documented provider consent procedure or a secondary-analysis
+     ethics determination? The paper reports the absence of such records
+     rather than asserting consent, approval, or exemption.
+
+These are limitations of historical evidence, not unfinished revision tasks.
+Each is disclosed, qualified, or removed from the manuscript as directed by
+the review. No questions or permission requests were sent to the user.
+
+Validation
+See verification.txt for executed data, manuscript, bibliography, build,
+source-integrity, and visual checks. Source metadata and primary-source
+verification records are stored alongside this note. The manuscript and
+cover letter were rebuilt locally; neither was submitted or sent.

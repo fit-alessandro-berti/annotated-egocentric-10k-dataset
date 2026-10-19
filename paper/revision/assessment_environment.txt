@@ -1,0 +1,7 @@
+Journal recalculation environment, 2026-10-19
+Python 3.13.5
+pandas 3.0.4
+numpy 2.5.0
+pyarrow 26.0.0
+pm4py 2.7.23.11
+Historical dependency versions: unavailable.

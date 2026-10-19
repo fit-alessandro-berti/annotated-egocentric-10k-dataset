@@ -1,0 +1,105 @@
+Annotated Egocentric-10K: derived resource card
+Revision date: 19 October 2026
+
+Purpose and ownership
+This repository supports research on inferring, assessing, and interpreting
+operational event logs from video. It contains derived model outputs from
+Build AI's Egocentric-10K, not the source video collection. The manuscript
+lists Alessandro Berti and Wil M. P. van der Aalst as authors.
+
+Composition
+The processed subset covers factory identifiers 001 to 006, 59 worker
+identifiers, and 322 recording identifiers. It includes 322 transcripts,
+59 worker summaries, six factory reports, 322 per-video CSVs containing
+10,698 events, 59 merged worker CSVs, and six merged factory CSVs. Each
+merged layer repeats the same events. There are no empty per-video logs.
+The original parser recognizes 13,304 transcript entries; recognizing
+MM:SS and mixed formats gives 13,462 entries without time rescaling.
+Factory reports embed separate activity and process lists. There are 113
+factory-specific process entries, 108 distinct strings, and 112 used
+entries. The one unused process entry has no original category assignment.
+
+Collection and selection
+The provider describes head-mounted recordings in real factories. Factory,
+worker, and recording identifiers come from the source organization. Domain
+and process descriptions are model interpretations, not verified business
+metadata. Selection rationale, sampling coverage, original source revision,
+and extraction dates are unavailable in the derived archive. Do not treat
+the subset as a random or representative sample.
+
+Source reference
+https://huggingface.co/datasets/builddotai/Egocentric-10K
+The card viewed on 19 October 2026 states a median clip length of 180 seconds,
+Apache 2.0 licensing, and per-video duration_sec metadata in TAR archives.
+The current repository revision is recorded in source_metadata.json. It is
+not the unknown revision used for extraction. Metadata for these particular
+recordings is absent locally. Public raw-file retrieval returned HTTP 401;
+no restricted source archive was downloaded. The current card's original
+consent procedure is not documented. No collection consent or secondary
+ethics approval is asserted by this resource card.
+
+Processing and fields
+S1 narrates video; S2 combines a worker's transcripts; S3 produces a factory
+report and vocabularies; S4 extracts permitted activity/process labels and
+estimated interval boundaries; S5 merges CSVs. Scripts use no task training
+or manual input annotations. Assessment includes author judgments and a
+manual category map. Model strings are script defaults, not per-request
+historical verification. Full prompts are in the repository and appendix.
+
+Per-video fields: start_timestamp, end_timestamp, activity, process,
+factory, worker. Video identity is in the path. Merged fields additionally
+include source_file, case_id, start_seconds_from_video_start,
+end_seconds_from_video_start, duration_seconds. Dates are synthetic relative
+to 2000-01-01, not calendar dates. Merging orders filenames and advances the
+offset by the maximum extracted endpoint. Worker clocks are independent.
+
+Time quantities and exclusions
+Verified source footage duration: unavailable.
+Original parsed endpoint spans: 786,412 seconds, not footage duration.
+Format-aware literal endpoint spans: 786,418 seconds, still ambiguous.
+All-log event interval unions: 414,886 seconds.
+All-log summed event durations: 421,283 seconds.
+Retained time-analysis summed event durations: 349,659 seconds in 320 logs
+and 10,647 rows. The two exclusions have event endpoints over 3,600 seconds.
+Seven transcripts have literal endpoints over one hour; four additional
+files contain MM:SS, including three that change format. No automatic repair
+is applied. Thirty-five adjacent event pairs overlap. The manifests expose
+all formats, endpoints, transitions, and inclusion decisions.
+
+Assessment
+All rows have required values and permitted labels. The existing author
+audit includes 36 fully supported events, six partially supported, and zero
+contradicted, using transcripts as reference. Its entry check has 34 COV,
+four EXC, and four MISS judgments. Sampling seed 42 and seven items per
+factory are asserted in the archive; the sampling implementation is absent.
+Video accuracy, inter-rater agreement, and intervention effects are unmeasured.
+
+Intended uses
+Reproduce frozen-artifact calculations; inspect evidence paths; study event
+abstraction, case selection, category mapping, and uncertainty; formulate
+process-design hypotheses requiring independent follow-up.
+
+Unsuitable uses
+Employee appraisal, automated rankings, disciplinary or pay decisions,
+throughput estimates from event counts, causal diagnoses from category
+shares, and capacity or cost-saving estimates without additional evidence.
+A process-based zero does not establish absence of an activity. Defect
+patching duration does not establish defect rates or financial losses.
+
+Privacy, access, and distribution
+Worker identifiers are pseudonymous, not guaranteed anonymous. The derived
+repository is public; source footage remains subject to provider access
+terms. This revision did not submit or redistribute footage. Workplace
+analyses should limit access to their stated purpose, aggregate suitable
+task groups, and retain provenance and coverage limitations. The provider's
+license is not a statement that every downstream workplace use is appropriate.
+The repository includes an Apache 2.0 LICENSE file; this revision does not
+change it.
+
+Maintenance and reproducibility
+paper/reproduce.py recalculates descriptive results with Python's standard
+library and verifies all 65 merged files. artifact_manifest.csv contains
+hashes of frozen outputs. Model regeneration is separate and may not exactly
+reproduce historical outputs. See REVISION_NOTES.txt for unresolved history,
+requirements_completion.csv for the revision map, and claim_evidence.csv for
+supporting artifacts and calculation definitions.

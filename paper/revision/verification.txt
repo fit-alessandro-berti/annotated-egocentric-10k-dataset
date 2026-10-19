@@ -1,0 +1,90 @@
+Journal revision verification
+19 October 2026
+Repository baseline: 9fca692
+
+Scope and completion
+All 28 requested improvements were checked against the supplied review.
+requirements_completion.csv maps each numbered item to its deliverables.
+All referenced deliverable files exist. The claim register contains 65
+substantial claims, with table-level entries covering their individual
+cells. Missing historical evidence is disclosed in REVISION_NOTES.txt
+and the manuscript, or the unsupported claim has been removed.
+
+Frozen source integrity
+All 775 files in generated/artifact_manifest.csv were compared with the
+baseline Git revision and are unchanged. This includes all 774 files in
+the five pipeline output layers and the original audit judgment file.
+The standard-library script reconstructs all 65 merged logs in memory;
+every reconstruction matches its archived output exactly.
+
+Offline calculation checks
+python3 paper/reproduce.py completed successfully. Running it from /tmp
+with absolute script, repository, and output paths also succeeded. All
+20 regenerated outputs matched the repository outputs, with the JSON
+summary compared structurally and other outputs compared byte for byte.
+
+The portable original assess.py and value_analysis.py completed. All 42
+factory category-share cells and all 51 eligible workers' three summary
+metrics match the standard-library calculation. A one-decimal rounding
+difference found during verification was corrected to reproduce the
+original NumPy rounding behavior.
+
+Independent record checks covered all 322 event CSVs: expected fields,
+nonempty values, matching factory/worker path identifiers, and start
+times at or after the common base. All 42 sampled audit event references
+match the existing source activity and endpoints. All 84 original audit
+verdicts are preserved. Transcript minute and second components are in
+range; ambiguous format transitions remain flagged without rescaling.
+
+Key reconciled counts
+  322 logs, 59 workers, six factories, 10698 event rows.
+  13462 format-aware transcript intervals; 13304 under the old parser.
+  Seven literal transcript endpoints over one hour; four MM:SS files.
+  Two exclusions under the original event-end rule, leaving 320 logs.
+  10647 retained events and 349659 summed retained event seconds.
+  421283 summed event seconds and 414886 union seconds before exclusions.
+  35 adjacent overlaps and 6397 seconds of excess summed duration.
+  113 factory-specific process entries, 108 distinct strings, 112 used.
+  Factory 003 transport: 101 events and 1230 seconds.
+  15 transitions counted across clip boundaries by the original metric.
+  Audit events: 36 supported, six partial, zero contradicted.
+  Audit entries: 34 COV, four EXC, four MISS.
+
+Existing discovery configuration
+The original activity-level configuration was repeated with video cases,
+Inductive Miner, and noise threshold 0.2. Saved numerical output and the
+current PM4Py version are in generated/activity_discovery.json. Fitness
+ranges from 0.9544 to 0.9910 and precision from 0.0603 to 0.2679. No new
+discovery settings or process-level model runs were introduced.
+
+Current recalculation environment
+Python 3.13.5; pandas 3.0.4; NumPy 2.5.0; PyArrow 26.0.0;
+PM4Py 2.7.23.11. These are verification versions, not historical versions.
+The descriptive reproduction script uses only the standard library.
+
+Code, literature, and manuscript checks
+Python compilation passed for reproduce.py and the three modified
+assessment scripts. git diff --check passed. All 21 cited works have
+primary-source verification records in literature_verification.csv.
+Publisher metadata and source-provider metadata are saved separately.
+
+make -C paper completed successfully. The manuscript and cover letter
+logs contain no overfull boxes, undefined citations, or undefined
+references. The manuscript retains a benign class-level xcolor warning.
+Extracted PDF text contains no em dashes, en dashes, or unresolved cross
+reference markers. The unsupported process precision number has been
+removed from the manuscript. Appendix labels run from A through F.
+
+Visual verification
+The final manuscript has 32 A4 pages; the cover letter has one A4 page.
+All pages were rendered with Poppler and inspected. Tables, diagrams,
+captions, equations, audit appendices, prompts, and references are legible,
+with no clipped content or overlapping elements. The final single
+reference on the last manuscript page is ordinary bibliography overflow.
+
+No model APIs, new annotations, new evaluators, training, ablations, or
+additional datasets were used. No manuscript or letter was submitted.
+
+Final PDF identifiers
+main.pdf: 1638661 bytes; SHA-256 1ac9da638cf656ffdb0a898fea76a92ccee3063c154c16e083e86d34f75bfe18
+cover_letter.pdf: 49128 bytes; SHA-256 34a19432f2a13ef27478443b7290c77fdbd46009628da2ade2fa79b2fe216e29

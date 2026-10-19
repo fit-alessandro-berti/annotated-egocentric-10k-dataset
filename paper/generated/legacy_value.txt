@@ -1,0 +1,49 @@
+analysed videos: 320 (excluded 2 >1h)
+
+=== TIME COMPOSITION (share of summed event duration, %) ===
+cat           CM  DOC    MH   QI    RW   TR    VA
+factory                                          
+factory_001  0.2  0.9   4.1  0.0   0.0  1.8  93.1
+factory_002  0.0  1.1   0.1  0.2   0.0  2.3  96.3
+factory_003  6.3  0.4   0.4  0.0  10.8  0.0  82.1
+factory_004  0.9  0.7   3.0  2.0   0.0  3.5  89.9
+factory_005  0.0  0.0   5.4  4.3   0.0  9.7  80.6
+factory_006  5.7  0.3  12.1  0.0   0.0  7.8  74.2
+non-VA share: {'factory_001': 6.9, 'factory_002': 3.7, 'factory_003': 17.9, 'factory_004': 10.1, 'factory_005': 19.4, 'factory_006': 25.8}
+
+=== FRAGMENTATION OF VA WORK ===
+             workers  med_va_share  med_intr_h  med_run_min
+factory                                                    
+factory_001       11          94.5         9.2          4.6
+factory_002       10          97.3         3.9          8.8
+factory_003       10          86.4         3.6          9.0
+factory_004       10          91.3        10.6          3.6
+factory_005        5          85.9         5.6          6.2
+factory_006        5          87.0        14.4          3.1
+
+=== TRANSPORT/REPLENISHMENT EVENT ROWS ===
+factory_001: 449 MH/TR event rows, mean 15s, 14.6 per summed event-hour, total 1.81h (5.9%)
+factory_002: 87 MH/TR event rows, mean 17s, 5.0 per summed event-hour, total 0.41h (2.4%)
+factory_003: 20 MH/TR event rows, mean 16s, 0.9 per summed event-hour, total 0.09h (0.4%)
+factory_004: 167 MH/TR event rows, mean 22s, 10.8 per summed event-hour, total 1.01h (6.5%)
+factory_005: 92 MH/TR event rows, mean 30s, 18.2 per summed event-hour, total 0.77h (15.1%)
+factory_006: 192 MH/TR event rows, mean 25s, 28.4 per summed event-hour, total 1.34h (19.8%)
+
+=== WORKER BENCHMARKING (same dominant process) ===
+factory_001 | Manual mechanical assembly: 6 workers, VA share 89.7-97.8%, mean VA run 1.7-6.7 min
+factory_001 | Metal stamping: 3 workers, VA share 90.6-98.5%, mean VA run 3.2-7.9 min
+factory_002 | Fabric pairing: 2 workers, VA share 95.7-97.4%, mean VA run 4.6-13.0 min
+factory_002 | Garment bagging: 2 workers, VA share 92.4-94.6%, mean VA run 3.8-9.1 min
+factory_003 | Surface finishing and polishing: 5 workers, VA share 67.3-96.9%, mean VA run 3.3-13.7 min
+factory_003 | Wax pattern assembly: 2 workers, VA share 96.1-100.0%, mean VA run 6.2-18.7 min
+factory_004 | Garment ironing: 2 workers, VA share 52.8-77.1%, mean VA run 3.5-4.1 min
+factory_004 | Overlock seaming: 4 workers, VA share 87.8-96.5%, mean VA run 1.5-10.3 min
+factory_005 | manual lathe machining: 2 workers, VA share 95.0-95.8%, mean VA run 6.9-9.4 min
+
+=== TOP-3 VA ACTIVITIES SHARE ===
+factory_001: 32% of VA time in top-3 activities: ['actuate machine press', 'drive fastener into metal parts', 'press small spring and metal pin into bracket']
+factory_002: 27% of VA time in top-3 activities: ['slide folded garment into clear plastic bag', 'mark fabric edge with pen', 'attach green tag to garment collar with tagging gun']
+factory_003: 62% of VA time in top-3 activities: ['scrape component surface with metal tool', 'file component edges', 'apply paste with brush']
+factory_004: 35% of VA time in top-3 activities: ['Feed aligned edges into overlock machine', 'Snip loose threads with small clippers', 'Sew continuous edge binding']
+factory_005: 47% of VA time in top-3 activities: ['pull drill press side lever', 'advance cutting tool via carriage handwheels', 'drop silver bolts into component flange holes']
+factory_006: 35% of VA time in top-3 activities: ['blow debris from mold cavities with air gun', 'pack casting sand into mold frame', 'guide upper mold half onto lower mold half']

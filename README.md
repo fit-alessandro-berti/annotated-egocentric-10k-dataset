@@ -53,24 +53,24 @@ The repository therefore contains both:
 
 The main processing scripts in this repository are named in execution order:
 
-1. [01_transcribe_factory.py](/mnt/c/Users/berti/annotated-egocentric-10k-dataset/01_transcribe_factory.py)
-2. [02_summarize_worker_processes.py](/mnt/c/Users/berti/annotated-egocentric-10k-dataset/02_summarize_worker_processes.py)
-3. [03_summarize_factory_process_mining.py](/mnt/c/Users/berti/annotated-egocentric-10k-dataset/03_summarize_factory_process_mining.py)
-4. [04_annotation_to_event_log.py](/mnt/c/Users/berti/annotated-egocentric-10k-dataset/04_annotation_to_event_log.py)
-5. [05_merge_event_log_csvs.py](/mnt/c/Users/berti/annotated-egocentric-10k-dataset/05_merge_event_log_csvs.py)
+1. [01_transcribe_factory.py](01_transcribe_factory.py)
+2. [02_summarize_worker_processes.py](02_summarize_worker_processes.py)
+3. [03_summarize_factory_process_mining.py](03_summarize_factory_process_mining.py)
+4. [04_annotation_to_event_log.py](04_annotation_to_event_log.py)
+5. [05_merge_event_log_csvs.py](05_merge_event_log_csvs.py)
 
 Auxiliary cleanup utility:
 
-- [delete_uploaded_files.py](/mnt/c/Users/berti/annotated-egocentric-10k-dataset/scripts/delete_uploaded_files.py)
+- [delete_uploaded_files.py](scripts/delete_uploaded_files.py)
 
 ## Prompt Files
 
 The prompt templates used by the pipeline are stored as plain text files:
 
-- [annotation_prompt.txt](/mnt/c/Users/berti/annotated-egocentric-10k-dataset/annotation_prompt.txt)
-- [worker_process_summary_prompt.txt](/mnt/c/Users/berti/annotated-egocentric-10k-dataset/worker_process_summary_prompt.txt)
-- [factory_process_mining_prompt.txt](/mnt/c/Users/berti/annotated-egocentric-10k-dataset/factory_process_mining_prompt.txt)
-- [annotation_to_event_log_prompt.txt](/mnt/c/Users/berti/annotated-egocentric-10k-dataset/annotation_to_event_log_prompt.txt)
+- [annotation_prompt.txt](annotation_prompt.txt)
+- [worker_process_summary_prompt.txt](worker_process_summary_prompt.txt)
+- [factory_process_mining_prompt.txt](factory_process_mining_prompt.txt)
+- [annotation_to_event_log_prompt.txt](annotation_to_event_log_prompt.txt)
 
 ## Output Structure
 
@@ -95,3 +95,15 @@ The main naming convention throughout the repository is:
 - This repository contains derived annotations and analysis artifacts, not the full original Egocentric-10K dataset payload.
 - Some stages rely on external LLM APIs and prompt files.
 - Factory-level vocabularies are used to constrain downstream event-log generation, so later stages depend on earlier stages having been run first.
+
+## Journal revision and offline reproduction
+
+The revised paper is in [paper/main.tex](paper/main.tex). The [revision notes](paper/revision/REVISION_NOTES.txt) record corrections, evidence links, and unresolved historical metadata. The [dataset card](paper/revision/DATASET_CARD.txt) defines intended uses and limitations.
+
+Run the frozen-artifact assessment without API access:
+
+```bash
+python3 paper/reproduce.py
+```
+
+This standard-library workflow writes manifests, metric tables, and LaTeX appendices to `paper/generated/`. To repeat the original activity discovery configuration, see [paper/README.txt](paper/README.txt). Regenerating model outputs is a separate, optional workflow using scripts 01 to 05; it is not needed to reproduce the paper calculations.

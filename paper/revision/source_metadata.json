@@ -1,0 +1,31 @@
+{
+  "retrieved": "2026-10-19",
+  "repository": "builddotai/Egocentric-10K",
+  "current_revision": "3e5f87c88c54ce8343865d8e2a8c171f18385a05",
+  "historical_revision_used_for_extraction": "unavailable",
+  "cardData": {
+    "extra_gated_fields": {
+      "First Name": "text",
+      "Last Name": "text",
+      "Affiliation": "text",
+      "Email": "text",
+      "Phone Number": "text",
+      "Country": "country"
+    },
+    "license": "apache-2.0",
+    "pretty_name": "Egocentric-10K",
+    "viewer": false,
+    "dataset_info": {
+      "features": [
+        {
+          "name": "mp4",
+          "dtype": "binary"
+        },
+        {
+          "name": "json",
+          "dtype": "string"
+        }
+      ]
+    }
+  }
+}

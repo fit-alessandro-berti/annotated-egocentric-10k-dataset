@@ -1,0 +1,43 @@
+{
+  "python": "3.13.5",
+  "source_artifact_counts": {
+    "raw_transcriptions": 322,
+    "worker_process_summaries": 59,
+    "factory_process_mining_reports": 6,
+    "process_mining_event_logs": 322,
+    "merged_process_mining_event_logs": 65,
+    "assessment_audit": 1
+  },
+  "events": 10698,
+  "retained_events": 10647,
+  "retained_videos": 320,
+  "legacy_transcript_entries": 13304,
+  "format_aware_transcript_entries": 13462,
+  "legacy_span_s": 786412,
+  "literal_span_s": 786418,
+  "union_event_s": 414886,
+  "summed_event_s": 421283,
+  "retained_event_s": 349659,
+  "format_flagged_videos": 4,
+  "over_1h_transcript_videos": 7,
+  "excluded_videos": [
+    "factory001_worker001_00004",
+    "factory001_worker010_00001"
+  ],
+  "process_vocabulary_entries": 113,
+  "distinct_process_strings": 108,
+  "transport_003_events": 101,
+  "transport_003_seconds": 1230,
+  "cross_clip_transitions": 15,
+  "audit_counts": {
+    "event": {
+      "C": 36,
+      "P": 6
+    },
+    "entry": {
+      "COV": 34,
+      "MISS": 4,
+      "EXC": 4
+    }
+  }
+}

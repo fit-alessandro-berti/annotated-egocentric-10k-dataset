@@ -1,0 +1,35 @@
+\section{Discussion and Conclusions}
+\label{sec:discussion}
+\subsection{Answers to the research questions}
+For RQ1, the five-stage pipeline produced a layered resource of transcripts, summaries, vocabularies, and 322 event logs. All 10{,}698 event rows satisfy the reported field, ordering, and label checks. Overlaps and unchecked semantic properties show why these checks must be named rather than treated as general validity.
+
+For RQ2, the existing audit finds full transcript support for 36 of 42 sampled events and partial support for six. Boundary agreement and entry overlap add temporal evidence, but format inconsistencies limit their interpretation. Accuracy against source footage remains unmeasured. The audit does not bound total downstream uncertainty.
+
+For RQ3, the retained logs support descriptions of category composition, local sequences, and worker profiles. They quantify an already described defect-patching process and expose differences worth investigating. The evidence supports operational hypotheses, not causal diagnoses, individual efficiency scores, or expected savings. Qualitative reports and quantitative logs complement one another but share generated transcripts.
+
+For RQ4, the examples establish three general lessons. Recorded behavior can disappear under an aggregation rule. Synthetic case and time construction can introduce transitions that were not observed continuously. Missing time can move a category share in either direction. These lessons apply to inferred logs beyond video whenever an analysis depends on abstraction, selection, and reconstructed timestamps.
+
+\subsection{Limits tied to the conclusions}
+\label{sec:limits}
+The release lacks the historical source revision, selection protocol, duration metadata, full model execution records, and complete sampling code. These gaps limit exact regeneration and claims about representative factory behavior. The frozen artifacts still permit the descriptive calculations to be reproduced, and the revision notes identify the missing historical information explicitly.
+
+The process map is a coarse analytical convention. It can assign transport to VA and combines necessary support work with activities an analyst might consider avoidable. It cannot estimate waste or recoverable production capacity. Product identifiers, output counts, quality specifications, and material links across workers are absent, so the logs cannot establish throughput, first-pass yield, upstream defect rates, or complete product routes.
+
+Temporal inconsistencies affect endpoint coverage; overlaps affect summed durations; gap-bridging runs affect fragmentation language; and clip joins affect transitions. The event-end exclusion rule leaves some inconsistent transcripts in the analysis. The retained numerical tables should therefore be interpreted as descriptions of frozen representations, with their sensitivity to unresolved time errors still unknown. We do not convert anomalous timestamps to more plausible values without source evidence.
+
+The author audit is small, has one evaluator, and refers to generated text. It cannot detect transcription errors shared by the report and log. Unequal windows and dominant-process grouping do not establish matched worker tasks. Alternative explanations in Table~\ref{tab:hypotheses} remain open, and no intervention was evaluated. These limitations directly restrict operational conclusions rather than merely limiting generalization to other factories.
+
+\subsection{Responsible interpretation and use}
+\label{sec:ethics}
+Worker-level process data can be turned into individual profiles even when names are removed~\cite{mannhardt2018privacy}. The release uses source worker identifiers and does not redistribute video. These identifiers are pseudonymous, not a guarantee against re-identification. A distinctive task, timestamp pattern, or combination with local records may reveal a person or role.
+
+The intended use is research on extraction and measurement, and investigation of process design at an appropriate aggregate level. The profiles should not be used for employee appraisal, pay, discipline, or automated worker ranking. The unequal observation windows and inferred category assignments do not support those decisions. For workplace use, access should be restricted to the stated analytical purpose, with aggregation across suitable task groups and review with the people whose work is represented. Results should retain their coverage and provenance limits when shared.
+
+The provider describes real-factory collection and publishes a dataset card and access terms~\cite{build2025egocentric}. The inspected card does not document the original consent procedure. The present authors performed secondary processing, collected no new video, and report no new consent or ethics-approval record. Provider statements, author processing choices, and unavailable collection details are therefore kept separate. The pipeline prompts discourage worker-level judgments, but prompts alone do not control later use of the public outputs.
+
+\subsection{Reusable contribution and future work}
+The resource enables two different activities: reproducing calculations from fixed outputs, and regenerating outputs through model APIs. The first is portable and documented in Appendix~\ref{app:repro}. The second depends on source access, model availability, and historical settings that are only partly recorded. Exact regeneration is therefore not claimed.
+
+Future work could preserve video-duration metadata, add explicit activity-process compatibility, link events to transcript spans, and audit against video with multiple evaluators. Windowed extraction and alternative category rules are design candidates, not validated improvements. Real calendar times and object references would be needed for synchronized flow and product-level analysis.
+
+The paper's contribution is a concrete method, an inspectable data resource, and a careful account of what its measurements mean. The logs make selected manual work available for structured study. Their usefulness depends on retaining the evidence path and matching each conclusion to the properties that have actually been assessed.

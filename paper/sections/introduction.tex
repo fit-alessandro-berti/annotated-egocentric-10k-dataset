@@ -1,0 +1,29 @@
+\section{Introduction}
+\label{sec:introduction}
+Process mining uses timestamped event records to study operational processes~\cite{vanDerAalst2016processmining}. Many manual factory tasks leave no such records. An information system may record an order or machine checkpoint while missing how a worker loads parts, moves material, checks a component, or switches tools. Video can make some of this work observable, but it does not directly provide the case identifiers, labels, and event boundaries that process mining needs~\cite{kratsch2022video}.
+
+Egocentric video records work from the camera wearer's perspective. The public Egocentric-10K resource provides factory recordings of this kind~\cite{build2025egocentric}. Figure~\ref{fig:egocentric} illustrates the viewpoint. Turning recordings into event logs requires decisions about what constitutes an event, which names to use, and how to interpret time. These are measurement decisions as well as extraction tasks. A well-formed log can still misrepresent the work if a behavior is omitted, a boundary is estimated poorly, or an analytical category hides a recorded action.
+
+\begin{figure}[htbp]
+\centering\includegraphics[width=0.85\linewidth]{figures/egocentric10k.png}
+\caption{Example frames from Build AI's Egocentric-10K resource~\cite{build2025egocentric}. They illustrate the camera viewpoint, rather than the accuracy of the derived event labels.}
+\label{fig:egocentric}
+\end{figure}
+
+We study a five-stage pipeline that produces timestamped transcripts, worker summaries, factory reports and vocabularies, per-video events, and merged logs. Its application covers six factories, 59 worker identifiers, and 322 recordings. The resulting 10{,}698 events are inferred operational episodes. They do not provide a complete census of production cycles or manufactured items.
+
+This journal revision treats the pipeline and its released outputs as a methods and data resource. Its contributions are: a formal definition of interval events and their provenance; an implementation account that separates prompt requests from software checks; an assessment with explicit denominators and traceable examples; and a measurement analysis of abstraction, missing time, and dependent evidence. These additions use the existing outputs and author judgments. They add no model runs, annotations, datasets, ablations, or discovery settings. Appendix~\ref{app:extension} distinguishes new methodological substance from fuller reporting of the existing study.
+
+Four research questions organize the paper. \textbf{RQ1:} How are the inferred logs constructed, and which structural properties do the released records satisfy? \textbf{RQ2:} How well do event timing and meaning agree with the generated transcripts? \textbf{RQ3:} Which descriptive analyses do the logs support, and what limits their operational interpretation? \textbf{RQ4:} What general measurement lessons follow from the representation, temporal rules, and shared evidence? Table~\ref{tab:rq} links each question to its evidence.
+
+\begin{table}[htbp]
+\caption{Research questions, evidence, and limits. The full revision claim register is released in \artifact{paper/revision/claim_evidence.csv}.}
+\label{tab:rq}\footnotesize
+\begin{tabularx}{\linewidth}{@{}lLLL@{}}\toprule
+Question and section & Supporting artifacts & Finding & Main limit \\\midrule
+RQ1, Sections~\ref{sec:pipeline} and~\ref{sec:structure} & Scripts, prompts, reports, all per-video CSVs & Fields, ordering, and vocabulary membership can be checked & Valid structure does not imply correct observation \\
+RQ2, Section~\ref{sec:consistency} & Transcripts, logs, 84 archived audit judgments & Partial temporal and semantic consistency & No independent video reference; timestamp anomalies \\
+RQ3, Section~\ref{sec:analyses} & Frozen events, process-category map, reports & Composition, sequence, and worker-profile descriptions & Unequal windows, task mixes, and category meanings \\
+RQ4, Section~\ref{sec:measurement} & Worked examples, merge code, metric definitions & Aggregation can hide behavior; missing time has two-sided effects & Conceptual deductions do not estimate unknown errors \\
+\bottomrule\end{tabularx}
+\end{table}

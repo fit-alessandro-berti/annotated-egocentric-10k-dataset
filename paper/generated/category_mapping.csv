@@ -1,0 +1,108 @@
+process,category
+Box assembly,VA
+Box packing,VA
+Box sealing,VA
+Bulk box assembly,VA
+Bulk fabric cutting,VA
+Bulk material transport,TR
+CNC machine tending,VA
+Cardboard sleeve packaging,VA
+Cardboard wrapping,VA
+Cart loading,TR
+Chemical dough mixing,VA
+Component bagging,VA
+Component kitting,VA
+Component staging and arrangement,MH
+Component sub-assembly,VA
+Compression molding,VA
+Continuous fabric chaining,VA
+Core and insert placement,VA
+Curvilinear seam joining,VA
+Defect patching,RW
+Dough kneading,VA
+Edge binding attachment,VA
+Fabric bundling,VA
+Fabric edge alignment,VA
+Fabric folding,VA
+Fabric measuring,VA
+Fabric pairing,VA
+Fabric pinning,VA
+Fabric spreading,VA
+Fabric untangling,MH
+Finished goods transport,TR
+Floor auditing,DOC
+Floor-based part sorting,MH
+Garment bagging,VA
+Garment folding,VA
+Garment hemming,VA
+Garment ironing,VA
+Garment quality inspection,QI
+Garment tagging,VA
+Hanger assembly,VA
+Heat press labeling,VA
+Injection molding,VA
+Inventory verification,DOC
+Machine cleaning and maintenance,CM
+Machine extrusion,VA
+Machine maintenance,CM
+Machine pressing,VA
+Machine sanding,VA
+Manual mechanical assembly,VA
+Manual production logging,DOC
+Master bagging,VA
+Material replenishment,MH
+Material sorting and sifting,MH
+Material transport,TR
+Metal casting separation,VA
+Metal forming,VA
+Metal stamping,VA
+Mold assembly and closing,VA
+Mold preparation and cleaning,CM
+Mold track advancement,MH
+Overlock seaming,VA
+Package labeling,VA
+Part mechanical modification,VA
+Pattern cleaning and coating,VA
+Pattern matching,VA
+Pick-and-pack sorting,MH
+Piping attachment,VA
+Post-processing edge finishing,VA
+Powder sifting,VA
+Production data logging,DOC
+Production tracking,DOC
+Punch press operation,VA
+Quality inspection,QI
+Raw material mixing,VA
+Sand mold creation,VA
+Scrap disposal,MH
+Scrap material management,MH
+Semi-automated press assembly,VA
+Spot painting,VA
+Structural frame assembly,VA
+Sub-assembly marking,VA
+Surface finishing and polishing,VA
+Tape feeding,VA
+Thermal welding,VA
+Thread snipping,VA
+Thread trimming,VA
+Wax pattern assembly,VA
+Wooden component assembly,VA
+Wooden component scraping,VA
+Workspace clearing,CM
+Workstation cleaning,CM
+automated stator winding,VA
+batch pneumatic fastening,VA
+component deburring and polishing,VA
+dimensional quality inspection,QI
+drill press machining,VA
+finished goods packaging,VA
+manual hardware pre-assembly,VA
+manual lathe machining,VA
+material transport and logistics,TR
+milling machine operation,VA
+motor labeling and nameplate attachment,VA
+motor packaging and strapping,VA
+part sorting and staging,MH
+semi-automatic stator wire insertion,VA
+stator coil binding,VA
+stator lead wire finishing and soldering,VA

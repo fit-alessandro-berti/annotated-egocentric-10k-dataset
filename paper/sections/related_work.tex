@@ -1,0 +1,33 @@
+\section{Background and Related Work}
+\label{sec:relatedWork}
+\subsection{Constructing and assessing event data}
+Diba et al.~\cite{diba2020extraction} distinguish extraction, correlation, and abstraction when constructing event data. These tasks also arise here: video must become a description, episodes need labels, and a case rule must group them. The abstraction review by van Zelst et al.~\cite{vanZelst2021abstraction} explains how grouping low-level events changes the level at which a process can be studied. In our setting, a repeated sequence can already be compressed during narration, before a structured event exists. Consequently, a row count cannot be assumed to count cycles.
+
+Suriadi et al.~\cite{suriadi2017imperfections} describe recurring event-log imperfections and their implications for analysis. Their work motivates checks for missing fields, overlapping intervals, and inconsistent time representations. These checks expose data problems but do not establish that a visually inferred activity is correct. We therefore separate structural checks, vocabulary checks, transcript consistency, and accuracy against footage.
+
+\subsection{Video and sensor methods}
+First-person workflow extraction without task-specific labeled training data predates this study. Pham and Xiao~\cite{pham2018workflow} extract mechanical-assembly workflows from first-person video without pre-labeled training data or pre-trained classifiers. Their preliminary evaluation already addresses the combination of egocentric observation and unsupervised extraction. Knoch et al.~\cite{knoch2020video} use hand trajectories and clustering at a camera-equipped assembly workstation, evaluated with ten participants. Kratsch et al.~\cite{kratsch2022video} develop a reference architecture for video-based process mining. Lepsien et al.~\cite{lepsien2023analytics} combine object tracking, action detection, and abstraction to produce event data. The sensor-data review by Brzychczy et al.~\cite{brzychczy2025sensor} addresses the related problem of turning lower-level signals into process events. These streams inform our separation of observation, labeling, and case construction.
+
+SnapLog~\cite{pegoraro2026snaplog} combines image embeddings, temporal segmentation, and a classifier adapted with labeled examples. It evaluates both TUM Kitchen recordings and 24 egocentric EPIC-KITCHENS videos from ten environments. It can retain distributions over candidate activity labels. Thus, prior work is not uniformly restricted to fixed cameras, one workstation, or one supervision regime. Table~\ref{tab:comparison} makes the closest distinctions explicit. The present contribution is the combination of a multi-factory application, induced factory vocabularies, inspectable text, a layered artifact release, and an account of operational measurement. No comparative accuracy advantage is claimed.
+
+\begin{table}[htbp]
+\caption{Comparison of the closest video approaches. ``Not established'' means that the inspected source does not establish that property; it is not a claim of absence.}
+\label{tab:comparison}\scriptsize\setlength{\tabcolsep}{3pt}
+\begin{tabularx}{\linewidth}{@{}p{0.16\linewidth}LLLL@{}}\toprule
+Dimension & Pham and Xiao~\cite{pham2018workflow} & Video-to-Model~\cite{knoch2020video} & SnapLog~\cite{pegoraro2026snaplog} & This resource \\\midrule
+Viewpoint & First-person & Camera at assembly workstation & Includes egocentric video & Egocentric factory video \\
+Supervision & No pre-labeled data or pre-trained classifiers & Unsupervised clustering of hand trajectories & Pre-trained encoders; labeled adaptation examples & General-purpose models; no task training or input annotations \\
+Label induction & Steps and operations with semantics & Clusters assigned to work steps & Adapted activity classes & Text-induced activity and process lists per factory \\
+Intermediate representation & Extracted workflow semantics & Hand trajectories & Embeddings and segments & Transcripts, worker summaries, factory reports \\
+Uncertainty & Calibrated event uncertainty not established & Calibrated event uncertainty not established & Candidate-label probabilities & Textual caveats; no event confidence field \\
+Domain & Mechanical assembly & Manual assembly & Kitchen activities & Six manufacturing settings \\
+Evaluation scope & Preliminary feasibility & Ten participants in a laboratory study & Two datasets; multiple environments & 322 logs; transcript checks and descriptive analyses \\
+\bottomrule\end{tabularx}
+\end{table}
+
+\subsection{Language models, uncertain data, and manufacturing interpretation}
+LLMs have been studied as assistants for process mining~\cite{berti2025benchmark} and for generating database queries used in event-log extraction~\cite{dani2025llm}. Kecht et al.~\cite{kecht2021conversations} address log construction from customer-service conversations using natural language inference. Here, the text is itself model-generated evidence. A semantic check against that text tests one link in the extraction chain, not the entire path from physical work to an analytical conclusion. This dependency is central to our assessment.
+
+Work on uncertain event data makes uncertain labels, times, or event occurrence explicit~\cite{pegoraro2019uncertain}. Our deterministic CSVs do not implement such an uncertainty model. Readable intermediate text helps a reader investigate an event, but it does not provide calibrated probabilities or formal bounds. Similarly, object-centric process mining~\cite{aalst2019objectcentric} clarifies why worker and recording identifiers cannot substitute for product identifiers when tracing material across stations. These distinctions limit claims about throughput, yield, handoffs, and complete manufacturing instances.
+
+Industrial process-mining research also spans several analytical goals, as reviewed by Corallo et al.~\cite{corallo2020industrial}. This motivates separating a description of recorded work from a decision about changing production. Our time-composition and sequence measures provide evidence for the former; the latter requires product, quality, and operational context absent from the inferred logs.

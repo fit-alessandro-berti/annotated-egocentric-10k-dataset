@@ -1,10 +1,15 @@
 #!/usr/bin/env python3
 """Assessment of the video-derived event logs (structural, vocabulary, temporal, PM utility)."""
-import csv, json, re, sys
+import argparse, csv, json, re, sys
 from collections import Counter, defaultdict
 from pathlib import Path
 
-ROOT = Path("/home/javert/annotated-egocentric-10k-dataset")
+parser = argparse.ArgumentParser(description=__doc__)
+parser.add_argument("--root", type=Path, default=Path(__file__).resolve().parents[3])
+parser.add_argument("--output-dir", type=Path, default=Path(__file__).resolve().parents[2] / "generated")
+args = parser.parse_args()
+ROOT = args.root.resolve()
+args.output_dir.mkdir(parents=True, exist_ok=True)
 LOGS = ROOT / "process_mining_event_logs"
 TRANS = ROOT / "raw_transcriptions"
 REPORTS = ROOT / "factory_process_mining_reports"
@@ -127,7 +132,7 @@ for fac, st in results.items():
         trans_entries=st["trans_entries"],
         proc_vocab=st["proc_vocab_size"], act_vocab=st["act_vocab_size"],
         acts_used=len(st["acts_used"]), procs_used=len(st["procs_used"]),
-        act_vocab_util=pct(len([a for a in st["acts_used"] if a in set()]) if False else len(set(st["acts_used"]) & set()), 1),
+        act_vocab_util=pct(len(st["acts_used"]), st["act_vocab_size"]),
         act_conf=pct(st["act_in_vocab"], st["events"]),
         proc_conf=pct(st["proc_in_vocab"], st["events"]),
         neg_dur=st["neg_dur"], zero_dur=pct(st["zero_dur"], st["events"]),
@@ -166,5 +171,6 @@ for fac, st in results.items():
 # dump flat events for pm4py stage
 import pandas as pd
 df = pd.DataFrame(per_video_rows)
-df.to_parquet("/tmp/claude-1000/-home-javert-annotated-egocentric-10k-dataset/57dc18f3-0252-4f13-887f-83e45f675ce9/scratchpad/events.parquet")
+df.to_parquet(args.output_dir / "events.parquet", index=False)
+(args.output_dir / "legacy_structure.json").write_text(json.dumps({"factories": summary, "totals": dict(tot)}, indent=2) + "\n")
 print("flat events:", len(df))

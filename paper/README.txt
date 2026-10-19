@@ -58,3 +58,50 @@ https://www.mdpi.com/journal/systems/instructions
 https://www.mdpi.com/authors/layout
 https://www.mdpi.com/journal/systems/special_issues/EGUYTR6HWI
 https://huggingface.co/datasets/builddotai/Egocentric-10K/blob/main/README.md
+
+Journal revision (19 October 2026)
+
+The paper is split into editable files under sections/. Revision notes,
+claim evidence, the 28-item completion map, source metadata, and a dataset
+card are under revision/. Longer Markdown drafts in docs/ are historical
+working material and are superseded by main.tex and sections/.
+
+Reproduce descriptive calculations, manifests, and appendix tables:
+
+  python3 paper/reproduce.py
+
+Run this command from the repository root, or use an absolute script path.
+It has no third-party dependencies and does not call model APIs. Use
+--root and --output-dir to change the repository and output locations.
+The manifest hashes the five frozen output layers. It also verifies all
+65 merged files against the released merge algorithm, entirely in memory.
+
+To repeat the original activity-level discovery configuration, use an
+isolated environment with the documented recalculation versions:
+
+  python3 -m venv .venv-assessment
+  .venv-assessment/bin/python -m pip install -r paper/requirements-assessment.txt
+  .venv-assessment/bin/python paper/docs/assessment_materials/assess.py
+  .venv-assessment/bin/python paper/docs/assessment_materials/value_analysis.py
+  .venv-assessment/bin/python paper/docs/assessment_materials/pm_utility.py
+  python3 paper/reproduce.py
+
+The last command refreshes the typeset discovery table from its saved JSON.
+The checked-in discovery result lets the standard-library workflow prepare
+that table without rerunning discovery. The miner, noise threshold (0.2),
+activity labels, and video cases match the original script. The current
+PM4Py version is recorded. The original dependency versions are unknown.
+The original scripts take --output-dir; assess.py also takes --root.
+
+The revision retains the historical event-end exclusion rule and category
+map. It does not rescale timestamps or regenerate model outputs. Changes to
+metric definitions, original discrepancies, and unresolved author queries
+are documented in revision/REVISION_NOTES.txt. All 84 audit verdicts remain
+unchanged. Process-level precision 0.59 is removed for lack of evidence.
+
+Regeneration through APIs is separate from this offline workflow. Scripts
+01 to 04 already accept input/output roots, prompt paths, and model options.
+S1 to S3 use requests with Gemini; S4 uses requests with OpenAI; S5 is local.
+Use their --help outputs to inspect options. Source access and credentials
+are required only for regeneration. Current default model strings and
+prompt hashes do not prove historical execution settings.

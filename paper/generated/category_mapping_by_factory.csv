@@ -1,0 +1,114 @@
+factory,process,category
+factory_001,Metal stamping,VA
+factory_001,Metal forming,VA
+factory_001,Manual mechanical assembly,VA
+factory_001,Semi-automated press assembly,VA
+factory_001,Structural frame assembly,VA
+factory_001,Component bagging,VA
+factory_001,Component kitting,VA
+factory_001,Material replenishment,MH
+factory_001,Finished goods transport,TR
+factory_001,Scrap disposal,MH
+factory_001,Workstation cleaning,CM
+factory_001,Production tracking,DOC
+factory_001,Machine maintenance,CM
+factory_002,Fabric untangling,MH
+factory_002,Fabric edge alignment,VA
+factory_002,Pattern matching,VA
+factory_002,Fabric folding,VA
+factory_002,Fabric pairing,VA
+factory_002,Fabric pinning,VA
+factory_002,Sub-assembly marking,VA
+factory_002,Fabric bundling,VA
+factory_002,Garment ironing,VA
+factory_002,Garment quality inspection,QI
+factory_002,Thread snipping,VA
+factory_002,Garment tagging,VA
+factory_002,Hanger assembly,VA
+factory_002,Garment bagging,VA
+factory_002,Cardboard sleeve packaging,VA
+factory_002,Cardboard wrapping,VA
+factory_002,Package labeling,VA
+factory_002,Master bagging,VA
+factory_002,Box assembly,VA
+factory_002,Box packing,VA
+factory_002,Box sealing,VA
+factory_002,Cart loading,TR
+factory_002,Material transport,TR
+factory_002,Floor auditing,DOC
+factory_003,Metal casting separation,VA
+factory_003,Wax pattern assembly,VA
+factory_003,Surface finishing and polishing,VA
+factory_003,Defect patching,RW
+factory_003,Component sub-assembly,VA
+factory_003,Injection molding,VA
+factory_003,Mold preparation and cleaning,CM
+factory_003,Machine pressing,VA
+factory_003,Spot painting,VA
+factory_003,Thermal welding,VA
+factory_003,Material sorting and sifting,MH
+factory_003,Inventory verification,DOC
+factory_004,Fabric spreading,VA
+factory_004,Bulk fabric cutting,VA
+factory_004,Fabric measuring,VA
+factory_004,Overlock seaming,VA
+factory_004,Continuous fabric chaining,VA
+factory_004,Edge binding attachment,VA
+factory_004,Piping attachment,VA
+factory_004,Curvilinear seam joining,VA
+factory_004,Tape feeding,VA
+factory_004,Heat press labeling,VA
+factory_004,Garment hemming,VA
+factory_004,Thread trimming,VA
+factory_004,Quality inspection,QI
+factory_004,Garment folding,VA
+factory_004,Garment ironing,VA
+factory_004,Garment bagging,VA
+factory_004,Bulk box assembly,VA
+factory_004,Pick-and-pack sorting,MH
+factory_004,Production data logging,DOC
+factory_004,Scrap material management,MH
+factory_004,Machine maintenance,CM
+factory_004,Material transport,TR
+factory_005,motor assembly finishing,unmapped
+factory_005,motor labeling and nameplate attachment,VA
+factory_005,motor packaging and strapping,VA
+factory_005,automated stator winding,VA
+factory_005,semi-automatic stator wire insertion,VA
+factory_005,stator coil binding,VA
+factory_005,stator lead wire finishing and soldering,VA
+factory_005,manual lathe machining,VA
+factory_005,CNC machine tending,VA
+factory_005,drill press machining,VA
+factory_005,milling machine operation,VA
+factory_005,component deburring and polishing,VA
+factory_005,dimensional quality inspection,QI
+factory_005,manual hardware pre-assembly,VA
+factory_005,batch pneumatic fastening,VA
+factory_005,material transport and logistics,TR
+factory_005,part sorting and staging,MH
+factory_005,finished goods packaging,VA
+factory_006,Sand mold creation,VA
+factory_006,Pattern cleaning and coating,VA
+factory_006,Core and insert placement,VA
+factory_006,Mold assembly and closing,VA
+factory_006,Mold track advancement,MH
+factory_006,Machine cleaning and maintenance,CM
+factory_006,Manual production logging,DOC
+factory_006,Wooden component scraping,VA
+factory_006,Wooden component assembly,VA
+factory_006,Machine sanding,VA
+factory_006,Powder sifting,VA
+factory_006,Chemical dough mixing,VA
+factory_006,Dough kneading,VA
+factory_006,Machine extrusion,VA
+factory_006,Punch press operation,VA
+factory_006,Bulk material transport,TR
+factory_006,Component staging and arrangement,MH
+factory_006,Floor-based part sorting,MH
+factory_006,Part mechanical modification,VA
+factory_006,Compression molding,VA
+factory_006,Raw material mixing,VA
+factory_006,Post-processing edge finishing,VA
+factory_006,Metal casting separation,VA
+factory_006,Workspace clearing,CM

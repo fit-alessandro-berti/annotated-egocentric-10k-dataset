@@ -1,3 +1,5 @@
+> Historical working draft. Superseded by `paper/main.tex` and `paper/sections/` in the journal revision. Numerical interpretations and literature claims here may be outdated; see `paper/revision/REVISION_NOTES.txt`.
+
 # Related Work
 
 The present project is positioned at the intersection of process mining, event-log construction from unstructured visual observations, multimodal activity interpretation, and manufacturing process analytics. In contrast to the classical process-mining setting, where event logs are assumed to be available from an information system, this project derives event data from egocentric factory videos through a pipeline of video transcription, worker-level process summarization, factory-level activity vocabulary construction, and conversion into per-video and merged CSV event logs. The related work is therefore organized around the following themes: foundations of process mining, event-log construction, event-data quality and abstraction, sensor and video process mining, manufacturing applications, object-centric perspectives, LLM-assisted event extraction, and downstream process discovery and conformance analysis.

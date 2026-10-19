@@ -1,0 +1,29 @@
+suggestion,deliverable,evidence_locations,completion_evidence
+1,Claim register and aligned RQ evidence table,revision/claim_evidence.csv; sections/introduction.tex,"Every substantial result, guarantee, and interpretation inventoried; unsupported 0.59 removed"
+2,Temporal quality and inclusion manifest,generated/inclusion_manifest.csv; generated/transcript_intervals.csv; sections/resource.tex,All 322 videos; seven literal-hour anomalies; four MM:SS files; two actual exclusions; no rescaling
+3,Factory003 transport correction,generated/factory003_transport.csv; sections/problem.tex; sections/measurement.tex,101 rows; 1230 seconds; exact 8-second example with context and category
+4,"Defect patching quantified, not discovered",sections/results.tex; sections/discussion.tex,Report overview already names patching; reasons forRW and unknown avoidability stated
+5,Metric terminology and rules,sections/methods.tex; generated/worker_metrics.csv,Median of worker means; row counts; sum-duration eligibility; gaps/overlaps/clips; 15 cross-clip transitions
+6,Transcript consistency distinguished from video accuracy,main.tex; sections/introduction.tex; sections/methods.tex; sections/discussion.tex,Four evidence levels; no downstream uncertainty bound
+7,Operational hypothesis table,sections/results.tex tab:hypotheses,"Observation, plausible cause, competitor, needed evidence; necessary support distinguished from waste"
+8,Closest prior work and comparison matrix,sections/related_work.tex; references.bib; revision/literature_verification.csv,Pham 2018 and SnapLog scope corrected; all seven requested dimensions
+9,Contributions and unified RQs,sections/introduction.tex; sections/discussion.tex,"RQ1 construction, RQ2 consistency, RQ3 capabilities, RQ4 measurement; short evidence table"
+10,Formal problem and notation,sections/problem.tex,"Factories, workers, videos, transcripts, vocabularies, events, provenance, cases; episodes not production instances"
+11,"Activity, context, category distinction",sections/problem.tex,Separate lists; no enforced hierarchy; compatibility relation proposed only
+12,Algorithm and stage specification,sections/pipeline.tex,"Unit, inputs, outputs, context, empty/missing/malformed/reuse behavior; S4 context; S2/S3 bundle risks"
+13,Prompt requests vs guarantees,sections/pipeline.tex tab:guarantees,"Instructions, software, artifact observations, untested expectations; human assessment acknowledged"
+14,Synthetic time and cases,sections/resource.tex,Offset equation; empty/trailing time; independent clocks; timeline; three case notions
+15,Foundry end-to-end example,sections/results.tex sec:worked,"Existing transcript, vocabulary, events, provenance; retained/compressed/added information; JSON reconstruction labeled"
+16,Observability and zeros,sections/measurement.tex tab:zeros,All six mechanisms; representability is insufficient for detection
+17,Uncertainty and provenance,sections/measurement.tex tab:uncertainty; sections/pipeline.tex fig:dependency,Stage/check/consequence table; shared inputs; missing provenance fields; no invented confidence
+18,Missing-time proposition,sections/measurement.tex eq:missing,"Two-sided bound, proof, assumptions, and lower-bound condition; not applied empirically"
+19,Resource provenance and card,sections/resource.tex; revision/DATASET_CARD.txt; generated/artifact_manifest.csv,Complete inventory; durations distinguished; source 180 s discrepancy; unknown history disclosed
+20,Metric definition table,sections/methods.tex tab:metrics,"Equations, units, weights, denominators, exclusions, overlaps, rounding, vocabulary counts"
+21,Transparent audit and all judgments,sections/methods.tex; generated/audit_appendix.tex,"Existing rubric,36/6/0 and 34/4/4, author, seed assertion, sampling-code gap, ambiguous examples; no new audit"
+22,Qualified discovery interpretation,sections/results.tex; generated/activity_discovery.json; generated/discovery_table.tex,Original configuration repeated and environment recorded; fitness/precision target inferred log; unsupported process result removed
+23,Six structured factory cases,sections/results.tex sec:factorycases,"Scope, findings, report content, quantification, alternatives for each factory"
+24,Inspectable figures,sections/problem.tex; sections/pipeline.tex; sections/resource.tex; sections/results.tex,"Exact category example, dependency diagram, synthetic timeline, foundry timeline, category shares; failure taxonomy table"
+25,Design tradeoffs,sections/pipeline.tex tab:tradeoffs,Six major choices; alternatives conceptual; repetition effect on counts and directly-follows
+26,Selective related-work integration,sections/related_work.tex; references.bib; revision/literature_verification.csv,"Construction, quality, abstraction, video/sensor, LLM, uncertainty, industrial context; primary verification"
+27,Portable research resource,reproduce.py; README.txt; requirements-assessment.txt; sections/appendices.tex,Offline vs API workflows; portable paths; relative repository links; hashes; result-script map; defaults separated from history
+28,Concrete limitations and responsible use,sections/discussion.tex; revision/DATASET_CARD.txt,"Affected conclusions, worker ranking risks, aggregation/access/intended use, provider statements vs author choices"

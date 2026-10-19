@@ -1,3 +1,5 @@
+> Historical working draft. Superseded by `paper/main.tex` and `paper/sections/` in the journal revision. Numerical interpretations and literature claims here may be outdated; see `paper/revision/REVISION_NOTES.txt`.
+
 # Assessment
 
 ## Goal: Measuring Value, Not Just Validity

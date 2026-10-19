@@ -1,11 +1,15 @@
 #!/usr/bin/env python3
 """Process-mining utility assessment with pm4py (case notion = video)."""
-import warnings, json
+import warnings, json, argparse
+from pathlib import Path
 warnings.filterwarnings("ignore")
 import pandas as pd
 import pm4py
 
-SCRATCH = "/tmp/claude-1000/-home-javert-annotated-egocentric-10k-dataset/57dc18f3-0252-4f13-887f-83e45f675ce9/scratchpad"
+parser = argparse.ArgumentParser(description=__doc__)
+parser.add_argument("--output-dir", type=Path, default=Path(__file__).resolve().parents[2] / "generated")
+args = parser.parse_args()
+SCRATCH = args.output_dir
 df = pd.read_parquet(f"{SCRATCH}/events.parquet")
 df["time:timestamp"] = pd.to_datetime("2000-01-01") + pd.to_timedelta(df["end"], unit="s")
 df["start_timestamp"] = pd.to_datetime("2000-01-01") + pd.to_timedelta(df["start"], unit="s")
@@ -39,6 +43,7 @@ for fac, g in df.groupby("factory"):
     print(fac, out[fac], flush=True)
 
 print(json.dumps(out, indent=1))
+(SCRATCH / "activity_discovery.json").write_text(json.dumps({"provenance": "Recalculated from frozen logs with the original activity-level configuration; historical output and dependency versions unavailable.", "noise_threshold": 0.2, "pm4py_version": pm4py.__version__, "factories": out}, indent=2) + "\n")
 
 # also: worker-level case notion, directly-follows repetition structure
 print("\n--- self-loop share of DF pairs (video cases) ---")

@@ -1,0 +1,41 @@
+\section{Problem Definition}
+\label{sec:problem}
+Let $F$ be a set of factories, $W_f$ the worker identifiers associated with factory $f$, and $V_w$ the recordings associated with worker $w$. Each video $v$ has an underlying duration $D_v$, which need not be available in the derived archive. A transcript $T_v$ is an ordered collection of entries $(s_i,e_i,x_i)$, where $x_i$ describes the interval from $s_i$ to $e_i$. These endpoints and descriptions are model outputs. They are not independent annotations of the source video.
+
+For each factory, the pipeline induces an activity vocabulary $A_f$ and a process vocabulary $P_f$. An interval event is
+\begin{equation}
+ e=(v,w,f,t_s,t_e,a,p), \qquad a\in A_f,\quad p\in P_f.
+\end{equation}
+The tuple makes provenance explicit: the CSV's path identifies $v$, while $w$ and $f$ are stored in each row. The estimated endpoints $t_s,t_e$ are relative to the video. A case function $\kappa:E\rightarrow K$ groups events into traces; it is an analytical choice. The construction problem is to derive $E$, $A_f$, and $P_f$ from the videos while retaining enough source information to inspect and interpret the result.
+
+\begin{table}[htbp]
+\caption{Notation and intended meaning.}\label{tab:notation}\small
+\begin{tabularx}{\linewidth}{@{}lL@{}}\toprule
+Symbol & Meaning \\\midrule
+$f,w,v$ & Factory, worker, and video identifiers; identifiers do not certify roles or task equivalence \\
+$D_v,T_v$ & Source duration and generated transcript; the former is unavailable in the released subset \\
+$A_f,P_f$ & Two separate permitted label lists for factory $f$ \\
+$t_s,t_e,d_e$ & Estimated video-relative start, end, and duration $d_e=t_e-t_s$, in seconds \\
+$\kappa(e)$ & Selected case identifier, such as the source video \\
+$g_f(p)$ & Analyst's mapping from process label to operational category \\
+$C_v,S_v$ & Interval-union event duration and endpoint span used in coverage diagnostics \\
+\bottomrule\end{tabularx}
+\end{table}
+
+An event represents an operational episode. One episode may summarize many repeated actions, and several events may divide a single narrated interval. It need not be one item, one production cycle, or one complete process instance. Desirable properties include faithful descriptions, meaningful boundaries, appropriate labels, and sufficient coverage. The implementation enforces only a subset: parseable offsets, end not before start, required values, and membership in the separate vocabularies. Section~\ref{sec:guarantees} distinguishes these checks from intended properties.
+
+\subsection{Activity, process context, and analytical category}
+An \emph{activity} answers what action is performed. A \emph{process context} identifies the broader operation to which the extractor assigns it. An \emph{operational category} answers how an analyst groups the action or context for a particular question. These concepts are separate. The implementation checks $a\in A_f$ and $p\in P_f$ independently. It does not enforce a compatibility relation $H_f\subseteq A_f\times P_f$ or a process-to-activity hierarchy.
+
+The current time analysis uses $g_f(p)$, not an activity-based mapping. Thus, transport within surface finishing can receive the category assigned to finishing. Figure~\ref{fig:category} gives an exact released example. An explicit compatibility relation or a category rule using $(a,p)$ could improve future analyses, but neither was enforced in this extraction. Reclassifying all activities would define a different analysis and is not part of the present revision.
+
+\begin{figure}[htbp]\centering
+\begin{tikzpicture}[node distance=4mm, box/.style={draw,rounded corners,align=left,text width=0.88\linewidth,font=\small,inner sep=5pt},arr/.style={-{Stealth[length=2mm]}}]
+\node[box] (a) {Activity: \texttt{transport loaded tray to storage rack}};
+\node[box,below=of a] (p) {Process context: \texttt{Surface finishing and polishing}};
+\node[box,below=of p] (c) {Category under the released process map: VA};
+\draw[arr] (a) -- node[right,font=\scriptsize]{assigned context} (p);
+\draw[arr] (p) -- node[right,font=\scriptsize]{$g_f(p)$} (c);
+\end{tikzpicture}
+\caption{A transport action can contribute to VA time under a process-based category rule. Source: factory 003, worker 001, recording 00001, CSV data row 2, from 00:03:52 to 00:04:00 (8 seconds). The action is recorded; the category aggregation hides it.}
+\label{fig:category}\end{figure}

@@ -1,0 +1,1025 @@
+[
+  {
+    "key": "vanDerAalst2016processmining",
+    "doi": "10.1007/978-3-662-49851-4",
+    "status": "Verified with alternative primary source; see literature_verification.csv",
+    "crossref_attempt_status": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works/10.1007/978-3-662-49851-4",
+    "primary_url": "https://link.springer.com/book/10.1007/978-3-662-49851-4"
+  },
+  {
+    "key": "berti2023pm4py",
+    "doi": "10.1016/j.simpa.2023.100556",
+    "title": [
+      "PM4Py: A process mining library for Python"
+    ],
+    "authors": [
+      {
+        "given": "Alessandro",
+        "family": "Berti",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sebastiaan",
+        "family": "van Zelst",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6512-9580",
+        "authenticated-orcid": false,
+        "given": "Daniel",
+        "family": "Schuster",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container": [
+      "Software Impacts"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          9
+        ]
+      ]
+    },
+    "pages": "100556",
+    "volume": "17",
+    "primary_url": "https://doi.org/10.1016/j.simpa.2023.100556",
+    "status": "publisher-deposited metadata retrieved"
+  },
+  {
+    "key": "kratsch2022video",
+    "doi": "10.1016/j.dss.2022.113794",
+    "title": [
+      "Shedding light on blind spots – Developing a reference architecture to leverage video data for process mining"
+    ],
+    "authors": [
+      {
+        "given": "Wolfgang",
+        "family": "Kratsch",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Fabian",
+        "family": "König",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Maximilian",
+        "family": "Röglinger",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container": [
+      "Decision Support Systems"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          7
+        ]
+      ]
+    },
+    "pages": "113794",
+    "volume": "158",
+    "primary_url": "https://doi.org/10.1016/j.dss.2022.113794",
+    "status": "publisher-deposited metadata retrieved"
+  },
+  {
+    "key": "knoch2020video",
+    "doi": "10.1007/978-3-030-58666-9_17",
+    "status": "Verified with alternative primary source; see literature_verification.csv",
+    "crossref_attempt_status": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works/10.1007/978-3-030-58666-9_17",
+    "primary_url": "https://link.springer.com/chapter/10.1007/978-3-030-58666-9_17"
+  },
+  {
+    "key": "lepsien2023analytics",
+    "doi": "10.1007/978-3-031-41623-1_12",
+    "title": [
+      "Analytics Pipeline for Process Mining on Video Data"
+    ],
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-8105-382X",
+        "authenticated-orcid": false,
+        "given": "Arvid",
+        "family": "Lepsien",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8206-7636",
+        "authenticated-orcid": false,
+        "given": "Agnes",
+        "family": "Koschmider",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9815-0653",
+        "authenticated-orcid": false,
+        "given": "Wolfgang",
+        "family": "Kratsch",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container": [
+      "Lecture Notes in Business Information Processing",
+      "Business Process Management Forum"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "pages": "196-213",
+    "volume": null,
+    "primary_url": "https://doi.org/10.1007/978-3-031-41623-1_12",
+    "status": "publisher-deposited metadata retrieved"
+  },
+  {
+    "key": "brzychczy2025sensor",
+    "doi": "10.1007/s10115-024-02297-y",
+    "title": [
+      "Process mining on sensor data: a review of related works"
+    ],
+    "authors": [
+      {
+        "given": "Edyta",
+        "family": "Brzychczy",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Milda",
+        "family": "Aleknonytė-Resch",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Dominik",
+        "family": "Janssen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Agnes",
+        "family": "Koschmider",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container": [
+      "Knowledge and Information Systems"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          3
+        ]
+      ]
+    },
+    "pages": "4915-4948",
+    "volume": "67",
+    "primary_url": "https://doi.org/10.1007/s10115-024-02297-y",
+    "status": "publisher-deposited metadata retrieved"
+  },
+  {
+    "key": "diba2020extraction",
+    "doi": "10.1002/widm.1346",
+    "status": "Verified with alternative primary source; see literature_verification.csv",
+    "crossref_attempt_status": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works/10.1002/widm.1346",
+    "primary_url": "https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/widm.1346"
+  },
+  {
+    "key": "dani2025llm",
+    "doi": "10.1007/978-3-031-81375-7_4",
+    "title": [
+      "Event Log Extraction for Process Mining Using Large Language Models"
+    ],
+    "authors": [
+      {
+        "given": "Vinicius",
+        "family": "Stein Dani",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Marcus",
+        "family": "Dees",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Henrik",
+        "family": "Leopold",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kiran",
+        "family": "Busch",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Iris",
+        "family": "Beerepoot",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jan Martijn E. M.",
+        "family": "van der Werf",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Hajo A.",
+        "family": "Reijers",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container": [
+      "Lecture Notes in Computer Science",
+      "Cooperative Information Systems"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "pages": "56-72",
+    "volume": null,
+    "primary_url": "https://doi.org/10.1007/978-3-031-81375-7_4",
+    "status": "publisher-deposited metadata retrieved"
+  },
+  {
+    "key": "berti2025benchmark",
+    "doi": "10.1007/978-3-031-82225-4_45",
+    "title": [
+      "PM-LLM-Benchmark: Evaluating Large Language Models on Process Mining Tasks"
+    ],
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-3279-4795",
+        "authenticated-orcid": false,
+        "given": "Alessandro",
+        "family": "Berti",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2375-2152",
+        "authenticated-orcid": false,
+        "given": "Humam",
+        "family": "Kourani",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0955-6940",
+        "authenticated-orcid": false,
+        "given": "Wil M. P.",
+        "family": "van der Aalst",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container": [
+      "Lecture Notes in Business Information Processing",
+      "Process Mining Workshops"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "pages": "610-623",
+    "volume": null,
+    "primary_url": "https://doi.org/10.1007/978-3-031-82225-4_45",
+    "status": "publisher-deposited metadata retrieved"
+  },
+  {
+    "key": "leemans2013inductive",
+    "doi": "10.1007/978-3-642-38697-8_17",
+    "status": "Verified with alternative primary source; see literature_verification.csv",
+    "crossref_attempt_status": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works/10.1007/978-3-642-38697-8_17",
+    "primary_url": "https://link.springer.com/chapter/10.1007/978-3-642-38697-8_17"
+  },
+  {
+    "key": "aalst2019objectcentric",
+    "doi": "10.1007/978-3-030-30446-1_1",
+    "title": [
+      "Object-Centric Process Mining: Dealing with Divergence and Convergence in Event Data"
+    ],
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-0955-6940",
+        "authenticated-orcid": false,
+        "given": "Wil M. P.",
+        "family": "van der Aalst",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container": [
+      "Lecture Notes in Computer Science",
+      "Software Engineering and Formal Methods"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "pages": "3-25",
+    "volume": null,
+    "primary_url": "https://doi.org/10.1007/978-3-030-30446-1_1",
+    "status": "publisher-deposited metadata retrieved"
+  },
+  {
+    "key": "mannhardt2018privacy",
+    "doi": "10.1109/IE.2018.00017",
+    "title": [
+      "Privacy Challenges for Process Mining in Human-Centered Industrial Environments"
+    ],
+    "authors": [
+      {
+        "given": "Felix",
+        "family": "Mannhardt",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sobah Abbas",
+        "family": "Petersen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Manuel Fradinho",
+        "family": "Oliveira",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container": [
+      "2018 14th International Conference on Intelligent Environments (IE)"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          6
+        ]
+      ]
+    },
+    "pages": "64-71",
+    "volume": null,
+    "primary_url": "https://doi.org/10.1109/IE.2018.00017",
+    "status": "publisher-deposited metadata retrieved"
+  },
+  {
+    "key": "pham2018workflow",
+    "doi": "10.1145/3177102.3177112",
+    "status": "Verified with alternative primary source; see literature_verification.csv",
+    "crossref_attempt_status": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works/10.1145/3177102.3177112",
+    "primary_url": "https://research.aalto.fi/en/publications/unsupervised-workflow-extraction-from-first-person-video-of-mecha/"
+  },
+  {
+    "key": "vanZelst2021abstraction",
+    "doi": "10.1007/s41066-020-00226-2",
+    "title": [
+      "Event abstraction in process mining: literature review and taxonomy"
+    ],
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-0415-1036",
+        "authenticated-orcid": false,
+        "given": "Sebastiaan J.",
+        "family": "van Zelst",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Felix",
+        "family": "Mannhardt",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Massimiliano",
+        "family": "de Leoni",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Agnes",
+        "family": "Koschmider",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container": [
+      "Granular Computing"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          5,
+          27
+        ]
+      ]
+    },
+    "pages": "719-736",
+    "volume": "6",
+    "primary_url": "https://doi.org/10.1007/s41066-020-00226-2",
+    "status": "publisher-deposited metadata retrieved"
+  },
+  {
+    "key": "suriadi2017imperfections",
+    "doi": "10.1016/j.is.2016.07.011",
+    "title": [
+      "Event log imperfection patterns for process mining: Towards a systematic approach to cleaning event logs"
+    ],
+    "authors": [
+      {
+        "given": "S.",
+        "family": "Suriadi",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "R.",
+        "family": "Andrews",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "A.H.M.",
+        "family": "ter Hofstede",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "M.T.",
+        "family": "Wynn",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container": [
+      "Information Systems"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          3
+        ]
+      ]
+    },
+    "pages": "132-150",
+    "volume": "64",
+    "primary_url": "https://doi.org/10.1016/j.is.2016.07.011",
+    "status": "publisher-deposited metadata retrieved"
+  },
+  {
+    "key": "pegoraro2019uncertain",
+    "doi": "10.1109/ICPM.2019.00023",
+    "status": "Verified with alternative primary source; see literature_verification.csv",
+    "crossref_attempt_status": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works/10.1109/ICPM.2019.00023",
+    "primary_url": "https://arxiv.org/abs/1910.00089"
+  },
+  {
+    "key": "gebru2021datasheets",
+    "doi": "10.1145/3458723",
+    "status": "publisher-deposited metadata retrieved",
+    "title": [
+      "Datasheets for datasets"
+    ],
+    "authors": [
+      {
+        "given": "Timnit",
+        "family": "Gebru",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "DAIR Institute, Palo Alto, CA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jamie",
+        "family": "Morgenstern",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Washington, Seattle, WA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Briana",
+        "family": "Vecchione",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Cornell University, Ithaca, NY"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jennifer Wortman",
+        "family": "Vaughan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Microsoft Research, New York, NY"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Hanna",
+        "family": "Wallach",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Microsoft Research, New York, NY"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Hal Daumé",
+        "family": "III",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Maryland, College Park, MD"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kate",
+        "family": "Crawford",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "USC Annenberg, CA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container": [
+      "Communications of the ACM"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          11,
+          19
+        ]
+      ]
+    },
+    "pages": "86-92",
+    "volume": "64",
+    "primary_url": "https://doi.org/10.1145/3458723"
+  },
+  {
+    "key": "corallo2020industrial",
+    "doi": "10.1002/kpm.1630",
+    "title": [
+      "Process mining and industrial applications: A systematic literature review"
+    ],
+    "authors": [
+      {
+        "given": "Angelo",
+        "family": "Corallo",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "University of Salento  Lecce Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mariangela",
+        "family": "Lazoi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Salento  Lecce Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0747-2433",
+        "authenticated-orcid": false,
+        "given": "Fabrizio",
+        "family": "Striani",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Salento  Lecce Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container": [
+      "Knowledge and Process Management"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          26
+        ]
+      ]
+    },
+    "pages": "225-233",
+    "volume": "27",
+    "primary_url": "https://doi.org/10.1002/kpm.1630",
+    "status": "publisher-deposited metadata retrieved"
+  },
+  {
+    "key": "kecht2021conversations",
+    "doi": "10.1109/ICPM53251.2021.9576869",
+    "status": "publisher-deposited metadata retrieved",
+    "title": [
+      "Event Log Construction from Customer Service Conversations Using Natural Language Inference"
+    ],
+    "authors": [
+      {
+        "given": "Christoph",
+        "family": "Kecht",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Technical University of Munich,Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Andreas",
+        "family": "Egger",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "FIM Research Center, Project Group Business and Information Systems Engineering of the Fraunhofer FIT,Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Wolfgang",
+        "family": "Kratsch",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Applied Sciences Augsburg,Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Maximilian",
+        "family": "Roglinger",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "FIM Research Center, Project Group Business and Information Systems Engineering of the Fraunhofer FIT,Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container": [
+      "2021 3rd International Conference on Process Mining (ICPM)"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          10,
+          31
+        ]
+      ]
+    },
+    "pages": "144-151",
+    "volume": null,
+    "primary_url": "https://doi.org/10.1109/ICPM53251.2021.9576869"
+  }
+]

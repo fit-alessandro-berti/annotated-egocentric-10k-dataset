@@ -1,0 +1,7 @@
+factory,retained_videos,retained_events,summed_event_s,eligible_workers,VA_pct,MH_pct,TR_pct,QI_pct,CM_pct,RW_pct,DOC_pct,median_worker_va_pct,median_transitions_per_event_hour,median_worker_mean_va_run_min,mhtr_rows,mhtr_s,mhtr_rows_per_event_hour,mhtr_mean_row_s,top_processes
+factory_001,95,2237,111050,11,93.1,4.1,1.8,0.0,0.2,0.0,0.9,94.5,9.2,4.6,449,6528,14.555605583070689,14.538975501113585,Manual mechanical assembly: 55.7%; Metal stamping: 18.2%; Component bagging: 11.3%
+factory_002,54,1541,62266,10,96.3,0.1,2.3,0.2,0.0,0.0,1.1,97.30000000000001,3.9,8.75,87,1470,5.030032441460829,16.896551724137932,Fabric folding: 18.8%; Garment bagging: 17.1%; Garment ironing: 13.2%
+factory_003,72,2449,78123,10,82.1,0.4,0.0,0.0,6.3,10.8,0.4,86.35,3.55,9.0,20,310,0.9216235935639953,15.5,Surface finishing and polishing: 42.1%; Wax pattern assembly: 19.2%; Defect patching: 10.8%
+factory_004,51,1893,55646,10,89.9,3.0,3.5,2.0,0.9,0.0,0.7,91.3,10.55,3.6,167,3637,10.804011069978076,21.778443113772454,Overlock seaming: 23.5%; Garment folding: 11.0%; Thread trimming: 10.8%
+factory_005,22,1103,18213,5,80.6,5.4,9.7,4.3,0.0,0.0,0.0,85.9,5.6,6.2,92,2755,18.18481304562675,29.945652173913043,manual lathe machining: 32.1%; drill press machining: 19.1%; material transport and logistics: 9.7%
+factory_006,26,1424,24361,5,74.2,12.1,7.8,0.0,5.7,0.0,0.3,87.0,14.4,3.1,192,4827,28.37321949016871,25.140625,Sand mold creation: 17.4%; Pattern cleaning and coating: 14.0%; Compression molding: 12.2%
