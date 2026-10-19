@@ -9,5 +9,6 @@
 *.soc
 *-eps-converted-to.pdf
 !main.pdf
+!additional_material.pdf
 !cover_letter.pdf
 !Definitions/logo-orcid.pdf

@@ -1,0 +1,29 @@
+Additional-material separation verification
+19 October 2026
+Repository baseline: bd72953
+
+All six appendices appear only in additional_material.pdf. Their source
+content is unchanged except for cross-document reference prefixes. All
+generated evidence files, including the audit and prompt copies, are
+unchanged. The main paper contains an Additional Material statement and
+updated references to Appendices A to F.
+
+A clean build (make -C paper clean, then make -C paper) passed. A subsequent
+build after the final layout adjustment also passed. Both final logs have
+no undefined references, multiply defined labels, or overfull boxes.
+The existing class-level xcolor warning remains. PDF text has no unresolved
+reference markers or em or en dashes. All cross-document link destinations
+were checked against the target PDFs. Keep the PDFs in the same directory
+for the relative links to work.
+
+All 23 main-paper pages and all 10 additional-material pages were rendered
+with Poppler and visually inspected. The additional-material subheadings
+are kept with their content, and its PDF metadata identifies the document.
+No clipped text, overlapping elements, or orphaned subheadings remain.
+
+main.pdf: 23 pages; 13 verified cross-document links.
+additional_material.pdf: 10 pages; 14 verified cross-document links.
+
+Final PDF identifiers
+main.pdf: 1598030 bytes; SHA-256 e2952e67d2353a27efc71867a530c98d0c62d165fc8971c0d1b715e9badad6c4
+additional_material.pdf: 211975 bytes; SHA-256 5feaccae9f98c42b852a4087129d76905a64945eaff2aff73b14586de363569a

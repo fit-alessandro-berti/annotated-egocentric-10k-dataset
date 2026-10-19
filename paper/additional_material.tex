@@ -1,0 +1,54 @@
+\documentclass[systems,supfile,submit,pdftex,moreauthors]{Definitions/mdpi}
+
+\firstpage{1}
+\pubvolume{1}
+\issuenum{1}
+\articlenumber{0}
+\pubyear{2026}
+\copyrightyear{2026}
+\datereceived{ }
+\daterevised{ }
+\dateaccepted{ }
+\datepublished{ }
+\hreflink{}
+\geometry{headheight=25pt}
+\renewcommand{\leftcolUpdateCitation}{}
+\makeatletter
+\apptocmd{\ps@plain}{\fancyfoot[R]{}}{}{\ClassError{mdpi}{Cannot clear the unassigned DOI footer}{}}
+\patchcmd{\@maketitle}{Supplementary Materials:}{Additional Material:}{}{\ClassError{mdpi}{Cannot set the additional-material title}{}}
+\makeatother
+
+\usepackage{listings}
+\usepackage{longtable}
+\usepackage{placeins}
+\usepackage{needspace}
+\usepackage{xr-hyper}
+\externaldocument[main-][nocite]{main}
+\DeclareRobustCommand{\artifact}[1]{\path{#1}}
+\lstset{basicstyle=\scriptsize\ttfamily, breaklines=true, frame=single, framerule=0.3pt,
+  captionpos=b, aboveskip=6pt, belowskip=2pt, xleftmargin=2pt, xrightmargin=2pt,
+  breakindent=0pt, abovecaptionskip=2pt, columns=fullflexible, keepspaces=true}
+
+\Title{Seeing the Process Through the Worker's Eyes: Event Logs from Egocentric Factory Videos}
+\TitleCitation{Additional Material: Seeing the Process Through the Worker's Eyes}
+\newcommand{\orcidauthorA}{0000-0002-3279-4795}
+\newcommand{\orcidauthorB}{0000-0002-0955-6940}
+\Author{Alessandro Berti $^{1,}$*\orcidA{} and Wil M. P. van der Aalst $^{1,2}$\orcidB{}}
+\AuthorNames{Alessandro Berti and Wil M. P. van der Aalst}
+\AuthorCitation{Berti, A.; van der Aalst, W.M.P.}
+\address{%
+$^{1}$ \quad Process and Data Science (PADS), RWTH Aachen University, Aachen, Germany;\\
+\hspace*{1.1em} a.berti@pads.rwth-aachen.de (A.B.); wvdaalst@pads.rwth-aachen.de (W.M.P.v.d.A.)\\
+$^{2}$ \quad Celonis, Munich, Germany}
+\corres{Correspondence: a.berti@pads.rwth-aachen.de}
+
+\begin{document}
+\hypersetup{pdftitle={Additional Material: Seeing the Process Through the Worker's Eyes: Event Logs from Egocentric Factory Videos}}
+This document accompanies the \href{main.pdf}{main article}. It contains Appendices A to F. References to numbered sections, figures, tables, and equations without an appendix prefix refer to the main article. The appendices preserve the existing evidence, judgments, and prompt templates.
+
+\appendixtitles{yes}
+\appendixstart
+\appendix
+\pretocmd{\subsection}{\Needspace{6\baselineskip}}{}{\ClassError{mdpi}{Cannot keep appendix subheadings with their content}{}}
+\input{sections/appendices}
+\end{document}

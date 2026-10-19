@@ -129,3 +129,13 @@ See verification.txt for executed data, manuscript, bibliography, build,
 source-integrity, and visual checks. Source metadata and primary-source
 verification records are stored alongside this note. The manuscript and
 cover letter were rebuilt locally; neither was submitted or sent.
+
+Additional-material separation
+Appendices A to F now appear in additional_material.tex and its separate
+PDF. The main article identifies and links to this Additional Material.
+Cross-document references preserve appendix, table, figure, section, and
+equation numbers. The appendix evidence, audit judgments, prompts, and
+calculations are unchanged. The build and README files cover both article
+documents. See additional_material_verification.txt for the updated PDF
+layout and reference checks; verification.txt records the earlier combined
+manuscript verification.

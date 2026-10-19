@@ -36,13 +36,13 @@ The original pandas-based assessment and value-analysis scripts accept portable 
 \label{tab:repro}\footnotesize
 \begin{tabularx}{\linewidth}{@{}LLL@{}}\toprule
 Paper result & Calculation and frozen input & Saved evidence \\\midrule
-Tables~\ref{tab:inventory}, \ref{tab:anomalies}, \ref{tab:corpus} & \texttt{reproduce.py}; source texts and per-video logs; \texttt{assess.py} for original diagnostics & Artifact, inclusion, interval, and structural manifests \\
-Tables~\ref{tab:value}, \ref{tab:bench} and factory cases & \texttt{reproduce.py} and \texttt{value\_analysis.py}; original process map and retained rows & Factory metrics, worker metrics, comparisons, composition totals \\
-Figure~\ref{fig:composition} & \texttt{reproduce.py}; exact duration totals and original map & Generated TikZ bars and category percentages \\
-Figure~\ref{fig:category} and Section~\ref{sec:zeros} & Activity-label filter over factory 003 CSVs & 101 rows in \artifact{factory003_transport.csv} \\
-Table~\ref{tab:audit}, Appendix~\ref{app:audit} & Mechanical transcription of \texttt{audit\_verdicts.md} & 84 judgments in CSV and LaTeX \\
-Section~\ref{sec:discovery} & Original \texttt{pm\_utility.py}, all per-video rows & \artifact{activity_discovery.json} and execution output \\
-Equation~\ref{eq:missing} & Algebra under explicitly idealized assumptions & Proof in Section~\ref{sec:missingtime}; no empirical bound \\
+Tables~\ref{main-tab:inventory}, \ref{main-tab:anomalies}, \ref{main-tab:corpus} & \texttt{reproduce.py}; source texts and per-video logs; \texttt{assess.py} for original diagnostics & Artifact, inclusion, interval, and structural manifests \\
+Tables~\ref{main-tab:value}, \ref{main-tab:bench} and factory cases & \texttt{reproduce.py} and \texttt{value\_analysis.py}; original process map and retained rows & Factory metrics, worker metrics, comparisons, composition totals \\
+Figure~\ref{main-fig:composition} & \texttt{reproduce.py}; exact duration totals and original map & Generated TikZ bars and category percentages \\
+Figure~\ref{main-fig:category} and Section~\ref{main-sec:zeros} & Activity-label filter over factory 003 CSVs & 101 rows in \artifact{factory003_transport.csv} \\
+Table~\ref{main-tab:audit}, Appendix~\ref{app:audit} & Mechanical transcription of \texttt{audit\_verdicts.md} & 84 judgments in CSV and LaTeX \\
+Section~\ref{main-sec:discovery} & Original \texttt{pm\_utility.py}, all per-video rows & \artifact{activity_discovery.json} and execution output \\
+Equation~\ref{main-eq:missing} & Algebra under explicitly idealized assumptions & Proof in Section~\ref{main-sec:missingtime}; no empirical bound \\
 \bottomrule\end{tabularx}
 \end{table}
 
@@ -67,7 +67,7 @@ The following tables preserve all 84 verdicts and source identifiers. The shorth
 
 \section{Full Extraction Prompts}
 \label{app:prompts}
-These are the four released prompt templates, with punctuation normalized for display. The source files and their hashes remain in the resource. They specify requested model behavior, not guaranteed output properties. Placeholder braces are filled by the scripts; additional context is constructed as described in Table~\ref{tab:stages}.
+These are the four released prompt templates, with punctuation normalized for display. The source files and their hashes remain in the resource. They specify requested model behavior, not guaranteed output properties. Placeholder braces are filled by the scripts; additional context is constructed as described in Table~\ref{main-tab:stages}.
 \subsection{S1: Video transcription}
 \lstinputlisting[basicstyle=\scriptsize\ttfamily]{generated/annotation_prompt.txt}
 \subsection{S2: Worker summary}

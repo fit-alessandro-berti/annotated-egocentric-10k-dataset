@@ -98,7 +98,7 @@ The main naming convention throughout the repository is:
 
 ## Journal revision and offline reproduction
 
-The revised paper is in [paper/main.tex](paper/main.tex). The [revision notes](paper/revision/REVISION_NOTES.txt) record corrections, evidence links, and unresolved historical metadata. The [dataset card](paper/revision/DATASET_CARD.txt) defines intended uses and limitations.
+The revised paper is in [paper/main.tex](paper/main.tex). Its appendices are in the separate [Additional Material](paper/additional_material.tex), referenced from the main article. Run `make -C paper` to build both documents and the cover letter. The [revision notes](paper/revision/REVISION_NOTES.txt) record corrections, evidence links, and unresolved historical metadata. The [dataset card](paper/revision/DATASET_CARD.txt) defines intended uses and limitations.
 
 Run the frozen-artifact assessment without API access:
 

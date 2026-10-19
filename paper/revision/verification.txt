@@ -2,6 +2,10 @@ Journal revision verification
 19 October 2026
 Repository baseline: 9fca692
 
+This record concerns the combined manuscript before the appendices were
+separated. See additional_material_verification.txt for the current PDF
+layout and cross-document reference checks.
+
 Scope and completion
 All 28 requested improvements were checked against the supplied review.
 requirements_completion.csv maps each numbered item to its deliverables.

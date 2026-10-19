@@ -1,10 +1,11 @@
 Systems submission files
 
 Manuscript: main.tex and main.pdf
+Additional material: additional_material.tex and additional_material.pdf
 Cover letter: cover_letter.tex and cover_letter.pdf
 
-Keep the manuscript and cover letter as separate files. Do not create ZIP
-archives for this paper.
+Keep the manuscript, additional material, and cover letter as separate
+files. Do not create ZIP archives for this paper.
 
 Target journal: Systems (MDPI)
 Article type: Article
@@ -13,14 +14,21 @@ https://www.mdpi.com/journal/systems/special_issues/EGUYTR6HWI
 
 Build
 
-Run make in this directory to compile both PDFs. The build needs a full
-TeX Live installation with pdfLaTeX, BibTeX, and latexmk. To build the
-manuscript without make, run:
+Run make in this directory to compile all three PDFs. The build needs a
+full TeX Live installation with pdfLaTeX, BibTeX, and latexmk. The manuscript
+and additional material import each other's labels through xr-hyper. The
+build compiles them in sequence twice to resolve references from a clean
+checkout and after edits. To build these two documents without make, run:
 
   latexmk -pdf -interaction=nonstopmode -halt-on-error main.tex
+  latexmk -pdf -interaction=nonstopmode -halt-on-error additional_material.tex
+  latexmk -pdf -interaction=nonstopmode -halt-on-error main.tex
+  latexmk -pdf -interaction=nonstopmode -halt-on-error additional_material.tex
 
 To build the cover letter, use the same command with cover_letter.tex.
-Upload the cover letter separately. Both documents remain editable in LaTeX.
+Upload the additional material and cover letter separately. Keep the two
+article PDFs together to use their relative cross-document links. All
+three documents remain editable in LaTeX.
 
 Template
 
@@ -61,7 +69,10 @@ https://huggingface.co/datasets/builddotai/Egocentric-10K/blob/main/README.md
 
 Journal revision (19 October 2026)
 
-The paper is split into editable files under sections/. Revision notes,
+The paper is split into editable files under sections/. Appendices A to F
+are included only in additional_material.tex through sections/appendices.tex.
+The main article identifies this separate document as Additional Material
+and links to its appendices. Revision notes,
 claim evidence, the 28-item completion map, source metadata, and a dataset
 card are under revision/. Longer Markdown drafts in docs/ are historical
 working material and are superseded by main.tex and sections/.
