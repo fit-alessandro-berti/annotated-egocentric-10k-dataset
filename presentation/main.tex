@@ -19,6 +19,8 @@
 \setbeamercolor{frametitle}{bg=egoblue!12, fg=egoblue!50!black}
 \setbeamertemplate{navigation symbols}{}
 \setbeamertemplate{itemize items}[circle]
+% Use plain text for the appendix bookmark instead of \translate.
+\renewcommand{\appendixname}{Appendix}
 
 \newcommand{\keyc}[1]{\textbf{\textcolor{egoblue}{#1}}}
 \newcommand{\keyg}[1]{\textbf{\textcolor{egogreen!70!black}{#1}}}
@@ -147,7 +149,7 @@
       {text-only model};
   \end{tikzpicture}}
   \end{center}
-  \vspace{2mm}
+  \vspace{1mm}
   \begin{itemize}\setlength{\itemsep}{4pt}
     \item \keyc{Late abstraction}: verbalize first, introduce activity labels
       only after a \keyg{factory-wide vocabulary} exists
@@ -471,6 +473,7 @@
 
 % ---------------------------------------------------------------- A4
 \begin{frame}{Appendix: Worker Benchmarking (A4)}
+  \small
   Workers on the \keyc{same dominant process} are directly comparable
   (at least 30 min of footage each):
   \vspace{1mm}

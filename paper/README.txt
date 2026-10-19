@@ -17,15 +17,26 @@ Build
 Run make in this directory to compile all three PDFs. The build needs a
 full TeX Live installation with pdfLaTeX, BibTeX, and latexmk. The manuscript
 and additional material import each other's labels through xr-hyper. The
-build compiles them in sequence twice to resolve references from a clean
-checkout and after edits. To build these two documents without make, run:
+local latexmkrc builds missing or outdated external labels automatically,
+including changes to included sections and generated appendices. The
+Makefile also builds both documents twice in sequence and treats unresolved
+references and citations as build failures.
 
-  latexmk -pdf -interaction=nonstopmode -halt-on-error main.tex
-  latexmk -pdf -interaction=nonstopmode -halt-on-error additional_material.tex
-  latexmk -pdf -interaction=nonstopmode -halt-on-error main.tex
-  latexmk -pdf -interaction=nonstopmode -halt-on-error additional_material.tex
+To build all three documents without make, run from this directory:
 
-To build the cover letter, use the same command with cover_letter.tex.
+  latexmk -pdf -Werror -interaction=nonstopmode -halt-on-error
+
+Append main.tex, additional_material.tex, or cover_letter.tex to build one
+document and its reference dependencies. Configure editors to use latexmk
+from this directory (or make -C paper from the repository root), so they
+load latexmkrc and resolve the relative template and figure paths.
+
+Only main.tex has a bibliography. Let latexmk run BibTeX when needed; do not
+use an unconditional pdflatex/BibTeX recipe for the additional material or
+cover letter. Running BibTeX on these documents produces "no citation" and
+"no bibdata" errors because they have no local bibliography. For a manual
+manuscript build, the bibliography command is bibtex main.
+
 Upload the additional material and cover letter separately. Keep the two
 article PDFs together to use their relative cross-document links. All
 three documents remain editable in LaTeX.
@@ -36,9 +47,11 @@ The Definitions directory contains MDPI's official class, bibliography
 styles, and logos. Downloaded on 19 October 2026 from:
 https://mdpi-res.com/data/MDPI_template.zip
 The class identifies its version as 18 June 2025. The manuscript uses
-the systems, article, submit, pdftex, and moreauthors options, with the
-MDPI numeric bibliography style. Its page-range formatter has one local
-change: it writes "to" instead of a dash. All other style functions and
+the systems, article, submit, and moreauthors options, with the MDPI numeric
+bibliography style. The graphics packages detect the pdfLaTeX driver
+automatically, avoiding repeated load-time options for xcolor. The
+page-range formatter has one local change: it writes "to" instead of a
+dash. All other style functions and
 template files are unchanged. The submit option adds review line numbers.
 The manuscript hides the unassigned citation and DOI in the submission
 copy. Publication identifiers are left to the editorial office.

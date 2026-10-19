@@ -1,0 +1,46 @@
+# Compile the paper and its linked appendices from a clean checkout, including
+# when an editor invokes latexmk on only one of the two documents.
+$pdf_mode = 1;
+@default_files = ('main.tex', 'additional_material.tex', 'cover_letter.tex');
+$bibtex_use = 1;  # Only documents with a bibliography need BibTeX.
+
+# The two documents import each other's labels. A nested build must not start
+# another nested build of the document that is already being compiled.
+unless ($ENV{'EGOCENTRIC_EXTERNAL_BUILD'}) {
+    push @file_not_found, '^No file\s*(.+)\s*$';
+    add_cus_dep('tex', 'aux', 0, 'build_external_document');
+}
+
+sub build_external_document {
+    my ($name, $path) = fileparse($_[0]);
+    return 0 if $name eq $root_filename;
+    my $external_aux_dir = rel2abs($aux_dir || '.');
+    my $external_out_dir = rel2abs($out_dir || '.');
+
+    # Track included sources as well as the top-level .tex file. Otherwise an
+    # appendix-only edit would leave the imported labels stale.
+    for my $source (glob("${path}sections/*.tex"),
+                    glob("${path}generated/*"),
+                    glob("${path}Definitions/*"),
+                    glob("${path}figures/*"),
+                    "${path}references.bib") {
+        next if $source =~ /-eps-converted-to\.pdf$/;
+        rdb_ensure_file($rule, $source) if -f $source;
+    }
+
+    local $ENV{'EGOCENTRIC_EXTERNAL_BUILD'} = 1;
+    pushd($path);
+    my $status = system('latexmk', '-pdf', '-bibtex-cond',
+                        '-interaction=nonstopmode', '-halt-on-error',
+                        '-file-line-error', "-auxdir=$external_aux_dir",
+                        "-outdir=$external_out_dir", "$name.tex");
+    popd();
+    if ($status == 0 && $external_aux_dir ne rel2abs($path)) {
+        # latexmk's tex-to-aux rule expects the aux next to its source. Also
+        # register the actual output so subsequent builds track it correctly.
+        my $external_aux = "$external_aux_dir/$name.aux";
+        rdb_add_generated($external_aux);
+        copy($external_aux, "$_[0].aux") or return 1;
+    }
+    return $status;
+}
