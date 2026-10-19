@@ -29,6 +29,11 @@
 
 \usepackage{listings}
 \usepackage{placeins}
+% A top-only float in this group waits for the next page without ending
+% the current text page. Other floats keep the template's usual behavior.
+\makeatletter
+\newenvironment{nextpagetopfloat}{\let\@addtotoporbot\@addtobot}{}
+\makeatother
 \renewcommand{\topfraction}{0.92}
 \renewcommand{\textfraction}{0.06}
 \setcounter{topnumber}{3}

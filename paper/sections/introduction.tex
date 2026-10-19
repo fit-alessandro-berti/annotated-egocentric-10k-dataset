@@ -8,7 +8,6 @@ Process mining uses timestamped event records to study operational processes~\ci
 \label{fig:egocentric}
 \end{adjustwidth}\end{figure*}
 
-\FloatBarrier
 Egocentric video records work from the camera wearer's perspective. The public Egocentric-10K resource provides factory recordings of this kind~\cite{build2025egocentric}. Figure~\ref{fig:egocentric} illustrates the viewpoint. Turning recordings into event logs requires decisions about what constitutes an event, which names to use, and how to interpret time. These are measurement decisions as well as extraction tasks. A well-formed log can still misrepresent the work if a behavior is omitted, a boundary is estimated poorly, or an analytical category hides a recorded action.
 
 Video-to-log construction already includes language-model-based methods. Vid2log uses a pretrained vision-language model to interpret video and construct event data~\cite{gavric2024multimodal}. First-person workflow extraction also predates this study~\cite{petersen2013workflows,pham2018workflow}. The question here is how to build a shared event representation from the available factory recordings and explain its consequences for process analysis. In particular, naming an activity, assigning an episode to that name, and mapping the label into a measurement category are separate decisions. A shared vocabulary makes within-factory comparison possible, but does not by itself make the resulting measurements accurate or comparable across tasks.
@@ -43,8 +42,8 @@ The paper makes three contributions:
 
 The assessment combines checks of the released records, archived author judgments against generated transcripts, and descriptive process analyses. Appendix~\ref{supp-app:extension} of the Additional Material summarizes the evidence supporting each type of conclusion.
 
-% Start the research-question table on the page after the overview figure.
-\clearpage
+% Keep the table on the next page while the surrounding text continues.
+\begin{nextpagetopfloat}
 \begin{table*}[!t]\begin{adjustwidth}{-\extralength}{0cm}
 \caption{Research questions, evidence, and limits.}
 \label{tab:rq}\footnotesize
@@ -56,7 +55,6 @@ Question and section & Supporting artifacts & Finding & Main limit \\\midrule
 \textbf{RQ4}, Section~\ref{sec:measurement} & Worked examples, merge code, metric definitions & Aggregation can hide behavior; missing time has two-sided effects & Conceptual deductions do not estimate unknown errors \\
 \bottomrule\end{tabularx}
 \end{adjustwidth}\end{table*}
+\end{nextpagetopfloat}
 
 Four research questions organize the paper. \textbf{RQ1:} How are the inferred logs constructed, and which structural properties do the released records satisfy? \textbf{RQ2:} How well do event timing and meaning agree with the generated transcripts? \textbf{RQ3:} Which descriptive analyses do the logs support, and what limits their operational interpretation? \textbf{RQ4:} What general measurement lessons follow from the representation, temporal rules, and shared evidence? Table~\ref{tab:rq} links each question to its evidence.
-
-\FloatBarrier

@@ -28,7 +28,6 @@ Prompts; stage scripts & 4; 5 & Extraction instructions and implementation \\
 \bottomrule\end{tabularx}
 \end{adjustwidth}\end{table*}
 
-\FloatBarrier
 The six per-video columns are \texttt{start\_timestamp}, \texttt{end\_timestamp}, \texttt{activity}, \texttt{process}, \texttt{factory}, and \texttt{worker}. S5 adds \texttt{source\_file}, \texttt{case\_id}, video-relative start and end offsets, and duration. Table~\ref{tab:inventory} and the hashed artifact manifest distinguish file counts from unique event counts. The released dataset documentation follows the documentation concerns of Datasheets for Datasets~\cite{gebru2021datasheets}: composition, collection, uses, and limitations.
 
 There are 13{,}304 generated transcript entries recognized by the original three-component timestamp parser. Recognizing the additional two-component and mixed-format entries gives 13{,}462 entries, without rescaling any timestamp.

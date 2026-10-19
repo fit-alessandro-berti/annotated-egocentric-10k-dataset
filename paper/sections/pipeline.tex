@@ -15,7 +15,6 @@ Event-instance assignment & S4 & Select permitted labels for episodes; retain or
 \bottomrule\end{tabularx}
 \end{adjustwidth}\end{table*}
 
-\FloatBarrier
 \subsection{Vocabulary construction as event abstraction}
 \label{sec:abstraction}
 Event abstraction concerns the level at which observations represent process behavior~\cite{vanZelst2021abstraction}. Table~\ref{tab:abstraction} separates three decisions in our implementation. Constructing a reusable class and assigning an event to it are different tasks: a missing concept and a mistaken assignment require different checks. The process list supplies a second label dimension, with no enforced parent-child relation to the activity list.
@@ -107,6 +106,5 @@ Interval events & Preserve approximate episode duration & Row counts do not equa
 \bottomrule\end{tabularx}
 \end{adjustwidth}\end{table*}
 
-\FloatBarrier
 \subsection{Design choices and tradeoffs}
 Table~\ref{tab:tradeoffs} summarizes the design choices and alternatives. Repeated cycles deserve particular care. If ten cycles become one narrated interval and one event, the event count decreases and the directly-follows relation loses nine possible repetitions. A longer event can represent more repetitions, slower work, or more aggressive compression. The logs alone do not distinguish these explanations. The text interface makes this decision inspectable, but does not recover details omitted from the generated transcript.
