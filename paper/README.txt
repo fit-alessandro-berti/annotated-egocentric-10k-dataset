@@ -82,8 +82,10 @@ https://huggingface.co/datasets/builddotai/Egocentric-10K/blob/main/README.md
 
 Journal revision (19 October 2026)
 
-The paper is split into editable files under sections/. Appendices A to F
+The paper is split into editable files under sections/. Appendices A to E
 are included only in additional_material.tex through sections/appendices.tex.
+The four full prompt templates are included as compact top floats in the
+main article's pipeline section, with references from the stage descriptions.
 The main article identifies this separate document as Additional Material
 and links to its appendices. Revision notes,
 claim evidence, the 28-item completion map, source metadata, and a dataset

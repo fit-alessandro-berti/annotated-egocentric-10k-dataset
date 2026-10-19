@@ -1,6 +1,6 @@
 \section{Introduction}
 \label{sec:introduction}
-Process mining uses timestamped event records to study operational processes~\cite{vanDerAalst2016processmining}. Many manual factory tasks leave no such records. An information system may record an order or machine checkpoint while missing how a worker loads parts, moves material, checks a component, or switches tools. Video can make some of this work observable, but it does not directly provide the case identifiers, labels, and event boundaries that process mining needs~\cite{kratsch2022video}.
+\emph{Process mining} uses timestamped event records to study operational processes~\cite{vanDerAalst2016processmining}. Many manual factory tasks leave no such records. An information system may record an order or machine checkpoint while missing how a worker loads parts, moves material, checks a component, or switches tools. Video can make some of this work observable, but it does not directly provide the case identifiers, labels, and event boundaries that process mining needs~\cite{kratsch2022video}.
 
 \begin{figure*}[!t]\begin{adjustwidth}{-\extralength}{0cm}
 \centering\includegraphics[width=0.85\linewidth]{figures/egocentric10k.png}
@@ -8,20 +8,20 @@ Process mining uses timestamped event records to study operational processes~\ci
 \label{fig:egocentric}
 \end{adjustwidth}\end{figure*}
 
-Egocentric video records work from the camera wearer's perspective. The public Egocentric-10K resource provides factory recordings of this kind~\cite{build2025egocentric}. Figure~\ref{fig:egocentric} illustrates the viewpoint. Turning recordings into event logs requires decisions about what constitutes an event, which names to use, and how to interpret time. These are measurement decisions as well as extraction tasks. A well-formed log can still misrepresent the work if a behavior is omitted, a boundary is estimated poorly, or an analytical category hides a recorded action.
+\emph{Egocentric video} records work from the camera wearer's perspective. The public Egocentric-10K resource provides factory recordings of this kind~\cite{build2025egocentric}. Figure~\ref{fig:egocentric} illustrates the viewpoint. Turning recordings into event logs requires decisions about what constitutes an event, which names to use, and how to interpret time. These are \emph{measurement decisions} as well as extraction tasks. A well-formed log can still misrepresent the work if a behavior is omitted, a boundary is estimated poorly, or an analytical category hides a recorded action.
 
-Video-to-log construction already includes language-model-based methods. Vid2log uses a pretrained vision-language model to interpret video and construct event data~\cite{gavric2024multimodal}. First-person workflow extraction also predates this study~\cite{petersen2013workflows,pham2018workflow}. The question here is how to build a shared event representation from the available factory recordings and explain its consequences for process analysis. In particular, naming an activity, assigning an episode to that name, and mapping the label into a measurement category are separate decisions. A shared vocabulary makes within-factory comparison possible, but does not by itself make the resulting measurements accurate or comparable across tasks.
+Video-to-log construction already includes language-model-based methods. Vid2log uses a pretrained vision-language model to interpret video and construct event data~\cite{gavric2024multimodal}. First-person workflow extraction also predates this study~\cite{petersen2013workflows,pham2018workflow}. The question here is how to build a \emph{shared event representation} from the available factory recordings and explain its consequences for process analysis. In particular, naming an activity, assigning an episode to that name, and mapping the label into a measurement category are separate decisions. A shared vocabulary makes within-factory comparison possible, but does not by itself make the resulting measurements accurate or comparable across tasks.
 
-We study a five-stage pipeline: describe each recording, summarize each worker's recordings, derive shared factory labels, extract labeled event intervals, and combine the events into logs. The timestamped descriptions of visible actions are called generated transcripts. Vocabulary induction means deriving shared activity and process label lists from the recorded workers in each factory. These lists guide event extraction from the generated transcripts. The application covers six factories, 59 worker identifiers, and 322 recordings. The resulting 10{,}698 events are inferred operational episodes. They do not provide a complete census of production cycles or manufactured items.
+We study a \emph{five-stage pipeline}: describe each recording, summarize each worker's recordings, derive shared factory labels, extract labeled event intervals, and combine the events into logs. The timestamped descriptions of visible actions are called \emph{generated transcripts}. \emph{Vocabulary induction} means deriving shared activity and process label lists from the recorded workers in each factory. These lists guide event extraction from the generated transcripts. The application covers six factories, 59 worker identifiers, and 322 recordings. The resulting 10{,}698 events are \emph{inferred operational episodes}. They do not provide a complete census of production cycles or manufactured items.
 
 \begin{figure*}[!t]\begin{adjustwidth}{-\extralength}{0cm}\centering
 \begin{tikzpicture}[node distance=9mm and 10mm,box/.style={draw,rounded corners,align=center,font=\small,text width=28mm,minimum height=11mm},arr/.style={-{Stealth[length=2mm]},thick}]
 \node[box] (v) {Video};
-\node[box,right=of v] (t) {S1: generated transcript};
-\node[box,right=of t] (w) {S2: worker summary};
-\node[box,below=of w] (f) {S3: factory report and labels};
-\node[box,below=of t] (e) {S4: interval events};
-\node[box,below=of e] (m) {S5: merged logs};
+\node[box,right=of v] (t) {\textbf{S1}: generated transcript};
+\node[box,right=of t] (w) {\textbf{S2}: worker summary};
+\node[box,below=of w] (f) {\textbf{S3}: factory report and labels};
+\node[box,below=of t] (e) {\textbf{S4}: interval events};
+\node[box,below=of e] (m) {\textbf{S5}: merged logs};
 \node[box,left=of m] (a) {Analysis and interpretation};
 \draw[arr] (v)--(t);\draw[arr] (t)--(w);\draw[arr] (w)--(f);
 \draw[arr] (t)--(e);\draw[arr] (f)--(e);
@@ -37,7 +37,7 @@ The paper makes three contributions:
 \begin{itemize}
 \item \textbf{A construction design.} We specify how descriptive narration, aggregation across workers, factory vocabulary induction, and vocabulary-constrained extraction produce interval events. The foundation-model parameters remain fixed; the representation adapts to the available factory corpus. Formal definitions and implementation checks make the event and case choices explicit.
 \item \textbf{A reusable resource.} We link generated transcripts, worker summaries, factory vocabularies, inferred intervals, consolidated logs, and analysis artifacts. This collection supports inspection of the construction steps and reuse of the intermediate text. It is not an independently annotated ground-truth benchmark.
-\item \textbf{Findings about representation and measurement.} Existing examples show how event boundaries, case construction (choosing which events belong to the same trace), and category maps affect duration and sequence descriptions. In factory \textbf{003}, transport remains in the event log, but its duration is counted under other categories because the category rule uses broader process labels. We separate these findings from consistency with generated transcripts, visual accuracy, and operational claims that require further evidence.
+\item \textbf{Findings about representation and measurement.} Existing examples show how \emph{event boundaries}, \emph{case construction} (choosing which events belong to the same trace), and \emph{category maps} affect duration and sequence descriptions. In factory \textbf{003}, transport remains in the event log, but its duration is counted under other categories because the category rule uses broader process labels. We separate these findings from consistency with generated transcripts, visual accuracy, and operational claims that require further evidence.
 \end{itemize}
 
 The assessment combines checks of the released records, archived author judgments against generated transcripts, and descriptive process analyses. Appendix~\ref{supp-app:extension} of the Additional Material summarizes the evidence supporting each type of conclusion.

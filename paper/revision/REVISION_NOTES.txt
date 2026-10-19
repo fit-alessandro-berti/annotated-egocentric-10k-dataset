@@ -139,3 +139,10 @@ calculations are unchanged. The build and README files cover both article
 documents. See additional_material_verification.txt for the updated PDF
 layout and reference checks; verification.txt records the earlier combined
 manuscript verification.
+
+Prompt placement update
+The four full prompt templates formerly in Appendix F now appear as
+full-width top floats in the main article's pipeline section, with numbered
+listing captions and references from the stage descriptions. Their source
+text is unchanged. The Additional Material now contains Appendices A to E;
+its introduction and the main article's cross-references reflect this move.

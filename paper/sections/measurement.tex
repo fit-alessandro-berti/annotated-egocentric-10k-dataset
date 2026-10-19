@@ -9,7 +9,7 @@
 Mechanism & Where information is lost & Needed check \\\midrule
 Behavior absent from the recorded window & Observation selection & Define the window and verify that it is suitable for the question \\
 Behavior present but not narrated & Video interpretation or narration & Independent review of source footage \\
-Behavior narrated but lost in summaries & S2 or S3 compression & Compare generated transcripts with worker and factory summaries \\
+Behavior narrated but lost in summaries & \textbf{S2} or \textbf{S3} compression & Compare generated transcripts with worker and factory summaries \\
 No suitable vocabulary label & Vocabulary induction & Inspect lists against the behavior of interest \\
 Suitable label exists but is not assigned & Event extraction & Compare relevant generated transcript spans and extracted labels \\
 Event exists but category aggregation hides it & Analytical mapping & Compare activity-level rows with process-derived categories \\
@@ -24,18 +24,18 @@ To interpret an observed zero as evidence of absence within a window, an analyst
 
 \subsection{Uncertainty propagation and limits of provenance}
 \label{sec:uncertainty}
-Several generated outputs can agree because they inherited the same earlier mistake. A mistaken object description in S1 can shape the worker summary, the factory vocabulary, and the final event label along both branches of Figure~\ref{fig:dependency}. Provenance helps trace how an event was constructed, so readers can inspect these dependencies. Table~\ref{tab:uncertainty} links the possible errors to their analytical consequences and the available evidence.
+Several generated outputs can agree because they inherited the same earlier mistake. A mistaken object description in \textbf{S1} can shape the worker summary, the factory vocabulary, and the final event label along both branches of Figure~\ref{fig:dependency}. Provenance helps trace how an event was constructed, so readers can inspect these dependencies. Table~\ref{tab:uncertainty} links the possible errors to their analytical consequences and the available evidence.
 
 \begin{table*}[!t]\begin{adjustwidth}{-\extralength}{0cm}
 \caption{Transformation, possible imperfection, analytical consequence, and existing evidence. A prompt or a permitted operation establishes a possible mechanism, not its error frequency.}
 \label{tab:uncertainty}\footnotesize
 \begin{tabularx}{\linewidth}{@{}>{\raggedright\arraybackslash}p{0.16\linewidth}LLL@{}}\toprule
 Transformation & Possible imperfection & Downstream consequence & Existing evidence \\\midrule
-S1: narration & Omitted actions or compressed repetitions; inaccurate times & Row frequency differs from cycle frequency; duration can be distorted & Repetition rule in prompt; seven endpoint anomalies in Table~\ref{tab:anomalies}; visual omissions unmeasured \\
-S2 and S3: summaries and classes & Rare details lost; concepts merged or separated & Vocabulary may omit a needed distinction & Compression requested by prompts; lists available for inspection; information loss not quantified \\
-S4: label assignment & Episode forced into the closest permitted label & Membership passes despite weak textual support & Six partially supported audit events, including the bagging example; mechanism not isolated by the audit \\
-S4: interval assignment & Internal boundary added without a timed transition in the text & Duration attributed to each action depends on the split & Foundry split at 00:04:24; 35 adjacent overlaps in the full archive \\
-S5: consolidation & Filename joins treated as continuous behavior & Added transitions and synthetic elapsed time & Merge code and preserved local offsets; real inter-clip gaps unknown \\
+\textbf{S1}: narration & Omitted actions or compressed repetitions; inaccurate times & Row frequency differs from cycle frequency; duration can be distorted & Repetition rule in prompt; seven endpoint anomalies in Table~\ref{tab:anomalies}; visual omissions unmeasured \\
+\textbf{S2} and \textbf{S3}: summaries and classes & Rare details lost; concepts merged or separated & Vocabulary may omit a needed distinction & Compression requested by prompts; lists available for inspection; information loss not quantified \\
+\textbf{S4}: label assignment & Episode forced into the closest permitted label & Membership passes despite weak textual support & Six partially supported audit events, including the bagging example; mechanism not isolated by the audit \\
+\textbf{S4}: interval assignment & Internal boundary added without a timed transition in the text & Duration attributed to each action depends on the split & Foundry split at 00:04:24; 35 adjacent overlaps in the full archive \\
+\textbf{S5}: consolidation & Filename joins treated as continuous behavior & Added transitions and synthetic elapsed time & Merge code and preserved local offsets; real inter-clip gaps unknown \\
 Analysis: category mapping & Recorded activity hidden by its process category & Apparent zero for a behavior present in the log & Factory \textbf{003} has 101 transport events but no process mapped to TR \\
 \bottomrule\end{tabularx}
 \end{adjustwidth}\end{table*}

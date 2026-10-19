@@ -43,10 +43,10 @@ This resource & Construction from egocentric factory video & Shared lists induce
 \label{tab:comparison_provenance}\footnotesize\setlength{\tabcolsep}{3pt}
 \begin{tabularx}{\linewidth}{@{}p{0.14\linewidth}LLL@{}}\toprule
 Method & Origin of temporal information & Origin of case/entity relationships & Evaluation reference \\\midrule
-Vid2log & Frame positions and prompted temporal relations & Temporal/semantic matching and resource-based case inference & Assembly case study and log-richness assessment \\
-Kecht et al. & Recorded message timestamps & Supplied message and conversation identifiers & Labeled messages for classification; process discovery demonstration \\
-SnapLog & Segmented frame sequences & Video sequences as traces & Video datasets with action and boundary annotations \\
-Seeth et al. & Timestamps extracted from generated reports & Report-to-trace pairing from source logs & Source traces and process-level comparisons \\
+Vid2log~\cite{gavric2024multimodal} & Frame positions and prompted temporal relations & Temporal/semantic matching and resource-based case inference & Assembly case study and log-richness assessment \\
+Kecht et al.~\cite{kecht2021conversations} & Recorded message timestamps & Supplied message and conversation identifiers & Labeled messages for classification; process discovery demonstration \\
+SnapLog~\cite{pegoraro2026snaplog} & Segmented frame sequences & Video sequences as traces & Video datasets with action and boundary annotations \\
+Seeth et al.~\cite{seeth2026finetuned} & Timestamps extracted from generated reports & Report-to-trace pairing from source logs & Source traces and process-level comparisons \\
 This resource & Estimated video-relative intervals; extraction may split spans; merge creates an artificial timeline & Source factory/worker/video metadata; chosen video or worker grouping & Generated transcripts and author audit; computations on inferred logs \\
 \bottomrule\end{tabularx}
 \end{adjustwidth}\end{table*}
@@ -64,9 +64,9 @@ Inducing classes and assigning instances can fail in different ways. A useful co
 \label{tab:construction_tasks}\footnotesize
 \begin{tabularx}{\linewidth}{@{}lLL@{}}\toprule
 Task & Starting point & Intended result \\\midrule
-Construction & Observations or documents without a suitable log & An initial event representation \\
-Enrichment & An existing log and additional information & Added or corrected events and attributes \\
-Integration & Multiple sources describing related behavior & A combined representation with resolved correspondences \\
+Construction~\cite{diba2020extraction} & Observations or documents without a suitable log & An initial event representation \\
+Enrichment~\cite{kapugamageeganage2024text2el} & An existing log and additional information & Added or corrected events and attributes \\
+Integration~\cite{shirali2025iot,sturm2026multimodal} & Multiple sources describing related behavior & A combined representation with resolved correspondences \\
 \bottomrule\end{tabularx}
 \end{adjustwidth}\end{table*}
 

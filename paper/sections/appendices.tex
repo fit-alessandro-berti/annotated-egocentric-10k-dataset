@@ -37,7 +37,7 @@ Equation~\ref{main-eq:missing} & Algebra under explicitly idealized assumptions 
 \end{adjustwidth}\end{table*}
 
 \FloatBarrier
-Table~\ref{tab:extension} summarizes the assessment scope, and Table~\ref{tab:repro} links the reported results to these calculations. Regeneration of the model outputs is a separate workflow following stages S1 to S5. S1 requires the source videos and a Gemini credential; S2 and S3 use saved text and Gemini; S4 uses saved text, vocabularies, and an OpenAI credential; S5 is local. The default models are \texttt{gemini-3.1-pro-preview} and \texttt{gpt-5.4}. S4 configures high reasoning effort and a strict JSON response schema. S1 to S3 do not explicitly configure temperature, a seed, or generation-token limits. Transient HTTP status codes 408, 429, 500, 502, 503, and 504 trigger retries, with up to five attempts and increasing delay. S1 also has an outer per-video retry loop. These are implementation settings; verified execution totals are unavailable.
+Table~\ref{tab:extension} summarizes the assessment scope, and Table~\ref{tab:repro} links the reported results to these calculations. Regeneration of the model outputs is a separate workflow following stages \textbf{S1} to \textbf{S5}. \textbf{S1} requires the source videos and a Gemini credential; \textbf{S2} and \textbf{S3} use saved text and Gemini; \textbf{S4} uses saved text, vocabularies, and an OpenAI credential; \textbf{S5} is local. The default models are \texttt{gemini-3.1-pro-preview} and \texttt{gpt-5.4}. \textbf{S4} configures high reasoning effort and a strict JSON response schema. \textbf{S1} to \textbf{S3} do not explicitly configure temperature, a seed, or generation-token limits. Transient HTTP status codes 408, 429, 500, 502, 503, and 504 trigger retries, with up to five attempts and increasing delay. \textbf{S1} also has an outer per-video retry loop. These are implementation settings; verified execution totals are unavailable.
 
 The archive does not provide per-request model responses, usage records, exact execution dates, token counts, costs, runtimes, historical dependency versions, or a resolved historical source version. Existing outputs may be reused without a content-validity check. Consequently, changing a prompt while retaining an output does not establish that the changed prompt produced it. The preserved artifacts and hashes support reproducible analysis of the released representation despite these limits on exact regeneration.
 
@@ -55,15 +55,3 @@ The operational-category map is scoped by factory. VA denotes production/complet
 \label{app:audit}
 The archive contains 42 event-support judgments and 42 generated transcript-entry-overlap judgments with source identifiers. The shorthand \textbf{001}/\allowbreak w003/\allowbreak v00009, for example, identifies factory \textbf{001}, worker 003, recording 00009. Event verdicts are C (fully supported), P (partially supported), and X (contradicted). Entry verdicts are COV (overlap), EXC (uncovered and judged non-operational), and MISS (uncovered and judged operational). The archive's unsupported truncation explanation is flagged in entry 10. Punctuation is normalized for typesetting; judgments are unchanged.
 \input{generated/audit_appendix.tex}
-
-\section{Full Extraction Prompts}
-\label{app:prompts}
-These are the four released prompt templates, with punctuation normalized for display. The original templates and their hashes remain in the resource. They specify requested model behavior, not guaranteed output properties. Placeholder braces are filled by the scripts; additional context is constructed as described in Table~\ref{main-tab:stages}.
-\subsection{S1: Video transcription}
-\lstinputlisting[basicstyle=\scriptsize\ttfamily]{generated/annotation_prompt.txt}
-\subsection{S2: Worker summary}
-\lstinputlisting[basicstyle=\scriptsize\ttfamily]{generated/worker_process_summary_prompt.txt}
-\subsection{S3: Factory report and vocabularies}
-\lstinputlisting[basicstyle=\scriptsize\ttfamily]{generated/factory_process_mining_prompt.txt}
-\subsection{S4: Event extraction}
-\lstinputlisting[basicstyle=\scriptsize\ttfamily]{generated/annotation_to_event_log_prompt.txt}

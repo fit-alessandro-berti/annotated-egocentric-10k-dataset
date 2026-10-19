@@ -20,7 +20,7 @@ Table~\ref{tab:corpus} reports the released corpus. All 10{,}698 events have the
 
 \subsection{\textbf{RQ2}: Consistency with generated transcripts}
 \label{sec:consistency}
-The original parser finds 82.1\% of event boundaries within five seconds of a recognized generated transcript endpoint. It yields an overall coverage diagnostic of 52.8\%. Neither statistic is video accuracy. The coverage denominator is heavily affected by the literal multi-hour endpoints listed in Table~\ref{tab:anomalies}. Boundary agreement can also be low when formats change or when S4 splits a described interval. These diagnostics alone do not establish extraction truncation.
+The original parser finds 82.1\% of event boundaries within five seconds of a recognized generated transcript endpoint. It yields an overall coverage diagnostic of 52.8\%. Neither statistic is video accuracy. The coverage denominator is heavily affected by the literal multi-hour endpoints listed in Table~\ref{tab:anomalies}. Boundary agreement can also be low when formats change or when \textbf{S4} splits a described interval. These diagnostics alone do not establish extraction truncation.
 
 \begin{table*}[!t]\begin{adjustwidth}{-\extralength}{0cm}\centering
 \caption{Two separate audit samples against generated transcripts: 42 event-support judgments and 42 transcript-entry-overlap judgments. Strict support divides 36 fully supported events by all 42 sampled events. Entry overlap divides 34 overlapping entries by the 38 retained entries, including four uncovered operational entries and excluding four uncovered non-operational entries.}
@@ -39,7 +39,7 @@ Table~\ref{tab:audit} summarizes the archived judgments. Partial-support example
 
 \subsection{An end-to-end foundry example}
 \label{sec:worked}
-This example shows how a description of several actions becomes two labeled events with an inferred internal boundary. In factory \textbf{006}, worker 003, recording 00003, the generated transcript from S1 describes actions from 00:04:05 to 00:04:36: placing an empty frame on a pattern plate, pouring and hand-packing powder, and using a wooden tool to level the surface. The worker summary from S2 provides context by describing preparation, filling, packing, leveling, and compression of molds across recordings. The factory vocabulary from S3 supplies process \emph{Sand mold creation} and activity \emph{level powder surface with wooden scraper}. The S3 report also supplies a compact summary of this worker's molding work.
+This example shows how a description of several actions becomes two labeled events with an inferred internal boundary. In factory \textbf{006}, worker 003, recording 00003, the generated transcript from \textbf{S1} describes actions from 00:04:05 to 00:04:36: placing an empty frame on a pattern plate, pouring and hand-packing powder, and using a wooden tool to level the surface. The worker summary from \textbf{S2} provides context by describing preparation, filling, packing, leveling, and compression of molds across recordings. The factory vocabulary from \textbf{S3} supplies process \emph{Sand mold creation} and activity \emph{level powder surface with wooden scraper}. The \textbf{S3} report also supplies a compact summary of this worker's molding work.
 
 \begin{figure*}[!t]\begin{adjustwidth}{-\extralength}{0cm}\centering
 \begin{tikzpicture}[x=0.30cm,y=0.7cm,font=\small]
@@ -57,7 +57,7 @@ This example shows how a description of several actions becomes two labeled even
 \caption{Recorded transcript interval and inferred event intervals for the foundry example. The generated transcript entry is line 16 of its text file; the events are data rows 17 and 18 of the corresponding CSV. Bar lengths show recorded durations, not independently checked action boundaries.}
 \label{fig:worked}\end{adjustwidth}\end{figure*}
 
-Event extraction in S4 creates two intervals within that 31-second generated transcript entry: \emph{pack casting sand into mold frame}, from 00:04:05 to 00:04:24, and \emph{level powder surface with wooden scraper}, from 00:04:24 to 00:04:36. Both have process \emph{Sand mold creation}. Figure~\ref{fig:worked} shows what is retained and added. The internal boundary at 00:04:24 is inferred; S1 does not timestamp that transition separately. The events compress placement, pouring, and joint hand-packing into the first activity and add shared labels and a process context.
+Event extraction in \textbf{S4} creates two intervals within that 31-second generated transcript entry: \emph{pack casting sand into mold frame}, from 00:04:05 to 00:04:24, and \emph{level powder surface with wooden scraper}, from 00:04:24 to 00:04:36. Both have process \emph{Sand mold creation}. Figure~\ref{fig:worked} shows what is retained and added. The internal boundary at 00:04:24 is inferred; \textbf{S1} does not timestamp that transition separately. The events compress placement, pouring, and joint hand-packing into the first activity and add shared labels and a process context.
 
 \begin{lstlisting}[caption={Illustrative JSON reconstructed from CSV data row 18. It is not an archived model response.},label={lst:reconstructed}]
 {"events": [{
@@ -68,7 +68,7 @@ Event extraction in S4 creates two intervals within that 31-second generated tra
 }]}
 \end{lstlisting}
 
-The linked generated transcript, worker summary, factory report, and event log preserve the successive representations of this recording. S5 retains the recording identifier and local offsets alongside shifted timestamps. Audit event 41 judges the leveling event fully supported by its generated transcript. This supports the label's textual basis, not the exact internal split or a video-based duration measurement.
+The linked generated transcript, worker summary, factory report, and event log preserve the successive representations of this recording. \textbf{S5} retains the recording identifier and local offsets alongside shifted timestamps. Audit event 41 judges the leveling event fully supported by its generated transcript. This supports the label's textual basis, not the exact internal split or a video-based duration measurement.
 
 \subsection{\textbf{RQ3}: Descriptive analytical capabilities}
 \label{sec:analyses}
