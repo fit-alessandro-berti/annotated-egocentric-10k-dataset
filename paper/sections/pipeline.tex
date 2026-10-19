@@ -3,7 +3,7 @@
 \begin{figure*}[!t]\begin{adjustwidth}{-\extralength}{0cm}\centering
 \begin{tikzpicture}[node distance=9mm and 10mm,box/.style={draw,rounded corners,align=center,font=\small,text width=28mm,minimum height=11mm},arr/.style={-{Stealth[length=2mm]},thick}]
 \node[box] (v) {Video};
-\node[box,right=of v] (t) {S1: transcript};
+\node[box,right=of v] (t) {S1: generated transcript};
 \node[box,right=of t] (w) {S2: worker summary};
 \node[box,below=of w] (f) {S3: report, vocabularies};
 \node[box,below=of t] (e) {S4: interval events};
@@ -14,10 +14,10 @@
 \draw[arr] (e)--(m);\draw[arr] (m)--(a);
 \draw[arr,dashed] (f.south) |- ([yshift=-6mm]a.south) -- (a.south);
 \end{tikzpicture}
-\caption{Evidence dependencies in the implemented pipeline. S1 to S3 use Gemini requests; S4 uses a text-only OpenAI request. The analysis map is an author-defined interpretation. An error in the transcript can affect both the narrative report and the extracted log.}
+\caption{Evidence dependencies in the implemented pipeline. S1 to S3 use Gemini requests; S4 uses a text-only OpenAI request. The analysis map is an author-defined interpretation. An error in the generated transcript can affect both the narrative report and the extracted log.}
 \label{fig:dependency}\end{adjustwidth}\end{figure*}
 
-The released scripts implement five stages. S1 uses video and a transcription prompt. S2 combines a worker's transcripts. S3 combines a factory's worker summaries. S4 uses the original transcript again, together with the factory vocabularies and the compact worker entry from the S3 report. S5 merges the resulting CSVs. Figure~\ref{fig:dependency} shows these dependencies. Reports and logs share evidence, so their agreement is not independent validation.
+The released scripts implement five stages. S1 describes the visible actions in each video as a generated transcript. S2 summarizes each worker's generated transcripts. S3 combines the worker summaries into a factory report and shared label lists. S4 extracts events from each original generated transcript using those lists and the compact worker entry from the S3 report. S5 merges the resulting CSVs. Figure~\ref{fig:dependency} shows these dependencies. Reports and logs share evidence, so their agreement is not independent validation.
 
 Adaptation takes place in the context and vocabulary, while the foundation-model parameters remain fixed. Each available factory corpus contributes to its own label lists through S2 and S3, and S4 then uses those lists to label recordings from that corpus. The six-factory assessment therefore applies the same construction procedure to six separately induced representations. It is a retrospective use of the available material, not an evaluation of a fixed vocabulary on a previously unseen factory. Prompts also supply analyst choices about operational relevance and granularity.
 
@@ -28,7 +28,7 @@ Adaptation takes place in the context and vocabulary, while the foundation-model
 Task & Main stage & Decision made \\\midrule
 Temporal segmentation & S1 & Describe candidate episodes with estimated boundaries; merge stable repetition \\
 Activity-class construction & S2 and S3 & Aggregate worker descriptions and induce reusable factory activity and process lists \\
-Event-instance assignment & S4 & Select permitted labels for episodes; retain or split transcript intervals and estimate internal boundaries \\
+Event-instance assignment & S4 & Select permitted labels for episodes; retain or split generated transcript intervals and estimate internal boundaries \\
 \bottomrule\end{tabularx}
 \end{adjustwidth}\end{table*}
 
@@ -43,9 +43,9 @@ Event abstraction concerns the level at which observations represent process beh
 \begin{tabularx}{\linewidth}{@{}lLLL@{}}\toprule
 Stage; unit & Inputs and context & Output & Failure and reuse behavior \\\midrule
 S1; video & Uploaded video; transcription prompt & One chronological text file & Keeps existing files; retries transient failures; rejects an empty response; attempts deletion of uploads \\
-S2; worker & All saved transcripts in one request; filenames omitted from the bundle & Worker report & Missing or empty input raises an error; empty response rejected; keeps existing output unless overwrite is set \\
+S2; worker & All saved generated transcripts in one request; filenames omitted from the bundle & Worker report & Missing or empty input raises an error; empty response rejected; keeps existing output unless overwrite is set \\
 S3; factory & All worker summaries in one request, with worker identifiers & Factory report with two label lists and compact worker entries & Same text and reuse checks as S2; malformed section structure may fail later in S4 \\
-S4; transcript & Transcript; two label lists; compact S3 worker entry, or a missing-context marker & Per-video CSV & Missing lists or invalid events raise errors; an empty event list is valid; existing CSV kept unless overwrite is set \\
+S4; generated transcript & Generated transcript; two label lists; compact S3 worker entry, or a missing-context marker & Per-video CSV & Missing lists or invalid events raise errors; an empty event list is valid; existing CSV kept unless overwrite is set \\
 S5; worker, then factory & CSVs in sorted filename order & Worker and factory CSVs & Checks timestamp columns and consistent headers; empty files add no time; keeps existing output if its schema matches \\
 \bottomrule\end{tabularx}
 \end{adjustwidth}\end{table*}
@@ -75,7 +75,7 @@ for each selected factory f:
 
 S1 asks for a new timestamped entry when an action, object, location, or interaction changes. It asks for repeated stable work to be summarized once and for uncertainty to be stated briefly. These are instructions to the model. S1 does not check whether each visible change was narrated or whether the timestamps match the video.
 
-S2 and S3 compress large text bundles into summaries. This makes factory-wide vocabulary induction possible, but uncommon actions can be lost. The implementation does not automatically split long requests into windows, reconcile separate summaries, or check coverage against all transcript spans. S4 partly bypasses this compression by reading each original transcript, although it must still use the induced vocabularies.
+S2 and S3 compress large text bundles into summaries. This makes factory-wide vocabulary induction possible, but uncommon actions can be lost. The implementation does not automatically split long requests into windows, reconcile separate summaries, or check coverage against all generated transcript spans. S4 partly bypasses this compression by reading each original generated transcript, although it must still use the induced vocabularies.
 
 S4 requests a strict JSON schema with estimated start and end times, activity, and process. Its local parser can also accept a list, strip code fences, recognize fallback time keys, and parse two-component offsets or numeric seconds. It normalizes label case and surrounding quotes, checks membership, rejects end-before-start intervals, and sorts rows by start, end, activity, and process. It allows zero-duration events and overlaps. It does not check video bounds, full temporal coverage, the truth of an activity, or compatibility between the activity and process. The archive contains CSV outputs, not the original S4 JSON responses.
 
@@ -126,4 +126,4 @@ Interval events & Preserve approximate episode duration & Row counts do not equa
 
 \FloatBarrier
 \subsection{Design choices and tradeoffs}
-Table~\ref{tab:tradeoffs} summarizes the design choices and alternatives. Repeated cycles deserve particular care. If ten cycles become one narrated interval and one event, the event count decreases and the directly-follows relation loses nine possible repetitions. A longer event can represent more repetitions, slower work, or more aggressive compression. The logs alone do not distinguish these explanations. The text interface makes this decision inspectable, but does not recover details omitted during transcription.
+Table~\ref{tab:tradeoffs} summarizes the design choices and alternatives. Repeated cycles deserve particular care. If ten cycles become one narrated interval and one event, the event count decreases and the directly-follows relation loses nine possible repetitions. A longer event can represent more repetitions, slower work, or more aggressive compression. The logs alone do not distinguish these explanations. The text interface makes this decision inspectable, but does not recover details omitted from the generated transcript.

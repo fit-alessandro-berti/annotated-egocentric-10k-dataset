@@ -6,7 +6,7 @@
 \begin{tabularx}{\linewidth}{@{}LLL@{}}\toprule
 Assessment & Evidence & Supported conclusion and limit \\\midrule
 Construction and structure & Prompts, implementation, vocabularies, and all event rows & Checks establish recorded fields, ordering, and label membership; visual correctness remains unmeasured \\
-Transcript consistency & Generated descriptions and 84 archived author judgments & Textual support and interval overlap can be assessed; errors shared with the transcript remain undetected \\
+Generated transcript consistency & 42 event-support judgments and 42 transcript-entry-overlap judgments & Textual support and interval overlap can be assessed; errors shared with the generated transcript remain undetected \\
 Descriptive process analysis & Retained events, case rules, and the process-category map & Composition, sequence, and worker-profile statistics describe the inferred representation \\
 Measurement effects & Transport example, foundry boundary split, merge rule, and missing-time proposition & Examples and algebra explain how representation affects results; their prevalence and total error are unknown \\
 Operational interpretation & Reports, descriptive statistics, and competing explanations & Evidence motivates hypotheses; causal effects and intervention benefits are unmeasured \\
@@ -17,7 +17,7 @@ The assessment distinguishes properties of the released records, consistency wit
 
 \section{Reproducibility and Configuration}
 \label{app:repro}
-The offline descriptive workflow reads the frozen transcripts, summaries, reports, event logs, and original category map. It requires Python's standard library and no model credentials. The repository documents the dependencies, commands, and output locations. Derived outputs include a hashed artifact inventory, inclusion decisions for all 322 recordings, transcript intervals, structural diagnostics, factory and worker metrics, category totals, transport examples, and audit judgments. Prompt and implementation hashes identify the inputs to each calculation. Merged-log consistency is checked by reconstructing the consolidation in memory and comparing it with the released merged records.
+The offline descriptive workflow reads the frozen generated transcripts, summaries, reports, event logs, and original category map. It requires Python's standard library and no model credentials. The repository documents the dependencies, commands, and output locations. Derived outputs include a hashed artifact inventory, inclusion decisions for all 322 recordings, generated transcript intervals, structural diagnostics, factory and worker metrics, category totals, transport examples, and audit judgments. Prompt and implementation hashes identify the inputs to each calculation. Merged-log consistency is checked by reconstructing the consolidation in memory and comparing it with the released merged records.
 
 The activity-level discovery calculation uses the archived miner, noise threshold of 0.2, and video-as-case rule. Its saved results identify the PM4Py version used for recalculation. The historical execution environment is unavailable.
 
@@ -53,7 +53,7 @@ The operational-category map is scoped by factory. VA denotes production/complet
 
 \section{Complete Archived Audit Judgments}
 \label{app:audit}
-The archive contains 84 verdicts with source identifiers. The shorthand \textbf{001}/\allowbreak w003/\allowbreak v00009, for example, identifies factory \textbf{001}, worker 003, recording 00009. Event verdicts are C (fully supported), P (partially supported), and X (contradicted). Entry verdicts are COV (overlap), EXC (uncovered and judged non-operational), and MISS (uncovered and judged operational). The archive's unsupported truncation explanation is flagged in entry 10. Punctuation is normalized for typesetting; judgments are unchanged.
+The archive contains 42 event-support judgments and 42 generated transcript-entry-overlap judgments with source identifiers. The shorthand \textbf{001}/\allowbreak w003/\allowbreak v00009, for example, identifies factory \textbf{001}, worker 003, recording 00009. Event verdicts are C (fully supported), P (partially supported), and X (contradicted). Entry verdicts are COV (overlap), EXC (uncovered and judged non-operational), and MISS (uncovered and judged operational). The archive's unsupported truncation explanation is flagged in entry 10. Punctuation is normalized for typesetting; judgments are unchanged.
 \input{generated/audit_appendix.tex}
 
 \section{Full Extraction Prompts}

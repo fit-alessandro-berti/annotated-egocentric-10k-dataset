@@ -1,10 +1,10 @@
 \section{Results and Factory Case Studies}
 \label{sec:results}
 \begin{table*}[!t]\begin{adjustwidth}{-\extralength}{0cm}\centering
-\caption{Corpus and original transcript diagnostics. Activity and process columns show permitted/used labels. Coverage uses unions divided by parsed endpoint spans, not verified video duration. Alignment is boundary agreement within five seconds under the original parser.}
+\caption{Corpus and generated transcript diagnostics using the original parser. Activity and process columns show permitted/used labels. Coverage divides occupied event seconds, counting overlaps once, by parsed endpoint spans rather than verified video duration. Boundary agreement uses the five-second matching rule under the original parser.}
 \label{tab:corpus}\small\setlength{\tabcolsep}{4pt}
 \begin{tabular}{@{}lrrrrrrr@{}}\toprule
-Factory & Workers & Videos & Events & Activities & Processes & Coverage & Alignment \\\midrule
+Factory & Workers & Videos & Events & Activities & Processes & Coverage & \shortstack{Boundary\\agreement} \\\midrule
 \textbf{001} & 11 & 97 & 2{,}288 & 131/125 & 13/13 & 94.8\% & 93.1\% \\
 \textbf{002} & 10 & 54 & 1{,}541 & 75/67 & 24/24 & 28.2\% & 71.8\% \\
 \textbf{003} & 11 & 72 & 2{,}449 & 55/52 & 12/12 & 93.0\% & 86.8\% \\
@@ -20,14 +20,14 @@ Table~\ref{tab:corpus} reports the released corpus. All 10{,}698 events have the
 
 \subsection{\textbf{RQ2}: Consistency with generated transcripts}
 \label{sec:consistency}
-The original parser finds 82.1\% of event boundaries within five seconds of a recognized transcript endpoint. It yields an overall coverage diagnostic of 52.8\%. Neither statistic is video accuracy. The coverage denominator is heavily affected by the literal multi-hour endpoints listed in Table~\ref{tab:anomalies}. Alignment can also be low when formats change or when S4 splits a narrated interval. These diagnostics alone do not establish extraction truncation.
+The original parser finds 82.1\% of event boundaries within five seconds of a recognized generated transcript endpoint. It yields an overall coverage diagnostic of 52.8\%. Neither statistic is video accuracy. The coverage denominator is heavily affected by the literal multi-hour endpoints listed in Table~\ref{tab:anomalies}. Boundary agreement can also be low when formats change or when S4 splits a described interval. These diagnostics alone do not establish extraction truncation.
 
 \begin{table*}[!t]\begin{adjustwidth}{-\extralength}{0cm}\centering
-\caption{Author judgments of event support and transcript-entry overlap against generated transcripts.}
+\caption{Two separate audit samples against generated transcripts: 42 event-support judgments and 42 transcript-entry-overlap judgments. Strict support divides 36 fully supported events by all 42 sampled events. Entry overlap divides 34 overlapping entries by the 38 retained entries, including four uncovered operational entries and excluding four uncovered non-operational entries.}
 \label{tab:audit}\small
 \begin{tabularx}{\linewidth}{@{}l r L@{}}\toprule
 Sample outcome & Count & Interpretation \\\midrule
-Event fully supported (C) & 36 & Strict transcript support: 36/42, or 85.7\% \\
+Event fully supported (C) & 36 & Strict support from generated text: 36/42, or 85.7\% \\
 Event partially supported (P) & 6 & Context is plausible; overlapping description is insufficient \\
 Event contradicted (X) & 0 & No contradiction among the sampled events \\
 Transcript entry overlaps (COV) & 34 & At least one event overlaps; action completeness not established \\
@@ -35,11 +35,11 @@ Uncovered, non-operational (EXC) & 4 & Excluded from the archive's reported over
 Uncovered, operational (MISS) & 4 & Reported entry-overlap rate: 34/38, or 89.5\% \\
 \bottomrule\end{tabularx}\end{adjustwidth}\end{table*}
 
-Table~\ref{tab:audit} summarizes the archived judgments. Partial-support examples show the difficulty of checking events against compressed text. Event sample 5 assigns a particular bagging activity where the transcript only states that repetitive assembly and packaging continue. Sample 40 assigns guiding an upper mold half where the text only says that the worker helps with a mold. Recall sample 10 uses a transcript interval from 11:51:00 to 12:59:00 in an anomalous file whose event log ends at 00:20:00. Its MISS judgment is preserved, but the original explanation as long-recording truncation is unverified. These cases show why a single accuracy label would obscure different sources of uncertainty.
+Table~\ref{tab:audit} summarizes the archived judgments. Partial-support examples show the difficulty of checking events against compressed text. Event sample 5 assigns a particular bagging activity where the generated transcript only states that repetitive assembly and packaging continue. Sample 40 assigns guiding an upper mold half where the text only says that the worker helps with a mold. Transcript-entry sample 10 uses an interval from 11:51:00 to 12:59:00 in an anomalous generated transcript whose event log ends at 00:20:00. Its MISS judgment is preserved, but the original explanation as long-recording truncation is unverified. These cases show why a single accuracy label would obscure different sources of uncertainty.
 
 \subsection{An end-to-end foundry example}
 \label{sec:worked}
-Consider factory \textbf{006}, worker 003, recording 00003. The S1 transcript interval from 00:04:05 to 00:04:36 describes placing an empty frame on a pattern plate, pouring and hand-packing powder, and using a wooden tool to level the surface. The S2 summary describes preparation, filling, packing, leveling, and compression of molds. It compresses many recordings into a worker-level account. The S3 report supplies process \emph{Sand mold creation}, activity \emph{level powder surface with wooden scraper}, and a compact summary of this worker's molding work.
+This example shows how a description of several actions becomes two labeled events with an inferred internal boundary. In factory \textbf{006}, worker 003, recording 00003, the generated transcript from S1 describes actions from 00:04:05 to 00:04:36: placing an empty frame on a pattern plate, pouring and hand-packing powder, and using a wooden tool to level the surface. The worker summary from S2 provides context by describing preparation, filling, packing, leveling, and compression of molds across recordings. The factory vocabulary from S3 supplies process \emph{Sand mold creation} and activity \emph{level powder surface with wooden scraper}. The S3 report also supplies a compact summary of this worker's molding work.
 
 \begin{figure*}[!t]\begin{adjustwidth}{-\extralength}{0cm}\centering
 \begin{tikzpicture}[x=0.30cm,y=0.7cm,font=\small]
@@ -54,10 +54,10 @@ Consider factory \textbf{006}, worker 003, recording 00003. The S1 transcript in
 \node[below,font=\scriptsize,align=center] at (19,0.5){00:04:24\\inferred split};
 \node[below,font=\scriptsize] at (31,0.5){00:04:36};
 \end{tikzpicture}
-\caption{Exact transcript and event intervals for the foundry example. The original transcript is line 16 of its text file; the events are data rows 17 and 18 of the corresponding CSV. Bar lengths show recorded durations, not independently checked action boundaries.}
+\caption{Recorded transcript interval and inferred event intervals for the foundry example. The generated transcript entry is line 16 of its text file; the events are data rows 17 and 18 of the corresponding CSV. Bar lengths show recorded durations, not independently checked action boundaries.}
 \label{fig:worked}\end{adjustwidth}\end{figure*}
 
-S4 produces two events within that 31-second transcript interval: \emph{pack casting sand into mold frame}, from 00:04:05 to 00:04:24, and \emph{level powder surface with wooden scraper}, from 00:04:24 to 00:04:36. Both have process \emph{Sand mold creation}. Figure~\ref{fig:worked} shows what is retained and added. The internal boundary at 00:04:24 is inferred; S1 does not timestamp that transition separately. The events compress placement, pouring, and joint hand-packing into the first activity and add controlled names and a process context.
+Event extraction in S4 creates two intervals within that 31-second generated transcript entry: \emph{pack casting sand into mold frame}, from 00:04:05 to 00:04:24, and \emph{level powder surface with wooden scraper}, from 00:04:24 to 00:04:36. Both have process \emph{Sand mold creation}. Figure~\ref{fig:worked} shows what is retained and added. The internal boundary at 00:04:24 is inferred; S1 does not timestamp that transition separately. The events compress placement, pouring, and joint hand-packing into the first activity and add shared labels and a process context.
 
 \begin{lstlisting}[caption={Illustrative JSON reconstructed from CSV data row 18. It is not an archived model response.},label={lst:reconstructed}]
 {"events": [{
@@ -68,18 +68,20 @@ S4 produces two events within that 31-second transcript interval: \emph{pack cas
 }]}
 \end{lstlisting}
 
-The linked transcript, worker summary, factory report, and event log preserve the successive representations of this recording. S5 retains the recording identifier and local offsets alongside shifted timestamps. Audit event 41 judges the leveling event fully supported by its transcript. This supports the label's textual basis, not the exact internal split or a video-based duration measurement.
+The linked generated transcript, worker summary, factory report, and event log preserve the successive representations of this recording. S5 retains the recording identifier and local offsets alongside shifted timestamps. Audit event 41 judges the leveling event fully supported by its generated transcript. This supports the label's textual basis, not the exact internal split or a video-based duration measurement.
 
 \subsection{\textbf{RQ3}: Descriptive analytical capabilities}
 \label{sec:analyses}
 \subsubsection{Time composition and category transitions}
+We summarize the time assigned to each category and the pattern of VA runs for eligible workers. Table~\ref{tab:value} separates pooled duration shares from medians across workers.
+
 \begin{table*}[!t]\begin{adjustwidth}{-\extralength}{0cm}\centering
-\caption{Reproduced time analysis on 320 logs. Left: percentage of summed event duration. Right: factory medians over eligible workers, after the original worker-level rounding. A run sums consecutive same-category rows within a clip; transition counting can cross clips.}
+\caption{Reproduced time analysis on 320 logs. Left: percentage of summed event duration. Right: medians across eligible workers after the original worker-level rounding. Trans./h means VA-to-non-VA transitions per summed event-hour. Mean VA run is the median of worker mean VA-run durations in minutes. A run sums consecutive same-category rows within a clip; transition counting can cross clips.}
 \label{tab:value}\footnotesize\setlength{\tabcolsep}{3pt}
 \begin{tabular}{@{}lrrrrrrr rrr@{}}\toprule
- & \multicolumn{7}{c}{Process-based category shares (\%)} & \multicolumn{3}{c}{Worker summaries}\\
+ & \multicolumn{7}{c}{Process-based category shares (\%)} & \multicolumn{3}{c}{\shortstack{Medians across\\eligible workers}}\\
 \cmidrule(lr){2-8}\cmidrule(l){9-11}
-Factory & VA & MH & TR & QI & CM & RW & DOC & VA (\%) & Trans./h & Mean run (min) \\\midrule
+Factory & VA & MH & TR & QI & CM & RW & DOC & VA (\%) & Trans./h & \shortstack{Mean VA run\\(min)} \\\midrule
 \textbf{001} & 93.1 & 4.1 & 1.8 & 0.0 & 0.2 & 0.0 & 0.9 & 94.5 & 9.2 & 4.6 \\
 \textbf{002} & 96.3 & 0.1 & 2.3 & 0.2 & 0.0 & 0.0 & 1.1 & 97.3 & 3.9 & 8.8 \\
 \textbf{003} & 82.1 & 0.4 & 0.0 & 0.0 & 6.3 & 10.8 & 0.4 & 86.4 & 3.6 & 9.0 \\
@@ -89,20 +91,22 @@ Factory & VA & MH & TR & QI & CM & RW & DOC & VA (\%) & Trans./h & Mean run (min
 \bottomrule\end{tabular}\end{adjustwidth}\end{table*}
 
 \FloatBarrier
-Table~\ref{tab:value} reproduces the existing category shares using the actual two-log exclusion rule. The non-VA category share ranges from 3.7\% to 25.8\% of retained summed event duration. This is neither total worker time nor recoverable capacity. Factory \textbf{003} assigns 10.8\% to defect patching. Its factory report already describes defect patching in the opening overview and vocabulary. The duration share quantifies this recorded behavior under an explicit category rule.
+Table~\ref{tab:value} reproduces the existing category shares using the two-log exclusion rule. For factory \textbf{006}, 74.2\% pools the durations of all retained events, whereas 87.0\% is the median of the eligible workers' individual VA shares. Combined shares are calculated before rounding, so they may differ slightly from the sum of the displayed percentages. For example, the combined MH/TR share for factory \textbf{006} is 19.8\%, while its separately rounded components are 12.1\% and 7.8\%.
+
+The non-VA category share ranges from 3.7\% to 25.8\% of retained summed event duration. This is neither total worker time nor recoverable capacity. Factory \textbf{003} assigns 10.8\% to defect patching. Its factory report describes defect patching in the opening overview and vocabulary. The duration share quantifies this recorded behavior under an explicit category rule.
 
 \begin{figure*}[!t]\begin{adjustwidth}{-\extralength}{0cm}\centering
 \input{generated/composition_figure.tex}
 \caption{Category composition calculated from retained event rows and the released process map. Segments use unrounded duration totals; Table~\ref{tab:value} reports rounded percentages. Factories have different task mixes and label schemes, so the plot does not rank efficiency.}
 \label{fig:composition}\end{adjustwidth}\end{figure*}
 
-Figure~\ref{fig:composition} displays the category shares. The mean-run column is the median across workers of their \emph{mean} VA-run durations. A value of 3.1 minutes in factory \textbf{006} is a central tendency; it says nothing about the longest VA episode. Factory \textbf{001} has 449 MH/TR rows, a mean row duration of 14.54 seconds, and 14.6 such rows per summed event-hour. Factory \textbf{006} has 192 MH/TR rows, a mean of 25.14 seconds, and 28.4 rows per summed event-hour. These are row-based descriptions. Segmentation, repeated-action compression, and clip joins influence their values.
+Figure~\ref{fig:composition} displays the category shares. The mean VA-run column is the median across workers of their \emph{mean} VA-run durations. A value of 3.1 minutes in factory \textbf{006} is a central tendency; it says nothing about the longest VA episode. Factory \textbf{001} has 449 MH/TR rows, a mean row duration of 14.54 seconds, and 14.6 such rows per summed event-hour. Factory \textbf{006} has 192 MH/TR rows, a mean of 25.14 seconds, and 28.4 rows per summed event-hour. These are row-based descriptions. Segmentation, repeated-action compression, and clip joins influence their values.
 
 \subsubsection{Process flow and discovery}
 \label{sec:discovery}
-Video-as-case traces describe observation windows. Among the 97, 54, 72, 51, 22, and 26 videos in factories \textbf{001} to \textbf{006}, there are respectively 97, 53, 70, 51, 22, and 26 distinct activity traces. Self-loops account for 4.3\% to 16.8\% of within-video directly-follows pairs. These statistics are reproduced directly from the stored labels. A self-loop can reflect separately extracted repetitions or segmentation choices; it is not a count of manufactured items.
+Video-as-case traces describe observation windows. Every recording has a distinct activity sequence in factories \textbf{001}, \textbf{004}, \textbf{005}, and \textbf{006}. Factory \textbf{002} has 53 distinct sequences across 54 recordings, and factory \textbf{003} has 70 across 72. Self-loops account for 4.3\% to 16.8\% of within-video directly-follows pairs. These statistics are reproduced directly from the stored labels. A self-loop can reflect separately extracted repetitions or segmentation choices; it is not a count of manufactured items.
 
-The released discovery script uses Inductive Miner~\cite{leemans2013inductive} with noise threshold 0.2, video cases, and activity labels. Appendix~\ref{supp-app:discovery} of the Additional Material records the repeated calculation and current dependency version. The recalculated fitness ranges from 0.9544 to 0.9910 and precision from 0.0603 to 0.2679. Fitness measures how the discovered model can replay the inferred traces; precision measures how much additional behavior it permits relative to that log. Both are properties of a model-log pair, not accuracy against actual factory behavior.
+The released discovery script uses Inductive Miner~\cite{leemans2013inductive} with noise threshold 0.2, video cases, and activity labels. Appendix~\ref{supp-app:discovery} of the Additional Material records the repeated calculation and current dependency version. The recalculated fitness ranges from 0.9544 to 0.9910 and precision from 0.0603 to 0.2679. Together, these results show that the discovered models can replay most behavior in the inferred logs while also permitting substantial additional behavior. Fitness measures how the discovered model can replay the inferred traces; precision measures how much additional behavior it permits relative to that log. Both are properties of a model-log pair, not accuracy against actual factory behavior.
 
 Many distinct traces and low precision can arise from flexible work, recording boundaries, abstraction choices, label variation, or extraction mistakes. The present evidence does not separate these causes. No process-level discovery result is reported because its computation and saved output are unavailable. Replacing activity labels with process labels would change the represented behavior and evaluation target. A higher precision after that change would not by itself be a controlled demonstration of better extraction or modeling.
 
@@ -128,25 +132,25 @@ The 29.6 percentage-point range in the surface-finishing group describes differe
 
 \subsection{Six descriptive factory cases}
 \label{sec:factorycases}
-Each case below states its recorded scope, quantitative result, relationship to the report, and unresolved interpretation. Factory descriptions are derived from the reports. Cross-factory rankings are limited by different vocabularies, products, and observation windows.
+Each case below states its recorded scope, quantitative result, relationship to the report, and unresolved interpretation. Factory descriptions come from the generated reports; the logs quantify behavior described there. Different vocabularies, products, task mixes, and observation windows limit comparisons. The cases describe recorded work and motivate further study, but do not establish efficiency or the benefits of an intervention.
 
 \paragraph{Factory \textbf{001}: hardware stamping and assembly.}
-The archive has 97 clips from 11 workers; the time analysis retains 95 clips. Manual mechanical assembly accounts for 55.7\% of retained summed duration, metal stamping for 18.2\%, and component bagging for 11.3\%. The report already describes material replenishment, floor storage, and operator transport. The 449 MH/TR rows and their short mean duration quantify the assigned category pattern. They motivate examining material presentation, but do not establish that dedicated handlers, shorter travel, or a different layout would improve output. Product mix and compressed repetitions remain competing explanations.
+The archive has 97 clips from 11 workers; the time analysis retains 95 clips. Manual mechanical assembly accounts for 55.7\% of retained summed duration, metal stamping for 18.2\%, and component bagging for 11.3\%. The report describes material replenishment, floor storage, and operator transport. The 449 MH/TR rows and their short mean duration motivate examining how materials are supplied to workers. Product mix and compressed repetitions could also explain this pattern.
 
 \paragraph{Factory \textbf{002}: garment finishing and packaging.}
-There are 54 clips from ten workers, all retained by the event-end rule. Fabric folding, garment bagging, and ironing contribute 18.8\%, 17.1\%, and 13.2\% of summed duration. VA is 96.3\%. The report already describes transport, floor staging, and varied folding methods. Quantification shows a small separately categorized handling and transport share, not proof that those behaviors are rare within other processes. Two anomalous transcript endpoints and mixed formats weaken temporal interpretation. Product-specific finishing requirements and category boundaries need examination before any claim of superior efficiency.
+There are 54 clips from ten workers, all retained by the event-end rule. Fabric folding, garment bagging, and ironing contribute 18.8\%, 17.1\%, and 13.2\% of summed duration. VA is 96.3\%. The report describes transport, floor staging, and varied folding methods. The small separate handling and transport share may leave those actions counted within other processes. Two anomalous generated transcript endpoints and mixed formats weaken temporal interpretation. Product-specific finishing requirements and category boundaries need closer examination.
 
 \paragraph{Factory \textbf{003}: surface preparation and assembly.}
-The archive covers 72 clips from 11 workers; all clips are retained. Surface finishing and polishing contributes 42.1\%, wax pattern assembly 19.2\%, and defect patching 10.8\%. The report already identifies patching and material transport. The log quantifies patching's share without establishing defect rates, avoidable rework, or financial loss. It also records 101 transport events totaling 1{,}230 seconds even though the process-based TR share is zero. This case demonstrates how aggregation can hide an extracted behavior. Material types and quality criteria remain uncertain in the report itself.
+The archive covers 72 clips from 11 workers; all clips are retained. Surface finishing and polishing contributes 42.1\%, wax pattern assembly 19.2\%, and defect patching 10.8\%. The report identifies patching and material transport. The log quantifies patching's share without establishing defect rates or avoidable rework. Its 101 transport events total 1{,}230 seconds, yet the process-based TR share is zero because their durations enter other categories. Material types and quality criteria remain uncertain in the report itself.
 
 \paragraph{Factory \textbf{004}: garment sewing and finishing.}
-There are 51 clips from ten workers, all retained. Overlock seaming contributes 23.5\%, garment folding 11.0\%, and thread trimming 10.8\%. The median worker VA-transition rate is 10.6 per summed event-hour. The report already describes tool switching, material handling, and inspection. The logs add a reproducible category pattern and a 24.3 percentage-point VA-share range in the two-worker ironing group. Product specifications, additional finishing duties, and recording windows could explain this difference. The data do not identify which changes to tools or stations would help.
+There are 51 clips from ten workers, all retained. Overlock seaming contributes 23.5\%, garment folding 11.0\%, and thread trimming 10.8\%. The median worker VA-transition rate is 10.6 per summed event-hour. The report describes tool switching, material handling, and inspection. The logs add a category-transition measure and a 24.3 percentage-point VA-share range in the two-worker ironing group. Product specifications, additional finishing duties, and recording windows could explain this difference.
 
 \paragraph{Factory \textbf{005}: machining and motor assembly.}
-The archive contains 22 clips from 11 workers, with only five workers meeting the time threshold. All clips are retained. Manual lathe machining contributes 32.1\%, drill press machining 19.1\%, and material transport and logistics 9.7\%. The report describes staging, fixturing, inspection, and coupled workstations. The log adds duration shares, including 4.3\% assigned to dimensional inspection. The two lathe profiles have similar VA shares, but their task equivalence is unknown. Inspection can be necessary, and one transcript has an unresolved endpoint anomaly. The recorded shares cannot measure excess quality work or recoverable machine capacity.
+The archive contains 22 clips from 11 workers, but only five workers meet the time threshold. All clips are retained, so the worker medians describe a smaller subset than the factory duration shares. Manual lathe machining contributes 32.1\%, drill press machining 19.1\%, and material transport and logistics 9.7\%. The report describes staging, fixturing, inspection, and coupled workstations. The log assigns 4.3\% to dimensional inspection. The two lathe profiles have similar VA shares, but their task equivalence is unknown. One generated transcript also has an unresolved endpoint anomaly.
 
 \paragraph{Factory \textbf{006}: molding and foundry work.}
-There are 26 clips from six workers, all retained; five workers meet the time threshold. Sand mold creation, pattern cleaning and coating, and compression molding contribute 17.4\%, 14.0\%, and 12.2\%. The report already describes floor staging, material movement, cleaning, and mold-track operations. The logs assign 19.8\% of summed duration to MH/TR and yield a median worker mean VA run of 3.1 minutes. These quantities support a closer study of handling requirements, not a diagnosis of layout as their cause. Necessary mold preparation, differing materials, and segmentation choices are alternatives. Two transcript endpoints require resolution against source metadata.
+There are 26 clips from six workers, all retained; five workers meet the time threshold. Sand mold creation, pattern cleaning and coating, and compression molding contribute 17.4\%, 14.0\%, and 12.2\%. The report describes floor staging, material movement, cleaning, and mold-track operations. The logs assign 19.8\% of summed duration to MH/TR and yield a median worker mean VA run of 3.1 minutes. These quantities support closer study of handling requirements. Necessary mold preparation, differing materials, layout, and segmentation choices could all contribute. Two generated transcript endpoints require resolution against source metadata.
 
 \begin{table*}[!t]\begin{adjustwidth}{-\extralength}{0cm}
 \caption{Evidence-linked hypotheses. These are candidates for investigation; intervention effects were not measured.}
@@ -162,4 +166,4 @@ Observation & Plausible explanation & Competing explanation & Evidence needed \\
 
 \FloatBarrier
 \subsection{From observations to operational hypotheses}
-Table~\ref{tab:hypotheses} connects observations to explanations and the evidence needed to distinguish them. Reports identify phenomena; logs can quantify them under a chosen representation. Explaining their causes requires additional evidence. Transport, inspection, cleaning, and documentation are not automatically waste, and the time assigned to them is not automatically available for production. No intervention effect or cost saving is demonstrated by these descriptive results.
+Table~\ref{tab:hypotheses} connects observations to explanations and the evidence needed to distinguish them. Reports identify phenomena; logs quantify them under a chosen representation. Differences in task mix, observation windows, and extraction choices remain competing explanations. Establishing causes or comparing efficiency requires matched operational evidence. Transport, inspection, cleaning, and documentation are not automatically waste, and their time is not automatically available for production. No intervention effect or cost saving is demonstrated by these descriptive results.
