@@ -1,0 +1,58 @@
+{
+  "abstract_words": 178,
+  "discussion_words": 400,
+  "research_questions": [
+    "RQ1",
+    "RQ2",
+    "RQ3",
+    "RQ4"
+  ],
+  "factory_ids": [
+    "001",
+    "002",
+    "003",
+    "004",
+    "005",
+    "006"
+  ],
+  "unchanged_frozen_artifacts": 775,
+  "unchanged_generated_csvs": [
+    "artifact_manifest.csv",
+    "audit_judgments.csv",
+    "category_mapping_by_factory.csv",
+    "events.csv",
+    "factory003_transport.csv",
+    "factory_metrics.csv",
+    "inclusion_manifest.csv",
+    "merge_verification.csv",
+    "structural_metrics.csv",
+    "transcript_intervals.csv",
+    "worker_comparisons.csv",
+    "worker_metrics.csv"
+  ],
+  "audit_appendix.tex_data_rows": 84,
+  "mapping_appendix.tex_data_rows": 113,
+  "documents": {
+    "main": {
+      "pages": 26,
+      "tables_and_figures": 28,
+      "placement": "all starred, !t or !b; all precede first numbered reference",
+      "visible_filenames": 0,
+      "em_or_en_dashes": 0,
+      "layout_overflows": 0,
+      "unresolved_references": 0,
+      "visual_review": "all pages inspected; dense tables inspected at higher resolution"
+    },
+    "additional_material": {
+      "pages": 10,
+      "tables_and_figures": 9,
+      "placement": "all starred, !t or !b; all precede first numbered reference",
+      "visible_filenames": 0,
+      "em_or_en_dashes": 0,
+      "layout_overflows": 0,
+      "unresolved_references": 0,
+      "visual_review": "all pages inspected; dense tables inspected at higher resolution"
+    }
+  },
+  "build_command": "make -C paper all"
+}

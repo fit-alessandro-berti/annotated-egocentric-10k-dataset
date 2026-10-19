@@ -1,10 +1,6 @@
 \section{Pipeline and Design Rationale}
 \label{sec:pipeline}
-The released scripts implement five stages. S1 uses video and a transcription prompt. S2 combines a worker's transcripts. S3 combines a factory's worker summaries. S4 uses the original transcript again, together with the factory vocabularies and the compact worker entry from the S3 report. S5 merges the resulting CSVs. Figure~\ref{fig:dependency} shows these dependencies. Reports and logs share evidence, so their agreement is not independent validation.
-
-Adaptation takes place in the context and vocabulary, while the foundation-model parameters remain fixed. Each available factory corpus contributes to its own label lists through S2 and S3, and S4 then uses those lists to label recordings from that corpus. The six-factory assessment therefore applies the same construction procedure to six separately induced representations. It is a retrospective use of the available material, not an evaluation of a fixed vocabulary on a previously unseen factory. Prompts also supply analyst choices about operational relevance and granularity.
-
-\begin{figure}[htbp]\centering
+\begin{figure*}[!t]\begin{adjustwidth}{-\extralength}{0cm}\centering
 \begin{tikzpicture}[node distance=9mm and 10mm,box/.style={draw,rounded corners,align=center,font=\small,text width=28mm,minimum height=11mm},arr/.style={-{Stealth[length=2mm]},thick}]
 \node[box] (v) {Video};
 \node[box,right=of v] (t) {S1: transcript};
@@ -19,13 +15,13 @@ Adaptation takes place in the context and vocabulary, while the foundation-model
 \draw[arr,dashed] (f.south) |- ([yshift=-6mm]a.south) -- (a.south);
 \end{tikzpicture}
 \caption{Evidence dependencies in the implemented pipeline. S1 to S3 use Gemini requests; S4 uses a text-only OpenAI request. The analysis map is an author-defined interpretation. An error in the transcript can affect both the narrative report and the extracted log.}
-\label{fig:dependency}\end{figure}
+\label{fig:dependency}\end{adjustwidth}\end{figure*}
 
-\subsection{Vocabulary construction as event abstraction}
-\label{sec:abstraction}
-Event abstraction concerns the level at which observations represent process behavior~\cite{vanZelst2021abstraction}. Table~\ref{tab:abstraction} separates three decisions in our implementation. Constructing a reusable class and assigning an event to it are different tasks: a missing concept and a mistaken assignment require different checks. The process list supplies a second label dimension, with no enforced parent-child relation to the activity list.
+The released scripts implement five stages. S1 uses video and a transcription prompt. S2 combines a worker's transcripts. S3 combines a factory's worker summaries. S4 uses the original transcript again, together with the factory vocabularies and the compact worker entry from the S3 report. S5 merges the resulting CSVs. Figure~\ref{fig:dependency} shows these dependencies. Reports and logs share evidence, so their agreement is not independent validation.
 
-\begin{table}[H]
+Adaptation takes place in the context and vocabulary, while the foundation-model parameters remain fixed. Each available factory corpus contributes to its own label lists through S2 and S3, and S4 then uses those lists to label recordings from that corpus. The six-factory assessment therefore applies the same construction procedure to six separately induced representations. It is a retrospective use of the available material, not an evaluation of a fixed vocabulary on a previously unseen factory. Prompts also supply analyst choices about operational relevance and granularity.
+
+\begin{table*}[!t]\begin{adjustwidth}{-\extralength}{0cm}
 \caption{Conceptual tasks and their roles in the five-stage construction. The stages interact; this is not a claim that each task has an isolated error rate.}
 \label{tab:abstraction}\footnotesize
 \begin{tabularx}{\linewidth}{@{}>{\raggedright\arraybackslash}p{0.23\linewidth}lL@{}}\toprule
@@ -34,11 +30,14 @@ Temporal segmentation & S1 & Describe candidate episodes with estimated boundari
 Activity-class construction & S2 and S3 & Aggregate worker descriptions and induce reusable factory activity and process lists \\
 Event-instance assignment & S4 & Select permitted labels for episodes; retain or split transcript intervals and estimate internal boundaries \\
 \bottomrule\end{tabularx}
-\end{table}
+\end{adjustwidth}\end{table*}
 
-\subsection{Execution units and failure behavior}
-Table~\ref{tab:stages} states the input, output, and failure behavior for each execution unit. The algorithm below gives their dependency order.
-\begin{table}[H]
+\FloatBarrier
+\subsection{Vocabulary construction as event abstraction}
+\label{sec:abstraction}
+Event abstraction concerns the level at which observations represent process behavior~\cite{vanZelst2021abstraction}. Table~\ref{tab:abstraction} separates three decisions in our implementation. Constructing a reusable class and assigning an event to it are different tasks: a missing concept and a mistaken assignment require different checks. The process list supplies a second label dimension, with no enforced parent-child relation to the activity list.
+
+\begin{table*}[!t]\begin{adjustwidth}{-\extralength}{0cm}
 \caption{Stage specification from scripts 01 to 05. A nonempty text output is not a validation of its factual content.}
 \label{tab:stages}\footnotesize
 \begin{tabularx}{\linewidth}{@{}lLLL@{}}\toprule
@@ -49,9 +48,12 @@ S3; factory & All worker summaries in one request, with worker identifiers & Fac
 S4; transcript & Transcript; two label lists; compact S3 worker entry, or a missing-context marker & Per-video CSV & Missing lists or invalid events raise errors; an empty event list is valid; existing CSV kept unless overwrite is set \\
 S5; worker, then factory & CSVs in sorted filename order & Worker and factory CSVs & Checks timestamp columns and consistent headers; empty files add no time; keeps existing output if its schema matches \\
 \bottomrule\end{tabularx}
-\end{table}
+\end{adjustwidth}\end{table*}
 
-\begin{lstlisting}[float=htbp,caption={Algorithm 1: implemented dependency order. API retries surround requests; this pseudocode does not add windowing or new validation.},label={alg:pipeline}]
+\subsection{Execution units and failure behavior}
+Table~\ref{tab:stages} states the input, output, and failure behavior for each execution unit. The algorithm below gives their dependency order.
+
+\begin{lstlisting}[float=!t,caption={Algorithm 1: implemented dependency order. API retries surround requests; this pseudocode does not add windowing or new validation.},label={alg:pipeline}]
 for each selected factory f:
     for each available video v:
         T[v] = reuse existing transcript or S1(video[v], prompt1)
@@ -77,11 +79,12 @@ S2 and S3 compress large text bundles into summaries. This makes factory-wide vo
 
 S4 requests a strict JSON schema with estimated start and end times, activity, and process. Its local parser can also accept a list, strip code fences, recognize fallback time keys, and parse two-component offsets or numeric seconds. It normalizes label case and surrounding quotes, checks membership, rejects end-before-start intervals, and sorts rows by start, end, activity, and process. It allows zero-duration events and overlaps. It does not check video bounds, full temporal coverage, the truth of an activity, or compatibility between the activity and process. The archive contains CSV outputs, not the original S4 JSON responses.
 
-S1 to S3 default to \texttt{gemini-3.1-pro-preview}; S4 defaults to \texttt{gpt-5.4}, requests high reasoning effort, and permits up to 100 concurrent extraction tasks. These are recoverable code settings. The existing manuscript identifies the corresponding model families, but per-request execution records are unavailable. No temperature, token limit, seed, cost, or runtime is inferred from missing records. Appendix~\ref{supp-app:repro} of the Additional Material specifies the distinction between code defaults and historical execution evidence.
+S1 to S3 default to \texttt{gemini-3.1-pro-preview}; S4 defaults to \texttt{gpt-5.4}, requests high reasoning effort, and permits up to 100 concurrent extraction tasks. These are recoverable code settings. Per-request execution records are unavailable. No temperature, token limit, seed, cost, or runtime is inferred from missing records. Appendix~\ref{supp-app:repro} of the Additional Material specifies the distinction between code defaults and historical execution evidence.
 
 \subsection{Requests, guarantees, observations, and expectations}
 \label{sec:guarantees}
-\begin{table}[htbp]
+\label{sec:supervision}
+\begin{table*}[!t]\begin{adjustwidth}{-\extralength}{0cm}
 \caption{Four levels of evidence for pipeline properties.}\label{tab:guarantees}\footnotesize
 \begin{tabularx}{\linewidth}{@{}p{0.20\linewidth}LL@{}}\toprule
 Level & Example & What can be concluded \\\midrule
@@ -90,11 +93,9 @@ Software constraint & Parse event fields; canonicalize permitted labels; reject 
 Observed artifact property & All 10{,}698 rows have required values and permitted labels; 35 adjacent overlaps are detected & These statements hold for this release. They are not promises about future runs. \\
 Untested design expectation & Summaries help vocabulary consistency; closed labels help interpretation & These are rationales. No ablation or comparative benefit estimate is available. \\
 \bottomrule\end{tabularx}
-\end{table}
+\end{adjustwidth}\end{table*}
 
-``Automated extraction'' means that generation uses no task-specific fine-tuning or labeled event examples. It does not mean that the complete study is free of human judgment. Table~\ref{tab:supervision} identifies the different inputs. ``Constrained'' refers to the separate permitted label lists. ``Validated'' is used only with a named check, never as a general claim of visual accuracy.
-
-\begin{table}[H]
+\begin{table*}[!t]\begin{adjustwidth}{-\extralength}{0cm}
 \caption{Supervision and human input in this study. Unlike labeled threshold calibration in Kecht et al.~\cite{kecht2021conversations} or parameter adaptation in SnapLog and Seeth et al.~\cite{pegoraro2026snaplog,seeth2026finetuned}, generation here adapts through prompts and induced context.}
 \label{tab:supervision}\footnotesize
 \begin{tabularx}{\linewidth}{@{}>{\raggedright\arraybackslash}p{0.26\linewidth}L@{}}\toprule
@@ -106,10 +107,11 @@ Vocabulary origin & S3 induces two lists from the available worker summaries; S4
 Domain and analyst input & Authored prompts define relevance and segmentation; analysts choose case projections and the operational-category map \\
 Human assessment & One author's archived event and transcript-entry judgments assess outputs; they are not generation inputs \\
 \bottomrule\end{tabularx}
-\end{table}
+\end{adjustwidth}\end{table*}
 
-\subsection{Design choices and tradeoffs}
-\begin{table}[H]
+Table~\ref{tab:guarantees} distinguishes requested, enforced, observed, and untested properties. ``Automated extraction'' means that generation uses no task-specific fine-tuning or labeled event examples. It does not mean that the complete study is free of human judgment. Table~\ref{tab:supervision} identifies the different inputs. ``Constrained'' refers to the separate permitted label lists. ``Validated'' is used only with a named check, never as a general claim of visual accuracy.
+
+\begin{table*}[!t]\begin{adjustwidth}{-\extralength}{0cm}
 \caption{Design rationale and conceptual alternatives. No alternative in the last column was experimentally compared here.}\label{tab:tradeoffs}\footnotesize
 \begin{tabularx}{\linewidth}{@{}p{0.19\linewidth}LLL@{}}\toprule
 Choice & Intended benefit & Limitation & Possible alternative \\\midrule
@@ -120,6 +122,8 @@ Closed labels & Prevent out-of-list output & Closest allowed label may still be 
 Change-point narration & Compact description of stable behavior & Boundary detail and repeated cycles can disappear & Finer segments with explicit repetition counts \\
 Interval events & Preserve approximate episode duration & Row counts do not equal production volume & Object-linked cycle records, when supported \\
 \bottomrule\end{tabularx}
-\end{table}
+\end{adjustwidth}\end{table*}
 
-Repeated cycles deserve particular care. If ten cycles become one narrated interval and one event, the event count decreases and the directly-follows relation loses nine possible repetitions. A longer event can represent more repetitions, slower work, or more aggressive compression. The logs alone do not distinguish these explanations. The text interface makes this decision inspectable, but does not recover details omitted during transcription.
+\FloatBarrier
+\subsection{Design choices and tradeoffs}
+Table~\ref{tab:tradeoffs} summarizes the design choices and alternatives. Repeated cycles deserve particular care. If ten cycles become one narrated interval and one event, the event count decreases and the directly-follows relation loses nine possible repetitions. A longer event can represent more repetitions, slower work, or more aggressive compression. The logs alone do not distinguish these explanations. The text interface makes this decision inspectable, but does not recover details omitted during transcription.

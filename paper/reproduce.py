@@ -245,7 +245,7 @@ def main():
     for i, fac in enumerate(vocab):
         es=[e for e in keep if e['factory']==fac];total=sum(e['duration'] for e in es)
         x=0
-        chart.append(r'\node[left] at (0,'+str(-i)+'){'+fac[-3:]+'};')
+        chart.append(r'\node[left] at (0,'+str(-i)+r'){\textbf{'+fac[-3:]+'}};')
         for c in CATS:
             width=100*sum(e['duration'] for e in es if e['category']==c)/total
             chart.append(r'\fill['+colors[c]+'] ('+str(x)+','+str(-i-0.28)+') rectangle ('+str(x+width)+','+str(-i+0.28)+');')
@@ -261,11 +261,11 @@ def main():
     discovery_path=out/'activity_discovery.json'
     if discovery_path.exists():
         discovery=json.loads(discovery_path.read_text())
-        lines=[r'\begin{table}[htbp]\centering\caption{Recalculation with the original activity-level discovery settings. Fitness is average trace fitness from token replay; precision is token-based precision.}\label{tab:discovery}',
+        lines=[r'\begin{table*}[!t]\begin{adjustwidth}{-\extralength}{0cm}\centering\caption{Recalculation with the original activity-level discovery settings. Fitness is average trace fitness from token replay; precision is token-based precision.}\label{tab:discovery}',
                r'\small\begin{tabular}{@{}lrrr@{}}\toprule Factory & Cases & Fitness & Precision \\ \midrule']
         for fac,row in discovery['factories'].items():
-            lines.append(f"{fac[-3:]} & {row['cases']} & {row['fitness']:.4f} & {row['precision']:.4f} "+r'\\')
-        lines += [r'\bottomrule\end{tabular}\end{table}', 'PM4Py version for this recalculation: '+tex(discovery['pm4py_version'])+'.']
+            lines.append(r'\textbf{'+fac[-3:]+f"}} & {row['cases']} & {row['fitness']:.4f} & {row['precision']:.4f} "+r'\\')
+        lines += [r'\bottomrule\end{tabular}\end{adjustwidth}\end{table*}', r'\FloatBarrier', 'PM4Py version for this recalculation: '+tex(discovery['pm4py_version'])+'.']
         (out/'discovery_table.tex').write_text('\n'.join(lines)+'\n')
 
     prompts=['annotation_prompt.txt','worker_process_summary_prompt.txt','factory_process_mining_prompt.txt','annotation_to_event_log_prompt.txt']
@@ -277,19 +277,33 @@ def main():
     # mapping. The source audit's unsupported truncation wording is marked below.
     appendix=[]
     for sample,title in [('event','Archived event judgments'),('entry','Archived transcript-entry judgments')]:
-        appendix += [r'\subsection{'+title+'}',r'{\scriptsize\setlength{\tabcolsep}{3pt}',r'\begin{longtable}{@{}r p{0.19\linewidth} p{0.20\linewidth} p{0.45\linewidth}@{}}',r'\toprule No. & Source & Interval; verdict & Label and archived note \\ \midrule\endhead']
-        for a in audit:
-            if a['sample']!=sample: continue
-            note=a['note']
-            if a['sample']=='entry' and a['item']==10:
-                note=note.replace('(multi-hour recording; truncation regime)','(archive interprets this as truncation; that cause is unverified)')
-            content=a['label']+('; ' if a['label'] and note else '')+note
-            appendix.append(f"{a['item']} & {tex(a['source'])} & {tex(a['interval'])}; {a['verdict']} & {tex(content)} "+r'\\')
-        appendix += [r'\bottomrule\end{longtable}}']
+        appendix.append(r'\subsection{'+title+'}')
+        rows=[a for a in audit if a['sample']==sample]
+        for part,start in enumerate(range(0,len(rows),21),1):
+            appendix += [r'\begin{table*}[!t]\begin{adjustwidth}{-\extralength}{0cm}',
+                         r'\caption{'+title+f' (part {part} of 2).'+r'}\label{tab:audit_'+sample+f'_{part}'+'}',
+                         r'\footnotesize\setlength{\tabcolsep}{3pt}',
+                         r'\begin{tabularx}{\linewidth}{@{}r p{0.16\linewidth} p{0.20\linewidth} L@{}}',
+                         r'\toprule No. & Source & Interval; verdict & Label and archived note \\ \midrule']
+            for a in rows[start:start+21]:
+                note=a['note']
+                if a['sample']=='entry' and a['item']==10:
+                    note=note.replace('(multi-hour recording; truncation regime)','(archive interprets this as truncation; that cause is unverified)')
+                content=a['label']+('; ' if a['label'] and note else '')+note
+                source=re.sub(r'^(\d{3})',lambda m:r'\textbf{'+m[1]+'}',tex(a['source']))
+                appendix.append(f"{a['item']} & {source} & {tex(a['interval'])}; {a['verdict']} & {tex(content)} "+r'\\')
+            appendix += [r'\bottomrule\end{tabularx}\end{adjustwidth}\end{table*}']
+        appendix += [r'\FloatBarrier', r'Tables~\ref{tab:audit_'+sample+r'_1} and~\ref{tab:audit_'+sample+r'_2} preserve the '+('event' if sample=='event' else 'transcript-entry')+' judgments.']
     (out/'audit_appendix.tex').write_text('\n'.join(appendix)+'\n')
-    lines=[r'{\small\begin{longtable}{@{}l p{0.65\linewidth} l@{}}',r'\toprule Factory & Process label & Category \\ \midrule\endhead']
-    for m in maps: lines.append(f"{m['factory'][-3:]} & {tex(m['process'])} & {m['category']} "+r'\\')
-    lines += [r'\bottomrule\end{longtable}}']
+    lines=[]
+    for part,start in enumerate(range(0,len(maps),57),1):
+        lines += [r'\begin{table*}[!t]\begin{adjustwidth}{-\extralength}{0cm}',
+                  r'\caption{Operational-category map'+f' (part {part} of 2).'+r'}\label{tab:mapping_'+str(part)+'}',
+                  r'\small\renewcommand{\arraystretch}{0.96}\begin{tabularx}{\linewidth}{@{}l L l@{}}',r'\toprule Factory & Process label & Category \\ \midrule']
+        for m in maps[start:start+57]:
+            lines.append(r'\textbf{'+m['factory'][-3:]+f"}} & {tex(m['process'])} & {m['category']} "+r'\\')
+        lines += [r'\bottomrule\end{tabularx}\end{adjustwidth}\end{table*}']
+    lines += [r'\FloatBarrier', r'Tables~\ref{tab:mapping_1} and~\ref{tab:mapping_2} reproduce all 113 factory-specific process entries.']
     (out/'mapping_appendix.tex').write_text('\n'.join(lines)+'\n')
     for name in prompts:
         text=(root/name).read_text().replace('\u2014',', ').replace('\u2013',' to ').replace('→','->').replace('≥','>=')

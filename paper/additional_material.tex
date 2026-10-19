@@ -14,17 +14,21 @@
 \geometry{headheight=25pt}
 \renewcommand{\leftcolUpdateCitation}{}
 \makeatletter
+\setlength{\@fptop}{0pt}
+\setlength{\@dblfptop}{0pt}
 \apptocmd{\ps@plain}{\fancyfoot[R]{}}{}{\ClassError{mdpi}{Cannot clear the unassigned DOI footer}{}}
 \patchcmd{\@maketitle}{Supplementary Materials:}{Additional Material:}{}{\ClassError{mdpi}{Cannot set the additional-material title}{}}
 \makeatother
 
 \usepackage{listings}
-\usepackage{longtable}
 \usepackage{placeins}
+\renewcommand{\topfraction}{0.92}
+\renewcommand{\textfraction}{0.06}
+\setcounter{topnumber}{3}
+\setcounter{totalnumber}{4}
 \usepackage{needspace}
 \usepackage{xr-hyper}
 \externaldocument[main-][nocite]{main}
-\DeclareRobustCommand{\artifact}[1]{\path{#1}}
 \lstset{basicstyle=\scriptsize\ttfamily, breaklines=true, frame=single, framerule=0.3pt,
   captionpos=b, aboveskip=6pt, belowskip=2pt, xleftmargin=2pt, xrightmargin=2pt,
   breakindent=0pt, abovecaptionskip=2pt, columns=fullflexible, keepspaces=true}

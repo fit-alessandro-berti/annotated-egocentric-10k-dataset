@@ -6,11 +6,11 @@ Assembly101~\cite{sener2022assembly101} records toy assembly and disassembly wit
 Researchers can use the preserved narrations to study alternative event representations, inspect which descriptions support a label, or compare how activity and process categories affect an aggregate. Such comparisons would examine representation choices unless independently checked against video. The present release includes structural checks and an author audit against generated transcripts, but no independent video annotations. Its inferred labels are not an independently annotated ground-truth benchmark for action recognition or boundary detection.
 
 \subsection{Selection and provenance}
-The archived subset contains outputs for factories 001 to 006, with 59 worker identifiers and 322 paired transcript and event files. Factory and worker identifiers are inherited from the source organization. Domain descriptions in this paper summarize generated factory reports; they are not independently verified factory metadata. The archive does not record the selection rationale, the original source revision, or a complete inventory of the recordings available at extraction time. We therefore describe an available processed subset, not a random or representative sample of factories.
+The archived subset contains outputs for factories \textbf{001} to \textbf{006}, with 59 worker identifiers and 322 paired transcript and event files. Factory and worker identifiers are inherited from the source organization. Domain descriptions in this paper summarize generated factory reports; they are not independently verified factory metadata. The archive does not record the selection rationale, the original source revision, or a complete inventory of the recordings available at extraction time. We therefore describe an available processed subset, not a random or representative sample of factories.
 
-The current provider card reports a median clip length of 180 seconds~\cite{build2025egocentric}, whereas many archived transcript endpoints lie near 20 minutes. These describe different quantities and possibly different snapshots or subsets. The card documents a per-video \texttt{duration\_sec} field inside source archives, but those metadata files are not included here. The pipeline scans video files and does not preserve that field. We cannot verify the earlier claim that these selected source recordings were typically 20 minutes long or occasionally many hours long. The public source revision inspected during this revision is recorded in \artifact{paper/revision/source_metadata.json}; it must not be substituted for the unknown historical revision.
+The current provider card reports a median clip length of 180 seconds~\cite{build2025egocentric}, whereas many archived transcript endpoints lie near 20 minutes. These describe different quantities and possibly different snapshots or subsets. The card documents a per-video \texttt{duration\_sec} field inside source archives, but those metadata files are not included here. The pipeline scans video files and does not preserve that field. The selected recordings' actual durations therefore cannot be established from the derived archive. The inspected public dataset snapshot does not identify the historical source version used for extraction.
 
-\begin{table}[htbp]
+\begin{table*}[!t]\begin{adjustwidth}{-\extralength}{0cm}
 \caption{Artifact inventory. Counts come from the frozen repository outputs. Worker and factory merged logs repeat the same source events.}
 \label{tab:inventory}\small
 \begin{tabularx}{\linewidth}{@{}l r L@{}}\toprule
@@ -24,34 +24,35 @@ Merged factory logs & 6 & Same 10{,}698 events concatenated across workers \\
 Audit record & 1 & 42 event judgments and 42 transcript-entry judgments \\
 Prompts; stage scripts & 4; 5 & Extraction instructions and implementation \\
 \bottomrule\end{tabularx}
-\end{table}
+\end{adjustwidth}\end{table*}
 
-The six per-video columns are \texttt{start\_timestamp}, \texttt{end\_timestamp}, \texttt{activity}, \texttt{process}, \texttt{factory}, and \texttt{worker}. S5 adds \texttt{source\_file}, \texttt{case\_id}, video-relative start and end offsets, and duration. Table~\ref{tab:inventory} and the hashed artifact manifest distinguish file counts from unique event counts. The dataset card in \artifact{paper/revision/DATASET_CARD.txt} follows the documentation concerns of Datasheets for Datasets~\cite{gebru2021datasheets}: composition, collection, uses, and limitations.
+\FloatBarrier
+The six per-video columns are \texttt{start\_timestamp}, \texttt{end\_timestamp}, \texttt{activity}, \texttt{process}, \texttt{factory}, and \texttt{worker}. S5 adds \texttt{source\_file}, \texttt{case\_id}, video-relative start and end offsets, and duration. Table~\ref{tab:inventory} and the hashed artifact manifest distinguish file counts from unique event counts. The released dataset documentation follows the documentation concerns of Datasheets for Datasets~\cite{gebru2021datasheets}: composition, collection, uses, and limitations.
 
 There are 13{,}304 entries recognized by the original three-component timestamp parser. Recognizing the additional two-component and mixed-format entries gives 13{,}462 entries, without rescaling any timestamp. The original endpoint-span calculation totals 786{,}412 seconds (218.4 hours). This is a sum of parsed spans, not verified footage duration. Across all logs, interval unions cover 414{,}886 seconds and summed event durations total 421{,}283 seconds. Their difference, 6{,}397 seconds, reflects overlaps. The retained time-analysis set contains 10{,}647 events in 320 logs, with 349{,}659 seconds of summed event duration (97.1 hours). These quantities must not be interchanged.
 
 \subsection{Temporal data quality and inclusion rules}
 \label{sec:temporal}
-Table~\ref{tab:anomalies} identifies all seven transcripts whose literal parsed endpoint exceeds one hour. An endpoint of \texttt{20:06:00} paired with an event endpoint of \texttt{00:20:06} is consistent with a format error, but does not prove which timestamp is correct. Some files switch from \texttt{HH:MM:SS} to \texttt{MM:SS}. No timestamps are repaired in this revision.
-
-\begin{table}[htbp]
+\begin{table*}[!t]\begin{adjustwidth}{-\extralength}{0cm}
 \caption{Transcript and event endpoints for the seven literal transcript spans over one hour. The final column applies the original time-analysis rule to event endpoints. IDs abbreviate factory/worker/video. Source durations are unavailable for all rows.}
 \label{tab:anomalies}\small
 \begin{tabular}{@{}llll@{}}\toprule
 ID & Transcript endpoint & Event endpoint & Time-analysis decision \\\midrule
-001/001/00004 & 20:00:00 & 20:00:00 & Exclude \\
-001/010/00001 & 01:20:00 & 01:20:00 & Exclude \\
-002/002/00008 & 20:00:00 & 00:20:00 & Retain \\
-002/010/00001 & 20:00:00 & 00:20:00 & Retain \\
-005/002/00000 & 13:52:00 & 00:13:52 & Retain \\
-006/001/00001 & 20:06:00 & 00:20:06 & Retain \\
-006/004/00000 & 19:59:00 & 00:19:59 & Retain \\
+\textbf{001}/001/00004 & 20:00:00 & 20:00:00 & Exclude \\
+\textbf{001}/010/00001 & 01:20:00 & 01:20:00 & Exclude \\
+\textbf{002}/002/00008 & 20:00:00 & 00:20:00 & Retain \\
+\textbf{002}/010/00001 & 20:00:00 & 00:20:00 & Retain \\
+\textbf{005}/002/00000 & 13:52:00 & 00:13:52 & Retain \\
+\textbf{006}/001/00001 & 20:06:00 & 00:20:06 & Retain \\
+\textbf{006}/004/00000 & 19:59:00 & 00:19:59 & Retain \\
 \bottomrule\end{tabular}
-\end{table}
+\end{adjustwidth}\end{table*}
 
-The original value-analysis code excludes a log only when its maximum event endpoint exceeds 3{,}600 seconds. It excludes two logs, both in factory 001. The earlier prose described seven exclusions based on transcript spans; that description did not match the calculation. We preserve the implemented rule and the reproduced time tables, while stating that it leaves five of the timestamp-anomalous transcripts' logs in the analysis. Retention is a calculation rule, not certification of their timestamps.
+Table~\ref{tab:anomalies} identifies all seven transcripts whose literal parsed endpoint exceeds one hour. An endpoint of \texttt{20:06:00} paired with an event endpoint of \texttt{00:20:06} is consistent with a format error, but does not prove which timestamp is correct. Some files switch from \texttt{HH:MM:SS} to \texttt{MM:SS}. The analysis retains the recorded timestamps.
 
-Four other transcripts contain two-component endpoints. Their identifiers are 001/004/00001, 002/005/00001, 002/009/00003, and 003/003/00003. Three change format within the file; 002/005/00001 uses \texttt{MM:SS} throughout. The original parser misses 158 entries across these files. The inclusion manifest records every video's formats, format-transition positions, endpoints, row count, union duration, summed duration, and decision. A separate interval manifest preserves the original endpoint strings. The low coverage ratios in Section~\ref{sec:consistency} therefore diagnose inconsistent representations; they do not establish long-video truncation.
+The original value-analysis code excludes a log only when its maximum event endpoint exceeds 3{,}600 seconds. It excludes two logs, both in factory \textbf{001}. This rule retains five logs associated with timestamp-anomalous transcripts. Retention is a calculation rule, not certification of their timestamps.
+
+Four other transcripts contain two-component endpoints. Their identifiers are \textbf{001}/004/00001, \textbf{002}/005/00001, \textbf{002}/009/00003, and \textbf{003}/003/00003. Three change format within the file; \textbf{002}/005/00001 uses \texttt{MM:SS} throughout. The original parser misses 158 entries across these files. The inclusion manifest records every video's formats, format-transition positions, endpoints, row count, union duration, summed duration, and decision. A separate interval manifest preserves the original endpoint strings. The low coverage ratios in Section~\ref{sec:consistency} therefore diagnose inconsistent representations; they do not establish long-video truncation.
 
 \subsection{Synthetic time and case selection}
 \label{sec:cases}
@@ -62,7 +63,7 @@ S4 writes offsets as dates relative to 2000-01-01. This date exists for software
 \end{equation}
 The next clip starts at the largest extracted endpoint, not at the full source duration. Unrepresented trailing footage and empty logs add no elapsed time. Within-clip gaps before that endpoint remain on the synthetic axis, but gaps between recording sessions are unknown. Each worker has a separate synthetic origin; equal synthetic dates do not establish simultaneous work.
 
-\begin{figure}[htbp]\centering
+\begin{figure*}[!t]\begin{adjustwidth}{-\extralength}{0cm}\centering
 \begin{tikzpicture}[x=0.72cm,y=0.7cm,font=\small]
 \draw[->] (0,0)--(12,0);
 \draw[fill=blue!15] (0,0.3) rectangle (4,1);
@@ -74,9 +75,9 @@ The next clip starts at the largest extracted endpoint, not at the full source d
 \node[align=center,font=\scriptsize] at (6,2.1){A trace may cross this join although the real gap is unknown.\\Trailing footage after $M_1$ is not represented by the offset.};
 \end{tikzpicture}
 \caption{Schematic of the implemented merge, not measured source time. Separate video cases preserve the clip boundary. A worker case creates a directly-follows relation across it.}
-\label{fig:synthetic}\end{figure}
+\label{fig:synthetic}\end{adjustwidth}\end{figure*}
 
-\begin{table}[htbp]
+\begin{table*}[!t]\begin{adjustwidth}{-\extralength}{0cm}
 \caption{Case constructions supported by the attributes. Process episodes require an additional grouping step and are not stored as case IDs.}
 \label{tab:cases}\footnotesize
 \begin{tabularx}{\linewidth}{@{}p{0.22\linewidth}LL@{}}\toprule
@@ -85,4 +86,5 @@ Video as case, $\kappa(e)=v$ & Local activity order within an observation window
 Worker as case, $\kappa(e)=(f,w)$ & Sequence of retained clips; stored S5 case ID & Filename joins can create artificial transitions; calendar duration is unknown \\
 Contiguous process episode & Consecutive events with the same process within a chosen clip, with a stated gap rule & Inferred context boundaries do not identify items or completed instances \\
 \bottomrule\end{tabularx}
-\end{table}
+\end{adjustwidth}\end{table*}
+\noindent Figure~\ref{fig:synthetic} illustrates the synthetic clip join, and Table~\ref{tab:cases} compares the case rules supported by the released attributes.

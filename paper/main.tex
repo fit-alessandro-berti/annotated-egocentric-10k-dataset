@@ -3,6 +3,8 @@
 % Official MDPI submission class. Publication details are assigned by MDPI.
 \firstpage{1}
 \makeatletter
+\setlength{\@fptop}{0pt}
+\setlength{\@dblfptop}{0pt}
 \setcounter{page}{\@firstpage}
 \makeatother
 \pubvolume{1}
@@ -24,12 +26,14 @@
 \makeatother
 
 \usepackage{listings}
-\usepackage{longtable}
 \usepackage{placeins}
+\renewcommand{\topfraction}{0.92}
+\renewcommand{\textfraction}{0.06}
+\setcounter{topnumber}{3}
+\setcounter{totalnumber}{4}
 \usepackage{xr-hyper}
 \externaldocument[supp-][nocite]{additional_material}
 \usetikzlibrary{calc,fit}
-\DeclareRobustCommand{\artifact}[1]{\path{#1}}
 \usetikzlibrary{arrows.meta,positioning}
 \lstset{basicstyle=\scriptsize\ttfamily, breaklines=true, frame=single, framerule=0.3pt,
   captionpos=b, aboveskip=6pt, belowskip=2pt, xleftmargin=2pt, xrightmargin=2pt,
@@ -48,7 +52,7 @@ $^{1}$ \quad Process and Data Science (PADS), RWTH Aachen University, Aachen, Ge
 $^{2}$ \quad Celonis, Munich, Germany}
 \corres{Correspondence: a.berti@pads.rwth-aachen.de}
 
-\abstract{Manual factory work often leaves few records in information systems. We present a construction design and data resource that connect egocentric video to retrospective process analysis. The design first narrates recordings, aggregates descriptions across workers, and induces shared factory vocabularies. It then assigns interval events using those vocabularies and consolidates the logs. Pretrained model parameters remain fixed, while the vocabulary adapts to each available factory corpus. Generation uses no task-specific fine-tuning or labeled event examples; assessment uses an author audit and an analyst-defined category map. The linked artifacts include 322 per-video logs with 10{,}698 events from 59 workers in six factories. All events have the required fields and permitted labels. An existing audit finds full transcript support for 36 of 42 sampled events and partial support for six; this does not establish accuracy against video. Descriptive calculations assign 10.8\% of retained summed event duration in one factory to defect patching, already described in its report. They also show why a zero transport category can coexist with 101 recorded transport events: categories are assigned from process context. Worked examples explain how vocabulary, label assignment, event boundaries, and analytical mapping affect measurements. The inferred resource supports inspection and hypothesis generation; video accuracy, causal diagnoses, and intervention effects remain unmeasured.}
+\abstract{Much of manual factory work remains invisible to information systems: moving materials, preparing tools, checking surfaces, and repairing defects can leave no event record. Egocentric video brings this work into view, but turning what a camera sees into a process log requires decisions about actions, names, and time. We present a construction method and linked data resource that make these decisions inspectable. Pretrained models narrate recordings, build shared factory vocabularies from worker summaries, and convert the transcripts into labeled interval events. The resulting logs support exploration of work composition, local sequences, and differences between recorded worker profiles. Worked examples reveal how the representation shapes the findings: recorded transport can disappear from an aggregated transport category, and a narrated episode can acquire an additional event boundary during extraction. Structural checks and an author audit assess the records and their consistency with generated transcripts, while accuracy against the source videos remains an open question. By preserving the intermediate descriptions alongside the logs, the resource lets researchers trace measurements back to their textual basis and investigate alternative representations of manual work.}
 \keyword{process mining; inferred event logs; egocentric video; measurement; data quality; manufacturing; foundation models}
 
 \begin{document}
@@ -63,7 +67,7 @@ $^{2}$ \quad Celonis, Munich, Germany}
 \input{sections/discussion}
 
 \section*{Additional Material}
-The accompanying \href{additional_material.pdf}{Additional Material} contains the journal-extension record (Appendix~\ref{supp-app:extension}), reproduction instructions and configuration (Appendix~\ref{supp-app:repro}), activity-level discovery results (Appendix~\ref{supp-app:discovery}), complete operational-category map (Appendix~\ref{supp-app:mapping}), all archived audit judgments (Appendix~\ref{supp-app:audit}), and full extraction prompts (Appendix~\ref{supp-app:prompts}).
+The accompanying \href{additional_material.pdf}{Additional Material} contains the evidence and assessment scope (Appendix~\ref{supp-app:extension}), reproducibility information and configuration (Appendix~\ref{supp-app:repro}), activity-level discovery results (Appendix~\ref{supp-app:discovery}), complete operational-category map (Appendix~\ref{supp-app:mapping}), all archived audit judgments (Appendix~\ref{supp-app:audit}), and full extraction prompts (Appendix~\ref{supp-app:prompts}).
 
 \section*{Declarations}
 
@@ -77,7 +81,7 @@ The accompanying \href{additional_material.pdf}{Additional Material} contains th
 
 \dataavailability{The pipeline, prompts, transcripts, factory vocabularies, derived event logs, and assessment code are available at \url{https://github.com/fit-alessandro-berti/annotated-egocentric-10k-dataset}. The source videos are available from Build AI's Egocentric-10K dataset at \url{https://huggingface.co/datasets/builddotai/Egocentric-10K}, under its access terms and Apache License 2.0. The repository contains derived artifacts and does not redistribute the source videos.}
 
-\acknowledgments{The study used Gemini 3.1 Pro for video descriptions, worker summaries, and factory reports, and GPT-5.4 for event extraction, as described in the methods. OpenAI Codex (GPT-6) assisted with the journal revision, evidence checks, descriptive recalculation scripts, language editing, LaTeX formatting, and preparation of the cover letter. The authors are responsible for the content of this work.}
+\acknowledgments{The study used Gemini 3.1 Pro for video descriptions, worker summaries, and factory reports, and GPT-5.4 for event extraction, as described in the methods. OpenAI Codex (GPT-6) assisted with manuscript preparation, evidence checks, descriptive recalculation scripts, language editing, LaTeX formatting, and preparation of the cover letter. The authors are responsible for the content of this work.}
 
 \conflictsofinterest{Wil M. P. van der Aalst is affiliated with Celonis, a process mining software company. No other conflicts of interest are reported.}
 

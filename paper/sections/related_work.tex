@@ -17,15 +17,13 @@ S1's instruction to merge stable repetition illustrates why these choices matter
 
 \subsection{Video-to-log and language-model-based construction}
 \label{sec:closest}
-Gavric et al.'s Vid2log~\cite{gavric2024multimodal} is a close predecessor. It uses LLaVA to infer a domain and relevant activities from selected frames, obtains textual event information, and combines video-derived data with conventional logs through temporal and semantic matching. Both methods use natural language as an interface between visual observations and process event data. Our design first narrates recordings, aggregates descriptions by worker, and induces shared factory label lists before assigning events from the original transcripts. This ordering makes the available factory corpus part of the representation used to analyze it. Vid2log studies log richness and an assembly use case; our assessment examines transcript consistency and the consequences of event and category choices for duration and sequence analyses. These are specific design and assessment contributions, rather than a claim to introduce language-model-based video-to-log construction or to be the first to induce a shared vocabulary.
+Gavric et al.'s Vid2log~\cite{gavric2024multimodal} is a close predecessor. It uses LLaVA to infer a domain and relevant activities from selected frames, obtains textual event information, and combines video-derived data with conventional logs through temporal and semantic matching. Both methods use natural language as an interface between visual observations and process event data. Our design first narrates recordings, aggregates descriptions by worker, and induces shared factory label lists before assigning events from the original transcripts. This ordering makes the available factory corpus part of the representation used to analyze it. Vid2log studies log richness and an assembly use case; our assessment examines transcript consistency and the consequences of event and category choices for duration and sequence analyses. The comparison centers on how factory context is constructed and how the resulting event representation is assessed.
 
 Kecht et al.~\cite{kecht2021conversations} use pretrained natural language inference to assign supplied topics and activities to customer-service messages. They do not train a new language model, but use labeled messages to select classification thresholds and refine hypotheses. Message identifiers and timestamps are retained. Our method instead estimates episode boundaries from generated video descriptions and induces label lists from the factory material. Shirali et al.~\cite{shirali2025iot} also apply LLMs to physical observations: they abstract IoT readings into high-level events and integrate logs from multiple sensor sources. LLM use for physical-process data therefore predates this study. Work on process-mining assistants~\cite{berti2025benchmark} and database-query generation~\cite{dani2025llm} addresses neighboring tasks with different inputs and outputs.
 
 Seeth et al.~\cite{seeth2026finetuned}, an arXiv preprint, study fine-tuning for text-to-log generation. They pair generated reports with source traces, supply permitted activities and attributes, and evaluate both traces and discovered process models against source-log references. They report benefits from fine-tuning over zero-shot and few-shot prompting in that setting. Our models receive no task-specific parameter updates; adaptation takes place through staged context and a vocabulary induced from each factory corpus. A permitted label list is shared by both designs and is not itself the distinction. The studies differ in source material, reference data, and evaluation targets. Our assessment establishes what the reported procedure supports, not that fine-tuning is generally unnecessary. Numerical scores from these studies cannot be ranked as equivalent measures of extraction accuracy.
 
-Tables~\ref{tab:comparison} and~\ref{tab:comparison_provenance} compare the closest transformations using the same method rows. Table~\ref{tab:supervision} separates the forms of model adaptation and human input in our study.
-
-\begin{table}[htbp]
+\begin{table*}[!t]\begin{adjustwidth}{-\extralength}{0cm}
 \caption{Closest construction methods: purpose, input, vocabulary, adaptation, and output. ``Not reported'' identifies information not established by the inspected source, not an absent capability.}
 \label{tab:comparison}\footnotesize\setlength{\tabcolsep}{3pt}
 \begin{tabularx}{\linewidth}{@{}p{0.14\linewidth}LLLL@{}}\toprule
@@ -36,9 +34,9 @@ SnapLog~\cite{pegoraro2026snaplog} & Event discovery from video & Classes suppor
 Seeth et al.~\cite{seeth2026finetuned} & Construction from textual reports & Allowed activities from source logs & Pretrained LLMs; supervised fine-tuning compared with prompting & XES traces \\
 This resource & Construction from egocentric factory video & Shared lists induced from worker summaries & Fixed pretrained models; factory-specific context and labels & Interval CSVs and linked text \\
 \bottomrule\end{tabularx}
-\end{table}
+\end{adjustwidth}\end{table*}
 
-\begin{table}[htbp]
+\begin{table*}[!t]\begin{adjustwidth}{-\extralength}{0cm}
 \caption{Time, case relationships, and evaluation references for the same methods. A source timestamp, an estimated interval, and an artificial ordering carry different evidence.}
 \label{tab:comparison_provenance}\footnotesize\setlength{\tabcolsep}{3pt}
 \begin{tabularx}{\linewidth}{@{}p{0.14\linewidth}LLL@{}}\toprule
@@ -49,15 +47,18 @@ SnapLog & Segmented frame sequences & Video sequences as traces & Video datasets
 Seeth et al. & Timestamps extracted from generated reports & Report-to-trace pairing from source logs & Source traces and process-level comparisons \\
 This resource & Estimated video-relative intervals; S4 may split spans; synthetic S5 timeline & Source factory/worker/video metadata; chosen video or worker grouping & Generated transcripts and author audit; computations on inferred logs \\
 \bottomrule\end{tabularx}
-\end{table}
+\end{adjustwidth}\end{table*}
+
+\FloatBarrier
+Tables~\ref{tab:comparison} and~\ref{tab:comparison_provenance} compare the closest transformations using the same method rows. Section~\ref{sec:supervision} distinguishes model adaptation from human input in our study.
 
 \subsection{Event abstraction and semantic consistency}
 The review by van Zelst et al.~\cite{vanZelst2021abstraction} explains how event abstraction changes process granularity and distinguishes methods by matters including supervision, input, and uncertainty. Here, three questions need separate treatment: where an episode begins and ends, which reusable activity classes exist, and which class is assigned to each episode. S1 mainly supplies candidate intervals, S2 and S3 construct the classes, and S4 assigns events and can revise boundaries. Section~\ref{sec:abstraction} maps these tasks to the implementation.
 
-Inducing classes and assigning instances can fail in different ways. A useful concept can be missing from the vocabulary, or an available concept can be assigned incorrectly. A later category map can also hide a correctly recorded label. The activity and process fields are two label dimensions; the implementation does not establish a parent-child hierarchy. This distinction is necessary to explain factory 003, where transport activities occur under process contexts that are mapped to other operational categories.
+Inducing classes and assigning instances can fail in different ways. A useful concept can be missing from the vocabulary, or an available concept can be assigned incorrectly. A later category map can also hide a correctly recorded label. The activity and process fields are two label dimensions; the implementation does not establish a parent-child hierarchy. This distinction is necessary to explain factory \textbf{003}, where transport activities occur under process contexts that are mapped to other operational categories.
 
 \subsection{Construction, enrichment, and integration}
-\begin{table}[htbp]
+\begin{table*}[!t]\begin{adjustwidth}{-\extralength}{0cm}
 \caption{Neighboring event-data tasks, distinguished by their starting points and intended results. A system can perform more than one task.}
 \label{tab:construction_tasks}\footnotesize
 \begin{tabularx}{\linewidth}{@{}lLL@{}}\toprule
@@ -66,7 +67,7 @@ Construction & Observations or documents without a suitable log & An initial eve
 Enrichment & An existing log and additional information & Added or corrected events and attributes \\
 Integration & Multiple sources describing related behavior & A combined representation with resolved correspondences \\
 \bottomrule\end{tabularx}
-\end{table}
+\end{adjustwidth}\end{table*}
 
 Text2EL+~\cite{kapugamageeganage2024text2el} enriches existing logs with events and attributes extracted from text, using semantic and contextual validation and expert guidance. Sturm et al.~\cite{sturm2026multimodal} instantiate parsing, abstraction, extraction, integration, and enrichment using CRM data, email metadata, and call transcripts. Their evaluation involves a sales process and a domain expert. Table~\ref{tab:construction_tasks} separates the tasks these designs can combine.
 
@@ -79,4 +80,4 @@ Quality annotations and explicitly uncertain events serve different purposes. Go
 
 Esser and Fahland~\cite{esser2021multidimensional} represent events and entities across multiple dimensions in graph databases. This complements the case-choice concerns of object-centric process mining~\cite{aalst2019objectcentric}. Our worker and video relationships support alternative observational views. Product identities and cross-worker product trajectories require additional evidence; a change in storage format cannot establish them. Similarly, the range of industrial process-mining goals~\cite{corallo2020industrial} makes it necessary to distinguish descriptions of recorded work from conclusions about production performance.
 
-The question addressed here is how a shared representation, built from the available factory recordings before event assignment, supports retrospective analysis and shapes its results. RQ1 examines that construction and its structural properties. RQ2 checks the transcript-to-event transformation. RQ3 studies the supported calculations, and RQ4 explains their dependence on vocabulary, boundaries, case rules, and analytical categories. Together, these questions connect the construction design, artifact release, and measurement findings to specific antecedents without claiming a comparative accuracy advantage.
+The question addressed here is how a shared representation, built from the available factory recordings before event assignment, supports retrospective analysis and shapes its results. \textbf{RQ1} examines that construction and its structural properties. \textbf{RQ2} checks the transcript-to-event transformation. \textbf{RQ3} studies the supported calculations, and \textbf{RQ4} explains their dependence on vocabulary, boundaries, case rules, and analytical categories. Together, these questions connect the construction design, artifact release, and measurement findings to their methodological antecedents.
