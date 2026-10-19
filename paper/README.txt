@@ -2,7 +2,9 @@ Systems submission files
 
 Manuscript: main.tex and main.pdf
 Cover letter: cover_letter.tex and cover_letter.pdf
-Manuscript source archive: systems_submission.zip (created by make submission)
+
+Keep the manuscript and cover letter as separate files. Do not create ZIP
+archives for this paper.
 
 Target journal: Systems (MDPI)
 Article type: Article
@@ -18,8 +20,7 @@ manuscript without make, run:
   latexmk -pdf -interaction=nonstopmode -halt-on-error main.tex
 
 To build the cover letter, use the same command with cover_letter.tex.
-Run make submission to create the manuscript source archive. Upload the
-cover letter separately. Both documents remain editable in LaTeX.
+Upload the cover letter separately. Both documents remain editable in LaTeX.
 
 Template
 
