@@ -1,0 +1,13 @@
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+*.loc
+*.loa
+*.soc
+*-eps-converted-to.pdf
+!main.pdf
+!cover_letter.pdf
+!Definitions/logo-orcid.pdf
