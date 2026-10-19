@@ -1,5 +1,10 @@
 \section{Dataset and Released Artifacts}
 \label{sec:resource}
+\subsection{An inferred resource for process analysis}
+Assembly101~\cite{sener2022assembly101} records toy assembly and disassembly with simultaneous static and egocentric cameras. Its coarse and fine action annotations support benchmarks for recognition, anticipation, and temporal segmentation. Our source setting is recorded manual work in six factories, and the released labels and boundaries are inferred by the pipeline. The distinction is the purpose and provenance of the resource: linked narrations, summaries, vocabularies, events, logs, and analysis artifacts make the construction and interpretation of process measurements inspectable.
+
+Researchers can use the preserved narrations to study alternative event representations, inspect which descriptions support a label, or compare how activity and process categories affect an aggregate. Such comparisons would examine representation choices unless independently checked against video. The present release includes structural checks and an author audit against generated transcripts, but no independent video annotations. Its inferred labels are not an independently annotated ground-truth benchmark for action recognition or boundary detection.
+
 \subsection{Selection and provenance}
 The archived subset contains outputs for factories 001 to 006, with 59 worker identifiers and 322 paired transcript and event files. Factory and worker identifiers are inherited from the source organization. Domain descriptions in this paper summarize generated factory reports; they are not independently verified factory metadata. The archive does not record the selection rationale, the original source revision, or a complete inventory of the recordings available at extraction time. We therefore describe an available processed subset, not a random or representative sample of factories.
 

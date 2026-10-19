@@ -1,0 +1,587 @@
+diff --git a/paper/cover_letter.tex b/paper/cover_letter.tex
+index e1c17e6..87f20d5 100644
+--- a/paper/cover_letter.tex
++++ b/paper/cover_letter.tex
+@@ -17,9 +17,9 @@
+ 
+ Please consider our research article, ``Seeing the Process Through the Worker's Eyes: Event Logs from Egocentric Factory Videos'', by Alessandro Berti and Wil M. P. van der Aalst, for the special issue ``Data-Driven Business Processes and Decision Optimization'' in \textit{Systems}.
+ 
+-Manual factory work often leaves few records in information systems. Our study presents a five-stage pipeline that uses foundation models to convert videos recorded from the worker's perspective into event logs. It creates a shared process and activity vocabulary for each factory and uses it to keep event labels consistent, without task-specific training or manual input annotations.
++Our five-stage pipeline narrates egocentric factory videos, aggregates descriptions across workers, and induces shared factory vocabularies before assigning events. Generation uses no task-specific fine-tuning or labeled event examples. We distinguish this design from prior video-to-log methods, especially Vid2log, through its vocabulary construction and findings about retrospective process measurements.
+ 
+-The resource contains 322 event logs with 10,698 events from 59 workers in six factories. The journal revision adds a formal event model, explicit measurement definitions, traceable examples, an analysis of missing time, and a portable workflow for calculations from frozen outputs. The existing author audit assesses agreement with generated transcripts; accuracy against video remains unmeasured. The logs quantify defect patching already described in a factory report and show how process-based categories can hide recorded transport. Timestamp inconsistencies, unequal observation windows, and shared textual evidence limit operational interpretation.
++The resource links intermediate text and vocabularies to 322 logs with 10,698 events from 59 workers in six factories. The revision adds formal definitions, traceable examples, and reproducible measurements. Existing examples show how process-based categories can hide recorded transport and how inferred boundaries affect durations. The author audit assesses transcript agreement; video accuracy remains unmeasured. Timestamp inconsistencies, unequal observation windows, and analyst-defined categories limit operational conclusions.
+ 
+ The paper fits the special issue's focus on process mining, process performance evaluation, and improvement in industrial systems. It connects human work with digital process analysis and provides evidence to guide process design decisions. The pipeline, prompts, derived data, and assessment code are publicly available.
+ 
+diff --git a/paper/main.tex b/paper/main.tex
+index 04f78e3..06e4dde 100644
+--- a/paper/main.tex
++++ b/paper/main.tex
+@@ -48,7 +48,7 @@ $^{1}$ \quad Process and Data Science (PADS), RWTH Aachen University, Aachen, Ge
+ $^{2}$ \quad Celonis, Munich, Germany}
+ \corres{Correspondence: a.berti@pads.rwth-aachen.de}
+ 
+-\abstract{Manual factory work often leaves few records in information systems. We present a method and data resource for constructing event logs from egocentric video and interpreting the resulting measurements. Five stages produce transcripts, worker summaries, factory vocabularies, interval events, and merged logs. The released artifacts contain 322 per-video logs with 10{,}698 events from 59 workers in six factories. Extraction uses no task-specific training or manual input annotations. All released events have the required fields and permitted labels, but these properties do not establish accuracy against video. An existing author audit finds full transcript support for 36 of 42 sampled events, partial support for six, and no contradictions. We formalize the representation, document temporal inconsistencies, and reproduce the existing descriptive calculations from frozen outputs. These calculations assign 10.8\% of retained summed event duration in one factory to defect patching, a behavior already described in its report. They also show why a zero transport category can coexist with 101 recorded transport events: categories are assigned from process context. Worked examples, metric definitions, and an analysis of missing time explain what these logs can and cannot establish. The resource supports inspection and hypothesis generation; video accuracy, causal diagnoses, and intervention effects remain unmeasured.}
++\abstract{Manual factory work often leaves few records in information systems. We present a construction design and data resource that connect egocentric video to retrospective process analysis. The design first narrates recordings, aggregates descriptions across workers, and induces shared factory vocabularies. It then assigns interval events using those vocabularies and consolidates the logs. Pretrained model parameters remain fixed, while the vocabulary adapts to each available factory corpus. Generation uses no task-specific fine-tuning or labeled event examples; assessment uses an author audit and an analyst-defined category map. The linked artifacts include 322 per-video logs with 10{,}698 events from 59 workers in six factories. All events have the required fields and permitted labels. An existing audit finds full transcript support for 36 of 42 sampled events and partial support for six; this does not establish accuracy against video. Descriptive calculations assign 10.8\% of retained summed event duration in one factory to defect patching, already described in its report. They also show why a zero transport category can coexist with 101 recorded transport events: categories are assigned from process context. Worked examples explain how vocabulary, label assignment, event boundaries, and analytical mapping affect measurements. The inferred resource supports inspection and hypothesis generation; video accuracy, causal diagnoses, and intervention effects remain unmeasured.}
+ \keyword{process mining; inferred event logs; egocentric video; measurement; data quality; manufacturing; foundation models}
+ 
+ \begin{document}
+diff --git a/paper/references.bib b/paper/references.bib
+index a60b993..901e8e9 100644
+--- a/paper/references.bib
++++ b/paper/references.bib
+@@ -183,7 +183,7 @@
+ @inproceedings{pham2018workflow,
+   author = {Truong Pham and Yu Xiao},
+   title = {Unsupervised Workflow Extraction from First-person Video of Mechanical Assembly},
+-  booktitle = {Proceedings of the 19th International Workshop on Mobile Computing Systems and Applications},
++  booktitle = {19th International Workshop on Mobile Computing Systems and Applications},
+   pages = {31-36}, publisher = {ACM}, year = {2018},
+   doi = {10.1145/3177102.3177112}
+ }
+@@ -229,3 +229,170 @@
+   booktitle = {2021 3rd International Conference on Process Mining},
+   publisher = {IEEE}, pages = {144-151}, year = {2021}, doi = {10.1109/ICPM53251.2021.9576869}
+ }
++
++% Additional sources used in the related-work positioning revision.
++
++@inproceedings{gavric2024multimodal,
++  author    = {Gavric, Aleksandar and Bork, Dominik and Proper, Henderik},
++  title     = {Multimodal Process Mining},
++  booktitle = {2024 IEEE 26th Conference on Business Informatics (CBI)},
++  year      = {2024},
++  pages     = {99-108},
++  publisher = {IEEE},
++  doi       = {10.1109/CBI62504.2024.00021}
++}
++
++@inproceedings{petersen2013workflows,
++  author    = {Petersen, Nils and Pagani, Alain and Stricker, Didier},
++  title     = {Real-Time Modeling and Tracking Manual Workflows
++               from First-Person Vision},
++  booktitle = {2013 IEEE International Symposium on Mixed
++               and Augmented Reality (ISMAR)},
++  year      = {2013},
++  pages     = {117-124},
++  publisher = {IEEE},
++  doi       = {10.1109/ISMAR.2013.6671771}
++}
++
++@inproceedings{krishna2017densecaptioning,
++  author    = {Krishna, Ranjay and Hata, Kenji and Ren, Frederic
++               and Fei-Fei, Li and Niebles, Juan Carlos},
++  title     = {Dense-Captioning Events in Videos},
++  booktitle = {IEEE International Conference
++               on Computer Vision (ICCV)},
++  year      = {2017},
++  pages     = {706-715},
++  publisher = {IEEE},
++  doi       = {10.1109/ICCV.2017.83}
++}
++
++@inproceedings{sener2022assembly101,
++  author    = {Sener, Fadime and Chatterjee, Dibyadip
++               and Shelepov, Daniel and He, Kun
++               and Singhania, Dipika and Wang, Robert
++               and Yao, Angela},
++  title     = {{Assembly101}: A Large-Scale Multi-View Video Dataset
++               for Understanding Procedural Activities},
++  booktitle = {IEEE/CVF Conference on Computer
++               Vision and Pattern Recognition (CVPR)},
++  year      = {2022},
++  pages     = {21096-21106},
++  url       = {https://openaccess.thecvf.com/content/CVPR2022/html/Sener_Assembly101_A_Large-Scale_Multi-View_Video_Dataset_for_Understanding_Procedural_Activities_CVPR_2022_paper.html}
++}
++
++@inproceedings{shirali2025iot,
++  author    = {Shirali, Mohsen and Fani Sani, Mohammadreza
++               and Ahmadi, Zahra and Serral, Estefan{\'i}a},
++  title     = {{LLM}-Based Event Abstraction and Integration
++               for {IoT}-Sourced Logs},
++  booktitle = {Business Process Management Workshops},
++  series    = {Lecture Notes in Business Information Processing},
++  volume    = {534},
++  year      = {2025},
++  pages     = {138-149},
++  publisher = {Springer},
++  doi       = {10.1007/978-3-031-78666-2_11}
++}
++
++@misc{seeth2026finetuned,
++  author        = {Seeth, Maximilian and Tavares, Gabriel Marques
++                   and Schuster, Daniel},
++  title         = {Automated Event Log Generation from Unstructured
++                   Text Using Finetuned {LLMs}},
++  year          = {2026},
++  eprint        = {2609.01320},
++  archivePrefix = {arXiv},
++  note          = {Preprint},
++  url           = {https://arxiv.org/abs/2609.01320}
++}
++
++@article{kapugamageeganage2024text2el,
++  author  = {Kapugama Geeganage, Dakshi Tharanga
++             and Wynn, Moe Thandar
++             and ter Hofstede, Arthur H. M.},
++  title   = {{Text2EL+}: Expert Guided Event Log Enrichment
++             Using Unstructured Text},
++  journal = {ACM J. Data Inf. Qual.},
++  year    = {2024},
++  volume  = {16},
++  number  = {1},
++  pages   = {8:1-8:28},
++  doi     = {10.1145/3640018}
++}
++
++@inproceedings{sturm2026multimodal,
++  author    = {Sturm, Frank and Liessmann, Annina and Matzner, Martin},
++  title     = {Multimodal Event Log Construction for Process Mining:
++               Instantiating a Reference Architecture},
++  booktitle = {Design for Better Futures: Beyond the Science
++               of the Artificial. Completed Research},
++  series    = {Lecture Notes in Computer Science},
++  volume    = {16605},
++  year      = {2026},
++  pages     = {146-164},
++  publisher = {Springer},
++  doi       = {10.1007/978-3-032-28316-0_9}
++}
++
++@article{konig2025unstructured,
++  author  = {K{\"o}nig, Fabian and Egger, Andreas
++             and Kratsch, Wolfgang and R{\"o}glinger, Maximilian
++             and W{\"o}rdehoff, Niklas},
++  title   = {Unstructured Data in Process Mining:
++             A Systematic Literature Review},
++  journal = {ACM Trans. Manag. Inf. Syst.},
++  year    = {2025},
++  volume  = {16},
++  number  = {3},
++  pages   = {25:1-25:34},
++  doi     = {10.1145/3727148}
++}
++
++@article{andrews2020quality,
++  author  = {Andrews, Robert and van Dun, Christopher G. J.
++             and Wynn, Moe T. and Kratsch, Wolfgang
++             and R{\"o}glinger, Maximilian
++             and ter Hofstede, Arthur H. M.},
++  title   = {Quality-Informed Semi-Automated Event Log Generation
++             for Process Mining},
++  journal = {Decis. Support Syst.},
++  year    = {2020},
++  volume  = {132},
++  pages   = {113265},
++  doi     = {10.1016/j.dss.2020.113265}
++}
++
++@article{goel2022quality,
++  author  = {Goel, Kanika and Leemans, Sander J. J.
++             and Martin, Niels and Wynn, Moe T.},
++  title   = {Quality-Informed Process Mining:
++             A Case for Standardised Data Quality Annotations},
++  journal = {ACM Trans. Knowl. Discov. Data},
++  year    = {2022},
++  volume  = {16},
++  number  = {5},
++  pages   = {97:1-97:47},
++  doi     = {10.1145/3511707}
++}
++
++@article{pegoraro2021uncertain,
++  author  = {Pegoraro, Marco and Uysal, Merih Seran
++             and van der Aalst, Wil M. P.},
++  title   = {Conformance Checking over Uncertain Event Data},
++  journal = {Information Systems},
++  year    = {2021},
++  volume  = {102},
++  pages   = {101810},
++  doi     = {10.1016/j.is.2021.101810}
++}
++
++@article{esser2021multidimensional,
++  author  = {Esser, Stefan and Fahland, Dirk},
++  title   = {Multi-Dimensional Event Data in Graph Databases},
++  journal = {J. Data Semant.},
++  year    = {2021},
++  volume  = {10},
++  number  = {1-2},
++  pages   = {109-141},
++  doi     = {10.1007/s13740-021-00122-1}
++}
+diff --git a/paper/sections/appendices.tex b/paper/sections/appendices.tex
+index db566b0..fe34e29 100644
+--- a/paper/sections/appendices.tex
++++ b/paper/sections/appendices.tex
+@@ -2,12 +2,15 @@
+ \label{app:extension}
+ Table~\ref{tab:extension} compares the supplied short manuscript with this revision. It documents the extension of that manuscript; it does not assert a publication status for a workshop version. No new extraction experiment or audit has been added. The complete task-to-deliverable and claim-to-evidence registers are in \artifact{paper/revision/}.
+ 
++The file \artifact{paper/revision/positioning_claims.csv} maps all 14 positioning suggestions to prior work, repository evidence, and replacement claims. Source checks are in \artifact{paper/revision/positioning_sources.csv}. These records distinguish already established capabilities from the construction design, resource, and measurement findings claimed here.
++
+ \begin{table}[htbp]
+ \caption{Workshop-to-journal revision map relative to the supplied short manuscript.}
+ \label{tab:extension}\footnotesize
+ \begin{tabularx}{\linewidth}{@{}LLL@{}}\toprule
+ Existing material & Journal addition & Type of contribution \\\midrule
+ Five-stage overview & Formal event model, implementation algorithm, stage failures, guarantee table & Method specification \\
++Brief literature comparison & Vid2log comparison, supervision profile, time/case provenance, evaluation references & Positioning of construction and measurement contributions \\
+ Brief time description & Synthetic-time equation, case comparison, timestamp and inclusion manifests & Measurement analysis and reporting correction \\
+ Category percentages & Activity/context/category distinction and exact transport example & Methodological finding from existing artifacts \\
+ Coverage caveats & Missing-time proposition with explicit assumptions & New analytical reasoning \\
+@@ -21,12 +24,16 @@ Brief limitations & Observability taxonomy, uncertainty path, operational hypoth
+ \section{Reproducibility and Configuration}
+ \label{app:repro}
+ The offline command below reads the five frozen artifact directories and the original category map. It writes derived CSVs, a JSON summary, and typeset appendices to a separate output directory. It requires Python 3 and no model credentials or third-party packages.
++
++\noindent\begin{minipage}{\linewidth}
+ \begin{lstlisting}
+ python3 paper/reproduce.py
+ # Optional explicit locations:
+ python3 paper/reproduce.py --root /path/to/repository \
+   --output-dir /path/to/results
+ \end{lstlisting}
++\end{minipage}
++
+ The output includes \artifact{artifact_manifest.csv} (path, size, SHA-256), \artifact{inclusion_manifest.csv} (all 322 decisions), \artifact{transcript_intervals.csv}, \artifact{structural_metrics.csv}, \artifact{factory_metrics.csv}, \artifact{worker_metrics.csv}, \artifact{worker_comparisons.csv}, \artifact{factory003_transport.csv}, and \artifact{audit_judgments.csv}. The summary records script and prompt hashes. Merged-log consistency is checked separately by reconstructing S5 output in memory and comparing it to every released merged file. Source artifacts remain unchanged.
+ 
+ The original pandas-based assessment and value-analysis scripts accept portable output paths. The original activity-level discovery script retains its miner, noise threshold 0.2, and video case rule. Running it requires the dependencies documented in \artifact{paper/requirements-assessment.txt}. The environment used for this revision is recorded in \artifact{paper/revision/assessment_environment.txt}; it is not claimed to be the original environment. Table~\ref{tab:repro} maps paper results to their calculations.
+diff --git a/paper/sections/discussion.tex b/paper/sections/discussion.tex
+index 3cffb24..15615a6 100644
+--- a/paper/sections/discussion.tex
++++ b/paper/sections/discussion.tex
+@@ -1,5 +1,15 @@
+ \section{Discussion and Conclusions}
+ \label{sec:discussion}
++\subsection{How representation choices affect measurement}
++\label{sec:representation_findings}
++The specific contribution beyond existing video-to-log construction is the account of a shared factory representation and its analytical consequences. Vid2log already connects visual interpretation, domain context, and event data~\cite{gavric2024multimodal}. Event-abstraction and quality-aware construction research already establish that representation and input quality matter~\cite{vanZelst2021abstraction,andrews2020quality}. Our existing artifacts show how three decisions interact: what the vocabulary names, how episodes are assigned to those names, and how the labels are mapped into measurement categories.
++
++Factory 003 separates these decisions directly. Its activity vocabulary names transport, S4 assigns 101 events to two transport activities, and the process-based map assigns their durations to categories other than TR. The zero TR share is therefore explained by aggregation, not a missing transport term. A vocabulary check alone would not detect this mismatch between the analytical question and the measurement rule.
++
++The foundry example shows a different dependency. A 31-second description becomes packing and leveling events lasting 19 and 12 seconds. The factory lists supply reusable names, but the assignment step also supplies an internal split not timed separately in the narration. An analysis of the two actions' duration shares depends on this additional boundary decision. The transcript audit supports the leveling description without independently validating the split.
++
++Finally, S5 retains video-relative offsets while placing clips in filename order on a synthetic worker timeline. A worker case can therefore add a transition across a clip join, whereas a video case preserves that boundary. This follows from the merge rule and shows why case selection is part of the measurement definition. These examples demonstrate particular representational effects; they do not estimate how often each effect occurs in other datasets or establish a more accurate alternative pipeline.
++
+ \subsection{Answers to the research questions}
+ For RQ1, the five-stage pipeline produced a layered resource of transcripts, summaries, vocabularies, and 322 event logs. All 10{,}698 event rows satisfy the reported field, ordering, and label checks. Overlaps and unchecked semantic properties show why these checks must be named rather than treated as general validity.
+ 
+@@ -11,6 +21,8 @@ For RQ4, the examples establish three general lessons. Recorded behavior can dis
+ 
+ \subsection{Limits tied to the conclusions}
+ \label{sec:limits}
++The vocabulary is induced from the same available factory corpus to which it is applied. Multiple factories show repeated use of the construction procedure with different local vocabularies. They do not establish transfer of a fixed vocabulary to unseen factories, prospective performance, or streaming vocabulary updates. Shared names support within-factory grouping; matching names or categories across factories would require further semantic checks. No comparison here establishes that fixed-model prompting is preferable to fine-tuning.
++
+ The release lacks the historical source revision, selection protocol, duration metadata, full model execution records, and complete sampling code. These gaps limit exact regeneration and claims about representative factory behavior. The frozen artifacts still permit the descriptive calculations to be reproduced, and the revision notes identify the missing historical information explicitly.
+ 
+ The process map is a coarse analytical convention. It can assign transport to VA and combines necessary support work with activities an analyst might consider avoidable. It cannot estimate waste or recoverable production capacity. Product identifiers, output counts, quality specifications, and material links across workers are absent, so the logs cannot establish throughput, first-pass yield, upstream defect rates, or complete product routes.
+@@ -28,8 +40,8 @@ The intended use is research on extraction and measurement, and investigation of
+ The provider describes real-factory collection and publishes a dataset card and access terms~\cite{build2025egocentric}. The inspected card does not document the original consent procedure. The present authors performed secondary processing, collected no new video, and report no new consent or ethics-approval record. Provider statements, author processing choices, and unavailable collection details are therefore kept separate. The pipeline prompts discourage worker-level judgments, but prompts alone do not control later use of the public outputs.
+ 
+ \subsection{Reusable contribution and future work}
+-The resource enables two different activities: reproducing calculations from fixed outputs, and regenerating outputs through model APIs. The first is portable and documented in Appendix~\ref{supp-app:repro} of the Additional Material. The second depends on source access, model availability, and historical settings that are only partly recorded. Exact regeneration is therefore not claimed.
++Appendix~\ref{supp-app:repro} of the Additional Material documents reproduction of calculations from fixed outputs. Regenerating those outputs requires source access, model availability, and partly unrecorded historical settings, so exact regeneration is not claimed.
+ 
+-Future work could preserve video-duration metadata, add explicit activity-process compatibility, link events to transcript spans, and audit against video with multiple evaluators. Windowed extraction and alternative category rules are design candidates, not validated improvements. Real calendar times and object references would be needed for synchronized flow and product-level analysis.
++Future work could preserve source durations, check activity-process compatibility, link events to transcript spans, and audit against video with multiple evaluators. Alternative extraction and category rules need evaluation. Synchronized flow and product analysis require real calendar times and object references.
+ 
+-The paper's contribution is a concrete method, an inspectable data resource, and a careful account of what its measurements mean. The logs make selected manual work available for structured study. Their usefulness depends on retaining the evidence path and matching each conclusion to the properties that have actually been assessed.
++The design places factory vocabulary induction before event assignment. The resource preserves intermediate evidence, and the findings explain how boundaries, cases, and category maps affect measurements. These contributions support structured study of recorded work with explicit evidence limits.
+diff --git a/paper/sections/introduction.tex b/paper/sections/introduction.tex
+index 9629263..cb5bf10 100644
+--- a/paper/sections/introduction.tex
++++ b/paper/sections/introduction.tex
+@@ -10,9 +10,18 @@ Egocentric video records work from the camera wearer's perspective. The public E
+ \label{fig:egocentric}
+ \end{figure}
+ 
+-We study a five-stage pipeline that produces timestamped transcripts, worker summaries, factory reports and vocabularies, per-video events, and merged logs. Its application covers six factories, 59 worker identifiers, and 322 recordings. The resulting 10{,}698 events are inferred operational episodes. They do not provide a complete census of production cycles or manufactured items.
++Video-to-log construction already includes language-model-based methods. Vid2log uses a pretrained vision-language model to interpret video and construct event data~\cite{gavric2024multimodal}. First-person workflow extraction also predates this study~\cite{petersen2013workflows,pham2018workflow}. The question here is how to build a shared event representation from the available factory recordings and explain its consequences for process analysis. In particular, naming an activity, assigning an episode to that name, and mapping the label into a measurement category are separate decisions. A shared vocabulary makes within-factory comparison possible, but does not by itself make the resulting measurements accurate or comparable across tasks.
+ 
+-This journal revision treats the pipeline and its released outputs as a methods and data resource. Its contributions are: a formal definition of interval events and their provenance; an implementation account that separates prompt requests from software checks; an assessment with explicit denominators and traceable examples; and a measurement analysis of abstraction, missing time, and dependent evidence. These additions use the existing outputs and author judgments. They add no model runs, annotations, datasets, ablations, or discovery settings. Appendix~\ref{supp-app:extension} of the Additional Material distinguishes new methodological substance from fuller reporting of the existing study.
++We study a five-stage pipeline that produces timestamped transcripts, worker summaries, factory reports and vocabularies, per-video events, and merged logs. It induces a vocabulary across the recorded workers in each factory before assigning event labels from their transcripts. Its application covers six factories, 59 worker identifiers, and 322 recordings. The resulting 10{,}698 events are inferred operational episodes. They do not provide a complete census of production cycles or manufactured items.
++
++The paper makes three contributions:
++\begin{itemize}
++\item \textbf{A construction design.} We specify how descriptive narration, aggregation across workers, factory vocabulary induction, and vocabulary-constrained extraction produce interval events. The foundation-model parameters remain fixed; the representation adapts to the available factory corpus. Formal definitions and implementation checks make the event and case choices explicit.
++\item \textbf{A reusable resource.} We link narrations, worker summaries, factory vocabularies, inferred intervals, consolidated logs, and analysis artifacts. This collection supports inspection of the construction steps and reuse of the intermediate text. It is not an independently annotated ground-truth benchmark.
++\item \textbf{Findings about representation and measurement.} Existing examples show how event boundaries, case construction, and category maps affect duration and sequence descriptions. In factory 003, transport is recorded but disappears from the transport category under the chosen process map. We separate these findings from transcript consistency, visual accuracy, and operational claims that require further evidence.
++\end{itemize}
++
++This journal revision develops these contributions using existing outputs and author judgments. It adds no model runs, annotations, datasets, ablations, or discovery settings. Appendix~\ref{supp-app:extension} of the Additional Material distinguishes new methodological substance from fuller reporting of the existing study.
+ 
+ Four research questions organize the paper. \textbf{RQ1:} How are the inferred logs constructed, and which structural properties do the released records satisfy? \textbf{RQ2:} How well do event timing and meaning agree with the generated transcripts? \textbf{RQ3:} Which descriptive analyses do the logs support, and what limits their operational interpretation? \textbf{RQ4:} What general measurement lessons follow from the representation, temporal rules, and shared evidence? Table~\ref{tab:rq} links each question to its evidence.
+ 
+diff --git a/paper/sections/measurement.tex b/paper/sections/measurement.tex
+index a28cb46..3ba8b55 100644
+--- a/paper/sections/measurement.tex
++++ b/paper/sections/measurement.tex
+@@ -24,28 +24,27 @@ To interpret an observed zero as evidence of absence within a window, an analyst
+ 
+ \subsection{Uncertainty propagation and limits of provenance}
+ \label{sec:uncertainty}
+-Errors can propagate along both branches of Figure~\ref{fig:dependency}. A mistaken object description can shape the worker summary, the factory vocabulary, and the final event label. Agreement among those outputs can therefore reflect a shared error. Table~\ref{tab:uncertainty} links each error source to an existing check and the conclusion it can affect.
++Errors can propagate along both branches of Figure~\ref{fig:dependency}. A mistaken object description can shape the worker summary, the factory vocabulary, and the final event label. Agreement among those outputs can therefore reflect a shared error. Quality-aware construction~\cite{andrews2020quality} and event-log imperfection patterns~\cite{suriadi2017imperfections} establish the broader concern. Table~\ref{tab:uncertainty} shows how it arises in this construction, separating observed examples from possible mechanisms.
+ 
+ \begin{table}[htbp]
+-\caption{Error sources, existing checks, and analytical consequences. No calibrated stage-wise error rates are available.}
++\caption{Transformation, possible imperfection, analytical consequence, and existing evidence. A prompt or a permitted operation establishes a possible mechanism, not its error frequency.}
+ \label{tab:uncertainty}\footnotesize
+-\begin{tabularx}{\linewidth}{@{}p{0.22\linewidth}LL@{}}\toprule
+-Error source & Existing check and remaining gap & Possible analytical consequence \\\midrule
+-Visual interpretation & S1 asks for uncertainty; no independent video audit & Incorrect tools, materials, or actions enter all later outputs \\
+-Narration and repetition & Text can be inspected; no exhaustive action coverage check & Waiting or cycles disappear; episode counts change \\
+-Worker/factory summarization & Nonempty outputs and report parsing; no information-retention measure & Rare behavior does not influence the vocabulary \\
+-Vocabulary induction & Permitted lists are inspectable; completeness and compatibility are unchecked & No suitable label, or a forced approximate label \\
+-Event labeling & Membership checks and 42 archived judgments against text & A valid label can still describe the wrong action \\
+-Boundary estimation & Offset parsing, end-before-start checks, and transcript alignment; no source-duration check & Biased durations, overlap, or misleading endpoint spans \\
+-Case construction & Source files and offsets retained; real inter-clip order and gaps unknown & Artificial directly-follows relations and synthetic elapsed time \\
+-Analytical categorization & Public process map; no independent value classification & Supporting actions can be hidden inside VA contexts \\
+-Observation selection & Artifact inventory; selection protocol unavailable & Worker or factory differences may reflect sampling \\
++\begin{tabularx}{\linewidth}{@{}>{\raggedright\arraybackslash}p{0.16\linewidth}LLL@{}}\toprule
++Transformation & Possible imperfection & Downstream consequence & Existing evidence \\\midrule
++S1: narration & Omitted actions or compressed repetitions; inaccurate times & Row frequency differs from cycle frequency; duration can be distorted & Repetition rule in prompt; seven endpoint anomalies in Table~\ref{tab:anomalies}; visual omissions unmeasured \\
++S2 and S3: summaries and classes & Rare details lost; concepts merged or separated & Vocabulary may omit a needed distinction & Compression requested by prompts; lists available for inspection; information loss not quantified \\
++S4: label assignment & Episode forced into the closest permitted label & Membership passes despite weak textual support & Six partially supported audit events, including the bagging example; mechanism not isolated by the audit \\
++S4: interval assignment & Internal boundary added without a timed transition in the text & Duration attributed to each action depends on the split & Foundry split at 00:04:24; 35 adjacent overlaps in the full archive \\
++S5: consolidation & Filename joins treated as continuous behavior & Added transitions and synthetic elapsed time & Merge code and preserved local offsets; real inter-clip gaps unknown \\
++Analysis: category mapping & Recorded activity hidden by its process category & Apparent zero for a behavior present in the log & Factory 003 has 101 transport events but no process mapped to TR \\
+ \bottomrule\end{tabularx}
+ \end{table}
+ 
++These mechanisms occur within an observation scope that is itself incomplete: the selection protocol and source durations are unavailable. No stage-wise error rates are calibrated, and structural checks cannot quantify visual errors. Worker and factory differences may therefore reflect observation selection as well as representational choices.
++
+ Readable text is useful evidence, but it is weaker than structured event provenance. Existing records identify a source file and local interval. They do not store supporting transcript-span identifiers, alternative labels, calibrated confidence, or a flag that distinguishes an inferred internal boundary from a copied transcript endpoint. Finding the source of an event therefore requires reading and matching intervals. The foundry example can be traced manually, yet its CSV does not record why the split at 00:04:24 was chosen.
+ 
+-A future schema could add transcript-entry references, a boundary-origin field, vocabulary and prompt versions, alternative labels, and explicit uncertainty types~\cite{pegoraro2019uncertain}. Such fields would need evidence and validation. We do not retrofit invented confidence values to the existing events. Provenance can explain how a conclusion was reached; it does not certify that every preceding observation was correct.
++A future schema could add transcript-entry references, a boundary-origin field, and vocabulary and prompt versions. Data-quality annotations could retain known issues for downstream analysis~\cite{goel2022quality}. Explicit alternative labels or bounded times would instead extend the event representation toward uncertain data~\cite{pegoraro2019uncertain,pegoraro2021uncertain}. Such alternatives need evidence: the five-second matching tolerance does not imply that an event boundary lies within five seconds of its true value. We do not retrofit invented confidence values to the existing events. Provenance can explain how a conclusion was reached; it does not certify that every preceding observation was correct.
+ 
+ \subsection{Missing time does not imply a one-sided bound}
+ \label{sec:missingtime}
+diff --git a/paper/sections/methods.tex b/paper/sections/methods.tex
+index eee6812..607f14c 100644
+--- a/paper/sections/methods.tex
++++ b/paper/sections/methods.tex
+@@ -2,6 +2,22 @@
+ \label{sec:methods}
+ The assessment uses frozen texts, reports, CSVs, and archived author judgments. The descriptive workflow runs offline with Python's standard library. The original activity-discovery configuration is repeated separately with PM4Py~\cite{berti2023pm4py}, without changing the miner or its noise threshold. This is recovery of an existing calculation, not a new discovery experiment. No source artifacts are overwritten.
+ 
++\subsection{Evaluation questions and reference data}
++Table~\ref{tab:evaluation_scope} distinguishes the objects of evaluation. Assembly101 provides video action annotations~\cite{sener2022assembly101}; Seeth et al. compare text-derived logs with source traces and process-level references~\cite{seeth2026finetuned}. Our transcript checks assess an intermediate transformation, while our downstream calculations demonstrate uses of its output. These reference structures support different conclusions, so their accuracy, fitness, and precision values should not be ranked as if they measured the same property.
++
++\begin{table}[htbp]
++\caption{Evaluation questions, required references, and evidence in this study. Successful computation and correct operational interpretation are separate claims.}
++\label{tab:evaluation_scope}\footnotesize
++\begin{tabularx}{\linewidth}{@{}LLL@{}}\toprule
++Question & Reference needed & Present evidence and scope \\\midrule
++Are visual actions correct? & Independent annotations of the video & Not measured; generated transcripts cannot detect their own visual errors \\
++Are labels consistent with text? & A reference interpretation of the text & Existing author judgments for 42 events; label membership checked for all rows \\
++Are boundaries accurate? & Independently defined action boundaries & Agreement with generated transcript endpoints only; the five-second tolerance is a matching rule \\
++Can the log support process-mining computations? & Defined case rules, measures, and completed calculations & Discovery and descriptive outputs demonstrate computation on the inferred representation \\
++Are operational conclusions correct? & Valid measurements and evidence relevant to the conclusion & Traceable category descriptions and hypotheses; no independent production outcomes or intervention evidence \\
++\bottomrule\end{tabularx}
++\end{table}
++
+ \subsection{Metrics, denominators, and aggregation}
+ \label{sec:metrics}
+ For each video, let $E_v$ be its events and $B_v$ the set of transcript endpoints recognized by the original parser. Let $T_v^{\max}$ be the maximum such endpoint and $M_v$ the maximum event endpoint. The original coverage diagnostic uses
+diff --git a/paper/sections/pipeline.tex b/paper/sections/pipeline.tex
+index de4822b..36516e9 100644
+--- a/paper/sections/pipeline.tex
++++ b/paper/sections/pipeline.tex
+@@ -2,6 +2,8 @@
+ \label{sec:pipeline}
+ The released scripts implement five stages. S1 uses video and a transcription prompt. S2 combines a worker's transcripts. S3 combines a factory's worker summaries. S4 uses the original transcript again, together with the factory vocabularies and the compact worker entry from the S3 report. S5 merges the resulting CSVs. Figure~\ref{fig:dependency} shows these dependencies. Reports and logs share evidence, so their agreement is not independent validation.
+ 
++Adaptation takes place in the context and vocabulary, while the foundation-model parameters remain fixed. Each available factory corpus contributes to its own label lists through S2 and S3, and S4 then uses those lists to label recordings from that corpus. The six-factory assessment therefore applies the same construction procedure to six separately induced representations. It is a retrospective use of the available material, not an evaluation of a fixed vocabulary on a previously unseen factory. Prompts also supply analyst choices about operational relevance and granularity.
++
+ \begin{figure}[htbp]\centering
+ \begin{tikzpicture}[node distance=9mm and 10mm,box/.style={draw,rounded corners,align=center,font=\small,text width=28mm,minimum height=11mm},arr/.style={-{Stealth[length=2mm]},thick}]
+ \node[box] (v) {Video};
+@@ -19,8 +21,24 @@ The released scripts implement five stages. S1 uses video and a transcription pr
+ \caption{Evidence dependencies in the implemented pipeline. S1 to S3 use Gemini requests; S4 uses a text-only OpenAI request. The analysis map is an author-defined interpretation. An error in the transcript can affect both the narrative report and the extracted log.}
+ \label{fig:dependency}\end{figure}
+ 
++\subsection{Vocabulary construction as event abstraction}
++\label{sec:abstraction}
++Event abstraction concerns the level at which observations represent process behavior~\cite{vanZelst2021abstraction}. Table~\ref{tab:abstraction} separates three decisions in our implementation. Constructing a reusable class and assigning an event to it are different tasks: a missing concept and a mistaken assignment require different checks. The process list supplies a second label dimension, with no enforced parent-child relation to the activity list.
++
++\begin{table}[H]
++\caption{Conceptual tasks and their roles in the five-stage construction. The stages interact; this is not a claim that each task has an isolated error rate.}
++\label{tab:abstraction}\footnotesize
++\begin{tabularx}{\linewidth}{@{}>{\raggedright\arraybackslash}p{0.23\linewidth}lL@{}}\toprule
++Task & Main stage & Decision made \\\midrule
++Temporal segmentation & S1 & Describe candidate episodes with estimated boundaries; merge stable repetition \\
++Activity-class construction & S2 and S3 & Aggregate worker descriptions and induce reusable factory activity and process lists \\
++Event-instance assignment & S4 & Select permitted labels for episodes; retain or split transcript intervals and estimate internal boundaries \\
++\bottomrule\end{tabularx}
++\end{table}
++
+ \subsection{Execution units and failure behavior}
+-\begin{table}[htbp]
++Table~\ref{tab:stages} states the input, output, and failure behavior for each execution unit. The algorithm below gives their dependency order.
++\begin{table}[H]
+ \caption{Stage specification from scripts 01 to 05. A nonempty text output is not a validation of its factual content.}
+ \label{tab:stages}\footnotesize
+ \begin{tabularx}{\linewidth}{@{}lLLL@{}}\toprule
+@@ -33,7 +51,7 @@ S5; worker, then factory & CSVs in sorted filename order & Worker and factory CS
+ \bottomrule\end{tabularx}
+ \end{table}
+ 
+-\begin{lstlisting}[caption={Algorithm 1: implemented dependency order. API retries surround requests; this pseudocode does not add windowing or new validation.},label={alg:pipeline}]
++\begin{lstlisting}[float=htbp,caption={Algorithm 1: implemented dependency order. API retries surround requests; this pseudocode does not add windowing or new validation.},label={alg:pipeline}]
+ for each selected factory f:
+     for each available video v:
+         T[v] = reuse existing transcript or S1(video[v], prompt1)
+@@ -74,10 +92,24 @@ Untested design expectation & Summaries help vocabulary consistency; closed labe
+ \bottomrule\end{tabularx}
+ \end{table}
+ 
+-``Automated extraction'' means that no task-specific training or manual input annotation is required by the extraction stages. It does not mean that the complete study is free of human judgment. One author conducted the archived transcript audit, and the operational-category map reflects author choices. ``Constrained'' refers to the separate permitted label lists. ``Validated'' is used only with a named check, never as a general claim of visual accuracy.
++``Automated extraction'' means that generation uses no task-specific fine-tuning or labeled event examples. It does not mean that the complete study is free of human judgment. Table~\ref{tab:supervision} identifies the different inputs. ``Constrained'' refers to the separate permitted label lists. ``Validated'' is used only with a named check, never as a general claim of visual accuracy.
++
++\begin{table}[H]
++\caption{Supervision and human input in this study. Unlike labeled threshold calibration in Kecht et al.~\cite{kecht2021conversations} or parameter adaptation in SnapLog and Seeth et al.~\cite{pegoraro2026snaplog,seeth2026finetuned}, generation here adapts through prompts and induced context.}
++\label{tab:supervision}\footnotesize
++\begin{tabularx}{\linewidth}{@{}>{\raggedright\arraybackslash}p{0.26\linewidth}L@{}}\toprule
++Dimension & Role in the present procedure \\\midrule
++Model pretraining & General-purpose pretrained models provide visual and language capabilities \\
++Task-specific parameter updates & None in S1 to S4; no model is trained or fine-tuned on these factory recordings \\
++Labeled examples & No labeled event examples for training, prompting, or calibration; S1 includes an illustrative narration-format example \\
++Vocabulary origin & S3 induces two lists from the available worker summaries; S4 checks list membership \\
++Domain and analyst input & Authored prompts define relevance and segmentation; analysts choose case projections and the operational-category map \\
++Human assessment & One author's archived event and transcript-entry judgments assess outputs; they are not generation inputs \\
++\bottomrule\end{tabularx}
++\end{table}
+ 
+ \subsection{Design choices and tradeoffs}
+-\begin{table}[htbp]
++\begin{table}[H]
+ \caption{Design rationale and conceptual alternatives. No alternative in the last column was experimentally compared here.}\label{tab:tradeoffs}\footnotesize
+ \begin{tabularx}{\linewidth}{@{}p{0.19\linewidth}LLL@{}}\toprule
+ Choice & Intended benefit & Limitation & Possible alternative \\\midrule
+diff --git a/paper/sections/related_work.tex b/paper/sections/related_work.tex
+index d0413a6..8ccec0f 100644
+--- a/paper/sections/related_work.tex
++++ b/paper/sections/related_work.tex
+@@ -1,33 +1,82 @@
+ \section{Background and Related Work}
+ \label{sec:relatedWork}
+-\subsection{Constructing and assessing event data}
+-Diba et al.~\cite{diba2020extraction} distinguish extraction, correlation, and abstraction when constructing event data. These tasks also arise here: video must become a description, episodes need labels, and a case rule must group them. The abstraction review by van Zelst et al.~\cite{vanZelst2021abstraction} explains how grouping low-level events changes the level at which a process can be studied. In our setting, a repeated sequence can already be compressed during narration, before a structured event exists. Consequently, a row count cannot be assumed to count cycles.
++\subsection{Unstructured observations as process data}
++K\"onig et al.~\cite{konig2025unstructured} review how unstructured data enters process mining, including the construction of logs from text, images, and video. Diba et al.~\cite{diba2020extraction} distinguish extraction, correlation, and abstraction. These tasks require decisions about which observations become events, how events are grouped, and which concepts describe them. Andrews et al.~\cite{andrews2020quality} make data quality part of construction in RDB2Log, which helps analysts derive logs from relational data. Our setting adds a chain of inferred descriptions and labels before a log exists. We examine how choices along that chain affect the resulting measurements.
+ 
+-Suriadi et al.~\cite{suriadi2017imperfections} describe recurring event-log imperfections and their implications for analysis. Their work motivates checks for missing fields, overlapping intervals, and inconsistent time representations. These checks expose data problems but do not establish that a visually inferred activity is correct. We therefore separate structural checks, vocabulary checks, transcript consistency, and accuracy against footage.
++\subsection{Video and first-person workflow understanding}
++Petersen et al.~\cite{petersen2013workflows} model and track manual workflows from first-person video to support augmented-reality instructions and feedback during task execution. Pham and Xiao~\cite{pham2018workflow} extract assembly steps and operations with semantic descriptions, without pre-labeled training data or pre-trained classifiers. These studies establish first-person workflow understanding as an antecedent. Their goals include following a demonstrated task and recovering its steps.
+ 
+-\subsection{Video and sensor methods}
+-First-person workflow extraction without task-specific labeled training data predates this study. Pham and Xiao~\cite{pham2018workflow} extract mechanical-assembly workflows from first-person video without pre-labeled training data or pre-trained classifiers. Their preliminary evaluation already addresses the combination of egocentric observation and unsupervised extraction. Knoch et al.~\cite{knoch2020video} use hand trajectories and clustering at a camera-equipped assembly workstation, evaluated with ten participants. Kratsch et al.~\cite{kratsch2022video} develop a reference architecture for video-based process mining. Lepsien et al.~\cite{lepsien2023analytics} combine object tracking, action detection, and abstraction to produce event data. The sensor-data review by Brzychczy et al.~\cite{brzychczy2025sensor} addresses the related problem of turning lower-level signals into process events. These streams inform our separation of observation, labeling, and case construction.
++Our objective is retrospective process analysis across recorded workers. We construct event data to describe time composition, changes between operational categories, and variation in recorded work. A shared vocabulary lets these descriptions use the same names within a factory. It does not establish that workers performed equivalent tasks or that a category transition was a physical interruption. Egocentric video provides access to the wearer's work; the analytical objective and event construction define its role here.
+ 
+-SnapLog~\cite{pegoraro2026snaplog} combines image embeddings, temporal segmentation, and a classifier adapted with labeled examples. It evaluates both TUM Kitchen recordings and 24 egocentric EPIC-KITCHENS videos from ten environments. It can retain distributions over candidate activity labels. Thus, prior work is not uniformly restricted to fixed cameras, one workstation, or one supervision regime. Table~\ref{tab:comparison} makes the closest distinctions explicit. The present contribution is the combination of a multi-factory application, induced factory vocabularies, inspectable text, a layered artifact release, and an account of operational measurement. No comparative accuracy advantage is claimed.
++Video process mining also has several established designs. Knoch et al.~\cite{knoch2020video} use hand trajectories and clustering at a camera-equipped assembly workstation. Kratsch et al.~\cite{kratsch2022video} develop a reference architecture, and Lepsien et al.~\cite{lepsien2023analytics} combine object tracking, action detection, and abstraction. SnapLog~\cite{pegoraro2026snaplog} uses pretrained visual representations, temporal segmentation, and a classifier adapted with labeled examples. Its evaluation includes TUM Kitchen and egocentric EPIC-KITCHENS recordings. Thus, camera placement and supervision must be compared for individual methods. The sensor-data review by Brzychczy et al.~\cite{brzychczy2025sensor} places these efforts within the broader problem of converting observations into process events.
++
++\subsubsection{From video descriptions to process events}
++Dense video captioning already combines temporal localization with natural-language descriptions~\cite{krishna2017densecaptioning}. Timestamped narration alone is therefore an established output. Process analysis requires further choices: reusable activity names across recordings, event granularity, selection of operationally relevant episodes, observational case identifiers, source links, and rules for interpreting durations and frequencies.
++
++S1's instruction to merge stable repetition illustrates why these choices matter. Several repeated actions can become one narrated interval and later one event, so event frequency need not equal action frequency. Conversely, the existing foundry example in Section~\ref{sec:worked} turns one 31-second description into two events with shared factory labels and an inferred internal boundary. The added structure enables calculations, while changing what each row and duration represents.
++
++\subsection{Video-to-log and language-model-based construction}
++\label{sec:closest}
++Gavric et al.'s Vid2log~\cite{gavric2024multimodal} is a close predecessor. It uses LLaVA to infer a domain and relevant activities from selected frames, obtains textual event information, and combines video-derived data with conventional logs through temporal and semantic matching. Both methods use natural language as an interface between visual observations and process event data. Our design first narrates recordings, aggregates descriptions by worker, and induces shared factory label lists before assigning events from the original transcripts. This ordering makes the available factory corpus part of the representation used to analyze it. Vid2log studies log richness and an assembly use case; our assessment examines transcript consistency and the consequences of event and category choices for duration and sequence analyses. These are specific design and assessment contributions, rather than a claim to introduce language-model-based video-to-log construction or to be the first to induce a shared vocabulary.
++
++Kecht et al.~\cite{kecht2021conversations} use pretrained natural language inference to assign supplied topics and activities to customer-service messages. They do not train a new language model, but use labeled messages to select classification thresholds and refine hypotheses. Message identifiers and timestamps are retained. Our method instead estimates episode boundaries from generated video descriptions and induces label lists from the factory material. Shirali et al.~\cite{shirali2025iot} also apply LLMs to physical observations: they abstract IoT readings into high-level events and integrate logs from multiple sensor sources. LLM use for physical-process data therefore predates this study. Work on process-mining assistants~\cite{berti2025benchmark} and database-query generation~\cite{dani2025llm} addresses neighboring tasks with different inputs and outputs.
++
++Seeth et al.~\cite{seeth2026finetuned}, an arXiv preprint, study fine-tuning for text-to-log generation. They pair generated reports with source traces, supply permitted activities and attributes, and evaluate both traces and discovered process models against source-log references. They report benefits from fine-tuning over zero-shot and few-shot prompting in that setting. Our models receive no task-specific parameter updates; adaptation takes place through staged context and a vocabulary induced from each factory corpus. A permitted label list is shared by both designs and is not itself the distinction. The studies differ in source material, reference data, and evaluation targets. Our assessment establishes what the reported procedure supports, not that fine-tuning is generally unnecessary. Numerical scores from these studies cannot be ranked as equivalent measures of extraction accuracy.
++
++Tables~\ref{tab:comparison} and~\ref{tab:comparison_provenance} compare the closest transformations using the same method rows. Table~\ref{tab:supervision} separates the forms of model adaptation and human input in our study.
++
++\begin{table}[htbp]
++\caption{Closest construction methods: purpose, input, vocabulary, adaptation, and output. ``Not reported'' identifies information not established by the inspected source, not an absent capability.}
++\label{tab:comparison}\footnotesize\setlength{\tabcolsep}{3pt}
++\begin{tabularx}{\linewidth}{@{}p{0.14\linewidth}LLLL@{}}\toprule
++Method & Purpose and input & Vocabulary origin & Task-specific adaptation & Output \\\midrule
++Vid2log~\cite{gavric2024multimodal} & Construction and enrichment from video, with conventional logs & Domain and activity prompts & Pretrained LLaVA; domain prompts; parameter updates not reported & Combined event log \\
++Kecht et al.~\cite{kecht2021conversations} & Construction from customer-service conversations & Supplied topics and activities & Pretrained NLI; labeled threshold calibration and hypothesis selection & XES log \\
++SnapLog~\cite{pegoraro2026snaplog} & Event discovery from video & Classes supported by labeled examples & Pretrained visual models; classifier adaptation & Events with labels or label distributions \\
++Seeth et al.~\cite{seeth2026finetuned} & Construction from textual reports & Allowed activities from source logs & Pretrained LLMs; supervised fine-tuning compared with prompting & XES traces \\
++This resource & Construction from egocentric factory video & Shared lists induced from worker summaries & Fixed pretrained models; factory-specific context and labels & Interval CSVs and linked text \\
++\bottomrule\end{tabularx}
++\end{table}
+ 
+ \begin{table}[htbp]
+-\caption{Comparison of the closest video approaches. ``Not established'' means that the inspected source does not establish that property; it is not a claim of absence.}
+-\label{tab:comparison}\scriptsize\setlength{\tabcolsep}{3pt}
+-\begin{tabularx}{\linewidth}{@{}p{0.16\linewidth}LLLL@{}}\toprule
+-Dimension & Pham and Xiao~\cite{pham2018workflow} & Video-to-Model~\cite{knoch2020video} & SnapLog~\cite{pegoraro2026snaplog} & This resource \\\midrule
+-Viewpoint & First-person & Camera at assembly workstation & Includes egocentric video & Egocentric factory video \\
+-Supervision & No pre-labeled data or pre-trained classifiers & Unsupervised clustering of hand trajectories & Pre-trained encoders; labeled adaptation examples & General-purpose models; no task training or input annotations \\
+-Label induction & Steps and operations with semantics & Clusters assigned to work steps & Adapted activity classes & Text-induced activity and process lists per factory \\
+-Intermediate representation & Extracted workflow semantics & Hand trajectories & Embeddings and segments & Transcripts, worker summaries, factory reports \\
+-Uncertainty & Calibrated event uncertainty not established & Calibrated event uncertainty not established & Candidate-label probabilities & Textual caveats; no event confidence field \\
+-Domain & Mechanical assembly & Manual assembly & Kitchen activities & Six manufacturing settings \\
+-Evaluation scope & Preliminary feasibility & Ten participants in a laboratory study & Two datasets; multiple environments & 322 logs; transcript checks and descriptive analyses \\
++\caption{Time, case relationships, and evaluation references for the same methods. A source timestamp, an estimated interval, and an artificial ordering carry different evidence.}
++\label{tab:comparison_provenance}\footnotesize\setlength{\tabcolsep}{3pt}
++\begin{tabularx}{\linewidth}{@{}p{0.14\linewidth}LLL@{}}\toprule
++Method & Origin of temporal information & Origin of case/entity relationships & Evaluation reference \\\midrule
++Vid2log & Frame positions and prompted temporal relations & Temporal/semantic matching and resource-based case inference & Assembly case study and log-richness assessment \\
++Kecht et al. & Recorded message timestamps & Supplied message and conversation identifiers & Labeled messages for classification; process discovery demonstration \\
++SnapLog & Segmented frame sequences & Video sequences as traces & Video datasets with action and boundary annotations \\
++Seeth et al. & Timestamps extracted from generated reports & Report-to-trace pairing from source logs & Source traces and process-level comparisons \\
++This resource & Estimated video-relative intervals; S4 may split spans; synthetic S5 timeline & Source factory/worker/video metadata; chosen video or worker grouping & Generated transcripts and author audit; computations on inferred logs \\
+ \bottomrule\end{tabularx}
+ \end{table}
+ 
+-\subsection{Language models, uncertain data, and manufacturing interpretation}
+-LLMs have been studied as assistants for process mining~\cite{berti2025benchmark} and for generating database queries used in event-log extraction~\cite{dani2025llm}. Kecht et al.~\cite{kecht2021conversations} address log construction from customer-service conversations using natural language inference. Here, the text is itself model-generated evidence. A semantic check against that text tests one link in the extraction chain, not the entire path from physical work to an analytical conclusion. This dependency is central to our assessment.
++\subsection{Event abstraction and semantic consistency}
++The review by van Zelst et al.~\cite{vanZelst2021abstraction} explains how event abstraction changes process granularity and distinguishes methods by matters including supervision, input, and uncertainty. Here, three questions need separate treatment: where an episode begins and ends, which reusable activity classes exist, and which class is assigned to each episode. S1 mainly supplies candidate intervals, S2 and S3 construct the classes, and S4 assigns events and can revise boundaries. Section~\ref{sec:abstraction} maps these tasks to the implementation.
++
++Inducing classes and assigning instances can fail in different ways. A useful concept can be missing from the vocabulary, or an available concept can be assigned incorrectly. A later category map can also hide a correctly recorded label. The activity and process fields are two label dimensions; the implementation does not establish a parent-child hierarchy. This distinction is necessary to explain factory 003, where transport activities occur under process contexts that are mapped to other operational categories.
++
++\subsection{Construction, enrichment, and integration}
++\begin{table}[htbp]
++\caption{Neighboring event-data tasks, distinguished by their starting points and intended results. A system can perform more than one task.}
++\label{tab:construction_tasks}\footnotesize
++\begin{tabularx}{\linewidth}{@{}lLL@{}}\toprule
++Task & Starting point & Intended result \\\midrule
++Construction & Observations or documents without a suitable log & An initial event representation \\
++Enrichment & An existing log and additional information & Added or corrected events and attributes \\
++Integration & Multiple sources describing related behavior & A combined representation with resolved correspondences \\
++\bottomrule\end{tabularx}
++\end{table}
++
++Text2EL+~\cite{kapugamageeganage2024text2el} enriches existing logs with events and attributes extracted from text, using semantic and contextual validation and expert guidance. Sturm et al.~\cite{sturm2026multimodal} instantiate parsing, abstraction, extraction, integration, and enrichment using CRM data, email metadata, and call transcripts. Their evaluation involves a sales process and a domain expert. Table~\ref{tab:construction_tasks} separates the tasks these designs can combine.
++
++Our main task is construction. S1 to S4 derive an initial representation; S5 consolidates it using source filenames, factory and worker identifiers, and a stated ordering rule (Section~\ref{sec:cases}). It does not resolve product correspondences between independently recorded systems. Videos, narrations, and reports are successive representations of the same originating observations. Agreement among them does not provide the independent corroboration that separately recorded enterprise or sensor sources could supply.
++
++\subsection{Quality, uncertainty, and relational representations}
++Suriadi et al.~\cite{suriadi2017imperfections} organize recurring event-log imperfections. Our contribution to this concern is an account of how narration, vocabulary construction, assignment, and consolidation can introduce or propagate them. Section~\ref{sec:uncertainty} connects each transformation to an existing check or example and its measurement consequence.
++
++Quality annotations and explicitly uncertain events serve different purposes. Goel et al.~\cite{goel2022quality} retain data-quality information for use during analysis. Pegoraro et al.~\cite{pegoraro2021uncertain} represent uncertainty explicitly and compute conformance bounds. SnapLog can retain candidate-label distributions~\cite{pegoraro2026snaplog}. Our events instead have single-valued activity and process assignments. The audit records particular disagreements, and the five-second boundary tolerance is an evaluation rule. Neither provides calibrated event probabilities or bounds on total downstream error. Structured quality flags and explicit alternatives are possible extensions, with different evidence requirements.
+ 
+-Work on uncertain event data makes uncertain labels, times, or event occurrence explicit~\cite{pegoraro2019uncertain}. Our deterministic CSVs do not implement such an uncertainty model. Readable intermediate text helps a reader investigate an event, but it does not provide calibrated probabilities or formal bounds. Similarly, object-centric process mining~\cite{aalst2019objectcentric} clarifies why worker and recording identifiers cannot substitute for product identifiers when tracing material across stations. These distinctions limit claims about throughput, yield, handoffs, and complete manufacturing instances.
++Esser and Fahland~\cite{esser2021multidimensional} represent events and entities across multiple dimensions in graph databases. This complements the case-choice concerns of object-centric process mining~\cite{aalst2019objectcentric}. Our worker and video relationships support alternative observational views. Product identities and cross-worker product trajectories require additional evidence; a change in storage format cannot establish them. Similarly, the range of industrial process-mining goals~\cite{corallo2020industrial} makes it necessary to distinguish descriptions of recorded work from conclusions about production performance.
+ 
+-Industrial process-mining research also spans several analytical goals, as reviewed by Corallo et al.~\cite{corallo2020industrial}. This motivates separating a description of recorded work from a decision about changing production. Our time-composition and sequence measures provide evidence for the former; the latter requires product, quality, and operational context absent from the inferred logs.
++The question addressed here is how a shared representation, built from the available factory recordings before event assignment, supports retrospective analysis and shapes its results. RQ1 examines that construction and its structural properties. RQ2 checks the transcript-to-event transformation. RQ3 studies the supported calculations, and RQ4 explains their dependence on vocabulary, boundaries, case rules, and analytical categories. Together, these questions connect the construction design, artifact release, and measurement findings to specific antecedents without claiming a comparative accuracy advantage.
+diff --git a/paper/sections/resource.tex b/paper/sections/resource.tex
+index 4c5aacc..d57b890 100644
+--- a/paper/sections/resource.tex
++++ b/paper/sections/resource.tex
+@@ -1,5 +1,10 @@
+ \section{Dataset and Released Artifacts}
+ \label{sec:resource}
++\subsection{An inferred resource for process analysis}
++Assembly101~\cite{sener2022assembly101} records toy assembly and disassembly with simultaneous static and egocentric cameras. Its coarse and fine action annotations support benchmarks for recognition, anticipation, and temporal segmentation. Our source setting is recorded manual work in six factories, and the released labels and boundaries are inferred by the pipeline. The distinction is the purpose and provenance of the resource: linked narrations, summaries, vocabularies, events, logs, and analysis artifacts make the construction and interpretation of process measurements inspectable.
++
++Researchers can use the preserved narrations to study alternative event representations, inspect which descriptions support a label, or compare how activity and process categories affect an aggregate. Such comparisons would examine representation choices unless independently checked against video. The present release includes structural checks and an author audit against generated transcripts, but no independent video annotations. Its inferred labels are not an independently annotated ground-truth benchmark for action recognition or boundary detection.
++
+ \subsection{Selection and provenance}
+ The archived subset contains outputs for factories 001 to 006, with 59 worker identifiers and 322 paired transcript and event files. Factory and worker identifiers are inherited from the source organization. Domain descriptions in this paper summarize generated factory reports; they are not independently verified factory metadata. The archive does not record the selection rationale, the original source revision, or a complete inventory of the recordings available at extraction time. We therefore describe an available processed subset, not a random or representative sample of factories.
+ 

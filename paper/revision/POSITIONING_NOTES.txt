@@ -1,0 +1,59 @@
+Related-work positioning revision
+19 October 2026
+Baseline: 7b37df0
+
+Scope
+Applied all 14 suggestions from the supplied attachment. The paper now
+positions its contribution as a construction design, a linked inferred
+resource, and findings about how representation choices affect measurement.
+The introduction, abstract, related work, pipeline, resource description,
+assessment, measurement discussion, conclusions, extension record and cover
+letter have been aligned.
+
+The direct Vid2log comparison recognizes the existing vision-language
+video-to-log connection. The specific design discussed here induces shared
+factory vocabularies before assigning events from the original transcripts.
+No priority or comparative accuracy advantage is claimed. Seeth et al. is
+identified as a preprint, and its supplied activity lists are acknowledged.
+
+New comparisons separate parameter updates, labeled examples, vocabulary
+origin, human input, temporal information, case relationships and evaluation
+references. The paper distinguishes transcript consistency, video accuracy,
+process-model measures and the validity of operational conclusions. All
+new references have a substantive use in the manuscript.
+
+Evidence and deliverables
+positioning_claims.csv was written before manuscript edits. It records the
+current claim or gap, established prior work, repository evidence, proposed
+replacement and target section for each suggestion.
+positioning_sources.csv records primary-source checks and access limits.
+positioning_bibliography_metadata.json preserves successfully retrieved
+publisher-deposited metadata; it does not include failed requests as evidence.
+positioning_completion.csv maps all 14 suggestions to the final deliverables.
+positioning.diff is the full editable manuscript/bibliography/cover-letter
+diff against the baseline, excluding PDFs and revision audit files.
+
+Verification
+make -C paper all completed successfully after the final source changes.
+All 34 bibliography entries are unique and cited. No undefined citations,
+undefined references, multiply defined labels, or overfull boxes remain in
+the final build logs. Existing xcolor and harmless underfull-box warnings
+remain. The PDFs have no unresolved reference markers and no em or en dashes.
+Rendered pages were visually inspected, including the comparison, supervision,
+evaluation and imperfection tables, all appendix pages and the cover letter.
+The algorithm stays together, and the bibliography ends on a full final page.
+
+git diff --check passed. All 775 frozen artifact hashes match the existing
+manifest. No extraction models, log regeneration, discovery experiments,
+new annotation collection, or operational-category changes were performed.
+Direct reads confirmed 101 transport rows totaling 1230 seconds in factory
+003 and the foundry split into 19 and 12 seconds. The original numerical
+results and the limits of the author audit remain intact.
+
+The new completion and source records supplement the earlier journal-revision
+records. Earlier verification page counts describe previous PDF versions.
+
+Final outputs
+main.pdf: 28 pages; SHA-256 6d1a818f0f3ce4697353419dcbcceefdce2065668d329670c59e4470404e861c
+additional_material.pdf: 10 pages; SHA-256 7c341aa7471d92d542b68e5c10249de828a4bb622e4d10c0629c9912a559ab1d
+cover_letter.pdf: 1 pages; SHA-256 1fff30e298f2df439e7ef1aa133bb97781b97d7e59f4e92451d4803e9d615357

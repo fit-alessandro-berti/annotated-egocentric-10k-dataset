@@ -2,12 +2,15 @@
 \label{app:extension}
 Table~\ref{tab:extension} compares the supplied short manuscript with this revision. It documents the extension of that manuscript; it does not assert a publication status for a workshop version. No new extraction experiment or audit has been added. The complete task-to-deliverable and claim-to-evidence registers are in \artifact{paper/revision/}.
 
+The file \artifact{paper/revision/positioning_claims.csv} maps all 14 positioning suggestions to prior work, repository evidence, and replacement claims. Source checks are in \artifact{paper/revision/positioning_sources.csv}. These records distinguish already established capabilities from the construction design, resource, and measurement findings claimed here.
+
 \begin{table}[htbp]
 \caption{Workshop-to-journal revision map relative to the supplied short manuscript.}
 \label{tab:extension}\footnotesize
 \begin{tabularx}{\linewidth}{@{}LLL@{}}\toprule
 Existing material & Journal addition & Type of contribution \\\midrule
 Five-stage overview & Formal event model, implementation algorithm, stage failures, guarantee table & Method specification \\
+Brief literature comparison & Vid2log comparison, supervision profile, time/case provenance, evaluation references & Positioning of construction and measurement contributions \\
 Brief time description & Synthetic-time equation, case comparison, timestamp and inclusion manifests & Measurement analysis and reporting correction \\
 Category percentages & Activity/context/category distinction and exact transport example & Methodological finding from existing artifacts \\
 Coverage caveats & Missing-time proposition with explicit assumptions & New analytical reasoning \\
@@ -21,12 +24,16 @@ Brief limitations & Observability taxonomy, uncertainty path, operational hypoth
 \section{Reproducibility and Configuration}
 \label{app:repro}
 The offline command below reads the five frozen artifact directories and the original category map. It writes derived CSVs, a JSON summary, and typeset appendices to a separate output directory. It requires Python 3 and no model credentials or third-party packages.
+
+\noindent\begin{minipage}{\linewidth}
 \begin{lstlisting}
 python3 paper/reproduce.py
 # Optional explicit locations:
 python3 paper/reproduce.py --root /path/to/repository \
   --output-dir /path/to/results
 \end{lstlisting}
+\end{minipage}
+
 The output includes \artifact{artifact_manifest.csv} (path, size, SHA-256), \artifact{inclusion_manifest.csv} (all 322 decisions), \artifact{transcript_intervals.csv}, \artifact{structural_metrics.csv}, \artifact{factory_metrics.csv}, \artifact{worker_metrics.csv}, \artifact{worker_comparisons.csv}, \artifact{factory003_transport.csv}, and \artifact{audit_judgments.csv}. The summary records script and prompt hashes. Merged-log consistency is checked separately by reconstructing S5 output in memory and comparing it to every released merged file. Source artifacts remain unchanged.
 
 The original pandas-based assessment and value-analysis scripts accept portable output paths. The original activity-level discovery script retains its miner, noise threshold 0.2, and video case rule. Running it requires the dependencies documented in \artifact{paper/requirements-assessment.txt}. The environment used for this revision is recorded in \artifact{paper/revision/assessment_environment.txt}; it is not claimed to be the original environment. Table~\ref{tab:repro} maps paper results to their calculations.

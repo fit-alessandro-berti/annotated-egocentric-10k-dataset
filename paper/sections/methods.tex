@@ -2,6 +2,22 @@
 \label{sec:methods}
 The assessment uses frozen texts, reports, CSVs, and archived author judgments. The descriptive workflow runs offline with Python's standard library. The original activity-discovery configuration is repeated separately with PM4Py~\cite{berti2023pm4py}, without changing the miner or its noise threshold. This is recovery of an existing calculation, not a new discovery experiment. No source artifacts are overwritten.
 
+\subsection{Evaluation questions and reference data}
+Table~\ref{tab:evaluation_scope} distinguishes the objects of evaluation. Assembly101 provides video action annotations~\cite{sener2022assembly101}; Seeth et al. compare text-derived logs with source traces and process-level references~\cite{seeth2026finetuned}. Our transcript checks assess an intermediate transformation, while our downstream calculations demonstrate uses of its output. These reference structures support different conclusions, so their accuracy, fitness, and precision values should not be ranked as if they measured the same property.
+
+\begin{table}[htbp]
+\caption{Evaluation questions, required references, and evidence in this study. Successful computation and correct operational interpretation are separate claims.}
+\label{tab:evaluation_scope}\footnotesize
+\begin{tabularx}{\linewidth}{@{}LLL@{}}\toprule
+Question & Reference needed & Present evidence and scope \\\midrule
+Are visual actions correct? & Independent annotations of the video & Not measured; generated transcripts cannot detect their own visual errors \\
+Are labels consistent with text? & A reference interpretation of the text & Existing author judgments for 42 events; label membership checked for all rows \\
+Are boundaries accurate? & Independently defined action boundaries & Agreement with generated transcript endpoints only; the five-second tolerance is a matching rule \\
+Can the log support process-mining computations? & Defined case rules, measures, and completed calculations & Discovery and descriptive outputs demonstrate computation on the inferred representation \\
+Are operational conclusions correct? & Valid measurements and evidence relevant to the conclusion & Traceable category descriptions and hypotheses; no independent production outcomes or intervention evidence \\
+\bottomrule\end{tabularx}
+\end{table}
+
 \subsection{Metrics, denominators, and aggregation}
 \label{sec:metrics}
 For each video, let $E_v$ be its events and $B_v$ the set of transcript endpoints recognized by the original parser. Let $T_v^{\max}$ be the maximum such endpoint and $M_v$ the maximum event endpoint. The original coverage diagnostic uses

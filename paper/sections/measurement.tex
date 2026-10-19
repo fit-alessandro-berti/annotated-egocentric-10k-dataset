@@ -24,28 +24,27 @@ To interpret an observed zero as evidence of absence within a window, an analyst
 
 \subsection{Uncertainty propagation and limits of provenance}
 \label{sec:uncertainty}
-Errors can propagate along both branches of Figure~\ref{fig:dependency}. A mistaken object description can shape the worker summary, the factory vocabulary, and the final event label. Agreement among those outputs can therefore reflect a shared error. Table~\ref{tab:uncertainty} links each error source to an existing check and the conclusion it can affect.
+Errors can propagate along both branches of Figure~\ref{fig:dependency}. A mistaken object description can shape the worker summary, the factory vocabulary, and the final event label. Agreement among those outputs can therefore reflect a shared error. Quality-aware construction~\cite{andrews2020quality} and event-log imperfection patterns~\cite{suriadi2017imperfections} establish the broader concern. Table~\ref{tab:uncertainty} shows how it arises in this construction, separating observed examples from possible mechanisms.
 
 \begin{table}[htbp]
-\caption{Error sources, existing checks, and analytical consequences. No calibrated stage-wise error rates are available.}
+\caption{Transformation, possible imperfection, analytical consequence, and existing evidence. A prompt or a permitted operation establishes a possible mechanism, not its error frequency.}
 \label{tab:uncertainty}\footnotesize
-\begin{tabularx}{\linewidth}{@{}p{0.22\linewidth}LL@{}}\toprule
-Error source & Existing check and remaining gap & Possible analytical consequence \\\midrule
-Visual interpretation & S1 asks for uncertainty; no independent video audit & Incorrect tools, materials, or actions enter all later outputs \\
-Narration and repetition & Text can be inspected; no exhaustive action coverage check & Waiting or cycles disappear; episode counts change \\
-Worker/factory summarization & Nonempty outputs and report parsing; no information-retention measure & Rare behavior does not influence the vocabulary \\
-Vocabulary induction & Permitted lists are inspectable; completeness and compatibility are unchecked & No suitable label, or a forced approximate label \\
-Event labeling & Membership checks and 42 archived judgments against text & A valid label can still describe the wrong action \\
-Boundary estimation & Offset parsing, end-before-start checks, and transcript alignment; no source-duration check & Biased durations, overlap, or misleading endpoint spans \\
-Case construction & Source files and offsets retained; real inter-clip order and gaps unknown & Artificial directly-follows relations and synthetic elapsed time \\
-Analytical categorization & Public process map; no independent value classification & Supporting actions can be hidden inside VA contexts \\
-Observation selection & Artifact inventory; selection protocol unavailable & Worker or factory differences may reflect sampling \\
+\begin{tabularx}{\linewidth}{@{}>{\raggedright\arraybackslash}p{0.16\linewidth}LLL@{}}\toprule
+Transformation & Possible imperfection & Downstream consequence & Existing evidence \\\midrule
+S1: narration & Omitted actions or compressed repetitions; inaccurate times & Row frequency differs from cycle frequency; duration can be distorted & Repetition rule in prompt; seven endpoint anomalies in Table~\ref{tab:anomalies}; visual omissions unmeasured \\
+S2 and S3: summaries and classes & Rare details lost; concepts merged or separated & Vocabulary may omit a needed distinction & Compression requested by prompts; lists available for inspection; information loss not quantified \\
+S4: label assignment & Episode forced into the closest permitted label & Membership passes despite weak textual support & Six partially supported audit events, including the bagging example; mechanism not isolated by the audit \\
+S4: interval assignment & Internal boundary added without a timed transition in the text & Duration attributed to each action depends on the split & Foundry split at 00:04:24; 35 adjacent overlaps in the full archive \\
+S5: consolidation & Filename joins treated as continuous behavior & Added transitions and synthetic elapsed time & Merge code and preserved local offsets; real inter-clip gaps unknown \\
+Analysis: category mapping & Recorded activity hidden by its process category & Apparent zero for a behavior present in the log & Factory 003 has 101 transport events but no process mapped to TR \\
 \bottomrule\end{tabularx}
 \end{table}
 
+These mechanisms occur within an observation scope that is itself incomplete: the selection protocol and source durations are unavailable. No stage-wise error rates are calibrated, and structural checks cannot quantify visual errors. Worker and factory differences may therefore reflect observation selection as well as representational choices.
+
 Readable text is useful evidence, but it is weaker than structured event provenance. Existing records identify a source file and local interval. They do not store supporting transcript-span identifiers, alternative labels, calibrated confidence, or a flag that distinguishes an inferred internal boundary from a copied transcript endpoint. Finding the source of an event therefore requires reading and matching intervals. The foundry example can be traced manually, yet its CSV does not record why the split at 00:04:24 was chosen.
 
-A future schema could add transcript-entry references, a boundary-origin field, vocabulary and prompt versions, alternative labels, and explicit uncertainty types~\cite{pegoraro2019uncertain}. Such fields would need evidence and validation. We do not retrofit invented confidence values to the existing events. Provenance can explain how a conclusion was reached; it does not certify that every preceding observation was correct.
+A future schema could add transcript-entry references, a boundary-origin field, and vocabulary and prompt versions. Data-quality annotations could retain known issues for downstream analysis~\cite{goel2022quality}. Explicit alternative labels or bounded times would instead extend the event representation toward uncertain data~\cite{pegoraro2019uncertain,pegoraro2021uncertain}. Such alternatives need evidence: the five-second matching tolerance does not imply that an event boundary lies within five seconds of its true value. We do not retrofit invented confidence values to the existing events. Provenance can explain how a conclusion was reached; it does not certify that every preceding observation was correct.
 
 \subsection{Missing time does not imply a one-sided bound}
 \label{sec:missingtime}
