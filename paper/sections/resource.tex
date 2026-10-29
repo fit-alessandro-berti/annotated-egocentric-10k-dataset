@@ -41,7 +41,7 @@ The retained time-analysis subset contains 10{,}647 events in 320 logs, with 349
 \label{sec:temporal}
 The time analysis excludes a log if any event ends more than one hour after the start of its recording. This rule uses event times, so an unusual timestamp in a generated transcript does not automatically exclude its log. It removes two logs, both from factory \textbf{001}, and keeps the other five in Table~\ref{tab:anomalies}. Keeping a log does not confirm that its timestamps are correct.
 
-\begin{table*}[!t]\begin{adjustwidth}{-\extralength}{0cm}
+\begin{table*}[!b]\begin{adjustwidth}{-\extralength}{0cm}
 \caption{Latest end times in seven generated transcripts and their event logs. All times are shown as hours:minutes:seconds. The transcript times exceed one hour, but a log is excluded from the time analysis only if an event end time exceeds one hour. IDs indicate factory/worker/video. Actual video durations are unknown.}
 \label{tab:anomalies}\small
 \begin{tabular}{@{}llll@{}}\toprule
@@ -87,7 +87,7 @@ The same shift is added to both endpoints, preserving the event's duration. For 
 \caption{Schematic of the implemented merge, not measured source time. The first clip occupies the synthetic span from zero to its last extracted endpoint; the second starts there and adds its own endpoint span. Separate video cases preserve the clip boundary. A worker case creates a directly-follows relation across it.}
 \label{fig:synthetic}\end{adjustwidth}\end{figure*}
 
-\begin{table*}[!t]\begin{adjustwidth}{-\extralength}{0cm}
+\begin{table*}[!b]\begin{adjustwidth}{-\extralength}{0cm}
 \caption{Case constructions supported by the attributes. Process episodes require an additional grouping step and are not stored as case IDs.}
 \label{tab:cases}\footnotesize
 \begin{tabularx}{\linewidth}{@{}p{0.22\linewidth}LL@{}}\toprule
