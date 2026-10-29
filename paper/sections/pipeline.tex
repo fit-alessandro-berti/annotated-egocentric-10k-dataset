@@ -1,16 +1,9 @@
 \section{Pipeline and Design Rationale}
 \label{sec:pipeline}
-The released scripts implement five stages. \textbf{S1} describes the visible actions in each video as a generated transcript. \textbf{S2} summarizes each worker's generated transcripts. \textbf{S3} combines the worker summaries into a factory report and shared label lists. \textbf{S4} extracts events from each original generated transcript using those lists and the compact worker entry from the \textbf{S3} report. \textbf{S5} merges the resulting CSVs. Figure~\ref{fig:dependency} in the Introduction gives an overview of these stages. Reports and logs share evidence, so their agreement is not independent validation.
 
-Adaptation takes place in the context and vocabulary, while the foundation-model parameters remain fixed. Each available factory corpus contributes to its own label lists through \textbf{S2} and \textbf{S3}, and \textbf{S4} then uses those lists to label recordings from that corpus. The six-factory assessment therefore applies the same construction procedure to six separately induced representations. It is a retrospective use of the available material, not an evaluation of a fixed vocabulary on a previously unseen factory. Prompts also supply analyst choices about operational relevance and granularity.
-
-\subsection{Vocabulary construction as event abstraction}
-\label{sec:abstraction}
-Event abstraction concerns the level at which observations represent process behavior~\cite{vanZelst2021abstraction}. Table~\ref{tab:abstraction} separates three decisions in our implementation. Constructing a reusable class and assigning an event to it are different tasks: a missing concept and a mistaken assignment require different checks. The process list supplies a second label dimension, with no enforced parent-child relation to the activity list.
-
-% Queue Table 7 for the top of page 9.
-\begin{nextpagetopfloat}
-\begin{table*}[!t]\begin{adjustwidth}{-\extralength}{0cm}
+% Declare the floats early so Table 7 and Listing 1 fit at the bottom
+% of page 8, with the prompt listings and following tables starting on page 9.
+\begin{table*}[!b]\begin{adjustwidth}{-\extralength}{0cm}
 \caption{Stage specification from scripts 01 to 05. A nonempty text output is not a validation of its factual content.}
 \label{tab:stages}\footnotesize
 \begin{tabularx}{\linewidth}{@{}lLLL@{}}\toprule
@@ -22,10 +15,6 @@ Stage; unit & Inputs and context & Output & Failure and reuse behavior \\\midrul
 \textbf{S5}; worker, then factory & CSVs in sorted filename order & Worker and factory CSVs & Checks timestamp columns and consistent headers; empty files add no time; keeps existing output if its schema matches \\
 \bottomrule\end{tabularx}
 \end{adjustwidth}\end{table*}
-\end{nextpagetopfloat}
-
-\subsection{Execution units and failure behavior}
-Table~\ref{tab:stages} states the input, output, and failure behavior for each execution unit. Listing~\ref{alg:pipeline} gives their dependency order. Listings~\ref{lst:prompt-s1} to~\ref{lst:prompt-s4} reproduce the four full prompt templates, with punctuation normalized for display. The original templates and their hashes remain in the resource. Placeholder braces are filled by the scripts; the additional context is specified in Table~\ref{tab:stages}. The prompts specify requested model behavior, not guaranteed output properties.
 
 \begin{lstlisting}[emph={S1,S2,S3,S4,S5},emphstyle=\fontfamily{pcr}\bfseries,float=!b,caption={Algorithm 1: implemented dependency order. API retries surround requests; this pseudocode does not add windowing or new validation.},label={alg:pipeline}]
 for each selected factory f:
@@ -47,13 +36,10 @@ for each selected factory f:
     concatenate worker logs into the factory log
 \end{lstlisting}
 
-The \textbf{S1} prompt (Listing~\ref{lst:prompt-s1}) asks for a new timestamped entry when an action, object, location, or interaction changes. It asks for repeated stable work to be summarized once and for uncertainty to be stated briefly. These are instructions to the model. \textbf{S1} does not check whether each visible change was narrated or whether the timestamps match the video.
-
+\begin{nextpagetopfloat}
 \begin{figure*}[!t]\begin{adjustwidth}{-\extralength}{0cm}
 \lstinputlisting[style=prompt,caption={Full video transcription prompt for \textbf{S1}.},label={lst:prompt-s1}]{generated/annotation_prompt.txt}
 \end{adjustwidth}\end{figure*}
-
-The \textbf{S2} worker-summary prompt (Listing~\ref{lst:prompt-s2}) and the \textbf{S3} factory-report prompt (Listing~\ref{lst:prompt-s3}) compress large text bundles into summaries. This makes factory-wide vocabulary induction possible, but uncommon actions can be lost. The implementation does not automatically split long requests into windows, reconcile separate summaries, or check coverage against all generated transcript spans. \textbf{S4} partly bypasses this compression by reading each original generated transcript, although it must still use the induced vocabularies.
 
 \begin{figure*}[!t]\begin{adjustwidth}{-\extralength}{0cm}
 \lstinputlisting[style=prompt,caption={Full worker-summary prompt for \textbf{S2}.},label={lst:prompt-s2}]{generated/worker_process_summary_prompt.txt}
@@ -63,17 +49,10 @@ The \textbf{S2} worker-summary prompt (Listing~\ref{lst:prompt-s2}) and the \tex
 \lstinputlisting[style=prompt,caption={Full factory-report and vocabulary prompt for \textbf{S3}.},label={lst:prompt-s3}]{generated/factory_process_mining_prompt.txt}
 \end{adjustwidth}\end{figure*}
 
-The \textbf{S4} event-extraction prompt (Listing~\ref{lst:prompt-s4}) requests a strict JSON schema with estimated start and end times, activity, and process. Its local parser can also accept a list, strip code fences, recognize fallback time keys, and parse two-component offsets or numeric seconds. It normalizes label case and surrounding quotes, checks membership, rejects end-before-start intervals, and sorts rows by start, end, activity, and process. It allows zero-duration events and overlaps. It does not check video bounds, full temporal coverage, the truth of an activity, or compatibility between the activity and process. The archive contains CSV outputs, not the original \textbf{S4} JSON responses.
-
 \begin{figure*}[!t]\begin{adjustwidth}{-\extralength}{0cm}
 \lstinputlisting[style=prompt,caption={Full event-extraction prompt for \textbf{S4}.},label={lst:prompt-s4}]{generated/annotation_to_event_log_prompt.txt}
 \end{adjustwidth}\end{figure*}
 
-\textbf{S1} to \textbf{S3} default to \texttt{gemini-3.1-pro-preview}; \textbf{S4} defaults to \texttt{gpt-5.4}, requests high reasoning effort, and permits up to 100 concurrent extraction tasks. These are recoverable code settings. Per-request execution records are unavailable. No temperature, token limit, seed, cost, or runtime is inferred from missing records. Appendix~\ref{supp-app:repro} of the Additional Material specifies the distinction between code defaults and historical execution evidence.
-
-\subsection{Requests, guarantees, observations, and expectations}
-\label{sec:guarantees}
-\label{sec:supervision}
 \begin{table*}[!t]\begin{adjustwidth}{-\extralength}{0cm}
 \caption{Four levels of evidence for pipeline properties.}\label{tab:guarantees}\footnotesize
 \begin{tabularx}{\linewidth}{@{}p{0.20\linewidth}LL@{}}\toprule
@@ -99,8 +78,6 @@ Human assessment & One author's archived event and transcript-entry judgments as
 \bottomrule\end{tabularx}
 \end{adjustwidth}\end{table*}
 
-Table~\ref{tab:guarantees} distinguishes requested, enforced, observed, and untested properties. ``Automated extraction'' means that generation uses no task-specific fine-tuning or labeled event examples. It does not mean that the complete study is free of human judgment. Table~\ref{tab:supervision} identifies the different inputs. ``Constrained'' refers to the separate permitted label lists. ``Validated'' is used only with a named check, never as a general claim of visual accuracy.
-
 \begin{table*}[!t]\begin{adjustwidth}{-\extralength}{0cm}
 \caption{Design rationale and conceptual alternatives. No alternative in the last column was experimentally compared here.}\label{tab:tradeoffs}\footnotesize
 \begin{tabularx}{\linewidth}{@{}p{0.19\linewidth}LLL@{}}\toprule
@@ -113,6 +90,32 @@ Change-point narration & Compact description of stable behavior & Boundary detai
 Interval events & Preserve approximate episode duration & Row counts do not equal production volume & Object-linked cycle records, when supported \\
 \bottomrule\end{tabularx}
 \end{adjustwidth}\end{table*}
+\end{nextpagetopfloat}
+
+The released scripts implement five stages. \textbf{S1} describes the visible actions in each video as a generated transcript. \textbf{S2} summarizes each worker's generated transcripts. \textbf{S3} combines the worker summaries into a factory report and shared label lists. \textbf{S4} extracts events from each original generated transcript using those lists and the compact worker entry from the \textbf{S3} report. \textbf{S5} merges the resulting CSVs. Figure~\ref{fig:dependency} in the Introduction gives an overview of these stages. Reports and logs share evidence, so their agreement is not independent validation.
+
+Adaptation takes place in the context and vocabulary, while the foundation-model parameters remain fixed. Each available factory corpus contributes to its own label lists through \textbf{S2} and \textbf{S3}, and \textbf{S4} then uses those lists to label recordings from that corpus. The six-factory assessment therefore applies the same construction procedure to six separately induced representations. It is a retrospective use of the available material, not an evaluation of a fixed vocabulary on a previously unseen factory. Prompts also supply analyst choices about operational relevance and granularity.
+
+\subsection{Vocabulary construction as event abstraction}
+\label{sec:abstraction}
+Event abstraction concerns the level at which observations represent process behavior~\cite{vanZelst2021abstraction}. Table~\ref{tab:abstraction} separates three decisions in our implementation. Constructing a reusable class and assigning an event to it are different tasks: a missing concept and a mistaken assignment require different checks. The process list supplies a second label dimension, with no enforced parent-child relation to the activity list.
+
+\subsection{Execution units and failure behavior}
+Table~\ref{tab:stages} states the input, output, and failure behavior for each execution unit. Listing~\ref{alg:pipeline} gives their dependency order. Listings~\ref{lst:prompt-s1} to~\ref{lst:prompt-s4} reproduce the four full prompt templates, with punctuation normalized for display. The original templates and their hashes remain in the resource. Placeholder braces are filled by the scripts; the additional context is specified in Table~\ref{tab:stages}. The prompts specify requested model behavior, not guaranteed output properties.
+
+The \textbf{S1} prompt (Listing~\ref{lst:prompt-s1}) asks for a new timestamped entry when an action, object, location, or interaction changes. It asks for repeated stable work to be summarized once and for uncertainty to be stated briefly. These are instructions to the model. \textbf{S1} does not check whether each visible change was narrated or whether the timestamps match the video.
+
+The \textbf{S2} worker-summary prompt (Listing~\ref{lst:prompt-s2}) and the \textbf{S3} factory-report prompt (Listing~\ref{lst:prompt-s3}) compress large text bundles into summaries. This makes factory-wide vocabulary induction possible, but uncommon actions can be lost. The implementation does not automatically split long requests into windows, reconcile separate summaries, or check coverage against all generated transcript spans. \textbf{S4} partly bypasses this compression by reading each original generated transcript, although it must still use the induced vocabularies.
+
+The \textbf{S4} event-extraction prompt (Listing~\ref{lst:prompt-s4}) requests a strict JSON schema with estimated start and end times, activity, and process. Its local parser can also accept a list, strip code fences, recognize fallback time keys, and parse two-component offsets or numeric seconds. It normalizes label case and surrounding quotes, checks membership, rejects end-before-start intervals, and sorts rows by start, end, activity, and process. It allows zero-duration events and overlaps. It does not check video bounds, full temporal coverage, the truth of an activity, or compatibility between the activity and process. The archive contains CSV outputs, not the original \textbf{S4} JSON responses.
+
+\textbf{S1} to \textbf{S3} default to \texttt{gemini-3.1-pro-preview}; \textbf{S4} defaults to \texttt{gpt-5.4}, requests high reasoning effort, and permits up to 100 concurrent extraction tasks. These are recoverable code settings. Per-request execution records are unavailable. No temperature, token limit, seed, cost, or runtime is inferred from missing records. Appendix~\ref{supp-app:repro} of the Additional Material specifies the distinction between code defaults and historical execution evidence.
+
+\subsection{Requests, guarantees, observations, and expectations}
+\label{sec:guarantees}
+\label{sec:supervision}
+
+Table~\ref{tab:guarantees} distinguishes requested, enforced, observed, and untested properties. ``Automated extraction'' means that generation uses no task-specific fine-tuning or labeled event examples. It does not mean that the complete study is free of human judgment. Table~\ref{tab:supervision} identifies the different inputs. ``Constrained'' refers to the separate permitted label lists. ``Validated'' is used only with a named check, never as a general claim of visual accuracy.
 
 \subsection{Design choices and tradeoffs}
 Table~\ref{tab:tradeoffs} summarizes the design choices and alternatives. Repeated cycles deserve particular care. If ten cycles become one narrated interval and one event, the event count decreases and the directly-follows relation loses nine possible repetitions. A longer event can represent more repetitions, slower work, or more aggressive compression. The logs alone do not distinguish these explanations. The text interface makes this decision inspectable, but does not recover details omitted from the generated transcript.
