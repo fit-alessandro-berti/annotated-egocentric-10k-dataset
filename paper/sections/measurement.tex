@@ -1,34 +1,18 @@
 \section{Measurement and Analytical Implications}
 \label{sec:measurement}
-\subsection{Observability and the interpretation of zeros}
+\subsection{Interpreting a zero}
 \label{sec:zeros}
-\begin{table*}[!t]\begin{adjustwidth}{-\extralength}{0cm}
-\caption{Possible meanings of an apparent zero, ordered along the evidence path. Only the last mechanism is directly demonstrated by the factory \textbf{003} example; the others are possible mechanisms implied by the pipeline.}
-\label{tab:zeros}\footnotesize
-\begin{tabularx}{\linewidth}{@{}p{0.38\linewidth}LL@{}}\toprule
-Mechanism & Where information is lost & Needed check \\\midrule
-Behavior absent from the recorded window & Observation selection & Define the window and verify that it is suitable for the question \\
-Behavior present but not narrated & Video interpretation or narration & Independent review of source footage \\
-Behavior narrated but lost in summaries & \textbf{S2} or \textbf{S3} compression & Compare generated transcripts with worker and factory summaries \\
-No suitable vocabulary label & Vocabulary induction & Inspect lists against the behavior of interest \\
-Suitable label exists but is not assigned & Event extraction & Compare relevant generated transcript spans and extracted labels \\
-Event exists but category aggregation hides it & Analytical mapping & Compare activity-level rows with process-derived categories \\
-\bottomrule\end{tabularx}
-\end{adjustwidth}\end{table*}
+A zero share does not prove that a behavior was absent. The recording may omit it, the model may miss it, or the category map may count it elsewhere. A suitable activity label alone does not ensure detection.
 
-A zero in an analytical table has several possible causes (Table~\ref{tab:zeros}). These causes occur at different stages and require different checks. Requiring a label for transport or waiting improves representability, but does not establish reliable detection or a measured absence. A model may still omit the action, assign another label, or absorb it into a longer episode.
+In factory \textbf{003}, the logs contain 101 transport events totaling 1{,}230 seconds, yet the transport (TR) share is zero. Categories are assigned by process, and none of this factory's processes maps to TR. The transport time is therefore counted under other categories. Interpreting a zero requires checking the recording scope, extracted events, and category rule.
 
-In factory \textbf{003}, both \emph{transport loaded tray to storage rack} and \emph{transport bulk material via wheelbarrow} are permitted activity labels and occur in the logs. Together they account for 101 events and 1{,}230 seconds, yet the TR-category share is zero. Transport remains in the event log, but its duration is counted under other categories because the rule uses broader process labels and no process in this factory maps to TR. The zero describes the category map's output, not an absence of transport or a missing activity label.
-
-To interpret an observed zero as evidence of absence within a window, an analyst would need a defined observation scope, a suitable representation, adequate detection, correct assignment, and an aggregation rule that preserves the behavior. None follows from label membership alone. Conversely, an observed event can establish what the representation contains while leaving the event's visual accuracy unmeasured.
-
-\subsection{Uncertainty propagation and limits of provenance}
+\subsection{Errors and their sources}
 \label{sec:uncertainty}
-Several generated outputs can agree because they inherited the same earlier mistake. A mistaken object description in \textbf{S1} can shape the worker summary, the factory vocabulary, and the final event label along both branches of Figure~\ref{fig:dependency}. Provenance helps trace how an event was constructed, so readers can inspect these dependencies. Table~\ref{tab:uncertainty} links the possible errors to their analytical consequences and the available evidence.
+Errors can pass from one stage to the next. An incorrect description in \textbf{S1} can influence the worker summary, vocabulary, and final event label (Figure~\ref{fig:dependency}). Agreement among these outputs is therefore not independent confirmation. Table~\ref{tab:uncertainty} summarizes possible errors, their effects, and the available evidence, following established concerns about event-log quality~\cite{andrews2020quality,suriadi2017imperfections}.
 
 \begin{nextpagetopfloat}
 \begin{table*}[!t]\begin{adjustwidth}{-\extralength}{0cm}
-\caption{Transformation, possible imperfection, analytical consequence, and existing evidence. A prompt or a permitted operation establishes a possible mechanism, not its error frequency.}
+\caption{Possible errors, their effects on analysis, and available evidence. The examples do not establish how often these errors occur.}
 \label{tab:uncertainty}\footnotesize
 \begin{tabularx}{\linewidth}{@{}>{\raggedright\arraybackslash}p{0.16\linewidth}LLL@{}}\toprule
 Transformation & Possible imperfection & Downstream consequence & Existing evidence \\\midrule
@@ -42,33 +26,11 @@ Analysis: category mapping & Recorded activity hidden by its process category & 
 \end{adjustwidth}\end{table*}
 \end{nextpagetopfloat}
 
-Quality-aware construction~\cite{andrews2020quality} and event-log imperfection patterns~\cite{suriadi2017imperfections} establish the broader concern. The table separates observed examples from possible mechanisms; it does not estimate how often each error occurs.
+Current records identify the source file and local time interval. They do not link each event to its supporting transcript entry or explain inferred boundaries, so checking an event requires manually matching intervals. Explicit links, boundary notes, and annotations of known data issues would make review easier~\cite{goel2022quality}. Alternative labels or time ranges could express uncertainty~\cite{pegoraro2019uncertain,pegoraro2021uncertain}, but would need supporting evidence. The five-second matching tolerance is not a guarantee of boundary accuracy.
 
-These mechanisms occur within an observation scope that is itself incomplete: the selection protocol and source durations are unavailable. No stage-wise error rates are calibrated, and structural checks cannot quantify visual errors. Worker and factory differences may therefore reflect observation selection as well as representational choices.
+Source durations and selection records are unavailable, and error rates have not been measured for each stage. Structural checks therefore cannot establish video accuracy or completeness.
 
-Readable text is useful evidence, but it is weaker than structured event provenance. Existing records identify a source file and local interval. They do not store supporting generated transcript-span identifiers, alternative labels, calibrated confidence, or a flag that distinguishes an inferred internal boundary from a copied generated transcript endpoint. Finding the source of an event therefore requires reading and matching intervals. The foundry example can be traced manually, yet its CSV does not record why the split at 00:04:24 was chosen.
+\subsection{Choosing how to aggregate events}
+A factory duration share weights events by their duration. A median worker share gives each eligible worker equal weight. These summaries answer different questions, as factory \textbf{006} shows (Table~\ref{tab:value}).
 
-A future schema could add generated transcript-entry references, a boundary-origin field, and vocabulary and prompt versions. Data-quality annotations could retain known issues for downstream analysis~\cite{goel2022quality}. Explicit alternative labels or bounded times would instead extend the event representation toward uncertain data~\cite{pegoraro2019uncertain,pegoraro2021uncertain}. Such alternatives need evidence: the five-second matching tolerance does not imply that an event boundary lies within five seconds of its true value. Calibrated confidence values are unavailable for the existing events. Provenance can explain how a conclusion was reached; it does not certify that every preceding observation was correct.
-
-\subsection{Missing time does not imply a one-sided bound}
-\label{sec:missingtime}
-The observed share outside VA is sometimes described as a lower bound because waiting and other supporting work can be omitted. That interpretation also assumes that omitted time is sufficiently non-VA. Missing VA time can instead raise the observed non-VA share. We consider the two extreme possibilities: all missing time is VA, or all missing time is non-VA.
-
-\paragraph{Proposition.}
-Consider an idealized observation with $C>0$ seconds of correctly classified, non-overlapping observed time, of which $N$ seconds are non-VA. Let $U\geq0$ seconds be unobserved. If observed and unobserved time partition a known target window, then its full-time non-VA share satisfies
-\begin{equation}
- \frac{N}{C+U}\ \leq\ p_{\mathrm{nonVA}}\ \leq\ \frac{N+U}{C+U}.
-\label{eq:missing}
-\end{equation}
-\emph{Proof.} Let $x$ be the non-VA duration in the unobserved part. Since $0\leq x\leq U$, the full share is $(N+x)/(C+U)$ and has the stated extrema. Both are attainable: all missing time may be VA or all may be non-VA.
-
-The lower endpoint assigns all missing time to VA; the upper endpoint assigns all of it to non-VA. For $U>0$, the observed ratio $N/C$ is a lower bound only if $x/U\geq N/C$: the missing time must contain at least the observed proportion of non-VA time. Thus, merely knowing that some waiting is missing is insufficient. The interval width in Equation~\ref{eq:missing} is $U/(C+U)$, the missing fraction of the target window. It shows how unknown coverage limits a share even with perfect observed labels.
-
-As an illustration, suppose 80 seconds are observed, 20 of them are non-VA, and 20 seconds are missing. The observed non-VA share is 25\%. Over the full 100-second window, it could be as low as 20\% if all missing time is VA, or as high as 40\% if all missing time is non-VA.
-
-This is a conceptual result, not an empirical confidence interval for this dataset. Source durations and therefore $U$ are unavailable; labels are inferred; and summed event durations include overlaps. Substituting the coverage diagnostic or the 97.1 retained summed event-hours into this proposition would violate its assumptions. The result identifies the additional evidence needed before making a bound claim.
-
-\subsection{Why aggregation changes the question}
-A duration-weighted factory share estimates the composition of the retained event rows. A median worker share gives equal weight to each eligible worker. They answer different questions, as the factory \textbf{006} example beside Table~\ref{tab:value} shows. Different observation amounts and work profiles can produce this difference without either statistic being erroneous.
-
-Likewise, process-based and activity-based categories need not agree. Counting rows emphasizes the extraction granularity; counting runs suppresses adjacent labels; measuring interval unions removes overlap but does not resolve classification conflicts. None is a universal correction. A defensible analysis states its unit, denominator, case rule, handling of gaps, and interpretation before drawing operational conclusions. The released measurements serve as a reproducible example of those choices and their limits.
+Event counts depend on segmentation; runs group consecutive events of the same category; interval unions count overlapping time once. Activity and process categories can also give different results. An analysis should state its unit, category rule, denominator, case definition, and treatment of gaps and overlaps before interpreting a result.

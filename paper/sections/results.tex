@@ -98,8 +98,6 @@ Video-as-case traces describe observation windows. Every recording has a distinc
 
 The released discovery script uses Inductive Miner~\cite{leemans2013inductive} with noise threshold 0.2, video cases, and activity labels. Appendix~\ref{supp-app:discovery} of the Additional Material records the repeated calculation and current dependency version. The recalculated fitness ranges from 0.9544 to 0.9910 and precision from 0.0603 to 0.2679. Together, these results show that the discovered models can replay most behavior in the inferred logs while also permitting substantial additional behavior. Fitness measures how the discovered model can replay the inferred traces; precision measures how much additional behavior it permits relative to that log. Both are properties of a model-log pair, not accuracy against actual factory behavior.
 
-Many distinct traces and low precision can arise from flexible work, recording boundaries, abstraction choices, label variation, or extraction mistakes. The present evidence does not separate these causes. No process-level discovery result is reported because its computation and saved output are unavailable. Replacing activity labels with process labels would change the represented behavior and evaluation target. A higher precision after that change would not by itself be a controlled demonstration of better extraction or modeling.
-
 \subsubsection{Worker profiles and shared dominant processes}
 \label{sec:workers}
 \begin{table*}[!b]\begin{adjustwidth}{-\extralength}{0cm}\centering
