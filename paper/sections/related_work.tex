@@ -1,30 +1,10 @@
 \section{Background and Related Work}
 \label{sec:relatedWork}
 \subsection{Unstructured observations as process data}
-K\"onig et al.~\cite{konig2025unstructured} review how unstructured data enters process mining, including the construction of logs from text, images, and video. Diba et al.~\cite{diba2020extraction} distinguish extraction, correlation, and abstraction. These tasks require decisions about which observations become events, how events are grouped, and which concepts describe them. Andrews et al.~\cite{andrews2020quality} make data quality part of construction in RDB2Log, which helps analysts derive logs from relational data. Our setting adds a chain of inferred descriptions and labels before a log exists. We examine how choices along that chain affect the resulting measurements.
+K\"onig et al.~\cite{konig2025unstructured} review how unstructured data enters process mining, including the construction of logs from text, images, and video. Diba et al.~\cite{diba2020extraction} distinguish extraction, correlation, and abstraction. These tasks require decisions about which observations become events, how events are grouped, and which concepts describe them. Andrews et al.~\cite{andrews2020quality} make data quality part of construction in RDB2Log, which helps analysts derive logs from relational data. Together, these perspectives frame log construction as the design of an event representation whose quality must be assessed in relation to its intended use.
 
-\subsection{Video and first-person workflow understanding}
-Petersen et al.~\cite{petersen2013workflows} model and track manual workflows from first-person video to support augmented-reality instructions and feedback during task execution. Pham and Xiao~\cite{pham2018workflow} extract assembly steps and operations with semantic descriptions, without pre-labeled training data or pre-trained classifiers. These studies establish first-person workflow understanding as an antecedent. Their goals include following a demonstrated task and recovering its steps.
-
-Our objective is retrospective process analysis across recorded workers. We construct event data to describe time composition, changes between operational categories, and variation in recorded work. A shared vocabulary lets these descriptions use the same names within a factory. It does not establish that workers performed equivalent tasks or that a category transition was a physical interruption. Egocentric video provides access to the wearer's work; the analytical objective and event construction define its role here.
-
-Video process mining also has several established designs. Knoch et al.~\cite{knoch2020video} use hand trajectories and clustering at a camera-equipped assembly workstation. Kratsch et al.~\cite{kratsch2022video} develop a reference architecture, and Lepsien et al.~\cite{lepsien2023analytics} combine object tracking, action detection, and abstraction. SnapLog~\cite{pegoraro2026snaplog} uses pretrained visual representations, temporal segmentation, and a classifier adapted with labeled examples. Its evaluation includes TUM Kitchen and egocentric EPIC-KITCHENS recordings. Thus, camera placement and supervision must be compared for individual methods. The sensor-data review by Brzychczy et al.~\cite{brzychczy2025sensor} places these efforts within the broader problem of converting observations into process events.
-
-\subsubsection{From video descriptions to process events}
-Dense video captioning already combines temporal localization with natural-language descriptions~\cite{krishna2017densecaptioning}. Timestamped narration alone is therefore an established output. Process analysis requires further choices: reusable activity names across recordings, event granularity, selection of operationally relevant episodes, observational case identifiers, source links, and rules for interpreting durations and frequencies.
-
-The video-narration stage's instruction to merge stable repetition illustrates why these choices matter. Several repeated actions can become one described interval and later one event, so event frequency need not equal action frequency. Conversely, the existing foundry example in Section~\ref{sec:worked} turns one 31-second description into two events with shared factory labels and an inferred internal boundary. The added structure enables calculations, while changing what each row and duration represents.
-
-\subsection{Video-to-log and language-model-based construction}
-\label{sec:closest}
-Gavric et al.'s Vid2log~\cite{gavric2024multimodal} uses LLaVA to infer a domain and relevant activities from selected frames, obtain textual event information, and combine video-derived data with conventional logs through temporal and semantic matching. Both methods use natural language to connect visual observations to event data. Our design first describes recordings, summarizes them by worker, and derives shared factory labels before extracting events from the original generated transcripts. This makes the available factory corpus part of the representation used to analyze it. Vid2log studies log richness and an assembly use case; we assess consistency with generated transcripts and the effects of event and category choices on duration and sequence analyses. The comparison therefore concerns the construction of factory context and the assessment of the resulting events.
-
-Kecht et al.~\cite{kecht2021conversations} use pretrained natural language inference to assign supplied topics and activities to customer-service messages. They use labeled messages to select classification thresholds and refine hypotheses, without training a new language model. Message identifiers and timestamps are retained. Our method estimates episode boundaries from generated video descriptions and derives label lists from the factory material. The comparison therefore involves different sources of event names and times, as well as different uses of human labels.
-
-Shirali et al.~\cite{shirali2025iot} apply LLMs to physical observations: they abstract IoT readings into high-level events and integrate logs from multiple sensor sources. LLM use for physical-process data therefore predates this study. Work on process-mining assistants~\cite{berti2025benchmark} and database-query generation~\cite{dani2025llm} addresses neighboring tasks with different inputs and outputs.
-
-Seeth et al.~\cite{seeth2026finetuned}, an arXiv preprint, pair generated reports with source traces, supply permitted activities and attributes, and evaluate extracted traces and process models against source-log references. They report benefits from fine-tuning over zero-shot and few-shot prompting in that setting. Both designs use permitted label lists. Our model parameters remain fixed, while context and shared labels are derived from each factory corpus. We assess consistency with generated descriptions rather than source-log references, so numerical scores from the two studies measure different properties. This comparison does not establish whether fine-tuning would improve our extraction.
-
+% Queue Table 2 for the top of page 4.
+\begin{nextpagetopfloat}
 \begin{table*}[!t]\begin{adjustwidth}{-\extralength}{0cm}
 \caption{Closest construction methods: purpose, input, vocabulary, adaptation, and output. ``Not reported'' identifies information not established by the inspected source, not an absent capability.}
 \label{tab:comparison}\footnotesize\setlength{\tabcolsep}{3pt}
@@ -34,12 +14,27 @@ Vid2log~\cite{gavric2024multimodal} & Construction and enrichment from video, wi
 Kecht et al.~\cite{kecht2021conversations} & Construction from customer-service conversations & Supplied topics and activities & Pretrained NLI; labeled threshold calibration and hypothesis selection & XES log \\
 SnapLog~\cite{pegoraro2026snaplog} & Event discovery from video & Classes supported by labeled examples & Pretrained visual models; classifier adaptation & Events with labels or label distributions \\
 Seeth et al.~\cite{seeth2026finetuned} & Construction from textual reports & Allowed activities from source logs & Pretrained LLMs; supervised fine-tuning compared with prompting & XES traces \\
-This resource & Construction from egocentric factory video & Shared lists induced from worker summaries & Fixed pretrained models; factory-specific context and labels & Interval CSVs and linked text \\
+This work & Construction from egocentric factory video & Shared labels derived from recordings & Fixed pretrained models; context and vocabulary induction & Event logs and linked descriptions \\
 \bottomrule\end{tabularx}
 \end{adjustwidth}\end{table*}
+\end{nextpagetopfloat}
 
+\subsection{Video and first-person workflow understanding}
+Petersen et al.~\cite{petersen2013workflows} model and track manual workflows from first-person video to support augmented-reality instructions and feedback during task execution. Pham and Xiao~\cite{pham2018workflow} extract assembly steps and operations with semantic descriptions, without pre-labeled training data or pre-trained classifiers. These studies establish first-person workflow understanding as an antecedent. Their goals include following a demonstrated task and recovering its steps.
+
+Retrospective process analysis asks how observations across recordings can support a common description of work. This requires event representations that can be interpreted across tasks and participants. The distinction concerns the analytical objective as well as the camera viewpoint: following a task and analyzing a collection of recorded activities place different demands on the representation.
+
+Video process mining also has several established designs. Knoch et al.~\cite{knoch2020video} use hand trajectories and clustering at a camera-equipped assembly workstation. Kratsch et al.~\cite{kratsch2022video} develop a reference architecture, and Lepsien et al.~\cite{lepsien2023analytics} combine object tracking, action detection, and abstraction. SnapLog~\cite{pegoraro2026snaplog} uses pretrained visual representations, temporal segmentation, and a classifier adapted with labeled examples. Its evaluation includes TUM Kitchen and egocentric EPIC-KITCHENS recordings. Thus, camera placement and supervision must be compared for individual methods. The sensor-data review by Brzychczy et al.~\cite{brzychczy2025sensor} places these efforts within the broader problem of converting observations into process events.
+
+\subsubsection{From video descriptions to process events}
+Dense video captioning already combines temporal localization with natural-language descriptions~\cite{krishna2017densecaptioning}. Timestamped narration alone is therefore an established output. Process analysis requires further choices: reusable activity names across recordings, event granularity, selection of operationally relevant episodes, observational case identifiers, source links, and rules for interpreting durations and frequencies.
+
+The unit of a natural-language description need not coincide with the unit required for process analysis. A description can cover several actions, while descriptions of similar actions can use different words. Event construction therefore requires both temporal and semantic abstraction. These choices determine what event counts, durations, and sequences mean.
+
+% Queue Table 3 for the top of page 5.
+\begin{nextpagetopfloat}
 \begin{table*}[!t]\begin{adjustwidth}{-\extralength}{0cm}
-\caption{Time, case relationships, and evaluation references for the same methods. A source timestamp, an estimated interval, and an artificial ordering carry different evidence.}
+\caption{Sources of temporal information, case relationships, and evaluation references in the compared methods.}
 \label{tab:comparison_provenance}\footnotesize\setlength{\tabcolsep}{3pt}
 \begin{tabularx}{\linewidth}{@{}p{0.14\linewidth}LLL@{}}\toprule
 Method & Origin of temporal information & Origin of case/entity relationships & Evaluation reference \\\midrule
@@ -47,18 +42,33 @@ Vid2log~\cite{gavric2024multimodal} & Frame positions and prompted temporal rela
 Kecht et al.~\cite{kecht2021conversations} & Recorded message timestamps & Supplied message and conversation identifiers & Labeled messages for classification; process discovery demonstration \\
 SnapLog~\cite{pegoraro2026snaplog} & Segmented frame sequences & Video sequences as traces & Video datasets with action and boundary annotations \\
 Seeth et al.~\cite{seeth2026finetuned} & Timestamps extracted from generated reports & Report-to-trace pairing from source logs & Source traces and process-level comparisons \\
-This resource & Estimated video-relative intervals; extraction may split spans; merge creates an artificial timeline & Source factory/worker/video metadata; chosen video or worker grouping & Generated transcripts and author audit; computations on inferred logs \\
+This work & Inferred intervals relative to recordings & Recording and worker identifiers & Consistency with generated descriptions and structural checks \\
 \bottomrule\end{tabularx}
 \end{adjustwidth}\end{table*}
 
-Tables~\ref{tab:comparison} and~\ref{tab:comparison_provenance} compare the closest transformations using the same method rows. Section~\ref{sec:supervision} distinguishes model adaptation from human input in our study.
+\end{nextpagetopfloat}
+
+\subsection{Video-to-log and language-model-based construction}
+\label{sec:closest}
+Gavric et al.'s Vid2log~\cite{gavric2024multimodal} uses LLaVA to infer a domain and relevant activities from selected frames, obtain textual event information, and combine video-derived data with conventional logs through temporal and semantic matching. It studies log richness and an assembly use case. Both Vid2log and the present work use natural language to connect visual observations to event data. Our focus is on deriving a shared vocabulary from a collection of recordings and preserving the descriptions used to construct the events.
+
+Kecht et al.~\cite{kecht2021conversations} use pretrained natural language inference to assign supplied topics and activities to customer-service messages. They use labeled messages to select classification thresholds and refine hypotheses, without training a new language model. Message identifiers and timestamps are retained. This illustrates an important distinction among construction methods: event names and times may be supplied by the source, selected by an analyst, or inferred from the observations.
+
+Shirali et al.~\cite{shirali2025iot} apply LLMs to physical observations: they abstract IoT readings into high-level events and integrate logs from multiple sensor sources. LLM use for physical-process data therefore predates this study. Work on process-mining assistants~\cite{berti2025benchmark} and database-query generation~\cite{dani2025llm} addresses neighboring tasks with different inputs and outputs.
+
+Seeth et al.~\cite{seeth2026finetuned}, an arXiv preprint, pair generated reports with source traces, supply permitted activities and attributes, and evaluate extracted traces and process models against source-log references. They report benefits from fine-tuning over zero-shot and few-shot prompting in that setting. This provides a comparison in which the vocabulary and evaluation reference come from existing logs. The present work uses fixed pretrained models and derives shared labels from recordings. Differences in supervision and reference data must be considered when comparing the resulting assessments.
+
+Tables~\ref{tab:comparison} and~\ref{tab:comparison_provenance} summarize these differences. They distinguish how a method obtains its vocabulary and adapts its models from how it establishes temporal information, event relationships, and evaluation references.
 
 \subsection{Event abstraction and semantic consistency}
-Event abstraction means choosing the level of detail represented by an event. The review by van Zelst et al.~\cite{vanZelst2021abstraction} explains how this choice changes process granularity and compares methods by supervision, input, and uncertainty. Here, three questions need separate treatment: where an episode begins and ends, which reusable activity classes exist, and which class is assigned to each episode. Video narration supplies candidate intervals, worker summarization and factory vocabulary construction derive the classes, and event extraction assigns labels and can revise boundaries. Section~\ref{sec:abstraction} maps these tasks to the implementation.
+Event abstraction means choosing the level of detail represented by an event. The review by van Zelst et al.~\cite{vanZelst2021abstraction} explains how this choice changes process granularity and compares methods by supervision, input, and uncertainty. Three questions are relevant to construction from video: where an episode begins and ends, which reusable activity classes describe the work, and which class is assigned to each episode. Separating these questions helps distinguish temporal segmentation, vocabulary design, and event classification.
 
-Inducing classes and assigning instances can fail in different ways. A useful concept can be missing from the vocabulary, or an available concept can be assigned incorrectly. A later category map can also hide a correctly recorded label. The activity and process fields are two label dimensions; the implementation does not establish a parent-child hierarchy. This distinction is necessary to explain factory \textbf{003}, where transport activities occur under process contexts that are mapped to other operational categories.
+Vocabulary design and event classification can fail in different ways. A relevant concept may be absent from the vocabulary, or an available concept may be assigned to the wrong observation. Further aggregation introduces another interpretive choice by grouping detailed labels into broader categories. Semantic consistency therefore concerns both the meaning assigned to individual events and the meaning retained when those events are analyzed together.
 
 \subsection{Construction, enrichment, and integration}
+
+% Queue Table 4 for the top of page 6.
+\begin{nextpagetopfloat}
 \begin{table*}[!t]\begin{adjustwidth}{-\extralength}{0cm}
 \caption{Neighboring event-data tasks, distinguished by their starting points and intended results. A system can perform more than one task.}
 \label{tab:construction_tasks}\footnotesize
@@ -69,16 +79,17 @@ Enrichment~\cite{kapugamageeganage2024text2el} & An existing log and additional 
 Integration~\cite{shirali2025iot,sturm2026multimodal} & Multiple sources describing related behavior & A combined representation with resolved correspondences \\
 \bottomrule\end{tabularx}
 \end{adjustwidth}\end{table*}
+\end{nextpagetopfloat}
 
 Text2EL+~\cite{kapugamageeganage2024text2el} enriches existing logs with events and attributes extracted from text, using semantic and contextual validation and expert guidance. Sturm et al.~\cite{sturm2026multimodal} instantiate parsing, abstraction, extraction, integration, and enrichment using CRM data, email metadata, and call transcripts. Their evaluation involves a sales process and a domain expert. Table~\ref{tab:construction_tasks} separates the tasks these designs can combine.
 
-Our main task is construction. Video narration, summarization, vocabulary construction, and event extraction derive an initial representation. The merge then combines events using source filenames, factory and worker identifiers, and a stated ordering rule (Section~\ref{sec:cases}). It does not resolve product correspondences between independently recorded systems. Videos, generated transcripts, and reports are successive representations of the same originating observations. Agreement among them does not provide the independent corroboration that separately recorded enterprise or sensor sources could supply.
+The present work primarily concerns construction: it derives an initial event representation from recordings. This differs from adding information to an existing log or resolving correspondences among independently recorded sources. Intermediate descriptions can make a construction process easier to inspect, but agreement between representations derived from the same observations does not provide independent corroboration.
 
 \subsection{Quality, uncertainty, and relational representations}
-Suriadi et al.~\cite{suriadi2017imperfections} organize recurring event-log imperfections. Our contribution to this concern is an account of how narration, vocabulary construction, assignment, and consolidation can introduce or propagate them. Section~\ref{sec:uncertainty} connects each transformation to an existing check or example and its measurement consequence.
+Suriadi et al.~\cite{suriadi2017imperfections} organize recurring event-log imperfections. For logs constructed from unstructured observations, quality depends on both the source evidence and the transformations applied to it. Assessment must therefore consider how information can be omitted, altered, or propagated before it appears in an event record.
 
-Quality annotations and explicitly uncertain events serve different purposes. Goel et al.~\cite{goel2022quality} retain data-quality information for use during analysis. Pegoraro et al.~\cite{pegoraro2021uncertain} represent uncertainty explicitly and compute conformance bounds. SnapLog can retain candidate-label distributions~\cite{pegoraro2026snaplog}. Our events instead have single-valued activity and process assignments. The audit records particular disagreements, and the five-second boundary tolerance is an evaluation rule. Neither provides calibrated event probabilities or bounds on total downstream error. Structured quality flags and explicit alternatives are possible extensions, with different evidence requirements.
+Quality annotations and explicitly uncertain events serve different purposes. Goel et al.~\cite{goel2022quality} retain data-quality information for use during analysis. Pegoraro et al.~\cite{pegoraro2021uncertain} represent uncertainty explicitly and compute conformance bounds. SnapLog can retain candidate-label distributions~\cite{pegoraro2026snaplog}. These approaches distinguish documenting known quality issues from representing alternative event interpretations. Consistency checks alone do not establish calibrated probabilities or bounds on downstream error.
 
-Esser and Fahland~\cite{esser2021multidimensional} represent events and entities across multiple dimensions in graph databases. This complements the case-choice concerns of object-centric process mining~\cite{aalst2019objectcentric}. Our worker and video relationships support alternative observational views. Product identities and cross-worker product trajectories require additional evidence; a change in storage format cannot establish them. Similarly, the range of industrial process-mining goals~\cite{corallo2020industrial} makes it necessary to distinguish descriptions of recorded work from conclusions about production performance.
+Esser and Fahland~\cite{esser2021multidimensional} represent events and entities across multiple dimensions in graph databases. This complements the case-choice concerns of object-centric process mining~\cite{aalst2019objectcentric}. Such representations make the relationships among events explicit, but those relationships still require supporting observations. The range of industrial process-mining goals~\cite{corallo2020industrial} also makes it necessary to align the available evidence with the intended analytical claims.
 
-Building on these methods, we examine how a shared representation derived from factory recordings supports retrospective analysis. The construction and measurement questions focus on how vocabulary, boundaries, case rules, and categories shape the resulting descriptions of work.
+Building on these methods, we study the construction of shared event representations from egocentric factory recordings. The emphasis is on making the path from observations to process measurements inspectable, so that the resulting descriptions of work can be interpreted in light of their construction.

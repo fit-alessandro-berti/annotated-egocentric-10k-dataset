@@ -4,17 +4,17 @@
 
 \begin{figure*}[!t]\begin{adjustwidth}{-\extralength}{0cm}
 \centering\includegraphics[width=0.85\linewidth]{figures/egocentric10k.png}
-\caption{Example frames from Build AI's Egocentric-10K resource~\cite{build2025egocentric}. They illustrate the camera viewpoint, rather than the accuracy of the derived event labels.}
+\caption{Example frames from Build AI's Egocentric-10K resource~\cite{build2025egocentric}, illustrating the first-person view of manual factory work.}
 \label{fig:egocentric}
 \end{adjustwidth}\end{figure*}
 
-\emph{Egocentric video} records work from the camera wearer's perspective. The public Egocentric-10K resource provides factory recordings of this kind~\cite{build2025egocentric}. Figure~\ref{fig:egocentric} illustrates the viewpoint. Turning recordings into event logs requires decisions about what constitutes an event, which names to use, and how to interpret time. These are \emph{measurement decisions} as well as extraction tasks. A well-formed log can still misrepresent the work if a behavior is omitted, a boundary is estimated poorly, or an analytical category hides a recorded action.
+\emph{Egocentric video} records work from the camera wearer's perspective. The public Egocentric-10K resource provides factory recordings of this kind~\cite{build2025egocentric}. Figure~\ref{fig:egocentric} illustrates the viewpoint. Turning recordings into event logs requires decisions about what constitutes an event, which names to use, and how to interpret time. These are \emph{measurement decisions} as well as extraction tasks: they determine which aspects of work a log can represent and which questions an analysis can answer.
 
-Video-to-log construction already includes language-model-based methods. Vid2log uses a pretrained vision-language model to interpret video and construct event data~\cite{gavric2024multimodal}. First-person workflow extraction also predates this study~\cite{petersen2013workflows,pham2018workflow}. The question here is how to build a \emph{shared event representation} from the available factory recordings and explain its consequences for process analysis. In particular, naming an activity, assigning an episode to that name, and mapping the label into a measurement category are separate decisions. A shared vocabulary makes within-factory comparison possible, but does not by itself make the resulting measurements accurate or comparable across tasks.
+Prior work has shown how video can support workflow understanding~\cite{petersen2013workflows,pham2018workflow} and event-log construction~\cite{gavric2024multimodal}. Building on this work, we ask how recordings of manual factory work can be transformed into a \emph{shared event representation} whose construction and analytical meaning remain inspectable. Shared activity names allow observations from different recordings to be considered together. Understanding the resulting measurements also requires a clear account of how observations were selected, described, and grouped.
 
-We study a \emph{five-stage pipeline}: describe each recording, summarize each worker's recordings, derive shared factory labels, extract labeled event intervals, and combine the events into logs. The timestamped descriptions of visible actions are called \emph{generated transcripts}. \emph{Vocabulary induction} means deriving shared activity and process label lists from the recorded workers in each factory. These lists guide event extraction from the generated transcripts. The application covers six factories, 59 worker identifiers, and 322 recordings. The resulting 10{,}698 events are \emph{inferred operational episodes}. They do not provide a complete census of production cycles or manufactured items.
+We present a construction method and a linked data resource for retrospective analysis of egocentric factory video. Pretrained models produce timestamped descriptions of visible work, which we call \emph{generated transcripts}, and use them to derive shared labels and event logs. Preserving the intermediate descriptions makes it possible to trace the resulting events to their textual basis. Figure~\ref{fig:dependency} gives an overview of the approach.
 
-\begin{figure*}[!t]\begin{adjustwidth}{-\extralength}{0cm}\centering
+\begin{figure*}[!b]\begin{adjustwidth}{-\extralength}{0cm}\centering
 \begin{tikzpicture}[node distance=9mm and 10mm,box/.style={draw,rounded corners,align=center,font=\small,text width=28mm,minimum height=11mm},arr/.style={-{Stealth[length=2mm]},thick}]
 \node[box] (v) {Video};
 \node[box,right=of v] (t) {\textbf{S1}: generated transcript};
@@ -28,33 +28,31 @@ We study a \emph{five-stage pipeline}: describe each recording, summarize each w
 \draw[arr] (e)--(m);\draw[arr] (m)--(a);
 \draw[arr,dashed] (f.south) |- ([yshift=-6mm]a.south) -- (a.south);
 \end{tikzpicture}
-\caption{From factory videos to process analysis. The paper explains how we build event logs, presents the data, assesses the logs, and discusses what the results mean. The dashed arrow shows how factory labels guide the analysis categories.}
+\caption{Overview of the construction method, from factory videos to event logs and process analysis. The dashed arrow indicates the use of shared factory labels in analysis.}
 \label{fig:dependency}\end{adjustwidth}\end{figure*}
 
-Figure~\ref{fig:dependency} outlines the path from recordings to analysis that guides the paper. After reviewing related work in Section~\ref{sec:relatedWork}, we define the events and explain their construction in Sections~\ref{sec:problem} and~\ref{sec:pipeline}. Section~\ref{sec:resource} presents the released data. Sections~\ref{sec:methods} and~\ref{sec:results} describe the assessment and report the analyses and factory cases. Sections~\ref{sec:measurement} and~\ref{sec:discussion} explain how the construction choices affect the findings and discuss the remaining limits.
-
-The paper makes three contributions:
-\begin{itemize}
-\item \textbf{A construction design.} We specify how descriptive narration, aggregation across workers, factory vocabulary induction, and vocabulary-constrained extraction produce interval events. The foundation-model parameters remain fixed; the representation adapts to the available factory corpus. Formal definitions and implementation checks make the event and case choices explicit.
-\item \textbf{A reusable resource.} We link generated transcripts, worker summaries, factory vocabularies, inferred intervals, consolidated logs, and analysis artifacts. This collection supports inspection of the construction steps and reuse of the intermediate text. It is not an independently annotated ground-truth benchmark.
-\item \textbf{Findings about representation and measurement.} Existing examples show how \emph{event boundaries}, \emph{case construction} (choosing which events belong to the same trace), and \emph{category maps} affect duration and sequence descriptions. In factory \textbf{003}, transport remains in the event log, but its duration is counted under other categories because the category rule uses broader process labels. We separate these findings from consistency with generated transcripts, visual accuracy, and operational claims that require further evidence.
-\end{itemize}
-
-The assessment combines checks of the released records, archived author judgments against generated transcripts, and descriptive process analyses. Appendix~\ref{supp-app:extension} of the Additional Material summarizes the evidence supporting each type of conclusion.
-
-% Keep the table on the next page while the surrounding text continues.
+% Queue Table 1 on page 2 for the top of page 3.
 \begin{nextpagetopfloat}
 \begin{table*}[!t]\begin{adjustwidth}{-\extralength}{0cm}
-\caption{Research questions, evidence, and limits.}
+\caption{Research questions and scope.}
 \label{tab:rq}\footnotesize
-\begin{tabularx}{\linewidth}{@{}lLLL@{}}\toprule
-Question and section & Supporting artifacts & Finding & Main limit \\\midrule
-\textbf{RQ1}, Sections~\ref{sec:pipeline} and~\ref{sec:structure} & Scripts, prompts, reports, all per-video CSVs & Fields, ordering, and vocabulary membership can be checked & Valid structure does not imply correct observation \\
-\textbf{RQ2}, Section~\ref{sec:consistency} & Generated transcripts, logs, 42 event-support judgments and 42 transcript-entry-overlap judgments & Partial temporal and semantic consistency & No independent video reference; timestamp anomalies \\
-\textbf{RQ3}, Section~\ref{sec:analyses} & Frozen events, process-category map, reports & Composition, sequence, and worker-profile descriptions & Unequal windows, task mixes, and category meanings \\
-\textbf{RQ4}, Section~\ref{sec:measurement} & Worked examples, merge code, metric definitions & Aggregation can hide behavior; missing time has two-sided effects & Conceptual deductions do not estimate unknown errors \\
+\begin{tabularx}{\linewidth}{@{}p{0.67\linewidth}L@{}}\toprule
+Research question & Focus \\\midrule
+\textbf{RQ1:} How are the inferred logs constructed, and which structural properties do they satisfy? & Construction and structural quality \\
+\textbf{RQ2:} How well do event timing and meaning agree with the generated descriptions? & Consistency of the inferred records \\
+\textbf{RQ3:} Which descriptive analyses do the logs support, and what limits their operational interpretation? & Analytical use and scope \\
+\textbf{RQ4:} How do representation choices affect the interpretation of process measurements? & Measurement and interpretation \\
 \bottomrule\end{tabularx}
 \end{adjustwidth}\end{table*}
 \end{nextpagetopfloat}
 
-Four research questions organize the paper. \textbf{RQ1:} How are the inferred logs constructed, and which structural properties do the released records satisfy? \textbf{RQ2:} How well do event timing and meaning agree with the generated transcripts? \textbf{RQ3:} Which descriptive analyses do the logs support, and what limits their operational interpretation? \textbf{RQ4:} What general measurement lessons follow from the representation, temporal rules, and shared evidence? Table~\ref{tab:rq} links each question to its evidence.
+The paper makes three contributions:
+\begin{itemize}
+\item \textbf{A construction method.} We describe how pretrained models transform video descriptions into event logs with shared labels, making the representation choices explicit.
+\item \textbf{A reusable resource.} We release linked descriptions, event logs, and analysis artifacts that support inspection and reuse of the construction process.
+\item \textbf{An assessment of the resulting representation.} We examine the records' consistency, their use in descriptive process analysis, and the limits of interpreting inferred events as measurements of work.
+\end{itemize}
+
+Four research questions organize the study (Table~\ref{tab:rq}). They connect event construction to assessment, analytical use, and interpretation. The assessment distinguishes consistency with generated descriptions from accuracy against the source videos; the latter remains an open question.
+
+The rest of the paper is organized as follows. Section~\ref{sec:relatedWork} reviews the background and related work. Section~\ref{sec:problem} defines the problem and event representation. Section~\ref{sec:pipeline} presents the construction method, and Section~\ref{sec:resource} describes the dataset and released artifacts. Section~\ref{sec:methods} explains the assessment methodology, followed by the results in Section~\ref{sec:results}. Section~\ref{sec:measurement} discusses the implications for process measurement. Section~\ref{sec:discussion} concludes the paper with the main findings, limitations, and directions for future work.

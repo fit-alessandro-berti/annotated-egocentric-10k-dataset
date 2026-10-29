@@ -2,16 +2,8 @@
 \label{sec:problem}
 The starting point is the factory video in the Egocentric-10K dataset. A camera worn by a worker records visible actions involving tools, materials, and work surfaces. These recordings contain evidence of work, but they do not directly identify the interval events needed for process mining. We therefore first use a vision-language model to produce a generated transcript: timestamped natural-language descriptions of visible actions in each video. We then use large language models (LLMs) to organize the descriptions into shared factory vocabularies and convert the generated transcripts into interval events. Each event should state what action occurred, its broader process context, and its estimated start and end within the recording.
 
-Let $F$ be the set of factories, $W_f$ the worker identifiers associated with factory $f$, and $V_w$ the recordings associated with worker $w$. Each video $v$ has an underlying duration $D_v$, which need not be available in the derived archive. Its generated transcript $T_v$ is an ordered collection of entries $(s_i,e_i,x_i)$, where $x_i$ describes the interval from $s_i$ to $e_i$. The descriptions and endpoints are model outputs, so the generated transcript is an intermediate representation of the video rather than an independent annotation.
-
-For each factory, the pipeline induces an activity vocabulary $A_f$ and a process vocabulary $P_f$. Each extracted event records the source recording, worker, factory, estimated start and end times, activity label, and broader process context. The following tuple gives a compact description of one extracted episode in that order:
-\begin{equation}
- e=(v,w,f,t_s,t_e,a,p), \qquad a\in A_f,\quad p\in P_f.
-\end{equation}
-These source links provide provenance, meaning information about where an event and its description came from. The estimated event endpoints $t_s,t_e$ are relative to the video. The generated transcript endpoints delimit descriptions; the extracted event endpoints delimit the events produced from those descriptions. One description can therefore become several events with different boundaries. The LLM interprets $T_v$ using $A_f$, $P_f$, and the worker context to produce the event set $E_v$; the complete log contains $E=\bigcup_v E_v$.
-
-Process analysis also requires a rule for deciding which events belong to the same sequence, or trace. The case function $\kappa:E\rightarrow K$ assigns each event to one of these sequences, where $K$ is the set of case identifiers. For example, grouping events by their source video makes each recording a case. Section~\ref{sec:cases} compares the available case choices. The construction problem is thus to transform videos into generated transcripts and then into labeled intervals, while retaining enough source information to inspect the resulting log. Vocabulary induction uses descriptions across the available factory recordings, so event extraction depends on both the local generated transcript and its factory context.
-
+% Queue Table 5 for the top of page 7.
+\begin{nextpagetopfloat}
 \begin{table*}[!t]\begin{adjustwidth}{-\extralength}{0cm}
 \caption{Notation and intended meaning.}\label{tab:notation}\small
 \begin{tabularx}{\linewidth}{@{}lL@{}}\toprule
@@ -25,8 +17,33 @@ $g_f(p)$ & Analyst's mapping from process label to operational category \\
 $C_v,S_v$ & Interval-union event duration and endpoint span used in coverage diagnostics \\
 \bottomrule\end{tabularx}
 \end{adjustwidth}\end{table*}
+\end{nextpagetopfloat}
+
+Let $F$ be the set of factories, $W_f$ the worker identifiers associated with factory $f$, and $V_w$ the recordings associated with worker $w$. Each video $v$ has an underlying duration $D_v$, which need not be available in the derived archive. Its generated transcript $T_v$ is an ordered collection of entries $(s_i,e_i,x_i)$, where $x_i$ describes the interval from $s_i$ to $e_i$. The descriptions and endpoints are model outputs, so the generated transcript is an intermediate representation of the video rather than an independent annotation.
+
+For each factory, the pipeline induces an activity vocabulary $A_f$ and a process vocabulary $P_f$. Each extracted event records the source recording, worker, factory, estimated start and end times, activity label, and broader process context. The following tuple gives a compact description of one extracted episode in that order:
+\begin{equation}
+ e=(v,w,f,t_s,t_e,a,p), \qquad a\in A_f,\quad p\in P_f.
+\end{equation}
+These source links provide provenance, meaning information about where an event and its description came from. The estimated event endpoints $t_s,t_e$ are relative to the video. The generated transcript endpoints delimit descriptions; the extracted event endpoints delimit the events produced from those descriptions. One description can therefore become several events with different boundaries. The LLM interprets $T_v$ using $A_f$, $P_f$, and the worker context to produce the event set $E_v$; the complete log contains $E=\bigcup_v E_v$.
+
+Process analysis also requires a rule for deciding which events belong to the same sequence, or trace. The case function $\kappa:E\rightarrow K$ assigns each event to one of these sequences, where $K$ is the set of case identifiers. For example, grouping events by their source video makes each recording a case. Section~\ref{sec:cases} compares the available case choices. The construction problem is thus to transform videos into generated transcripts and then into labeled intervals, while retaining enough source information to inspect the resulting log. Vocabulary induction uses descriptions across the available factory recordings, so event extraction depends on both the local generated transcript and its factory context.
 
 Table~\ref{tab:notation} summarizes the notation. An event represents an operational episode. One episode may summarize many repeated actions, and several events may divide a single narrated interval. It need not be one item, one production cycle, or one complete process instance. Desirable properties include faithful descriptions, meaningful boundaries, appropriate labels, and sufficient coverage. The implementation enforces only a subset: parseable offsets, end not before start, required values, and membership in the separate vocabularies. Section~\ref{sec:guarantees} distinguishes these checks from intended properties.
+
+% Queue Table 6 for the top of page 8, ahead of its discussion in Section 4.
+\begin{nextpagetopfloat}
+\begin{table*}[!t]\begin{adjustwidth}{-\extralength}{0cm}
+\caption{Conceptual tasks and their roles in the five-stage construction. The stages interact; this is not a claim that each task has an isolated error rate.}
+\label{tab:abstraction}\footnotesize
+\begin{tabularx}{\linewidth}{@{}>{\raggedright\arraybackslash}p{0.23\linewidth}lL@{}}\toprule
+Task & Main stage & Decision made \\\midrule
+Temporal segmentation & \textbf{S1} & Describe candidate episodes with estimated boundaries; merge stable repetition \\
+Activity-class construction & \textbf{S2} and \textbf{S3} & Aggregate worker descriptions and induce reusable factory activity and process lists \\
+Event-instance assignment & \textbf{S4} & Select permitted labels for episodes; retain or split generated transcript intervals and estimate internal boundaries \\
+\bottomrule\end{tabularx}
+\end{adjustwidth}\end{table*}
+\end{nextpagetopfloat}
 
 \subsection{Activity, process context, and analytical category}
 An action, its broader production context, and the category used to summarize its duration are different descriptions of the same event. An \emph{activity} answers what action is performed. A \emph{process context} identifies the broader operation to which the extractor assigns it. An \emph{operational category} describes how an analyst groups the action or context for a particular question. The implemented checks verify the two labels separately: $a\in A_f$ and $p\in P_f$. A compatibility relation $H_f\subseteq A_f\times P_f$ would specify which activity and process pairs are allowed together. The implementation enforces neither this relation nor a process-to-activity hierarchy.

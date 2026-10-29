@@ -4,17 +4,6 @@ The released scripts implement five stages. \textbf{S1} describes the visible ac
 
 Adaptation takes place in the context and vocabulary, while the foundation-model parameters remain fixed. Each available factory corpus contributes to its own label lists through \textbf{S2} and \textbf{S3}, and \textbf{S4} then uses those lists to label recordings from that corpus. The six-factory assessment therefore applies the same construction procedure to six separately induced representations. It is a retrospective use of the available material, not an evaluation of a fixed vocabulary on a previously unseen factory. Prompts also supply analyst choices about operational relevance and granularity.
 
-\begin{table*}[!t]\begin{adjustwidth}{-\extralength}{0cm}
-\caption{Conceptual tasks and their roles in the five-stage construction. The stages interact; this is not a claim that each task has an isolated error rate.}
-\label{tab:abstraction}\footnotesize
-\begin{tabularx}{\linewidth}{@{}>{\raggedright\arraybackslash}p{0.23\linewidth}lL@{}}\toprule
-Task & Main stage & Decision made \\\midrule
-Temporal segmentation & \textbf{S1} & Describe candidate episodes with estimated boundaries; merge stable repetition \\
-Activity-class construction & \textbf{S2} and \textbf{S3} & Aggregate worker descriptions and induce reusable factory activity and process lists \\
-Event-instance assignment & \textbf{S4} & Select permitted labels for episodes; retain or split generated transcript intervals and estimate internal boundaries \\
-\bottomrule\end{tabularx}
-\end{adjustwidth}\end{table*}
-
 \subsection{Vocabulary construction as event abstraction}
 \label{sec:abstraction}
 Event abstraction concerns the level at which observations represent process behavior~\cite{vanZelst2021abstraction}. Table~\ref{tab:abstraction} separates three decisions in our implementation. Constructing a reusable class and assigning an event to it are different tasks: a missing concept and a mistaken assignment require different checks. The process list supplies a second label dimension, with no enforced parent-child relation to the activity list.
@@ -33,7 +22,7 @@ Stage; unit & Inputs and context & Output & Failure and reuse behavior \\\midrul
 \end{adjustwidth}\end{table*}
 
 \subsection{Execution units and failure behavior}
-Table~\ref{tab:stages} states the input, output, and failure behavior for each execution unit. The algorithm below gives their dependency order. Listings~\ref{lst:prompt-s1}--\ref{lst:prompt-s4} reproduce the four full prompt templates, with punctuation normalized for display. The original templates and their hashes remain in the resource. Placeholder braces are filled by the scripts; the additional context is specified in Table~\ref{tab:stages}. The prompts specify requested model behavior, not guaranteed output properties.
+Table~\ref{tab:stages} states the input, output, and failure behavior for each execution unit. The algorithm below gives their dependency order. Listings~\ref{lst:prompt-s1} to~\ref{lst:prompt-s4} reproduce the four full prompt templates, with punctuation normalized for display. The original templates and their hashes remain in the resource. Placeholder braces are filled by the scripts; the additional context is specified in Table~\ref{tab:stages}. The prompts specify requested model behavior, not guaranteed output properties.
 
 \begin{lstlisting}[emph={S1,S2,S3,S4,S5},emphstyle=\fontfamily{pcr}\bfseries,float=!t,caption={Algorithm 1: implemented dependency order. API retries surround requests; this pseudocode does not add windowing or new validation.},label={alg:pipeline}]
 for each selected factory f:
