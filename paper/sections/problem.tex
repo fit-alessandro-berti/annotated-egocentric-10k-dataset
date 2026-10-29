@@ -46,9 +46,9 @@ Event-instance assignment & \textbf{S4} & Select permitted labels for episodes; 
 \end{nextpagetopfloat}
 
 \subsection{Activity, process context, and analytical category}
-An action, its broader production context, and the category used to summarize its duration are different descriptions of the same event. An \emph{activity} answers what action is performed. A \emph{process context} identifies the broader operation to which the extractor assigns it. An \emph{operational category} describes how an analyst groups the action or context for a particular question. The implemented checks verify the two labels separately: $a\in A_f$ and $p\in P_f$. A compatibility relation $H_f\subseteq A_f\times P_f$ would specify which activity and process pairs are allowed together. The implementation enforces neither this relation nor a process-to-activity hierarchy.
+An \emph{activity} names the action; its \emph{process context} names the broader operation. An \emph{operational category} groups events for analysis. The extractor checks $a\in A_f$ and $p\in P_f$ separately, without enforcing compatibility or a hierarchy between the labels.
 
-For the reported category analysis, the assigned process label determines the operational category through $g_f(p)$. VA denotes value-adding work under the authors' operational scheme for production and completion work; it does not directly measure customer value. Non-VA refers to all categories outside VA. Thus, transport within surface finishing can receive the VA category assigned to finishing, as Figure~\ref{fig:category} shows.
+We assign categories using the process label, $g_f(p)$. Value-adding (VA) covers production and completion work under the authors' scheme; it does not directly measure customer value. Non-VA includes all other categories. A transport activity can therefore contribute to VA time through its process label (Figure~\ref{fig:category}). Categorizing by activity instead would change the measurement.
 
 \begin{figure*}[!t]\begin{adjustwidth}{-\extralength}{0cm}\centering
 \begin{tikzpicture}[node distance=4mm, box/.style={draw,rounded corners,align=left,text width=0.88\linewidth,font=\small,inner sep=5pt},arr/.style={-{Stealth[length=2mm]}}]
@@ -58,7 +58,5 @@ For the reported category analysis, the assigned process label determines the op
 \draw[arr] (a) -- node[right,font=\scriptsize]{assigned context} (p);
 \draw[arr] (p) -- node[right,font=\scriptsize]{$g_f(p)$} (c);
 \end{tikzpicture}
-\caption{A transport action can contribute to value-adding (VA) time under the authors' process-based category rule for production and completion work. Source: factory \textbf{003}, worker 001, recording 00001, event row 2, from 00:03:52 to 00:04:00 (8 seconds). The action is recorded; its duration enters the VA category.}
+\caption{Transport counted as VA through its process label. Source: factory \textbf{003}, worker 001, recording 00001, event row 2, 00:03:52 to 00:04:00 (8 seconds).}
 \label{fig:category}\end{adjustwidth}\end{figure*}
-
-Figure~\ref{fig:category} gives a released example of the process-based rule $g_f(p)$. An explicit compatibility relation or a category rule using $(a,p)$ could improve future analyses, but neither was enforced in this extraction. An activity-based category rule would define a different measurement of the recorded work.
