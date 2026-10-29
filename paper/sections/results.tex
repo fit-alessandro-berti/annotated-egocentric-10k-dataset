@@ -1,6 +1,6 @@
 \section{Results and Factory Case Studies}
 \label{sec:results}
-\begin{table*}[!t]\begin{adjustwidth}{-\extralength}{0cm}\centering
+\begin{table*}[!b]\begin{adjustwidth}{-\extralength}{0cm}\centering
 \caption{Corpus and generated transcript diagnostics using the original parser. Activity and process columns show permitted/used labels. Coverage divides occupied event seconds, counting overlaps once, by parsed endpoint spans rather than verified video duration. Boundary agreement uses the five-second matching rule under the original parser.}
 \label{tab:corpus}\small\setlength{\tabcolsep}{4pt}
 \begin{tabular}{@{}lrrrrrrr@{}}\toprule
@@ -59,17 +59,6 @@ This example shows how a description of several actions becomes two labeled even
 
 Event extraction in \textbf{S4} creates two intervals within that 31-second generated transcript entry: \emph{pack casting sand into mold frame}, from 00:04:05 to 00:04:24, and \emph{level powder surface with wooden scraper}, from 00:04:24 to 00:04:36. Both have process \emph{Sand mold creation}. Figure~\ref{fig:worked} shows what is retained and added. The internal boundary at 00:04:24 is inferred; \textbf{S1} does not timestamp that transition separately. The events compress placement, pouring, and joint hand-packing into the first activity and add shared labels and a process context.
 
-\noindent\begin{minipage}{\linewidth}
-\begin{lstlisting}[caption={Illustrative JSON reconstructed from CSV data row 18. It is not an archived model response.},label={lst:reconstructed}]
-{"events": [{
-  "estimated_start_time": "00:04:24",
-  "estimated_end_time": "00:04:36",
-  "activity": "level powder surface with wooden scraper",
-  "process": "Sand mold creation"
-}]}
-\end{lstlisting}
-\end{minipage}
-
 The linked generated transcript, worker summary, factory report, and event log preserve the successive representations of this recording. \textbf{S5} retains the recording identifier and local offsets alongside shifted timestamps. Audit event 41 judges the leveling event fully supported by its generated transcript. This supports the label's textual basis, not the exact internal split or a video-based duration measurement.
 
 \subsection{\textbf{RQ3}: Descriptive analytical capabilities}
@@ -113,7 +102,7 @@ Many distinct traces and low precision can arise from flexible work, recording b
 
 \subsubsection{Worker profiles and shared dominant processes}
 \label{sec:workers}
-\begin{table*}[!t]\begin{adjustwidth}{-\extralength}{0cm}\centering
+\begin{table*}[!b]\begin{adjustwidth}{-\extralength}{0cm}\centering
 \caption{Selected shared-dominant-process groups, using the original eligibility and rounding rules. Ranges summarize worker profiles; they are not estimates of individual efficiency.}
 \label{tab:bench}\footnotesize
 \begin{tabularx}{\linewidth}{@{}lLrll@{}}\toprule
@@ -152,7 +141,7 @@ The archive contains 22 clips from 11 workers, but only five workers meet the ti
 \paragraph{Factory \textbf{006}: molding and foundry work.}
 There are 26 clips from six workers, all retained; five workers meet the time threshold. Sand mold creation, pattern cleaning and coating, and compression molding contribute 17.4\%, 14.0\%, and 12.2\%. The report describes floor staging, material movement, cleaning, and mold-track operations. The logs assign 19.8\% of summed duration to MH/TR and yield a median worker mean VA run of 3.1 minutes. These quantities support closer study of handling requirements. Necessary mold preparation, differing materials, layout, and segmentation choices could all contribute. Two generated transcript endpoints require resolution against source metadata.
 
-\begin{table*}[!t]\begin{adjustwidth}{-\extralength}{0cm}
+\begin{table*}[!b]\begin{adjustwidth}{-\extralength}{0cm}
 \caption{Evidence-linked hypotheses. These are candidates for investigation; intervention effects were not measured.}
 \label{tab:hypotheses}\footnotesize
 \begin{tabularx}{\linewidth}{@{}LLLL@{}}\toprule
