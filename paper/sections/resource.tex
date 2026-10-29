@@ -7,12 +7,8 @@ Assembly101~\cite{sener2022assembly101}, by comparison, records toy assembly and
 
 Researchers can use the preserved generated transcripts to study alternative event representations, inspect which descriptions support a label, or compare how activity and process categories affect an aggregate. Such comparisons would examine representation choices unless independently checked against video. The present release includes structural checks and an author audit against generated transcripts, but no independent video annotations. Its inferred labels are not an independently annotated ground-truth benchmark for action recognition or boundary detection.
 
-\subsection{Selection and provenance}
-The archived subset contains outputs for factories \textbf{001} to \textbf{006}, with 59 worker identifiers and 322 paired generated transcript and event files. Factory and worker identifiers are inherited from the source organization. Domain descriptions in this paper summarize generated factory reports; they are not independently verified factory metadata. The archive does not record the selection rationale, the original source revision, or a complete inventory of the recordings available at extraction time. We therefore describe an available processed subset, not a random or representative sample of factories.
-
-The current provider card reports a median clip length of 180 seconds~\cite{build2025egocentric}, whereas many archived generated transcript endpoints lie near 20 minutes. These describe different quantities and possibly different snapshots or subsets. The card documents a per-video \texttt{duration\_sec} field inside source archives, but those metadata files are not included here. The pipeline scans video files and does not preserve that field. The selected recordings' actual durations therefore cannot be established from the derived archive. The inspected public dataset snapshot does not identify the historical source version used for extraction.
-
-\begin{table*}[!t]\begin{adjustwidth}{-\extralength}{0cm}
+% Declare the inventory early so it fits at the bottom of page 13.
+\begin{table*}[!b]\begin{adjustwidth}{-\extralength}{0cm}
 \caption{Artifact inventory. Counts come from the frozen repository outputs. Worker and factory merged logs repeat the same source events.}
 \label{tab:inventory}\small
 \begin{tabularx}{\linewidth}{@{}l r L@{}}\toprule
@@ -27,6 +23,11 @@ Audit record & 1 & 42 event-support judgments and 42 transcript-entry-overlap ju
 Prompts; stage scripts & 4; 5 & Extraction instructions and implementation \\
 \bottomrule\end{tabularx}
 \end{adjustwidth}\end{table*}
+
+\subsection{Selection and provenance}
+The archived subset contains outputs for factories \textbf{001} to \textbf{006}, with 59 worker identifiers and 322 paired generated transcript and event files. Factory and worker identifiers are inherited from the source organization. Domain descriptions in this paper summarize generated factory reports; they are not independently verified factory metadata. The archive does not record the selection rationale, the original source revision, or a complete inventory of the recordings available at extraction time. We therefore describe an available processed subset, not a random or representative sample of factories.
+
+The current provider card reports a median clip length of 180 seconds~\cite{build2025egocentric}, whereas many archived generated transcript endpoints lie near 20 minutes. These describe different quantities and possibly different snapshots or subsets. The card documents a per-video \texttt{duration\_sec} field inside source archives, but those metadata files are not included here. The pipeline scans video files and does not preserve that field. The selected recordings' actual durations therefore cannot be established from the derived archive. The inspected public dataset snapshot does not identify the historical source version used for extraction.
 
 The six per-video columns are \texttt{start\_timestamp}, \texttt{end\_timestamp}, \texttt{activity}, \texttt{process}, \texttt{factory}, and \texttt{worker}. \textbf{S5} adds \texttt{source\_file}, \texttt{case\_id}, video-relative start and end offsets, and duration. Table~\ref{tab:inventory} and the hashed artifact manifest distinguish file counts from unique event counts. The released dataset documentation follows the documentation concerns of Datasheets for Datasets~\cite{gebru2021datasheets}: composition, collection, uses, and limitations.
 
