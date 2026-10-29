@@ -29,7 +29,7 @@ These source links provide provenance, meaning information about where an event 
 
 Process analysis also requires a rule for deciding which events belong to the same sequence, or trace. The case function $\kappa:E\rightarrow K$ assigns each event to one of these sequences, where $K$ is the set of case identifiers. For example, grouping events by their source video makes each recording a case. Section~\ref{sec:cases} compares the available case choices. The construction problem is thus to transform videos into generated transcripts and then into labeled intervals, while retaining enough source information to inspect the resulting log. Vocabulary induction uses descriptions across the available factory recordings, so event extraction depends on both the local generated transcript and its factory context.
 
-Table~\ref{tab:notation} summarizes the notation. An event represents an operational episode. One episode may summarize many repeated actions, and several events may divide a single narrated interval. It need not be one item, one production cycle, or one complete process instance. Desirable properties include faithful descriptions, meaningful boundaries, appropriate labels, and sufficient coverage. The implementation enforces only a subset: parseable offsets, end not before start, required values, and membership in the separate vocabularies. Section~\ref{sec:guarantees} distinguishes these checks from intended properties.
+Table~\ref{tab:notation} summarizes the notation. An event represents an operational episode. One episode may summarize many repeated actions, and several events may divide a single narrated interval.
 
 % Queue Table 6 for the top of page 8, ahead of its discussion in Section 4.
 \begin{nextpagetopfloat}
