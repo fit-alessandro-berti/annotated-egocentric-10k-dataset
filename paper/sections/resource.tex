@@ -1,11 +1,11 @@
 \section{Dataset and Released Artifacts}
 \label{sec:resource}
 \subsection{An inferred resource for process analysis}
-This resource links generated transcripts, worker summaries, factory vocabularies, inferred events, logs, and analysis artifacts from manual work in six factories. Readers can inspect how the pipeline constructs events and how those events support process measurements. The released labels and boundaries are inferred by the pipeline.
+The resource is available at \url{https://github.com/fit-alessandro-berti/annotated-egocentric-10k-dataset}. It links generated transcripts, worker summaries, factory vocabularies, inferred events, logs, and analysis artifacts from six factories. Researchers can inspect how events are constructed, compare alternative representations, and examine how activity and process labels affect measurements.
 
-Assembly101~\cite{sener2022assembly101}, by comparison, records toy assembly and disassembly with simultaneous static and egocentric cameras. Its coarse and fine action annotations support benchmarks for recognition, anticipation, and temporal segmentation. The present resource serves a different purpose: its linked outputs make the construction and interpretation of process measurements inspectable.
+Assembly101~\cite{sener2022assembly101} provides toy assembly and disassembly recordings from static and egocentric cameras, with action annotations for recognition, anticipation, and segmentation. The present resource focuses on the construction of inferred events and their use in process analysis.
 
-Researchers can use the preserved generated transcripts to study alternative event representations, inspect which descriptions support a label, or compare how activity and process categories affect an aggregate. Such comparisons would examine representation choices unless independently checked against video. The present release includes structural checks and an author audit against generated transcripts, but no independent video annotations. Its inferred labels are not an independently annotated ground-truth benchmark for action recognition or boundary detection.
+The labels and boundaries are inferred by the pipeline. Assessment includes structural checks and an author audit against generated transcripts, without independent video annotations. Comparisons therefore evaluate representation choices unless checked against video; the resource is not a ground-truth benchmark for action recognition or boundary detection.
 
 % Declare the inventory early so it fits at the bottom of page 13.
 \begin{table*}[!b]\begin{adjustwidth}{-\extralength}{0cm}
@@ -29,7 +29,7 @@ The archived subset contains outputs for factories \textbf{001} to \textbf{006},
 
 The current provider card reports a median clip length of 180 seconds~\cite{build2025egocentric}, whereas many archived generated transcript endpoints lie near 20 minutes. These describe different quantities and possibly different snapshots or subsets. The card documents a per-video \texttt{duration\_sec} field inside source archives, but those metadata files are not included here. The pipeline scans video files and does not preserve that field. The selected recordings' actual durations therefore cannot be established from the derived archive. The inspected public dataset snapshot does not identify the historical source version used for extraction.
 
-The six per-video columns are \texttt{start\_timestamp}, \texttt{end\_timestamp}, \texttt{activity}, \texttt{process}, \texttt{factory}, and \texttt{worker}. \textbf{S5} adds \texttt{source\_file}, \texttt{case\_id}, video-relative start and end offsets, and duration. Table~\ref{tab:inventory} and the hashed artifact manifest distinguish file counts from unique event counts. The released dataset documentation follows the documentation concerns of Datasheets for Datasets~\cite{gebru2021datasheets}: composition, collection, uses, and limitations.
+The six per-video columns are \texttt{start\_timestamp}, \texttt{end\_timestamp}, \texttt{activity}, \texttt{process}, \texttt{factory}, and \texttt{worker}. \textbf{S5} adds \texttt{source\_file}, \texttt{case\_id}, video-relative start and end offsets, and duration. Table~\ref{tab:inventory} distinguishes file counts from unique event counts. The released dataset documentation follows the documentation concerns of Datasheets for Datasets~\cite{gebru2021datasheets}: composition, collection, uses, and limitations.
 
 There are 13{,}304 generated transcript entries recognized by the original three-component timestamp parser. Recognizing the additional two-component and mixed-format entries gives 13{,}462 entries, without rescaling any timestamp.
 
@@ -37,12 +37,12 @@ Across all logs, the original endpoint-span calculation totals 786{,}412 seconds
 
 The retained time-analysis subset contains 10{,}647 events in 320 logs, with 349{,}659 seconds of summed event duration (97.1 hours). This is the duration used for category shares; it is neither the full archive's endpoint span nor its interval-union duration.
 
-\subsection{Temporal data quality and inclusion rules}
+\subsection{Timestamp formats and inclusion rules}
 \label{sec:temporal}
-Unusual generated transcript timestamps and exclusion from the time analysis are separate issues. The inclusion rule is applied to extracted event endpoints: a log is excluded when its largest event endpoint exceeds one hour. The original parser recognizes three-component timestamps; the broader parsing diagnostic also recognizes two-component and mixed-format entries. This explains the different entry counts above.
+The time analysis excludes a log if any event ends more than one hour after the start of its recording. This rule uses event times, so an unusual timestamp in a generated transcript does not automatically exclude its log. It removes two logs, both from factory \textbf{001}, and keeps the other five in Table~\ref{tab:anomalies}. Keeping a log does not confirm that its timestamps are correct.
 
 \begin{table*}[!t]\begin{adjustwidth}{-\extralength}{0cm}
-\caption{Generated transcript and event endpoints for the seven generated transcripts with literal spans over one hour. All displayed timestamp strings are read as hours:minutes:seconds. The final column applies the original time-analysis rule to event endpoints. IDs abbreviate factory/worker/video. Source durations are unavailable for all rows.}
+\caption{Latest end times in seven generated transcripts and their event logs. All times are shown as hours:minutes:seconds. The transcript times exceed one hour, but a log is excluded from the time analysis only if an event end time exceeds one hour. IDs indicate factory/worker/video. Actual video durations are unknown.}
 \label{tab:anomalies}\small
 \begin{tabular}{@{}llll@{}}\toprule
 ID & Generated transcript endpoint & Event endpoint & Time-analysis decision \\\midrule
@@ -56,11 +56,11 @@ ID & Generated transcript endpoint & Event endpoint & Time-analysis decision \\\
 \bottomrule\end{tabular}
 \end{adjustwidth}\end{table*}
 
-Table~\ref{tab:anomalies} identifies all seven generated transcripts whose literal parsed endpoint exceeds one hour. An endpoint of \texttt{20:06:00} paired with an event endpoint of \texttt{00:20:06} is consistent with a format error, but does not prove which timestamp is correct. Some files switch from \texttt{HH:MM:SS} to \texttt{MM:SS}. The analysis retains the recorded timestamps.
+Table~\ref{tab:anomalies} compares the latest end times in the seven generated transcripts that exceed one hour when read as hours:minutes:seconds. For example, one transcript ends at \texttt{20:06:00}, while its event log ends at \texttt{00:20:06}. This may reflect a timestamp-format error, but the available data do not establish which time is correct. We keep the recorded timestamps without correcting or rescaling them.
 
-The original value-analysis code excludes a log only when its maximum event endpoint exceeds 3{,}600 seconds. It excludes two logs, both in factory \textbf{001}. This rule retains five logs associated with generated transcripts with unusual timestamps. Retention is a calculation rule, not certification of their timestamps.
+Timestamp formats also affect how many transcript entries can be read. The original parser accepts only \texttt{HH:MM:SS} (hours:minutes:seconds). An additional check also accepts \texttt{MM:SS} (minutes:seconds) and files that mix both formats. Four other transcripts contain \texttt{MM:SS} times: \textbf{001}/004/00001, \textbf{002}/005/00001, \textbf{002}/009/00003, and \textbf{003}/003/00003. Three mix formats; \textbf{002}/005/00001 uses \texttt{MM:SS} throughout. The original parser misses 158 entries in these files, explaining the different entry counts reported above.
 
-Four other generated transcripts contain two-component endpoints. Their identifiers are \textbf{001}/004/00001, \textbf{002}/005/00001, \textbf{002}/009/00003, and \textbf{003}/003/00003. Three change format within the file; \textbf{002}/005/00001 uses \texttt{MM:SS} throughout. The original parser misses 158 entries across these files. The inclusion manifest records every video's formats, format-transition positions, endpoints, row count, union duration, summed duration, and decision. A separate interval manifest preserves the original endpoint strings. The low coverage ratios in Section~\ref{sec:consistency} therefore diagnose inconsistent representations; they do not establish long-video truncation.
+These timestamp inconsistencies affect the coverage ratios in Section~\ref{sec:consistency}. A low ratio alone does not show that extraction missed later parts of a long video.
 
 \subsection{Synthetic time and case selection}
 \label{sec:cases}

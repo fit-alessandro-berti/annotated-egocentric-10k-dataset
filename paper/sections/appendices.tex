@@ -17,7 +17,7 @@ The assessment distinguishes properties of the released records, consistency wit
 
 \section{Reproducibility and Configuration}
 \label{app:repro}
-The offline descriptive workflow reads the frozen generated transcripts, summaries, reports, event logs, and original category map. It requires Python's standard library and no model credentials. The repository documents the dependencies, commands, and output locations. Derived outputs include a hashed artifact inventory, inclusion decisions for all 322 recordings, generated transcript intervals, structural diagnostics, factory and worker metrics, category totals, transport examples, and audit judgments. Prompt and implementation hashes identify the inputs to each calculation. Merged-log consistency is checked by reconstructing the consolidation in memory and comparing it with the released merged records.
+The offline descriptive workflow reads the frozen generated transcripts, summaries, reports, event logs, and original category map. It requires Python's standard library and no model credentials. The repository documents the dependencies, commands, and output locations. Derived outputs include inclusion decisions for all 322 recordings, generated transcript intervals, structural diagnostics, factory and worker metrics, category totals, transport examples, and audit judgments. Merged-log consistency is checked by reconstructing the consolidation in memory and comparing it with the released merged records.
 
 The activity-level discovery calculation uses the archived miner, noise threshold of 0.2, and video-as-case rule. Its saved results identify the PM4Py version used for recalculation. The historical execution environment is unavailable.
 
@@ -26,7 +26,7 @@ The activity-level discovery calculation uses the archived miner, noise threshol
 \label{tab:repro}\footnotesize
 \begin{tabularx}{\linewidth}{@{}LLL@{}}\toprule
 Paper result & Calculation and input & Preserved evidence \\\midrule
-Tables~\ref{main-tab:inventory}, \ref{main-tab:anomalies}, \ref{main-tab:corpus} & Inventory and interval checks over source texts and per-video logs & Artifact, inclusion, interval, and structural manifests \\
+Tables~\ref{main-tab:inventory}, \ref{main-tab:anomalies}, \ref{main-tab:corpus} & Inventory and interval checks over source texts and per-video logs & File counts, timestamp checks, and recording inclusion decisions \\
 Tables~\ref{main-tab:value}, \ref{main-tab:bench} and factory cases & Duration aggregation using the original process map and retained rows & Factory metrics, worker metrics, comparisons, and composition totals \\
 Figure~\ref{main-fig:composition} & Category shares from exact duration totals & Unrounded totals underlying the plotted bars \\
 Figure~\ref{main-fig:category} and Section~\ref{main-sec:zeros} & Activity-label filter over factory \textbf{003} events & 101 transport events with source references \\
@@ -39,7 +39,7 @@ Equation~\ref{main-eq:missing} & Algebra under explicitly idealized assumptions 
 \FloatBarrier
 Table~\ref{tab:extension} summarizes the assessment scope, and Table~\ref{tab:repro} links the reported results to these calculations. Regeneration of the model outputs is a separate workflow following stages \textbf{S1} to \textbf{S5}. \textbf{S1} requires the source videos and a Gemini credential; \textbf{S2} and \textbf{S3} use saved text and Gemini; \textbf{S4} uses saved text, vocabularies, and an OpenAI credential; \textbf{S5} is local. The default models are \texttt{gemini-3.1-pro-preview} and \texttt{gpt-5.4}. \textbf{S4} configures high reasoning effort and a strict JSON response schema. \textbf{S1} to \textbf{S3} do not explicitly configure temperature, a seed, or generation-token limits. Transient HTTP status codes 408, 429, 500, 502, 503, and 504 trigger retries, with up to five attempts and increasing delay. \textbf{S1} also has an outer per-video retry loop. These are implementation settings; verified execution totals are unavailable.
 
-The archive does not provide per-request model responses, usage records, exact execution dates, token counts, costs, runtimes, historical dependency versions, or a resolved historical source version. Existing outputs may be reused without a content-validity check. Consequently, changing a prompt while retaining an output does not establish that the changed prompt produced it. The preserved artifacts and hashes support reproducible analysis of the released representation despite these limits on exact regeneration.
+The archive does not provide per-request model responses, usage records, exact execution dates, token counts, costs, runtimes, historical dependency versions, or a resolved historical source version. Existing outputs may be reused without a content-validity check. Consequently, changing a prompt while retaining an output does not establish that the changed prompt produced it. The preserved artifacts support reproducible analysis of the released representation despite these limits on exact regeneration.
 
 \section{Activity-Level Discovery Recalculation}
 \label{app:discovery}
