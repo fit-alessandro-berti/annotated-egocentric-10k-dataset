@@ -54,17 +54,6 @@ for each selected factory f:
 \end{adjustwidth}\end{figure*}
 
 \begin{table*}[!t]\begin{adjustwidth}{-\extralength}{0cm}
-\caption{Four levels of evidence for pipeline properties.}\label{tab:guarantees}\footnotesize
-\begin{tabularx}{\linewidth}{@{}p{0.20\linewidth}LL@{}}\toprule
-Level & Example & What can be concluded \\\midrule
-Prompt instruction & Mark uncertainty; include handling and waiting when visible; split meaningful changes & The behavior is requested. Compliance and completeness require separate assessment. \\
-Software constraint & Parse event fields; canonicalize permitted labels; reject negative intervals; sort rows & Accepted outputs satisfy these checks. Semantic correctness and accurate time remain open. \\
-Observed artifact property & All 10{,}698 rows have required values and permitted labels; 35 adjacent overlaps are detected & These statements hold for this release. They are not promises about future runs. \\
-Untested design expectation & Summaries help vocabulary consistency; closed labels help interpretation & These are rationales. No ablation or comparative benefit estimate is available. \\
-\bottomrule\end{tabularx}
-\end{adjustwidth}\end{table*}
-
-\begin{table*}[!t]\begin{adjustwidth}{-\extralength}{0cm}
 \caption{Supervision and human input in this study. Unlike labeled threshold calibration in Kecht et al.~\cite{kecht2021conversations} or parameter adaptation in SnapLog and Seeth et al.~\cite{pegoraro2026snaplog,seeth2026finetuned}, generation here adapts through prompts and induced context.}
 \label{tab:supervision}\footnotesize
 \begin{tabularx}{\linewidth}{@{}>{\raggedright\arraybackslash}p{0.26\linewidth}L@{}}\toprule
@@ -115,7 +104,7 @@ The \textbf{S4} event-extraction prompt (Listing~\ref{lst:prompt-s4}) requests a
 \label{sec:guarantees}
 \label{sec:supervision}
 
-Table~\ref{tab:guarantees} distinguishes requested, enforced, observed, and untested properties. ``Automated extraction'' means that generation uses no task-specific fine-tuning or labeled event examples. It does not mean that the complete study is free of human judgment. Table~\ref{tab:supervision} identifies the different inputs. ``Constrained'' refers to the separate permitted label lists. ``Validated'' is used only with a named check, never as a general claim of visual accuracy.
+``Automated extraction'' means that generation uses no task-specific fine-tuning or labeled event examples. It does not mean that the complete study is free of human judgment. Table~\ref{tab:supervision} identifies the different inputs. ``Constrained'' refers to the separate permitted label lists. ``Validated'' is used only with a named check, never as a general claim of visual accuracy.
 
 \subsection{Design choices and tradeoffs}
 Table~\ref{tab:tradeoffs} summarizes the design choices and alternatives. Repeated cycles deserve particular care. If ten cycles become one narrated interval and one event, the event count decreases and the directly-follows relation loses nine possible repetitions. A longer event can represent more repetitions, slower work, or more aggressive compression. The logs alone do not distinguish these explanations. The text interface makes this decision inspectable, but does not recover details omitted from the generated transcript.
