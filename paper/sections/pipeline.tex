@@ -8,6 +8,8 @@ Adaptation takes place in the context and vocabulary, while the foundation-model
 \label{sec:abstraction}
 Event abstraction concerns the level at which observations represent process behavior~\cite{vanZelst2021abstraction}. Table~\ref{tab:abstraction} separates three decisions in our implementation. Constructing a reusable class and assigning an event to it are different tasks: a missing concept and a mistaken assignment require different checks. The process list supplies a second label dimension, with no enforced parent-child relation to the activity list.
 
+% Queue Table 7 for the top of page 9.
+\begin{nextpagetopfloat}
 \begin{table*}[!t]\begin{adjustwidth}{-\extralength}{0cm}
 \caption{Stage specification from scripts 01 to 05. A nonempty text output is not a validation of its factual content.}
 \label{tab:stages}\footnotesize
@@ -20,11 +22,12 @@ Stage; unit & Inputs and context & Output & Failure and reuse behavior \\\midrul
 \textbf{S5}; worker, then factory & CSVs in sorted filename order & Worker and factory CSVs & Checks timestamp columns and consistent headers; empty files add no time; keeps existing output if its schema matches \\
 \bottomrule\end{tabularx}
 \end{adjustwidth}\end{table*}
+\end{nextpagetopfloat}
 
 \subsection{Execution units and failure behavior}
-Table~\ref{tab:stages} states the input, output, and failure behavior for each execution unit. The algorithm below gives their dependency order. Listings~\ref{lst:prompt-s1} to~\ref{lst:prompt-s4} reproduce the four full prompt templates, with punctuation normalized for display. The original templates and their hashes remain in the resource. Placeholder braces are filled by the scripts; the additional context is specified in Table~\ref{tab:stages}. The prompts specify requested model behavior, not guaranteed output properties.
+Table~\ref{tab:stages} states the input, output, and failure behavior for each execution unit. Listing~\ref{alg:pipeline} gives their dependency order. Listings~\ref{lst:prompt-s1} to~\ref{lst:prompt-s4} reproduce the four full prompt templates, with punctuation normalized for display. The original templates and their hashes remain in the resource. Placeholder braces are filled by the scripts; the additional context is specified in Table~\ref{tab:stages}. The prompts specify requested model behavior, not guaranteed output properties.
 
-\begin{lstlisting}[emph={S1,S2,S3,S4,S5},emphstyle=\fontfamily{pcr}\bfseries,float=!t,caption={Algorithm 1: implemented dependency order. API retries surround requests; this pseudocode does not add windowing or new validation.},label={alg:pipeline}]
+\begin{lstlisting}[emph={S1,S2,S3,S4,S5},emphstyle=\fontfamily{pcr}\bfseries,float=!b,caption={Algorithm 1: implemented dependency order. API retries surround requests; this pseudocode does not add windowing or new validation.},label={alg:pipeline}]
 for each selected factory f:
     for each available video v:
         T[v] = reuse existing transcript or S1(video[v], prompt1)
