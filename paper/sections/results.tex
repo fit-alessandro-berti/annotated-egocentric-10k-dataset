@@ -59,6 +59,7 @@ This example shows how a description of several actions becomes two labeled even
 
 Event extraction in \textbf{S4} creates two intervals within that 31-second generated transcript entry: \emph{pack casting sand into mold frame}, from 00:04:05 to 00:04:24, and \emph{level powder surface with wooden scraper}, from 00:04:24 to 00:04:36. Both have process \emph{Sand mold creation}. Figure~\ref{fig:worked} shows what is retained and added. The internal boundary at 00:04:24 is inferred; \textbf{S1} does not timestamp that transition separately. The events compress placement, pouring, and joint hand-packing into the first activity and add shared labels and a process context.
 
+\noindent\begin{minipage}{\linewidth}
 \begin{lstlisting}[caption={Illustrative JSON reconstructed from CSV data row 18. It is not an archived model response.},label={lst:reconstructed}]
 {"events": [{
   "estimated_start_time": "00:04:24",
@@ -67,6 +68,7 @@ Event extraction in \textbf{S4} creates two intervals within that 31-second gene
   "process": "Sand mold creation"
 }]}
 \end{lstlisting}
+\end{minipage}
 
 The linked generated transcript, worker summary, factory report, and event log preserve the successive representations of this recording. \textbf{S5} retains the recording identifier and local offsets alongside shifted timestamps. Audit event 41 judges the leveling event fully supported by its generated transcript. This supports the label's textual basis, not the exact internal split or a video-based duration measurement.
 
